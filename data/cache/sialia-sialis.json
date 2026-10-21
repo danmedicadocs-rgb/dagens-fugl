@@ -1,0 +1,202 @@
+{
+ "key": "sialia-sialis",
+ "name": "Sialia sialis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:41:11.258Z",
+ "names": {
+  "da": "Østlig Sialia",
+  "en": null,
+  "accepted": "Sialia sialis"
+ },
+ "wikidata": {
+  "id": "Q600880"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eastern bluebird",
+  "extract": "The eastern bluebird is a small North American migratory thrush found in open woodlands, farmlands, and orchards.",
+  "url": "https://en.wikipedia.org/wiki/Eastern_bluebird"
+ },
+ "inat": {
+  "id": 12942,
+  "observations": 158143
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 181193021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/large.jpeg",
+    "attribution": "(c) Chelsea Carroll, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107700686",
+    "place": "2994 Lake Rd, Benson, VT 05743, USA",
+    "date": "2022-03-01"
+   },
+   {
+    "id": 69785844,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69785844/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/69785844/large.jpeg",
+    "attribution": "(c) laalv1, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44011233",
+    "place": "Forsyth County, GA, USA",
+    "date": "2020-04-27"
+   },
+   {
+    "id": 458714601,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458714601/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458714601/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/255916177",
+    "place": "Whitefield, ME 04353, USA",
+    "date": "2024-12-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 468832559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468832559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468832559/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261008412",
+    "place": "Bucks County, PA, USA",
+    "date": "2024-11-04"
+   },
+   {
+    "id": 362742770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362742770/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362742770/large.jpeg",
+    "attribution": "(c) gpete, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/205172908",
+    "place": "Brevard.FoxLake.Florida",
+    "date": "2024-04-01"
+   },
+   {
+    "id": 600135923,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600135923/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600135923/large.jpg",
+    "attribution": "(c) froggymum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330803551",
+    "place": "Clarksville",
+    "date": "2025-12-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 289785650,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289785650/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289785650/large.jpeg",
+    "attribution": "(c) Blake Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167289489",
+    "place": "Titusville, NB E5N 3T5, Canada",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 288314052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288314052/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288314052/large.jpg",
+    "attribution": "(c) Blake Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/166499498",
+    "place": "Kings County, NB, Canada",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 486004457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/486004457/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/486004457/large.jpeg",
+    "attribution": "(c) Linda Jo Conn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/270255488",
+    "place": " 5365 CR 326, Lexington, Lee County, TX, USA",
+    "date": "2025-04-12"
+   }
+  ],
+  "hero": {
+   "id": 181193021,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181193021/large.jpeg",
+   "attribution": "(c) Chelsea Carroll, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/107700686",
+   "place": "2994 Lake Rd, Benson, VT 05743, USA",
+   "date": "2022-03-01"
+  }
+ },
+ "gbif": {
+  "key": 2490941,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 8093411,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 7823942
+   },
+   {
+    "code": "CA",
+    "count": 224350
+   },
+   {
+    "code": "MX",
+    "count": 16521
+   },
+   {
+    "code": "GT",
+    "count": 11346
+   },
+   {
+    "code": "BM",
+    "count": 9634
+   },
+   {
+    "code": "HN",
+    "count": 5204
+   },
+   {
+    "code": "NI",
+    "count": 1179
+   },
+   {
+    "code": "SV",
+    "count": 471
+   },
+   {
+    "code": "BS",
+    "count": 45
+   },
+   {
+    "code": "ZZ",
+    "count": 32
+   },
+   {
+    "code": "BZ",
+    "count": 17
+   },
+   {
+    "code": "CU",
+    "count": 7
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,186 @@
+{
+ "key": "chiroxiphia-caudata",
+ "name": "Chiroxiphia caudata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:53:08.925Z",
+ "names": {
+  "da": "Svalehalemanakin",
+  "en": "Blue Manakin",
+  "accepted": "Chiroxiphia caudata"
+ },
+ "wikidata": {
+  "id": "Q882444"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blue manakin",
+  "extract": "The blue manakin or swallow-tailed manakin is a small species of bird in the family Pipridae. It is found mainly in the Atlantic Forest of south-eastern Brazil, eastern Paraguay and far north-eastern Argentina. Its typical habitat is wet lowland or montane forest and heavily degraded former forest. Males have a bright blue body, black head wings and tail and a red crown. Females and juveniles are olive-green. At breeding time, males are involved in lekking behaviour when they sing and dance to impress females. This is a common species with a wide range, and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "url": "https://en.wikipedia.org/wiki/Blue_manakin"
+ },
+ "inat": {
+  "id": 14306,
+  "observations": 2441
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 339617446,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339617446/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339617446/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/193337179",
+    "place": "Santo Tomé, Corrientes, Argentina",
+    "date": "2021-12-30"
+   },
+   {
+    "id": 2025503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2025503/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2025503/large.jpg",
+    "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/1650992",
+    "place": "Parque provincial Piñalito, Misiones",
+    "date": "2012-08-19"
+   },
+   {
+    "id": 353658966,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353658966/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353658966/large.jpg",
+    "attribution": "(c) Leonardo Breder Passalacqua, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200451063",
+    "place": "Florianópolis, SC, Brasil",
+    "date": "2024-02-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 311986444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311986444/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311986444/large.jpeg",
+    "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/179238201",
+    "place": "Itatiaia - State of Rio de Janeiro, Brazil",
+    "date": "2023-07-19"
+   },
+   {
+    "id": 262884846,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262884846/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262884846/large.jpeg",
+    "attribution": "(c) Bruno Henrique Aranda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/152295033",
+    "place": "Pedro de Toledo - SP, 11790-000, Brasil",
+    "date": "2023-03-25"
+   },
+   {
+    "id": 268482704,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/268482704/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/268482704/large.jpeg",
+    "attribution": "(c) André Ambrozio, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/155327784",
+    "place": "Pedreiras, Navegantes - SC, 88375-000, Brasil",
+    "date": "2023-04-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 610817185,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610817185/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610817185/large.jpg",
+    "attribution": "(c) Jonathan Lorencetti Ehlert, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/336159348",
+    "place": "Ibirama - SC, 89140-000, Brasil",
+    "date": "2026-01-20"
+   },
+   {
+    "id": 406925844,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406925844/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/406925844/large.jpeg",
+    "attribution": "(c) Jonathan Lorencetti Ehlert, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/229258789",
+    "place": "Ibirama - SC, 89140-000, Brasil",
+    "date": "2024-06-06"
+   },
+   {
+    "id": 312981985,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312981985/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312981985/large.jpeg",
+    "attribution": "(c) Alex S. Rosa, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/179749529",
+    "place": "Recanto Araucária, Campos do Jordão - SP, 12460-000, Brasil",
+    "date": "2017-08-20"
+   }
+  ],
+  "hero": {
+   "id": 339617446,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339617446/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339617446/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/193337179",
+   "place": "Santo Tomé, Corrientes, Argentina",
+   "date": "2021-12-30"
+  }
+ },
+ "gbif": {
+  "key": 2487775,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 88567,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 76910
+   },
+   {
+    "code": "AR",
+    "count": 9139
+   },
+   {
+    "code": "PY",
+    "count": 2395
+   },
+   {
+    "code": "DE",
+    "count": 5
+   },
+   {
+    "code": "ZZ",
+    "count": 5
+   },
+   {
+    "code": "GR",
+    "count": 3
+   },
+   {
+    "code": "CO",
+    "count": 2
+   },
+   {
+    "code": "GF",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

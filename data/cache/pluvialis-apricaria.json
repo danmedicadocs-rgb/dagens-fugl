@@ -1,0 +1,151 @@
+{
+ "key": "pluvialis-apricaria",
+ "name": "Pluvialis apricaria",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:04:53.897Z",
+ "names": {
+  "da": "Hjejle",
+  "en": "European Golden Plover",
+  "accepted": "Pluvialis apricaria"
+ },
+ "wikidata": {
+  "id": "Q21148"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hjejle",
+  "extract": "Hjejlen eller Hedehjejlen er en 27 cm stor vadefugl med rundt hoved, lille næb og kort hals, som typisk kan kendes på sine hvide \"armhuler\" i flugten. I Danmark var den tidligere vidt udbredt på hederne, men nu er der næsten ingen tilbage. Den er regnet som kritisk truet på den danske rødliste 2019.",
+  "url": "https://da.wikipedia.org/wiki/Hjejle"
+ },
+ "inat": {
+  "id": 4889,
+  "observations": 10291
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 149490,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/large.jpg",
+    "attribution": "(c) Kirill Ignatyev, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/103728",
+    "place": "Vålåsjø, Oppland Fylke, Norway",
+    "date": "2012-07-04"
+   },
+   {
+    "id": 658972035,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658972035/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658972035/large.jpg",
+    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/361094402",
+    "place": "Атнинский р-н, Респ. Татарстан, Россия",
+    "date": "2026-05-12"
+   },
+   {
+    "id": 113973681,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113973681/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113973681/large.jpeg",
+    "attribution": "(c) Gazza, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70143828",
+    "place": "North Yorkshire, England, GB",
+    "date": "2021-02-25"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 148325469,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148325469/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148325469/large.jpeg",
+    "attribution": "(c) Eva Uzdilova, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89795942",
+    "place": "Nahořany, Česko",
+    "date": "2020-07-22"
+   }
+  ],
+  "hero": {
+   "id": 149490,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/large.jpg",
+   "attribution": "(c) Kirill Ignatyev, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/103728",
+   "place": "Vålåsjø, Oppland Fylke, Norway",
+   "date": "2012-07-04"
+  }
+ },
+ "gbif": {
+  "key": 2480332,
+  "dkTotal": 191531,
+  "dkMonths": [
+   3437,
+   4531,
+   11652,
+   19120,
+   9753,
+   1376,
+   14300,
+   41829,
+   33178,
+   32717,
+   14928,
+   4603
+  ],
+  "worldTotal": 1084760,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 310114
+   },
+   {
+    "code": "DK",
+    "count": 191531
+   },
+   {
+    "code": "NO",
+    "count": 145538
+   },
+   {
+    "code": "GB",
+    "count": 122143
+   },
+   {
+    "code": "NL",
+    "count": 89169
+   },
+   {
+    "code": "FR",
+    "count": 49805
+   },
+   {
+    "code": "IS",
+    "count": 34487
+   },
+   {
+    "code": "ES",
+    "count": 29443
+   },
+   {
+    "code": "FI",
+    "count": 20272
+   },
+   {
+    "code": "BE",
+    "count": 19395
+   },
+   {
+    "code": "DE",
+    "count": 12163
+   },
+   {
+    "code": "EE",
+    "count": 11222
+   }
+  ]
+ },
+ "warnings": []
+}

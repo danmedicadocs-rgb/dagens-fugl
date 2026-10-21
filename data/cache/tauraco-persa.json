@@ -1,0 +1,142 @@
+{
+ "key": "tauraco-persa",
+ "name": "Tauraco persa",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:26.235Z",
+ "names": {
+  "da": "Grøntoppet Turako",
+  "en": "Guinea Turaco",
+  "accepted": "Tauraco persa"
+ },
+ "wikidata": {
+  "id": "Q641880"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Grøntoppet turako",
+  "extract": "Grøntoppet turako er en turakoart. Grøntoppet turako lever i skovene i Vest- og Centralafrika. Området strækker fra Senegal til DR Congo og i syd til det nordlige Angola. IUCN kategoriserer arten som ikke truet.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%B8ntoppet_turako"
+ },
+ "inat": {
+  "id": 7200,
+  "observations": 334
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [
+   {
+    "id": 620248644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620248644/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620248644/large.jpg",
+    "attribution": "(c) Antoine Thivolle, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340809439",
+    "place": "Twifo Hemang Lower Denkyira, Ghana",
+    "date": "2025-02-12"
+   },
+   {
+    "id": 656285810,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656285810/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656285810/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/359689325",
+    "place": "Koupé-Manengouba, Cameroon",
+    "date": "2026-03-28"
+   },
+   {
+    "id": 260567004,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260567004/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260567004/large.jpeg",
+    "attribution": "(c) Daniel S. Katz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151050465",
+    "place": "Abuko Nature Reserve, Serrekunda, The Gambia",
+    "date": "2023-02-20"
+   }
+  ],
+  "hero": {
+   "id": 620248644,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620248644/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620248644/large.jpg",
+   "attribution": "(c) Antoine Thivolle, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/340809439",
+   "place": "Twifo Hemang Lower Denkyira, Ghana",
+   "date": "2025-02-12"
+  }
+ },
+ "gbif": {
+  "key": 2475243,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 7769,
+  "topCountries": [
+   {
+    "code": "GH",
+    "count": 1993
+   },
+   {
+    "code": "NG",
+    "count": 1668
+   },
+   {
+    "code": "GM",
+    "count": 1536
+   },
+   {
+    "code": "CM",
+    "count": 373
+   },
+   {
+    "code": "GN",
+    "count": 244
+   },
+   {
+    "code": "GW",
+    "count": 243
+   },
+   {
+    "code": "LR",
+    "count": 209
+   },
+   {
+    "code": "SN",
+    "count": 209
+   },
+   {
+    "code": "GA",
+    "count": 208
+   },
+   {
+    "code": "CI",
+    "count": 174
+   },
+   {
+    "code": "CG",
+    "count": 158
+   },
+   {
+    "code": "AO",
+    "count": 145
+   }
+  ]
+ },
+ "warnings": []
+}

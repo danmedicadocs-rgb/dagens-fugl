@@ -1,0 +1,171 @@
+{
+ "key": "buceros-bicornis",
+ "name": "Buceros bicornis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:17.390Z",
+ "names": {
+  "da": "Stor Næsehornsfugl",
+  "en": "Great Hornbill",
+  "accepted": "Buceros bicornis"
+ },
+ "wikidata": {
+  "id": "Q232768"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Great hornbill",
+  "extract": "The great hornbill, also known as the concave-casqued hornbill, great Indian hornbill or great pied hornbill, is one of the larger members of the hornbill family. It occurs in the Indian subcontinent and Southeast Asia. It is predominantly frugivorous, but also preys on small mammals, reptiles, and birds. It has been listed as Vulnerable on the IUCN Red List since 2018. It is known to have lived for nearly 50 years in captivity. Due to its large size and colour, and importance in many tribal cultures and rituals, the Government of Kerala declared it as the official Kerala state bird. It is also the state bird of Arunachal Pradesh.",
+  "url": "https://en.wikipedia.org/wiki/Great_hornbill"
+ },
+ "inat": {
+  "id": 5536,
+  "observations": 2639
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 53262017,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53262017/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53262017/large.jpg",
+    "attribution": "(c) Divya Mudappa, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/33880798",
+    "place": "Tamil Nadu, IN",
+    "date": "2019-10-05"
+   },
+   {
+    "id": 128362707,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128362707/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128362707/large.jpg",
+    "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78434989",
+    "place": "Assam, IN",
+    "date": "2021-04-06"
+   },
+   {
+    "id": 175533332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175533332/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175533332/large.jpg",
+    "attribution": "(c) Jay Pruett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104720435",
+    "place": "Assam, IN",
+    "date": "2020-03-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 226596922,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226596922/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226596922/large.jpeg",
+    "attribution": "(c) Rohit, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/133063314",
+    "place": "Darjiling, IN-WB, IN",
+    "date": "2021-11-06"
+   },
+   {
+    "id": 128357159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128357159/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128357159/large.jpg",
+    "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78433382",
+    "place": "Assam, IN",
+    "date": "2021-04-05"
+   },
+   {
+    "id": 600441767,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600441767/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600441767/large.jpg",
+    "attribution": "(c) Mark Clarke, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331045367",
+    "place": null,
+    "date": "2025-12-08"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 53262017,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53262017/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53262017/large.jpg",
+   "attribution": "(c) Divya Mudappa, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/33880798",
+   "place": "Tamil Nadu, IN",
+   "date": "2019-10-05"
+  }
+ },
+ "gbif": {
+  "key": 2476012,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 32015,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 12997
+   },
+   {
+    "code": "TH",
+    "count": 11366
+   },
+   {
+    "code": "BT",
+    "count": 2185
+   },
+   {
+    "code": "MY",
+    "count": 1873
+   },
+   {
+    "code": "KH",
+    "count": 1466
+   },
+   {
+    "code": "NP",
+    "count": 600
+   },
+   {
+    "code": "VN",
+    "count": 556
+   },
+   {
+    "code": "CN",
+    "count": 291
+   },
+   {
+    "code": "MM",
+    "count": 246
+   },
+   {
+    "code": "ID",
+    "count": 143
+   },
+   {
+    "code": "DE",
+    "count": 37
+   },
+   {
+    "code": "SG",
+    "count": 35
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,141 @@
+{
+ "key": "anthus-cervinus",
+ "name": "Anthus cervinus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:23:06.917Z",
+ "names": {
+  "da": "Rødstrubet piber",
+  "en": "Red-throated Pipit",
+  "accepted": "Anthus cervinus"
+ },
+ "wikidata": {
+  "id": "Q241347"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rødstrubet piber",
+  "extract": "Rødstrubet piber er en 14 centimeter stor spurvefugl, der lever i fjeld- og tundraområder fra det nordligste Norge og Sverige og videre østover gennem Rusland til Alaska.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8dstrubet_piber"
+ },
+ "inat": {
+  "id": 13721,
+  "observations": 5452
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 506370966,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506370966/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506370966/large.jpg",
+    "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281871660",
+    "place": "Περιφέρεια Πελοποννήσου, Ελλάδα",
+    "date": "2025-04-15"
+   },
+   {
+    "id": 506379716,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506379716/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506379716/large.jpg",
+    "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281876691",
+    "place": "Περιφέρεια Πελοποννήσου, Ελλάδα",
+    "date": "2025-04-15"
+   },
+   {
+    "id": 574741888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/574741888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/574741888/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/318030937",
+    "place": "Западный административный округ, Москва, Россия",
+    "date": "2025-09-28"
+   }
+  ],
+  "hero": {
+   "id": 506370966,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506370966/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506370966/large.jpg",
+   "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/281871660",
+   "place": "Περιφέρεια Πελοποννήσου, Ελλάδα",
+   "date": "2025-04-15"
+  }
+ },
+ "gbif": {
+  "key": 2490283,
+  "dkTotal": 1836,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   5,
+   373,
+   17,
+   0,
+   37,
+   1071,
+   326,
+   5,
+   0
+  ],
+  "worldTotal": 177826,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 44215
+   },
+   {
+    "code": "IL",
+    "count": 22602
+   },
+   {
+    "code": "TW",
+    "count": 21747
+   },
+   {
+    "code": "NO",
+    "count": 10148
+   },
+   {
+    "code": "RU",
+    "count": 5331
+   },
+   {
+    "code": "US",
+    "count": 5168
+   },
+   {
+    "code": "AE",
+    "count": 5058
+   },
+   {
+    "code": "TH",
+    "count": 4139
+   },
+   {
+    "code": "FI",
+    "count": 3967
+   },
+   {
+    "code": "HK",
+    "count": 3894
+   },
+   {
+    "code": "CN",
+    "count": 3635
+   },
+   {
+    "code": "NL",
+    "count": 3308
+   }
+  ]
+ },
+ "warnings": []
+}

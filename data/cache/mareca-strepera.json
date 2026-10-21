@@ -1,0 +1,202 @@
+{
+ "key": "mareca-strepera",
+ "name": "Mareca strepera",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:56:07.556Z",
+ "names": {
+  "da": "Knarand",
+  "en": "Gadwall",
+  "accepted": "Mareca strepera"
+ },
+ "wikidata": {
+  "id": "Q28106966"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Knarand",
+  "extract": "Knarand er en andeart i Danmark, der desuden findes mange steder i det øvrige Europa samt i det vestlige Nordamerika.",
+  "url": "https://da.wikipedia.org/wiki/Knarand"
+ },
+ "inat": {
+  "id": 558439,
+  "observations": 123444
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 181992821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181992821/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181992821/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/108127741",
+    "place": "Newport, UK",
+    "date": "2022-03-07"
+   },
+   {
+    "id": 506309346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506309346/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506309346/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/281837061",
+    "place": "Huntington Beach, CA, USA",
+    "date": "2025-04-12"
+   },
+   {
+    "id": 74043935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74043935/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74043935/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/46684982",
+    "place": "East End, St. John's, NL, Canada",
+    "date": "2020-05-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 195318686,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195318686/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195318686/large.jpeg",
+    "attribution": "(c) Claire Moxon-Waltz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/115725461",
+    "place": "Sackville, NB, Canada",
+    "date": "2022-05-03"
+   },
+   {
+    "id": 514881536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514881536/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514881536/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/286417114",
+    "place": "San Joaquin Marsh, Irvine, CA 92612, USA",
+    "date": "2024-01-03"
+   },
+   {
+    "id": 593618582,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618582/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618582/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327644138",
+    "place": "77450 Trilbardou, France",
+    "date": "2025-11-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 239285570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239285570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239285570/large.jpg",
+    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/139852664",
+    "place": "Муринский парк, Санкт-Петербург, Россия",
+    "date": "2022-07-04"
+   },
+   {
+    "id": 684517674,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684517674/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684517674/large.jpg",
+    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/374496691",
+    "place": "Yolo County, CA, USA",
+    "date": "2026-06-20"
+   },
+   {
+    "id": 151097746,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151097746/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151097746/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/91358760",
+    "place": "Pescadero Marsh Natural Preserve, San Mateo, California, United States",
+    "date": "2021-08-06"
+   }
+  ],
+  "hero": {
+   "id": 181992821,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181992821/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181992821/large.jpeg",
+   "attribution": "(c) Phil James, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/108127741",
+   "place": "Newport, UK",
+   "date": "2022-03-07"
+  }
+ },
+ "gbif": {
+  "key": 9362027,
+  "dkTotal": 217574,
+  "dkMonths": [
+   12860,
+   11276,
+   27351,
+   39404,
+   34226,
+   16816,
+   8877,
+   13191,
+   16046,
+   15213,
+   12782,
+   9513
+  ],
+  "worldTotal": 6996674,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 3471544
+   },
+   {
+    "code": "NL",
+    "count": 781743
+   },
+   {
+    "code": "CA",
+    "count": 599943
+   },
+   {
+    "code": "SE",
+    "count": 480375
+   },
+   {
+    "code": "GB",
+    "count": 394176
+   },
+   {
+    "code": "DK",
+    "count": 217574
+   },
+   {
+    "code": "BE",
+    "count": 216986
+   },
+   {
+    "code": "ES",
+    "count": 165434
+   },
+   {
+    "code": "FR",
+    "count": 137717
+   },
+   {
+    "code": "DE",
+    "count": 116863
+   },
+   {
+    "code": "IN",
+    "count": 63747
+   },
+   {
+    "code": "PT",
+    "count": 36285
+   }
+  ]
+ },
+ "warnings": []
+}

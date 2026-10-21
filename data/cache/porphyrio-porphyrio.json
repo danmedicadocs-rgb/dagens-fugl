@@ -1,0 +1,172 @@
+{
+ "key": "porphyrio-porphyrio",
+ "name": "Porphyrio porphyrio",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:18.316Z",
+ "names": {
+  "da": "Sultanhøne",
+  "en": "Western Swamphen",
+  "accepted": "Porphyrio porphyrio"
+ },
+ "wikidata": {
+  "id": "Q187902"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Western swamphen",
+  "extract": "The western swamphen is a species of swamphen in the rail family Rallidae, one of the six species of purple swamphen. This chicken-sized bird, with its large feet, bright plumage and red bill and frontal shield is easily recognisable in its native range. It used to be considered the nominate subspecies of the purple swamphen, but is now recognised as a separate species. The western swamphen is found in wetlands in Spain, Portugal, southeastern France, Italy and northwestern Africa.",
+  "url": "https://en.wikipedia.org/wiki/Western_swamphen"
+ },
+ "inat": {
+  "id": 475028,
+  "observations": 3917
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 536253444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536253444/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536253444/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297749225",
+    "place": "Ciudad Real, España",
+    "date": "2025-07-13"
+   },
+   {
+    "id": 161577843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161577843/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161577843/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/97186256",
+    "place": "Balearic Islands, Spain",
+    "date": "2021-10-03"
+   },
+   {
+    "id": 536253339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536253339/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536253339/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297749219",
+    "place": "Ciudad Real, España",
+    "date": "2025-07-13"
+   }
+  ],
+  "adult": [
+   {
+    "id": 597461751,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/329586128",
+    "place": "Minsmere RSPB",
+    "date": "2016-08-03"
+   },
+   {
+    "id": 262252416,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262252416/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262252416/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/151948370",
+    "place": "Sevilla, ES-AN, ES",
+    "date": "2023-03-22"
+   },
+   {
+    "id": 338988506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338988506/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338988506/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/193022031",
+    "place": "Loulé, Portugal",
+    "date": "2023-11-13"
+   }
+  ],
+  "hero": {
+   "id": 597461751,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/large.jpg",
+   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/329586128",
+   "place": "Minsmere RSPB",
+   "date": "2016-08-03"
+  }
+ },
+ "gbif": {
+  "key": 2474416,
+  "dkTotal": 10,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   2,
+   0,
+   0,
+   0,
+   2,
+   1
+  ],
+  "worldTotal": 803221,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 256686
+   },
+   {
+    "code": "IN",
+    "count": 244215
+   },
+   {
+    "code": "ES",
+    "count": 91608
+   },
+   {
+    "code": "US",
+    "count": 57208
+   },
+   {
+    "code": "ZA",
+    "count": 49863
+   },
+   {
+    "code": "FR",
+    "count": 17256
+   },
+   {
+    "code": "PT",
+    "count": 16312
+   },
+   {
+    "code": "LK",
+    "count": 14058
+   },
+   {
+    "code": "TH",
+    "count": 10732
+   },
+   {
+    "code": "NL",
+    "count": 4957
+   },
+   {
+    "code": "KH",
+    "count": 2354
+   },
+   {
+    "code": "AE",
+    "count": 2349
+   }
+  ]
+ },
+ "warnings": []
+}

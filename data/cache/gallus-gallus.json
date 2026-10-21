@@ -1,0 +1,202 @@
+{
+ "key": "gallus-gallus",
+ "name": "Gallus gallus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:27.740Z",
+ "names": {
+  "da": "Røde junglehøns",
+  "en": "Red Junglefowl",
+  "accepted": "Gallus gallus"
+ },
+ "wikidata": {
+  "id": "Q184774"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Bankivahøne",
+  "extract": "Bankivahøne, også kaldet rød junglehøne, anses sammen med den grå junglehøne at være stamformen til de moderne tamhøns. Den røde junglehøne blev domesticeret for flere tusinde år siden i Asien. Den findes vildt i Indien, Kina, Indonesien og Malaysia og på Filippinerne.",
+  "url": "https://da.wikipedia.org/wiki/Bankivah%C3%B8ne"
+ },
+ "inat": {
+  "id": 882,
+  "observations": 81007
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 43973343,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43973343/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43973343/large.jpeg",
+    "attribution": "(c) Jacqui Geux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/28218410",
+    "place": "Nihotupu, Auckland 0604, New Zealand",
+    "date": "2016-05-26"
+   },
+   {
+    "id": 111522587,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111522587/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111522587/large.jpg",
+    "attribution": "(c) John Powers, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68816299",
+    "place": "Gunnison County, CO, USA",
+    "date": "2019-07-05"
+   },
+   {
+    "id": 3784873,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/large.jpg",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/3273189",
+    "place": "Kaeng Krachan, Lung Sing ",
+    "date": "2016-02-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 309572732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309572732/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309572732/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/177951886",
+    "place": "Domain Rd, Glenfield, Auckland, NZ",
+    "date": "2023-08-12"
+   },
+   {
+    "id": 686343113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686343113/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686343113/large.jpg",
+    "attribution": "(c) Doreen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375434812",
+    "place": "Chinatown, Singapore",
+    "date": "2026-03-30"
+   },
+   {
+    "id": 614435339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614435339/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614435339/large.jpg",
+    "attribution": "(c) Gerard Chartier, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337932865",
+    "place": "Thma Bang, KH, KK",
+    "date": "2025-12-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 117887965,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117887965/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117887965/large.jpeg",
+    "attribution": "(c) Rachel Stringham, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72319326",
+    "place": "Maui County, HI, USA",
+    "date": "2021-03-09"
+   },
+   {
+    "id": 668999281,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668999281/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668999281/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/366381363",
+    "place": "Waco, KY 40385, USA",
+    "date": "2026-05-25"
+   },
+   {
+    "id": 162751256,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162751256/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162751256/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/97822160",
+    "place": "Artemisa Province, CU",
+    "date": "2018-11-18"
+   }
+  ],
+  "hero": {
+   "id": 3784873,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/large.jpg",
+   "attribution": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/3784873",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9326020,
+  "dkTotal": 474,
+  "dkMonths": [
+   3,
+   1,
+   3,
+   5,
+   17,
+   10,
+   18,
+   62,
+   77,
+   2,
+   93,
+   3
+  ],
+  "worldTotal": 300111,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 84146
+   },
+   {
+    "code": "IN",
+    "count": 60257
+   },
+   {
+    "code": "SG",
+    "count": 31132
+   },
+   {
+    "code": "TH",
+    "count": 21385
+   },
+   {
+    "code": "CO",
+    "count": 17987
+   },
+   {
+    "code": "PR",
+    "count": 8331
+   },
+   {
+    "code": "MY",
+    "count": 6417
+   },
+   {
+    "code": "PH",
+    "count": 5686
+   },
+   {
+    "code": "VN",
+    "count": 3524
+   },
+   {
+    "code": "NP",
+    "count": 3518
+   },
+   {
+    "code": "KH",
+    "count": 3014
+   },
+   {
+    "code": "ID",
+    "count": 2979
+   }
+  ]
+ },
+ "warnings": []
+}

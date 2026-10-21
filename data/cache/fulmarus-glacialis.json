@@ -1,0 +1,172 @@
+{
+ "key": "fulmarus-glacialis",
+ "name": "Fulmarus glacialis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:59:14.391Z",
+ "names": {
+  "da": "Mallemuk",
+  "en": "Northern Fulmar",
+  "accepted": "Fulmarus glacialis"
+ },
+ "wikidata": {
+  "id": "Q26896"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Mallemuk",
+  "extract": "Mallemukken er en stormfugl, der er udbredt langs arktiske og tempererede kyster, især ved Island, Færøerne og de Britiske Øer. Fuglen bliver 43-52cm lang og vejer 700-850 g. Dens vingefang er 101-117 cm lang og den lever 20-40 år. I Danmark er den en regelmæssig træk- og sommergæst ved kysterne. Siden 1998 har der flere gange været yngleforsøg ved Bulbjerg nær Hanstholm – med succes i 2000. Mallemukken kan blive gammel, idet den ældst registrerede fugl blev 40 år.",
+  "url": "https://da.wikipedia.org/wiki/Mallemuk"
+ },
+ "inat": {
+  "id": 4180,
+  "observations": 16062
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 150280630,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280630/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280630/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/90901748",
+    "place": "Arnarstapi, Islande",
+    "date": "2021-07-25"
+   },
+   {
+    "id": 148619170,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148619170/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148619170/large.jpg",
+    "attribution": "(c) Alec McClay, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89965036",
+    "place": "Gortmore lookout",
+    "date": "2016-07-24"
+   },
+   {
+    "id": 304291512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304291512/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304291512/large.jpeg",
+    "attribution": "(c) Pete Bradshaw, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/175111948",
+    "place": "North Ronaldsay KW17, UK",
+    "date": "2023-07-26"
+   }
+  ],
+  "adult": [
+   {
+    "id": 433062747,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433062747/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433062747/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/242899130",
+    "place": "Баренцево море.",
+    "date": "2024-08-02"
+   },
+   {
+    "id": 654819321,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654819321/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654819321/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/358925211",
+    "place": "Whitley Bay",
+    "date": "2026-04-28"
+   },
+   {
+    "id": 344116886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344116886/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344116886/large.jpeg",
+    "attribution": "(c) Luke Lythgoe, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195581915",
+    "place": "East Riding of Yorkshire, England, GB",
+    "date": "2023-06-18"
+   }
+  ],
+  "hero": {
+   "id": 433062747,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433062747/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433062747/large.jpg",
+   "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/242899130",
+   "place": "Баренцево море.",
+   "date": "2024-08-02"
+  }
+ },
+ "gbif": {
+  "key": 2481433,
+  "dkTotal": 42474,
+  "dkMonths": [
+   1620,
+   2007,
+   714,
+   1641,
+   5153,
+   3424,
+   7251,
+   6930,
+   6204,
+   4570,
+   2166,
+   785
+  ],
+  "worldTotal": 1317083,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 689171
+   },
+   {
+    "code": "US",
+    "count": 167061
+   },
+   {
+    "code": "NO",
+    "count": 71874
+   },
+   {
+    "code": "IE",
+    "count": 68399
+   },
+   {
+    "code": "FO",
+    "count": 56442
+   },
+   {
+    "code": "IS",
+    "count": 46813
+   },
+   {
+    "code": "DK",
+    "count": 42474
+   },
+   {
+    "code": "CA",
+    "count": 41923
+   },
+   {
+    "code": "NL",
+    "count": 25168
+   },
+   {
+    "code": "SE",
+    "count": 19705
+   },
+   {
+    "code": "DE",
+    "count": 14570
+   },
+   {
+    "code": "IM",
+    "count": 14508
+   }
+  ]
+ },
+ "warnings": []
+}

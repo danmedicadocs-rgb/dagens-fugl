@@ -1,0 +1,172 @@
+{
+ "key": "actitis-hypoleucos",
+ "name": "Actitis hypoleucos",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:07:56.409Z",
+ "names": {
+  "da": "Mudderklire",
+  "en": "Common Sandpiper",
+  "accepted": "Actitis hypoleucos"
+ },
+ "wikidata": {
+  "id": "Q18850"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Mudderklire",
+  "extract": "Mudderklire er en almindelig trækgæst i Danmark fra Fennoskandinavien. Den har tidligere ynglet få steder i Danmark, men er markeret som forsvundet på Den danske rødliste 2019. Det videnskabelige navn hypoleucos betyder 'med hvid underside'. Mudderklire overvintrer hovedsagelig i tropisk Vestafrika ned til Guineabugten.",
+  "url": "https://da.wikipedia.org/wiki/Mudderklire"
+ },
+ "inat": {
+  "id": 3978,
+  "observations": 67416
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 330289130,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330289130/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330289130/large.jpg",
+    "attribution": "(c) Kalvin Chan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/188674633",
+    "place": "Tin Shui Wai, Hong Kong",
+    "date": "2023-10-18"
+   },
+   {
+    "id": 52212900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52212900/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52212900/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/33252435",
+    "place": "Tsuha, Ōgimi, Kunigami District, Okinawa 905-1318, Japan",
+    "date": "2019-09-22"
+   },
+   {
+    "id": 32111819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32111819/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32111819/large.jpg",
+    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/20819427",
+    "place": "台灣彰化縣",
+    "date": "2019-02-20"
+   }
+  ],
+  "adult": [
+   {
+    "id": 611391587,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611391587/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611391587/large.jpg",
+    "attribution": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/257745919",
+    "place": "Wallacetown, New Zealand",
+    "date": "2025-01-08"
+   },
+   {
+    "id": 30299493,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30299493/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30299493/large.jpg",
+    "attribution": "(c) Lek Khauv, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19143005",
+    "place": "Point Cook VIC 3030, Australia",
+    "date": "2018-12-22"
+   },
+   {
+    "id": 128081383,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081383/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081383/large.jpeg",
+    "attribution": "(c) rober025, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78275932",
+    "place": "Remerschen ",
+    "date": "2021-05-02"
+   }
+  ],
+  "hero": {
+   "id": 611391587,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611391587/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611391587/large.jpg",
+   "attribution": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/257745919",
+   "place": "Wallacetown, New Zealand",
+   "date": "2025-01-08"
+  }
+ },
+ "gbif": {
+  "key": 2481800,
+  "dkTotal": 149680,
+  "dkMonths": [
+   65,
+   40,
+   47,
+   9327,
+   35061,
+   3238,
+   39393,
+   50356,
+   11403,
+   629,
+   47,
+   63
+  ],
+  "worldTotal": 2816838,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 400454
+   },
+   {
+    "code": "ES",
+    "count": 256869
+   },
+   {
+    "code": "IN",
+    "count": 255212
+   },
+   {
+    "code": "NO",
+    "count": 210623
+   },
+   {
+    "code": "TW",
+    "count": 179202
+   },
+   {
+    "code": "NL",
+    "count": 168093
+   },
+   {
+    "code": "FR",
+    "count": 166301
+   },
+   {
+    "code": "GB",
+    "count": 154436
+   },
+   {
+    "code": "DK",
+    "count": 149680
+   },
+   {
+    "code": "PT",
+    "count": 91956
+   },
+   {
+    "code": "BE",
+    "count": 76034
+   },
+   {
+    "code": "AU",
+    "count": 56020
+   }
+  ]
+ },
+ "warnings": []
+}

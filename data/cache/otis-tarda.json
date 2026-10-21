@@ -1,0 +1,171 @@
+{
+ "key": "otis-tarda",
+ "name": "Otis tarda",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:07.121Z",
+ "names": {
+  "da": "Stortrappe",
+  "en": "Great Bustard",
+  "accepted": "Otis tarda"
+ },
+ "wikidata": {
+  "id": "Q171655"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stortrappe",
+  "extract": "Stortrappe er en stor og tung fugl i ordenen trapper som placeres i sin egen slægt Otis.",
+  "url": "https://da.wikipedia.org/wiki/Stortrappe"
+ },
+ "inat": {
+  "id": 77,
+  "observations": 3751
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 181119858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181119858/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181119858/large.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107661887",
+    "place": null,
+    "date": "2022-02-28"
+   },
+   {
+    "id": 364409518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364409518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364409518/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206052711",
+    "place": null,
+    "date": "2024-03-30"
+   },
+   {
+    "id": 290359525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290359525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290359525/large.jpg",
+    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167609903",
+    "place": "Beja, PT",
+    "date": "2023-06-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 290359453,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290359453/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290359453/large.jpg",
+    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167609901",
+    "place": "Beja, PT",
+    "date": "2023-06-12"
+   },
+   {
+    "id": 56097029,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56097029/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56097029/large.jpg",
+    "attribution": "(c) Mike Kerry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/35567788",
+    "place": "England, GB",
+    "date": "2019-11-11"
+   },
+   {
+    "id": 536227072,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536227072/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536227072/large.jpg",
+    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297734659",
+    "place": "Wiltshire, England, GB",
+    "date": "2020-07-23"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 181119858,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181119858/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181119858/large.jpeg",
+   "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/107661887",
+   "place": null,
+   "date": "2022-02-28"
+  }
+ },
+ "gbif": {
+  "key": 2474921,
+  "dkTotal": 10,
+  "dkMonths": [
+   3,
+   0,
+   1,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 67849,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 45664
+   },
+   {
+    "code": "PT",
+    "count": 7868
+   },
+   {
+    "code": "DE",
+    "count": 2913
+   },
+   {
+    "code": "NL",
+    "count": 2300
+   },
+   {
+    "code": "HU",
+    "count": 2258
+   },
+   {
+    "code": "AT",
+    "count": 2043
+   },
+   {
+    "code": "UA",
+    "count": 1432
+   },
+   {
+    "code": "CN",
+    "count": 694
+   },
+   {
+    "code": "GB",
+    "count": 462
+   },
+   {
+    "code": "BE",
+    "count": 415
+   },
+   {
+    "code": "TR",
+    "count": 286
+   },
+   {
+    "code": "SK",
+    "count": 251
+   }
+  ]
+ },
+ "warnings": []
+}

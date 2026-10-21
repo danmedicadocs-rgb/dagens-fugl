@@ -1,0 +1,172 @@
+{
+ "key": "loxia-pytyopsittacus",
+ "name": "Loxia pytyopsittacus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:24:42.568Z",
+ "names": {
+  "da": "Stor korsnæb",
+  "en": "Parrot Crossbill",
+  "accepted": "Loxia pytyopsittacus"
+ },
+ "wikidata": {
+  "id": "Q645055"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stor korsnæb",
+  "extract": "Stor korsnæb er en 17-18 centimeter stor spurvefugl, der yngler i Nordeuropa. Med hjælp fra sit store næb med krydsende næbspidser har arten specialiseret sig i at åbne koglerne fra fyr for at få fat i frøene. I Danmark er den en meget sjælden ynglefugl og som regel en fåtallig trækgæst. I såkaldte invasionsår kan arten dog være almindelig.",
+  "url": "https://da.wikipedia.org/wiki/Stor_korsn%C3%A6b"
+ },
+ "inat": {
+  "id": 10420,
+  "observations": 621
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 256551918,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256551918/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256551918/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148928341",
+    "place": "Лоухский р-н, Респ. Карелия, Россия",
+    "date": "2022-07-19"
+   },
+   {
+    "id": 597275799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597275799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597275799/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/329494408",
+    "place": "Santon Downham",
+    "date": "2017-11-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 256552096,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256552096/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256552096/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148928462",
+    "place": "Лоухский р-н, Респ. Карелия, Россия",
+    "date": "2022-07-19"
+   },
+   {
+    "id": 265920154,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265920154/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265920154/large.jpeg",
+    "attribution": "(c) Antti Latikka, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/153928523",
+    "place": "44400 Äänekoski, Suomi",
+    "date": "2023-04-08"
+   },
+   {
+    "id": 718410021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718410021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718410021/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/392038505",
+    "place": "Santon Downham",
+    "date": "2017-11-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 368602228,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/368602228/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/368602228/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/208337698",
+    "place": "Лоухский р-н, Респ. Карелия, Россия",
+    "date": "2023-07-16"
+   }
+  ],
+  "hero": {
+   "id": 256551918,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256551918/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256551918/large.jpg",
+   "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/148928341",
+   "place": "Лоухский р-н, Респ. Карелия, Россия",
+   "date": "2022-07-19"
+  }
+ },
+ "gbif": {
+  "key": 2494154,
+  "dkTotal": 9560,
+  "dkMonths": [
+   886,
+   835,
+   700,
+   435,
+   96,
+   11,
+   13,
+   23,
+   203,
+   3612,
+   2076,
+   662
+  ],
+  "worldTotal": 140485,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 85291
+   },
+   {
+    "code": "NO",
+    "count": 22014
+   },
+   {
+    "code": "FI",
+    "count": 11545
+   },
+   {
+    "code": "DK",
+    "count": 9560
+   },
+   {
+    "code": "NL",
+    "count": 7599
+   },
+   {
+    "code": "EE",
+    "count": 1050
+   },
+   {
+    "code": "BE",
+    "count": 969
+   },
+   {
+    "code": "GB",
+    "count": 904
+   },
+   {
+    "code": "AX",
+    "count": 420
+   },
+   {
+    "code": "RU",
+    "count": 397
+   },
+   {
+    "code": "DE",
+    "count": 328
+   },
+   {
+    "code": "PL",
+    "count": 114
+   }
+  ]
+ },
+ "warnings": []
+}

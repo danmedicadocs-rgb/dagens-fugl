@@ -1,0 +1,202 @@
+{
+ "key": "fulica-atra",
+ "name": "Fulica atra",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:03:54.810Z",
+ "names": {
+  "da": "Blishøne",
+  "en": "Common Coot",
+  "accepted": "Fulica atra"
+ },
+ "wikidata": {
+  "id": "Q25376"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Blishøne",
+  "extract": "Blishønen er en almindelig ynglefugl i Danmark. Den findes ved søer, moser og vandløb. Blishønen er udbredt i det meste af Europa, dog ikke det nordlige Skandinavien, samt i Asien og Australien. Arten lever især af vandplanter. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Blish%C3%B8ne"
+ },
+ "inat": {
+  "id": 482,
+  "observations": 188890
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 179957570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/large.jpeg",
+    "attribution": "(c) AnimalObserverDeniz321, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107045228",
+    "place": "Kuruçeşme, Motor Yolcu Durağı, 34345 Beşiktaş/İstanbul, Turkey",
+    "date": "2022-02-19"
+   },
+   {
+    "id": 27530717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27530717/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27530717/large.jpg",
+    "attribution": "(c) Arctic, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18008804",
+    "place": "Nottinghamshire, Nottingham, UK",
+    "date": "2018-10-27"
+   },
+   {
+    "id": 279036406,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279036406/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279036406/large.jpeg",
+    "attribution": "(c) Andrey Polstianoi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/161435520",
+    "place": "Алексеевка, Харьков, Харьковская область, Украина, 61000",
+    "date": "2023-05-13"
+   }
+  ],
+  "female": [
+   {
+    "id": 322364358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/322364358/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/322364358/large.jpeg",
+    "attribution": "(c) Michael Grundner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/184653512",
+    "place": "Industriegebiet, 78467 Konstanz, Deutschland",
+    "date": "2023-09-16"
+   },
+   {
+    "id": 135252982,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135252982/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135252982/large.jpg",
+    "attribution": "(c) ognevit, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82409867",
+    "place": "Советский район, Минск, Беларусь",
+    "date": "2021-06-06"
+   },
+   {
+    "id": 481229702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481229702/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481229702/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/267763602",
+    "place": "Queen's Park, Glasgow, UK",
+    "date": "2025-03-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 278437528,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278437528/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278437528/large.jpeg",
+    "attribution": "(c) jamie-aa, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/161104361",
+    "place": "Ewell, UK",
+    "date": "2023-05-11"
+   },
+   {
+    "id": 31953313,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31953313/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31953313/large.jpg",
+    "attribution": "(c) Terra Occ, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20725080",
+    "place": "Eynesbury VIC 3338, Australia",
+    "date": "2019-02-24"
+   },
+   {
+    "id": 201898821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201898821/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201898821/large.jpeg",
+    "attribution": "(c) Thomas Koffel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/119441304",
+    "place": "67600 Sélestat, France",
+    "date": "2022-05-30"
+   }
+  ],
+  "hero": {
+   "id": 179957570,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/large.jpeg",
+   "attribution": "(c) AnimalObserverDeniz321, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/107045228",
+   "place": "Kuruçeşme, Motor Yolcu Durağı, 34345 Beşiktaş/İstanbul, Turkey",
+   "date": "2022-02-19"
+  }
+ },
+ "gbif": {
+  "key": 2474377,
+  "dkTotal": 449881,
+  "dkMonths": [
+   40754,
+   39298,
+   58620,
+   62495,
+   55886,
+   41217,
+   33542,
+   31285,
+   24228,
+   21834,
+   19487,
+   21144
+  ],
+  "worldTotal": 6010147,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 1110539
+   },
+   {
+    "code": "AU",
+    "count": 723585
+   },
+   {
+    "code": "GB",
+    "count": 693864
+   },
+   {
+    "code": "SE",
+    "count": 600623
+   },
+   {
+    "code": "DK",
+    "count": 449881
+   },
+   {
+    "code": "FR",
+    "count": 441129
+   },
+   {
+    "code": "ES",
+    "count": 326766
+   },
+   {
+    "code": "BE",
+    "count": 295170
+   },
+   {
+    "code": "DE",
+    "count": 259359
+   },
+   {
+    "code": "IN",
+    "count": 200568
+   },
+   {
+    "code": "NO",
+    "count": 91935
+   },
+   {
+    "code": "PT",
+    "count": 64187
+   }
+  ]
+ },
+ "warnings": []
+}

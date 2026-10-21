@@ -1,0 +1,141 @@
+{
+ "key": "steatornis-caripensis",
+ "name": "Steatornis caripensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:57.849Z",
+ "names": {
+  "da": "Fedtfugl",
+  "en": "Oilbird",
+  "accepted": "Steatornis caripensis"
+ },
+ "wikidata": {
+  "id": "Q213785"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Oilbird",
+  "extract": "The oilbird, locally known as the guácharo, is a bird species found in the northern areas of South America including the Caribbean island of Trinidad. It is the only living species in the genus Steatornis, the family Steatornithidae, and the order Steatornithiformes. Nesting in colonies in caves, oilbirds are nocturnal feeders on the fruits of the oil palm and tropical laurels. They are the only nocturnal flying fruit-eating birds in the world. They forage at night, with specially adapted eyesight. However, they navigate by echolocation in the same way as bats, one of the few birds to do so. They produce a high-pitched clicking sound of around 2 kHz that is audible to humans.",
+  "url": "https://en.wikipedia.org/wiki/Oilbird"
+ },
+ "inat": {
+  "id": 19727,
+  "observations": 662
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 230280566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/large.jpg",
+    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/135045414",
+    "place": "Sonsón, Antioquia, Colombia",
+    "date": "2022-05-19"
+   },
+   {
+    "id": 104822177,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104822177/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104822177/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/65152867",
+    "place": "Stadt Quito, Ecuador",
+    "date": "2019-08-25"
+   },
+   {
+    "id": 329733877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329733877/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329733877/large.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/188400371",
+    "place": "Avenida 5A B Sur, Panama City, Provincia de Panamá, PA",
+    "date": "2023-10-21"
+   }
+  ],
+  "hero": {
+   "id": 230280566,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/large.jpg",
+   "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/135045414",
+   "place": "Sonsón, Antioquia, Colombia",
+   "date": "2022-05-19"
+  }
+ },
+ "gbif": {
+  "key": 2497150,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 12211,
+  "topCountries": [
+   {
+    "code": "CO",
+    "count": 5611
+   },
+   {
+    "code": "EC",
+    "count": 2066
+   },
+   {
+    "code": "TT",
+    "count": 1803
+   },
+   {
+    "code": "PE",
+    "count": 1418
+   },
+   {
+    "code": "VE",
+    "count": 517
+   },
+   {
+    "code": "CR",
+    "count": 351
+   },
+   {
+    "code": "PA",
+    "count": 158
+   },
+   {
+    "code": "BO",
+    "count": 134
+   },
+   {
+    "code": "GY",
+    "count": 40
+   },
+   {
+    "code": "BQ",
+    "count": 13
+   },
+   {
+    "code": "GF",
+    "count": 8
+   },
+   {
+    "code": "ZZ",
+    "count": 7
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "streptopelia-turtur",
+ "name": "Streptopelia turtur",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:08.248Z",
+ "names": {
+  "da": "Turteldue",
+  "en": "European turtle dove",
+  "accepted": "Streptopelia turtur"
+ },
+ "wikidata": {
+  "id": "Q168514"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Turteldue",
+  "extract": "Turteldue er en dueart, der lever i Europa, det nordlige Afrika og Asien. Den danske population er på mindre end 250 individer, og den er regnet som en truet art på den danske rødliste 2019.",
+  "url": "https://da.wikipedia.org/wiki/Turteldue"
+ },
+ "inat": {
+  "id": 2938,
+  "observations": 12961
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 71200683,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71200683/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71200683/large.jpeg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44915224",
+    "place": "Ásotthalom, 6783 Hungary",
+    "date": "2020-05-04"
+   },
+   {
+    "id": 162076318,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162076318/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162076318/large.jpg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/97452706",
+    "place": "Serbia",
+    "date": "2021-08-03"
+   },
+   {
+    "id": 704542889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704542889/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704542889/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384863882",
+    "place": "Beach Rd., Snettisham, Norfolk, UK",
+    "date": "2026-07-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 541952411,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541952411/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541952411/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/300775574",
+    "place": "Quintanalara, Burgos, España",
+    "date": "2025-07-13"
+   },
+   {
+    "id": 293281918,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293281918/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293281918/large.jpeg",
+    "attribution": "(c) Ben Jobson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/169179752",
+    "place": "La Padilla Baja, 38292, Santa Cruz de Tenerife, Spain",
+    "date": "2023-06-24"
+   },
+   {
+    "id": 555921303,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555921303/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555921303/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/308152429",
+    "place": "Arcos de la Llana, Burgos, España",
+    "date": "2025-08-16"
+   }
+  ],
+  "hero": {
+   "id": 71200683,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71200683/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71200683/large.jpeg",
+   "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/44915224",
+   "place": "Ásotthalom, 6783 Hungary",
+   "date": "2020-05-04"
+  }
+ },
+ "gbif": {
+  "key": 2495708,
+  "dkTotal": 2339,
+  "dkMonths": [
+   2,
+   3,
+   16,
+   303,
+   987,
+   514,
+   178,
+   66,
+   75,
+   143,
+   42,
+   3
+  ],
+  "worldTotal": 668340,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 247664
+   },
+   {
+    "code": "ES",
+    "count": 109898
+   },
+   {
+    "code": "GB",
+    "count": 43964
+   },
+   {
+    "code": "IL",
+    "count": 35571
+   },
+   {
+    "code": "NL",
+    "count": 33559
+   },
+   {
+    "code": "PT",
+    "count": 26772
+   },
+   {
+    "code": "BE",
+    "count": 22683
+   },
+   {
+    "code": "DE",
+    "count": 14275
+   },
+   {
+    "code": "SE",
+    "count": 12637
+   },
+   {
+    "code": "TR",
+    "count": 12213
+   },
+   {
+    "code": "GR",
+    "count": 11561
+   },
+   {
+    "code": "BG",
+    "count": 11186
+   }
+  ]
+ },
+ "warnings": []
+}

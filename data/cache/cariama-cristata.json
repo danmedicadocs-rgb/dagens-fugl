@@ -1,0 +1,141 @@
+{
+ "key": "cariama-cristata",
+ "name": "Cariama cristata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:51:24.989Z",
+ "names": {
+  "da": "Rødbenet seriema",
+  "en": "Red-legged Seriema",
+  "accepted": "Cariama cristata"
+ },
+ "wikidata": {
+  "id": "Q903662"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Seriema",
+  "extract": "En seriema er en særpræget fugl, der er den ene af kun to fuglearter i familien af seriemaer. Den anden art i familien er chungaen.",
+  "url": "https://da.wikipedia.org/wiki/Seriema"
+ },
+ "inat": {
+  "id": 14,
+  "observations": 4934
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 425922440,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922440/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922440/large.jpeg",
+    "attribution": "(c) Filipi Miranda Soares, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239172074",
+    "place": "São Bartolomeu, Ouro Preto - MG, 35400-000, Brasil",
+    "date": "2024-09-01"
+   },
+   {
+    "id": 425922862,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922862/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922862/large.jpeg",
+    "attribution": "(c) Filipi Miranda Soares, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239172370",
+    "place": "São Bartolomeu, Ouro Preto - MG, 35400-000, Brasil",
+    "date": "2024-09-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 462932028,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462932028/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462932028/large.jpeg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258056211",
+    "place": "Bonito - MS, Brasil",
+    "date": "2025-01-08"
+   }
+  ],
+  "hero": {
+   "id": 425922440,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922440/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922440/large.jpeg",
+   "attribution": "(c) Filipi Miranda Soares, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/239172074",
+   "place": "São Bartolomeu, Ouro Preto - MG, 35400-000, Brasil",
+   "date": "2024-09-01"
+  }
+ },
+ "gbif": {
+  "key": 5228133,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 65992,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 55751
+   },
+   {
+    "code": "AR",
+    "count": 6299
+   },
+   {
+    "code": "BO",
+    "count": 1482
+   },
+   {
+    "code": "PY",
+    "count": 1144
+   },
+   {
+    "code": "UY",
+    "count": 1136
+   },
+   {
+    "code": "DE",
+    "count": 23
+   },
+   {
+    "code": "ZZ",
+    "count": 15
+   },
+   {
+    "code": "US",
+    "count": 8
+   },
+   {
+    "code": "CL",
+    "count": 1
+   },
+   {
+    "code": "DK",
+    "count": 1
+   },
+   {
+    "code": "FR",
+    "count": 1
+   },
+   {
+    "code": "IT",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

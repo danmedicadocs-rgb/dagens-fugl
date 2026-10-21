@@ -1,0 +1,152 @@
+{
+ "key": "ara-macao",
+ "name": "Ara macao",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:43.296Z",
+ "names": {
+  "da": "Lyserød Ara",
+  "en": "Scarlet macaw",
+  "accepted": "Ara macao"
+ },
+ "wikidata": {
+  "id": "Q243761"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lyserød ara",
+  "extract": "Lyserød ara er en papegøje, der lever i det nordlige Sydamerika og i det sydlige Mellemamerika.",
+  "url": "https://da.wikipedia.org/wiki/Lyser%C3%B8d_ara"
+ },
+ "inat": {
+  "id": 19022,
+  "observations": 14854
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 414754906,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414754906/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414754906/large.jpg",
+    "attribution": "(c) Jason Alexander, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/233382236",
+    "place": null,
+    "date": "2024-02-19"
+   }
+  ],
+  "adult": [
+   {
+    "id": 591920768,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/326791432",
+    "place": "Rio Branco, BR-AC, BR",
+    "date": "2025-10-29"
+   },
+   {
+    "id": 523869500,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/291177977",
+    "place": "Rio Branco, BR-AC, BR",
+    "date": "2025-06-13"
+   },
+   {
+    "id": 456718272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456718272/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456718272/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254918218",
+    "place": "Antioquia, CO",
+    "date": "2016-02-04"
+   }
+  ],
+  "hero": {
+   "id": 591920768,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/326791432",
+   "place": "Rio Branco, BR-AC, BR",
+   "date": "2025-10-29"
+  }
+ },
+ "gbif": {
+  "key": 5959227,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 154581,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 102348
+   },
+   {
+    "code": "PE",
+    "count": 14487
+   },
+   {
+    "code": "CO",
+    "count": 11901
+   },
+   {
+    "code": "BR",
+    "count": 10645
+   },
+   {
+    "code": "EC",
+    "count": 6228
+   },
+   {
+    "code": "GY",
+    "count": 2101
+   },
+   {
+    "code": "VE",
+    "count": 2033
+   },
+   {
+    "code": "GF",
+    "count": 802
+   },
+   {
+    "code": "PA",
+    "count": 780
+   },
+   {
+    "code": "SR",
+    "count": 598
+   },
+   {
+    "code": "MX",
+    "count": 584
+   },
+   {
+    "code": "BO",
+    "count": 459
+   }
+  ]
+ },
+ "warnings": []
+}

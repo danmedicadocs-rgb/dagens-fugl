@@ -1,0 +1,120 @@
+{
+ "key": "locustella-fluviatilis",
+ "name": "Locustella fluviatilis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:57.480Z",
+ "names": {
+  "da": "Flodsanger",
+  "en": null,
+  "accepted": "Locustella fluviatilis"
+ },
+ "wikidata": {
+  "id": "Q747787"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "River warbler",
+  "extract": "The river warbler is an Old World warbler in the genus Locustella. It breeds in eastern and central Europe and is migratory, wintering in inland southern Africa, from around the Zambezi River south to the vicinity of Pretoria in South Africa.",
+  "url": "https://en.wikipedia.org/wiki/River_warbler"
+ },
+ "inat": {
+  "id": 116938,
+  "observations": 1956
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 13487643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/9846923",
+    "place": "Nord, Münster, Deutschland",
+    "date": "2010-05-20"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 13487643,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/large.jpeg",
+   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/9846923",
+   "place": "Nord, Münster, Deutschland",
+   "date": "2010-05-20"
+  }
+ },
+ "gbif": {
+  "key": 2493549,
+  "dkTotal": 2387,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   658,
+   1538,
+   161,
+   8,
+   6,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 78035,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 40881
+   },
+   {
+    "code": "NL",
+    "count": 5623
+   },
+   {
+    "code": "RU",
+    "count": 5576
+   },
+   {
+    "code": "EE",
+    "count": 3890
+   },
+   {
+    "code": "PL",
+    "count": 3690
+   },
+   {
+    "code": "DK",
+    "count": 2387
+   },
+   {
+    "code": "FI",
+    "count": 2353
+   },
+   {
+    "code": "NO",
+    "count": 2169
+   },
+   {
+    "code": "DE",
+    "count": 2130
+   },
+   {
+    "code": "CZ",
+    "count": 1606
+   },
+   {
+    "code": "UA",
+    "count": 928
+   },
+   {
+    "code": "AT",
+    "count": 754
+   }
+  ]
+ },
+ "warnings": []
+}

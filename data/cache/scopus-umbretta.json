@@ -1,0 +1,141 @@
+{
+ "key": "scopus-umbretta",
+ "name": "Scopus umbretta",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:08.591Z",
+ "names": {
+  "da": "Hammerhoved",
+  "en": "Hamerkop",
+  "accepted": "Scopus umbretta"
+ },
+ "wikidata": {
+  "id": "Q652151"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hammerhoved",
+  "extract": "Hammerhoved er en fugl, der lever i Afrika og sydvestlige Arabien. Det er den eneste art i familien Scopidae, der enten placeres i ordenen Ciconiiformes eller Pelecaniformes.",
+  "url": "https://da.wikipedia.org/wiki/Hammerhoved"
+ },
+ "inat": {
+  "id": 3834,
+  "observations": 7785
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 115525939,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/71001110",
+    "place": "Kruger National Park, Ehlanzeni, South Africa",
+    "date": "2021-02-20"
+   },
+   {
+    "id": 16072628,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16072628/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16072628/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11297192",
+    "place": "R352 (3)",
+    "date": "2017-02-01"
+   },
+   {
+    "id": 505452288,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/505452288/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/505452288/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281389619",
+    "place": "Serengeti National Park, Tanzania",
+    "date": "2017-07-13"
+   }
+  ],
+  "hero": {
+   "id": 115525939,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/71001110",
+   "place": "Kruger National Park, Ehlanzeni, South Africa",
+   "date": "2021-02-20"
+  }
+ },
+ "gbif": {
+  "key": 5229154,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 231983,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 114925
+   },
+   {
+    "code": "KE",
+    "count": 25902
+   },
+   {
+    "code": "UG",
+    "count": 14886
+   },
+   {
+    "code": "TZ",
+    "count": 11859
+   },
+   {
+    "code": "ZW",
+    "count": 8058
+   },
+   {
+    "code": "BW",
+    "count": 7322
+   },
+   {
+    "code": "GM",
+    "count": 7212
+   },
+   {
+    "code": "ZM",
+    "count": 6290
+   },
+   {
+    "code": "ET",
+    "count": 4830
+   },
+   {
+    "code": "NA",
+    "count": 4327
+   },
+   {
+    "code": "RW",
+    "count": 3647
+   },
+   {
+    "code": "NG",
+    "count": 3510
+   }
+  ]
+ },
+ "warnings": []
+}

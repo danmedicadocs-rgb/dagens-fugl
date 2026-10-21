@@ -1,0 +1,171 @@
+{
+ "key": "sagittarius-serpentarius",
+ "name": "Sagittarius serpentarius",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:38.949Z",
+ "names": {
+  "da": "Sekretærfugl",
+  "en": "Secretarybird",
+  "accepted": "Sagittarius serpentarius"
+ },
+ "wikidata": {
+  "id": "Q168748"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sekretærfugl",
+  "extract": "Sekretærfuglen er en rovfugl. Den ligner dog ikke nogen af de øvrige rovfugle, og har også sin egen kategoriseringsfamilie.",
+  "url": "https://da.wikipedia.org/wiki/Sekret%C3%A6rfugl"
+ },
+ "inat": {
+  "id": 117214,
+  "observations": 5448
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 439447483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439447483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439447483/large.jpg",
+    "attribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/246187461",
+    "place": "Serengeti National Park, TZ",
+    "date": "2024-10-07"
+   },
+   {
+    "id": 437834577,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/437834577/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/437834577/large.jpeg",
+    "attribution": "(c) Dave Shenton, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/245366733",
+    "place": "Narok, KE",
+    "date": "2022-08-02"
+   },
+   {
+    "id": 448447696,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448447696/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448447696/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/250711543",
+    "place": "Overberg District Municipality, South Africa",
+    "date": "2013-10-18"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 596386675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596386675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596386675/large.jpg",
+    "attribution": "(c) sableplains, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329050379",
+    "place": "Waterberg District Municipality, South Africa",
+    "date": "2025-12-01"
+   },
+   {
+    "id": 570000950,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/570000950/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/570000950/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/315528324",
+    "place": "Omuthiyagwipundi, NA-OT, NA",
+    "date": "2012-07-23"
+   },
+   {
+    "id": 599160224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599160224/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599160224/large.jpg",
+    "attribution": "(c) sableplains, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330420557",
+    "place": "Thabazimbi, Limpopo, ZA",
+    "date": "2025-12-10"
+   }
+  ],
+  "hero": {
+   "id": 116433622,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116433622/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116433622/large.jpeg",
+   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY), uploaded by Jan Ebr &amp; Ivana Ebrová",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/116433622",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229409,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 68009,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 39446
+   },
+   {
+    "code": "KE",
+    "count": 13117
+   },
+   {
+    "code": "TZ",
+    "count": 8045
+   },
+   {
+    "code": "NA",
+    "count": 2806
+   },
+   {
+    "code": "BW",
+    "count": 1823
+   },
+   {
+    "code": "ZW",
+    "count": 1070
+   },
+   {
+    "code": "ET",
+    "count": 363
+   },
+   {
+    "code": "ZM",
+    "count": 333
+   },
+   {
+    "code": "UG",
+    "count": 222
+   },
+   {
+    "code": "SZ",
+    "count": 197
+   },
+   {
+    "code": "LS",
+    "count": 125
+   },
+   {
+    "code": "ZZ",
+    "count": 28
+   }
+  ]
+ },
+ "warnings": []
+}

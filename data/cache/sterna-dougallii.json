@@ -1,0 +1,172 @@
+{
+ "key": "sterna-dougallii",
+ "name": "Sterna dougallii",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:29.944Z",
+ "names": {
+  "da": "Rosenterne",
+  "en": "Roseate Tern",
+  "accepted": "Sterna dougallii"
+ },
+ "wikidata": {
+  "id": "Q321293"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rosenterne",
+  "extract": "Rosenternen er en 33–36 cm stor terne, som findes lokalt i Atlanterhavet, det Indiske Ocean og det vestlige Stillehav, hvor det yngler på småøer ud for kysten. Selvom den yngler så tæt på Danmark som Northumberland i England, er den meget sjælden i Danmark med kun 5 observationer, mest på Jyllands vestkyst.",
+  "url": "https://da.wikipedia.org/wiki/Rosenterne"
+ },
+ "inat": {
+  "id": 4436,
+  "observations": 2530
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 22241904,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241904/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241904/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/14902103",
+    "place": "Suffolk County, NY, USA",
+    "date": "2018-07-21"
+   },
+   {
+    "id": 22241885,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241885/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241885/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/14902101",
+    "place": "Suffolk County, NY, USA",
+    "date": "2018-07-21"
+   },
+   {
+    "id": 654355679,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654355679/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654355679/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/358694742",
+    "place": "Rockabill",
+    "date": "2011-07-26"
+   }
+  ],
+  "adult": [
+   {
+    "id": 654353632,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654353632/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654353632/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/358694737",
+    "place": "Rockabill",
+    "date": "2011-07-26"
+   },
+   {
+    "id": 131513017,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131513017/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131513017/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/80248895",
+    "place": "Cape Recife, Gqeberha, South Africa",
+    "date": "2021-05-24"
+   },
+   {
+    "id": 459557432,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459557432/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459557432/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256330055",
+    "place": "Ipswich, MA, USA",
+    "date": "2024-07-18"
+   }
+  ],
+  "hero": {
+   "id": 654353632,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654353632/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654353632/large.jpg",
+   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/358694737",
+   "place": "Rockabill",
+   "date": "2011-07-26"
+  }
+ },
+ "gbif": {
+  "key": 5229249,
+  "dkTotal": 60,
+  "dkMonths": [
+   1,
+   1,
+   0,
+   0,
+   0,
+   38,
+   15,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 208465,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 162394
+   },
+   {
+    "code": "AU",
+    "count": 9795
+   },
+   {
+    "code": "GB",
+    "count": 5055
+   },
+   {
+    "code": "PT",
+    "count": 4663
+   },
+   {
+    "code": "TW",
+    "count": 4638
+   },
+   {
+    "code": "PR",
+    "count": 3159
+   },
+   {
+    "code": "CA",
+    "count": 2308
+   },
+   {
+    "code": "NL",
+    "count": 1788
+   },
+   {
+    "code": "ZA",
+    "count": 1675
+   },
+   {
+    "code": "ES",
+    "count": 1579
+   },
+   {
+    "code": "IE",
+    "count": 1249
+   },
+   {
+    "code": "GP",
+    "count": 701
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,151 @@
+{
+ "key": "sula-granti",
+ "name": "Sula granti",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:53:58.851Z",
+ "names": {
+  "da": "Nazcasule",
+  "en": "Nazca Booby",
+  "accepted": "Sula granti"
+ },
+ "wikidata": {
+  "id": "Q115487"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Nazca booby",
+  "extract": "The Nazca booby is a large seabird of the booby family, Sulidae, native to the eastern Pacific. First described by Walter Rothschild in 1902, it was long considered a subspecies of the masked booby until recognised as distinct genetically and behaviorally in 2002. It has a typical sulid body shape, with a long pointed orange-yellow bill, long neck, aerodynamic body, long slender wings and pointed tail. The adult is bright white with black and white wings, a black tail and a dark face mask.",
+  "url": "https://en.wikipedia.org/wiki/Nazca_booby"
+ },
+ "inat": {
+  "id": 56768,
+  "observations": 3807
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 132017347,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132017347/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132017347/large.jpeg",
+    "attribution": "(c) Judith Kerman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/80540633",
+    "place": "Genovesa Island, Ecuador",
+    "date": "2005-06-13"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 57491588,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57491588/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57491588/large.jpg",
+    "attribution": "(c) Jim Morefield, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/36373708",
+    "place": "Isla Floreana, Galapagos Islands, Ecuador",
+    "date": "2019-01-29"
+   },
+   {
+    "id": 64947753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64947753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64947753/large.jpg",
+    "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40966478",
+    "place": "Isla de La Plata, Ecuador",
+    "date": "2015-11-18"
+   },
+   {
+    "id": 193731503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193731503/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193731503/large.jpeg",
+    "attribution": "(c) Loren Cassin Sackett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/114750531",
+    "place": "San Cristobal, Ecuador",
+    "date": "2013-03-21"
+   }
+  ],
+  "hero": {
+   "id": 132017347,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132017347/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132017347/large.jpeg",
+   "attribution": "(c) Judith Kerman, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/80540633",
+   "place": "Genovesa Island, Ecuador",
+   "date": "2005-06-13"
+  }
+ },
+ "gbif": {
+  "key": 2480971,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 31645,
+  "topCountries": [
+   {
+    "code": "EC",
+    "count": 22623
+   },
+   {
+    "code": "US",
+    "count": 4819
+   },
+   {
+    "code": "MX",
+    "count": 1175
+   },
+   {
+    "code": "CR",
+    "count": 1044
+   },
+   {
+    "code": "CO",
+    "count": 639
+   },
+   {
+    "code": "GT",
+    "count": 395
+   },
+   {
+    "code": "PA",
+    "count": 352
+   },
+   {
+    "code": "SV",
+    "count": 219
+   },
+   {
+    "code": "PE",
+    "count": 138
+   },
+   {
+    "code": "FR",
+    "count": 50
+   },
+   {
+    "code": "UM",
+    "count": 43
+   },
+   {
+    "code": "CL",
+    "count": 29
+   }
+  ]
+ },
+ "warnings": []
+}

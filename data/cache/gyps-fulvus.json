@@ -1,0 +1,151 @@
+{
+ "key": "gyps-fulvus",
+ "name": "Gyps fulvus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:25:58.684Z",
+ "names": {
+  "da": "Gåsegrib",
+  "en": "Griffon Vulture",
+  "accepted": "Gyps fulvus"
+ },
+ "wikidata": {
+  "id": "Q177856"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gåsegrib",
+  "extract": "Gåsegribben er en meget stor rovfugl med et vingefang på op til 270 centimeter. Denne grib er udbredt i Sydeuropa, Nordafrika, den Arabiske Halvø og videre mod øst til det nordøstlige Indien. Den lever udelukkende af ådsler. Reden anbringes på klippehylder, hvor den yngler i kolonier fra 2 par op til over 100. Mens de asiatiske bestande er faldene eller stabile, er dens europæiske bestand i stigning på grund af bevaringsprogrammer, og den er derfor angivet som ikke truet på den internationale rødliste.",
+  "url": "https://da.wikipedia.org/wiki/G%C3%A5segrib"
+ },
+ "inat": {
+  "id": 5366,
+  "observations": 38852
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 254748708,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254748708/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254748708/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/147984922",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-02-03"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 338847558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338847558/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338847558/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/192952981",
+    "place": "Sila Grande",
+    "date": "2023-12-03"
+   },
+   {
+    "id": 697188842,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697188842/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697188842/large.jpg",
+    "attribution": "(c) Peter T. Rühr, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/381054330",
+    "place": "Dedoplistskaro Municipality, Georgia",
+    "date": "2026-05-28"
+   },
+   {
+    "id": 729441306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729441306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729441306/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397687888",
+    "place": "Cubillo del Campo, Burgos, España",
+    "date": "2026-09-05"
+   }
+  ],
+  "hero": {
+   "id": 254748708,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254748708/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254748708/large.jpeg",
+   "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/147984922",
+   "place": "San Giovanni in Fiore",
+   "date": "2023-02-03"
+  }
+ },
+ "gbif": {
+  "key": 2480389,
+  "dkTotal": 1235,
+  "dkMonths": [
+   0,
+   0,
+   4,
+   9,
+   214,
+   705,
+   281,
+   19,
+   0,
+   2,
+   0,
+   0
+  ],
+  "worldTotal": 1963286,
+  "topCountries": [
+   {
+    "code": "BG",
+    "count": 642281
+   },
+   {
+    "code": "ES",
+    "count": 419359
+   },
+   {
+    "code": "RS",
+    "count": 388764
+   },
+   {
+    "code": "GR",
+    "count": 203696
+   },
+   {
+    "code": "FR",
+    "count": 107010
+   },
+   {
+    "code": "TR",
+    "count": 34827
+   },
+   {
+    "code": "PT",
+    "count": 34718
+   },
+   {
+    "code": "MK",
+    "count": 32220
+   },
+   {
+    "code": "IL",
+    "count": 26425
+   },
+   {
+    "code": "YE",
+    "count": 10394
+   },
+   {
+    "code": "SA",
+    "count": 8519
+   },
+   {
+    "code": "IN",
+    "count": 8071
+   }
+  ]
+ },
+ "warnings": []
+}

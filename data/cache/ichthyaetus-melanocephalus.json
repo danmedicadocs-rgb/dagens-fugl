@@ -1,0 +1,172 @@
+{
+ "key": "ichthyaetus-melanocephalus",
+ "name": "Ichthyaetus melanocephalus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:19.388Z",
+ "names": {
+  "da": "Sorthovedet måge",
+  "en": "Mediterranean Gull",
+  "accepted": "Ichthyaetus melanocephalus"
+ },
+ "wikidata": {
+  "id": "Q276189"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sorthovedet måge",
+  "extract": "Sorthovedet måge er en mindre måge, der er ret sjælden i Danmark. Den er siden 1970 begyndt at yngle med nogle få par, men flere fugle gæster årligt landet, især om vinteren. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Sorthovedet_m%C3%A5ge"
+ },
+ "inat": {
+  "id": 144517,
+  "observations": 13401
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 730338609,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/large.jpg",
+    "attribution": "(c) Xosé Veiras, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/398150437",
+    "place": "Cee, A Coruña, España",
+    "date": "2026-09-06"
+   },
+   {
+    "id": 94046712,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94046712/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94046712/large.jpeg",
+    "attribution": "(c) Paulo Martins, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/58888577",
+    "place": "Sesimbra, Portugal",
+    "date": "2020-09-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 420510099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/420510099/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/420510099/large.jpeg",
+    "attribution": "(c) Adam Leigh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/236373019",
+    "place": "Whitley Bay NE26 4RS, UK",
+    "date": "2024-08-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 731349780,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731349780/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731349780/large.jpg",
+    "attribution": "(c) Barry Stewart, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/398664305",
+    "place": "Mayals, UK",
+    "date": "2026-09-08"
+   },
+   {
+    "id": 121121149,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121121149/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121121149/large.jpg",
+    "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/74130229",
+    "place": "London, UK",
+    "date": "2010-02-14"
+   },
+   {
+    "id": 413822264,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/413822264/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/413822264/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/232893213",
+    "place": "L'Islet Lancieux, France",
+    "date": "2024-07-31"
+   }
+  ],
+  "hero": {
+   "id": 730338609,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/large.jpg",
+   "attribution": "(c) Xosé Veiras, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/398150437",
+   "place": "Cee, A Coruña, España",
+   "date": "2026-09-06"
+  }
+ },
+ "gbif": {
+  "key": 8151548,
+  "dkTotal": 19958,
+  "dkMonths": [
+   646,
+   422,
+   2715,
+   4233,
+   3497,
+   1487,
+   1537,
+   1347,
+   1847,
+   1366,
+   446,
+   372
+  ],
+  "worldTotal": 766251,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 167631
+   },
+   {
+    "code": "GB",
+    "count": 135128
+   },
+   {
+    "code": "NL",
+    "count": 112625
+   },
+   {
+    "code": "BE",
+    "count": 103069
+   },
+   {
+    "code": "ES",
+    "count": 94798
+   },
+   {
+    "code": "PT",
+    "count": 47804
+   },
+   {
+    "code": "DK",
+    "count": 19958
+   },
+   {
+    "code": "SE",
+    "count": 15014
+   },
+   {
+    "code": "IT",
+    "count": 12716
+   },
+   {
+    "code": "TR",
+    "count": 8290
+   },
+   {
+    "code": "IE",
+    "count": 7512
+   },
+   {
+    "code": "GR",
+    "count": 6777
+   }
+  ]
+ },
+ "warnings": []
+}

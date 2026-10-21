@@ -1,0 +1,172 @@
+{
+ "key": "gavia-stellata",
+ "name": "Gavia stellata",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:22.281Z",
+ "names": {
+  "da": "Rødstrubet lom",
+  "en": "Red-throated Diver",
+  "accepted": "Gavia stellata"
+ },
+ "wikidata": {
+  "id": "Q26691"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rødstrubet lom",
+  "extract": "Den rødstrubede lom er en fugl i lomslægten. Den har en længde på 55-67 cm og er dermed den mindste lom. Den har et vingefang på 91-110 cm lang. Den kan leve i op til 20 år. Fuglen lever i det nordlige Eurasien og i det arktiske Canada og har den største udbredelse af alle lommer. Den er en almindelig trækfugl i Danmark om vinteren.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8dstrubet_lom"
+ },
+ "inat": {
+  "id": 4627,
+  "observations": 16083
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 281068221,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281068221/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281068221/large.jpg",
+    "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/162547257",
+    "place": "Chatham, MA, US",
+    "date": "2023-05-19"
+   },
+   {
+    "id": 284321744,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284321744/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284321744/large.jpg",
+    "attribution": "(c) Marilyne Busque-Dubois, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/164333601",
+    "place": "Les Éboulements, QC, CA",
+    "date": "2023-05-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 284321371,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284321371/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284321371/large.jpg",
+    "attribution": "(c) Marilyne Busque-Dubois, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/164333367",
+    "place": "Les Éboulements, QC, CA",
+    "date": "2023-05-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 2991678,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2991678/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2991678/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2660491",
+    "place": "Belmar, New Jersey, United States",
+    "date": "2016-02-06"
+   },
+   {
+    "id": 243726990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243726990/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243726990/large.jpeg",
+    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142184429",
+    "place": "Rockport, MA, USA",
+    "date": "2022-11-16"
+   },
+   {
+    "id": 12125373,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12125373/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12125373/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/8995975",
+    "place": "Donaustadt, 1220 Wien, Österreich",
+    "date": "2017-11-27"
+   }
+  ],
+  "hero": {
+   "id": 281068221,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281068221/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281068221/large.jpg",
+   "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/162547257",
+   "place": "Chatham, MA, US",
+   "date": "2023-05-19"
+  }
+ },
+ "gbif": {
+  "key": 2481958,
+  "dkTotal": 121119,
+  "dkMonths": [
+   6941,
+   5339,
+   10152,
+   14665,
+   13882,
+   2929,
+   4452,
+   4905,
+   16296,
+   21809,
+   13175,
+   6528
+  ],
+  "worldTotal": 1441448,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 611890
+   },
+   {
+    "code": "SE",
+    "count": 224560
+   },
+   {
+    "code": "NO",
+    "count": 135049
+   },
+   {
+    "code": "DK",
+    "count": 121119
+   },
+   {
+    "code": "CA",
+    "count": 111590
+   },
+   {
+    "code": "GB",
+    "count": 76037
+   },
+   {
+    "code": "NL",
+    "count": 59952
+   },
+   {
+    "code": "IS",
+    "count": 17329
+   },
+   {
+    "code": "FI",
+    "count": 13903
+   },
+   {
+    "code": "FR",
+    "count": 10751
+   },
+   {
+    "code": "DE",
+    "count": 9793
+   },
+   {
+    "code": "EE",
+    "count": 8831
+   }
+  ]
+ },
+ "warnings": []
+}

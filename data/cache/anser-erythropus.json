@@ -1,0 +1,131 @@
+{
+ "key": "anser-erythropus",
+ "name": "Anser erythropus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:55:13.492Z",
+ "names": {
+  "da": "Dværggås",
+  "en": "Lesser white-fronted goose",
+  "accepted": "Anser erythropus"
+ },
+ "wikidata": {
+  "id": "Q191628"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværggås",
+  "extract": "Dværggåsen er en fugl i familien af egentlige andefugle. Det er den mindste af de grå gæs. Dens længde er 56-66 cm. Vingefanget er 115-135 cm lang. Den kan leve i 10-15 år. Den yngler med en lille bestand i et arktisk bælte fra det nordlige Skandinavien mod øst gennem Sibirien til Beringshavet. Dværggåsens fjerdragt ligner blisgåsens. Øjenlågsrandene er dog karakteristisk gule og blissen på panden er tydeligere.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgg%C3%A5s"
+ },
+ "inat": {
+  "id": 7013,
+  "observations": 707
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 546197009,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/large.jpg",
+    "attribution": "(c) gjecology, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/303050886",
+    "place": "England, GB",
+    "date": "2024-01-31"
+   },
+   {
+    "id": 183109283,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183109283/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/183109283/large.jpeg",
+    "attribution": "(c) Michael Grundner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/108722035",
+    "place": null,
+    "date": "2022-03-16"
+   }
+  ],
+  "hero": {
+   "id": 546197009,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/large.jpg",
+   "attribution": "(c) gjecology, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/303050886",
+   "place": "England, GB",
+   "date": "2024-01-31"
+  }
+ },
+ "gbif": {
+  "key": 2498026,
+  "dkTotal": 1206,
+  "dkMonths": [
+   129,
+   106,
+   360,
+   344,
+   42,
+   11,
+   0,
+   35,
+   39,
+   32,
+   70,
+   36
+  ],
+  "worldTotal": 72635,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 40752
+   },
+   {
+    "code": "NL",
+    "count": 16562
+   },
+   {
+    "code": "NO",
+    "count": 2444
+   },
+   {
+    "code": "RU",
+    "count": 2144
+   },
+   {
+    "code": "DK",
+    "count": 1206
+   },
+   {
+    "code": "BE",
+    "count": 983
+   },
+   {
+    "code": "GB",
+    "count": 920
+   },
+   {
+    "code": "GR",
+    "count": 836
+   },
+   {
+    "code": "DE",
+    "count": 733
+   },
+   {
+    "code": "TW",
+    "count": 710
+   },
+   {
+    "code": "CN",
+    "count": 582
+   },
+   {
+    "code": "IN",
+    "count": 438
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,172 @@
+{
+ "key": "cepphus-grylle",
+ "name": "Cepphus grylle",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:23.537Z",
+ "names": {
+  "da": "Tejst",
+  "en": "Black Guillemot",
+  "accepted": "Cepphus grylle"
+ },
+ "wikidata": {
+  "id": "Q212055"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tejst",
+  "extract": "Tejst er en havfugl i alkefamilien. Tejsten forekommer langs kysterne i det meste af Nordatlanten og Ishavet. Ud over at yngle langs Atlanterhavskysten yngler arten desuden i Østersøen. I Danmark yngler tejsten hovedsageligt på øer i Kattegat, Storebælt og farvandet omkring Samsø. Den er en behændig flyver, som ofte fra en stor højde kommer tilbage til sin rugeplads. Den finder sin føde, især fisk, gennem dykning.",
+  "url": "https://da.wikipedia.org/wiki/Tejst"
+ },
+ "inat": {
+  "id": 4418,
+  "observations": 11308
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 179189214,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179189214/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179189214/large.jpg",
+    "attribution": "(c) Renee MacQuarrie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106643532",
+    "place": "Halifax Harbour, Halifax, NS, CA",
+    "date": "2022-02-06"
+   },
+   {
+    "id": 719769631,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/719769631/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/719769631/large.jpg",
+    "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/392734145",
+    "place": "Nesseby, Norvège",
+    "date": "2026-08-17"
+   },
+   {
+    "id": 353864306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353864306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353864306/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/200552840",
+    "place": "Hancock County, US-ME, US",
+    "date": "2024-02-26"
+   }
+  ],
+  "adult": [
+   {
+    "id": 596520689,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596520689/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596520689/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329117778",
+    "place": "Новая Земля р-н, Архангельская обл., Россия",
+    "date": "2025-11-12"
+   },
+   {
+    "id": 251297015,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251297015/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251297015/large.jpeg",
+    "attribution": "(c) Martin Hannan-Jones, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146196982",
+    "place": "Belfast, UK",
+    "date": "2018-06-18"
+   },
+   {
+    "id": 243036191,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243036191/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243036191/large.jpeg",
+    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141832159",
+    "place": "Ballynamuddagh, Co. Wicklow, Ireland",
+    "date": "2022-07-26"
+   }
+  ],
+  "hero": {
+   "id": 195013918,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195013918/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195013918/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/195013918",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481312,
+  "dkTotal": 33951,
+  "dkMonths": [
+   1690,
+   1644,
+   2424,
+   3544,
+   5552,
+   2185,
+   2815,
+   3013,
+   2995,
+   3960,
+   2806,
+   1266
+  ],
+  "worldTotal": 697614,
+  "topCountries": [
+   {
+    "code": "CA",
+    "count": 157735
+   },
+   {
+    "code": "SE",
+    "count": 137551
+   },
+   {
+    "code": "US",
+    "count": 120754
+   },
+   {
+    "code": "NO",
+    "count": 95611
+   },
+   {
+    "code": "FI",
+    "count": 36524
+   },
+   {
+    "code": "DK",
+    "count": 33951
+   },
+   {
+    "code": "GB",
+    "count": 33942
+   },
+   {
+    "code": "IS",
+    "count": 24735
+   },
+   {
+    "code": "SJ",
+    "count": 14754
+   },
+   {
+    "code": "NL",
+    "count": 11531
+   },
+   {
+    "code": "IE",
+    "count": 10767
+   },
+   {
+    "code": "IM",
+    "count": 3891
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,141 @@
+{
+ "key": "coracias-caudatus",
+ "name": "Coracias caudatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:50.681Z",
+ "names": {
+  "da": "Lillabrystet Ellekrage",
+  "en": "Lilac-breasted Roller",
+  "accepted": "Coracias caudatus"
+ },
+ "wikidata": {
+  "id": "Q44023"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Lilac-breasted roller",
+  "extract": "The lilac-breasted roller is an African bird of the roller family, Coraciidae. It is widely distributed in Southern and Eastern Africa, and is a vagrant to the southern Arabian Peninsula. It prefers open woodland and savanna, and it is for the most part absent from treeless places. Usually found alone or in pairs, it perches at the tops of trees, poles or other high vantage points from where it can spot insects, amphibians and small birds moving about on the ground. Nesting takes place in a natural hole in a tree where a clutch of 2–4 eggs are laid, and incubated by both parents, who are extremely aggressive in defence of their nest, taking on raptors and other birds. During the breeding season the male will rise to a fair height, descending in swoops and dives, while uttering harsh, discordant cries. The sexes do not differ in coloration, and juveniles lack the long tail streamers of adults. This species is unofficially considered the national bird of Kenya. Alternative names for the lilac-breasted roller include the fork-tailed roller, lilac-throated roller, Mosilikatze's roller, and troupand.",
+  "url": "https://en.wikipedia.org/wiki/Lilac-breasted_roller"
+ },
+ "inat": {
+  "id": 2269,
+  "observations": 9807
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 65115306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/41069048",
+    "place": "Rufiji, Tanzania",
+    "date": "2015-06-25"
+   },
+   {
+    "id": 506454714,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506454714/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506454714/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281917904",
+    "place": "Serengeti National Park, Tanzania",
+    "date": "2017-07-13"
+   },
+   {
+    "id": 698430668,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698430668/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698430668/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/381689585",
+    "place": "Ngorongoro Conservation Area, Ngorongoro, TZ",
+    "date": "2026-06-30"
+   }
+  ],
+  "hero": {
+   "id": 65115306,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/41069048",
+   "place": "Rufiji, Tanzania",
+   "date": "2015-06-25"
+  }
+ },
+ "gbif": {
+  "key": 2475360,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 212256,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 103045
+   },
+   {
+    "code": "KE",
+    "count": 28618
+   },
+   {
+    "code": "TZ",
+    "count": 18591
+   },
+   {
+    "code": "NA",
+    "count": 16520
+   },
+   {
+    "code": "BW",
+    "count": 15918
+   },
+   {
+    "code": "ZW",
+    "count": 9319
+   },
+   {
+    "code": "ZM",
+    "count": 6695
+   },
+   {
+    "code": "MZ",
+    "count": 4294
+   },
+   {
+    "code": "UG",
+    "count": 2651
+   },
+   {
+    "code": "ET",
+    "count": 1815
+   },
+   {
+    "code": "MW",
+    "count": 1669
+   },
+   {
+    "code": "RW",
+    "count": 1080
+   }
+  ]
+ },
+ "warnings": []
+}

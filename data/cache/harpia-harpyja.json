@@ -1,0 +1,171 @@
+{
+ "key": "harpia-harpyja",
+ "name": "Harpia harpyja",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:50:18.397Z",
+ "names": {
+  "da": "Harpy",
+  "en": "Harpy eagle",
+  "accepted": "Harpia harpyja"
+ },
+ "wikidata": {
+  "id": "Q53745"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Harpy (fugl)",
+  "extract": "Harpyen er en af verdens største ørne. Harpyen lever i Mellem- og Sydamerika og er nationalfugl i Panama.",
+  "url": "https://da.wikipedia.org/wiki/Harpy_(fugl)"
+ },
+ "inat": {
+  "id": 5321,
+  "observations": 1673
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 154445790,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154445790/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154445790/large.jpeg",
+    "attribution": "(c) Sidnei Dantas, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/93205945",
+    "place": "Mato Grosso, BR",
+    "date": "2021-08-31"
+   },
+   {
+    "id": 302477025,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/302477025/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/302477025/large.jpg",
+    "attribution": "(c) Roger A. Morales-Flores, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/174129185",
+    "place": null,
+    "date": "2022-09-28"
+   },
+   {
+    "id": 137701938,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137701938/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137701938/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/83824558",
+    "place": "Roraima, BR",
+    "date": "2019-03-20"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 42503709,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42503709/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42503709/large.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/27325317",
+    "place": "Pinogana, PA-DR, PA",
+    "date": "2019-06-16"
+   },
+   {
+    "id": 637183444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637183444/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637183444/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/349306253",
+    "place": "Pinogana, PA-DR, PA",
+    "date": "2026-03-30"
+   },
+   {
+    "id": 354026924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354026924/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354026924/large.jpg",
+    "attribution": "(c) Kalvin Chan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200640396",
+    "place": "Panama",
+    "date": "2024-02-14"
+   }
+  ],
+  "hero": {
+   "id": 447085421,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447085421/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447085421/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/447085421",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480516,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 7863,
+  "topCountries": [
+   {
+    "code": "PA",
+    "count": 2065
+   },
+   {
+    "code": "BR",
+    "count": 1964
+   },
+   {
+    "code": "EC",
+    "count": 935
+   },
+   {
+    "code": "CO",
+    "count": 750
+   },
+   {
+    "code": "PE",
+    "count": 692
+   },
+   {
+    "code": "GY",
+    "count": 436
+   },
+   {
+    "code": "VE",
+    "count": 313
+   },
+   {
+    "code": "GF",
+    "count": 162
+   },
+   {
+    "code": "AR",
+    "count": 116
+   },
+   {
+    "code": "SR",
+    "count": 100
+   },
+   {
+    "code": "BO",
+    "count": 88
+   },
+   {
+    "code": "BZ",
+    "count": 26
+   }
+  ]
+ },
+ "warnings": []
+}

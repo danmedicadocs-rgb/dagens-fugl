@@ -1,0 +1,151 @@
+{
+ "key": "cygnus-cygnus",
+ "name": "Cygnus cygnus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:54:28.961Z",
+ "names": {
+  "da": "Sangsvane",
+  "en": "Whooper Swan",
+  "accepted": "Cygnus cygnus"
+ },
+ "wikidata": {
+  "id": "Q25612"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sangsvane",
+  "extract": "Sangsvanen er en af de tre arter af svaner, vi har i Danmark. Den er en almindelig træk- og vintergæst nordfra med ankomst omkring oktober. Siden 2002 er arten desuden begyndt at forekomme som en meget sjælden ynglefugl i Danmark. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Sangsvane"
+ },
+ "inat": {
+  "id": 6916,
+  "observations": 24101
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 631491779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/631491779/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/631491779/large.jpg",
+    "attribution": "(c) Bartosz Czołczyński, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/346434269",
+    "place": "Powiat słupski, Polska",
+    "date": "2026-03-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 681097372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681097372/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681097372/large.jpg",
+    "attribution": "(c) K.P., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/372717085",
+    "place": "Ruda Maleniecka, Polska",
+    "date": "2026-06-17"
+   },
+   {
+    "id": 592264199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592264199/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592264199/large.jpg",
+    "attribution": "(c) Вячеслав Шуплецов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326962263",
+    "place": "Первомайский р-н, Киров, Кировская обл., Россия",
+    "date": "2025-11-17"
+   },
+   {
+    "id": 74794392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74794392/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74794392/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/47164978",
+    "place": "Tähtvere, Tartu, Estonia",
+    "date": "2020-05-23"
+   }
+  ],
+  "hero": {
+   "id": 631491779,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/631491779/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/631491779/large.jpg",
+   "attribution": "(c) Bartosz Czołczyński, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/346434269",
+   "place": "Powiat słupski, Polska",
+   "date": "2026-03-27"
+  }
+ },
+ "gbif": {
+  "key": 2498347,
+  "dkTotal": 335071,
+  "dkMonths": [
+   85516,
+   60740,
+   53158,
+   11210,
+   3880,
+   2402,
+   1819,
+   2151,
+   2183,
+   12721,
+   44170,
+   53791
+  ],
+  "worldTotal": 2194013,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 1184529
+   },
+   {
+    "code": "DK",
+    "count": 335071
+   },
+   {
+    "code": "NO",
+    "count": 261624
+   },
+   {
+    "code": "FI",
+    "count": 91380
+   },
+   {
+    "code": "NL",
+    "count": 56882
+   },
+   {
+    "code": "GB",
+    "count": 56867
+   },
+   {
+    "code": "IS",
+    "count": 44217
+   },
+   {
+    "code": "EE",
+    "count": 34119
+   },
+   {
+    "code": "RU",
+    "count": 20853
+   },
+   {
+    "code": "DE",
+    "count": 20763
+   },
+   {
+    "code": "JP",
+    "count": 19462
+   },
+   {
+    "code": "PL",
+    "count": 8586
+   }
+  ]
+ },
+ "warnings": []
+}

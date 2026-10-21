@@ -1,0 +1,171 @@
+{
+ "key": "lamprotornis-superbus",
+ "name": "Lamprotornis superbus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:02.087Z",
+ "names": {
+  "da": "Trefarvet Glansstær",
+  "en": "Superb Starling",
+  "accepted": "Lamprotornis superbus"
+ },
+ "wikidata": {
+  "id": "Q608635"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Superb starling",
+  "extract": "The superb starling is a member of the starling family of birds.",
+  "url": "https://en.wikipedia.org/wiki/Superb_starling"
+ },
+ "inat": {
+  "id": 14939,
+  "observations": 5092
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 607171759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/large.jpg",
+    "attribution": "(c) olliesaunders, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/334355393",
+    "place": "Kajiado South, KE-KJ, KE",
+    "date": "2026-01-11"
+   },
+   {
+    "id": 321388897,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/321388897/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/321388897/large.jpeg",
+    "attribution": "(c) John Brew, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/184145325",
+    "place": "Babati Rural, Tanzania",
+    "date": "2022-10-31"
+   },
+   {
+    "id": 321419398,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/321419398/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/321419398/large.jpeg",
+    "attribution": "(c) John Brew, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/184161003",
+    "place": "Babati Rural, Tanzania",
+    "date": "2022-10-31"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 502906219,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502906219/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502906219/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/280042939",
+    "place": "Serengeti National Park, Tanzania",
+    "date": "2017-07-12"
+   },
+   {
+    "id": 353570080,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353570080/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353570080/large.jpg",
+    "attribution": "(c) Nathan Mesnildrey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200407914",
+    "place": "Mugumoini, Nairobi, Kenya",
+    "date": "2024-02-25"
+   },
+   {
+    "id": 502751783,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502751783/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502751783/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/279947023",
+    "place": "Ngorongoro Crater, Tanzania",
+    "date": "2017-07-12"
+   }
+  ],
+  "hero": {
+   "id": 607171759,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/large.jpg",
+   "attribution": "(c) olliesaunders, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/334355393",
+   "place": "Kajiado South, KE-KJ, KE",
+   "date": "2026-01-11"
+  }
+ },
+ "gbif": {
+  "key": 2489075,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 82897,
+  "topCountries": [
+   {
+    "code": "KE",
+    "count": 53712
+   },
+   {
+    "code": "TZ",
+    "count": 22697
+   },
+   {
+    "code": "ET",
+    "count": 4463
+   },
+   {
+    "code": "UG",
+    "count": 1048
+   },
+   {
+    "code": "AE",
+    "count": 397
+   },
+   {
+    "code": "SO",
+    "count": 222
+   },
+   {
+    "code": "NL",
+    "count": 50
+   },
+   {
+    "code": "DE",
+    "count": 42
+   },
+   {
+    "code": "SS",
+    "count": 30
+   },
+   {
+    "code": "BE",
+    "count": 20
+   },
+   {
+    "code": "MY",
+    "count": 17
+   },
+   {
+    "code": "ZZ",
+    "count": 15
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "curruca-curruca",
+ "name": "Curruca curruca",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:37.740Z",
+ "names": {
+  "da": "Gærdesanger",
+  "en": null,
+  "accepted": "Curruca curruca"
+ },
+ "wikidata": {
+  "id": "Q110257504"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gærdesanger",
+  "extract": "Gærdesangeren er en 13 centimeter stor spurvefugl, der er udbredt i de tempererede områder af Europa og i det vestlige og centrale Asien. Om vinteren trækker den til Afrika, Arabien og Indien. De danske bestande trækker til Østafrika syd for Sahara. I Danmark er den almindelig, men er ligesom flere andre afrikatrækkere gået markant tilbage siden 1980'erne. Man kan se den i lave nåleskove, i tætte buske, i parker og haver samt markhegn. Selvom den holder til mellem bladene på buske og træer, er den normalt ingen sky fugl i sit forhold til mennesker.",
+  "url": "https://da.wikipedia.org/wiki/G%C3%A6rdesanger"
+ },
+ "inat": {
+  "id": 1289484,
+  "observations": 18599
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 676651777,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/large.jpg",
+    "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/370398354",
+    "place": "Петрозаводск, Респ. Карелия, Россия",
+    "date": "2026-05-23"
+   },
+   {
+    "id": 515542685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515542685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515542685/large.jpg",
+    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286751069",
+    "place": "Provincia di Biella, Italia",
+    "date": "2025-06-03"
+   },
+   {
+    "id": 266054974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266054974/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266054974/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/154005235",
+    "place": "Dan Jerusalem Hotel, Jerusalem",
+    "date": "2023-03-31"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 732948048,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732948048/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732948048/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399488244",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-11"
+   },
+   {
+    "id": 42668610,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42668610/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42668610/large.jpg",
+    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/27423021",
+    "place": "Na Marně 414/12, Praha, Hlavní město Praha, CZ",
+    "date": "2019-06-21"
+   },
+   {
+    "id": 139566712,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139566712/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139566712/large.jpeg",
+    "attribution": "(c) E. A., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/84881867",
+    "place": "Seckau, 8732, Österreich",
+    "date": "2021-06-25"
+   }
+  ],
+  "hero": {
+   "id": 676651777,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/large.jpg",
+   "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/370398354",
+   "place": "Петрозаводск, Респ. Карелия, Россия",
+   "date": "2026-05-23"
+  }
+ },
+ "gbif": {
+  "key": 2492960,
+  "dkTotal": 164126,
+  "dkMonths": [
+   4,
+   1,
+   0,
+   28852,
+   70659,
+   30701,
+   11492,
+   14516,
+   7161,
+   515,
+   92,
+   28
+  ],
+  "worldTotal": 1392732,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 444348
+   },
+   {
+    "code": "DK",
+    "count": 164126
+   },
+   {
+    "code": "FI",
+    "count": 119431
+   },
+   {
+    "code": "IN",
+    "count": 92948
+   },
+   {
+    "code": "GB",
+    "count": 82617
+   },
+   {
+    "code": "NO",
+    "count": 76834
+   },
+   {
+    "code": "IL",
+    "count": 58251
+   },
+   {
+    "code": "DE",
+    "count": 49867
+   },
+   {
+    "code": "NL",
+    "count": 48189
+   },
+   {
+    "code": "FR",
+    "count": 45227
+   },
+   {
+    "code": "PL",
+    "count": 27448
+   },
+   {
+    "code": "BE",
+    "count": 16994
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,162 @@
+{
+ "key": "clanga-pomarina",
+ "name": "Clanga pomarina",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:02:22.493Z",
+ "names": {
+  "da": "Lille skrigeørn",
+  "en": "Lesser Spotted Eagle",
+  "accepted": "Clanga pomarina"
+ },
+ "wikidata": {
+  "id": "Q232523"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille skrigeørn",
+  "extract": "Lille skrigeørn er en ørn, der især yngler i Østeuropa. Vinterkvarteret er Afrika syd for ækvator. Fra sine ynglepladser i Tyskland og Polen strejfer den undertiden til Skandinavien.",
+  "url": "https://da.wikipedia.org/wiki/Lille_skrige%C3%B8rn"
+ },
+ "inat": {
+  "id": 201033,
+  "observations": 4594
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 118239549,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118239549/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118239549/large.jpg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72514146",
+    "place": "Rwaished District, Jordan",
+    "date": "2014-12-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 580238040,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/580238040/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/580238040/large.jpg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/320883434",
+    "place": "Šapnagiai, Akmenės r. sav., Lithuania",
+    "date": "2025-09-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 13669753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13669753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13669753/large.jpg",
+    "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/9955525",
+    "place": "Sango, Save Valley Conservancy",
+    "date": "2018-01-11"
+   },
+   {
+    "id": 317662111,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317662111/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317662111/large.jpeg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182160326",
+    "place": "40342, Lietuva",
+    "date": "2023-09-07"
+   },
+   {
+    "id": 332366807,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332366807/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332366807/large.jpg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189691259",
+    "place": "Gagra, GE-AB, GE",
+    "date": "2023-09-17"
+   }
+  ],
+  "hero": {
+   "id": 118239549,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118239549/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118239549/large.jpg",
+   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/72514146",
+   "place": "Rwaished District, Jordan",
+   "date": "2014-12-29"
+  }
+ },
+ "gbif": {
+  "key": 2480505,
+  "dkTotal": 1948,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   212,
+   1142,
+   309,
+   8,
+   58,
+   187,
+   27,
+   4,
+   0
+  ],
+  "worldTotal": 181660,
+  "topCountries": [
+   {
+    "code": "GE",
+    "count": 24218
+   },
+   {
+    "code": "IL",
+    "count": 16902
+   },
+   {
+    "code": "ZW",
+    "count": 12947
+   },
+   {
+    "code": "TR",
+    "count": 11535
+   },
+   {
+    "code": "ZM",
+    "count": 10333
+   },
+   {
+    "code": "BW",
+    "count": 8985
+   },
+   {
+    "code": "EE",
+    "count": 7865
+   },
+   {
+    "code": "PL",
+    "count": 7227
+   },
+   {
+    "code": "SE",
+    "count": 6306
+   },
+   {
+    "code": "ZA",
+    "count": 6253
+   },
+   {
+    "code": "TZ",
+    "count": 6234
+   },
+   {
+    "code": "UA",
+    "count": 5342
+   }
+  ]
+ },
+ "warnings": []
+}

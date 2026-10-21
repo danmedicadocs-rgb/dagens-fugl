@@ -1,0 +1,182 @@
+{
+ "key": "crotophaga-ani",
+ "name": "Crotophaga ani",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:52:15.006Z",
+ "names": {
+  "da": "Ani",
+  "en": "Smooth-billed Ani",
+  "accepted": "Crotophaga ani"
+ },
+ "wikidata": {
+  "id": "Q256046"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Smooth-billed ani",
+  "extract": "The smooth-billed ani is a bird in the cuckoo family. It is a resident breeding species from southern Florida, the Caribbean, parts of Central America, south to western Ecuador, Brazil, northern Argentina and southern Chile. It was introduced to Galápagos around the 1960s and is potentially impacting native and endemic species across the archipelago.",
+  "url": "https://en.wikipedia.org/wiki/Smooth-billed_ani"
+ },
+ "inat": {
+  "id": 1971,
+  "observations": 18620
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 114344186,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114344186/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114344186/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70348404",
+    "place": "Rio Negro, Ecuador",
+    "date": "2021-02-28"
+   },
+   {
+    "id": 58843184,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58843184/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58843184/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/37148570",
+    "place": "Colon, PA",
+    "date": "2019-12-31"
+   }
+  ],
+  "female": [
+   {
+    "id": 114344471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114344471/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114344471/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70348573",
+    "place": "Rio Negro, Ecuador",
+    "date": "2021-02-28"
+   },
+   {
+    "id": 114342884,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114342884/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114342884/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70347717",
+    "place": "Rio Negro, Ecuador",
+    "date": "2021-02-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 339155418,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339155418/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339155418/large.jpg",
+    "attribution": "(c) Jay Pruett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/193102381",
+    "place": "Isla Floreana, Galapagos Islands, Ecuador",
+    "date": "2014-06-19"
+   },
+   {
+    "id": 212605073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212605073/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212605073/large.jpg",
+    "attribution": "(c) Robin White, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/125371688",
+    "place": null,
+    "date": "2022-07-07"
+   },
+   {
+    "id": 534636478,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534636478/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534636478/large.jpg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/296894378",
+    "place": "Pevas 133, Iquitos 16002, Peru",
+    "date": "2025-07-10"
+   }
+  ],
+  "hero": {
+   "id": 114342665,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114342665/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114342665/large.jpeg",
+   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/114342665",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2496209,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 701399,
+  "topCountries": [
+   {
+    "code": "CO",
+    "count": 188691
+   },
+   {
+    "code": "BR",
+    "count": 150499
+   },
+   {
+    "code": "EC",
+    "count": 57998
+   },
+   {
+    "code": "PA",
+    "count": 36212
+   },
+   {
+    "code": "PR",
+    "count": 34235
+   },
+   {
+    "code": "PE",
+    "count": 30635
+   },
+   {
+    "code": "CU",
+    "count": 25862
+   },
+   {
+    "code": "AR",
+    "count": 24028
+   },
+   {
+    "code": "VE",
+    "count": 22204
+   },
+   {
+    "code": "CR",
+    "count": 19892
+   },
+   {
+    "code": "BS",
+    "count": 17709
+   },
+   {
+    "code": "TT",
+    "count": 12935
+   }
+  ]
+ },
+ "warnings": []
+}

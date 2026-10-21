@@ -1,0 +1,202 @@
+{
+ "key": "passerina-ciris",
+ "name": "Passerina ciris",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:42:49.951Z",
+ "names": {
+  "da": "Pavefinke",
+  "en": null,
+  "accepted": "Passerina ciris"
+ },
+ "wikidata": {
+  "id": "Q932970"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Painted bunting",
+  "extract": "The painted bunting is a species of bird in the cardinal family, Cardinalidae. It is native to North America. The bright plumage of the male develops beginning in the second year of life; in the first year, they can be distinguished from the female only by close inspection.",
+  "url": "https://en.wikipedia.org/wiki/Painted_bunting"
+ },
+ "inat": {
+  "id": 10224,
+  "observations": 38135
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 3179793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/2800791",
+    "place": "Route 100, Pittsfield, VT, US",
+    "date": "2016-03-18"
+   },
+   {
+    "id": 587714516,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587714516/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587714516/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/324511257",
+    "place": "Florida, US",
+    "date": "2025-11-02"
+   },
+   {
+    "id": 307225241,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307225241/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307225241/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/176695289",
+    "place": "Painted Bunting Spot, Front Street, East St Louis, IL, USA",
+    "date": "2023-07-08"
+   }
+  ],
+  "female": [
+   {
+    "id": 104974315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104974315/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104974315/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/65242922",
+    "place": "Bernal Heights, San Francisco, CA 94110, USA",
+    "date": "2020-11-19"
+   },
+   {
+    "id": 161913380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161913380/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161913380/large.jpg",
+    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/97364121",
+    "place": "Kimble, Texas, United States",
+    "date": "2006-05-27"
+   },
+   {
+    "id": 127490446,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127490446/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127490446/large.jpeg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/77934924",
+    "place": "Richland Creek WMA North Unit, Freestone Co., TX, USA",
+    "date": "2021-05-06"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 159755233,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159755233/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159755233/large.jpg",
+    "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/96182519",
+    "place": "Eddy County, NM, USA",
+    "date": "2021-09-24"
+   },
+   {
+    "id": 530573308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530573308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530573308/large.jpg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/294759336",
+    "place": "Hidalgo County, TX, USA",
+    "date": "2025-07-02"
+   },
+   {
+    "id": 414592761,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414592761/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414592761/large.png",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/233296591",
+    "place": "Oklahoma, US",
+    "date": "2024-08-02"
+   }
+  ],
+  "hero": {
+   "id": 3179793,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/2800791",
+   "place": "Route 100, Pittsfield, VT, US",
+   "date": "2016-03-18"
+  }
+ },
+ "gbif": {
+  "key": 5230852,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 599143,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 527940
+   },
+   {
+    "code": "MX",
+    "count": 42293
+   },
+   {
+    "code": "CR",
+    "count": 8120
+   },
+   {
+    "code": "GT",
+    "count": 4986
+   },
+   {
+    "code": "HN",
+    "count": 2858
+   },
+   {
+    "code": "BS",
+    "count": 2506
+   },
+   {
+    "code": "SV",
+    "count": 2257
+   },
+   {
+    "code": "BZ",
+    "count": 2177
+   },
+   {
+    "code": "NI",
+    "count": 1962
+   },
+   {
+    "code": "CA",
+    "count": 1516
+   },
+   {
+    "code": "CU",
+    "count": 711
+   },
+   {
+    "code": "PA",
+    "count": 496
+   }
+  ]
+ },
+ "warnings": []
+}

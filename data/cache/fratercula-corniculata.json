@@ -1,0 +1,133 @@
+{
+ "key": "fratercula-corniculata",
+ "name": "Fratercula corniculata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:45:34.870Z",
+ "names": {
+  "da": "Hornet Lunde",
+  "en": "Horned Puffin",
+  "accepted": "Fratercula corniculata"
+ },
+ "wikidata": {
+  "id": "Q855367"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Horned puffin",
+  "extract": "The horned puffin is an auk found in the North Pacific Ocean, including the coasts of Alaska, Siberia and British Columbia. It is a pelagic seabird that feeds primarily by diving for fish. It nests in colonies, often with other auks.",
+  "url": "https://en.wikipedia.org/wiki/Horned_puffin"
+ },
+ "inat": {
+  "id": 4508,
+  "observations": 1843
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 112499599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112499599/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112499599/large.jpeg",
+    "attribution": "(c) Judith Kerman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69337654",
+    "place": "Kenai Peninsula Borough, AK, USA",
+    "date": "2008-08-12"
+   },
+   {
+    "id": 459061262,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459061262/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459061262/large.jpg",
+    "attribution": "(c) Dan Vickers, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256086979",
+    "place": "Gambell, AK, USA",
+    "date": "2022-06-01"
+   },
+   {
+    "id": 237681208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237681208/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237681208/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/139012332",
+    "place": "Kenai Peninsula Borough, AK, USA",
+    "date": "2022-09-30"
+   }
+  ],
+  "hero": {
+   "id": 112499599,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112499599/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112499599/large.jpeg",
+   "attribution": "(c) Judith Kerman, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/69337654",
+   "place": "Kenai Peninsula Borough, AK, USA",
+   "date": "2008-08-12"
+  }
+ },
+ "gbif": {
+  "key": 2481359,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 41334,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 39370
+   },
+   {
+    "code": "RU",
+    "count": 1359
+   },
+   {
+    "code": "CA",
+    "count": 364
+   },
+   {
+    "code": "ZZ",
+    "count": 106
+   },
+   {
+    "code": "JP",
+    "count": 36
+   },
+   {
+    "code": "IS",
+    "count": 6
+   },
+   {
+    "code": "UM",
+    "count": 3
+   },
+   {
+    "code": "NO",
+    "count": 2
+   },
+   {
+    "code": "GL",
+    "count": 1
+   },
+   {
+    "code": "NA",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

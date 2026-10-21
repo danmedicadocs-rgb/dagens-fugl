@@ -1,0 +1,202 @@
+{
+ "key": "accipiter-nisus",
+ "name": "Accipiter nisus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:02:06.792Z",
+ "names": {
+  "da": "Spurvehøg",
+  "en": "Eurasian Sparrowhawk",
+  "accepted": "Accipiter nisus"
+ },
+ "wikidata": {
+  "id": "Q25380"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eurasian sparrowhawk",
+  "extract": "The Eurasian sparrowhawk, also known as the northern sparrowhawk or simply the sparrowhawk, is a small bird of prey in the family Accipitridae. Adult male Eurasian sparrowhawks have bluish grey upperparts and orange-barred underparts; females and juveniles are brown above with brown barring below. The female is up to 25% larger than the male – one of the greatest size differences between the sexes in any bird species. Though it is a predator which specialises in catching woodland birds, the Eurasian sparrowhawk can be found in any habitat and often hunts garden birds in towns and cities. Males tend to take smaller birds, including tits, finches and sparrows; females catch primarily thrushes and starlings but are capable of killing birds weighing 500 g (18 oz) or more.",
+  "url": "https://en.wikipedia.org/wiki/Eurasian_sparrowhawk"
+ },
+ "inat": {
+  "id": 5106,
+  "observations": 55029
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 117234831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117234831/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117234831/large.jpg",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71955281",
+    "place": "Восточный административный округ, Москва, Россия",
+    "date": "2021-03-24"
+   },
+   {
+    "id": 19906041,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19906041/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19906041/large.jpg",
+    "attribution": "(c) Paul Lewis, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/13542723",
+    "place": "Maple Cross, UK",
+    "date": "2018-03-20"
+   },
+   {
+    "id": 203152920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203152920/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203152920/large.jpeg",
+    "attribution": "(c) Julia Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120131336",
+    "place": "Au-Haidhausen, München, Deutschland",
+    "date": "2022-06-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 459632427,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459632427/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459632427/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256365307",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2024-12-27"
+   },
+   {
+    "id": 33149141,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33149141/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33149141/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/21426530",
+    "place": "Центральный административный округ, Москва, Россия",
+    "date": "2019-03-20"
+   },
+   {
+    "id": 25369028,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25369028/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25369028/large.jpeg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/16803884",
+    "place": "Constantine, Algérie",
+    "date": "2017-12-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 334353669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334353669/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334353669/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/190695118",
+    "place": "Sutton Coldfield B76 0BN, UK",
+    "date": "2023-11-11"
+   },
+   {
+    "id": 171303259,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171303259/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171303259/large.jpeg",
+    "attribution": "(c) Julia Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/102472176",
+    "place": "Au-Haidhausen, München, Deutschland",
+    "date": "2021-06-01"
+   },
+   {
+    "id": 587012573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587012573/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587012573/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/324335286",
+    "place": "Republike Hrvatske, Grude, Federacija Bosne i Hercegovine, BA",
+    "date": "2025-11-01"
+   }
+  ],
+  "hero": {
+   "id": 117234831,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117234831/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117234831/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/71955281",
+   "place": "Восточный административный округ, Москва, Россия",
+   "date": "2021-03-24"
+  }
+ },
+ "gbif": {
+  "key": 2480637,
+  "dkTotal": 383005,
+  "dkMonths": [
+   22160,
+   18285,
+   37773,
+   64481,
+   37609,
+   9776,
+   11202,
+   31020,
+   55188,
+   56379,
+   23528,
+   15326
+  ],
+  "worldTotal": 2969155,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 659622
+   },
+   {
+    "code": "DK",
+    "count": 383005
+   },
+   {
+    "code": "GB",
+    "count": 301932
+   },
+   {
+    "code": "FR",
+    "count": 257925
+   },
+   {
+    "code": "NL",
+    "count": 232323
+   },
+   {
+    "code": "NO",
+    "count": 201239
+   },
+   {
+    "code": "BE",
+    "count": 158187
+   },
+   {
+    "code": "DE",
+    "count": 126574
+   },
+   {
+    "code": "ES",
+    "count": 113622
+   },
+   {
+    "code": "FI",
+    "count": 110844
+   },
+   {
+    "code": "IL",
+    "count": 41484
+   },
+   {
+    "code": "RU",
+    "count": 32060
+   }
+  ]
+ },
+ "warnings": []
+}

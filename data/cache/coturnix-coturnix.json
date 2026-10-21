@@ -1,0 +1,161 @@
+{
+ "key": "coturnix-coturnix",
+ "name": "Coturnix coturnix",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:11.197Z",
+ "names": {
+  "da": "Vagtel",
+  "en": "Common Quail",
+  "accepted": "Coturnix coturnix"
+ },
+ "wikidata": {
+  "id": "Q28358"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Vagtel",
+  "extract": "Vagtel, også kendt som almindelig vagtel, er en fugl i fasanfamilien. Vagtlen er en lille, omkring 17 centimeter høj fugl. Den er vanskelig at få øje på, både på grund af fjerdragtens kamuflerende farve, og fordi den oftest skjuler sig i højt græs. Vagtlen er en trækfugl og har lange vinger sammenlignet med andre hønsefugle.",
+  "url": "https://da.wikipedia.org/wiki/Vagtel"
+ },
+ "inat": {
+  "id": 804,
+  "observations": 4548
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 751141593,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751141593/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/751141593/large.jpg",
+    "attribution": "(c) David Kelly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/408610750",
+    "place": null,
+    "date": "2026-10-15"
+   },
+   {
+    "id": 668891875,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668891875/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668891875/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/366324114",
+    "place": "14 Planebruch-Damelang-Freienthal, Germany",
+    "date": "2026-05-11"
+   },
+   {
+    "id": 615547024,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615547024/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615547024/large.jpg",
+    "attribution": "(c) Nils, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/338472830",
+    "place": "Transformation Boulevard, Thuwal, Mecca, SA",
+    "date": "2026-02-13"
+   }
+  ],
+  "female": [
+   {
+    "id": 598009995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598009995/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598009995/large.jpg",
+    "attribution": "(c) Dylan Leonard, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/329856594",
+    "place": "Richmond Local Municipality, South Africa",
+    "date": "2025-11-22"
+   },
+   {
+    "id": 47811079,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47811079/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47811079/large.jpg",
+    "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/30596699",
+    "place": "Шымкент, Казахстан",
+    "date": "2019-08-11"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 751141593,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751141593/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/751141593/large.jpg",
+   "attribution": "(c) David Kelly, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/408610750",
+   "place": null,
+   "date": "2026-10-15"
+  }
+ },
+ "gbif": {
+  "key": 2474156,
+  "dkTotal": 21341,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   97,
+   3075,
+   8267,
+   6754,
+   3027,
+   62,
+   28,
+   12,
+   0
+  ],
+  "worldTotal": 505733,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 101607
+   },
+   {
+    "code": "SE",
+    "count": 84340
+   },
+   {
+    "code": "FR",
+    "count": 78938
+   },
+   {
+    "code": "PT",
+    "count": 50959
+   },
+   {
+    "code": "NL",
+    "count": 27683
+   },
+   {
+    "code": "ZA",
+    "count": 25984
+   },
+   {
+    "code": "DK",
+    "count": 21341
+   },
+   {
+    "code": "NO",
+    "count": 17011
+   },
+   {
+    "code": "BE",
+    "count": 10388
+   },
+   {
+    "code": "DE",
+    "count": 8436
+   },
+   {
+    "code": "GB",
+    "count": 8382
+   },
+   {
+    "code": "IL",
+    "count": 7477
+   }
+  ]
+ },
+ "warnings": []
+}

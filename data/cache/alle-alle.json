@@ -1,0 +1,141 @@
+{
+ "key": "alle-alle",
+ "name": "Alle alle",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:29.945Z",
+ "names": {
+  "da": "Søkonge",
+  "en": "Little Auk",
+  "accepted": "Alle alle"
+ },
+ "wikidata": {
+  "id": "Q26470"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Little auk",
+  "extract": "The little auk (Europe) or dovekie is a small auk, the only member of the genus Alle. It breeds in huge numbers on islands in the high Arctic of the North Atlantic Ocean. There are two subspecies; A. a. alle breeds in Greenland, Novaya Zemlya and Svalbard; and A. a. polaris on Franz Josef Land. A small number of individuals also breed on Little Diomede Island in the Bering Strait, with additional breeding individuals thought to occur on King Island, St. Lawrence Island, St. Matthew Island and the Pribilof Islands in the Bering Sea. It also formerly bred on Grímsey just north of Iceland, but is extinct there now. In winter, they disperse widely across the Arctic and North Atlantic Oceans, with the largest numbers in the Arctic close to the pack ice edge, and smaller numbers south to northern Great Britain in the eastern Atlantic, and Nova Scotia in the western Atlantic.",
+  "url": "https://en.wikipedia.org/wiki/Little_auk"
+ },
+ "inat": {
+  "id": 4524,
+  "observations": 2072
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 344000523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000523/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000523/large.jpeg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195524477",
+    "place": "Rudee Inlet, Virginia Beach, VA, USA",
+    "date": "2023-12-31"
+   },
+   {
+    "id": 110758403,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110758403/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110758403/large.jpeg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68406860",
+    "place": "Virginia Beach, VA, USA",
+    "date": "2021-01-18"
+   },
+   {
+    "id": 412759622,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412759622/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412759622/large.jpeg",
+    "attribution": "(c) Valentin Moser, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/232351956",
+    "place": "Jan Mayen, SJ",
+    "date": "2024-06-01"
+   }
+  ],
+  "hero": {
+   "id": 101346159,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101346159/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101346159/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/101346159",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481299,
+  "dkTotal": 10600,
+  "dkMonths": [
+   1063,
+   864,
+   289,
+   32,
+   13,
+   14,
+   27,
+   4,
+   38,
+   3013,
+   4135,
+   1094
+  ],
+  "worldTotal": 131121,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 27811
+   },
+   {
+    "code": "NO",
+    "count": 27606
+   },
+   {
+    "code": "SE",
+    "count": 16133
+   },
+   {
+    "code": "CA",
+    "count": 15480
+   },
+   {
+    "code": "DK",
+    "count": 10600
+   },
+   {
+    "code": "SJ",
+    "count": 8966
+   },
+   {
+    "code": "GB",
+    "count": 8108
+   },
+   {
+    "code": "NL",
+    "count": 6581
+   },
+   {
+    "code": "GL",
+    "count": 4231
+   },
+   {
+    "code": "IS",
+    "count": 663
+   },
+   {
+    "code": "BE",
+    "count": 632
+   },
+   {
+    "code": "FR",
+    "count": 628
+   }
+  ]
+ },
+ "warnings": []
+}

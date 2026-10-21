@@ -1,0 +1,141 @@
+{
+ "key": "ardenna-grisea",
+ "name": "Ardenna grisea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:59:27.588Z",
+ "names": {
+  "da": "Sodfarvet Skråpe",
+  "en": "Sooty Shearwater",
+  "accepted": "Ardenna grisea"
+ },
+ "wikidata": {
+  "id": "Q27074603"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sodfarvet skråpe",
+  "extract": "Sodfarvet skråpe er en fugl i ordenen af stormfugle. Den har navn efter sin ensfarvede sodbrune fjerdragt, der på lang afstand virker helt sort. Den er noget større end almindelig skråpe og er som denne en elegant og fremragende flyver. Sodfarvet skråpe er en typisk havfugl, der kun kommer til land for at yngle. Fra ynglepladserne i Sydatlanten, hvor Falklandsøerne er det nærmeste større yngleområde i forhold til Danmark, foretages lange vandringer om vinteren til Nordatlanten, hvor de først dukker op langs de amerikanske kyster i forårs- og sommermånederne og senere når frem til havet omkring Island, Norge og Storbritannien.Længde 40-50 cm\nVingefang 93-106 cm\nLevealder 25-30 år",
+  "url": "https://da.wikipedia.org/wiki/Sodfarvet_skr%C3%A5pe"
+ },
+ "inat": {
+  "id": 502899,
+  "observations": 7698
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 489194764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489194764/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489194764/large.jpeg",
+    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/271939988",
+    "place": null,
+    "date": "2024-12-08"
+   },
+   {
+    "id": 392318015,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392318015/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/392318015/large.jpeg",
+    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/221538838",
+    "place": "Auckland islands, Auckland Islands - Motu Maha Marine Reserve, NZ-SO, NZ",
+    "date": "2023-12-24"
+   },
+   {
+    "id": 369593402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369593402/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369593402/large.jpeg",
+    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/208874565",
+    "place": "Southland, NZ-SO, NZ",
+    "date": "2023-12-26"
+   }
+  ],
+  "hero": {
+   "id": 489194764,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489194764/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489194764/large.jpeg",
+   "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/271939988",
+   "place": null,
+   "date": "2024-12-08"
+  }
+ },
+ "gbif": {
+  "key": 5739277,
+  "dkTotal": 5770,
+  "dkMonths": [
+   45,
+   5,
+   4,
+   8,
+   25,
+   14,
+   36,
+   504,
+   2286,
+   2269,
+   450,
+   122
+  ],
+  "worldTotal": 432578,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 272080
+   },
+   {
+    "code": "NZ",
+    "count": 24743
+   },
+   {
+    "code": "CL",
+    "count": 23650
+   },
+   {
+    "code": "CA",
+    "count": 20146
+   },
+   {
+    "code": "GB",
+    "count": 13681
+   },
+   {
+    "code": "SE",
+    "count": 8629
+   },
+   {
+    "code": "AU",
+    "count": 8614
+   },
+   {
+    "code": "ES",
+    "count": 7337
+   },
+   {
+    "code": "DK",
+    "count": 5770
+   },
+   {
+    "code": "AR",
+    "count": 4341
+   },
+   {
+    "code": "ZA",
+    "count": 4126
+   },
+   {
+    "code": "FK",
+    "count": 3883
+   }
+  ]
+ },
+ "warnings": []
+}

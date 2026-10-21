@@ -1,0 +1,182 @@
+{
+ "key": "galbula-ruficauda",
+ "name": "Galbula ruficauda",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:52:58.341Z",
+ "names": {
+  "da": "Rødhalet jacamar",
+  "en": "Rufous-tailed Jacamar",
+  "accepted": "Galbula ruficauda"
+ },
+ "wikidata": {
+  "id": "Q765770"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rødhalet jacamar",
+  "extract": "Den rødhalede jacamar er en glansfugl. Den når en længde på 25 cm og vejer 25 g. Den lever i det sydlige Mellemamerika og i det nordlige, vestlige og centrale Sydamerika. Den spiser primært bivoks, men også insekter.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8dhalet_jacamar"
+ },
+ "inat": {
+  "id": 1468,
+  "observations": 7025
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 20586390,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20586390/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20586390/large.jpeg",
+    "attribution": "(c) Pedro Henrique Maloso Ramos, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/13931812",
+    "place": "Piracicaba - SP, Brasil",
+    "date": "2018-02-10"
+   },
+   {
+    "id": 479284298,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479284298/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479284298/large.jpeg",
+    "attribution": "(c) geosesarma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/266755350",
+    "place": "Heredia, Sarapiquí, Barrio Flaminia, Costa Rica",
+    "date": "2025-03-16"
+   },
+   {
+    "id": 31680279,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31680279/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31680279/large.png",
+    "attribution": "(c) Karen (with occasional help from Mike), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20523506",
+    "place": "Puntarenas Province, Costa Rica",
+    "date": "2019-02-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 479284286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479284286/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479284286/large.jpeg",
+    "attribution": "(c) geosesarma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/266755348",
+    "place": "Heredia, Sarapiquí, Barrio Flaminia, Costa Rica",
+    "date": "2025-03-16"
+   },
+   {
+    "id": 187586514,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187586514/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187586514/large.jpeg",
+    "attribution": "(c) anasacuta, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/111143049",
+    "place": "Agujitas de Drake, Provincia de Puntarenas, Costa Rica",
+    "date": "2022-03-19"
+   },
+   {
+    "id": 566745462,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566745462/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566745462/large.jpg",
+    "attribution": "(c) Jonathan Lorencetti Ehlert, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/313818254",
+    "place": "Duque de Caxias, Cuiabá - MT, Brasil",
+    "date": "2023-06-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 14814518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14814518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14814518/large.jpeg",
+    "attribution": "(c) Sindy Martinez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/10621346",
+    "place": "Vda. La Hermosa, Sonsón, Antioquia, Colombia",
+    "date": "2017-10-06"
+   }
+  ],
+  "hero": {
+   "id": 20586390,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20586390/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20586390/large.jpeg",
+   "attribution": "(c) Pedro Henrique Maloso Ramos, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/13931812",
+   "place": "Piracicaba - SP, Brasil",
+   "date": "2018-02-10"
+  }
+ },
+ "gbif": {
+  "key": 5228236,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 195023,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 49873
+   },
+   {
+    "code": "CR",
+    "count": 46219
+   },
+   {
+    "code": "CO",
+    "count": 37218
+   },
+   {
+    "code": "VE",
+    "count": 18122
+   },
+   {
+    "code": "BZ",
+    "count": 14980
+   },
+   {
+    "code": "GT",
+    "count": 7110
+   },
+   {
+    "code": "TT",
+    "count": 6906
+   },
+   {
+    "code": "BO",
+    "count": 3190
+   },
+   {
+    "code": "MX",
+    "count": 3162
+   },
+   {
+    "code": "PA",
+    "count": 2810
+   },
+   {
+    "code": "EC",
+    "count": 2484
+   },
+   {
+    "code": "HN",
+    "count": 1734
+   }
+  ]
+ },
+ "warnings": []
+}

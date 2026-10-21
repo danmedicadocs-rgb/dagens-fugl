@@ -1,0 +1,141 @@
+{
+ "key": "brotogeris-jugularis",
+ "name": "Brotogeris jugularis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:51:49.561Z",
+ "names": {
+  "da": "Toviparakit",
+  "en": "Orange-chinned Parakeet",
+  "accepted": "Brotogeris jugularis"
+ },
+ "wikidata": {
+  "id": "Q520983"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Orange-chinned parakeet",
+  "extract": "The orange-chinned parakeet, also known as the Tovi parakeet, is a species of bird in subfamily Arinae of the family Psittacidae, the African and New World parrots. It is found from southern Mexico through Central America into Colombia and Venezuela.",
+  "url": "https://en.wikipedia.org/wiki/Orange-chinned_parakeet"
+ },
+ "inat": {
+  "id": 19211,
+  "observations": 8230
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 109353242,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109353242/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109353242/large.jpg",
+    "attribution": "(c) Guillermo J. Fadul R., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67650701",
+    "place": "Paseo Del Valle, Panama City, Panama",
+    "date": "2020-12-03"
+   },
+   {
+    "id": 414801287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414801287/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414801287/large.jpg",
+    "attribution": "(c) Jason Alexander, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/233408635",
+    "place": "Costa del Este, Panamá, Provincia de Panamá, Panama",
+    "date": "2024-02-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 109353175,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109353175/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109353175/large.jpg",
+    "attribution": "(c) Guillermo J. Fadul R., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67650645",
+    "place": "Paseo Del Valle, Panama City, Panama",
+    "date": "2020-12-03"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 157601516,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157601516/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157601516/large.jpg",
+   "attribution": "(c) Alejandro  Bayer Tamayo, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/157601516",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2479563,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 426124,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 182948
+   },
+   {
+    "code": "PA",
+    "count": 97214
+   },
+   {
+    "code": "CO",
+    "count": 79052
+   },
+   {
+    "code": "SV",
+    "count": 18124
+   },
+   {
+    "code": "NI",
+    "count": 15268
+   },
+   {
+    "code": "VE",
+    "count": 13515
+   },
+   {
+    "code": "HN",
+    "count": 8250
+   },
+   {
+    "code": "GT",
+    "count": 7682
+   },
+   {
+    "code": "MX",
+    "count": 3866
+   },
+   {
+    "code": "ZZ",
+    "count": 28
+   },
+   {
+    "code": "BR",
+    "count": 14
+   },
+   {
+    "code": "US",
+    "count": 14
+   }
+  ]
+ },
+ "warnings": []
+}

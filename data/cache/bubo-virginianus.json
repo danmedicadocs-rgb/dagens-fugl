@@ -1,0 +1,202 @@
+{
+ "key": "bubo-virginianus",
+ "name": "Bubo virginianus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:41:51.080Z",
+ "names": {
+  "da": "Amerikansk Stor Hornugle",
+  "en": "Great Horned Owl",
+  "accepted": "Bubo virginianus"
+ },
+ "wikidata": {
+  "id": "Q81515"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Great horned owl",
+  "extract": "The great horned owl, also known as the tiger owl or the hoot owl, is a large owl native to the Americas. It is an extremely adaptable bird with a vast range and is the most widely distributed true owl in the Americas. Its diet consists primarily of rabbits and hares, rats and mice, and voles; it remains one of the few regular predators of skunk. Hunting also includes rodents, larger mid-sized mammals, birds, reptiles, amphibians, and invertebrates.",
+  "url": "https://en.wikipedia.org/wiki/Great_horned_owl"
+ },
+ "inat": {
+  "id": 20044,
+  "observations": 94910
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 422490920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422490920/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422490920/large.jpeg",
+    "attribution": "(c) Mavaddat Javid, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/237397128",
+    "place": "Kelowna, BC V1Y, Canada",
+    "date": "2024-08-22"
+   },
+   {
+    "id": 353833464,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353833464/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353833464/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/200537207",
+    "place": "Thousand Palms, CA, US",
+    "date": "2024-02-25"
+   },
+   {
+    "id": 185625102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185625102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185625102/large.jpg",
+    "attribution": "(c) Kalvin Chan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/110071320",
+    "place": "Central Okanagan, CA-BC, CA",
+    "date": "2022-03-31"
+   }
+  ],
+  "female": [
+   {
+    "id": 636046167,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636046167/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636046167/large.jpg",
+    "attribution": "(c) Jimmy Dee, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/348726111",
+    "place": "Queens, CA-NB, CA",
+    "date": "2026-04-09"
+   },
+   {
+    "id": 119732085,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119732085/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/119732085/large.jpg",
+    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/73347472",
+    "place": "Pipe Creek",
+    "date": "2021-04-03"
+   },
+   {
+    "id": 406547591,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406547591/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/406547591/large.jpg",
+    "attribution": "(c) Scott Crabtree, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/229056126",
+    "place": "Old Fort Lowell, Tucson, AZ 85712, USA",
+    "date": "2024-07-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 264835127,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264835127/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264835127/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/153342747",
+    "place": "Carondelet Park, St. Louis, MO, USA",
+    "date": "2023-03-12"
+   },
+   {
+    "id": 59366335,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59366335/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59366335/large.jpeg",
+    "attribution": "(c) John Krampl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37447483",
+    "place": "Division No. 3, AB, Canada",
+    "date": "2019-07-09"
+   },
+   {
+    "id": 363004968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363004968/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363004968/large.jpg",
+    "attribution": "(c) Zack Abbey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/205307111",
+    "place": "Ventura County, US-CA, US",
+    "date": "2024-04-03"
+   }
+  ],
+  "hero": {
+   "id": 422490920,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422490920/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422490920/large.jpeg",
+   "attribution": "(c) Mavaddat Javid, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/237397128",
+   "place": "Kelowna, BC V1Y, Canada",
+   "date": "2024-08-22"
+  }
+ },
+ "gbif": {
+  "key": 5959118,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1653291,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1449885
+   },
+   {
+    "code": "CA",
+    "count": 170635
+   },
+   {
+    "code": "MX",
+    "count": 11436
+   },
+   {
+    "code": "BR",
+    "count": 5950
+   },
+   {
+    "code": "AR",
+    "count": 4319
+   },
+   {
+    "code": "GT",
+    "count": 1873
+   },
+   {
+    "code": "CO",
+    "count": 1358
+   },
+   {
+    "code": "EC",
+    "count": 1294
+   },
+   {
+    "code": "HN",
+    "count": 1194
+   },
+   {
+    "code": "UY",
+    "count": 1130
+   },
+   {
+    "code": "VE",
+    "count": 707
+   },
+   {
+    "code": "GY",
+    "count": 580
+   }
+  ]
+ },
+ "warnings": []
+}

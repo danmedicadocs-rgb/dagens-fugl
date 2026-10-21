@@ -1,0 +1,140 @@
+{
+ "key": "pycnonotus-barbatus",
+ "name": "Pycnonotus barbatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:47.300Z",
+ "names": {
+  "da": "Berberbulbul",
+  "en": "Common Bulbul",
+  "accepted": "Pycnonotus barbatus"
+ },
+ "wikidata": {
+  "id": "Q790596"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Common bulbul",
+  "extract": "The common bulbul is a member of the bulbul family of passerine birds. It is widespread throughout most of Africa except for the very arid areas, and has recently begun breeding in southernmost Spain. Ten subspecies are recognised based on the geographical variation in plumage. Some of these were formerly considered as separate species: Dodson's bulbul, the Somali bulbul and the dark-capped bulbul.",
+  "url": "https://en.wikipedia.org/wiki/Common_bulbul"
+ },
+ "inat": {
+  "id": 14588,
+  "observations": 16913
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 11031277,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11031277/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11031277/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/8309034",
+    "place": "Hogsback, 5721, South Africa",
+    "date": "2017-09-18"
+   },
+   {
+    "id": 695385154,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695385154/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695385154/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/380116774",
+    "place": "Lake Duluti Rd, Meru, TZ",
+    "date": "2026-06-20"
+   },
+   {
+    "id": 38697956,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38697956/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38697956/large.jpeg",
+    "attribution": "(c) Gonzalo Roget, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/25010733",
+    "place": "Distrito Municipal de Ehlanzeni, Sudáfrica",
+    "date": "2019-05-06"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 1447665,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1447665/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1447665/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/1447665",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2486147,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 398172,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 113640
+   },
+   {
+    "code": "KE",
+    "count": 54030
+   },
+   {
+    "code": "UG",
+    "count": 36939
+   },
+   {
+    "code": "TZ",
+    "count": 27231
+   },
+   {
+    "code": "MA",
+    "count": 23819
+   },
+   {
+    "code": "ZM",
+    "count": 16693
+   },
+   {
+    "code": "ZW",
+    "count": 13210
+   },
+   {
+    "code": "GH",
+    "count": 13044
+   },
+   {
+    "code": "GM",
+    "count": 11428
+   },
+   {
+    "code": "RW",
+    "count": 9179
+   },
+   {
+    "code": "ET",
+    "count": 8477
+   },
+   {
+    "code": "SN",
+    "count": 7658
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,182 @@
+{
+ "key": "sylvia-borin",
+ "name": "Sylvia borin",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:33.291Z",
+ "names": {
+  "da": "Havesanger",
+  "en": null,
+  "accepted": "Sylvia borin"
+ },
+ "wikidata": {
+  "id": "Q202478"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Havesanger",
+  "extract": "Havesangeren er en 14 centimeter stor spurvefugl. der er udbredt i næsten hele Europa og i et bælte ind i det vestlige Asien. I Danmark er havesangeren en almindelig ynglefugl, dog ikke i Vestjylland hvor nåleskovene er i overtal. Den foretrækker åbne løvskove, parker og gamle haver, så længe der er tæt krat og buskadser. Da den er en sky fugl, indtager havesangeren helst sin føde mellem grenene i buske og træer, og kun i det tidlige forår før løvspring er den let at få øje på.",
+  "url": "https://da.wikipedia.org/wiki/Havesanger"
+ },
+ "inat": {
+  "id": 15302,
+  "observations": 10725
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 275969993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/159720988",
+    "place": "Brockholes LWT, Preston, Lancashire, UK",
+    "date": "2023-05-04"
+   },
+   {
+    "id": 656003457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656003457/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656003457/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/359551774",
+    "place": "Paxton Pits Nature Reserve",
+    "date": "2026-05-08"
+   },
+   {
+    "id": 198801354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198801354/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198801354/large.jpeg",
+    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/117688649",
+    "place": "Свердловская обл., Россия, 620908",
+    "date": "2022-05-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 276955990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276955990/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276955990/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/160274632",
+    "place": "77440 Congis-sur-Thérouanne, France",
+    "date": "2023-05-06"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 732947454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732947454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732947454/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399487901",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-11"
+   },
+   {
+    "id": 52945816,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52945816/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52945816/large.jpg",
+    "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/33692849",
+    "place": "Кадуйский р-н, Вологодская обл., Россия",
+    "date": "2006-07-13"
+   },
+   {
+    "id": 732951384,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732951384/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732951384/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399489989",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-11"
+   }
+  ],
+  "hero": {
+   "id": 275969993,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/159720988",
+   "place": "Brockholes LWT, Preston, Lancashire, UK",
+   "date": "2023-05-04"
+  }
+ },
+ "gbif": {
+  "key": 2492942,
+  "dkTotal": 119367,
+  "dkMonths": [
+   1,
+   0,
+   3,
+   432,
+   53877,
+   37455,
+   17223,
+   6184,
+   4051,
+   66,
+   13,
+   10
+  ],
+  "worldTotal": 1759633,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 463487
+   },
+   {
+    "code": "NL",
+    "count": 224631
+   },
+   {
+    "code": "ES",
+    "count": 186517
+   },
+   {
+    "code": "FI",
+    "count": 170887
+   },
+   {
+    "code": "FR",
+    "count": 151156
+   },
+   {
+    "code": "DK",
+    "count": 119367
+   },
+   {
+    "code": "NO",
+    "count": 101881
+   },
+   {
+    "code": "GB",
+    "count": 79992
+   },
+   {
+    "code": "DE",
+    "count": 63859
+   },
+   {
+    "code": "BE",
+    "count": 50997
+   },
+   {
+    "code": "PL",
+    "count": 20268
+   },
+   {
+    "code": "EE",
+    "count": 15977
+   }
+  ]
+ },
+ "warnings": []
+}

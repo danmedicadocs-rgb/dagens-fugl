@@ -1,0 +1,141 @@
+{
+ "key": "calidris-maritima",
+ "name": "Calidris maritima",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:42.446Z",
+ "names": {
+  "da": "Sortgrå ryle",
+  "en": "Purple Sandpiper",
+  "accepted": "Calidris maritima"
+ },
+ "wikidata": {
+  "id": "Q62359"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sortgrå ryle",
+  "extract": "Sortgrå ryle er en vadefugl, der ses som en fåtallig gæst i Danmark udenfor dens yngletid. Fuglene kommer fra det nordlige Skandinavien og muligvis også fra Svalbard og det nordlige Rusland, hvor den yngler midt på sommeren.",
+  "url": "https://da.wikipedia.org/wiki/Sortgr%C3%A5_ryle"
+ },
+ "inat": {
+  "id": 3856,
+  "observations": 7404
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 347080847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/large.jpeg",
+    "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197111085",
+    "place": "Brantley Lake, Eddy County, NM, USA",
+    "date": "2024-01-19"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 164077404,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164077404/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164077404/large.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/98537333",
+    "place": "St. Andrä am Zicksee, BL, Österreich",
+    "date": "2021-10-17"
+   },
+   {
+    "id": 300759348,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300759348/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/300759348/large.jpg",
+    "attribution": "(c) Алексей Логинов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/173206159",
+    "place": "Таймырский Долгано-Ненецкий р-н, Красноярский край, Россия",
+    "date": "2023-07-11"
+   }
+  ],
+  "hero": {
+   "id": 347080847,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/large.jpeg",
+   "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/197111085",
+   "place": "Brantley Lake, Eddy County, NM, USA",
+   "date": "2024-01-19"
+  }
+ },
+ "gbif": {
+  "key": 2481743,
+  "dkTotal": 20891,
+  "dkMonths": [
+   4335,
+   3182,
+   1622,
+   596,
+   352,
+   15,
+   12,
+   243,
+   1121,
+   4733,
+   2721,
+   1950
+  ],
+  "worldTotal": 409178,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 99948
+   },
+   {
+    "code": "NL",
+    "count": 69490
+   },
+   {
+    "code": "SE",
+    "count": 66697
+   },
+   {
+    "code": "NO",
+    "count": 48237
+   },
+   {
+    "code": "GB",
+    "count": 24746
+   },
+   {
+    "code": "DK",
+    "count": 20891
+   },
+   {
+    "code": "CA",
+    "count": 20762
+   },
+   {
+    "code": "SJ",
+    "count": 14031
+   },
+   {
+    "code": "IS",
+    "count": 12950
+   },
+   {
+    "code": "FR",
+    "count": 6331
+   },
+   {
+    "code": "BE",
+    "count": 4063
+   },
+   {
+    "code": "ES",
+    "count": 4055
+   }
+  ]
+ },
+ "warnings": []
+}

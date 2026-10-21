@@ -1,0 +1,154 @@
+{
+ "key": "anodorhynchus-hyacinthinus",
+ "name": "Anodorhynchus hyacinthinus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:56.605Z",
+ "names": {
+  "da": "Hyacintara",
+  "en": "Hyacinth Macaw",
+  "accepted": "Anodorhynchus hyacinthinus"
+ },
+ "wikidata": {
+  "id": "Q463154"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hyacintara",
+  "extract": "Hyacintara er det største medlem af ara-gruppen indenfor papegøjefamilien. \nHyacintaraen er en sjælden papegøjeart, hvor de fleste af de få eksemplarer som er tilbage i naturen lever i Brasilien – områderne Pantanal, Amazonas og Mato Grosso.",
+  "url": "https://da.wikipedia.org/wiki/Hyacintara"
+ },
+ "inat": {
+  "id": 18938,
+  "observations": 2374
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 282059510,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282059510/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282059510/large.jpeg",
+    "attribution": "(c) Renato Moraes, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163096457",
+    "place": "Pará, BR",
+    "date": "2023-05-21"
+   },
+   {
+    "id": 462931857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462931857/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462931857/large.jpeg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258056157",
+    "place": "Bonito, BR-MS, BR",
+    "date": "2025-01-08"
+   }
+  ],
+  "adult": [
+   {
+    "id": 616016929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616016929/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616016929/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/338709062",
+    "place": "Poconé, BR-MT, BR",
+    "date": "2025-08-07"
+   },
+   {
+    "id": 608026940,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608026940/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608026940/large.jpg",
+    "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334778098",
+    "place": "Aquidauana, BR-MS, BR",
+    "date": "2022-11-05"
+   },
+   {
+    "id": 714211436,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714211436/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714211436/large.jpg",
+    "attribution": "(c) Vinicius Gerolin Ceballos, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/389881868",
+    "place": "Corumbá, BR-MS, BR",
+    "date": "2025-09-13"
+   }
+  ],
+  "hero": {
+   "id": 616016929,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616016929/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616016929/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/338709062",
+   "place": "Poconé, BR-MT, BR",
+   "date": "2025-08-07"
+  }
+ },
+ "gbif": {
+  "key": 2479359,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 19064,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 18691
+   },
+   {
+    "code": "PY",
+    "count": 71
+   },
+   {
+    "code": "BO",
+    "count": 39
+   },
+   {
+    "code": "US",
+    "count": 32
+   },
+   {
+    "code": "DE",
+    "count": 23
+   },
+   {
+    "code": "ZZ",
+    "count": 22
+   },
+   {
+    "code": "AU",
+    "count": 1
+   },
+   {
+    "code": "CA",
+    "count": 1
+   },
+   {
+    "code": "FR",
+    "count": 1
+   },
+   {
+    "code": "SE",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,151 @@
+{
+ "key": "platalea-ajaja",
+ "name": "Platalea ajaja",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:50:29.123Z",
+ "names": {
+  "da": "Rosaskestork",
+  "en": "Roseate Spoonbill",
+  "accepted": "Platalea ajaja"
+ },
+ "wikidata": {
+  "id": "Q389664"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rosaskestork",
+  "extract": "Rosaskestork er en amerikansk storkefugl, der lever fra USAs sydlige kyster til Argentina.",
+  "url": "https://da.wikipedia.org/wiki/Rosaskestork"
+ },
+ "inat": {
+  "id": 62529,
+  "observations": 41558
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 488568756,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/large.jpg",
+    "attribution": "(c) Abraham A. Gómez Landero, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271617743",
+    "place": "Celestún, Yuc., México",
+    "date": "2025-04-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 306199715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306199715/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306199715/large.jpg",
+    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176144769",
+    "place": "Ken Euers Nature Area, Green Bay, WI, US",
+    "date": "2023-08-01"
+   },
+   {
+    "id": 409757680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409757680/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409757680/large.jpeg",
+    "attribution": "(c) JD Flores, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/230654356",
+    "place": "Chapel Hill, NC 27517, USA",
+    "date": "2024-07-20"
+   },
+   {
+    "id": 488716050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488716050/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488716050/large.jpg",
+    "attribution": "(c) Craig K, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271679680",
+    "place": "South Padre Island, South Padre Island, TX, US",
+    "date": "2025-04-19"
+   }
+  ],
+  "hero": {
+   "id": 488568756,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/large.jpg",
+   "attribution": "(c) Abraham A. Gómez Landero, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/271617743",
+   "place": "Celestún, Yuc., México",
+   "date": "2025-04-19"
+  }
+ },
+ "gbif": {
+  "key": 2480803,
+  "dkTotal": 4,
+  "dkMonths": [
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  "worldTotal": 800198,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 610261
+   },
+   {
+    "code": "MX",
+    "count": 34327
+   },
+   {
+    "code": "CR",
+    "count": 32551
+   },
+   {
+    "code": "AR",
+    "count": 24947
+   },
+   {
+    "code": "BR",
+    "count": 24265
+   },
+   {
+    "code": "CO",
+    "count": 16648
+   },
+   {
+    "code": "BZ",
+    "count": 8685
+   },
+   {
+    "code": "EC",
+    "count": 7293
+   },
+   {
+    "code": "CU",
+    "count": 5433
+   },
+   {
+    "code": "UY",
+    "count": 4923
+   },
+   {
+    "code": "VE",
+    "count": 3695
+   },
+   {
+    "code": "PE",
+    "count": 3685
+   }
+  ]
+ },
+ "warnings": []
+}

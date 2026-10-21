@@ -1,0 +1,162 @@
+{
+ "key": "merops-persicus",
+ "name": "Merops persicus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:24.287Z",
+ "names": {
+  "da": "Grøn Biæder",
+  "en": "Blue-cheeked Bee-eater",
+  "accepted": "Merops persicus"
+ },
+ "wikidata": {
+  "id": "Q1951359"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blue-cheeked bee-eater",
+  "extract": "The blue-cheeked bee-eater is a species of bee-eater that breeds in Northern Africa and the Middle East from eastern Turkey to Kazakhstan and India. It is generally strongly migratory, wintering in tropical Africa, although some populations are resident year-round in the Sahel. This species occurs as a rare vagrant north of its breeding range, with most vagrants occurring in Italy and Greece.",
+  "url": "https://en.wikipedia.org/wiki/Blue-cheeked_bee-eater"
+ },
+ "inat": {
+  "id": 2245,
+  "observations": 3652
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 550766014,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550766014/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550766014/large.jpg",
+    "attribution": "(c) kirinzi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/305463273",
+    "place": "Аральск, Казахстан",
+    "date": "2025-07-27"
+   },
+   {
+    "id": 680264485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680264485/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680264485/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/372280201",
+    "place": "Madinat Latifa - Dubai - Émirats arabes unis",
+    "date": "2026-06-15"
+   }
+  ],
+  "adult": [
+   {
+    "id": 670996636,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670996636/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670996636/large.jpg",
+    "attribution": "(c) Tony Rebelo, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/367438247",
+    "place": "St Lucia Estuary beach walk, iSimangaliso Wetland Park",
+    "date": "2026-04-13"
+   },
+   {
+    "id": 630849164,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630849164/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630849164/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/346107119",
+    "place": "Uitenhage Farms, Gqeberha, South Africa",
+    "date": "2026-03-28"
+   },
+   {
+    "id": 177546406,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177546406/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177546406/large.jpeg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105771734",
+    "place": "Forécariah Prefecture, Guinea",
+    "date": "2022-01-23"
+   }
+  ],
+  "hero": {
+   "id": 131752926,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131752926/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131752926/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/131752926",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2475419,
+  "dkTotal": 14,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   4,
+   9,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 82720,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 14432
+   },
+   {
+    "code": "ZA",
+    "count": 12167
+   },
+   {
+    "code": "AE",
+    "count": 8148
+   },
+   {
+    "code": "IL",
+    "count": 4880
+   },
+   {
+    "code": "GM",
+    "count": 3727
+   },
+   {
+    "code": "TZ",
+    "count": 2794
+   },
+   {
+    "code": "MA",
+    "count": 2519
+   },
+   {
+    "code": "KE",
+    "count": 2426
+   },
+   {
+    "code": "KW",
+    "count": 2324
+   },
+   {
+    "code": "SN",
+    "count": 2304
+   },
+   {
+    "code": "OM",
+    "count": 2296
+   },
+   {
+    "code": "BW",
+    "count": 2267
+   }
+  ]
+ },
+ "warnings": []
+}

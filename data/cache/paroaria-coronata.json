@@ -1,0 +1,171 @@
+{
+ "key": "paroaria-coronata",
+ "name": "Paroaria coronata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:51:39.124Z",
+ "names": {
+  "da": "Grå Kardinal",
+  "en": "Red-crested Cardinal",
+  "accepted": "Paroaria coronata"
+ },
+ "wikidata": {
+  "id": "Q720526"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-crested cardinal",
+  "extract": "The red-crested cardinal is a passerine bird in the tanager family Thraupidae. Notwithstanding its similar name, this bird is not closely related to the true cardinal family Cardinalidae. It is sometimes known as the Brazilian cardinal.",
+  "url": "https://en.wikipedia.org/wiki/Red-crested_cardinal"
+ },
+ "inat": {
+  "id": 10254,
+  "observations": 20769
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 131265271,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/large.jpeg",
+    "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/80107699",
+    "place": "Puerto Madero, CABA, Argentina",
+    "date": "2021-05-16"
+   },
+   {
+    "id": 166470862,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166470862/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166470862/large.jpeg",
+    "attribution": "(c) Trey Philips, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/99819108",
+    "place": "Lahaina, HI, USA",
+    "date": "2021-09-27"
+   },
+   {
+    "id": 398063066,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398063066/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398063066/large.jpeg",
+    "attribution": "(c) Briggs Armstrong, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224580741",
+    "place": "Waikiki, Honolulu, HI 96815, USA",
+    "date": "2024-06-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 556255868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556255868/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556255868/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/308327297",
+    "place": "Engineering Quad, Honolulu, HI 96822, USA",
+    "date": "2025-08-22"
+   },
+   {
+    "id": 236174948,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/138204679",
+    "place": "Las Colonias, Santa Fe, Argentina",
+    "date": "2008-12-31"
+   },
+   {
+    "id": 96129248,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96129248/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96129248/large.jpeg",
+    "attribution": "(c) Candela Castro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/60133406",
+    "place": "Vicente López, Provincia de Buenos Aires, Argentina",
+    "date": "2020-03-07"
+   }
+  ],
+  "hero": {
+   "id": 131265271,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/large.jpeg",
+   "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/80107699",
+   "place": "Puerto Madero, CABA, Argentina",
+   "date": "2021-05-16"
+  }
+ },
+ "gbif": {
+  "key": 2492081,
+  "dkTotal": 11,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0
+  ],
+  "worldTotal": 247115,
+  "topCountries": [
+   {
+    "code": "AR",
+    "count": 94656
+   },
+   {
+    "code": "US",
+    "count": 84874
+   },
+   {
+    "code": "UY",
+    "count": 27113
+   },
+   {
+    "code": "BR",
+    "count": 20486
+   },
+   {
+    "code": "PY",
+    "count": 13833
+   },
+   {
+    "code": "BO",
+    "count": 4719
+   },
+   {
+    "code": "PE",
+    "count": 670
+   },
+   {
+    "code": "EC",
+    "count": 251
+   },
+   {
+    "code": "TW",
+    "count": 104
+   },
+   {
+    "code": "CL",
+    "count": 101
+   },
+   {
+    "code": "ZZ",
+    "count": 36
+   },
+   {
+    "code": "DK",
+    "count": 11
+   }
+  ]
+ },
+ "warnings": []
+}

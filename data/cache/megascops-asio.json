@@ -1,0 +1,198 @@
+{
+ "key": "megascops-asio",
+ "name": "Megascops asio",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:41:56.316Z",
+ "names": {
+  "da": "Østamerikansk Dværghornugle",
+  "en": "Eastern Screech Owl",
+  "accepted": "Megascops asio"
+ },
+ "wikidata": {
+  "id": "Q251939"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eastern screech owl",
+  "extract": "The eastern screech owl or eastern screech-owl is a stocky, short-tailed owl that is relatively common in Eastern North America, from Mexico to Canada. Mid-sized for a screech owl, the species resides in most types of woodland habitats across its range and is relatively adaptable to urban and developed areas compared to other owls. Although it often lives in close proximity to humans, the eastern screech owl frequently avoids detection due to its strictly nocturnal habits.",
+  "url": "https://en.wikipedia.org/wiki/Eastern_screech_owl"
+ },
+ "inat": {
+  "id": 19765,
+  "observations": 26755
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 657047211,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/large.jpg",
+    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/360088208",
+    "place": "Mustoe, VA 24465, USA",
+    "date": "2026-05-02"
+   },
+   {
+    "id": 659880766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659880766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659880766/large.jpg",
+    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/361571757",
+    "place": "Mustoe, VA 24465, USA",
+    "date": "2026-05-14"
+   },
+   {
+    "id": 74685311,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74685311/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74685311/large.jpeg",
+    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/47090910",
+    "place": "Texas, US",
+    "date": "2020-05-22"
+   }
+  ],
+  "female": [
+   {
+    "id": 35541539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35541539/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35541539/large.jpeg",
+    "attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22938371",
+    "place": "South River City, Austin, TX, USA",
+    "date": "2019-04-14"
+   },
+   {
+    "id": 657047254,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047254/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047254/large.jpg",
+    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/360088239",
+    "place": "Mustoe, VA 24465, USA",
+    "date": "2026-05-02"
+   },
+   {
+    "id": 669225680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669225680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669225680/large.jpg",
+    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/366498747",
+    "place": "Mustoe, VA 24465, USA",
+    "date": "2026-05-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 72405236,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72405236/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72405236/large.jpg",
+    "attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45656028",
+    "place": "South River City, Austin, TX, USA",
+    "date": "2020-05-03"
+   },
+   {
+    "id": 32327031,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32327031/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32327031/large.jpg",
+    "attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20941596",
+    "place": "1509 Newning Ave, Austin, TX, US",
+    "date": "2015-05-18"
+   },
+   {
+    "id": 387186652,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387186652/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387186652/large.jpeg",
+    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/218784938",
+    "place": "Leamington, ON N8H 3V4, Canada",
+    "date": "2024-05-24"
+   }
+  ],
+  "hero": {
+   "id": 657047211,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/large.jpg",
+   "attribution": "(c) jrsweet, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/360088208",
+   "place": "Mustoe, VA 24465, USA",
+   "date": "2026-05-02"
+  }
+ },
+ "gbif": {
+  "key": 2497415,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 501168,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 445147
+   },
+   {
+    "code": "CA",
+    "count": 54184
+   },
+   {
+    "code": "MX",
+    "count": 1330
+   },
+   {
+    "code": "ZZ",
+    "count": 23
+   },
+   {
+    "code": "ES",
+    "count": 7
+   },
+   {
+    "code": "NL",
+    "count": 7
+   },
+   {
+    "code": "JP",
+    "count": 6
+   },
+   {
+    "code": "BZ",
+    "count": 1
+   },
+   {
+    "code": "DK",
+    "count": 1
+   },
+   {
+    "code": "GR",
+    "count": 1
+   },
+   {
+    "code": "KR",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

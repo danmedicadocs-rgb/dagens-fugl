@@ -1,0 +1,172 @@
+{
+ "key": "tachymarptis-melba",
+ "name": "Tachymarptis melba",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:13:33.309Z",
+ "names": {
+  "da": "Alpesejler",
+  "en": "Alpine Swift",
+  "accepted": "Tachymarptis melba"
+ },
+ "wikidata": {
+  "id": "Q321267"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Alpine swift",
+  "extract": "The alpine swift is a species of swift found in Africa, southern Europe, and Asia. They breed in mountains from southern Europe to the Himalayas. Like common swifts, they are migratory; the southern European population winters further south in southern Africa. They have very short legs which are used for clinging to vertical surfaces. Like most swifts, they never settle voluntarily on the ground, spending most of their lives in the air living on the insects they catch in their beaks.",
+  "url": "https://en.wikipedia.org/wiki/Alpine_swift"
+ },
+ "inat": {
+  "id": 72516,
+  "observations": 7533
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 229146776,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229146776/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229146776/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/134434660",
+    "place": "San Giovanni in Fiore",
+    "date": "2022-09-10"
+   },
+   {
+    "id": 529303322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529303322/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529303322/large.jpg",
+    "attribution": "(c) Valentin Moser, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/294084157",
+    "place": "Basel-Vorstaedte, Basel, Switzerland",
+    "date": "2025-06-18"
+   },
+   {
+    "id": 249550824,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249550824/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249550824/large.jpeg",
+    "attribution": "(c) Valentin Moser, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145291297",
+    "place": "Basel-Vorstaedte, Basel, Switzerland",
+    "date": "2013-07-18"
+   }
+  ],
+  "adult": [
+   {
+    "id": 78329760,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78329760/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78329760/large.jpeg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/49344144",
+    "place": "La Medina, Constantine, Algérie",
+    "date": "2020-06-12"
+   },
+   {
+    "id": 442277402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442277402/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442277402/large.jpeg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/247612263",
+    "place": "W9VM+VXG, Kattampally, Kerala 670562, India",
+    "date": "2024-04-08"
+   },
+   {
+    "id": 82753011,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82753011/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82753011/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/51949509",
+    "place": "Constantine, DZ-CO, DZ",
+    "date": "2020-07-02"
+   }
+  ],
+  "hero": {
+   "id": 78329760,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78329760/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78329760/large.jpeg",
+   "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/49344144",
+   "place": "La Medina, Constantine, Algérie",
+   "date": "2020-06-12"
+  }
+ },
+ "gbif": {
+  "key": 2477411,
+  "dkTotal": 245,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   113,
+   8,
+   15,
+   4,
+   3,
+   31,
+   21,
+   49,
+   0
+  ],
+  "worldTotal": 270345,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 61605
+   },
+   {
+    "code": "ZA",
+    "count": 45875
+   },
+   {
+    "code": "FR",
+    "count": 37064
+   },
+   {
+    "code": "TR",
+    "count": 18723
+   },
+   {
+    "code": "IN",
+    "count": 16604
+   },
+   {
+    "code": "IL",
+    "count": 15062
+   },
+   {
+    "code": "GR",
+    "count": 13272
+   },
+   {
+    "code": "IT",
+    "count": 7948
+   },
+   {
+    "code": "PT",
+    "count": 7388
+   },
+   {
+    "code": "BG",
+    "count": 7137
+   },
+   {
+    "code": "CH",
+    "count": 4952
+   },
+   {
+    "code": "NA",
+    "count": 2836
+   }
+  ]
+ },
+ "warnings": []
+}

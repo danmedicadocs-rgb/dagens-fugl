@@ -1,0 +1,177 @@
+{
+ "key": "antigone-canadensis",
+ "name": "Antigone canadensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:45:11.486Z",
+ "names": {
+  "da": null,
+  "en": null,
+  "accepted": "Antigone canadensis"
+ },
+ "wikidata": {
+  "id": "Q28114133"
+ },
+ "wiki": null,
+ "inat": {
+  "id": 508048,
+  "observations": 86471
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 293063609,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/169062838",
+    "place": "Jefferson County, ID, USA",
+    "date": "2023-06-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 259516402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259516402/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259516402/large.jpg",
+    "attribution": "(c) Patrick Hanly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/150496054",
+    "place": "Orange County, FL, USA",
+    "date": "2023-03-07"
+   },
+   {
+    "id": 66748144,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66748144/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66748144/large.jpg",
+    "attribution": "(c) Jessica, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/42055436",
+    "place": "Mississippi, US",
+    "date": "2020-04-12"
+   },
+   {
+    "id": 51246308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/51246308/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/51246308/large.jpeg",
+    "attribution": "(c) Sheelagh Halsey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/32662524",
+    "place": "Delta, BC, Canada",
+    "date": "2019-05-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 387028670,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387028670/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387028670/large.jpeg",
+    "attribution": "(c) Nick Chirico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/218701219",
+    "place": "Morrow County, OH, USA",
+    "date": "2024-05-27"
+   },
+   {
+    "id": 397544387,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397544387/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397544387/large.jpeg",
+    "attribution": "(c) Linzy L., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/224312483",
+    "place": "Turnagain, Anchorage, AK, USA",
+    "date": "2024-06-19"
+   },
+   {
+    "id": 195509378,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195509378/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195509378/large.jpeg",
+    "attribution": "(c) Eric Schmidt, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/115839282",
+    "place": "Pewaukee, WI, USA",
+    "date": "2022-05-06"
+   }
+  ],
+  "hero": {
+   "id": 293063609,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/large.jpeg",
+   "attribution": "(c) datadan, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/169062838",
+   "place": "Jefferson County, ID, USA",
+   "date": "2023-06-16"
+  }
+ },
+ "gbif": {
+  "key": 2474953,
+  "dkTotal": 959,
+  "dkMonths": [
+   245,
+   109,
+   57,
+   167,
+   200,
+   61,
+   18,
+   64,
+   35,
+   2,
+   0,
+   1
+  ],
+  "worldTotal": 2496181,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2209691
+   },
+   {
+    "code": "CA",
+    "count": 279322
+   },
+   {
+    "code": "MX",
+    "count": 1772
+   },
+   {
+    "code": "DK",
+    "count": 959
+   },
+   {
+    "code": "JP",
+    "count": 869
+   },
+   {
+    "code": "SE",
+    "count": 782
+   },
+   {
+    "code": "RU",
+    "count": 678
+   },
+   {
+    "code": "DE",
+    "count": 410
+   },
+   {
+    "code": "NO",
+    "count": 306
+   },
+   {
+    "code": "CU",
+    "count": 247
+   },
+   {
+    "code": "KR",
+    "count": 212
+   },
+   {
+    "code": "GB",
+    "count": 109
+   }
+  ]
+ },
+ "warnings": []
+}

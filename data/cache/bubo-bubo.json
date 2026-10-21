@@ -1,0 +1,202 @@
+{
+ "key": "bubo-bubo",
+ "name": "Bubo bubo",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:27.376Z",
+ "names": {
+  "da": "Stor hornugle",
+  "en": "Eurasian Eagle-owl",
+  "accepted": "Bubo bubo"
+ },
+ "wikidata": {
+  "id": "Q130933"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stor hornugle",
+  "extract": "Stor hornugle har en længde på 60-75 centimeter og et vingefang på 160-188 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/Stor_hornugle"
+ },
+ "inat": {
+  "id": 20059,
+  "observations": 7856
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 174311426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/large.jpeg",
+    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104059578",
+    "place": "Bayern, DE",
+    "date": "2021-12-31"
+   },
+   {
+    "id": 282447776,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282447776/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282447776/large.jpeg",
+    "attribution": "(c) G P Croucher, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/163313413",
+    "place": "Manhattan, New York, NY, USA",
+    "date": "2023-03-27"
+   },
+   {
+    "id": 255970394,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255970394/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255970394/large.jpeg",
+    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148621009",
+    "place": "Bayern, DE",
+    "date": "2023-02-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 279491068,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279491068/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279491068/large.jpeg",
+    "attribution": "(c) Juan C. Espinosa, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/161687178",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2023-05-14"
+   },
+   {
+    "id": 181439970,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181439970/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181439970/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/107833215",
+    "place": "3000 Leuven, België",
+    "date": "2022-03-03"
+   },
+   {
+    "id": 362334868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362334868/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362334868/large.jpeg",
+    "attribution": "(c) Matt Muir, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204958375",
+    "place": "Germany",
+    "date": "2024-03-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 364384045,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364384045/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364384045/large.jpeg",
+    "attribution": "(c) Karsten Ste, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206038622",
+    "place": "53604 Bad Honnef, Deutschland",
+    "date": "2023-06-18"
+   },
+   {
+    "id": 398809363,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809363/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809363/large.jpg",
+    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224975889",
+    "place": "Baden-Württemberg, DE",
+    "date": "2021-06-04"
+   },
+   {
+    "id": 398809315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809315/large.jpg",
+    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224975886",
+    "place": "Baden-Württemberg, DE",
+    "date": "2021-05-19"
+   }
+  ],
+  "hero": {
+   "id": 174311426,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/large.jpeg",
+   "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/104059578",
+   "place": "Bayern, DE",
+   "date": "2021-12-31"
+  }
+ },
+ "gbif": {
+  "key": 5959092,
+  "dkTotal": 4822,
+  "dkMonths": [
+   555,
+   789,
+   922,
+   703,
+   596,
+   340,
+   222,
+   130,
+   115,
+   128,
+   144,
+   129
+  ],
+  "worldTotal": 186658,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 39703
+   },
+   {
+    "code": "ES",
+    "count": 38135
+   },
+   {
+    "code": "FI",
+    "count": 27229
+   },
+   {
+    "code": "SE",
+    "count": 24130
+   },
+   {
+    "code": "NL",
+    "count": 14454
+   },
+   {
+    "code": "DE",
+    "count": 9040
+   },
+   {
+    "code": "DK",
+    "count": 4822
+   },
+   {
+    "code": "RU",
+    "count": 3433
+   },
+   {
+    "code": "AT",
+    "count": 3254
+   },
+   {
+    "code": "PT",
+    "count": 2862
+   },
+   {
+    "code": "IL",
+    "count": 2833
+   },
+   {
+    "code": "NO",
+    "count": 1872
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,141 @@
+{
+ "key": "porzana-porzana",
+ "name": "Porzana porzana",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:03:40.738Z",
+ "names": {
+  "da": "Plettet rørvagtel",
+  "en": "Spotted Crake",
+  "accepted": "Porzana porzana"
+ },
+ "wikidata": {
+  "id": "Q194024"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Plettet rørvagtel",
+  "extract": "Plettet rørvagtel er en 23 centimeter lang fugl, der yngler spredt i Europa og dele af Asien. Det er en trækfugl, der fortrinsvis overvintrer i tropisk Afrika. Plettet rørvagtel har navn efter de hvide pletter i den brune fjerdragt. Den opholder sig mest skjult i sumpede områder, hvor den lever af smådyr og mindre plantedele. Arten bemærkes ofte ved hannens natlige spil, der ledsages af en parringssang, der lyder som et piskesmæld, huitt.",
+  "url": "https://da.wikipedia.org/wiki/Plettet_r%C3%B8rvagtel"
+ },
+ "inat": {
+  "id": 178,
+  "observations": 2025
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 740111106,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/large.jpg",
+    "attribution": "(c) Tim Aßmus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/403120381",
+    "place": null,
+    "date": "2026-09-19"
+   },
+   {
+    "id": 591075689,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/326368739",
+    "place": "KwaDukuza, South Africa",
+    "date": "2016-03-27"
+   },
+   {
+    "id": 185899382,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185899382/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185899382/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/110221913",
+    "place": "79639 Grenzach-Wyhlen, Germany",
+    "date": "2022-04-02"
+   }
+  ],
+  "hero": {
+   "id": 740111106,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/large.jpg",
+   "attribution": "(c) Tim Aßmus, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/403120381",
+   "place": null,
+   "date": "2026-09-19"
+  }
+ },
+ "gbif": {
+  "key": 2474621,
+  "dkTotal": 5848,
+  "dkMonths": [
+   8,
+   1,
+   5,
+   954,
+   1532,
+   1882,
+   868,
+   198,
+   129,
+   120,
+   3,
+   0
+  ],
+  "worldTotal": 118001,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 45024
+   },
+   {
+    "code": "NL",
+    "count": 19343
+   },
+   {
+    "code": "FR",
+    "count": 6711
+   },
+   {
+    "code": "DK",
+    "count": 5848
+   },
+   {
+    "code": "NO",
+    "count": 4998
+   },
+   {
+    "code": "ES",
+    "count": 4772
+   },
+   {
+    "code": "BE",
+    "count": 4398
+   },
+   {
+    "code": "GB",
+    "count": 2521
+   },
+   {
+    "code": "DE",
+    "count": 2340
+   },
+   {
+    "code": "EE",
+    "count": 2240
+   },
+   {
+    "code": "IL",
+    "count": 2239
+   },
+   {
+    "code": "FI",
+    "count": 2032
+   }
+  ]
+ },
+ "warnings": []
+}

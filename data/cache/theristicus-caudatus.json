@@ -1,0 +1,172 @@
+{
+ "key": "theristicus-caudatus",
+ "name": "Theristicus caudatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:52:39.211Z",
+ "names": {
+  "da": "Brunnakket Ibis",
+  "en": "Buff-necked Ibis",
+  "accepted": "Theristicus caudatus"
+ },
+ "wikidata": {
+  "id": "Q574693"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Buff-necked ibis",
+  "extract": "The buff-necked ibis, also known as the white-throated ibis, is a fairly large ibis found widely in open habitats of eastern and northern South America. It formerly included the similar black-faced ibis as a subspecies, but that species is almost entirely restricted to colder parts of South America, has a buff lower chest, and lacks the contrasting large white wing-patches.",
+  "url": "https://en.wikipedia.org/wiki/Buff-necked_ibis"
+ },
+ "inat": {
+  "id": 3766,
+  "observations": 7392
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 606014691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606014691/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606014691/large.jpg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/333789975",
+    "place": "Jardim - MS, 79240-000, Brasil",
+    "date": "2026-01-01"
+   },
+   {
+    "id": 180000771,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180000771/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180000771/large.jpeg",
+    "attribution": "(c) Vinicius Augusto De Souza, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107071048",
+    "place": "Jardim Parque do Sabia - Tibery, Uberlândia - MG, Brasil",
+    "date": "2022-02-19"
+   },
+   {
+    "id": 606355485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606355485/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606355485/large.jpg",
+    "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/333954940",
+    "place": "Baía, Mato Grosso do Sul, Brazil",
+    "date": "2022-11-08"
+   }
+  ],
+  "adult": [
+   {
+    "id": 126208538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126208538/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126208538/large.jpeg",
+    "attribution": "(c) Sol Quipildor, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/77178873",
+    "place": "Av. H. Yrigoyen - Entre San Lorenzo y Mariano Boedo, La Merced, Salta, Argentina",
+    "date": "2021-05-03"
+   },
+   {
+    "id": 402712372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/402712372/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/402712372/large.jpeg",
+    "attribution": "(c) Jean Martins, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/227031046",
+    "place": "Asa Sul Entrequadra Sul 114/115 - Asa Sul, Brasília - DF, 70377-400, Brasil",
+    "date": "2024-07-03"
+   },
+   {
+    "id": 537238361,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537238361/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537238361/large.jpg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/298269388",
+    "place": "São Paulo, BR",
+    "date": "2025-07-15"
+   }
+  ],
+  "hero": {
+   "id": 126208538,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126208538/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126208538/large.jpeg",
+   "attribution": "(c) Sol Quipildor, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/77178873",
+   "place": "Av. H. Yrigoyen - Entre San Lorenzo y Mariano Boedo, La Merced, Salta, Argentina",
+   "date": "2021-05-03"
+  }
+ },
+ "gbif": {
+  "key": 2480790,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 140863,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 76027
+   },
+   {
+    "code": "CO",
+    "count": 35715
+   },
+   {
+    "code": "AR",
+    "count": 15813
+   },
+   {
+    "code": "BO",
+    "count": 4313
+   },
+   {
+    "code": "UY",
+    "count": 2942
+   },
+   {
+    "code": "VE",
+    "count": 2145
+   },
+   {
+    "code": "PY",
+    "count": 1956
+   },
+   {
+    "code": "GY",
+    "count": 1851
+   },
+   {
+    "code": "CL",
+    "count": 25
+   },
+   {
+    "code": "DE",
+    "count": 11
+   },
+   {
+    "code": "GF",
+    "count": 10
+   },
+   {
+    "code": "PE",
+    "count": 3
+   }
+  ]
+ },
+ "warnings": []
+}

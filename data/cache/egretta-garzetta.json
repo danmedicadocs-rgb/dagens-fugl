@@ -1,0 +1,151 @@
+{
+ "key": "egretta-garzetta",
+ "name": "Egretta garzetta",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:00:28.872Z",
+ "names": {
+  "da": "Silkehejre",
+  "en": "Little Egret",
+  "accepted": "Egretta garzetta"
+ },
+ "wikidata": {
+  "id": "Q131709"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Silkehejre",
+  "extract": "Silkehejren er en lille hvid hejre. Denne hejre har sort næb, sorte ben og gule fødder. I yngletiden har den lange trådformede fjer på skuldre, ryg og bryst samt to lange nakkefjer. Dens føde består af fisk, krebsdyr, padder og vandinsekter. Fuglen ruger i kolonier i træer og buske, den bygger sin rede af grene og lægger 3-5 æg.",
+  "url": "https://da.wikipedia.org/wiki/Silkehejre"
+ },
+ "inat": {
+  "id": 4943,
+  "observations": 139132
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 525786489,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525786489/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525786489/large.jpg",
+    "attribution": "(c) Eric Toro Delgado, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/292189673",
+    "place": "L'Escala, Girona, España",
+    "date": "2025-06-21"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 460589484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460589484/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460589484/large.jpeg",
+    "attribution": "(c) Tim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256845136",
+    "place": "Karagita, Kenya",
+    "date": "2024-08-11"
+   },
+   {
+    "id": 487723833,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487723833/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487723833/large.jpeg",
+    "attribution": "(c) Scott W. Gavins, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271156377",
+    "place": "Boonooroo QLD, Australia",
+    "date": "2025-04-18"
+   },
+   {
+    "id": 213019506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213019506/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213019506/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/125296684",
+    "place": "Rye TN31 7TX, UK",
+    "date": "2022-07-08"
+   }
+  ],
+  "hero": {
+   "id": 205293169,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205293169/large.jpg",
+   "attribution": "(c) Bengt Nyman, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/205293169",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480876,
+  "dkTotal": 7101,
+  "dkMonths": [
+   262,
+   236,
+   344,
+   343,
+   1237,
+   1172,
+   1503,
+   723,
+   437,
+   376,
+   249,
+   218
+  ],
+  "worldTotal": 3889922,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 526269
+   },
+   {
+    "code": "TW",
+    "count": 524548
+   },
+   {
+    "code": "GB",
+    "count": 453598
+   },
+   {
+    "code": "ES",
+    "count": 376904
+   },
+   {
+    "code": "FR",
+    "count": 359659
+   },
+   {
+    "code": "NL",
+    "count": 227168
+   },
+   {
+    "code": "AU",
+    "count": 214860
+   },
+   {
+    "code": "PT",
+    "count": 141169
+   },
+   {
+    "code": "ZA",
+    "count": 129419
+   },
+   {
+    "code": "TH",
+    "count": 76018
+   },
+   {
+    "code": "IT",
+    "count": 74644
+   },
+   {
+    "code": "CN",
+    "count": 67377
+   }
+  ]
+ },
+ "warnings": []
+}

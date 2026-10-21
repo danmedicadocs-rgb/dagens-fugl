@@ -1,0 +1,172 @@
+{
+ "key": "tringa-erythropus",
+ "name": "Tringa erythropus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:07:10.418Z",
+ "names": {
+  "da": "Sortklire",
+  "en": "Spotted Redshank",
+  "accepted": "Tringa erythropus"
+ },
+ "wikidata": {
+  "id": "Q28103"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sortklire",
+  "extract": "Sortklire er en almindelig trækgæst i Danmark fra Fennoskandinavien om efteråret, sjældnere om foråret. Den overvintrer i Sahel-zonen syd for Sahara og i mindre grad langs Vesteuropas og Middelhavets kyster. Det videnskabelige navn erythropus betyder 'med røde ben'.",
+  "url": "https://da.wikipedia.org/wiki/Sortklire"
+ },
+ "inat": {
+  "id": 3882,
+  "observations": 10791
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 557443773,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557443773/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557443773/large.jpg",
+    "attribution": "(c) Will Taylor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309058624",
+    "place": "Devon, UK",
+    "date": "2025-08-22"
+   },
+   {
+    "id": 556518853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556518853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556518853/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/308473710",
+    "place": "Grimsargh, Preston PR2, UK",
+    "date": "2025-08-23"
+   },
+   {
+    "id": 567929160,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567929160/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567929160/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/314449863",
+    "place": "Musselburgh Lagoons",
+    "date": "2025-09-14"
+   }
+  ],
+  "adult": [
+   {
+    "id": 236484262,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138368837",
+    "place": "RSPB Saltholme, Seaton Carew Road, Stockton-on-Tees, Middlesbrough, UK",
+    "date": "2022-10-10"
+   },
+   {
+    "id": 186225822,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186225822/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186225822/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/110397176",
+    "place": "Newport, UK",
+    "date": "2022-04-04"
+   },
+   {
+    "id": 66250742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66250742/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66250742/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/41756814",
+    "place": "Provincia di Ravenna, Italia",
+    "date": "2020-04-08"
+   }
+  ],
+  "hero": {
+   "id": 236484262,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/large.jpg",
+   "attribution": "(c) Dave, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/138368837",
+   "place": "RSPB Saltholme, Seaton Carew Road, Stockton-on-Tees, Middlesbrough, UK",
+   "date": "2022-10-10"
+  }
+ },
+ "gbif": {
+  "key": 2481725,
+  "dkTotal": 73147,
+  "dkMonths": [
+   131,
+   50,
+   297,
+   4616,
+   7173,
+   12139,
+   14755,
+   19592,
+   9427,
+   4649,
+   208,
+   101
+  ],
+  "worldTotal": 657804,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 244763
+   },
+   {
+    "code": "DK",
+    "count": 73147
+   },
+   {
+    "code": "GB",
+    "count": 41663
+   },
+   {
+    "code": "FR",
+    "count": 37366
+   },
+   {
+    "code": "NL",
+    "count": 30916
+   },
+   {
+    "code": "ES",
+    "count": 26123
+   },
+   {
+    "code": "NO",
+    "count": 25141
+   },
+   {
+    "code": "BE",
+    "count": 22481
+   },
+   {
+    "code": "IN",
+    "count": 19704
+   },
+   {
+    "code": "DE",
+    "count": 13467
+   },
+   {
+    "code": "FI",
+    "count": 10582
+   },
+   {
+    "code": "IL",
+    "count": 9728
+   }
+  ]
+ },
+ "warnings": []
+}

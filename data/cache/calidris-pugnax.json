@@ -1,0 +1,202 @@
+{
+ "key": "calidris-pugnax",
+ "name": "Calidris pugnax",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:53.470Z",
+ "names": {
+  "da": "Brushane",
+  "en": "Ruff",
+  "accepted": "Calidris pugnax"
+ },
+ "wikidata": {
+  "id": "Q28122714"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Ruff (bird)",
+  "extract": "The ruff is a medium-sized wading bird that breeds in marshes and wet meadows across northern Eurasia. This highly gregarious sandpiper is migratory and sometimes forms huge flocks in its winter grounds, which include southern and western Europe, Africa, southern Asia and Australia.",
+  "url": "https://en.wikipedia.org/wiki/Ruff_(bird)"
+ },
+ "inat": {
+  "id": 339593,
+  "observations": 35050
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 7477459,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7477459/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7477459/large.jpg",
+    "attribution": "(c) Laura Gaudette, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/5981564",
+    "place": "Alachua County, FL, USA",
+    "date": "2017-04-23"
+   },
+   {
+    "id": 123757966,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123757966/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123757966/large.jpeg",
+    "attribution": "(c) rober025, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/75628801",
+    "place": "Remerschen ",
+    "date": "2021-04-27"
+   },
+   {
+    "id": 502851595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502851595/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502851595/large.jpeg",
+    "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/280002991",
+    "place": "Redwood City, CA, USA",
+    "date": "2025-04-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 636985206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636985206/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636985206/large.jpg",
+    "attribution": "(c) Richard Shirky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/349203920",
+    "place": "Pett, UK",
+    "date": "2026-04-12"
+   },
+   {
+    "id": 308669920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308669920/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308669920/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/177471233",
+    "place": "Afon Alaw area, Isle of Anglesey, Wales, UK",
+    "date": "2023-08-06"
+   },
+   {
+    "id": 658483585,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658483585/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658483585/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/360844366",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2026-05-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 736890131,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/736890131/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/736890131/large.jpg",
+    "attribution": "(c) Rhys, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/401477821",
+    "place": "Gloucester GL2 7BT, UK",
+    "date": "2026-09-05"
+   },
+   {
+    "id": 433919935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243350604",
+    "place": "Карское море, Байдарацкая губа.",
+    "date": "2024-08-25"
+   },
+   {
+    "id": 320359164,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320359164/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320359164/large.jpeg",
+    "attribution": "(c) Brent Cox, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/183610371",
+    "place": "Bryan, TX 77807, USA",
+    "date": "2023-09-16"
+   }
+  ],
+  "hero": {
+   "id": 7477459,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7477459/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7477459/large.jpg",
+   "attribution": "(c) Laura Gaudette, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/5981564",
+   "place": "Alachua County, FL, USA",
+   "date": "2017-04-23"
+  }
+ },
+ "gbif": {
+  "key": 8250742,
+  "dkTotal": 130065,
+  "dkMonths": [
+   140,
+   102,
+   3545,
+   18850,
+   19684,
+   12101,
+   23966,
+   28659,
+   17647,
+   4681,
+   390,
+   129
+  ],
+  "worldTotal": 1586909,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 417126
+   },
+   {
+    "code": "NL",
+    "count": 281562
+   },
+   {
+    "code": "DK",
+    "count": 130065
+   },
+   {
+    "code": "GB",
+    "count": 91014
+   },
+   {
+    "code": "NO",
+    "count": 87774
+   },
+   {
+    "code": "ES",
+    "count": 57296
+   },
+   {
+    "code": "FR",
+    "count": 47836
+   },
+   {
+    "code": "IN",
+    "count": 42749
+   },
+   {
+    "code": "FI",
+    "count": 42514
+   },
+   {
+    "code": "BE",
+    "count": 41109
+   },
+   {
+    "code": "ZA",
+    "count": 40724
+   },
+   {
+    "code": "IL",
+    "count": 31652
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "numenius-arquata",
+ "name": "Numenius arquata",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:06:57.750Z",
+ "names": {
+  "da": "Storspove",
+  "en": "Eurasian Curlew",
+  "accepted": "Numenius arquata"
+ },
+ "wikidata": {
+  "id": "Q18854"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Storspove",
+  "extract": "Storspoven eller den store regnspove er en spove i familien sneppefugle, der yngler i de nordligste og mellemste dele af Europa og Asien. Artens melankolske fløjten er karakteristisk fra især flyvende fugle om foråret. Den er kendt fra ældre tid som et varsel om både regn og forår. Storspoven kan blive op til 32 år gammel, men bliver typisk cirka 5 år.",
+  "url": "https://da.wikipedia.org/wiki/Storspove"
+ },
+ "inat": {
+  "id": 3896,
+  "observations": 30263
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 60541594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60541594/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60541594/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/38120832",
+    "place": "Muharraq, Bahrain",
+    "date": "2017-02-11"
+   },
+   {
+    "id": 633049679,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/633049679/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/633049679/large.jpg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/347214103",
+    "place": "Church, Dipton, Stanley DH9, UK",
+    "date": "2026-04-04"
+   },
+   {
+    "id": 481116509,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481116509/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481116509/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/267701344",
+    "place": "Castle Walk, Ayr, Scotland, GB",
+    "date": "2025-03-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 702453440,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702453440/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702453440/large.jpg",
+    "attribution": "(c) John Ashburner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/383780751",
+    "place": "Motherby, Penrith CA11 0RJ, UK",
+    "date": "2026-07-21"
+   },
+   {
+    "id": 306182611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306182611/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306182611/large.jpeg",
+    "attribution": "(c) Pete Bradshaw, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176140063",
+    "place": "North Ronaldsay KW17, UK",
+    "date": "2023-08-01"
+   },
+   {
+    "id": 207150393,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207150393/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207150393/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/122358964",
+    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
+    "date": "2022-06-18"
+   }
+  ],
+  "hero": {
+   "id": 60541594,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60541594/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60541594/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/38120832",
+   "place": "Muharraq, Bahrain",
+   "date": "2017-02-11"
+  }
+ },
+ "gbif": {
+  "key": 2481792,
+  "dkTotal": 247046,
+  "dkMonths": [
+   18341,
+   14054,
+   21986,
+   31748,
+   14856,
+   16436,
+   29325,
+   33242,
+   21262,
+   19735,
+   13854,
+   11971
+  ],
+  "worldTotal": 2543938,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 529788
+   },
+   {
+    "code": "GB",
+    "count": 437686
+   },
+   {
+    "code": "NL",
+    "count": 382344
+   },
+   {
+    "code": "DK",
+    "count": 247046
+   },
+   {
+    "code": "NO",
+    "count": 238119
+   },
+   {
+    "code": "FR",
+    "count": 142483
+   },
+   {
+    "code": "BE",
+    "count": 122566
+   },
+   {
+    "code": "FI",
+    "count": 68720
+   },
+   {
+    "code": "ES",
+    "count": 61104
+   },
+   {
+    "code": "DE",
+    "count": 38406
+   },
+   {
+    "code": "IE",
+    "count": 33771
+   },
+   {
+    "code": "IN",
+    "count": 26161
+   }
+  ]
+ },
+ "warnings": []
+}

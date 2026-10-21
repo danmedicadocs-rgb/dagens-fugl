@@ -1,0 +1,161 @@
+{
+ "key": "pastor-roseus",
+ "name": "Pastor roseus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:20:18.846Z",
+ "names": {
+  "da": "Rosenstær",
+  "en": "Rosy Starling",
+  "accepted": "Pastor roseus"
+ },
+ "wikidata": {
+  "id": "Q20823352"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rosenstær",
+  "extract": "Rosenstæren er en fugl i stærefamilien inden for ordenen af spurvefugle. Det er en trækfugl som normalt forekommer på stepper og i halvørkener øst for Sortehavet til Tian Shan. Den overvintrer hovedsageligt i Indien og i tropisk Asien.",
+  "url": "https://da.wikipedia.org/wiki/Rosenst%C3%A6r"
+ },
+ "inat": {
+  "id": 145108,
+  "observations": 4701
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 734437272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/400246210",
+    "place": "Светлый, Оренбургская обл., Россия, 462740",
+    "date": "2026-06-16"
+   },
+   {
+    "id": 734430057,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734430057/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734430057/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/400242961",
+    "place": "Светлый, Оренбургская обл., Россия, 462740",
+    "date": "2026-06-15"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 729590366,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729590366/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729590366/large.jpg",
+    "attribution": "(c) Suhas Saya, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397783914",
+    "place": "Kegen District, Kazakhstan",
+    "date": "2026-07-15"
+   },
+   {
+    "id": 157240510,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157240510/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157240510/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/94766826",
+    "place": "Craig Y Don, Amlwch, Anglesey, Wales, UK",
+    "date": "2021-09-12"
+   },
+   {
+    "id": 668391853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668391853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668391853/large.jpg",
+    "attribution": "(c) Johannes S., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/366062009",
+    "place": "Pinneberg, DE-SH, DE",
+    "date": "2015-08-24"
+   }
+  ],
+  "hero": {
+   "id": 734437272,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/400246210",
+   "place": "Светлый, Оренбургская обл., Россия, 462740",
+   "date": "2026-06-16"
+  }
+ },
+ "gbif": {
+  "key": 5845386,
+  "dkTotal": 1160,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   3,
+   165,
+   414,
+   111,
+   148,
+   138,
+   161,
+   14,
+   0
+  ],
+  "worldTotal": 158508,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 113053
+   },
+   {
+    "code": "NL",
+    "count": 7922
+   },
+   {
+    "code": "SE",
+    "count": 5305
+   },
+   {
+    "code": "LK",
+    "count": 3502
+   },
+   {
+    "code": "TR",
+    "count": 2706
+   },
+   {
+    "code": "GB",
+    "count": 2682
+   },
+   {
+    "code": "KZ",
+    "count": 2276
+   },
+   {
+    "code": "NO",
+    "count": 2226
+   },
+   {
+    "code": "GE",
+    "count": 1586
+   },
+   {
+    "code": "FR",
+    "count": 1537
+   },
+   {
+    "code": "AE",
+    "count": 1297
+   },
+   {
+    "code": "RU",
+    "count": 1290
+   }
+  ]
+ },
+ "warnings": []
+}

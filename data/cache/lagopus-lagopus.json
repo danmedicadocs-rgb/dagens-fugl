@@ -1,0 +1,202 @@
+{
+ "key": "lagopus-lagopus",
+ "name": "Lagopus lagopus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:48.296Z",
+ "names": {
+  "da": "Dalrype",
+  "en": "Willow Grouse",
+  "accepted": "Lagopus lagopus"
+ },
+ "wikidata": {
+  "id": "Q178702"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dalrype",
+  "extract": "Dalrype er en hønsefugl i gruppen af skovhøns. Det er en standfugl, der yngler i fx birkeskove og på heder i Skotland, Skandinavien, Sibirien samt i Alaska og det nordlige Canada.",
+  "url": "https://da.wikipedia.org/wiki/Dalrype"
+ },
+ "inat": {
+  "id": 931,
+  "observations": 5434
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 559727662,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559727662/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559727662/large.jpg",
+    "attribution": "(c) Rebekka Weber, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/310142646",
+    "place": "Knausen, Tromsø, Norway",
+    "date": "2025-06-09"
+   },
+   {
+    "id": 34783482,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34783482/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34783482/large.jpeg",
+    "attribution": "(c) Barbara Tomotani, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22455515",
+    "place": "Tromsø, Norway",
+    "date": "2017-05-24"
+   },
+   {
+    "id": 318396650,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318396650/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318396650/large.jpeg",
+    "attribution": "(c) audili, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182595065",
+    "place": "Abisko National Park, SE-NB-KI, SE-NB, SE",
+    "date": "2023-08-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 688085124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/688085124/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/688085124/large.jpg",
+    "attribution": "(c) cigazze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/376343705",
+    "place": "Erie County, PA, USA",
+    "date": "2026-06-27"
+   },
+   {
+    "id": 523971636,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523971636/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523971636/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/291232127",
+    "place": "Yukon Y0B 0A3, Canada",
+    "date": "2025-06-09"
+   },
+   {
+    "id": 637986365,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637986365/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637986365/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/349712263",
+    "place": "9103 Skulsfjord, Norway",
+    "date": "2026-04-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 307403872,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307403872/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307403872/large.jpeg",
+    "attribution": "(c) Skyler Principe, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176791136",
+    "place": "Healy, AK 99743, USA",
+    "date": "2023-08-02"
+   },
+   {
+    "id": 403247143,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403247143/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403247143/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/227316644",
+    "place": "Denali National Park and Preserve, Alaska, USA",
+    "date": "2024-06-29"
+   },
+   {
+    "id": 405438063,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405438063/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405438063/large.jpg",
+    "attribution": "(c) Joseph Morlan, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/228474325",
+    "place": "Denali Borough, AK, USA",
+    "date": "2024-06-27"
+   }
+  ],
+  "hero": {
+   "id": 559727662,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559727662/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559727662/large.jpg",
+   "attribution": "(c) Rebekka Weber, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/310142646",
+   "place": "Knausen, Tromsø, Norway",
+   "date": "2025-06-09"
+  }
+ },
+ "gbif": {
+  "key": 2473421,
+  "dkTotal": 6,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0
+  ],
+  "worldTotal": 274557,
+  "topCountries": [
+   {
+    "code": "NO",
+    "count": 129883
+   },
+   {
+    "code": "GB",
+    "count": 33772
+   },
+   {
+    "code": "US",
+    "count": 33026
+   },
+   {
+    "code": "SE",
+    "count": 31703
+   },
+   {
+    "code": "CA",
+    "count": 21778
+   },
+   {
+    "code": "FI",
+    "count": 12908
+   },
+   {
+    "code": "RU",
+    "count": 4724
+   },
+   {
+    "code": "IE",
+    "count": 2778
+   },
+   {
+    "code": "PL",
+    "count": 1096
+   },
+   {
+    "code": "EE",
+    "count": 614
+   },
+   {
+    "code": "FR",
+    "count": 613
+   },
+   {
+    "code": "IM",
+    "count": 119
+   }
+  ]
+ },
+ "warnings": []
+}

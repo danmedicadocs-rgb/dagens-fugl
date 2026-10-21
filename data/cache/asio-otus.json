@@ -1,0 +1,182 @@
+{
+ "key": "asio-otus",
+ "name": "Asio otus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:46.518Z",
+ "names": {
+  "da": "Skovhornugle",
+  "en": "Long-eared Owl",
+  "accepted": "Asio otus"
+ },
+ "wikidata": {
+  "id": "Q25384"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Skovhornugle",
+  "extract": "Skovhornugle har en højde på 35-37 centimeter og et vingefang på 84-95 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/Skovhornugle"
+ },
+ "inat": {
+  "id": 20307,
+  "observations": 24203
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 33685064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33685064/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33685064/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/21750139",
+    "place": "Безводное, Нижегородская обл., Россия, 607675",
+    "date": "2019-03-29"
+   },
+   {
+    "id": 453364618,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453364618/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453364618/large.jpeg",
+    "attribution": "(c) David Kelly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253223592",
+    "place": "Scotland, GB",
+    "date": "2024-11-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 59730026,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730026/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730026/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/37649589",
+    "place": "Kikinda, RS-SN, RS",
+    "date": "2020-01-16"
+   },
+   {
+    "id": 77163729,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77163729/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77163729/large.jpg",
+    "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48623973",
+    "place": "Sverdlovsk, RU",
+    "date": "2020-06-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 265422617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265422617/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265422617/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/153659125",
+    "place": "München-Flughafen, Deutschland",
+    "date": "2023-04-04"
+   },
+   {
+    "id": 513947183,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513947183/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513947183/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/285913143",
+    "place": "29640 Schneverdingen, Deutschland",
+    "date": "2025-05-31"
+   },
+   {
+    "id": 632292828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/632292828/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/632292828/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/346837344",
+    "place": "Madrid, España",
+    "date": "2026-03-31"
+   }
+  ],
+  "hero": {
+   "id": 133553640,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133553640/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133553640/large.jpg",
+   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/133553640",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2497306,
+  "dkTotal": 25393,
+  "dkMonths": [
+   3422,
+   2655,
+   2926,
+   1986,
+   2322,
+   4171,
+   2048,
+   498,
+   345,
+   1433,
+   1813,
+   1672
+  ],
+  "worldTotal": 461912,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 103223
+   },
+   {
+    "code": "NL",
+    "count": 87005
+   },
+   {
+    "code": "FR",
+    "count": 46101
+   },
+   {
+    "code": "FI",
+    "count": 27059
+   },
+   {
+    "code": "DK",
+    "count": 25393
+   },
+   {
+    "code": "BE",
+    "count": 21626
+   },
+   {
+    "code": "ES",
+    "count": 19880
+   },
+   {
+    "code": "CA",
+    "count": 18897
+   },
+   {
+    "code": "DE",
+    "count": 15598
+   },
+   {
+    "code": "NO",
+    "count": 11825
+   },
+   {
+    "code": "RU",
+    "count": 8273
+   },
+   {
+    "code": "PT",
+    "count": 7347
+   }
+  ]
+ },
+ "warnings": []
+}

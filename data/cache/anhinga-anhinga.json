@@ -1,0 +1,202 @@
+{
+ "key": "anhinga-anhinga",
+ "name": "Anhinga anhinga",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:33.167Z",
+ "names": {
+  "da": "Amerikansk Slangehalsfugl",
+  "en": null,
+  "accepted": "Anhinga anhinga"
+ },
+ "wikidata": {
+  "id": "Q469940"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Amerikansk slangehalsfugl",
+  "extract": "Amerikansk slangehalsfugl er en slangehalsfugl, der lever i varme lavvandede farvande af Amerika.",
+  "url": "https://da.wikipedia.org/wiki/Amerikansk_slangehalsfugl"
+ },
+ "inat": {
+  "id": 5063,
+  "observations": 70040
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 71826794,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71826794/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71826794/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45299952",
+    "place": "Pasadena, Maryland, United States",
+    "date": "2012-05-05"
+   },
+   {
+    "id": 197420409,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197420409/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197420409/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/116930216",
+    "place": "Wakodahatchee Wetlands, Delray Beach, FL 33484, USA",
+    "date": "2022-05-13"
+   },
+   {
+    "id": 473444273,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473444273/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473444273/large.jpeg",
+    "attribution": "(c) Bailey Duncan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/263531233",
+    "place": "Winter Haven, FL 33880, USA",
+    "date": "2025-03-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 109438323,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109438323/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109438323/large.jpg",
+    "attribution": "(c) Richard Stovall, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67694439",
+    "place": "Orange, Florida, United States",
+    "date": "2021-01-06"
+   },
+   {
+    "id": 601975360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601975360/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601975360/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331789866",
+    "place": "Barão de Melgaço - State of Mato Grosso, Brazil",
+    "date": "2025-08-06"
+   },
+   {
+    "id": 612028558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612028558/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612028558/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/336759728",
+    "place": "Jefferson Parish, LA, USA",
+    "date": "2026-01-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 151435287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151435287/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151435287/large.jpeg",
+    "attribution": "(c) Bob Altabet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/91539480",
+    "place": "13270 Jog Rd, Delray Beach, FL 33484, USA",
+    "date": "2021-05-24"
+   },
+   {
+    "id": 267780938,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267780938/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267780938/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/154945750",
+    "place": "Dunnellon, FL 34432, USA",
+    "date": "2023-04-10"
+   },
+   {
+    "id": 620769821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620769821/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620769821/large.jpg",
+    "attribution": "(c) David Garza, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/341053089",
+    "place": "Palm Beach County, FL, USA",
+    "date": "2026-02-25"
+   }
+  ],
+  "hero": {
+   "id": 195512943,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195512943/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195512943/large.jpg",
+   "attribution": "(c) Shiva Shenoy, some rights reserved (CC BY), uploaded by Shiva Shenoy",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/195512943",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2482082,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1571216,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1333885
+   },
+   {
+    "code": "CR",
+    "count": 53333
+   },
+   {
+    "code": "MX",
+    "count": 40941
+   },
+   {
+    "code": "BR",
+    "count": 36820
+   },
+   {
+    "code": "BZ",
+    "count": 17180
+   },
+   {
+    "code": "PA",
+    "count": 16211
+   },
+   {
+    "code": "CO",
+    "count": 14828
+   },
+   {
+    "code": "EC",
+    "count": 9829
+   },
+   {
+    "code": "AR",
+    "count": 9124
+   },
+   {
+    "code": "PE",
+    "count": 6918
+   },
+   {
+    "code": "CU",
+    "count": 4738
+   },
+   {
+    "code": "VE",
+    "count": 3953
+   }
+  ]
+ },
+ "warnings": []
+}

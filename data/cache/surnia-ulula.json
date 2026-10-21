@@ -1,0 +1,151 @@
+{
+ "key": "surnia-ulula",
+ "name": "Surnia ulula",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:36.394Z",
+ "names": {
+  "da": "Høgeugle",
+  "en": "Hawk Owl",
+  "accepted": "Surnia ulula"
+ },
+ "wikidata": {
+  "id": "Q193192"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Høgeugle",
+  "extract": "Høgeugle  har en længde på 36-41 centimeter og et vingefang på 74-81 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/H%C3%B8geugle"
+ },
+ "inat": {
+  "id": 20372,
+  "observations": 4558
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 110643712,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110643712/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110643712/large.jpeg",
+    "attribution": "(c) Ali Campbell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68346338",
+    "place": "Pennsylvania, US",
+    "date": "1991-02-26"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 47908320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47908320/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47908320/large.jpg",
+    "attribution": "(c) Donald Hampton, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/30658116",
+    "place": "Valdez-Cordova County, US-AK, US",
+    "date": "2015-07-08"
+   },
+   {
+    "id": 9068189,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9068189/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9068189/large.jpeg",
+    "attribution": "(c) Cheryl McCleary-Catalano, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/7063098",
+    "place": "Denali National Park, Denali County, US-AK, US",
+    "date": "2017-07-04"
+   },
+   {
+    "id": 197332890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197332890/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197332890/large.jpg",
+    "attribution": "(c) Jay Pruett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/116880910",
+    "place": "Härjedalen, SE-JA, SE",
+    "date": "2018-06-07"
+   }
+  ],
+  "hero": {
+   "id": 110643712,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110643712/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110643712/large.jpeg",
+   "attribution": "(c) Ali Campbell, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/68346338",
+   "place": "Pennsylvania, US",
+   "date": "1991-02-26"
+  }
+ },
+ "gbif": {
+  "key": 2497894,
+  "dkTotal": 4132,
+  "dkMonths": [
+   1008,
+   718,
+   331,
+   272,
+   32,
+   19,
+   0,
+   0,
+   24,
+   217,
+   736,
+   770
+  ],
+  "worldTotal": 96793,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 48474
+   },
+   {
+    "code": "NO",
+    "count": 24810
+   },
+   {
+    "code": "FI",
+    "count": 8652
+   },
+   {
+    "code": "DK",
+    "count": 4132
+   },
+   {
+    "code": "NL",
+    "count": 3631
+   },
+   {
+    "code": "CA",
+    "count": 2046
+   },
+   {
+    "code": "RU",
+    "count": 1811
+   },
+   {
+    "code": "US",
+    "count": 1628
+   },
+   {
+    "code": "EE",
+    "count": 841
+   },
+   {
+    "code": "DE",
+    "count": 202
+   },
+   {
+    "code": "AX",
+    "count": 71
+   },
+   {
+    "code": "CN",
+    "count": 30
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "cinclus-cinclus",
+ "name": "Cinclus cinclus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:20:23.709Z",
+ "names": {
+  "da": "Vandstær",
+  "en": null,
+  "accepted": "Cinclus cinclus"
+ },
+ "wikidata": {
+  "id": "Q201831"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Vandstær",
+  "extract": "Vandstær er en 18 centimeter stor spurvefugl, der yngler ved stærkt strømmende floder og vandløb i store dele af Europa og Centralasien. I Danmark er arten en meget sjælden ynglefugl og træffes oftest som gæst fra Sverige og Norge. Oftest ses fuglen sidde på sten i vandløb.",
+  "url": "https://da.wikipedia.org/wiki/Vandst%C3%A6r"
+ },
+ "inat": {
+  "id": 7647,
+  "observations": 18693
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 247067618,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247067618/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247067618/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/144003926",
+    "place": "Alkrington Woods and Rhodes Lodges, Greater Manchester, UK",
+    "date": "2022-12-02"
+   },
+   {
+    "id": 592188662,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592188662/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592188662/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326923391",
+    "place": "Куса, Челябинская обл., Россия",
+    "date": "2025-11-17"
+   },
+   {
+    "id": 113823269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113823269/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113823269/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/70060832",
+    "place": "Wince Brook by Riverside Park, Alkrington Woods, Middleton, Greater Manchester, UK",
+    "date": "2021-02-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 76494377,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76494377/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76494377/large.jpeg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48216660",
+    "place": "8849 Alpthal, Switzerland",
+    "date": "2020-05-31"
+   },
+   {
+    "id": 78966874,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78966874/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78966874/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/49741106",
+    "place": "River Irk at Spring Vale, Middleton, Greater Manchester, UK",
+    "date": "2020-06-15"
+   },
+   {
+    "id": 539545147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/539545147/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/539545147/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/299483467",
+    "place": "Vidrieros, Palencia, España",
+    "date": "2025-07-05"
+   }
+  ],
+  "hero": {
+   "id": 82887570,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82887570/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82887570/large.jpg",
+   "attribution": "(c) \nDirk-Jan van Roest, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/82887570",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2495093,
+  "dkTotal": 42809,
+  "dkMonths": [
+   11042,
+   8976,
+   6153,
+   571,
+   74,
+   28,
+   13,
+   8,
+   15,
+   1737,
+   7055,
+   7110
+  ],
+  "worldTotal": 672708,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 215868
+   },
+   {
+    "code": "NO",
+    "count": 88471
+   },
+   {
+    "code": "FR",
+    "count": 75414
+   },
+   {
+    "code": "GB",
+    "count": 52412
+   },
+   {
+    "code": "FI",
+    "count": 44839
+   },
+   {
+    "code": "DK",
+    "count": 42809
+   },
+   {
+    "code": "ES",
+    "count": 32654
+   },
+   {
+    "code": "DE",
+    "count": 24038
+   },
+   {
+    "code": "AT",
+    "count": 14129
+   },
+   {
+    "code": "NL",
+    "count": 12543
+   },
+   {
+    "code": "IT",
+    "count": 11752
+   },
+   {
+    "code": "IE",
+    "count": 7119
+   }
+  ]
+ },
+ "warnings": []
+}

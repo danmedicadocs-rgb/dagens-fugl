@@ -1,0 +1,202 @@
+{
+ "key": "circus-aeruginosus",
+ "name": "Circus aeruginosus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:01:36.740Z",
+ "names": {
+  "da": "Rørhøg",
+  "en": "Western Marsh Harrier",
+  "accepted": "Circus aeruginosus"
+ },
+ "wikidata": {
+  "id": "Q26431"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rørhøg",
+  "extract": "Rørhøgen er en rovfugl med et vingefang på 135 cm. Den er udbredt i det meste af Europa samt en del af Nordafrika og Asien. I Danmark er den en sjælden ynglefugl, især i den østlige og sydlige del, med kun omkring 650 ynglende par.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8rh%C3%B8g"
+ },
+ "inat": {
+  "id": 5173,
+  "observations": 67306
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 283322176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322176/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322176/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163784184",
+    "place": "RSBP Leighton Moss",
+    "date": "2023-05-15"
+   },
+   {
+    "id": 121484847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121484847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121484847/large.jpg",
+    "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/74338554",
+    "place": "Каменский р-н, Свердловская обл., Россия",
+    "date": "2021-04-17"
+   },
+   {
+    "id": 128080168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128080168/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128080168/large.jpeg",
+    "attribution": "(c) rober025, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78275405",
+    "place": "Remerschen ",
+    "date": "2021-05-02"
+   }
+  ],
+  "female": [
+   {
+    "id": 267879947,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267879947/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267879947/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/155002204",
+    "place": "Пермский р-н, Пермский край, Россия",
+    "date": "2023-04-15"
+   },
+   {
+    "id": 267771331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267771331/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267771331/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/154939848",
+    "place": "Parvomay, Bulgaria",
+    "date": "2023-04-15"
+   },
+   {
+    "id": 187747340,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187747340/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187747340/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/111231297",
+    "place": "Monmouthshire, UK",
+    "date": "2022-04-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 743195701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743195701/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743195701/large.jpg",
+    "attribution": "(c) Richard Nuttall, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/404676769",
+    "place": "Burscough, UK",
+    "date": "2026-09-29"
+   },
+   {
+    "id": 731044646,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731044646/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731044646/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/398512155",
+    "place": "Gur'evskiy rayon, KN, RU",
+    "date": "2026-05-30"
+   },
+   {
+    "id": 427418251,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/427418251/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/427418251/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239943462",
+    "place": "Atapuerca, Burgos, España",
+    "date": "2024-08-25"
+   }
+  ],
+  "hero": {
+   "id": 283322176,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322176/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322176/large.jpeg",
+   "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/163784184",
+   "place": "RSBP Leighton Moss",
+   "date": "2023-05-15"
+  }
+ },
+ "gbif": {
+  "key": 2480482,
+  "dkTotal": 417948,
+  "dkMonths": [
+   296,
+   322,
+   13584,
+   99972,
+   88765,
+   42750,
+   40798,
+   67512,
+   52833,
+   10038,
+   533,
+   237
+  ],
+  "worldTotal": 3471406,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 705881
+   },
+   {
+    "code": "NL",
+    "count": 437404
+   },
+   {
+    "code": "DK",
+    "count": 417948
+   },
+   {
+    "code": "ES",
+    "count": 336631
+   },
+   {
+    "code": "BE",
+    "count": 199797
+   },
+   {
+    "code": "GB",
+    "count": 192734
+   },
+   {
+    "code": "FR",
+    "count": 188569
+   },
+   {
+    "code": "IN",
+    "count": 108892
+   },
+   {
+    "code": "DE",
+    "count": 73847
+   },
+   {
+    "code": "GE",
+    "count": 64923
+   },
+   {
+    "code": "SN",
+    "count": 61581
+   },
+   {
+    "code": "PT",
+    "count": 61284
+   }
+  ]
+ },
+ "warnings": []
+}

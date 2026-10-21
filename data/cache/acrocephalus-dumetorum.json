@@ -1,0 +1,171 @@
+{
+ "key": "acrocephalus-dumetorum",
+ "name": "Acrocephalus dumetorum",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:22.084Z",
+ "names": {
+  "da": "Buskrørsanger",
+  "en": "Blyth’s Reed Warbler",
+  "accepted": "Acrocephalus dumetorum"
+ },
+ "wikidata": {
+  "id": "Q312779"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blyth's reed warbler",
+  "extract": "Blyth's reed warbler is a species of reed warbler belonging to the family Acrocephalidae, which also includes the tree warblers. Blyth's reed warbler breeds across the Palearctic zoogeographical region and winters in South Asia. The species has been expanding its range westwards in Europe.",
+  "url": "https://en.wikipedia.org/wiki/Blyth's_reed_warbler"
+ },
+ "inat": {
+  "id": 116797,
+  "observations": 14982
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 133342663,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133342663/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133342663/large.jpg",
+    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/81302631",
+    "place": "Парк Лесотехнической академии, Санкт-Петербург, Россия",
+    "date": "2021-06-02"
+   },
+   {
+    "id": 76836942,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76836942/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76836942/large.jpg",
+    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48425216",
+    "place": "Пискарёвский парк, Санкт-Петербург, Россия",
+    "date": "2020-06-02"
+   },
+   {
+    "id": 84225867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84225867/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84225867/large.jpeg",
+    "attribution": "(c) Борис Георги, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/52967514",
+    "place": "Гольяны, республика Удмуртия, Россия, 427002",
+    "date": "2020-07-11"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 59730959,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730959/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730959/large.jpeg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37650121",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2015-07-29"
+   },
+   {
+    "id": 704659853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704659853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704659853/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384927588",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2026-07-25"
+   },
+   {
+    "id": 70474757,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70474757/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70474757/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/44448476",
+    "place": "Пионерский, Свердловская обл., Россия",
+    "date": "2017-08-08"
+   }
+  ],
+  "hero": {
+   "id": 133342663,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133342663/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133342663/large.jpg",
+   "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/81302631",
+   "place": "Парк Лесотехнической академии, Санкт-Петербург, Россия",
+   "date": "2021-06-02"
+  }
+ },
+ "gbif": {
+  "key": 2493145,
+  "dkTotal": 2198,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   240,
+   1691,
+   224,
+   25,
+   7,
+   10,
+   0,
+   0
+  ],
+  "worldTotal": 403321,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 291016
+   },
+   {
+    "code": "SE",
+    "count": 34756
+   },
+   {
+    "code": "FI",
+    "count": 22283
+   },
+   {
+    "code": "RU",
+    "count": 21885
+   },
+   {
+    "code": "EE",
+    "count": 5797
+   },
+   {
+    "code": "LK",
+    "count": 5673
+   },
+   {
+    "code": "NL",
+    "count": 5364
+   },
+   {
+    "code": "NO",
+    "count": 4085
+   },
+   {
+    "code": "DK",
+    "count": 2198
+   },
+   {
+    "code": "NP",
+    "count": 1543
+   },
+   {
+    "code": "BD",
+    "count": 1537
+   },
+   {
+    "code": "KZ",
+    "count": 1490
+   }
+  ]
+ },
+ "warnings": []
+}

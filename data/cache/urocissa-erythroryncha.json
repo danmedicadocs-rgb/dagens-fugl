@@ -1,0 +1,152 @@
+{
+ "key": "urocissa-erythroryncha",
+ "name": "Urocissa erythroryncha",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:36:46.752Z",
+ "names": {
+  "da": "Rødnæbbet Kitta",
+  "en": "Red-billed Blue Magpie",
+  "accepted": "Urocissa erythroryncha"
+ },
+ "wikidata": {
+  "id": "Q766306"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rødnæbbet kitta",
+  "extract": "Rødnæbbet kitta er en kragefugl, der lever i det sydlige Himalaya og det østlige Asien.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8dn%C3%A6bbet_kitta"
+ },
+ "inat": {
+  "id": 495200,
+  "observations": 7715
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 16576565,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16576565/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16576565/large.jpg",
+    "attribution": "(c) portioid, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11610856",
+    "place": "Chai Wan, Hong Kong",
+    "date": "2018-04-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 679658933,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658933/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658933/large.jpg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/371967062",
+    "place": "Лунцюаньи, Чэнду, Сычуань, Китай",
+    "date": "2026-06-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 418803493,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418803493/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418803493/large.jpeg",
+    "attribution": "(c) Sagnik Dutta Roy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/235480406",
+    "place": "Godawari, Nepal",
+    "date": "2024-07-30"
+   },
+   {
+    "id": 679658952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658952/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658952/large.jpg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/371967065",
+    "place": "Лунцюаньи, Чэнду, Сычуань, Китай",
+    "date": "2026-06-12"
+   }
+  ],
+  "hero": {
+   "id": 16576565,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16576565/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16576565/large.jpg",
+   "attribution": "(c) portioid, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/11610856",
+   "place": "Chai Wan, Hong Kong",
+   "date": "2018-04-27"
+  }
+ },
+ "gbif": {
+  "key": 6100962,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 62975,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 27028
+   },
+   {
+    "code": "HK",
+    "count": 16952
+   },
+   {
+    "code": "NP",
+    "count": 7204
+   },
+   {
+    "code": "TH",
+    "count": 5281
+   },
+   {
+    "code": "CN",
+    "count": 3438
+   },
+   {
+    "code": "KH",
+    "count": 1984
+   },
+   {
+    "code": "MO",
+    "count": 269
+   },
+   {
+    "code": "TW",
+    "count": 184
+   },
+   {
+    "code": "LA",
+    "count": 144
+   },
+   {
+    "code": "MM",
+    "count": 88
+   },
+   {
+    "code": "VN",
+    "count": 85
+   },
+   {
+    "code": "SG",
+    "count": 52
+   }
+  ]
+ },
+ "warnings": []
+}

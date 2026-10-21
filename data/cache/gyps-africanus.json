@@ -1,0 +1,172 @@
+{
+ "key": "gyps-africanus",
+ "name": "Gyps africanus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:46.112Z",
+ "names": {
+  "da": "Hvidrygget grib",
+  "en": "White-backed Vulture",
+  "accepted": "Gyps africanus"
+ },
+ "wikidata": {
+  "id": "Q281874"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidrygget grib",
+  "extract": "Hvidrygget grib er den almindeligste og mest udbredte grib i Afrika, der dog er gået stærkt tilbage i antal i de senere år. Det er en middelstor grib med et vingefang på omkring 2 meter.",
+  "url": "https://da.wikipedia.org/wiki/Hvidrygget_grib"
+ },
+ "inat": {
+  "id": 5363,
+  "observations": 9306
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 625955660,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955660/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955660/large.jpg",
+    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/343608629",
+    "place": "Khomas, NA-KH-WR, NA",
+    "date": "2026-03-18"
+   },
+   {
+    "id": 521901501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521901501/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521901501/large.jpg",
+    "attribution": "(c) Paul Hoekman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/290133350",
+    "place": "Mopani, Kruger National Park, Limpopo, South Africa",
+    "date": "2025-06-06"
+   },
+   {
+    "id": 442071404,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442071404/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442071404/large.jpeg",
+    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151132350",
+    "place": "Oromia, ET",
+    "date": "2023-03-14"
+   }
+  ],
+  "adult": [
+   {
+    "id": 431932273,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/large.jpeg",
+    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/242271275",
+    "place": "Hluhluwe-iMfolozi Park, ZA-NL-UY, ZA-NL, ZA",
+    "date": "2024-09-07"
+   },
+   {
+    "id": 625955607,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/large.jpg",
+    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/343608628",
+    "place": "Khomas, NA-KH-WR, NA",
+    "date": "2026-03-18"
+   },
+   {
+    "id": 521905288,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521905288/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521905288/large.jpg",
+    "attribution": "(c) Paul Hoekman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/290135231",
+    "place": "Mopani, Kruger National Park, Limpopo, South Africa",
+    "date": "2025-06-06"
+   }
+  ],
+  "hero": {
+   "id": 431932273,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/large.jpeg",
+   "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/242271275",
+   "place": "Hluhluwe-iMfolozi Park, ZA-NL-UY, ZA-NL, ZA",
+   "date": "2024-09-07"
+  }
+ },
+ "gbif": {
+  "key": 9487001,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 148407,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 69736
+   },
+   {
+    "code": "KE",
+    "count": 16982
+   },
+   {
+    "code": "TZ",
+    "count": 12026
+   },
+   {
+    "code": "NA",
+    "count": 10776
+   },
+   {
+    "code": "BW",
+    "count": 8997
+   },
+   {
+    "code": "ZW",
+    "count": 7112
+   },
+   {
+    "code": "UG",
+    "count": 5776
+   },
+   {
+    "code": "ZM",
+    "count": 4764
+   },
+   {
+    "code": "ET",
+    "count": 3344
+   },
+   {
+    "code": "GM",
+    "count": 1603
+   },
+   {
+    "code": "SN",
+    "count": 1332
+   },
+   {
+    "code": "SZ",
+    "count": 1231
+   }
+  ]
+ },
+ "warnings": []
+}

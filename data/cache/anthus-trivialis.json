@@ -1,0 +1,171 @@
+{
+ "key": "anthus-trivialis",
+ "name": "Anthus trivialis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:22:32.002Z",
+ "names": {
+  "da": "Skovpiber",
+  "en": "Tree Pipit",
+  "accepted": "Anthus trivialis"
+ },
+ "wikidata": {
+  "id": "Q143313"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Skovpiber",
+  "extract": "Skovpiber er en mindre spurvefugl, der yngler over det meste af Europa og i Asien mod øst til Mongoliet. I Danmark er den ret almindelig i skovlysninger eller på heder med spredt trævækst. De danske fugle er trækfugle, der overvintrer i tropisk Afrika. Skovpiberens fjerdragt ligner de andre piberes og den kendes derfor bedst på stemmen.",
+  "url": "https://da.wikipedia.org/wiki/Skovpiber"
+ },
+ "inat": {
+  "id": 13711,
+  "observations": 35747
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 710866691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710866691/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710866691/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/388155336",
+    "place": "RSPB Glenborrowdale, Highland Council, UK",
+    "date": "2024-05-24"
+   },
+   {
+    "id": 271403089,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271403089/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/271403089/large.jpg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/156932024",
+    "place": "Уфа, Респ. Башкортостан, Россия, 450105",
+    "date": "2023-04-27"
+   },
+   {
+    "id": 463710990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463710990/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463710990/large.jpeg",
+    "attribution": "(c) Julien Fougeroux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258453257",
+    "place": "56400 Pluneret, France",
+    "date": "2024-04-18"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 318133454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318133454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318133454/large.jpg",
+    "attribution": "(c) Алёна Осипова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182458349",
+    "place": "Слободо-Туринский район, Свердловская область, RU",
+    "date": "2022-07-18"
+   },
+   {
+    "id": 531250218,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531250218/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531250218/large.jpg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295116004",
+    "place": "Респ. Башкортостан, Россия, 453601",
+    "date": "2025-06-30"
+   },
+   {
+    "id": 334210622,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334210622/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334210622/large.jpeg",
+    "attribution": "(c) Matteo Negro, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/190621954",
+    "place": "Provincia di Biella, Italia",
+    "date": "2008-07-01"
+   }
+  ],
+  "hero": {
+   "id": 710866691,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710866691/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710866691/large.jpg",
+   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/388155336",
+   "place": "RSPB Glenborrowdale, Highland Council, UK",
+   "date": "2024-05-24"
+  }
+ },
+ "gbif": {
+  "key": 2490246,
+  "dkTotal": 105377,
+  "dkMonths": [
+   1,
+   0,
+   5,
+   18117,
+   32633,
+   14082,
+   5705,
+   14705,
+   18570,
+   1447,
+   12,
+   2
+  ],
+  "worldTotal": 1613423,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 464989
+   },
+   {
+    "code": "FI",
+    "count": 190372
+   },
+   {
+    "code": "FR",
+    "count": 172027
+   },
+   {
+    "code": "NL",
+    "count": 169870
+   },
+   {
+    "code": "DK",
+    "count": 105377
+   },
+   {
+    "code": "NO",
+    "count": 95513
+   },
+   {
+    "code": "GB",
+    "count": 53470
+   },
+   {
+    "code": "BE",
+    "count": 47901
+   },
+   {
+    "code": "RU",
+    "count": 41617
+   },
+   {
+    "code": "ES",
+    "count": 41373
+   },
+   {
+    "code": "IN",
+    "count": 35788
+   },
+   {
+    "code": "DE",
+    "count": 34103
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,172 @@
+{
+ "key": "glareola-pratincola",
+ "name": "Glareola pratincola",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:29.566Z",
+ "names": {
+  "da": "Rødvinget Braksvale",
+  "en": "Collared Pratincole",
+  "accepted": "Glareola pratincola"
+ },
+ "wikidata": {
+  "id": "Q330310"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Collared pratincole",
+  "extract": "The collared pratincole, also known as the common pratincole or red-winged pratincole, is a wader in the pratincole family, Glareolidae. As with other pratincoles, it is native to the Old World.",
+  "url": "https://en.wikipedia.org/wiki/Collared_pratincole"
+ },
+ "inat": {
+  "id": 4604,
+  "observations": 3944
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 42800882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42800882/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42800882/large.jpeg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/27503892",
+    "place": "Kasese, Uganda",
+    "date": "2019-06-04"
+   },
+   {
+    "id": 89616868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89616868/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89616868/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/56246189",
+    "place": "Westgriechenland, Griechenland",
+    "date": "2020-07-04"
+   },
+   {
+    "id": 467625530,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467625530/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467625530/large.jpeg",
+    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/260396909",
+    "place": "uMkhanyakude District Municipality, South Africa",
+    "date": "2025-02-01"
+   }
+  ],
+  "adult": [
+   {
+    "id": 327770656,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/large.jpg",
+    "attribution": "(c) Romilson Silva Lopes Junior, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/187428340",
+    "place": "Caucaia - CE",
+    "date": "2015-04-26"
+   },
+   {
+    "id": 365188276,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365188276/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365188276/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/206480873",
+    "place": "Algeciras, Cádiz, Spain",
+    "date": "2024-04-07"
+   },
+   {
+    "id": 75021725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75021725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75021725/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/47275212",
+    "place": "Muzi Pan, Mkuze River, Kwa-Zulu Natal, South Africa",
+    "date": "2005-10-12"
+   }
+  ],
+  "hero": {
+   "id": 327770656,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/large.jpg",
+   "attribution": "(c) Romilson Silva Lopes Junior, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/187428340",
+   "place": "Caucaia - CE",
+   "date": "2015-04-26"
+  }
+ },
+ "gbif": {
+  "key": 2480757,
+  "dkTotal": 553,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   179,
+   330,
+   6,
+   33,
+   4,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 98711,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 30930
+   },
+   {
+    "code": "ZA",
+    "count": 6100
+   },
+   {
+    "code": "IL",
+    "count": 6025
+   },
+   {
+    "code": "FR",
+    "count": 5784
+   },
+   {
+    "code": "PT",
+    "count": 4025
+   },
+   {
+    "code": "BW",
+    "count": 3202
+   },
+   {
+    "code": "IN",
+    "count": 3154
+   },
+   {
+    "code": "GR",
+    "count": 2776
+   },
+   {
+    "code": "TR",
+    "count": 2746
+   },
+   {
+    "code": "AE",
+    "count": 2558
+   },
+   {
+    "code": "KE",
+    "count": 2379
+   },
+   {
+    "code": "TZ",
+    "count": 2097
+   }
+  ]
+ },
+ "warnings": []
+}

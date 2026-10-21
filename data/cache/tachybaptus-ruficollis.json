@@ -1,0 +1,182 @@
+{
+ "key": "tachybaptus-ruficollis",
+ "name": "Tachybaptus ruficollis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:42.395Z",
+ "names": {
+  "da": "Lille lappedykker",
+  "en": "Little Grebe",
+  "accepted": "Tachybaptus ruficollis"
+ },
+ "wikidata": {
+  "id": "Q25421"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille lappedykker",
+  "extract": "Lille lappedykker er en fugleart i familien lappedykkere. Den er udbredt som ynglefugl i dele af Europa, Afrika og Asien. Fuglen er almindelig i Danmark i sommerhalvåret, men ses sjældent, da den mest holder til i søernes sivbræmmer. Danmark udgør sammen med Sverige nordgrænsen for artens udbredelse i Europa.",
+  "url": "https://da.wikipedia.org/wiki/Lille_lappedykker"
+ },
+ "inat": {
+  "id": 4237,
+  "observations": 65749
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 128081942,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081942/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081942/large.jpeg",
+    "attribution": "(c) rober025, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78276262",
+    "place": "Remerschen",
+    "date": "2021-05-02"
+   },
+   {
+    "id": 637628245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637628245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637628245/large.jpg",
+    "attribution": "(c) Eva Uzdilova, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/349530837",
+    "place": "Králova Lhota, Česko",
+    "date": "2026-03-18"
+   },
+   {
+    "id": 117392940,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117392940/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117392940/large.jpeg",
+    "attribution": "(c) Mohammad Amin Ghaffari, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72043305",
+    "place": "استان کردستان، ایران",
+    "date": "2018-03-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 86860421,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86860421/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86860421/large.jpeg",
+    "attribution": "(c) Navapol Komanasin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/54584596",
+    "place": "Ban Phue, Ban Phue District, Udon Thani 41160, Thailand",
+    "date": "2020-07-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 302673298,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/302673298/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/302673298/large.jpeg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/174234000",
+    "place": "Changping District, Beijing, China",
+    "date": "2023-07-20"
+   },
+   {
+    "id": 151125719,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151125719/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151125719/large.jpg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/91372275",
+    "place": "中国河南省郑州市中牟县",
+    "date": "2021-08-15"
+   },
+   {
+    "id": 90486173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90486173/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90486173/large.jpg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/56767250",
+    "place": "Seedorf, Svájc",
+    "date": "2020-08-13"
+   }
+  ],
+  "hero": {
+   "id": 128081942,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081942/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081942/large.jpeg",
+   "attribution": "(c) rober025, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/78276262",
+   "place": "Remerschen",
+   "date": "2021-05-02"
+  }
+ },
+ "gbif": {
+  "key": 2482048,
+  "dkTotal": 200960,
+  "dkMonths": [
+   24762,
+   17240,
+   18086,
+   17527,
+   12621,
+   9304,
+   13190,
+   20630,
+   20068,
+   18715,
+   14266,
+   14498
+  ],
+  "worldTotal": 3102725,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 357834
+   },
+   {
+    "code": "GB",
+    "count": 347204
+   },
+   {
+    "code": "ES",
+    "count": 269068
+   },
+   {
+    "code": "SE",
+    "count": 247295
+   },
+   {
+    "code": "IN",
+    "count": 237221
+   },
+   {
+    "code": "FR",
+    "count": 218212
+   },
+   {
+    "code": "DK",
+    "count": 200960
+   },
+   {
+    "code": "ZA",
+    "count": 186179
+   },
+   {
+    "code": "TW",
+    "count": 151990
+   },
+   {
+    "code": "BE",
+    "count": 143980
+   },
+   {
+    "code": "DE",
+    "count": 110503
+   },
+   {
+    "code": "PT",
+    "count": 62717
+   }
+  ]
+ },
+ "warnings": []
+}

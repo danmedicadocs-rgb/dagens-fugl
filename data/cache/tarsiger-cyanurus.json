@@ -1,0 +1,192 @@
+{
+ "key": "tarsiger-cyanurus",
+ "name": "Tarsiger cyanurus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:21:24.833Z",
+ "names": {
+  "da": "Blåstjert",
+  "en": "Red-flanked Bluetail",
+  "accepted": "Tarsiger cyanurus"
+ },
+ "wikidata": {
+  "id": "Q129219"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-flanked bluetail",
+  "extract": "The red-flanked bluetail, also known as the orange-flanked bush-robin, is a small passerine bird in the Old World flycatcher family. It breeds in mixed coniferous forests in northern Asia, parts of central Asia, and northeastern Europe. It is migratory, wintering mainly in southeast Asia, in the Indian subcontinent, the Himalayas, Taiwan, and northern Indochina.",
+  "url": "https://en.wikipedia.org/wiki/Red-flanked_bluetail"
+ },
+ "inat": {
+  "id": 210941,
+  "observations": 6343
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 29487020,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29487020/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29487020/large.jpg",
+    "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19198163",
+    "place": "Березовский р-н, Красноярский край, Россия",
+    "date": "2017-08-02"
+   },
+   {
+    "id": 243648144,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243648144/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243648144/large.jpg",
+    "attribution": "(c) Wang.QG, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142141054",
+    "place": "中国浙江省杭州市杭州植物园",
+    "date": "2021-12-27"
+   },
+   {
+    "id": 467478295,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467478295/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467478295/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/260322174",
+    "place": "Ibaraki, JP",
+    "date": "2025-02-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 29362310,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29362310/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29362310/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/19127921",
+    "place": null,
+    "date": "2018-12-21"
+   },
+   {
+    "id": 638053139,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/638053139/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/638053139/large.jpg",
+    "attribution": "(c) Yedidya Popper, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/349747568",
+    "place": "Taishoike, Azumi, Matsumoto, Nagano 390-1516, Japan",
+    "date": "2023-04-30"
+   },
+   {
+    "id": 621860824,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621860824/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621860824/large.jpg",
+    "attribution": "(c) Timur Kalininsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/341580983",
+    "place": "Район Аоба, Сендай, Мияги, Япония",
+    "date": "2026-02-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 612166442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612166442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612166442/large.jpg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/336825773",
+    "place": "Район Асахі, Иокогама, Канагава, Япония",
+    "date": "2026-01-31"
+   },
+   {
+    "id": 104132540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104132540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104132540/large.jpg",
+    "attribution": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/64739113",
+    "place": "日本、〒190-0200 東京都西多摩郡檜原村",
+    "date": "2019-06-12"
+   }
+  ],
+  "hero": {
+   "id": 29487020,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29487020/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29487020/large.jpg",
+   "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/19198163",
+   "place": "Березовский р-н, Красноярский край, Россия",
+   "date": "2017-08-02"
+  }
+ },
+ "gbif": {
+  "key": 2492509,
+  "dkTotal": 426,
+  "dkMonths": [
+   0,
+   0,
+   45,
+   0,
+   19,
+   2,
+   0,
+   0,
+   35,
+   316,
+   7,
+   0
+  ],
+  "worldTotal": 70136,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 16173
+   },
+   {
+    "code": "TW",
+    "count": 10331
+   },
+   {
+    "code": "JP",
+    "count": 8233
+   },
+   {
+    "code": "SE",
+    "count": 5254
+   },
+   {
+    "code": "FI",
+    "count": 4767
+   },
+   {
+    "code": "US",
+    "count": 4135
+   },
+   {
+    "code": "NL",
+    "count": 4127
+   },
+   {
+    "code": "KR",
+    "count": 3516
+   },
+   {
+    "code": "HK",
+    "count": 3279
+   },
+   {
+    "code": "RU",
+    "count": 2936
+   },
+   {
+    "code": "GB",
+    "count": 1436
+   },
+   {
+    "code": "MN",
+    "count": 966
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "bubo-scandiacus",
+ "name": "Bubo scandiacus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:31.880Z",
+ "names": {
+  "da": "Sneugle",
+  "en": "Snowy Owl",
+  "accepted": "Bubo scandiacus"
+ },
+ "wikidata": {
+  "id": "Q170177"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sneugle",
+  "extract": "Sneuglen lever i den nordlige halvkugles tundraområder. I Danmark er den en meget sjælden gæst.",
+  "url": "https://da.wikipedia.org/wiki/Sneugle"
+ },
+ "inat": {
+  "id": 144594,
+  "observations": 12699
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 468935116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/large.jpeg",
+    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261060345",
+    "place": "Drumheller, AB T0J 0Y0, Canada",
+    "date": "2025-02-08"
+   },
+   {
+    "id": 751438134,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751438134/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/751438134/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/408760063",
+    "place": "Cass County, ND, USA",
+    "date": "2024-02-09"
+   },
+   {
+    "id": 549005525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549005525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549005525/large.jpg",
+    "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/304535292",
+    "place": "Gateway National Recreation Area, Queens County, US-NY, US",
+    "date": "2019-01-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 258497308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497308/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149963344",
+    "place": "Крутихинский р-н, Алтайский край, Россия",
+    "date": "2023-02-26"
+   },
+   {
+    "id": 571038499,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571038499/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571038499/large.jpg",
+    "attribution": "(c) Arlo Sitimans, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/316079370",
+    "place": "Sea Island, Georgia, USA",
+    "date": "2012-12-09"
+   },
+   {
+    "id": 462564259,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462564259/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462564259/large.jpg",
+    "attribution": "(c) Kalvin Chan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/257840271",
+    "place": "Ontario, CA",
+    "date": "2025-01-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 103933088,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103933088/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103933088/large.jpg",
+    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/64630962",
+    "place": "Oberlin, OH 44074, USA",
+    "date": "2020-11-08"
+   },
+   {
+    "id": 433287539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433287539/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433287539/large.jpeg",
+    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243015210",
+    "place": "Lake Ontario, CA-ON, CA",
+    "date": "2022-03-05"
+   },
+   {
+    "id": 172745928,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172745928/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172745928/large.jpg",
+    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/103242880",
+    "place": "Black River Landing",
+    "date": "2021-12-11"
+   }
+  ],
+  "hero": {
+   "id": 468935116,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/large.jpeg",
+   "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/261060345",
+   "place": "Drumheller, AB T0J 0Y0, Canada",
+   "date": "2025-02-08"
+  }
+ },
+ "gbif": {
+  "key": 5959143,
+  "dkTotal": 844,
+  "dkMonths": [
+   108,
+   91,
+   108,
+   164,
+   44,
+   16,
+   16,
+   2,
+   1,
+   1,
+   8,
+   275
+  ],
+  "worldTotal": 302246,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 159428
+   },
+   {
+    "code": "CA",
+    "count": 130366
+   },
+   {
+    "code": "SE",
+    "count": 2885
+   },
+   {
+    "code": "NL",
+    "count": 2327
+   },
+   {
+    "code": "RU",
+    "count": 1361
+   },
+   {
+    "code": "BE",
+    "count": 990
+   },
+   {
+    "code": "DK",
+    "count": 844
+   },
+   {
+    "code": "GB",
+    "count": 583
+   },
+   {
+    "code": "FI",
+    "count": 540
+   },
+   {
+    "code": "NO",
+    "count": 526
+   },
+   {
+    "code": "GL",
+    "count": 351
+   },
+   {
+    "code": "PM",
+    "count": 347
+   }
+  ]
+ },
+ "warnings": []
+}

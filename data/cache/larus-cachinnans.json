@@ -1,0 +1,172 @@
+{
+ "key": "larus-cachinnans",
+ "name": "Larus cachinnans",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:45.484Z",
+ "names": {
+  "da": "Kaspisk måge",
+  "en": "Caspian Gull",
+  "accepted": "Larus cachinnans"
+ },
+ "wikidata": {
+  "id": "Q389505"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kaspisk måge",
+  "extract": "Kaspisk måge er en fugleart i familien mågefugle. Den har sin oprindelige udbredelse i det centrale Asien og har siden bredt sig til Østeuropa. Den ligner sølvmåge og middelhavssølvmåge. Kaspisk måge har dog et mere spinkelt næb og øjnene virker mørkere. Den har desuden en anden levevis, idet dens føde findes på landjorden og blandt andet består af smågnavere og insekter, ikke fisk og fiskeaffald som det er tilfældet for de to andre arter.",
+  "url": "https://da.wikipedia.org/wiki/Kaspisk_m%C3%A5ge"
+ },
+ "inat": {
+  "id": 4389,
+  "observations": 18535
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 80455622,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80455622/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80455622/large.jpeg",
+    "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/50661200",
+    "place": "Provincia di Novara, Italia",
+    "date": "2020-03-01"
+   },
+   {
+    "id": 438693587,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438693587/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438693587/large.jpeg",
+    "attribution": "(c) Antonina, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/245800068",
+    "place": "Vsevolozhsky District, Leningrad Oblast, Russia",
+    "date": "2024-10-05"
+   },
+   {
+    "id": 144112222,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144112222/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144112222/large.jpeg",
+    "attribution": "(c) przese, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/87411067",
+    "place": "49448 Hüde, Deutschland",
+    "date": "2021-06-27"
+   }
+  ],
+  "adult": [
+   {
+    "id": 112903999,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/large.jpg",
+    "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/69566551",
+    "place": "28041 Arona NO, Italia",
+    "date": "2021-02-14"
+   },
+   {
+    "id": 554611565,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/554611565/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/554611565/large.jpg",
+    "attribution": "(c) Юрий Данилевский (Yuriy Danilevsky), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/307478328",
+    "place": "Юж. р-н, Новороссийск, Краснодарский край, Россия",
+    "date": "2025-08-18"
+   },
+   {
+    "id": 333530978,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333530978/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333530978/large.jpg",
+    "attribution": "(c) Yaroslav Andrianov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/190285335",
+    "place": "Skadovs'kyi, UA-KS, UA",
+    "date": "2015-09-13"
+   }
+  ],
+  "hero": {
+   "id": 112903999,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/large.jpg",
+   "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/69566551",
+   "place": "28041 Arona NO, Italia",
+   "date": "2021-02-14"
+  }
+ },
+ "gbif": {
+  "key": 2481181,
+  "dkTotal": 26403,
+  "dkMonths": [
+   3311,
+   2094,
+   1413,
+   915,
+   664,
+   473,
+   1597,
+   2641,
+   3416,
+   4303,
+   3150,
+   2425
+  ],
+  "worldTotal": 335746,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 52350
+   },
+   {
+    "code": "NL",
+    "count": 45967
+   },
+   {
+    "code": "PL",
+    "count": 31946
+   },
+   {
+    "code": "CZ",
+    "count": 30586
+   },
+   {
+    "code": "DK",
+    "count": 26403
+   },
+   {
+    "code": "UA",
+    "count": 22173
+   },
+   {
+    "code": "DE",
+    "count": 15030
+   },
+   {
+    "code": "GB",
+    "count": 13926
+   },
+   {
+    "code": "RU",
+    "count": 11898
+   },
+   {
+    "code": "BE",
+    "count": 9676
+   },
+   {
+    "code": "FR",
+    "count": 8696
+   },
+   {
+    "code": "AT",
+    "count": 8132
+   }
+  ]
+ },
+ "warnings": []
+}

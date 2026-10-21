@@ -1,0 +1,120 @@
+{
+ "key": "garrulax-canorus",
+ "name": "Garrulax canorus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:33.570Z",
+ "names": {
+  "da": "Sangskadedrossel",
+  "en": null,
+  "accepted": "Garrulax canorus"
+ },
+ "wikidata": {
+  "id": "Q1589896"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Chinese hwamei",
+  "extract": "The Chinese hwamei or melodious laughingthrush is a passerine bird of eastern Asia in the laughingthrush family Leiothrichidae. The name \"hwamei\" comes from its Chinese name huà méi, which means \"painted eyebrow\", referring to the distinctive marking around the bird's eyes. The species is a popular cagebird because of its attractive song.",
+  "url": "https://en.wikipedia.org/wiki/Chinese_hwamei"
+ },
+ "inat": {
+  "id": 15156,
+  "observations": 3037
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 668748649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668748649/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668748649/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/366247661",
+    "place": "Kuliouou - Kalani Iki, Honolulu, HI, USA",
+    "date": "2026-05-28"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 668748649,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668748649/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668748649/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/366247661",
+   "place": "Kuliouou - Kalani Iki, Honolulu, HI, USA",
+   "date": "2026-05-28"
+  }
+ },
+ "gbif": {
+  "key": 2493479,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 51843,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 17953
+   },
+   {
+    "code": "US",
+    "count": 13261
+   },
+   {
+    "code": "JP",
+    "count": 13156
+   },
+   {
+    "code": "HK",
+    "count": 5588
+   },
+   {
+    "code": "CN",
+    "count": 760
+   },
+   {
+    "code": "MO",
+    "count": 741
+   },
+   {
+    "code": "SG",
+    "count": 205
+   },
+   {
+    "code": "VN",
+    "count": 38
+   },
+   {
+    "code": "LA",
+    "count": 28
+   },
+   {
+    "code": "ZZ",
+    "count": 15
+   },
+   {
+    "code": "TH",
+    "count": 7
+   },
+   {
+    "code": "IN",
+    "count": 4
+   }
+  ]
+ },
+ "warnings": []
+}

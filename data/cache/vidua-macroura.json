@@ -1,0 +1,202 @@
+{
+ "key": "vidua-macroura",
+ "name": "Vidua macroura",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:17.181Z",
+ "names": {
+  "da": "Dominikanerenke",
+  "en": "Pin-tailed Whydah",
+  "accepted": "Vidua macroura"
+ },
+ "wikidata": {
+  "id": "Q908340"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Pin-tailed whydah",
+  "extract": "The pin-tailed whydah is a small songbird with a conspicuous pennant-like tail in breeding males. It is a resident breeding bird in most of Africa south of the Sahara Desert.",
+  "url": "https://en.wikipedia.org/wiki/Pin-tailed_whydah"
+ },
+ "inat": {
+  "id": 14011,
+  "observations": 8946
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 626736046,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626736046/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626736046/large.jpg",
+    "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/344002801",
+    "place": "Avenida Zedequias Manganhela, Maputo, Maputo City, MZ",
+    "date": "2026-03-20"
+   },
+   {
+    "id": 15884262,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15884262/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15884262/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11204025",
+    "place": "Springfontein",
+    "date": "2016-03-05"
+   },
+   {
+    "id": 102863219,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102863219/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102863219/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/64026798",
+    "place": "Uitenhage Farms, Port Elizabeth, South Africa",
+    "date": "2011-10-08"
+   }
+  ],
+  "female": [
+   {
+    "id": 366712040,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366712040/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366712040/large.jpg",
+    "attribution": "(c) Kat B, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/207325698",
+    "place": "The Arboretum Los Angeles County Arboretum & Botanic Garden, Arcadia, CA, US",
+    "date": "2024-04-14"
+   },
+   {
+    "id": 515886994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515886994/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515886994/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/286951614",
+    "place": "Fullerton, CA, USA",
+    "date": "2024-05-08"
+   },
+   {
+    "id": 220182152,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220182152/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220182152/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129554932",
+    "place": "Brea, Californie, États-Unis",
+    "date": "2022-07-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 524659323,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524659323/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524659323/large.jpg",
+    "attribution": "(c) ritirene, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/291600549",
+    "place": "Palmas, Arroyo, Puerto Rico",
+    "date": "2025-06-21"
+   },
+   {
+    "id": 513053248,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513053248/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513053248/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/283259409",
+    "place": "Irvine, CA, USA",
+    "date": "2023-10-14"
+   },
+   {
+    "id": 103976993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103976993/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103976993/large.jpg",
+    "attribution": "(c) Timothy Whitehead, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/64655600",
+    "place": "Bellville, Cape Town, South Africa",
+    "date": "2020-11-10"
+   }
+  ],
+  "hero": {
+   "id": 129793503,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129793503/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/129793503/large.jpg",
+   "attribution": "(c) James M. Maley, some rights reserved (CC BY), uploaded by James M. Maley",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/129793503",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2484628,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 278488,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 170370
+   },
+   {
+    "code": "US",
+    "count": 35675
+   },
+   {
+    "code": "KE",
+    "count": 16026
+   },
+   {
+    "code": "UG",
+    "count": 10465
+   },
+   {
+    "code": "TZ",
+    "count": 5895
+   },
+   {
+    "code": "PR",
+    "count": 5546
+   },
+   {
+    "code": "ZW",
+    "count": 4714
+   },
+   {
+    "code": "NG",
+    "count": 3900
+   },
+   {
+    "code": "GH",
+    "count": 2716
+   },
+   {
+    "code": "SZ",
+    "count": 2480
+   },
+   {
+    "code": "RW",
+    "count": 2119
+   },
+   {
+    "code": "MZ",
+    "count": 1878
+   }
+  ]
+ },
+ "warnings": []
+}

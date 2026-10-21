@@ -1,0 +1,202 @@
+{
+ "key": "larus-argentatus",
+ "name": "Larus argentatus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:34.711Z",
+ "names": {
+  "da": "Sølvmåge",
+  "en": "European Herring Gull",
+  "accepted": "Larus argentatus"
+ },
+ "wikidata": {
+  "id": "Q28236"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sølvmåge",
+  "extract": "Sølvmågen er en almindelig ynglefugl i Danmark og er den mest almindelige af de store måger og større end stormmågen og mindre end svartbagen. Det er også den største af de måger, der har sølvgrå ryg og sorte vingespidser.",
+  "url": "https://da.wikipedia.org/wiki/S%C3%B8lvm%C3%A5ge"
+ },
+ "inat": {
+  "id": 204533,
+  "observations": 87985
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 9456523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9456523/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9456523/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/7306316",
+    "place": "Kristiansund, Norway",
+    "date": "2017-07-31"
+   },
+   {
+    "id": 83272991,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83272991/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83272991/large.jpeg",
+    "attribution": "(c) Camilla Lund Kristensen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/52386263",
+    "place": "8500 Grenå, Danmark",
+    "date": "2020-07-08"
+   },
+   {
+    "id": 62650606,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62650606/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62650606/large.jpg",
+    "attribution": "(c) Jonathan Tollin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39484396",
+    "place": "Skåne, SE",
+    "date": "2020-03-02"
+   }
+  ],
+  "female": [
+   {
+    "id": 224175911,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224175911/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224175911/large.jpeg",
+    "attribution": "(c) renaradelt, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/131706635",
+    "place": "Carlisle CA3, Vereinigtes Königreich",
+    "date": "2022-08-21"
+   },
+   {
+    "id": 252919545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919545/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919545/large.jpeg",
+    "attribution": "(c) Emil Jantke, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147027413",
+    "place": "4005 Stavanger, Norwegen",
+    "date": "2022-07-23"
+   },
+   {
+    "id": 34439526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34439526/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34439526/large.jpeg",
+    "attribution": "(c) John Smith, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22240364",
+    "place": "Woolacombe, UK",
+    "date": "2018-10-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 112687953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112687953/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112687953/large.jpeg",
+    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69450086",
+    "place": "Location: 51.503420, -0.123245",
+    "date": "2019-01-29"
+   },
+   {
+    "id": 284617710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284617710/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284617710/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/164496582",
+    "place": "Perros-Guirec, France",
+    "date": "2023-05-21"
+   },
+   {
+    "id": 657147626,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657147626/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657147626/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/360140357",
+    "place": "Bangor bus station, Bangor LL57 2RG, UK",
+    "date": "2025-05-29"
+   }
+  ],
+  "hero": {
+   "id": 9456523,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9456523/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9456523/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/7306316",
+   "place": "Kristiansund, Norway",
+   "date": "2017-07-31"
+  }
+ },
+ "gbif": {
+  "key": 2481139,
+  "dkTotal": 614813,
+  "dkMonths": [
+   65713,
+   52227,
+   56355,
+   50290,
+   46513,
+   90441,
+   54447,
+   45888,
+   37534,
+   40135,
+   35312,
+   37053
+  ],
+  "worldTotal": 7757961,
+  "topCountries": [
+   {
+    "code": "BE",
+    "count": 1605774
+   },
+   {
+    "code": "GB",
+    "count": 1141979
+   },
+   {
+    "code": "NL",
+    "count": 863988
+   },
+   {
+    "code": "FR",
+    "count": 832137
+   },
+   {
+    "code": "SE",
+    "count": 826646
+   },
+   {
+    "code": "NO",
+    "count": 685091
+   },
+   {
+    "code": "DK",
+    "count": 614813
+   },
+   {
+    "code": "FI",
+    "count": 521630
+   },
+   {
+    "code": "DE",
+    "count": 166345
+   },
+   {
+    "code": "US",
+    "count": 106507
+   },
+   {
+    "code": "IE",
+    "count": 76445
+   },
+   {
+    "code": "EE",
+    "count": 45406
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,120 @@
+{
+ "key": "phylloscopus-proregulus",
+ "name": "Phylloscopus proregulus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:05.515Z",
+ "names": {
+  "da": "Fuglekongesanger",
+  "en": "Pallas's Leaf Warbler",
+  "accepted": "Phylloscopus proregulus"
+ },
+ "wikidata": {
+  "id": "Q752513"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Fuglekongesanger",
+  "extract": "Fuglekongesanger er en lille sanger i løvsanger-familien. Den kan kendes på hvide vingebånd, gul øjenbrynstribe, gul issestribe og gul overgump.",
+  "url": "https://da.wikipedia.org/wiki/Fuglekongesanger"
+ },
+ "inat": {
+  "id": 117041,
+  "observations": 3169
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 295323464,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295323464/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295323464/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/170292706",
+    "place": "Спасский р-н, Приморский край, Россия",
+    "date": "2023-05-15"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 295323464,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295323464/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295323464/large.jpg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/170292706",
+   "place": "Спасский р-н, Приморский край, Россия",
+   "date": "2023-05-15"
+  }
+ },
+ "gbif": {
+  "key": 2493090,
+  "dkTotal": 1485,
+  "dkMonths": [
+   11,
+   0,
+   3,
+   88,
+   9,
+   0,
+   0,
+   1,
+   1,
+   1004,
+   306,
+   61
+  ],
+  "worldTotal": 77303,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 22401
+   },
+   {
+    "code": "SE",
+    "count": 12000
+   },
+   {
+    "code": "HK",
+    "count": 8620
+   },
+   {
+    "code": "NL",
+    "count": 8125
+   },
+   {
+    "code": "TW",
+    "count": 7967
+   },
+   {
+    "code": "RU",
+    "count": 3188
+   },
+   {
+    "code": "GB",
+    "count": 2619
+   },
+   {
+    "code": "TH",
+    "count": 1882
+   },
+   {
+    "code": "MN",
+    "count": 1778
+   },
+   {
+    "code": "DK",
+    "count": 1485
+   },
+   {
+    "code": "FR",
+    "count": 1178
+   },
+   {
+    "code": "BE",
+    "count": 1112
+   }
+  ]
+ },
+ "warnings": []
+}

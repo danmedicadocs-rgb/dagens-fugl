@@ -1,0 +1,202 @@
+{
+ "key": "vanellus-vanellus",
+ "name": "Vanellus vanellus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:08.639Z",
+ "names": {
+  "da": "Vibe",
+  "en": "Northern Lapwing",
+  "accepted": "Vanellus vanellus"
+ },
+ "wikidata": {
+  "id": "Q25392"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Vibe",
+  "extract": "Viben er en vadefugl, der yngler i Europa og Asien. I Danmark findes den på strandenge eller græsarealer med kreaturer, f.eks. på marsken ved Vadehavet, men trækker sydpå om vinteren. Tidligere var viben meget almindelig i Danmark, men den er gået kraftigt tilbage i det 20. århundrede på grund af landbrugets ændrede dyrkningsformer med bl.a. færre græsarealer. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Vibe"
+ },
+ "inat": {
+  "id": 4857,
+  "observations": 70183
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 503422320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503422320/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503422320/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/280305942",
+    "place": "6709 PG Wageningen, Nederland",
+    "date": "2025-05-11"
+   },
+   {
+    "id": 134280452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134280452/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134280452/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/81852836",
+    "place": "7142 Illmitz, Österreich",
+    "date": "2012-04-02"
+   },
+   {
+    "id": 377716529,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/377716529/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/377716529/large.jpeg",
+    "attribution": "(c) Linda Lötjönen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/213723105",
+    "place": "Keski-Karjala, Suomi",
+    "date": "2024-04-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 266862193,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266862193/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266862193/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/154447862",
+    "place": "Новосибирский р-н, Новосибирская обл., Россия",
+    "date": "2023-04-11"
+   },
+   {
+    "id": 545796431,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545796431/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545796431/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/302839014",
+    "place": "Hontoria de la Cantera, Burgos, España",
+    "date": "2025-07-26"
+   },
+   {
+    "id": 499756983,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499756983/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499756983/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/278326214",
+    "place": "Reggio Nell'Emilia, IT",
+    "date": "2025-04-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 389607787,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389607787/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389607787/large.jpeg",
+    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/220080501",
+    "place": "Norddorf, Deutschland",
+    "date": "2024-05-30"
+   },
+   {
+    "id": 506188172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506188172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506188172/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281717710",
+    "place": "Statzendorf, 3125, Österreich",
+    "date": "2025-05-17"
+   },
+   {
+    "id": 529175556,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529175556/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529175556/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/294017469",
+    "place": "Wageningen, Nederland",
+    "date": "2025-06-30"
+   }
+  ],
+  "hero": {
+   "id": 503422320,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503422320/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503422320/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/280305942",
+   "place": "6709 PG Wageningen, Nederland",
+   "date": "2025-05-11"
+  }
+ },
+ "gbif": {
+  "key": 2480242,
+  "dkTotal": 531797,
+  "dkMonths": [
+   10634,
+   27265,
+   78724,
+   77574,
+   73636,
+   48157,
+   50328,
+   48950,
+   42282,
+   40393,
+   23351,
+   10380
+  ],
+  "worldTotal": 4485411,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 914812
+   },
+   {
+    "code": "NL",
+    "count": 804497
+   },
+   {
+    "code": "GB",
+    "count": 629524
+   },
+   {
+    "code": "DK",
+    "count": 531797
+   },
+   {
+    "code": "NO",
+    "count": 290496
+   },
+   {
+    "code": "FR",
+    "count": 273975
+   },
+   {
+    "code": "BE",
+    "count": 237252
+   },
+   {
+    "code": "ES",
+    "count": 149903
+   },
+   {
+    "code": "DE",
+    "count": 128089
+   },
+   {
+    "code": "FI",
+    "count": 110947
+   },
+   {
+    "code": "EE",
+    "count": 49967
+   },
+   {
+    "code": "PT",
+    "count": 40898
+   }
+  ]
+ },
+ "warnings": []
+}

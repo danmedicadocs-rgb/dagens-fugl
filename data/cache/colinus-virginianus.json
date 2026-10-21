@@ -1,0 +1,202 @@
+{
+ "key": "colinus-virginianus",
+ "name": "Colinus virginianus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:41:40.116Z",
+ "names": {
+  "da": "Bobwhite",
+  "en": "Northern Bobwhite",
+  "accepted": "Colinus virginianus"
+ },
+ "wikidata": {
+  "id": "Q142651"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Northern bobwhite",
+  "extract": "The northern bobwhite, also known as the Virginia quail or bobwhite quail, is a ground-dwelling bird native to Canada, the United States, Mexico, and Cuba, with introduced populations elsewhere in the Caribbean, Europe, and Asia. It is a member of the group of species known as New World quail (Odontophoridae). They were initially placed with the Old World quail in the pheasant family (Phasianidae), but are not particularly closely related. The name \"bobwhite\" is an onomatopoeic derivation from its characteristic whistling call. Despite its secretive nature, the northern bobwhite is one of the most familiar quails in eastern North America, because it is frequently the only quail in its range. Habitat degradation has contributed to the northern bobwhite population in eastern North America declining by roughly 85% from 1966 to 2014. This population decline is apparently range-wide and continuing.",
+  "url": "https://en.wikipedia.org/wiki/Northern_bobwhite"
+ },
+ "inat": {
+  "id": 1280,
+  "observations": 11496
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 287031775,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/165794755",
+    "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
+    "date": "2023-05-29"
+   },
+   {
+    "id": 195517487,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195517487/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195517487/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/115843412",
+    "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
+    "date": "2022-05-01"
+   },
+   {
+    "id": 210578224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210578224/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210578224/large.jpg",
+    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/124242207",
+    "place": "Blue Ridge Rd, Chesapeake, VA, US",
+    "date": "2022-07-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 372391199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/372391199/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/372391199/large.jpg",
+    "attribution": "(c) Hannah Jones, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/210091574",
+    "place": "Pennsylvania, US",
+    "date": "2024-04-27"
+   },
+   {
+    "id": 246036575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246036575/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246036575/large.jpg",
+    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/143461934",
+    "place": "Mission, TX, USA",
+    "date": "2017-04-16"
+   },
+   {
+    "id": 107046388,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107046388/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107046388/large.jpeg",
+    "attribution": "(c) Hunter Hickok, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66406343",
+    "place": "Sandy, UT, USA",
+    "date": "2020-11-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 12497659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12497659/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12497659/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/9234183",
+    "place": "Lewisville, TX, USA",
+    "date": "2017-12-21"
+   },
+   {
+    "id": 45262102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45262102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45262102/large.jpg",
+    "attribution": "(c) Ryan Donnelly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/29014968",
+    "place": "66502, Manhattan, KS, US",
+    "date": "2019-07-17"
+   },
+   {
+    "id": 220408687,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220408687/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220408687/large.jpg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129675976",
+    "place": "Henry Beadel Dr, Tallahassee, FL, US",
+    "date": "2022-06-23"
+   }
+  ],
+  "hero": {
+   "id": 287031775,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/165794755",
+   "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
+   "date": "2023-05-29"
+  }
+ },
+ "gbif": {
+  "key": 9791464,
+  "dkTotal": 6,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "worldTotal": 505872,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 486288
+   },
+   {
+    "code": "MX",
+    "count": 12355
+   },
+   {
+    "code": "CU",
+    "count": 1967
+   },
+   {
+    "code": "CA",
+    "count": 1347
+   },
+   {
+    "code": "FR",
+    "count": 1079
+   },
+   {
+    "code": "BS",
+    "count": 507
+   },
+   {
+    "code": "DO",
+    "count": 285
+   },
+   {
+    "code": "ZZ",
+    "count": 215
+   },
+   {
+    "code": "IT",
+    "count": 156
+   },
+   {
+    "code": "GT",
+    "count": 122
+   },
+   {
+    "code": "SI",
+    "count": 79
+   },
+   {
+    "code": "HR",
+    "count": 67
+   }
+  ]
+ },
+ "warnings": []
+}

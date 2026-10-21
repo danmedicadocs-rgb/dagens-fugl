@@ -1,0 +1,202 @@
+{
+ "key": "mergus-merganser",
+ "name": "Mergus merganser",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:57:54.405Z",
+ "names": {
+  "da": "Stor skallesluger",
+  "en": "Common Merganser",
+  "accepted": "Mergus merganser"
+ },
+ "wikidata": {
+  "id": "Q180991"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stor skallesluger",
+  "extract": "Stor skallesluger er en omkring 66 centimeter stor fugl, der tilhører familien af egentlige andefugle. Den yngler i søer og floder i skovområder af Europa, det nordlige og centrale Asien samt Nordamerika.",
+  "url": "https://da.wikipedia.org/wiki/Stor_skallesluger"
+ },
+ "inat": {
+  "id": 7004,
+  "observations": 133359
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 658872536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658872536/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658872536/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/361043761",
+    "place": "I-580 W, Pleasanton, CA, US",
+    "date": "2026-05-12"
+   },
+   {
+    "id": 247246732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247246732/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247246732/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/144097327",
+    "place": "Arrondissement de Treptow-Köpenick, Berlin, Allemagne",
+    "date": "2022-12-10"
+   },
+   {
+    "id": 667601418,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667601418/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667601418/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/365644085",
+    "place": "Iron Horse Regional Trail, Dublin, CA, US",
+    "date": "2026-05-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 187060148,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187060148/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187060148/large.gif",
+    "attribution": "(c) David Dyck, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/110849780",
+    "place": "Guildford, Surrey, BC, Canada",
+    "date": "2022-02-26"
+   },
+   {
+    "id": 94321231,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94321231/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94321231/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/59049615",
+    "place": "Neuhausen-Nymphenburg, München, Deutschland",
+    "date": "2013-08-15"
+   },
+   {
+    "id": 350398654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350398654/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350398654/large.jpg",
+    "attribution": "(c) Joss Carr, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198766082",
+    "place": "The Towing Path, Oxford, England, GB",
+    "date": "2024-02-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 341671863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341671863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341671863/large.jpg",
+    "attribution": "(c) Punkus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/194383629",
+    "place": "Kittitas County, WA, USA",
+    "date": "2022-05-14"
+   },
+   {
+    "id": 206193986,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206193986/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/206193986/large.jpg",
+    "attribution": "(c) Blake Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/121828711",
+    "place": "Kings County, NB, Canada",
+    "date": "2022-06-03"
+   },
+   {
+    "id": 189411006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189411006/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189411006/large.jpeg",
+    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/112149162",
+    "place": "Winterbach, Deutschland",
+    "date": "2022-04-14"
+   }
+  ],
+  "hero": {
+   "id": 658872536,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658872536/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658872536/large.jpg",
+   "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/361043761",
+   "place": "I-580 W, Pleasanton, CA, US",
+   "date": "2026-05-12"
+  }
+ },
+ "gbif": {
+  "key": 9537647,
+  "dkTotal": 241494,
+  "dkMonths": [
+   53045,
+   47684,
+   48533,
+   20596,
+   8756,
+   3635,
+   2496,
+   2587,
+   3272,
+   4922,
+   16177,
+   29587
+  ],
+  "worldTotal": 5704023,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2493299
+   },
+   {
+    "code": "CA",
+    "count": 1072066
+   },
+   {
+    "code": "SE",
+    "count": 858605
+   },
+   {
+    "code": "DK",
+    "count": 241494
+   },
+   {
+    "code": "NL",
+    "count": 226299
+   },
+   {
+    "code": "NO",
+    "count": 218172
+   },
+   {
+    "code": "GB",
+    "count": 138729
+   },
+   {
+    "code": "DE",
+    "count": 83156
+   },
+   {
+    "code": "FI",
+    "count": 70362
+   },
+   {
+    "code": "EE",
+    "count": 45612
+   },
+   {
+    "code": "FR",
+    "count": 42284
+   },
+   {
+    "code": "BE",
+    "count": 30142
+   }
+  ]
+ },
+ "warnings": []
+}

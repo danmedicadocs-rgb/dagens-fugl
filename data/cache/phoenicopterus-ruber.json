@@ -1,0 +1,172 @@
+{
+ "key": "phoenicopterus-ruber",
+ "name": "Phoenicopterus ruber",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:50:35.179Z",
+ "names": {
+  "da": "Cariberflamingo",
+  "en": "American Flamingo",
+  "accepted": "Phoenicopterus ruber"
+ },
+ "wikidata": {
+  "id": "Q208004"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "American flamingo",
+  "extract": "The American flamingo is a large species of flamingo native to the West Indies, northern South America and the Yucatán Peninsula. It is closely related to the greater flamingo and Chilean flamingo, and was formerly considered conspecific with the greater flamingo, but that treatment is now widely viewed as incorrect due to a lack of evidence. It is also known as the Caribbean flamingo, although it is also present in the Galápagos Islands. It is the only flamingo that naturally inhabits North America.",
+  "url": "https://en.wikipedia.org/wiki/American_flamingo"
+ },
+ "inat": {
+  "id": 4257,
+  "observations": 15408
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 340564768,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340564768/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340564768/large.jpeg",
+    "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/193835621",
+    "place": "Florida City, FL 33034, USA",
+    "date": "2023-12-12"
+   },
+   {
+    "id": 283195381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283195381/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283195381/large.jpeg",
+    "attribution": "(c) Kathryn Curtis, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163718944",
+    "place": "Kralendijk, Caribbean Netherlands",
+    "date": "2023-05-10"
+   },
+   {
+    "id": 527356925,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527356925/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527356925/large.jpg",
+    "attribution": "(c) Diego Puc Estrada, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/293014750",
+    "place": "Progreso, Yucatan, Mexico",
+    "date": "2025-06-25"
+   }
+  ],
+  "adult": [
+   {
+    "id": 400069254,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/large.jpeg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/225637927",
+    "place": "Boca de Camarones, Riohacha, La Guajira, Colombia",
+    "date": "2021-10-02"
+   },
+   {
+    "id": 318476392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318476392/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318476392/large.jpg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182637234",
+    "place": "Gallatin County, KY, USA",
+    "date": "2023-09-09"
+   },
+   {
+    "id": 411855421,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/411855421/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/411855421/large.jpeg",
+    "attribution": "(c) Tyler Ekholm, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/231861488",
+    "place": "L COMPTON, RI 02837, USA",
+    "date": "2024-07-26"
+   }
+  ],
+  "hero": {
+   "id": 400069254,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/large.jpeg",
+   "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/225637927",
+   "place": "Boca de Camarones, Riohacha, La Guajira, Colombia",
+   "date": "2021-10-02"
+  }
+ },
+ "gbif": {
+  "key": 9691034,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 151682,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 33616
+   },
+   {
+    "code": "ES",
+    "count": 20787
+   },
+   {
+    "code": "US",
+    "count": 19064
+   },
+   {
+    "code": "MX",
+    "count": 18640
+   },
+   {
+    "code": "BQ",
+    "count": 10807
+   },
+   {
+    "code": "EC",
+    "count": 8605
+   },
+   {
+    "code": "CU",
+    "count": 7103
+   },
+   {
+    "code": "CW",
+    "count": 6124
+   },
+   {
+    "code": "VE",
+    "count": 5532
+   },
+   {
+    "code": "CO",
+    "count": 3828
+   },
+   {
+    "code": "NA",
+    "count": 2910
+   },
+   {
+    "code": "FR",
+    "count": 2042
+   }
+  ]
+ },
+ "warnings": []
+}

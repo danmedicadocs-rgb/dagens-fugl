@@ -1,0 +1,161 @@
+{
+ "key": "curruca-nisoria",
+ "name": "Curruca nisoria",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:47.534Z",
+ "names": {
+  "da": "Høgesanger",
+  "en": null,
+  "accepted": "Curruca nisoria"
+ },
+ "wikidata": {
+  "id": "Q104867606"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Barred warbler",
+  "extract": "The barred warbler is a species of bird in the warbler family Sylviidae which breeds across temperate regions of central and eastern Europe and western and central Asia. This passerine bird is strongly migratory, and winters in tropical eastern Africa.",
+  "url": "https://en.wikipedia.org/wiki/Barred_warbler"
+ },
+ "inat": {
+  "id": 1289488,
+  "observations": 2172
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 675171246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675171246/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675171246/large.jpg",
+    "attribution": "(c) Jono, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/369615142",
+    "place": "786Q+HP, 04416 Markkleeberg, Germany",
+    "date": "2026-06-08"
+   },
+   {
+    "id": 527739777,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527739777/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527739777/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/293219635",
+    "place": "Brandenburg, DE",
+    "date": "2025-06-09"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 591350337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591350337/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591350337/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326505549",
+    "place": "Kelling, Norfolk, UK",
+    "date": "2007-10-13"
+   },
+   {
+    "id": 93106237,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/93106237/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/93106237/large.jpg",
+    "attribution": "(c) Sheelagh Halsey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/58323741",
+    "place": "East Riding of Yorkshire, UK",
+    "date": "2020-09-01"
+   },
+   {
+    "id": 108783572,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108783572/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108783572/large.jpeg",
+    "attribution": "(c) Anthony McDonald, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67343844",
+    "place": "Flamborough, East Riding of Yorkshire, UK",
+    "date": "2020-09-21"
+   }
+  ],
+  "hero": {
+   "id": 675171246,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675171246/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675171246/large.jpg",
+   "attribution": "(c) Jono, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/369615142",
+   "place": "786Q+HP, 04416 Markkleeberg, Germany",
+   "date": "2026-06-08"
+  }
+ },
+ "gbif": {
+  "key": 2492955,
+  "dkTotal": 2111,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   286,
+   303,
+   160,
+   437,
+   338,
+   342,
+   197,
+   35
+  ],
+  "worldTotal": 87970,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 29922
+   },
+   {
+    "code": "NO",
+    "count": 5701
+   },
+   {
+    "code": "NL",
+    "count": 5215
+   },
+   {
+    "code": "PL",
+    "count": 4564
+   },
+   {
+    "code": "IL",
+    "count": 4308
+   },
+   {
+    "code": "GB",
+    "count": 3541
+   },
+   {
+    "code": "FI",
+    "count": 3189
+   },
+   {
+    "code": "EE",
+    "count": 2989
+   },
+   {
+    "code": "BG",
+    "count": 2877
+   },
+   {
+    "code": "TR",
+    "count": 2522
+   },
+   {
+    "code": "DK",
+    "count": 2111
+   },
+   {
+    "code": "DE",
+    "count": 2006
+   }
+  ]
+ },
+ "warnings": []
+}

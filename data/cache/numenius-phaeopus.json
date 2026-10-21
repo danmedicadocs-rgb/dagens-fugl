@@ -1,0 +1,152 @@
+{
+ "key": "numenius-phaeopus",
+ "name": "Numenius phaeopus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:06:50.481Z",
+ "names": {
+  "da": "Småspove",
+  "en": "Eurasian Whimbrel",
+  "accepted": "Numenius phaeopus"
+ },
+ "wikidata": {
+  "id": "Q18858"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Småspove",
+  "extract": "Småspove er en sneppefugl. Den bliver ofte forvekslet med storspove, men er lidt mindre. Den er 37-45 cm lang og har et vingespænd på 76-89 cm. Småspoven er mest gråbrun med et langt nedadbøjet næb, som er længst hos voksne hunner, og lange ben som storspoven. Småspoven har en tydelig lys stribe på den mørkebrune isse og et kraftigere mønster end storspoven. I almindelig, aktiv flugt kendes den på sine hurtige vingeslag. Der er ingen væsentlig dragtforskel på adulte og juvenile, bortset fra at de juvenile fugle ikke har udviklet næbbet til den fulde længde.\nI yngleområdet høres dens sitrende triller, og har næsten samme form som storspoven. Flugtkaldet er derimod en hurtig vrinskende tonerække til forskel for storspovens mere klare, fløjtende kald. Småspove kaldes også for 'lille regnspove'.",
+  "url": "https://da.wikipedia.org/wiki/Sm%C3%A5spove"
+ },
+ "inat": {
+  "id": 3901,
+  "observations": 24054
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 300903899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300903899/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/300903899/large.jpeg",
+    "attribution": "(c) Heather Mazzaccaro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/173280648",
+    "place": "Kerid Crater",
+    "date": "2023-07-16"
+   }
+  ],
+  "adult": [
+   {
+    "id": 318560136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318560136/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318560136/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182681906",
+    "place": "Pomorie, Bulgaria",
+    "date": "2023-09-04"
+   },
+   {
+    "id": 525485937,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525485937/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525485937/large.jpg",
+    "attribution": "(c) Carl Linnér, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/292031456",
+    "place": "Ko Lanta Noi, Ko Lanta District, Krabi 81150, Thailand",
+    "date": "2025-06-23"
+   },
+   {
+    "id": 190674886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190674886/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190674886/large.jpeg",
+    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/112872080",
+    "place": "Blackditch, Rockingham, Co. Wicklow, Ireland",
+    "date": "2022-04-21"
+   }
+  ],
+  "hero": {
+   "id": 588065881,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588065881/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588065881/large.jpg",
+   "attribution": "(c) Pierre Dalous, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/588065881",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481784,
+  "dkTotal": 52365,
+  "dkMonths": [
+   0,
+   1,
+   81,
+   6343,
+   11693,
+   2221,
+   18570,
+   12459,
+   912,
+   67,
+   7,
+   2
+  ],
+  "worldTotal": 1737882,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 494894
+   },
+   {
+    "code": "SE",
+    "count": 143298
+   },
+   {
+    "code": "AU",
+    "count": 99866
+   },
+   {
+    "code": "ES",
+    "count": 79854
+   },
+   {
+    "code": "GB",
+    "count": 78681
+   },
+   {
+    "code": "CL",
+    "count": 70010
+   },
+   {
+    "code": "NO",
+    "count": 65599
+   },
+   {
+    "code": "CA",
+    "count": 64984
+   },
+   {
+    "code": "DK",
+    "count": 52365
+   },
+   {
+    "code": "NL",
+    "count": 48579
+   },
+   {
+    "code": "PT",
+    "count": 42284
+   },
+   {
+    "code": "FR",
+    "count": 37281
+   }
+  ]
+ },
+ "warnings": []
+}

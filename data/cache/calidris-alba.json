@@ -1,0 +1,172 @@
+{
+ "key": "calidris-alba",
+ "name": "Calidris alba",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:21.484Z",
+ "names": {
+  "da": "Sandløber",
+  "en": "Sanderling",
+  "accepted": "Calidris alba"
+ },
+ "wikidata": {
+  "id": "Q58958"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sandløber",
+  "extract": "Sandløber er en vadefugl, der er ret almindelig som trækgæst i Danmark fra de højarktiske dele af Rusland og Grønland. Den overvintrer fra Nord- og Vesteuropas kyster langs Afrikas vestkyst til Sydafrika. Det videnskabelige navn alba betyder 'hvid' på latin. Den kaldes også for selning eller tretået ryle.",
+  "url": "https://da.wikipedia.org/wiki/Sandl%C3%B8ber"
+ },
+ "inat": {
+  "id": 3849,
+  "observations": 87683
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 25120626,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25120626/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25120626/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/16659229",
+    "place": "Unnamed Road, Austria",
+    "date": "2018-09-18"
+   },
+   {
+    "id": 23555329,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23555329/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23555329/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/15767766",
+    "place": "Revere, MA, USA",
+    "date": "2018-08-21"
+   },
+   {
+    "id": 434978828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434978828/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434978828/large.jpg",
+    "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243902253",
+    "place": "Klaeng, Rayong, Thailand",
+    "date": "2024-09-22"
+   }
+  ],
+  "adult": [
+   {
+    "id": 76404858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76404858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76404858/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48163274",
+    "place": "Stone Harbor Point, NJ 08247, USA",
+    "date": "2019-04-30"
+   },
+   {
+    "id": 147766728,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/large.jpeg",
+    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89477944",
+    "place": "Québec, Canada",
+    "date": "2021-07-19"
+   },
+   {
+    "id": 664249204,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664249204/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664249204/large.jpg",
+    "attribution": "(c) Jacky Judas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/363874277",
+    "place": "Pas-de-Calais, Nord-Pas-de-Calais, FR",
+    "date": "2026-05-06"
+   }
+  ],
+  "hero": {
+   "id": 232281217,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/232281217/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/232281217/large.jpeg",
+   "attribution": "(c) Marco Chan, some rights reserved (CC BY), uploaded by Marco Chan",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/232281217",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481748,
+  "dkTotal": 74081,
+  "dkMonths": [
+   4607,
+   4024,
+   4095,
+   3705,
+   5694,
+   1072,
+   6889,
+   14977,
+   12355,
+   8701,
+   4718,
+   3229
+  ],
+  "worldTotal": 2145490,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1290221
+   },
+   {
+    "code": "CA",
+    "count": 136301
+   },
+   {
+    "code": "DK",
+    "count": 74081
+   },
+   {
+    "code": "GB",
+    "count": 69942
+   },
+   {
+    "code": "ES",
+    "count": 69310
+   },
+   {
+    "code": "SE",
+    "count": 60876
+   },
+   {
+    "code": "NL",
+    "count": 59908
+   },
+   {
+    "code": "PT",
+    "count": 50918
+   },
+   {
+    "code": "FR",
+    "count": 34093
+   },
+   {
+    "code": "MX",
+    "count": 29658
+   },
+   {
+    "code": "NO",
+    "count": 27612
+   },
+   {
+    "code": "AU",
+    "count": 17527
+   }
+  ]
+ },
+ "warnings": []
+}

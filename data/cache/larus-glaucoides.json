@@ -1,0 +1,172 @@
+{
+ "key": "larus-glaucoides",
+ "name": "Larus glaucoides",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:52.314Z",
+ "names": {
+  "da": "Hvidvinget måge",
+  "en": "Iceland Gull",
+  "accepted": "Larus glaucoides"
+ },
+ "wikidata": {
+  "id": "Q174232"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidvinget måge",
+  "extract": "Hvidvinget måge er en fugleart i familien mågefugle, der især yngler ved Grønlands og det nordøstlige Canadas kyster. Arten har et vingefang på cirka 135 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/Hvidvinget_m%C3%A5ge"
+ },
+ "inat": {
+  "id": 4361,
+  "observations": 13628
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 609004591,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609004591/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609004591/large.jpg",
+    "attribution": "(c) Quentin Benet-Cibois, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335256551",
+    "place": "France",
+    "date": "2026-01-18"
+   },
+   {
+    "id": 14041779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14041779/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14041779/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/10171839",
+    "place": "Boston, MA, USA",
+    "date": "2018-03-10"
+   },
+   {
+    "id": 463086394,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463086394/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463086394/large.jpeg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258134676",
+    "place": "Bucks County, PA, USA",
+    "date": "2011-03-16"
+   }
+  ],
+  "adult": [
+   {
+    "id": 459828005,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/large.jpg",
+    "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256461217",
+    "place": "Toronto, ON, Canada",
+    "date": "2024-12-26"
+   },
+   {
+    "id": 610670666,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610670666/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610670666/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/336085403",
+    "place": "Sandymount Strand",
+    "date": "2007-11-25"
+   },
+   {
+    "id": 489675281,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489675281/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489675281/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/202668702",
+    "place": "Cantabria, ES-CB, ES",
+    "date": "2024-03-16"
+   }
+  ],
+  "hero": {
+   "id": 459828005,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/large.jpg",
+   "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/256461217",
+   "place": "Toronto, ON, Canada",
+   "date": "2024-12-26"
+  }
+ },
+ "gbif": {
+  "key": 2481156,
+  "dkTotal": 3290,
+  "dkMonths": [
+   1081,
+   774,
+   380,
+   276,
+   206,
+   28,
+   17,
+   15,
+   7,
+   90,
+   118,
+   292
+  ],
+  "worldTotal": 518742,
+  "topCountries": [
+   {
+    "code": "CA",
+    "count": 222749
+   },
+   {
+    "code": "US",
+    "count": 211183
+   },
+   {
+    "code": "IS",
+    "count": 20431
+   },
+   {
+    "code": "NL",
+    "count": 15222
+   },
+   {
+    "code": "NO",
+    "count": 14603
+   },
+   {
+    "code": "GB",
+    "count": 10706
+   },
+   {
+    "code": "SE",
+    "count": 7281
+   },
+   {
+    "code": "DK",
+    "count": 3290
+   },
+   {
+    "code": "GL",
+    "count": 2793
+   },
+   {
+    "code": "ES",
+    "count": 1919
+   },
+   {
+    "code": "IE",
+    "count": 1668
+   },
+   {
+    "code": "BE",
+    "count": 1430
+   }
+  ]
+ },
+ "warnings": []
+}

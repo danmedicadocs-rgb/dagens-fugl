@@ -1,0 +1,162 @@
+{
+ "key": "pyrrhocorax-graculus",
+ "name": "Pyrrhocorax graculus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:26:50.030Z",
+ "names": {
+  "da": "Alpeallike",
+  "en": "Alpine Chough",
+  "accepted": "Pyrrhocorax graculus"
+ },
+ "wikidata": {
+  "id": "Q191386"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Alpeallike",
+  "extract": "Alpeallike er en fugl i kragefamilien. Det er den ene af to arter i slægten Pyrrhocorax. Den anden art er alpekragen, Pyrrhocorax pyrrhocorax. Alpeallike yngler i bjerge i Nordafrika og fra Spanien videre gennem Sydeuropa til Centralasien, Indien og Kina. Arten kan yngle højere over havet end nogen anden fugl.",
+  "url": "https://da.wikipedia.org/wiki/Alpeallike"
+ },
+ "inat": {
+  "id": 8350,
+  "observations": 12928
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 150687605,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150687605/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150687605/large.jpeg",
+    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/91138684",
+    "place": "Alto Adige, Italia",
+    "date": "2021-08-09"
+   },
+   {
+    "id": 715432425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715432425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715432425/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/390508237",
+    "place": "Kazbegi Municipality, Georgia",
+    "date": "2026-08-07"
+   }
+  ],
+  "adult": [
+   {
+    "id": 111798407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/large.jpg",
+    "attribution": "(c) rainerburkard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68963903",
+    "place": "Hungerberg, 6020 Innsbruck, Österreich",
+    "date": "2020-08-07"
+   },
+   {
+    "id": 327048861,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327048861/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327048861/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/187060646",
+    "place": "Zugspitze, Garmisch-Partenkirchen, Bavaria, DE",
+    "date": "2023-10-06"
+   },
+   {
+    "id": 116968509,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116968509/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116968509/large.jpeg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71806600",
+    "place": "55030 Вальи-Сотто, Лукка, Италия",
+    "date": "2018-06-26"
+   }
+  ],
+  "hero": {
+   "id": 111798407,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/large.jpg",
+   "attribution": "(c) rainerburkard, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/68963903",
+   "place": "Hungerberg, 6020 Innsbruck, Österreich",
+   "date": "2020-08-07"
+  }
+ },
+ "gbif": {
+  "key": 2482553,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 110254,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 36012
+   },
+   {
+    "code": "ES",
+    "count": 15408
+   },
+   {
+    "code": "CH",
+    "count": 11412
+   },
+   {
+    "code": "AT",
+    "count": 11398
+   },
+   {
+    "code": "IT",
+    "count": 9132
+   },
+   {
+    "code": "IN",
+    "count": 6001
+   },
+   {
+    "code": "DE",
+    "count": 3773
+   },
+   {
+    "code": "MA",
+    "count": 2482
+   },
+   {
+    "code": "GE",
+    "count": 1843
+   },
+   {
+    "code": "TR",
+    "count": 1762
+   },
+   {
+    "code": "NP",
+    "count": 1563
+   },
+   {
+    "code": "CN",
+    "count": 1251
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "phalaropus-lobatus",
+ "name": "Phalaropus lobatus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:08:07.961Z",
+ "names": {
+  "da": "Odinshane",
+  "en": "Red-necked Phalarope",
+  "accepted": "Phalaropus lobatus"
+ },
+ "wikidata": {
+  "id": "Q206840"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Odinshane",
+  "extract": "Odinshane er en vadefugl, der forår og efterår er en sjælden trækgæst fra det nordlige Skandinavien på vej til overvintring i den Persiske Bugt og ud for den Arabiske Halvø i den nordlige del af det Indiske Ocean.",
+  "url": "https://da.wikipedia.org/wiki/Odinshane"
+ },
+ "inat": {
+  "id": 3959,
+  "observations": 17632
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 148497340,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148497340/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148497340/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89894244",
+    "place": "Suðurland, Islande",
+    "date": "2021-07-23"
+   },
+   {
+    "id": 530197119,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530197119/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530197119/large.jpg",
+    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/294556961",
+    "place": "Karl Sivertsenip Aqquserna, Sisimiut, Qeqqata, GL",
+    "date": "2025-06-30"
+   },
+   {
+    "id": 677881877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/677881877/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/677881877/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/371033127",
+    "place": "Iceland, Snæfellsbær, Western Region, IS",
+    "date": "2026-06-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 127562828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127562828/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127562828/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/77977795",
+    "place": "Playa Del Rey, Los Angeles, CA, USA",
+    "date": "2021-05-08"
+   },
+   {
+    "id": 320590083,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320590083/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320590083/large.jpeg",
+    "attribution": "(c) Diana, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/183732729",
+    "place": "Riverside County, CA, USA",
+    "date": "2023-08-27"
+   },
+   {
+    "id": 690130142,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690130142/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690130142/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/377398853",
+    "place": "Aldeburgh Marshes",
+    "date": "2026-06-05"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 608887953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608887953/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608887953/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/335198633",
+    "place": "Kilcoole",
+    "date": "2006-10-02"
+   },
+   {
+    "id": 568123248,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/568123248/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/568123248/large.jpg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/314544752",
+    "place": "Llanishen, Cardiff, UK",
+    "date": "2025-09-16"
+   },
+   {
+    "id": 314811343,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314811343/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314811343/large.jpg",
+    "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/180700303",
+    "place": "El Granada, CA, USA",
+    "date": "2023-08-25"
+   }
+  ],
+  "hero": {
+   "id": 148497340,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148497340/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148497340/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/89894244",
+   "place": "Suðurland, Islande",
+   "date": "2021-07-23"
+  }
+ },
+ "gbif": {
+  "key": 5739290,
+  "dkTotal": 5898,
+  "dkMonths": [
+   2,
+   0,
+   0,
+   19,
+   575,
+   542,
+   441,
+   2788,
+   1418,
+   104,
+   3,
+   0
+  ],
+  "worldTotal": 606971,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 369871
+   },
+   {
+    "code": "CA",
+    "count": 53843
+   },
+   {
+    "code": "SE",
+    "count": 42714
+   },
+   {
+    "code": "NL",
+    "count": 26409
+   },
+   {
+    "code": "IS",
+    "count": 19927
+   },
+   {
+    "code": "NO",
+    "count": 15631
+   },
+   {
+    "code": "TW",
+    "count": 15607
+   },
+   {
+    "code": "DK",
+    "count": 5898
+   },
+   {
+    "code": "RU",
+    "count": 4362
+   },
+   {
+    "code": "FI",
+    "count": 4358
+   },
+   {
+    "code": "MX",
+    "count": 4078
+   },
+   {
+    "code": "IL",
+    "count": 3104
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,151 @@
+{
+ "key": "coracias-garrulus",
+ "name": "Coracias garrulus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:13:48.078Z",
+ "names": {
+  "da": "Ellekrage",
+  "en": "European Roller",
+  "accepted": "Coracias garrulus"
+ },
+ "wikidata": {
+  "id": "Q179367"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Ellekrage",
+  "extract": "Ellekragen er en fugleart i familien ellekrager og eneste europæiske repræsentant for familien. Den lever fortrinsvis af insekter. Ellekragen er en meget sjælden gæst i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Ellekrage"
+ },
+ "inat": {
+  "id": 2266,
+  "observations": 12292
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 686559553,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686559553/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686559553/large.jpg",
+    "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375547211",
+    "place": "Tulcea, Romania",
+    "date": "2026-06-26"
+   },
+   {
+    "id": 503396714,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503396714/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503396714/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/280292465",
+    "place": "Calabria",
+    "date": "2025-05-10"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 306092592,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306092592/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306092592/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176085874",
+    "place": "Parvomay, Bulgaria",
+    "date": "2023-08-01"
+   },
+   {
+    "id": 544508658,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/544508658/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/544508658/large.jpg",
+    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/302161326",
+    "place": "Beja, PT",
+    "date": "2025-07-07"
+   }
+  ],
+  "hero": {
+   "id": 686559553,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686559553/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686559553/large.jpg",
+   "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/375547211",
+   "place": "Tulcea, Romania",
+   "date": "2026-06-26"
+  }
+ },
+ "gbif": {
+  "key": 2475365,
+  "dkTotal": 510,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   48,
+   84,
+   2,
+   51,
+   2,
+   315,
+   0,
+   1
+  ],
+  "worldTotal": 249986,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 68039
+   },
+   {
+    "code": "ES",
+    "count": 33075
+   },
+   {
+    "code": "ZA",
+    "count": 32703
+   },
+   {
+    "code": "IN",
+    "count": 15732
+   },
+   {
+    "code": "IL",
+    "count": 9523
+   },
+   {
+    "code": "TR",
+    "count": 8076
+   },
+   {
+    "code": "KE",
+    "count": 6218
+   },
+   {
+    "code": "HU",
+    "count": 6037
+   },
+   {
+    "code": "GE",
+    "count": 5578
+   },
+   {
+    "code": "RO",
+    "count": 5259
+   },
+   {
+    "code": "BG",
+    "count": 4452
+   },
+   {
+    "code": "TZ",
+    "count": 4256
+   }
+  ]
+ },
+ "warnings": []
+}

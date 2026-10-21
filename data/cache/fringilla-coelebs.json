@@ -1,0 +1,202 @@
+{
+ "key": "fringilla-coelebs",
+ "name": "Fringilla coelebs",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:23:38.329Z",
+ "names": {
+  "da": "Bogfinke",
+  "en": "Eurasian Chaffinch",
+  "accepted": "Fringilla coelebs"
+ },
+ "wikidata": {
+  "id": "Q25383"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Bogfinke",
+  "extract": "Bogfinken er en 16 centimeter stor spurvefugl, der yngler i store dele af Europa og mod øst til Centralasien. Arten er desuden indført til New Zealand. Den er en af de almindeligste fuglearter i Danmark med en bestand på muligvis op til 2 millioner par.",
+  "url": "https://da.wikipedia.org/wiki/Bogfinke"
+ },
+ "inat": {
+  "id": 10070,
+  "observations": 211713
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 136408520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83075710",
+    "place": "20170 Levie, France",
+    "date": "2021-06-06"
+   },
+   {
+    "id": 729609564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729609564/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729609564/large.jpg",
+    "attribution": "(c) Павел Кунгуров, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397779576",
+    "place": "Северо-Восточный административный округ, Москва, Россия",
+    "date": "2026-04-19"
+   },
+   {
+    "id": 681146589,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681146589/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681146589/large.jpg",
+    "attribution": "(c) harry beaman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/372742290",
+    "place": "Route de la Canourgue, La Malène, Occitanie, FR",
+    "date": "2026-06-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 352779229,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352779229/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352779229/large.jpg",
+    "attribution": "(c) Saskia Kollegger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200000000",
+    "place": "Leoben, Österreich",
+    "date": "2023-12-15"
+   },
+   {
+    "id": 112941859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69586283",
+    "place": "Steppingley, Bedford MK45, UK",
+    "date": "2021-02-14"
+   },
+   {
+    "id": 606662819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606662819/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606662819/large.jpg",
+    "attribution": "(c) Cara Ennis, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334106390",
+    "place": "WWT, Gloucester, England, GB",
+    "date": "2026-01-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 211434258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211434258/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211434258/large.jpeg",
+    "attribution": "(c) Daniel Capilla, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/124725155",
+    "place": "Parque Forestal de Gibralfaro, Málaga, España",
+    "date": "2022-07-04"
+   },
+   {
+    "id": 507975333,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507975333/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507975333/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/282729540",
+    "place": "I Giganti della Sila",
+    "date": "2025-05-18"
+   },
+   {
+    "id": 196584715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196584715/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196584715/large.jpeg",
+    "attribution": "(c) Claude Kolwelter, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/116476712",
+    "place": "2906 Chevenez, Schweiz",
+    "date": "2011-07-11"
+   }
+  ],
+  "hero": {
+   "id": 136408520,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/83075710",
+   "place": "20170 Levie, France",
+   "date": "2021-06-06"
+  }
+ },
+ "gbif": {
+  "key": 2494422,
+  "dkTotal": 535399,
+  "dkMonths": [
+   44841,
+   37839,
+   77292,
+   82329,
+   73308,
+   49981,
+   24878,
+   14178,
+   30710,
+   42349,
+   28868,
+   28734
+  ],
+  "worldTotal": 10360017,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 1791173
+   },
+   {
+    "code": "SE",
+    "count": 1313322
+   },
+   {
+    "code": "NL",
+    "count": 1130766
+   },
+   {
+    "code": "GB",
+    "count": 970920
+   },
+   {
+    "code": "ES",
+    "count": 821644
+   },
+   {
+    "code": "DE",
+    "count": 636724
+   },
+   {
+    "code": "FI",
+    "count": 585499
+   },
+   {
+    "code": "NO",
+    "count": 555800
+   },
+   {
+    "code": "DK",
+    "count": 535399
+   },
+   {
+    "code": "BE",
+    "count": 354726
+   },
+   {
+    "code": "NZ",
+    "count": 270282
+   },
+   {
+    "code": "PT",
+    "count": 188980
+   }
+  ]
+ },
+ "warnings": []
+}

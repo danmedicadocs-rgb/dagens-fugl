@@ -1,0 +1,202 @@
+{
+ "key": "struthio-camelus",
+ "name": "Struthio camelus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:29.509Z",
+ "names": {
+  "da": "Struds",
+  "en": "Common ostrich",
+  "accepted": "Struthio camelus"
+ },
+ "wikidata": {
+  "id": "Q17592"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Struds",
+  "extract": "Strudsen eller mere korrekt masaistrudsen er verdens største nulevende fugl. Den er også kendt under navnet afrikansk struds. Strudsen er op til 2,5 meter høj og kan ikke flyve.",
+  "url": "https://da.wikipedia.org/wiki/Struds"
+ },
+ "inat": {
+  "id": 20526,
+  "observations": 16069
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 97591380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97591380/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97591380/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/61012743",
+    "place": "Addo Elephant National Park, Western District, South Africa",
+    "date": "2020-09-23"
+   },
+   {
+    "id": 333711376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333711376/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333711376/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/190372900",
+    "place": "Rietvlei Nature Reserve, Pretoria, South Africa.",
+    "date": "2023-08-18"
+   },
+   {
+    "id": 299256538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299256538/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299256538/large.jpeg",
+    "attribution": "(c) Thom Doeleman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/172388549",
+    "place": "Taita Hills Wildlife Sanctuary",
+    "date": "2023-06-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 48811902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811902/large.jpg",
+    "attribution": "(c) Seig, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/31202412",
+    "place": "Ngorongoro, Arusha, Tanzania",
+    "date": "2017-09-21"
+   },
+   {
+    "id": 265070810,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265070810/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265070810/large.jpg",
+    "attribution": "(c) ragnvald, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/153470387",
+    "place": "Ngorongoro Conservation Area, Ngorongoro, TZ",
+    "date": "2023-04-04"
+   },
+   {
+    "id": 514776904,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514776904/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514776904/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286358145",
+    "place": "Mara, Tanzania",
+    "date": "2017-07-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 595431,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595431/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595431/large.JPG",
+    "attribution": "(c) Pierre Tellier, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/472316",
+    "place": "Prince Albert",
+    "date": "2009-09-09"
+   },
+   {
+    "id": 48811891,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811891/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811891/large.jpg",
+    "attribution": "(c) Seig, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/31202411",
+    "place": "Serengeti, Tanzania",
+    "date": "2017-09-19"
+   },
+   {
+    "id": 567466910,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567466910/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567466910/large.jpg",
+    "attribution": "(c) Darren Obbard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/314194282",
+    "place": "Kavango East Region, Namibia",
+    "date": "2025-08-25"
+   }
+  ],
+  "hero": {
+   "id": 97591380,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97591380/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97591380/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/61012743",
+   "place": "Addo Elephant National Park, Western District, South Africa",
+   "date": "2020-09-23"
+  }
+ },
+ "gbif": {
+  "key": 2495150,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 144553,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 89813
+   },
+   {
+    "code": "KE",
+    "count": 18591
+   },
+   {
+    "code": "NA",
+    "count": 14221
+   },
+   {
+    "code": "TZ",
+    "count": 12544
+   },
+   {
+    "code": "BW",
+    "count": 4989
+   },
+   {
+    "code": "ZW",
+    "count": 754
+   },
+   {
+    "code": "AU",
+    "count": 500
+   },
+   {
+    "code": "UG",
+    "count": 326
+   },
+   {
+    "code": "MA",
+    "count": 222
+   },
+   {
+    "code": "SZ",
+    "count": 154
+   },
+   {
+    "code": "US",
+    "count": 140
+   },
+   {
+    "code": "IL",
+    "count": 125
+   }
+  ]
+ },
+ "warnings": []
+}

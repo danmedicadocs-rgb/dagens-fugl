@@ -1,0 +1,202 @@
+{
+ "key": "emberiza-citrinella",
+ "name": "Emberiza citrinella",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:25:25.001Z",
+ "names": {
+  "da": "Gulspurv",
+  "en": "Yellowhammer",
+  "accepted": "Emberiza citrinella"
+ },
+ "wikidata": {
+  "id": "Q26205"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gulspurv",
+  "extract": "Gulspurven er en fugleart i familien af værlinger. Fuglen måler 16,5 cm. Den er en almindelig ynglefugl i Danmark, hvor den holder til i åbne områder med skov, krat eller levende hegn. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Gulspurv"
+ },
+ "inat": {
+  "id": 9195,
+  "observations": 60014
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 203542182,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203542182/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203542182/large.jpg",
+    "attribution": "(c) Patrick Meurin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120350793",
+    "place": "Niederanven, Luxemburg",
+    "date": "2022-06-01"
+   },
+   {
+    "id": 470959834,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470959834/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470959834/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/262109792",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2025-02-18"
+   },
+   {
+    "id": 350032411,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350032411/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350032411/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198578147",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-02-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 470962289,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470962289/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470962289/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/262110687",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2025-02-18"
+   },
+   {
+    "id": 345985295,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345985295/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345985295/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196506747",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-01-13"
+   },
+   {
+    "id": 347323026,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347323026/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347323026/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197230936",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-01-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 408190050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/408190050/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/408190050/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/229926056",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2024-07-17"
+   },
+   {
+    "id": 522379888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/522379888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/522379888/large.jpg",
+    "attribution": "(c) Scott Shanks, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/290383611",
+    "place": "High Street, Aberlour, Scotland, GB",
+    "date": "2025-06-17"
+   },
+   {
+    "id": 398204891,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398204891/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398204891/large.jpeg",
+    "attribution": "(c) Oakley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224659695",
+    "place": "Janetstown, Thurso KW14 7XQ, UK",
+    "date": "2024-06-23"
+   }
+  ],
+  "hero": {
+   "id": 500177041,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500177041/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500177041/large.jpg",
+   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY), uploaded by Diego González Dopico",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/500177041",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2491534,
+  "dkTotal": 346429,
+  "dkMonths": [
+   20683,
+   20604,
+   43176,
+   49859,
+   55123,
+   40664,
+   33897,
+   16199,
+   12925,
+   24104,
+   16110,
+   13004
+  ],
+  "worldTotal": 3445263,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 853627
+   },
+   {
+    "code": "NO",
+    "count": 408651
+   },
+   {
+    "code": "DK",
+    "count": 346429
+   },
+   {
+    "code": "FI",
+    "count": 295415
+   },
+   {
+    "code": "FR",
+    "count": 290225
+   },
+   {
+    "code": "DE",
+    "count": 258204
+   },
+   {
+    "code": "NL",
+    "count": 257531
+   },
+   {
+    "code": "GB",
+    "count": 218792
+   },
+   {
+    "code": "NZ",
+    "count": 99074
+   },
+   {
+    "code": "BE",
+    "count": 62013
+   },
+   {
+    "code": "CZ",
+    "count": 61715
+   },
+   {
+    "code": "PL",
+    "count": 57714
+   }
+  ]
+ },
+ "warnings": []
+}

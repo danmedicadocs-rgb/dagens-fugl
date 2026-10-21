@@ -1,0 +1,162 @@
+{
+ "key": "tringa-nebularia",
+ "name": "Tringa nebularia",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:07:29.873Z",
+ "names": {
+  "da": "Hvidklire",
+  "en": "Common Greenshank",
+  "accepted": "Tringa nebularia"
+ },
+ "wikidata": {
+  "id": "Q18840"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Common greenshank",
+  "extract": "The common greenshank is a wader in the large family Scolopacidae, the typical waders. The genus name Tringa is the Neo-Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient Greek trungas, a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle. The specific nebularia is from Latin nebula \"mist\". Like the Norwegian Skoddefoll, this refers to the greenshank's damp marshy habitat.",
+  "url": "https://en.wikipedia.org/wiki/Common_greenshank"
+ },
+ "inat": {
+  "id": 3878,
+  "observations": 38359
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 360548758,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360548758/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360548758/large.jpeg",
+    "attribution": "(c) 胡正恆(Jackson Hu), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204017785",
+    "place": "台灣台南市東區臺南",
+    "date": "2024-03-24"
+   },
+   {
+    "id": 168623885,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168623885/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168623885/large.jpeg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/100997515",
+    "place": "Токай, Ота, Токио 143-0001, Япония",
+    "date": "2021-11-13"
+   }
+  ],
+  "adult": [
+   {
+    "id": 330884461,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330884461/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330884461/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/188963083",
+    "place": "Fort Ord National Monument, Salinas, CA, US",
+    "date": "2023-10-25"
+   },
+   {
+    "id": 73584013,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73584013/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73584013/large.jpeg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/46394798",
+    "place": "Mappila Bay Harbour",
+    "date": "2019-10-19"
+   },
+   {
+    "id": 251980720,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251980720/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251980720/large.jpeg",
+    "attribution": "(c) Paulo Martins, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/146550076",
+    "place": "Vila Franca de Xira, Portugal",
+    "date": "2023-01-13"
+   }
+  ],
+  "hero": {
+   "id": 330884461,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330884461/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330884461/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/188963083",
+   "place": "Fort Ord National Monument, Salinas, CA, US",
+   "date": "2023-10-25"
+  }
+ },
+ "gbif": {
+  "key": 2481726,
+  "dkTotal": 191595,
+  "dkMonths": [
+   117,
+   55,
+   193,
+   19025,
+   27765,
+   11415,
+   45581,
+   53873,
+   24358,
+   9013,
+   96,
+   91
+  ],
+  "worldTotal": 2120555,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 502118
+   },
+   {
+    "code": "DK",
+    "count": 191595
+   },
+   {
+    "code": "TW",
+    "count": 150618
+   },
+   {
+    "code": "NO",
+    "count": 140149
+   },
+   {
+    "code": "ES",
+    "count": 129908
+   },
+   {
+    "code": "GB",
+    "count": 108425
+   },
+   {
+    "code": "AU",
+    "count": 102498
+   },
+   {
+    "code": "IN",
+    "count": 87688
+   },
+   {
+    "code": "FR",
+    "count": 79349
+   },
+   {
+    "code": "NL",
+    "count": 76855
+   },
+   {
+    "code": "ZA",
+    "count": 64727
+   },
+   {
+    "code": "BE",
+    "count": 55995
+   }
+  ]
+ },
+ "warnings": []
+}

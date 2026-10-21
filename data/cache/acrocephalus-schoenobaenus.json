@@ -1,0 +1,192 @@
+{
+ "key": "acrocephalus-schoenobaenus",
+ "name": "Acrocephalus schoenobaenus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:16.979Z",
+ "names": {
+  "da": "Sivsanger",
+  "en": null,
+  "accepted": "Acrocephalus schoenobaenus"
+ },
+ "wikidata": {
+  "id": "Q27236"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sivsanger",
+  "extract": "Sivsangeren er en lille spurvefugl, der som andre sangere især lever af insekter. Det er en udbredt europæisk ynglefugl, der overvintrer i Vestafrika samt sahelzonen. Den ankommer normalt til Danmark i april/maj.",
+  "url": "https://da.wikipedia.org/wiki/Sivsanger"
+ },
+ "inat": {
+  "id": 116804,
+  "observations": 19100
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 666289511,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/large.jpg",
+    "attribution": "(c) oskar0710, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/364957446",
+    "place": "Świętokrzyskie, PL",
+    "date": "2026-05-24"
+   },
+   {
+    "id": 514820068,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820068/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820068/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286374273",
+    "place": "Statzendorf, Österreich",
+    "date": "2025-05-31"
+   },
+   {
+    "id": 641347039,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/641347039/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/641347039/large.jpg",
+    "attribution": "(c) uxbridgebirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/351442430",
+    "place": "Romney Marsh, England, GB",
+    "date": "2026-04-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 209250365,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209250365/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209250365/large.jpeg",
+    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123514715",
+    "place": "Сосницький район, Чернігівська область, Україна",
+    "date": "2022-06-26"
+   },
+   {
+    "id": 404114344,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/404114344/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/404114344/large.jpeg",
+    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/227775279",
+    "place": "Сосницький район, Чернігівська область, Україна",
+    "date": "2024-07-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 697005954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697005954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697005954/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/380952910",
+    "place": "Alesd, Bihor, RO",
+    "date": "2026-07-13"
+   },
+   {
+    "id": 691303244,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691303244/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691303244/large.jpg",
+    "attribution": "(c) Сергей Грабчак, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/378002365",
+    "place": "Санкт-Петербург, Россия, 195252",
+    "date": "2026-07-03"
+   },
+   {
+    "id": 703231912,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703231912/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703231912/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384183081",
+    "place": "Zwettl, Österreich",
+    "date": "2026-07-17"
+   }
+  ],
+  "hero": {
+   "id": 666289511,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/large.jpg",
+   "attribution": "(c) oskar0710, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/364957446",
+   "place": "Świętokrzyskie, PL",
+   "date": "2026-05-24"
+  }
+ },
+ "gbif": {
+  "key": 2493129,
+  "dkTotal": 62221,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   6431,
+   30871,
+   12991,
+   7221,
+   3409,
+   1208,
+   22,
+   1,
+   4
+  ],
+  "worldTotal": 1929967,
+  "topCountries": [
+   {
+    "code": "FI",
+    "count": 469752
+   },
+   {
+    "code": "SE",
+    "count": 385696
+   },
+   {
+    "code": "NL",
+    "count": 350746
+   },
+   {
+    "code": "GB",
+    "count": 169964
+   },
+   {
+    "code": "FR",
+    "count": 114100
+   },
+   {
+    "code": "DK",
+    "count": 62221
+   },
+   {
+    "code": "ES",
+    "count": 56452
+   },
+   {
+    "code": "PL",
+    "count": 55228
+   },
+   {
+    "code": "NO",
+    "count": 54140
+   },
+   {
+    "code": "BE",
+    "count": 42904
+   },
+   {
+    "code": "EE",
+    "count": 21076
+   },
+   {
+    "code": "IL",
+    "count": 17800
+   }
+  ]
+ },
+ "warnings": []
+}

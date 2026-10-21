@@ -1,0 +1,172 @@
+{
+ "key": "scolopax-rusticola",
+ "name": "Scolopax rusticola",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:06:34.209Z",
+ "names": {
+  "da": "Skovsneppe",
+  "en": "Eurasian Woodcock",
+  "accepted": "Scolopax rusticola"
+ },
+ "wikidata": {
+  "id": "Q26114"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Skovsneppe",
+  "extract": "Skovsneppe er en vadefugl, som yngler i fugtige skove i store dele af Europa og Asien, hvor den især lever af regnorme i skovbunden. Skovsneppen er en ret almindelig dansk yngletrækfugl, der overvintrer i det sydlige og vestlige Europa. Den er desuden en meget almindelig trækgæst nord- og østfra. Arten er et yndet jagtobjekt, der i Danmark må jages fra 1. oktober til 31. januar.",
+  "url": "https://da.wikipedia.org/wiki/Skovsneppe"
+ },
+ "inat": {
+  "id": 3931,
+  "observations": 7716
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 203843437,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203843437/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203843437/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120515468",
+    "place": "South Lakeland District, England, United Kingdom",
+    "date": "2007-07-07"
+   },
+   {
+    "id": 542853053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542853053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542853053/large.jpg",
+    "attribution": "(c) shadow_385, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/301260134",
+    "place": "Респ. Марий Эл, Россия, 424913",
+    "date": "2025-07-24"
+   },
+   {
+    "id": 378217606,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378217606/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378217606/large.jpeg",
+    "attribution": "(c) K.P., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/214000850",
+    "place": "Hajnówka, Polska",
+    "date": "2024-04-15"
+   }
+  ],
+  "adult": [
+   {
+    "id": 15023513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/10748091",
+    "place": "Meise, Belgium",
+    "date": "2018-03-18"
+   },
+   {
+    "id": 87793518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87793518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87793518/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/55148046",
+    "place": "North Ostrobothnia, FI-OU, FI",
+    "date": "2020-08-02"
+   },
+   {
+    "id": 112781088,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112781088/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112781088/large.jpeg",
+    "attribution": "(c) Gazza, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69499094",
+    "place": "Goathland, Whitby YO22 5AR, UK",
+    "date": "2021-02-13"
+   }
+  ],
+  "hero": {
+   "id": 15023513,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/10748091",
+   "place": "Meise, Belgium",
+   "date": "2018-03-18"
+  }
+ },
+ "gbif": {
+  "key": 2481700,
+  "dkTotal": 40600,
+  "dkMonths": [
+   4385,
+   5335,
+   7389,
+   3843,
+   3676,
+   3190,
+   1008,
+   221,
+   327,
+   3347,
+   4517,
+   3274
+  ],
+  "worldTotal": 666640,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 215154
+   },
+   {
+    "code": "FR",
+    "count": 142803
+   },
+   {
+    "code": "NO",
+    "count": 72638
+   },
+   {
+    "code": "GB",
+    "count": 46221
+   },
+   {
+    "code": "DK",
+    "count": 40600
+   },
+   {
+    "code": "BE",
+    "count": 27177
+   },
+   {
+    "code": "FI",
+    "count": 20468
+   },
+   {
+    "code": "PT",
+    "count": 19737
+   },
+   {
+    "code": "NL",
+    "count": 15251
+   },
+   {
+    "code": "ES",
+    "count": 11409
+   },
+   {
+    "code": "EE",
+    "count": 10628
+   },
+   {
+    "code": "DE",
+    "count": 8129
+   }
+  ]
+ },
+ "warnings": []
+}

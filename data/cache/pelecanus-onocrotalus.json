@@ -1,0 +1,172 @@
+{
+ "key": "pelecanus-onocrotalus",
+ "name": "Pelecanus onocrotalus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:34.066Z",
+ "names": {
+  "da": "Hvid pelikan",
+  "en": "Great White Pelican",
+  "accepted": "Pelecanus onocrotalus"
+ },
+ "wikidata": {
+  "id": "Q199427"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvid pelikan",
+  "extract": "Den hvide pelikan er en fugl i pelikanfamilien. Den yngler i et område fra det sydøstlige Europa til Asien og Afrika i sumpe og lavvandede søer.",
+  "url": "https://da.wikipedia.org/wiki/Hvid_pelikan"
+ },
+ "inat": {
+  "id": 4327,
+  "observations": 10533
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 12554953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12554953/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12554953/large.jpeg",
+    "attribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/9267544",
+    "place": "Δυτική Μακεδονία, Ελλάδα",
+    "date": "2017-12-25"
+   },
+   {
+    "id": 573707158,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573707158/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573707158/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/316950052",
+    "place": "Romania",
+    "date": "2025-09-27"
+   },
+   {
+    "id": 12695564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12695564/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12695564/large.jpeg",
+    "attribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/9353869",
+    "place": "Δυτική Μακεδονία, Ελλάδα",
+    "date": "2018-01-01"
+   }
+  ],
+  "adult": [
+   {
+    "id": 208704703,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208704703/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208704703/large.jpg",
+    "attribution": "(c) Jamie O'Neill, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123211033",
+    "place": "Harpers Island, Cork, Ireland",
+    "date": "2022-06-23"
+   },
+   {
+    "id": 687670563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687670563/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687670563/large.jpg",
+    "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/376121534",
+    "place": "Tulcea, RO",
+    "date": "2026-06-25"
+   },
+   {
+    "id": 224569710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224569710/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224569710/large.jpeg",
+    "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/131920299",
+    "place": "Tulcea, RO",
+    "date": "2022-08-20"
+   }
+  ],
+  "hero": {
+   "id": 208704703,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208704703/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208704703/large.jpg",
+   "attribution": "(c) Jamie O'Neill, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/123211033",
+   "place": "Harpers Island, Cork, Ireland",
+   "date": "2022-06-23"
+  }
+ },
+ "gbif": {
+  "key": 2480350,
+  "dkTotal": 134,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   3,
+   2,
+   63,
+   36,
+   2,
+   6,
+   1,
+   0,
+   19
+  ],
+  "worldTotal": 136581,
+  "topCountries": [
+   {
+    "code": "IL",
+    "count": 27088
+   },
+   {
+    "code": "ZA",
+    "count": 25772
+   },
+   {
+    "code": "IN",
+    "count": 15340
+   },
+   {
+    "code": "KE",
+    "count": 10122
+   },
+   {
+    "code": "NA",
+    "count": 6329
+   },
+   {
+    "code": "RO",
+    "count": 5832
+   },
+   {
+    "code": "TR",
+    "count": 5204
+   },
+   {
+    "code": "GR",
+    "count": 4670
+   },
+   {
+    "code": "NL",
+    "count": 4458
+   },
+   {
+    "code": "TZ",
+    "count": 4001
+   },
+   {
+    "code": "BG",
+    "count": 3972
+   },
+   {
+    "code": "SN",
+    "count": 3278
+   }
+  ]
+ },
+ "warnings": []
+}

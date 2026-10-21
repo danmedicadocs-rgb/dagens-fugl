@@ -1,0 +1,162 @@
+{
+ "key": "aptenodytes-forsteri",
+ "name": "Aptenodytes forsteri",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:12.653Z",
+ "names": {
+  "da": "Kejserpingvin",
+  "en": "Emperor Penguin",
+  "accepted": "Aptenodytes forsteri"
+ },
+ "wikidata": {
+  "id": "Q161829"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kejserpingvin",
+  "extract": "Kejserpingvinen er den største af alle pingviner med en højde på lidt over 1 meter og en vægt på cirka 40 kg.",
+  "url": "https://da.wikipedia.org/wiki/Kejserpingvin"
+ },
+ "inat": {
+  "id": 3820,
+  "observations": 638
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 251293817,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251293817/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251293817/large.jpg",
+    "attribution": "(c) mattward, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/146195342",
+    "place": "New Zealand",
+    "date": "2011-06-22"
+   },
+   {
+    "id": 345758048,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345758048/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345758048/large.jpeg",
+    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196385501",
+    "place": "Antarctica",
+    "date": "2024-01-11"
+   }
+  ],
+  "adult": [
+   {
+    "id": 2912286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2912286/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2912286/large.jpg",
+    "attribution": "(c) John Barkla, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2606935",
+    "place": null,
+    "date": "2012-02-06"
+   },
+   {
+    "id": 358659548,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358659548/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358659548/large.jpg",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/203033037",
+    "place": null,
+    "date": "2024-02-21"
+   },
+   {
+    "id": 1200187,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1200187/square.",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1200187/square.",
+    "attribution": "(c) Colin Meurk, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/944298",
+    "place": "Antarctica",
+    "date": "1989-01-03"
+   }
+  ],
+  "hero": {
+   "id": 2912286,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2912286/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2912286/large.jpg",
+   "attribution": "(c) John Barkla, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/2606935",
+   "place": null,
+   "date": "2012-02-06"
+  }
+ },
+ "gbif": {
+  "key": 2481661,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 132375,
+  "topCountries": [
+   {
+    "code": "AQ",
+    "count": 108756
+   },
+   {
+    "code": "HM",
+    "count": 687
+   },
+   {
+    "code": "ZZ",
+    "count": 34
+   },
+   {
+    "code": "NZ",
+    "count": 16
+   },
+   {
+    "code": "AU",
+    "count": 14
+   },
+   {
+    "code": "FR",
+    "count": 10
+   },
+   {
+    "code": "TF",
+    "count": 10
+   },
+   {
+    "code": "US",
+    "count": 10
+   },
+   {
+    "code": "CA",
+    "count": 6
+   },
+   {
+    "code": "AR",
+    "count": 4
+   },
+   {
+    "code": "CL",
+    "count": 4
+   },
+   {
+    "code": "BE",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,161 @@
+{
+ "key": "psilopogon-haemacephalus",
+ "name": "Psilopogon haemacephalus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:36:27.982Z",
+ "names": {
+  "da": "Kobbersmed",
+  "en": "Coppersmith Barbet",
+  "accepted": "Psilopogon haemacephalus"
+ },
+ "wikidata": {
+  "id": "Q27074872"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Coppersmith barbet",
+  "extract": "The coppersmith barbet, also called crimson-breasted barbet and coppersmith, is an Asian barbet with crimson forehead and throat, known for its metronomic call that sounds similar to a coppersmith striking metal with a hammer. It is a resident bird in the Indian subcontinent and parts of Southeast Asia. It carves out holes inside a tree to build its nest. It is predominantly frugivorous, but has been observed eating insects, especially winged termites.",
+  "url": "https://en.wikipedia.org/wiki/Coppersmith_barbet"
+ },
+ "inat": {
+  "id": 367521,
+  "observations": 10642
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 56635826,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/35880331",
+    "place": "Tha Wasukri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand",
+    "date": "2019-11-20"
+   },
+   {
+    "id": 309304514,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309304514/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309304514/large.jpeg",
+    "attribution": "(c) Seno Nur Rohman, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/177818447",
+    "place": "Dramaga, Bogor Regency, West Java, Indonesia",
+    "date": "2023-04-01"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 642223871,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/642223871/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/642223871/large.jpg",
+    "attribution": "(c) sucker69420, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/351903051",
+    "place": "Dong Hoa, Ho Chi Minh City, Binh Duong, Vietnam",
+    "date": "2026-03-07"
+   },
+   {
+    "id": 201976080,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201976080/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201976080/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/119490017",
+    "place": "Behind Water Tank, Mahatma Nagar, Parijat Nagar, Nashik, Maharashtra, India",
+    "date": "2022-04-27"
+   },
+   {
+    "id": 675391433,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675391433/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675391433/large.jpg",
+    "attribution": "(c) Ajay, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/369735369",
+    "place": "VM4W+2HP, Lake, Chikkanagamangala, Karnataka 560099, India",
+    "date": "2026-06-08"
+   }
+  ],
+  "hero": {
+   "id": 56635826,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/large.jpeg",
+   "attribution": "(c) datadan, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/35880331",
+   "place": "Tha Wasukri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand",
+   "date": "2019-11-20"
+  }
+ },
+ "gbif": {
+  "key": 7691806,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 602182,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 471977
+   },
+   {
+    "code": "TH",
+    "count": 61286
+   },
+   {
+    "code": "PH",
+    "count": 16496
+   },
+   {
+    "code": "KH",
+    "count": 9576
+   },
+   {
+    "code": "LK",
+    "count": 7930
+   },
+   {
+    "code": "ID",
+    "count": 6530
+   },
+   {
+    "code": "MY",
+    "count": 5981
+   },
+   {
+    "code": "SG",
+    "count": 5934
+   },
+   {
+    "code": "BD",
+    "count": 4282
+   },
+   {
+    "code": "NP",
+    "count": 3170
+   },
+   {
+    "code": "VN",
+    "count": 2874
+   },
+   {
+    "code": "PK",
+    "count": 2093
+   }
+  ]
+ },
+ "warnings": []
+}

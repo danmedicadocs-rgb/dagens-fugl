@@ -1,0 +1,182 @@
+{
+ "key": "phylloscopus-trochilus",
+ "name": "Phylloscopus trochilus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:46.612Z",
+ "names": {
+  "da": "Løvsanger",
+  "en": "Willow Warbler",
+  "accepted": "Phylloscopus trochilus"
+ },
+ "wikidata": {
+  "id": "Q27239"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Løvsanger",
+  "extract": "Løvsangeren er en spurvefugl af løvsangerfamilien. Den når en længde på 10-11 centimeter. Den yngler i det nordlige og tempererede Europa og Asien. Hele bestanden trækker til Afrika syd for Sahara. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/L%C3%B8vsanger"
+ },
+ "inat": {
+  "id": 117055,
+  "observations": 35211
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 493836759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/274736928",
+    "place": "Montrose DD10 9TN, UK",
+    "date": "2025-04-27"
+   },
+   {
+    "id": 500830340,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500830340/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500830340/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/278912864",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2025-05-06"
+   },
+   {
+    "id": 54719902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54719902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54719902/large.jpg",
+    "attribution": "(c) Виктор, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/34745257",
+    "place": "Выборгский р-н, Ленинградская обл., Россия",
+    "date": "2019-05-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 215153480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215153480/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215153480/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/126781321",
+    "place": "Индустриальный р-н, Пермь, Пермский край, Россия",
+    "date": "2022-07-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 535659468,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535659468/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535659468/large.jpg",
+    "attribution": "(c) Олеся, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297434152",
+    "place": "Vyborgskiy rayon, RU-LN, RU",
+    "date": "2025-07-12"
+   },
+   {
+    "id": 732491446,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732491446/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732491446/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399256027",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-10"
+   },
+   {
+    "id": 732954287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732954287/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732954287/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399491510",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-11"
+   }
+  ],
+  "hero": {
+   "id": 493836759,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/274736928",
+   "place": "Montrose DD10 9TN, UK",
+   "date": "2025-04-27"
+  }
+ },
+ "gbif": {
+  "key": 2493052,
+  "dkTotal": 233147,
+  "dkMonths": [
+   0,
+   3,
+   8,
+   52953,
+   89069,
+   38410,
+   13212,
+   25179,
+   13531,
+   647,
+   23,
+   4
+  ],
+  "worldTotal": 5171978,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 1679332
+   },
+   {
+    "code": "FI",
+    "count": 1091908
+   },
+   {
+    "code": "NO",
+    "count": 388256
+   },
+   {
+    "code": "ES",
+    "count": 341557
+   },
+   {
+    "code": "NL",
+    "count": 333053
+   },
+   {
+    "code": "GB",
+    "count": 299070
+   },
+   {
+    "code": "DK",
+    "count": 233147
+   },
+   {
+    "code": "FR",
+    "count": 178248
+   },
+   {
+    "code": "DE",
+    "count": 78344
+   },
+   {
+    "code": "BE",
+    "count": 68553
+   },
+   {
+    "code": "PL",
+    "count": 55793
+   },
+   {
+    "code": "ZA",
+    "count": 51979
+   }
+  ]
+ },
+ "warnings": []
+}

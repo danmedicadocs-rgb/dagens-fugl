@@ -1,0 +1,172 @@
+{
+ "key": "diomedea-exulans",
+ "name": "Diomedea exulans",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:49.747Z",
+ "names": {
+  "da": "Vandrealbatros",
+  "en": "Wandering Albatross",
+  "accepted": "Diomedea exulans"
+ },
+ "wikidata": {
+  "id": "Q208682"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Snowy albatross",
+  "extract": "The snowy albatross, also known as the wandering albatross, white-winged albatross, or goonie, is a large seabird from the family Diomedeidae; they have a circumpolar range in the Southern Ocean. It is the largest species of albatross and was long considered to be the same species as the Tristan albatross and the Antipodean albatross. Together with the Amsterdam albatross, it forms the wandering albatross species complex, which some began referring to more recently as \"snowy\".",
+  "url": "https://en.wikipedia.org/wiki/Snowy_albatross"
+ },
+ "inat": {
+  "id": 4117,
+  "observations": 1247
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 628179975,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/large.jpg",
+    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/344746401",
+    "place": "Grande Terre, TF",
+    "date": "2024-09-03"
+   },
+   {
+    "id": 628162060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628162060/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628162060/large.jpg",
+    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/344734933",
+    "place": "Île de la Possession, French Southern Territories, TF",
+    "date": "2023-11-06"
+   },
+   {
+    "id": 276622166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/160089618",
+    "place": "Isla Prión, SIQQ 1ZZ, Islas Georgias del Sur y Sandwich del Sur",
+    "date": "2017-11-01"
+   }
+  ],
+  "adult": [
+   {
+    "id": 229775488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/134771621",
+    "place": "Bay of Isles, South Georgia and the South Sandwich Islands",
+    "date": "2020-03-03"
+   },
+   {
+    "id": 251370610,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370610/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370610/large.jpeg",
+    "attribution": "(c) Brooke Smith, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146236084",
+    "place": "Prion Island, SIQQ 1ZZ, South Georgia and the South Sandwich Islands",
+    "date": "2022-12-06"
+   },
+   {
+    "id": 229775460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775460/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/134771619",
+    "place": "Bay of Isles, South Georgia and the South Sandwich Islands",
+    "date": "2020-03-03"
+   }
+  ],
+  "hero": {
+   "id": 229775488,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/large.jpg",
+   "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/134771621",
+   "place": "Bay of Isles, South Georgia and the South Sandwich Islands",
+   "date": "2020-03-03"
+  }
+ },
+ "gbif": {
+  "key": 5229302,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 173719,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 22368
+   },
+   {
+    "code": "AQ",
+    "count": 15357
+   },
+   {
+    "code": "GS",
+    "count": 10465
+   },
+   {
+    "code": "ZA",
+    "count": 9292
+   },
+   {
+    "code": "NZ",
+    "count": 8388
+   },
+   {
+    "code": "TF",
+    "count": 8184
+   },
+   {
+    "code": "CL",
+    "count": 5842
+   },
+   {
+    "code": "FK",
+    "count": 3187
+   },
+   {
+    "code": "HM",
+    "count": 2346
+   },
+   {
+    "code": "AR",
+    "count": 2323
+   },
+   {
+    "code": "ZZ",
+    "count": 1242
+   },
+   {
+    "code": "BR",
+    "count": 450
+   }
+  ]
+ },
+ "warnings": []
+}

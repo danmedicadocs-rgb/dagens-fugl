@@ -1,0 +1,172 @@
+{
+ "key": "phoeniconaias-minor",
+ "name": "Phoeniconaias minor",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:27.994Z",
+ "names": {
+  "da": "Lille Flamingo",
+  "en": "Lesser Flamingo",
+  "accepted": "Phoeniconaias minor"
+ },
+ "wikidata": {
+  "id": "Q242369"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille flamingo",
+  "extract": "Lille flamingo er en fugleart, der lever i det subsahariske Afrika og det vestlige Indien.",
+  "url": "https://da.wikipedia.org/wiki/Lille_flamingo"
+ },
+ "inat": {
+  "id": 4259,
+  "observations": 4849
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 179914113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179914113/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179914113/large.jpeg",
+    "attribution": "(c) Meehir Pawar, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/107021153",
+    "place": "Maharashtra, IN",
+    "date": "2022-02-19"
+   },
+   {
+    "id": 62147402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147402/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147402/large.jpeg",
+    "attribution": "(c) Nathan Earley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39194503",
+    "place": "West Coast DC, South Africa",
+    "date": "2019-11-02"
+   },
+   {
+    "id": 62147656,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147656/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147656/large.jpeg",
+    "attribution": "(c) Nathan Earley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39194508",
+    "place": "West Coast DC, South Africa",
+    "date": "2019-11-02"
+   }
+  ],
+  "adult": [
+   {
+    "id": 381289372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/large.jpeg",
+    "attribution": "(c) Nishant Purushottam Berde, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/215645891",
+    "place": "Maharashtra, IN",
+    "date": "2015-05-09"
+   },
+   {
+    "id": 162683474,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162683474/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162683474/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/97785261",
+    "place": "Diamandveld, South Africa",
+    "date": "2021-10-07"
+   },
+   {
+    "id": 723036027,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723036027/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723036027/large.jpg",
+    "attribution": "(c) Fionn Ó Marcaigh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/394411891",
+    "place": "Baringo, KE",
+    "date": "2015-11-11"
+   }
+  ],
+  "hero": {
+   "id": 381289372,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/large.jpeg",
+   "attribution": "(c) Nishant Purushottam Berde, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/215645891",
+   "place": "Maharashtra, IN",
+   "date": "2015-05-09"
+  }
+ },
+ "gbif": {
+  "key": 2481104,
+  "dkTotal": 42,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   6,
+   4,
+   3,
+   10,
+   11,
+   6,
+   1,
+   0
+  ],
+  "worldTotal": 67046,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 27058
+   },
+   {
+    "code": "IN",
+    "count": 12934
+   },
+   {
+    "code": "KE",
+    "count": 7696
+   },
+   {
+    "code": "TZ",
+    "count": 5844
+   },
+   {
+    "code": "NA",
+    "count": 5545
+   },
+   {
+    "code": "ES",
+    "count": 1500
+   },
+   {
+    "code": "UG",
+    "count": 882
+   },
+   {
+    "code": "FR",
+    "count": 750
+   },
+   {
+    "code": "MG",
+    "count": 707
+   },
+   {
+    "code": "SN",
+    "count": 645
+   },
+   {
+    "code": "ET",
+    "count": 615
+   },
+   {
+    "code": "MZ",
+    "count": 332
+   }
+  ]
+ },
+ "warnings": []
+}

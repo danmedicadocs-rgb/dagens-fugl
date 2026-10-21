@@ -1,0 +1,172 @@
+{
+ "key": "eurystomus-orientalis",
+ "name": "Eurystomus orientalis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:38.842Z",
+ "names": {
+  "da": "Grøn Ellekrage",
+  "en": "Oriental Dollarbird",
+  "accepted": "Eurystomus orientalis"
+ },
+ "wikidata": {
+  "id": "Q44109"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Oriental dollarbird",
+  "extract": "The Oriental dollarbird is a bird of the roller family, so named because of the distinctive pale blue or white, coin-shaped spots on its wings. It can be found from Australia to Korea, Japan and India.",
+  "url": "https://en.wikipedia.org/wiki/Oriental_dollarbird"
+ },
+ "inat": {
+  "id": 2293,
+  "observations": 8573
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 248953933,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248953933/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248953933/large.jpg",
+    "attribution": "(c) JohnG Sydney, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/144979251",
+    "place": "Beethoven St, Engadine NSW 2233, Australia",
+    "date": "2022-12-24"
+   },
+   {
+    "id": 360786515,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360786515/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360786515/large.jpeg",
+    "attribution": "(c) Jon Robson, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/204141061",
+    "place": "Punggol, Singapore",
+    "date": "2024-03-26"
+   },
+   {
+    "id": 250782765,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250782765/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250782765/large.jpeg",
+    "attribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145935423",
+    "place": "Queens Lake Nature Reserve, New South Wales",
+    "date": "2023-01-06"
+   }
+  ],
+  "adult": [
+   {
+    "id": 112769621,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/large.jpeg",
+    "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69493352",
+    "place": "Brisbane QLD, Australia",
+    "date": "2021-02-13"
+   },
+   {
+    "id": 246152138,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/143523130",
+    "place": "Leyburn QLD 4365, Australia",
+    "date": "2013-10-26"
+   },
+   {
+    "id": 117308147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117308147/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117308147/large.jpeg",
+    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71996317",
+    "place": "Queenstown, Singapore",
+    "date": "2021-03-25"
+   }
+  ],
+  "hero": {
+   "id": 112769621,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/large.jpeg",
+   "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/69493352",
+   "place": "Brisbane QLD, Australia",
+   "date": "2021-02-13"
+  }
+ },
+ "gbif": {
+  "key": 5228280,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 283557,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 185510
+   },
+   {
+    "code": "KR",
+    "count": 16165
+   },
+   {
+    "code": "MY",
+    "count": 15261
+   },
+   {
+    "code": "SG",
+    "count": 15166
+   },
+   {
+    "code": "IN",
+    "count": 12810
+   },
+   {
+    "code": "TH",
+    "count": 9134
+   },
+   {
+    "code": "ID",
+    "count": 6214
+   },
+   {
+    "code": "TW",
+    "count": 3810
+   },
+   {
+    "code": "PH",
+    "count": 3722
+   },
+   {
+    "code": "CN",
+    "count": 3574
+   },
+   {
+    "code": "PG",
+    "count": 3438
+   },
+   {
+    "code": "VN",
+    "count": 2661
+   }
+  ]
+ },
+ "warnings": []
+}

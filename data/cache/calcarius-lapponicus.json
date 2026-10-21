@@ -1,0 +1,202 @@
+{
+ "key": "calcarius-lapponicus",
+ "name": "Calcarius lapponicus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:25:10.225Z",
+ "names": {
+  "da": "Lapværling",
+  "en": "Lapland Longspur",
+  "accepted": "Calcarius lapponicus"
+ },
+ "wikidata": {
+  "id": "Q208703"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lapværling",
+  "extract": "Lapværlingen, tidligere kaldt laplandsværlingen, er en fugl i sporeværlingefamilien. Den yngler på tundra med pilekrat cirkumpolart i det nordlige Skandinavien, Rusland, Canada og Grønland. De nordiske fugle overvintrer fortrinsvis på de sydrussiske stepper, men en mindre del også i Vesteuropa. Både han og hun har om sommeren rødbrun nakke, mens hannen desuden har sort hoved begrænset af en hvidlig stribe bagtil.",
+  "url": "https://da.wikipedia.org/wiki/Lapv%C3%A6rling"
+ },
+ "inat": {
+  "id": 116840,
+  "observations": 8015
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 107363306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107363306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107363306/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66580740",
+    "place": "Приуральский р-н, Ямало-Ненецкий автономный округ, Россия",
+    "date": "2007-06-06"
+   },
+   {
+    "id": 531930859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531930859/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531930859/large.jpg",
+    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295476835",
+    "place": "Pisuttuarfik Tungujortoq, Avannaata, GL",
+    "date": "2025-07-05"
+   },
+   {
+    "id": 394470413,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394470413/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394470413/large.jpeg",
+    "attribution": "(c) Jono, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222676021",
+    "place": "9960 Kiberg, Norway",
+    "date": "2024-06-14"
+   }
+  ],
+  "female": [
+   {
+    "id": 72678428,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72678428/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72678428/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/45826446",
+    "place": "Nanaimo, BC, Canada",
+    "date": "2020-05-13"
+   },
+   {
+    "id": 171046734,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171046734/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171046734/large.jpeg",
+    "attribution": "(c) J Straka, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/102338823",
+    "place": "Iqaluit, NU, Canada",
+    "date": "2007-06-21"
+   },
+   {
+    "id": 196443507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196443507/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196443507/large.jpeg",
+    "attribution": "(c) Syd Cannings, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/116377507",
+    "place": "Whitehorse, YT, Canada",
+    "date": "2022-05-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 538714890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538714890/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538714890/large.jpg",
+    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/299038143",
+    "place": "Sermermiut Aqq, Avannaata, GL",
+    "date": "2025-07-18"
+   },
+   {
+    "id": 405180293,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405180293/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405180293/large.jpg",
+    "attribution": "(c) Paweł Zuzelski, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/228337171",
+    "place": "Qeqqata, GL",
+    "date": "2024-07-07"
+   },
+   {
+    "id": 10204115,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10204115/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10204115/large.jpeg",
+    "attribution": "(c) Annie Evankow, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/7767831",
+    "place": "Qeqqata Municipality, Greenland",
+    "date": "2014-07-13"
+   }
+  ],
+  "hero": {
+   "id": 107363306,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107363306/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107363306/large.jpg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/66580740",
+   "place": "Приуральский р-н, Ямало-Ненецкий автономный округ, Россия",
+   "date": "2007-06-06"
+  }
+ },
+ "gbif": {
+  "key": 2491678,
+  "dkTotal": 9201,
+  "dkMonths": [
+   428,
+   387,
+   429,
+   1036,
+   267,
+   17,
+   1,
+   12,
+   1704,
+   3654,
+   982,
+   280
+  ],
+  "worldTotal": 455924,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 240880
+   },
+   {
+    "code": "CA",
+    "count": 79805
+   },
+   {
+    "code": "SE",
+    "count": 60949
+   },
+   {
+    "code": "NO",
+    "count": 26846
+   },
+   {
+    "code": "DK",
+    "count": 9201
+   },
+   {
+    "code": "FI",
+    "count": 8857
+   },
+   {
+    "code": "GB",
+    "count": 7008
+   },
+   {
+    "code": "NL",
+    "count": 5999
+   },
+   {
+    "code": "RU",
+    "count": 3367
+   },
+   {
+    "code": "BE",
+    "count": 2374
+   },
+   {
+    "code": "FR",
+    "count": 2077
+   },
+   {
+    "code": "GL",
+    "count": 1860
+   }
+  ]
+ },
+ "warnings": []
+}

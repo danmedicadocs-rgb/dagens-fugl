@@ -1,0 +1,172 @@
+{
+ "key": "branta-bernicla",
+ "name": "Branta bernicla",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:55:30.015Z",
+ "names": {
+  "da": "Knortegås",
+  "en": "Brant Goose",
+  "accepted": "Branta bernicla"
+ },
+ "wikidata": {
+  "id": "Q27050"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Knortegås",
+  "extract": "Knortegåsen er en gås i familien af egentlige andefugle, der yngler i højarktiske områder. Arten ses i Danmark som træk- og vintergæst og er den almindeligste af de mindre gæs. Den har en længde på 56–61 cm og et vingefang på 110–120 cm. Den kan leve helt op til 15 år.",
+  "url": "https://da.wikipedia.org/wiki/Knorteg%C3%A5s"
+ },
+ "inat": {
+  "id": 7087,
+  "observations": 26473
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 170761390,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170761390/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170761390/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/102183902",
+    "place": "Newport, UK",
+    "date": "2021-11-29"
+   },
+   {
+    "id": 604272639,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604272639/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604272639/large.jpg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332907198",
+    "place": "Newport, UK",
+    "date": "2025-12-31"
+   },
+   {
+    "id": 58685725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58685725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58685725/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37058856",
+    "place": "New Jersey, United States",
+    "date": "2011-01-03"
+   }
+  ],
+  "adult": [
+   {
+    "id": 6822790,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/large.jpg",
+    "attribution": "(c) Donald Hobern, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/5529591",
+    "place": "Tendring District, England, United Kingdom",
+    "date": "2017-04-01"
+   },
+   {
+    "id": 28515725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28515725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28515725/large.jpg",
+    "attribution": "(c) Christina Moresi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18630143",
+    "place": "North Beach Haven, Long Beach Township, NJ 08008, USA",
+    "date": "2018-11-25"
+   },
+   {
+    "id": 110982856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110982856/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110982856/large.jpg",
+    "attribution": "(c) Andrew Hrycyna, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68526887",
+    "place": "Boston, MA, USA",
+    "date": "2021-01-23"
+   }
+  ],
+  "hero": {
+   "id": 6822790,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/large.jpg",
+   "attribution": "(c) Donald Hobern, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/5529591",
+   "place": "Tendring District, England, United Kingdom",
+   "date": "2017-04-01"
+  }
+ },
+ "gbif": {
+  "key": 5232446,
+  "dkTotal": 127832,
+  "dkMonths": [
+   8955,
+   7230,
+   11593,
+   15545,
+   16361,
+   2931,
+   1027,
+   898,
+   15597,
+   30397,
+   11930,
+   5349
+  ],
+  "worldTotal": 1495801,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 754995
+   },
+   {
+    "code": "NL",
+    "count": 191528
+   },
+   {
+    "code": "DK",
+    "count": 127832
+   },
+   {
+    "code": "SE",
+    "count": 123030
+   },
+   {
+    "code": "GB",
+    "count": 102583
+   },
+   {
+    "code": "CA",
+    "count": 74095
+   },
+   {
+    "code": "FR",
+    "count": 39363
+   },
+   {
+    "code": "NO",
+    "count": 13378
+   },
+   {
+    "code": "IE",
+    "count": 12902
+   },
+   {
+    "code": "DE",
+    "count": 9251
+   },
+   {
+    "code": "BE",
+    "count": 8636
+   },
+   {
+    "code": "ES",
+    "count": 6959
+   }
+  ]
+ },
+ "warnings": []
+}

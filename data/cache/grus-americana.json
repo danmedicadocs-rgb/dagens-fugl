@@ -1,0 +1,158 @@
+{
+ "key": "grus-americana",
+ "name": "Grus americana",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:44:59.670Z",
+ "names": {
+  "da": "Trompetértrane",
+  "en": "Whooping crane",
+  "accepted": "Grus americana"
+ },
+ "wikidata": {
+  "id": "Q457477"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Whooping crane",
+  "extract": "The whooping crane is an endangered crane species, native to North America, named for its \"whooping\" calls. Along with the sandhill crane, it is one of only two crane species native to North America, and it is also the tallest North American bird species, with an estimated 22–30+ year life expectancy in the wild. After being pushed to the brink of extinction by unregulated hunting and loss of habitat that left just 21 wild cranes by 1941, the whooping crane made a partial recovery through conservation efforts. The total number of cranes in the surviving migratory population, plus three reintroduced flocks and in-captivity, is just over 830 birds as of 2025. This includes about 560 individuals in the remnant population that migrates between coastal Texas, US, and the Northwest Territories, Canada, which is termed the \"Aransas-Wood Buffalo Population\" after the protected areas that anchor the population's wintering and breeding ranges, respectively. Additionally, there are about 140 individuals in two reintroduced populations breeding in Wisconsin and Louisiana, US, and an additional 130 individuals in captivity.",
+  "url": "https://en.wikipedia.org/wiki/Whooping_crane"
+ },
+ "inat": {
+  "id": 34,
+  "observations": 5029
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 657077696,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657077696/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657077696/large.jpg",
+    "attribution": "(c) Mason Holum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/360103662",
+    "place": "Wisconsin, US",
+    "date": "2026-05-09"
+   },
+   {
+    "id": 22761255,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22761255/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22761255/large.jpeg",
+    "attribution": "(c) Liren Varghese, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/15214359",
+    "place": "CH-101, Chanhassen, Minnesota, US",
+    "date": "2018-08-07"
+   },
+   {
+    "id": 236540407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236540407/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236540407/large.jpg",
+    "attribution": "(c) Gratias Brent, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138396736",
+    "place": "Last Mountain Lake, Wreford No. 280, SK, CA",
+    "date": "2022-10-10"
+   }
+  ],
+  "female": [
+   {
+    "id": 9937138,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9937138/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9937138/large.jpeg",
+    "attribution": "(c) Jody Shugart, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/7604388",
+    "place": "Louisiana, US",
+    "date": "2017-08-03"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 590088044,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590088044/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590088044/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/325870467",
+    "place": "Indiana, US",
+    "date": "2025-11-07"
+   },
+   {
+    "id": 607685930,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607685930/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607685930/large.jpg",
+    "attribution": "(c) Lauren McLaurin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334607659",
+    "place": "Alabama, US",
+    "date": "2026-01-11"
+   },
+   {
+    "id": 469108465,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469108465/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469108465/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/261148142",
+    "place": "Texas, US",
+    "date": "2025-02-07"
+   }
+  ],
+  "hero": {
+   "id": 132879083,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132879083/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132879083/large.jpg",
+   "attribution": "(c) U.S. Fish and Wildlife Service Headquarters, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/132879083",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2474941,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 81646,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 78880
+   },
+   {
+    "code": "CA",
+    "count": 2485
+   },
+   {
+    "code": "ZZ",
+    "count": 59
+   },
+   {
+    "code": "MX",
+    "count": 2
+   },
+   {
+    "code": "DE",
+    "count": 1
+   },
+   {
+    "code": "NG",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,121 @@
+{
+ "key": "iduna-opaca",
+ "name": "Iduna opaca",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:17.669Z",
+ "names": {
+  "da": "Vestlig Bleg Gulbug",
+  "en": null,
+  "accepted": "Iduna opaca"
+ },
+ "wikidata": {
+  "id": "Q10772716"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Western olivaceous warbler",
+  "extract": "The western olivaceous warbler, also known as the isabelline warbler, is a \"warbler\", formerly placed in the Old World warblers when these were a paraphyletic wastebin taxon. It is now considered a member of the acrocephaline warblers, Acrocephalidae, in the tree warbler genus Iduna. It was formerly regarded as part of a wider \"olivaceous warbler\" species, but as a result of modern taxonomic developments, this species is now usually considered distinct from the eastern olivaceous warbler, Iduna pallida.",
+  "url": "https://en.wikipedia.org/wiki/Western_olivaceous_warbler"
+ },
+ "inat": {
+  "id": 201181,
+  "observations": 417
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 121340041,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121340041/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121340041/large.jpeg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/74259282",
+    "place": "Almería, Spain",
+    "date": "2019-06-09"
+   }
+  ],
+  "hero": {
+   "id": 121340041,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121340041/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121340041/large.jpeg",
+   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/74259282",
+   "place": "Almería, Spain",
+   "date": "2019-06-09"
+  }
+ },
+ "gbif": {
+  "key": 5739355,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 17200,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 8901
+   },
+   {
+    "code": "MA",
+    "count": 3513
+   },
+   {
+    "code": "SN",
+    "count": 1655
+   },
+   {
+    "code": "GM",
+    "count": 1641
+   },
+   {
+    "code": "NG",
+    "count": 245
+   },
+   {
+    "code": "TN",
+    "count": 206
+   },
+   {
+    "code": "BF",
+    "count": 177
+   },
+   {
+    "code": "MR",
+    "count": 160
+   },
+   {
+    "code": "PT",
+    "count": 157
+   },
+   {
+    "code": "BJ",
+    "count": 122
+   },
+   {
+    "code": "GH",
+    "count": 103
+   },
+   {
+    "code": "DZ",
+    "count": 80
+   }
+  ]
+ },
+ "warnings": []
+}

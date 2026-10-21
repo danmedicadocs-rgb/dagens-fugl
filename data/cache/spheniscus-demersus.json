@@ -1,0 +1,172 @@
+{
+ "key": "spheniscus-demersus",
+ "name": "Spheniscus demersus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:08.893Z",
+ "names": {
+  "da": "Brillepingvin",
+  "en": "African Penguin",
+  "accepted": "Spheniscus demersus"
+ },
+ "wikidata": {
+  "id": "Q244813"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Brillepingvin",
+  "extract": "Brillepingvinen lever ved Afrikas sydvestkyst i kolonier på de 24 øer mellem Namibia og Algoa bugt nær Port Elizabeth i Sydafrika.",
+  "url": "https://da.wikipedia.org/wiki/Brillepingvin"
+ },
+ "inat": {
+  "id": 3813,
+  "observations": 6773
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 227376784,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227376784/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227376784/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/133486623",
+    "place": "City of Cape Town, Western Cape, South Africa",
+    "date": "2007-01-07"
+   },
+   {
+    "id": 380517822,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380517822/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380517822/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/215236585",
+    "place": "Boulders Beach, Simon's Town, Cape Town, 7995, South Africa",
+    "date": "2024-05-12"
+   },
+   {
+    "id": 439304828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439304828/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439304828/large.jpeg",
+    "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/246113793",
+    "place": "Overberg, Western Cape, South Africa",
+    "date": "2015-09-19"
+   }
+  ],
+  "adult": [
+   {
+    "id": 249376136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249376136/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249376136/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/145200019",
+    "place": "Robben Island, 7400, South Africa",
+    "date": "2006-02-10"
+   },
+   {
+    "id": 281363432,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281363432/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281363432/large.jpeg",
+    "attribution": "(c) Allan T. Souza, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/162713087",
+    "place": "Simon's Town, Cape Town, 7975, South Africa",
+    "date": "2022-06-29"
+   },
+   {
+    "id": 555328931,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555328931/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555328931/large.jpg",
+    "attribution": "(c) Anil Madhavapeddy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/307849220",
+    "place": "Simon's Town, Cape Town, 7975, South Africa",
+    "date": "2019-12-12"
+   }
+  ],
+  "hero": {
+   "id": 249376136,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249376136/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249376136/large.jpg",
+   "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/145200019",
+   "place": "Robben Island, 7400, South Africa",
+   "date": "2006-02-10"
+  }
+ },
+ "gbif": {
+  "key": 5229384,
+  "dkTotal": 6,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0
+  ],
+  "worldTotal": 16449,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 15540
+   },
+   {
+    "code": "NA",
+    "count": 484
+   },
+   {
+    "code": "ZZ",
+    "count": 44
+   },
+   {
+    "code": "US",
+    "count": 33
+   },
+   {
+    "code": "DE",
+    "count": 14
+   },
+   {
+    "code": "CA",
+    "count": 8
+   },
+   {
+    "code": "DK",
+    "count": 6
+   },
+   {
+    "code": "AQ",
+    "count": 4
+   },
+   {
+    "code": "PE",
+    "count": 4
+   },
+   {
+    "code": "CL",
+    "count": 3
+   },
+   {
+    "code": "AO",
+    "count": 2
+   },
+   {
+    "code": "GB",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

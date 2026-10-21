@@ -1,0 +1,202 @@
+{
+ "key": "picus-viridis",
+ "name": "Picus viridis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:14:07.602Z",
+ "names": {
+  "da": "Grønspætte",
+  "en": "European Green Woodpecker",
+  "accepted": "Picus viridis"
+ },
+ "wikidata": {
+  "id": "Q166171"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Grønspætte",
+  "extract": "Grønspætten er en spætteart, der lever i det meste af Europa samt i det vestlige Asien. Arten bliver 32 cm lang og vejer 200 g.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%B8nsp%C3%A6tte"
+ },
+ "inat": {
+  "id": 144243,
+  "observations": 39030
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 242668015,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242668015/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242668015/large.jpg",
+    "attribution": "(c) Andrea Poggi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141624066",
+    "place": "Quartiere XII Gianicolense, Roma RM, Italia",
+    "date": "2022-11-10"
+   },
+   {
+    "id": 255640895,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255640895/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255640895/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148448012",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2020-09-19"
+   },
+   {
+    "id": 550879372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879372/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879372/large.jpg",
+    "attribution": "(c) Paul Lewis, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/305525117",
+    "place": "Maple Cross, UK",
+    "date": "2025-08-10"
+   }
+  ],
+  "female": [
+   {
+    "id": 352730939,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352730939/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352730939/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/199975809",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-02-20"
+   },
+   {
+    "id": 676676692,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676676692/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676676692/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/370411543",
+    "place": "Swavesey, Cambridge, UK",
+    "date": "2026-06-10"
+   },
+   {
+    "id": 599752811,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599752811/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599752811/large.jpg",
+    "attribution": "(c) Leonardo Rapisarda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330705565",
+    "place": "41013 Castelfranco Emilia MO, Italia",
+    "date": "2025-12-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 700793955,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700793955/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700793955/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/382922669",
+    "place": "Old Tbilisi, Tbilisi, Georgia",
+    "date": "2026-07-15"
+   },
+   {
+    "id": 611497074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611497074/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611497074/large.jpg",
+    "attribution": "(c) Owen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/336497864",
+    "place": "East Riding of Yorkshire, UK",
+    "date": "2025-07-01"
+   },
+   {
+    "id": 553182736,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553182736/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553182736/large.jpg",
+    "attribution": "(c) aszkabro, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/306734021",
+    "place": "Budapest, Lónyaytelep, Magyarország",
+    "date": "2023-05-22"
+   }
+  ],
+  "hero": {
+   "id": 242668015,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242668015/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242668015/large.jpg",
+   "attribution": "(c) Andrea Poggi, some rights reserved (CC BY), uploaded by Andrea Poggi",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/242668015",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2478523,
+  "dkTotal": 59685,
+  "dkMonths": [
+   3198,
+   5030,
+   11916,
+   10161,
+   5629,
+   3000,
+   4472,
+   4300,
+   3653,
+   3950,
+   2491,
+   1848
+  ],
+  "worldTotal": 2488641,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 567143
+   },
+   {
+    "code": "SE",
+    "count": 511191
+   },
+   {
+    "code": "DE",
+    "count": 296098
+   },
+   {
+    "code": "GB",
+    "count": 289685
+   },
+   {
+    "code": "NL",
+    "count": 198630
+   },
+   {
+    "code": "BE",
+    "count": 178330
+   },
+   {
+    "code": "NO",
+    "count": 111468
+   },
+   {
+    "code": "IT",
+    "count": 61825
+   },
+   {
+    "code": "DK",
+    "count": 59685
+   },
+   {
+    "code": "CZ",
+    "count": 54662
+   },
+   {
+    "code": "CH",
+    "count": 23091
+   },
+   {
+    "code": "AT",
+    "count": 21432
+   }
+  ]
+ },
+ "warnings": []
+}

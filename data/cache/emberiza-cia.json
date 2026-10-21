@@ -1,0 +1,182 @@
+{
+ "key": "emberiza-cia",
+ "name": "Emberiza cia",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:49.975Z",
+ "names": {
+  "da": "Klippeværling",
+  "en": "Rock Bunting",
+  "accepted": "Emberiza cia"
+ },
+ "wikidata": {
+  "id": "Q205491"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Klippeværling",
+  "extract": "Klippeværling er en 16 centimeter stor spurvefugl, der yngler i det sydlige Europa, Lilleasien og nordvestligste Afrika. Den lever i småflokke på stenede bjergskråninger med buskvegetation op til 1900 meter over havet. Hannen har askegråt hoved med sorte striber. Hunnen er mattere farvet. Arten er en sjælden strejfgæst til Nordeuropa, herunder Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Klippev%C3%A6rling"
+ },
+ "inat": {
+  "id": 9193,
+  "observations": 9040
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 132721256,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132721256/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132721256/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/80950412",
+    "place": "Lavertezzo, Switzerland",
+    "date": "2021-05-23"
+   },
+   {
+    "id": 521651822,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521651822/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521651822/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/290002082",
+    "place": "87058 Spezzano della Sila CS, Italia",
+    "date": "2025-06-13"
+   },
+   {
+    "id": 621862644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621862644/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621862644/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/341581775",
+    "place": "87050 Casali del Manco CS, Italia",
+    "date": "2026-02-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 396864799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/396864799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/396864799/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/223951320",
+    "place": "Hormazuela, Burgos, España",
+    "date": "2024-06-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 264115979,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264115979/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264115979/large.jpg",
+    "attribution": "(c) Pål A. Olsvik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/152958158",
+    "place": "Smanora Range, Uttarakhand, India",
+    "date": "2023-02-22"
+   },
+   {
+    "id": 246956958,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246956958/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246956958/large.jpeg",
+    "attribution": "(c) Olivier Morel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/143944918",
+    "place": "74450 Le Grand-Bornand, France",
+    "date": "2016-08-17"
+   },
+   {
+    "id": 680918850,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680918850/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680918850/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/372624324",
+    "place": "Granada, España",
+    "date": "2026-06-14"
+   }
+  ],
+  "hero": {
+   "id": 132721256,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132721256/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132721256/large.jpeg",
+   "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/80950412",
+   "place": "Lavertezzo, Switzerland",
+   "date": "2021-05-23"
+  }
+ },
+ "gbif": {
+  "key": 2491498,
+  "dkTotal": 20,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   15,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 243864,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 116623
+   },
+   {
+    "code": "FR",
+    "count": 38091
+   },
+   {
+    "code": "PT",
+    "count": 26970
+   },
+   {
+    "code": "IN",
+    "count": 16628
+   },
+   {
+    "code": "IT",
+    "count": 9160
+   },
+   {
+    "code": "TR",
+    "count": 5340
+   },
+   {
+    "code": "MA",
+    "count": 3316
+   },
+   {
+    "code": "GE",
+    "count": 3180
+   },
+   {
+    "code": "IR",
+    "count": 2867
+   },
+   {
+    "code": "CH",
+    "count": 2609
+   },
+   {
+    "code": "DE",
+    "count": 2464
+   },
+   {
+    "code": "IL",
+    "count": 1763
+   }
+  ]
+ },
+ "warnings": []
+}

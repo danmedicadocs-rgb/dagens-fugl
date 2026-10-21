@@ -1,0 +1,174 @@
+{
+ "key": "nestor-notabilis",
+ "name": "Nestor notabilis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:38:25.143Z",
+ "names": {
+  "da": "Kea",
+  "en": "Kea",
+  "accepted": "Nestor notabilis"
+ },
+ "wikidata": {
+  "id": "Q193337"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kea (papegøjefugl)",
+  "extract": "En kea er en papegøjefugl, der findes i det sydlige New Zealand. Keaen har pt status som CR på IUCNs rødliste (2018). Heldigvis er arten i bedring.",
+  "url": "https://da.wikipedia.org/wiki/Kea_(papeg%C3%B8jefugl)"
+ },
+ "inat": {
+  "id": 18941,
+  "observations": 4577
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 247035638,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247035638/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247035638/large.png",
+    "attribution": "(c) Genevieve Early, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/143986057",
+    "place": "Westland District, West Coast, New Zealand",
+    "date": "2022-12-09"
+   },
+   {
+    "id": 707103195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707103195/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707103195/large.jpg",
+    "attribution": "(c) Archie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/386204186",
+    "place": "Whataroa 7886, New Zealand",
+    "date": "2026-07-25"
+   },
+   {
+    "id": 662539483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662539483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662539483/large.jpg",
+    "attribution": "(c) Archie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/362974745",
+    "place": "West Coast Region 7886, New Zealand",
+    "date": "2026-05-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 662539528,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662539528/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662539528/large.jpg",
+    "attribution": "(c) Archie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/362974759",
+    "place": "West Coast Region 7886, New Zealand",
+    "date": "2026-05-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 1179786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179786/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179786/large.jpg",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/941214",
+    "place": "Canterbury, New Zealand",
+    "date": "2006-04-10"
+   },
+   {
+    "id": 349488176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349488176/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349488176/large.jpg",
+    "attribution": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198309689",
+    "place": "Arthur's Pass Village, Arthur's Pass, South Island, New Zealand",
+    "date": "2023-11-25"
+   },
+   {
+    "id": 14613067,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14613067/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14613067/large.jpeg",
+    "attribution": "(c) Jacob Littlejohn, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/10504886",
+    "place": "Otira Valley, Arthurs Pass",
+    "date": "2018-03-17"
+   }
+  ],
+  "hero": {
+   "id": 247035638,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247035638/medium.png",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247035638/large.png",
+   "attribution": "(c) Genevieve Early, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/143986057",
+   "place": "Westland District, West Coast, New Zealand",
+   "date": "2022-12-09"
+  }
+ },
+ "gbif": {
+  "key": 2479593,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 15694,
+  "topCountries": [
+   {
+    "code": "NZ",
+    "count": 15493
+   },
+   {
+    "code": "ZZ",
+    "count": 29
+   },
+   {
+    "code": "DE",
+    "count": 19
+   },
+   {
+    "code": "US",
+    "count": 10
+   },
+   {
+    "code": "AT",
+    "count": 7
+   },
+   {
+    "code": "DK",
+    "count": 3
+   },
+   {
+    "code": "AU",
+    "count": 2
+   },
+   {
+    "code": "LU",
+    "count": 2
+   },
+   {
+    "code": "CH",
+    "count": 1
+   },
+   {
+    "code": "IT",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

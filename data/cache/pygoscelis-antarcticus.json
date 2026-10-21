@@ -1,0 +1,141 @@
+{
+ "key": "pygoscelis-antarcticus",
+ "name": "Pygoscelis antarcticus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:36.585Z",
+ "names": {
+  "da": "Rempingvin",
+  "en": "Chinstrap Penguin",
+  "accepted": "Pygoscelis antarcticus"
+ },
+ "wikidata": {
+  "id": "Q126643"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rempingvin",
+  "extract": "Rempingvinen er en mellemstor havfugl som hører til pingvinfamilien. Arten, som er en relativ lille pingvin, er nært beslægtet med adeliepingvin og Æselpingvin. Alle tilhører samme slægt",
+  "url": "https://da.wikipedia.org/wiki/Rempingvin"
+ },
+ "inat": {
+  "id": 54549,
+  "observations": 2118
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 617204755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/339298367",
+    "place": "Orne Harbour, Antarctica",
+    "date": "2026-02-16"
+   },
+   {
+    "id": 59464930,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59464930/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59464930/large.jpeg",
+    "attribution": "(c) María Regina Silva, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37503770",
+    "place": "Ushuaia, AR-TF, AR",
+    "date": "2020-01-11"
+   },
+   {
+    "id": 67125901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67125901/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67125901/large.jpg",
+    "attribution": "(c) Evee Krojmal, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/42281390",
+    "place": "Isla Rey Jorge, Antártida",
+    "date": "2020-02-01"
+   }
+  ],
+  "hero": {
+   "id": 617204755,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/339298367",
+   "place": "Orne Harbour, Antarctica",
+   "date": "2026-02-16"
+  }
+ },
+ "gbif": {
+  "key": 2481664,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 17159,
+  "topCountries": [
+   {
+    "code": "AQ",
+    "count": 15294
+   },
+   {
+    "code": "GS",
+    "count": 1298
+   },
+   {
+    "code": "ZZ",
+    "count": 58
+   },
+   {
+    "code": "AR",
+    "count": 41
+   },
+   {
+    "code": "GB",
+    "count": 38
+   },
+   {
+    "code": "AU",
+    "count": 36
+   },
+   {
+    "code": "FK",
+    "count": 19
+   },
+   {
+    "code": "BV",
+    "count": 18
+   },
+   {
+    "code": "US",
+    "count": 17
+   },
+   {
+    "code": "JP",
+    "count": 14
+   },
+   {
+    "code": "NO",
+    "count": 10
+   },
+   {
+    "code": "CA",
+    "count": 7
+   }
+  ]
+ },
+ "warnings": []
+}

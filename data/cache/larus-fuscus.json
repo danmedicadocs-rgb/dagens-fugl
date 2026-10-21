@@ -1,0 +1,182 @@
+{
+ "key": "larus-fuscus",
+ "name": "Larus fuscus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:29.752Z",
+ "names": {
+  "da": "Sildemåge",
+  "en": null,
+  "accepted": "Larus fuscus"
+ },
+ "wikidata": {
+  "id": "Q27160"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sildemåge",
+  "extract": "Sildemågen er en 55 centimeter stor mågeart, der yngler langs kysterne af det nordlige og vestlige Europa og desuden indlands i dele af det centrale Asien. Arten kendes på sine gule ben og den mindre størrelse i forhold til f.eks. svartbag og sølvmåge.",
+  "url": "https://da.wikipedia.org/wiki/Sildem%C3%A5ge"
+ },
+ "inat": {
+  "id": 4381,
+  "observations": 68565
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 379479760,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/large.jpeg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/214670277",
+    "place": "Far Sawrey, Ambleside LA22 0LR, UK",
+    "date": "2024-05-08"
+   },
+   {
+    "id": 343653409,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343653409/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343653409/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195354529",
+    "place": "4500-357 Espinho, Portugal, Portugal",
+    "date": "2023-12-30"
+   },
+   {
+    "id": 594666033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594666033/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594666033/large.jpg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/328196110",
+    "place": "A Coruña, España",
+    "date": "2023-07-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 101928960,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101928960/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101928960/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63506157",
+    "place": "Nigrán, Pontevedra, España",
+    "date": "2020-10-25"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 703285324,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703285324/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703285324/large.jpg",
+    "attribution": "(c) Jay Różycka, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384210154",
+    "place": "Øvre Dreggsallmenningen, Bergen, Norway",
+    "date": "2026-07-21"
+   },
+   {
+    "id": 659080124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659080124/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659080124/large.jpg",
+    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/361150952",
+    "place": "Московский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-05-13"
+   },
+   {
+    "id": 571200690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571200690/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571200690/large.jpg",
+    "attribution": "(c) jamie-aa, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/316167041",
+    "place": "Erith, UK",
+    "date": "2025-09-23"
+   }
+  ],
+  "hero": {
+   "id": 379479760,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/large.jpeg",
+   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/214670277",
+   "place": "Far Sawrey, Ambleside LA22 0LR, UK",
+   "date": "2024-05-08"
+  }
+ },
+ "gbif": {
+  "key": 2481174,
+  "dkTotal": 119147,
+  "dkMonths": [
+   279,
+   643,
+   8737,
+   23576,
+   19838,
+   12868,
+   21506,
+   14554,
+   10821,
+   5691,
+   246,
+   243
+  ],
+  "worldTotal": 8793283,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 1463279
+   },
+   {
+    "code": "GB",
+    "count": 1223734
+   },
+   {
+    "code": "FR",
+    "count": 1144902
+   },
+   {
+    "code": "BE",
+    "count": 1106708
+   },
+   {
+    "code": "ES",
+    "count": 957794
+   },
+   {
+    "code": "MA",
+    "count": 415752
+   },
+   {
+    "code": "PT",
+    "count": 407262
+   },
+   {
+    "code": "US",
+    "count": 397495
+   },
+   {
+    "code": "SE",
+    "count": 297620
+   },
+   {
+    "code": "NO",
+    "count": 242162
+   },
+   {
+    "code": "EH",
+    "count": 216310
+   },
+   {
+    "code": "FI",
+    "count": 208895
+   }
+  ]
+ },
+ "warnings": []
+}

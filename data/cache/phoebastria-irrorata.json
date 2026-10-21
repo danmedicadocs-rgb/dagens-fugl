@@ -1,0 +1,156 @@
+{
+ "key": "phoebastria-irrorata",
+ "name": "Phoebastria irrorata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:53:48.892Z",
+ "names": {
+  "da": "Galapagosalbatros",
+  "en": "Waved Albatross",
+  "accepted": "Phoebastria irrorata"
+ },
+ "wikidata": {
+  "id": "Q735296"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Waved albatross",
+  "extract": "The waved albatross, also known as Galapagos albatross, is one of three species of the family Diomedeidae that occur in the tropics. When they forage, they follow a straight path to a single site off the coast of Peru, about 1,000 km (620 mi) to the east. During the non-breeding season, these birds reside primarily on the Ecuadorian and Peruvian coasts.",
+  "url": "https://en.wikipedia.org/wiki/Waved_albatross"
+ },
+ "inat": {
+  "id": 4143,
+  "observations": 1309
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 249100000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249100000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249100000/large.jpg",
+    "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145055632",
+    "place": "Galápagos Islands, Ecuador",
+    "date": "2008-12-21"
+   },
+   {
+    "id": 249099504,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249099504/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249099504/large.jpg",
+    "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145055433",
+    "place": "Galápagos Islands, Ecuador",
+    "date": "2008-12-21"
+   },
+   {
+    "id": 249099207,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249099207/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249099207/large.jpg",
+    "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145055253",
+    "place": "Galápagos Islands, Ecuador",
+    "date": "2008-12-21"
+   }
+  ],
+  "adult": [
+   {
+    "id": 630005606,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630005606/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630005606/large.jpg",
+    "attribution": "(c) Gail A Baker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/345676929",
+    "place": "Española Island, Galapagos Ecuador",
+    "date": "1978-09-05"
+   },
+   {
+    "id": 65002612,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65002612/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65002612/large.jpg",
+    "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40994227",
+    "place": "Isla de La Plata, Ecuador",
+    "date": "2004-08-02"
+   },
+   {
+    "id": 31332104,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31332104/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31332104/large.jpg",
+    "attribution": "(c) José Garrido, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20294961",
+    "place": "Galápagos Islands, Ecuador",
+    "date": "2008-12-08"
+   }
+  ],
+  "hero": {
+   "id": 630005606,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630005606/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630005606/large.jpg",
+   "attribution": "(c) Gail A Baker, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/345676929",
+   "place": "Española Island, Galapagos Ecuador",
+   "date": "1978-09-05"
+  }
+ },
+ "gbif": {
+  "key": 2481379,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 7972,
+  "topCountries": [
+   {
+    "code": "EC",
+    "count": 6224
+   },
+   {
+    "code": "PE",
+    "count": 1511
+   },
+   {
+    "code": "CL",
+    "count": 173
+   },
+   {
+    "code": "CO",
+    "count": 22
+   },
+   {
+    "code": "ZZ",
+    "count": 13
+   },
+   {
+    "code": "US",
+    "count": 4
+   },
+   {
+    "code": "CR",
+    "count": 3
+   },
+   {
+    "code": "PA",
+    "count": 3
+   }
+  ]
+ },
+ "warnings": []
+}

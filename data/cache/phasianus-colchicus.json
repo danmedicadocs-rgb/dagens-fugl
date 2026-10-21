@@ -1,0 +1,202 @@
+{
+ "key": "phasianus-colchicus",
+ "name": "Phasianus colchicus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:17.025Z",
+ "names": {
+  "da": "Fasan",
+  "en": "Common Pheasant",
+  "accepted": "Phasianus colchicus"
+ },
+ "wikidata": {
+  "id": "Q25432"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Fasan",
+  "extract": "Fasanen er den største, vildtlevende hønsefugl i Danmark og findes i flere varianter, hvoraf ringfasanen er den hyppigst forekommende.",
+  "url": "https://da.wikipedia.org/wiki/Fasan"
+ },
+ "inat": {
+  "id": 981,
+  "observations": 76427
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 127255695,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/large.jpeg",
+    "attribution": "(c) John Krampl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/77794790",
+    "place": "Division No. 2, Alberta, Canada",
+    "date": "2021-05-06"
+   },
+   {
+    "id": 1179407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179407/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179407/large.jpg",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/940117",
+    "place": "Canterbury, New Zealand",
+    "date": "2012-04-22"
+   },
+   {
+    "id": 565325075,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565325075/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565325075/large.jpg",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313069490",
+    "place": "Halswell, Christchurch, New Zealand",
+    "date": "2025-09-11"
+   }
+  ],
+  "female": [
+   {
+    "id": 122449142,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122449142/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122449142/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/74887864",
+    "place": "40460 Sanguinet, France",
+    "date": "2021-04-22"
+   },
+   {
+    "id": 251042033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251042033/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251042033/large.jpeg",
+    "attribution": "(c) Nigel Bentley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146068005",
+    "place": "Milton Street",
+    "date": "2023-01-07"
+   },
+   {
+    "id": 179702116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179702116/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179702116/large.png",
+    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106909094",
+    "place": "Ballykeaghra, Co. Galway, Irlanda",
+    "date": "2020-03-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 38727336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38727336/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38727336/large.jpg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/25028888",
+    "place": "Subotica, Severno-Bački, Serbia",
+    "date": "2018-07-21"
+   },
+   {
+    "id": 410213659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410213659/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410213659/large.jpg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/230996090",
+    "place": "Burgas Municipality, Bulgária",
+    "date": "2024-07-10"
+   },
+   {
+    "id": 57390805,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57390805/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57390805/large.jpg",
+    "attribution": "(c) Алина Урусова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/36314788",
+    "place": "Кировский р-н, Волгоград, Волгоградская обл., Россия",
+    "date": "2018-06-13"
+   }
+  ],
+  "hero": {
+   "id": 127255695,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/large.jpeg",
+   "attribution": "(c) John Krampl, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/77794790",
+   "place": "Division No. 2, Alberta, Canada",
+   "date": "2021-05-06"
+  }
+ },
+ "gbif": {
+  "key": 9752149,
+  "dkTotal": 201424,
+  "dkMonths": [
+   15823,
+   12012,
+   23624,
+   37851,
+   34349,
+   17783,
+   9578,
+   8341,
+   9271,
+   12019,
+   11126,
+   9526
+  ],
+  "worldTotal": 3459684,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 812869
+   },
+   {
+    "code": "GB",
+    "count": 541359
+   },
+   {
+    "code": "NL",
+    "count": 381816
+   },
+   {
+    "code": "SE",
+    "count": 297253
+   },
+   {
+    "code": "BE",
+    "count": 260506
+   },
+   {
+    "code": "FR",
+    "count": 215080
+   },
+   {
+    "code": "DK",
+    "count": 201424
+   },
+   {
+    "code": "CA",
+    "count": 182563
+   },
+   {
+    "code": "DE",
+    "count": 107520
+   },
+   {
+    "code": "FI",
+    "count": 68350
+   },
+   {
+    "code": "TW",
+    "count": 36840
+   },
+   {
+    "code": "NZ",
+    "count": 33583
+   }
+  ]
+ },
+ "warnings": []
+}

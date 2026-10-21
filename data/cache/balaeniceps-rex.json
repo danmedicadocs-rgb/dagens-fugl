@@ -1,0 +1,162 @@
+{
+ "key": "balaeniceps-rex",
+ "name": "Balaeniceps rex",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:14.758Z",
+ "names": {
+  "da": "Træskonæb",
+  "en": "Shoebill",
+  "accepted": "Balaeniceps rex"
+ },
+ "wikidata": {
+  "id": "Q18700"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Træskonæb",
+  "extract": "Træskonæb eller abu markub er en fugl i ordenen Pelecaniformes, og eneste art i slægten Balaeniceps.\nDen findes fra det nordlige Zambia til det sydlige Sudan, men dog kun pletvist eftersom den foretrækker sumpede områder – i særdeleshed papyrussumpe. Dyret bliver op til 1,4 meter høj og har et vingefang på omkring 2,5 meter.\nDen voksne fugl har blålige fjer.",
+  "url": "https://da.wikipedia.org/wiki/Tr%C3%A6skon%C3%A6b"
+ },
+ "inat": {
+  "id": 4338,
+  "observations": 628
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 257766974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766974/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766974/large.jpeg",
+    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149577462",
+    "place": "Uganda",
+    "date": "2023-02-04"
+   },
+   {
+    "id": 257766316,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766316/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766316/large.jpeg",
+    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149577345",
+    "place": "Uganda",
+    "date": "2023-02-04"
+   }
+  ],
+  "adult": [
+   {
+    "id": 249448448,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249448448/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249448448/large.jpg",
+    "attribution": "(c) benjchristensen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145236156",
+    "place": "Uganda",
+    "date": "2021-10-16"
+   },
+   {
+    "id": 583648605,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583648605/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583648605/large.jpg",
+    "attribution": "(c) alanbedfordshaw, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/322615114",
+    "place": "Uganda",
+    "date": "2023-06-16"
+   },
+   {
+    "id": 354048708,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354048708/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354048708/large.jpg",
+    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200652976",
+    "place": "Uganda",
+    "date": "2024-01-24"
+   }
+  ],
+  "hero": {
+   "id": 249448448,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249448448/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249448448/large.jpg",
+   "attribution": "(c) benjchristensen, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/145236156",
+   "place": "Uganda",
+   "date": "2021-10-16"
+  }
+ },
+ "gbif": {
+  "key": 2480347,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 3501,
+  "topCountries": [
+   {
+    "code": "UG",
+    "count": 3191
+   },
+   {
+    "code": "ZM",
+    "count": 84
+   },
+   {
+    "code": "RW",
+    "count": 22
+   },
+   {
+    "code": "TZ",
+    "count": 18
+   },
+   {
+    "code": "ZZ",
+    "count": 17
+   },
+   {
+    "code": "CD",
+    "count": 15
+   },
+   {
+    "code": "SS",
+    "count": 15
+   },
+   {
+    "code": "SD",
+    "count": 14
+   },
+   {
+    "code": "US",
+    "count": 12
+   },
+   {
+    "code": "JP",
+    "count": 7
+   },
+   {
+    "code": "KE",
+    "count": 5
+   },
+   {
+    "code": "ET",
+    "count": 4
+   }
+  ]
+ },
+ "warnings": []
+}

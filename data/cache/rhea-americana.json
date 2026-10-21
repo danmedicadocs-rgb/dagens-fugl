@@ -1,0 +1,182 @@
+{
+ "key": "rhea-americana",
+ "name": "Rhea americana",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:48:42.471Z",
+ "names": {
+  "da": "Nandu",
+  "en": "Greater rhea",
+  "accepted": "Rhea americana"
+ },
+ "wikidata": {
+  "id": "Q192044"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Nandu",
+  "extract": "Nandu, eller stor nandu som den også kaldes, er en fugleart, der lever på pampassen i det østlige Sydamerika. Ligesom de lignende fugle struds og emu kan nanduen ikke flyve.",
+  "url": "https://da.wikipedia.org/wiki/Nandu"
+ },
+ "inat": {
+  "id": 20512,
+  "observations": 5271
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 67921206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67921206/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67921206/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/42772166",
+    "place": "Cruz Alta - RS, Brasil",
+    "date": "2020-04-21"
+   },
+   {
+    "id": 141578639,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141578639/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141578639/large.jpeg",
+    "attribution": "(c) Patricio Cowper Coles, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/85988806",
+    "place": "Chaco, AR",
+    "date": "2016-05-27"
+   },
+   {
+    "id": 169292249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169292249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169292249/large.jpg",
+    "attribution": "(c) Holger Braun, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101374098",
+    "place": "Corrientes, AR",
+    "date": "2015-09-22"
+   }
+  ],
+  "female": [
+   {
+    "id": 574696525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/574696525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/574696525/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/318008668",
+    "place": "Aceguá - RS, 96445-000, Brasil",
+    "date": "2021-12-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 1634031,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1634031/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1634031/large.jpg",
+    "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/1302052",
+    "place": "Entre Ríos, AR",
+    "date": "2015-03-07"
+   },
+   {
+    "id": 13498642,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13498642/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13498642/large.jpeg",
+    "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/9855123",
+    "place": "La Pampa, AR",
+    "date": "2018-02-04"
+   },
+   {
+    "id": 323705882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323705882/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323705882/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/185355311",
+    "place": "San Cristóbal, AR-SF, AR",
+    "date": "2023-09-27"
+   }
+  ],
+  "hero": {
+   "id": 67921206,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67921206/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67921206/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/42772166",
+   "place": "Cruz Alta - RS, Brasil",
+   "date": "2020-04-21"
+  }
+ },
+ "gbif": {
+  "key": 2495165,
+  "dkTotal": 11,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   2,
+   0,
+   4,
+   1,
+   0
+  ],
+  "worldTotal": 46270,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 18304
+   },
+   {
+    "code": "AR",
+    "count": 17042
+   },
+   {
+    "code": "UY",
+    "count": 5129
+   },
+   {
+    "code": "BO",
+    "count": 2248
+   },
+   {
+    "code": "PY",
+    "count": 1590
+   },
+   {
+    "code": "DE",
+    "count": 816
+   },
+   {
+    "code": "ZZ",
+    "count": 119
+   },
+   {
+    "code": "US",
+    "count": 97
+   },
+   {
+    "code": "GB",
+    "count": 92
+   },
+   {
+    "code": "NL",
+    "count": 38
+   },
+   {
+    "code": "BE",
+    "count": 28
+   },
+   {
+    "code": "DK",
+    "count": 11
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,141 @@
+{
+ "key": "coracias-benghalensis",
+ "name": "Coracias benghalensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:56.863Z",
+ "names": {
+  "da": "Blåkronet Ellekrage",
+  "en": "Indian Roller",
+  "accepted": "Coracias benghalensis"
+ },
+ "wikidata": {
+  "id": "Q477133"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Indian roller",
+  "extract": "The Indian roller is a bird of the family Coraciidae. It is 30–34 cm (12–13 in) long with a wingspan of 65–74 cm (26–29 in) and weighs 166–176 g (5.9–6.2 oz). The face and throat are pinkish, the head and back are brown, with blue on the rump and contrasting light and dark blue on the wings and tail. The bright blue markings on the wing are prominent in flight. The sexes are similar in appearance. Two subspecies are recognised.",
+  "url": "https://en.wikipedia.org/wiki/Indian_roller"
+ },
+ "inat": {
+  "id": 979665,
+  "observations": 5964
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 307026799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/large.jpg",
+    "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176588715",
+    "place": "Kachchh, IN-GJ, IN",
+    "date": "2019-11-24"
+   },
+   {
+    "id": 351726456,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351726456/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351726456/large.jpeg",
+    "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/199443980",
+    "place": "Punnamada, Finishing Point, Mullakkal, Kerala, India",
+    "date": "2024-02-06"
+   },
+   {
+    "id": 194403575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194403575/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194403575/large.jpeg",
+    "attribution": "(c) Manoj Karingamadathil, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/115189814",
+    "place": "Walayar Dam",
+    "date": "2022-03-13"
+   }
+  ],
+  "hero": {
+   "id": 307026799,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/large.jpg",
+   "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/176588715",
+   "place": "Kachchh, IN-GJ, IN",
+   "date": "2019-11-24"
+  }
+ },
+ "gbif": {
+  "key": 2475379,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 309391,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 268330
+   },
+   {
+    "code": "AE",
+    "count": 23040
+   },
+   {
+    "code": "LK",
+    "count": 5959
+   },
+   {
+    "code": "OM",
+    "count": 4131
+   },
+   {
+    "code": "NP",
+    "count": 3971
+   },
+   {
+    "code": "IR",
+    "count": 1789
+   },
+   {
+    "code": "PK",
+    "count": 1212
+   },
+   {
+    "code": "BT",
+    "count": 360
+   },
+   {
+    "code": "KW",
+    "count": 190
+   },
+   {
+    "code": "IQ",
+    "count": 81
+   },
+   {
+    "code": "BD",
+    "count": 76
+   },
+   {
+    "code": "SA",
+    "count": 56
+   }
+  ]
+ },
+ "warnings": []
+}

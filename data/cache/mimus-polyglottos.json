@@ -1,0 +1,202 @@
+{
+ "key": "mimus-polyglottos",
+ "name": "Mimus polyglottos",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:43:20.654Z",
+ "names": {
+  "da": "Nordlig Spottedrossel",
+  "en": null,
+  "accepted": "Mimus polyglottos"
+ },
+ "wikidata": {
+  "id": "Q829683"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Nordlig spottedrossel",
+  "extract": "Nordlig spottedrossel er en spurvefugl, der lever i USA og nordlige Mellemamerika.",
+  "url": "https://da.wikipedia.org/wiki/Nordlig_spottedrossel"
+ },
+ "inat": {
+  "id": 14886,
+  "observations": 246567
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 203019463,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203019463/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203019463/large.jpeg",
+    "attribution": "(c) Lyndsey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120059924",
+    "place": "Sebastian, FL, USA",
+    "date": "2022-06-03"
+   },
+   {
+    "id": 677963010,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/677963010/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/677963010/large.jpg",
+    "attribution": "(c) northerly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/371075147",
+    "place": "Georgia, US",
+    "date": "2026-06-09"
+   },
+   {
+    "id": 118414891,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118414891/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118414891/large.jpeg",
+    "attribution": "(c) F. S., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72611833",
+    "place": "Merrimack County, US-NH, US",
+    "date": "2021-03-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 346872845,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346872845/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346872845/large.jpg",
+    "attribution": "(c) Tyler, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197007217",
+    "place": "Valley Rim Rd, El Cajon, CA, US",
+    "date": "2024-01-18"
+   },
+   {
+    "id": 339258135,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339258135/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339258135/large.jpg",
+    "attribution": "(c) Tyler, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/193152825",
+    "place": "Valley Rim Rd, El Cajon, CA, US",
+    "date": "2023-12-05"
+   },
+   {
+    "id": 393343454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393343454/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393343454/large.jpeg",
+    "attribution": "(c) wolfhowl3, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/221917449",
+    "place": "Broken Arrow, OK 74014, USA",
+    "date": "2024-06-10"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 249513040,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249513040/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249513040/large.jpg",
+    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145303211",
+    "place": "Abram-Perezville, TX, USA",
+    "date": "2014-05-22"
+   },
+   {
+    "id": 42353178,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42353178/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42353178/large.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/27235052",
+    "place": "235 County Rd, Demarest, NJ, US",
+    "date": "2019-06-18"
+   },
+   {
+    "id": 303604864,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303604864/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303604864/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/174739776",
+    "place": "South Carolina, US",
+    "date": "2023-07-21"
+   }
+  ],
+  "hero": {
+   "id": 203019463,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203019463/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203019463/large.jpeg",
+   "attribution": "(c) Lyndsey, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/120059924",
+   "place": "Sebastian, FL, USA",
+   "date": "2022-06-03"
+  }
+ },
+ "gbif": {
+  "key": 5231677,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 11855153,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 11475339
+   },
+   {
+    "code": "MX",
+    "count": 102480
+   },
+   {
+    "code": "CA",
+    "count": 75479
+   },
+   {
+    "code": "PR",
+    "count": 61981
+   },
+   {
+    "code": "CU",
+    "count": 46150
+   },
+   {
+    "code": "BS",
+    "count": 34279
+   },
+   {
+    "code": "DO",
+    "count": 20853
+   },
+   {
+    "code": "KY",
+    "count": 15676
+   },
+   {
+    "code": "JM",
+    "count": 15212
+   },
+   {
+    "code": "HT",
+    "count": 3037
+   },
+   {
+    "code": "TC",
+    "count": 2095
+   },
+   {
+    "code": "VI",
+    "count": 940
+   }
+  ]
+ },
+ "warnings": []
+}

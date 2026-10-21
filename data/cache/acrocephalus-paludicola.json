@@ -1,0 +1,141 @@
+{
+ "key": "acrocephalus-paludicola",
+ "name": "Acrocephalus paludicola",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:12.047Z",
+ "names": {
+  "da": "Vandsanger",
+  "en": null,
+  "accepted": "Acrocephalus paludicola"
+ },
+ "wikidata": {
+  "id": "Q242599"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Aquatic warbler",
+  "extract": "The aquatic warbler is an Old World warbler in the genus Acrocephalus. It breeds in temperate eastern Europe and western Asia, with an estimated population of 11,000-15,000 pairs. It is migratory, wintering in west Africa. After many years of uncertainty, the wintering grounds of much of the European population were finally discovered in Djoudj National Bird Sanctuary, Senegal, with between 5,000 and 10,000 birds present at this single site. Its south-westerly migration route means that it is regular on passage as far west as Great Britain and Ireland.",
+  "url": "https://en.wikipedia.org/wiki/Aquatic_warbler"
+ },
+ "inat": {
+  "id": 117181,
+  "observations": 201
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 163345952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/98144309",
+    "place": "Spain",
+    "date": "2005-09-18"
+   },
+   {
+    "id": 44414392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/44414392/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/44414392/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/28488762",
+    "place": "Lithuania",
+    "date": "2019-07-07"
+   },
+   {
+    "id": 102494819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102494819/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102494819/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63822607",
+    "place": "Podlachian, PL",
+    "date": "2017-06-03"
+   }
+  ],
+  "hero": {
+   "id": 163345952,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/large.jpeg",
+   "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/98144309",
+   "place": "Spain",
+   "date": "2005-09-18"
+  }
+ },
+ "gbif": {
+  "key": 2493114,
+  "dkTotal": 61,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   4,
+   38,
+   13,
+   2,
+   0,
+   0
+  ],
+  "worldTotal": 22259,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 8540
+   },
+   {
+    "code": "ES",
+    "count": 3556
+   },
+   {
+    "code": "PL",
+    "count": 3238
+   },
+   {
+    "code": "NL",
+    "count": 3168
+   },
+   {
+    "code": "BE",
+    "count": 1154
+   },
+   {
+    "code": "GB",
+    "count": 495
+   },
+   {
+    "code": "PT",
+    "count": 311
+   },
+   {
+    "code": "SE",
+    "count": 261
+   },
+   {
+    "code": "UA",
+    "count": 221
+   },
+   {
+    "code": "BY",
+    "count": 187
+   },
+   {
+    "code": "LT",
+    "count": 187
+   },
+   {
+    "code": "DE",
+    "count": 130
+   }
+  ]
+ },
+ "warnings": []
+}

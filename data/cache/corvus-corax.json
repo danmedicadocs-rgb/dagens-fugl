@@ -1,0 +1,182 @@
+{
+ "key": "corvus-corax",
+ "name": "Corvus corax",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:15:38.712Z",
+ "names": {
+  "da": "Ravn",
+  "en": "Northern Raven",
+  "accepted": "Corvus corax"
+ },
+ "wikidata": {
+  "id": "Q25357"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Common raven",
+  "extract": "The common raven or northern raven is a large all-black passerine bird. It is the most widely distributed of all corvids, found across the Northern Hemisphere. There are 11 accepted subspecies with little variation in appearance, although recent research has demonstrated significant genetic differences among populations from various regions. It is one of the two largest corvids, alongside the thick-billed raven, and is the heaviest passerine bird; at maturity, the common raven averages 63 centimetres in length and 1.47 kilograms in weight, up to 2 kg (4.4 lb) in the heaviest individuals. Although their typical lifespan is considerably shorter, common ravens can live more than 23 years in the wild. Young birds may travel in flocks but later mate for life, with each mated pair defending a territory.",
+  "url": "https://en.wikipedia.org/wiki/Common_raven"
+ },
+ "inat": {
+  "id": 8010,
+  "observations": 195342
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 72128898,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45485386",
+    "place": "Marin County, CA, USA",
+    "date": "2020-05-10"
+   },
+   {
+    "id": 27803613,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27803613/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27803613/large.jpg",
+    "attribution": "(c) CK2AZ, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18191917",
+    "place": "Lincoln National Forest, Cloudcroft, NM, US",
+    "date": "2018-11-06"
+   },
+   {
+    "id": 64500337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64500337/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64500337/large.jpg",
+    "attribution": "(c) Данил романюта, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40688386",
+    "place": "Апшеронский р-н, Краснодарский край, Россия",
+    "date": "2020-02-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 655360000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/655360000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/655360000/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/359209472",
+    "place": "Муниципальный округ Чехов, Московская обл., Россия",
+    "date": "2026-05-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 74292404,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74292404/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74292404/large.jpeg",
+    "attribution": "(c) Steve Young, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/46844358",
+    "place": "3, Marksville, VA, USA",
+    "date": "2011-05-22"
+   },
+   {
+    "id": 660962058,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660962058/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660962058/large.jpg",
+    "attribution": "(c) Jules Reppert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/362148996",
+    "place": "Pimisi, Ottawa, ON K1R 7W7, Canada",
+    "date": "2026-05-06"
+   },
+   {
+    "id": 639929675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639929675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639929675/large.jpg",
+    "attribution": "(c) colorful-corvid, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/350707129",
+    "place": "Washington County, US-UT, US",
+    "date": "2026-04-17"
+   }
+  ],
+  "hero": {
+   "id": 72128898,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/large.jpeg",
+   "attribution": "(c) datadan, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/45485386",
+   "place": "Marin County, CA, USA",
+   "date": "2020-05-10"
+  }
+ },
+ "gbif": {
+  "key": 2482492,
+  "dkTotal": 290698,
+  "dkMonths": [
+   27410,
+   28632,
+   41097,
+   38737,
+   25171,
+   13369,
+   14086,
+   18643,
+   22771,
+   23368,
+   19029,
+   18323
+  ],
+  "worldTotal": 12317660,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 6850415
+   },
+   {
+    "code": "CA",
+    "count": 2502794
+   },
+   {
+    "code": "SE",
+    "count": 804781
+   },
+   {
+    "code": "DK",
+    "count": 290698
+   },
+   {
+    "code": "ES",
+    "count": 278844
+   },
+   {
+    "code": "NO",
+    "count": 261221
+   },
+   {
+    "code": "GB",
+    "count": 206214
+   },
+   {
+    "code": "DE",
+    "count": 151663
+   },
+   {
+    "code": "FR",
+    "count": 150810
+   },
+   {
+    "code": "FI",
+    "count": 123480
+   },
+   {
+    "code": "RU",
+    "count": 89387
+   },
+   {
+    "code": "MX",
+    "count": 71130
+   }
+  ]
+ },
+ "warnings": []
+}

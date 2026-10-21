@@ -1,0 +1,202 @@
+{
+ "key": "strix-aluco",
+ "name": "Strix aluco",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:41.765Z",
+ "names": {
+  "da": "Natugle",
+  "en": "Tawny owl",
+  "accepted": "Strix aluco"
+ },
+ "wikidata": {
+  "id": "Q25756"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Natugle",
+  "extract": "Natuglen er en mellemstor ugle med helt sorte øjne. Dens farve varierer fra grålig til rødbrun. Længden er typisk omkring 37-39 cm og vingefanget omtrent 94-104 cm.",
+  "url": "https://da.wikipedia.org/wiki/Natugle"
+ },
+ "inat": {
+  "id": 19898,
+  "observations": 24545
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 35636231,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35636231/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35636231/large.jpeg",
+    "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22988150",
+    "place": "Friedrichshain-Kreuzberg, Berlin, Germany",
+    "date": "2019-04-17"
+   },
+   {
+    "id": 468896522,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468896522/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468896522/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/261041086",
+    "place": "Maxwell Park, Pollokshields, Glasgow, UK",
+    "date": "2025-02-08"
+   },
+   {
+    "id": 375103942,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375103942/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375103942/large.jpeg",
+    "attribution": "(c) Merrcurys, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212257222",
+    "place": "Юж. административный округ, Москва, Россия",
+    "date": "2024-04-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 280721499,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280721499/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280721499/large.jpeg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/162355890",
+    "place": "Mokyklos g. 3, Dabikinės kaimas, LT-85365, 85365 Akmenė III, Lietuva",
+    "date": "2023-05-18"
+   },
+   {
+    "id": 620298249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/large.jpg",
+    "attribution": "(c) Susanne Primdahl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340823102",
+    "place": "Ørregårdsvej 10, 8831 Løgstrup, Danmark",
+    "date": "2026-03-01"
+   },
+   {
+    "id": 556670227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670227/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670227/large.jpg",
+    "attribution": "(c) Liz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/308549310",
+    "place": "Abbots Leigh Cricket Club, Bristol BS8 3QF, UK",
+    "date": "2025-08-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 35636269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35636269/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35636269/large.jpeg",
+    "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22988157",
+    "place": "Friedrichshain-Kreuzberg, Berlin, Germany",
+    "date": "2019-04-17"
+   },
+   {
+    "id": 120601572,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120601572/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120601572/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/73835627",
+    "place": "Schwabing-Freimann, München, Deutschland",
+    "date": "2021-04-10"
+   },
+   {
+    "id": 656873963,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656873963/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656873963/large.jpg",
+    "attribution": "(c) Timo Leistner, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/360001645",
+    "place": "07 Jena, Germany",
+    "date": "2026-05-10"
+   }
+  ],
+  "hero": {
+   "id": 451350360,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451350360/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451350360/large.jpg",
+   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/451350360",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9282206,
+  "dkTotal": 65637,
+  "dkMonths": [
+   7048,
+   6518,
+   7493,
+   6843,
+   7467,
+   4763,
+   2727,
+   3676,
+   4992,
+   4378,
+   4950,
+   4726
+  ],
+  "worldTotal": 1019206,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 303208
+   },
+   {
+    "code": "FR",
+    "count": 149200
+   },
+   {
+    "code": "FI",
+    "count": 94229
+   },
+   {
+    "code": "GB",
+    "count": 92377
+   },
+   {
+    "code": "DK",
+    "count": 65637
+   },
+   {
+    "code": "NO",
+    "count": 65057
+   },
+   {
+    "code": "NL",
+    "count": 55984
+   },
+   {
+    "code": "BE",
+    "count": 47773
+   },
+   {
+    "code": "ES",
+    "count": 44472
+   },
+   {
+    "code": "DE",
+    "count": 28329
+   },
+   {
+    "code": "PT",
+    "count": 16105
+   },
+   {
+    "code": "IT",
+    "count": 7879
+   }
+  ]
+ },
+ "warnings": []
+}

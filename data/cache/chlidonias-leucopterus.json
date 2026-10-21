@@ -1,0 +1,162 @@
+{
+ "key": "chlidonias-leucopterus",
+ "name": "Chlidonias leucopterus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:00.035Z",
+ "names": {
+  "da": "Hvidvinget terne",
+  "en": "White-winged Tern",
+  "accepted": "Chlidonias leucopterus"
+ },
+ "wikidata": {
+  "id": "Q241753"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidvinget terne",
+  "extract": "Hvidvinget terne er en fugleart i terneslægten Chlidonias. Den yngler i Europa og Asien i kolonier ved lavvandede søer eller nyligt oversvømmede områder. Arten ligner sortterne, men kendes på større kontrast mellem den sorte krop og de hvide overvinger samt på de sorte undervinger.",
+  "url": "https://da.wikipedia.org/wiki/Hvidvinget_terne"
+ },
+ "inat": {
+  "id": 4514,
+  "observations": 6027
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 387571246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571246/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571246/large.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/218993141",
+    "place": "Zicklacke, Illmitz, BL, Österreich",
+    "date": "2024-05-13"
+   }
+  ],
+  "female": [
+   {
+    "id": 215975842,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215975842/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215975842/large.jpeg",
+    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/127230680",
+    "place": "Сосницький район, Чернігівська область, Україна",
+    "date": "2022-07-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 427404774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/427404774/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/427404774/large.jpeg",
+    "attribution": "(c) SIA, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239935962",
+    "place": "Соляное, Крым",
+    "date": "2024-09-01"
+   },
+   {
+    "id": 557081293,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557081293/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557081293/large.jpg",
+    "attribution": "(c) Jerry Lanfear, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/308764179",
+    "place": "Fenstanton, UK",
+    "date": "2025-08-24"
+   },
+   {
+    "id": 557603353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557603353/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557603353/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309031150",
+    "place": "Moore Lake, RSPB Fen Drayton, Fenstanton, UK",
+    "date": "2025-08-25"
+   }
+  ],
+  "hero": {
+   "id": 387571246,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571246/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571246/large.jpeg",
+   "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/218993141",
+   "place": "Zicklacke, Illmitz, BL, Österreich",
+   "date": "2024-05-13"
+  }
+ },
+ "gbif": {
+  "key": 2481120,
+  "dkTotal": 2815,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   4,
+   1575,
+   327,
+   319,
+   478,
+   68,
+   37,
+   4,
+   0
+  ],
+  "worldTotal": 179404,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 22321
+   },
+   {
+    "code": "AU",
+    "count": 19634
+   },
+   {
+    "code": "TW",
+    "count": 11858
+   },
+   {
+    "code": "NL",
+    "count": 11314
+   },
+   {
+    "code": "IL",
+    "count": 9542
+   },
+   {
+    "code": "SE",
+    "count": 8873
+   },
+   {
+    "code": "TR",
+    "count": 5364
+   },
+   {
+    "code": "KE",
+    "count": 4553
+   },
+   {
+    "code": "CN",
+    "count": 4518
+   },
+   {
+    "code": "TH",
+    "count": 4291
+   },
+   {
+    "code": "RU",
+    "count": 4259
+   },
+   {
+    "code": "PL",
+    "count": 4194
+   }
+  ]
+ },
+ "warnings": []
+}

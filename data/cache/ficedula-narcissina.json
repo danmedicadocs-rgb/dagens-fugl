@@ -1,0 +1,182 @@
+{
+ "key": "ficedula-narcissina",
+ "name": "Ficedula narcissina",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:12.614Z",
+ "names": {
+  "da": "Narcissusfluesnapper",
+  "en": "Narcissus Flycatcher",
+  "accepted": "Ficedula narcissina"
+ },
+ "wikidata": {
+  "id": "Q1367236"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Narcissus flycatcher",
+  "extract": "The narcissus flycatcher is a passerine bird in the Old World flycatcher family. It is native to the East Palearctic, from Sakhalin to the north, through Japan across through Korea, mainland China, and Taiwan, wintering in southeast Asia, including the Philippines, Vietnam and Borneo. It is highly migratory, and has been found as a vagrant from Australia in the south to Alaska in the north Archived 2006-01-10 at the Wayback Machine.",
+  "url": "https://en.wikipedia.org/wiki/Narcissus_flycatcher"
+ },
+ "inat": {
+  "id": 13128,
+  "observations": 3770
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 265402782,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/153648928",
+    "place": "Quarry Hill, Hong Kong",
+    "date": "2023-04-06"
+   },
+   {
+    "id": 585952381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585952381/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585952381/large.jpg",
+    "attribution": "(c) mami_t_t, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/323797454",
+    "place": "日本 〒206-0021",
+    "date": "2025-10-28"
+   },
+   {
+    "id": 644367074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/644367074/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/644367074/large.jpg",
+    "attribution": "(c) ITÔ, Hiroki, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/353125023",
+    "place": "日本、石川県金沢市丸の内１ Castle District",
+    "date": "2026-04-25"
+   }
+  ],
+  "female": [
+   {
+    "id": 376656803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376656803/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/376656803/large.jpeg",
+    "attribution": "(c) 林孫鋒(Lin Sun Fong), some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/213132804",
+    "place": "東引島",
+    "date": "2024-04-19"
+   },
+   {
+    "id": 324393717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324393717/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324393717/large.jpeg",
+    "attribution": "(c) mami_t_t, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185714277",
+    "place": "日本 〒206-0021",
+    "date": "2023-10-01"
+   },
+   {
+    "id": 732449957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732449957/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732449957/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/399235345",
+    "place": "Azumi, Matsumoto, Nagano 390-1520, Japan",
+    "date": "2026-09-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 685712853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/685712853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/685712853/large.jpg",
+    "attribution": "(c) Pavel Smirnov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375115526",
+    "place": "Kuril'skiy rayon, RU-SL, RU",
+    "date": "2026-06-13"
+   }
+  ],
+  "hero": {
+   "id": 265402782,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/153648928",
+   "place": "Quarry Hill, Hong Kong",
+   "date": "2023-04-06"
+  }
+ },
+ "gbif": {
+  "key": 5231288,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 27298,
+  "topCountries": [
+   {
+    "code": "JP",
+    "count": 15110
+   },
+   {
+    "code": "TW",
+    "count": 6342
+   },
+   {
+    "code": "CN",
+    "count": 1802
+   },
+   {
+    "code": "KR",
+    "count": 892
+   },
+   {
+    "code": "HK",
+    "count": 774
+   },
+   {
+    "code": "PH",
+    "count": 489
+   },
+   {
+    "code": "TH",
+    "count": 464
+   },
+   {
+    "code": "MY",
+    "count": 452
+   },
+   {
+    "code": "RU",
+    "count": 346
+   },
+   {
+    "code": "SG",
+    "count": 156
+   },
+   {
+    "code": "MO",
+    "count": 144
+   },
+   {
+    "code": "VN",
+    "count": 102
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,162 @@
+{
+ "key": "prunella-collaris",
+ "name": "Prunella collaris",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:56.169Z",
+ "names": {
+  "da": "Alpejernspurv",
+  "en": "Alpine Accentor",
+  "accepted": "Prunella collaris"
+ },
+ "wikidata": {
+  "id": "Q208334"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Alpine accentor",
+  "extract": "The alpine accentor is a small passerine bird in the family Prunellidae, which is native to Eurasia and North Africa.",
+  "url": "https://en.wikipedia.org/wiki/Alpine_accentor"
+ },
+ "inat": {
+  "id": 13996,
+  "observations": 6755
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 154102098,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154102098/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154102098/large.jpeg",
+    "attribution": "(c) Николай Гнездилов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/93017734",
+    "place": "город-курорт Сочи, Краснодарский край, Россия",
+    "date": "2021-08-24"
+   },
+   {
+    "id": 715437462,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715437462/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715437462/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/390508359",
+    "place": "Kazbegi Municipality, Georgia",
+    "date": "2026-08-09"
+   }
+  ],
+  "adult": [
+   {
+    "id": 715436669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715436669/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715436669/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/390508332",
+    "place": "Kazbegi Municipality, Georgia",
+    "date": "2026-08-07"
+   },
+   {
+    "id": 715436595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715436595/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715436595/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/390508329",
+    "place": "Kazbegi Municipality, Georgia",
+    "date": "2026-08-07"
+   },
+   {
+    "id": 558429713,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558429713/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558429713/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309459912",
+    "place": "Kazbegi Municipality, Georgia",
+    "date": "2025-08-25"
+   }
+  ],
+  "hero": {
+   "id": 715436669,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715436669/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715436669/large.jpg",
+   "attribution": "(c) Donsky, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/390508332",
+   "place": "Kazbegi Municipality, Georgia",
+   "date": "2026-08-07"
+  }
+ },
+ "gbif": {
+  "key": 5231770,
+  "dkTotal": 323,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   89,
+   226,
+   5,
+   0,
+   0,
+   0,
+   0,
+   1,
+   1
+  ],
+  "worldTotal": 73002,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 24486
+   },
+   {
+    "code": "ES",
+    "count": 13868
+   },
+   {
+    "code": "IN",
+    "count": 4150
+   },
+   {
+    "code": "CH",
+    "count": 4107
+   },
+   {
+    "code": "IT",
+    "count": 4091
+   },
+   {
+    "code": "AT",
+    "count": 3982
+   },
+   {
+    "code": "TW",
+    "count": 2991
+   },
+   {
+    "code": "CN",
+    "count": 1372
+   },
+   {
+    "code": "PT",
+    "count": 1045
+   },
+   {
+    "code": "DE",
+    "count": 995
+   },
+   {
+    "code": "GE",
+    "count": 979
+   },
+   {
+    "code": "NP",
+    "count": 862
+   }
+  ]
+ },
+ "warnings": []
+}

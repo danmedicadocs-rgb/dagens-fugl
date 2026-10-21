@@ -1,0 +1,172 @@
+{
+ "key": "mycteria-leucocephala",
+ "name": "Mycteria leucocephala",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:36:53.583Z",
+ "names": {
+  "da": "Indisk Skovstork",
+  "en": "Painted Stork",
+  "accepted": "Mycteria leucocephala"
+ },
+ "wikidata": {
+  "id": "Q631805"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Painted stork",
+  "extract": "The painted stork is a large wader in the stork family. It is found in the wetlands of the plains of tropical Asia south of the Himalayas in the Indian subcontinent and extending into Southeast Asia. Their distinctive pink tertial feathers of the adults give them their name. They forage in flocks in shallow waters along rivers or lakes. They immerse their half open beaks in water and sweep them from side to side and snap up their prey of small fish that are sensed by touch. As they wade along they also stir the water with their feet to flush hiding fish. They nest colonially in trees, often along with other waterbirds. The only sounds they produce are weak moans or bill clattering at the nest. They are not migratory and only make short-distance movements in some parts of their range in response to changes in weather or food availability or for breeding. Like other storks, they are often seen soaring on thermals.",
+  "url": "https://en.wikipedia.org/wiki/Painted_stork"
+ },
+ "inat": {
+  "id": 4743,
+  "observations": 10453
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 235436199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235436199/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/235436199/large.jpeg",
+    "attribution": "(c) renjus box, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/137813619",
+    "place": "Koonthankulam Bird Sanctuary",
+    "date": "2018-03-14"
+   },
+   {
+    "id": 488548963,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488548963/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488548963/large.jpg",
+    "attribution": "(c) Teja Yantrapalli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271593893",
+    "place": "Brahmamgarimattam, YSR, Andhra Pradesh, IN",
+    "date": "2025-04-19"
+   },
+   {
+    "id": 499714279,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499714279/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499714279/large.jpg",
+    "attribution": "(c) Teja Yantrapalli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/278302324",
+    "place": "Brahmamgarimattam, YSR, Andhra Pradesh, IN",
+    "date": "2025-05-04"
+   }
+  ],
+  "adult": [
+   {
+    "id": 107822986,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107822986/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107822986/large.jpeg",
+    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66828689",
+    "place": "Thippuru Gatbaipalya, Bengaluru, Karnataka 560082, India",
+    "date": "2020-12-19"
+   },
+   {
+    "id": 306698779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306698779/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306698779/large.jpg",
+    "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176410229",
+    "place": "Kachchh, IN-GJ, IN",
+    "date": "2021-12-05"
+   },
+   {
+    "id": 584893403,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/584893403/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/584893403/large.jpg",
+    "attribution": "(c) Rajesh Thomas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/323265336",
+    "place": "3VJ8+9Q9 Kazhuveli WETLAND AREA, Marakkanam, Tamil Nadu 605014, India",
+    "date": "2025-10-20"
+   }
+  ],
+  "hero": {
+   "id": 107822986,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107822986/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107822986/large.jpeg",
+   "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/66828689",
+   "place": "Thippuru Gatbaipalya, Bengaluru, Karnataka 560082, India",
+   "date": "2020-12-19"
+  }
+ },
+ "gbif": {
+  "key": 2481938,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 234874,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 192916
+   },
+   {
+    "code": "TH",
+    "count": 16586
+   },
+   {
+    "code": "LK",
+    "count": 14837
+   },
+   {
+    "code": "KH",
+    "count": 4459
+   },
+   {
+    "code": "MY",
+    "count": 2722
+   },
+   {
+    "code": "SG",
+    "count": 2389
+   },
+   {
+    "code": "VN",
+    "count": 379
+   },
+   {
+    "code": "BD",
+    "count": 187
+   },
+   {
+    "code": "MM",
+    "count": 119
+   },
+   {
+    "code": "PK",
+    "count": 94
+   },
+   {
+    "code": "NP",
+    "count": 69
+   },
+   {
+    "code": "CN",
+    "count": 28
+   }
+  ]
+ },
+ "warnings": []
+}

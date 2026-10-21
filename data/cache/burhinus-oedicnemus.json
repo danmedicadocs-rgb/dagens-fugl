@@ -1,0 +1,120 @@
+{
+ "key": "burhinus-oedicnemus",
+ "name": "Burhinus oedicnemus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:04:16.788Z",
+ "names": {
+  "da": "Triel",
+  "en": "Eurasian Stone-curlew",
+  "accepted": "Burhinus oedicnemus"
+ },
+ "wikidata": {
+  "id": "Q184834"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Triel",
+  "extract": "Triel er en vadefugl, der ses i Danmark som en meget sjælden gæst fra det sydlige Europa.",
+  "url": "https://da.wikipedia.org/wiki/Triel"
+ },
+ "inat": {
+  "id": 4923,
+  "observations": 4617
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 457095178,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457095178/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457095178/large.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/255106389",
+    "place": "Niederösterreich, AT",
+    "date": "2024-05-13"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 208423163,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208423163/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208423163/large.jpg",
+   "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA), uploaded by Kudaibergen Amirekul",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/208423163",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2482100,
+  "dkTotal": 697,
+  "dkMonths": [
+   1,
+   0,
+   226,
+   23,
+   177,
+   31,
+   107,
+   118,
+   5,
+   4,
+   4,
+   0
+  ],
+  "worldTotal": 222818,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 77030
+   },
+   {
+    "code": "ES",
+    "count": 70824
+   },
+   {
+    "code": "IL",
+    "count": 26296
+   },
+   {
+    "code": "PT",
+    "count": 9826
+   },
+   {
+    "code": "GB",
+    "count": 9441
+   },
+   {
+    "code": "NL",
+    "count": 3756
+   },
+   {
+    "code": "MA",
+    "count": 3519
+   },
+   {
+    "code": "GR",
+    "count": 3344
+   },
+   {
+    "code": "SE",
+    "count": 2860
+   },
+   {
+    "code": "IT",
+    "count": 2272
+   },
+   {
+    "code": "CY",
+    "count": 1823
+   },
+   {
+    "code": "TR",
+    "count": 1775
+   }
+  ]
+ },
+ "warnings": []
+}

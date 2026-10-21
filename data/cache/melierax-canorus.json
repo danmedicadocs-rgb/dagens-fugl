@@ -1,0 +1,172 @@
+{
+ "key": "melierax-canorus",
+ "name": "Melierax canorus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:58.400Z",
+ "names": {
+  "da": "Lys sanghøg",
+  "en": "Pale Chanting Goshawk",
+  "accepted": "Melierax canorus"
+ },
+ "wikidata": {
+  "id": "Q995756"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lys sanghøg",
+  "extract": "Lys sanghøg er en rovfugl, der er almindelig i tørre områder i det sydlige Afrika.",
+  "url": "https://da.wikipedia.org/wiki/Lys_sangh%C3%B8g"
+ },
+ "inat": {
+  "id": 5338,
+  "observations": 4280
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 241459317,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241459317/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241459317/large.jpeg",
+    "attribution": "(c) douglaseustonbrown, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/141005738",
+    "place": "Cape Winelands, ZA-WC, ZA",
+    "date": "2022-09-22"
+   },
+   {
+    "id": 453320342,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453320342/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453320342/large.jpeg",
+    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/253197410",
+    "place": "Sarah Baartman District Municipality, South Africa",
+    "date": "2024-11-25"
+   },
+   {
+    "id": 746419774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746419774/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746419774/large.jpg",
+    "attribution": "(c) linkie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/406314656",
+    "place": "ZF Mgcawu District Municipality, South Africa",
+    "date": "2026-08-11"
+   }
+  ],
+  "adult": [
+   {
+    "id": 407215169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/229412885",
+    "place": "Chris Hani District Municipality, South Africa",
+    "date": "2024-07-14"
+   },
+   {
+    "id": 617147173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617147173/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617147173/large.jpg",
+    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/339270774",
+    "place": "Khomas Region, Namibia",
+    "date": "2026-02-18"
+   },
+   {
+    "id": 15763336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15763336/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15763336/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11142138",
+    "place": "Mountain Zebra National Park",
+    "date": "2015-06-10"
+   }
+  ],
+  "hero": {
+   "id": 407215169,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/large.jpeg",
+   "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/229412885",
+   "place": "Chris Hani District Municipality, South Africa",
+   "date": "2024-07-14"
+  }
+ },
+ "gbif": {
+  "key": 2480730,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 82592,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 61202
+   },
+   {
+    "code": "NA",
+    "count": 17908
+   },
+   {
+    "code": "BW",
+    "count": 2524
+   },
+   {
+    "code": "KE",
+    "count": 767
+   },
+   {
+    "code": "ZW",
+    "count": 50
+   },
+   {
+    "code": "LS",
+    "count": 19
+   },
+   {
+    "code": "AO",
+    "count": 15
+   },
+   {
+    "code": "SO",
+    "count": 12
+   },
+   {
+    "code": "TZ",
+    "count": 7
+   },
+   {
+    "code": "ET",
+    "count": 5
+   },
+   {
+    "code": "UG",
+    "count": 3
+   },
+   {
+    "code": "ZZ",
+    "count": 3
+   }
+  ]
+ },
+ "warnings": []
+}

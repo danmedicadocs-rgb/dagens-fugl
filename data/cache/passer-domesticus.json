@@ -1,0 +1,202 @@
+{
+ "key": "passer-domesticus",
+ "name": "Passer domesticus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:22:16.852Z",
+ "names": {
+  "da": "Gråspurv",
+  "en": "House Sparrow",
+  "accepted": "Passer domesticus"
+ },
+ "wikidata": {
+  "id": "Q14683"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gråspurv",
+  "extract": "Gråspurv er en fugl, som er tæt knyttet til mennesket og dets husdyr og udelukkende findes ved beboede steder. Arten var oprindelig kun udbredt i Europa, Nordafrika og Asien, men blev senere medbragt til andre dele af verden.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%A5spurv"
+ },
+ "inat": {
+  "id": 13858,
+  "observations": 574121
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 212832926,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/125500734",
+    "place": "Castle",
+    "date": "2022-07-09"
+   },
+   {
+    "id": 136543105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136543105/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136543105/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83153529",
+    "place": "Parroquia Celiano Monge, Ambato, Ecuador",
+    "date": "2021-06-15"
+   },
+   {
+    "id": 457100849,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457100849/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457100849/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/255108840",
+    "place": "Ensenada, B.C., MX",
+    "date": "2024-02-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 467543991,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467543991/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467543991/large.jpeg",
+    "attribution": "(c) William Harland, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/260356186",
+    "place": "Culverden, New Zealand",
+    "date": "2025-01-27"
+   },
+   {
+    "id": 111551881,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111551881/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111551881/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68832016",
+    "place": "Océano Atlántico",
+    "date": "2021-01-28"
+   },
+   {
+    "id": 624395320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624395320/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624395320/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/342843139",
+    "place": "1 Daybreak Ponds, South Jordan, UT, USA",
+    "date": "2026-03-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 76701249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76701249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76701249/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48343350",
+    "place": " Montrose Point Bird Sanctuary, Chicago, IL, USA",
+    "date": "2019-10-07"
+   },
+   {
+    "id": 215713440,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215713440/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215713440/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/127086251",
+    "place": "Gellert, 4052 Basel, Switzerland",
+    "date": "2022-05-07"
+   },
+   {
+    "id": 747779770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/747779770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/747779770/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/406960051",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-10-08"
+   }
+  ],
+  "hero": {
+   "id": 212832926,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/large.jpeg",
+   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/125500734",
+   "place": "Castle",
+   "date": "2022-07-09"
+  }
+ },
+ "gbif": {
+  "key": 5231190,
+  "dkTotal": 154290,
+  "dkMonths": [
+   16283,
+   11697,
+   14588,
+   16475,
+   18483,
+   15650,
+   13260,
+   11828,
+   9614,
+   10176,
+   7728,
+   8422
+  ],
+  "worldTotal": 25932205,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 13360987
+   },
+   {
+    "code": "CA",
+    "count": 2080480
+   },
+   {
+    "code": "ES",
+    "count": 1281441
+   },
+   {
+    "code": "FR",
+    "count": 1259442
+   },
+   {
+    "code": "GB",
+    "count": 885654
+   },
+   {
+    "code": "NL",
+    "count": 718022
+   },
+   {
+    "code": "AU",
+    "count": 663477
+   },
+   {
+    "code": "DE",
+    "count": 564327
+   },
+   {
+    "code": "IN",
+    "count": 507682
+   },
+   {
+    "code": "PT",
+    "count": 448008
+   },
+   {
+    "code": "SE",
+    "count": 415301
+   },
+   {
+    "code": "NO",
+    "count": 412467
+   }
+  ]
+ },
+ "warnings": []
+}

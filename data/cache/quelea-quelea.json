@@ -1,0 +1,171 @@
+{
+ "key": "quelea-quelea",
+ "name": "Quelea quelea",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:20.941Z",
+ "names": {
+  "da": "Blodnæbsvæver",
+  "en": "Red-billed Quelea",
+  "accepted": "Quelea quelea"
+ },
+ "wikidata": {
+  "id": "Q367327"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Blodnæbsvæver",
+  "extract": "En blodnæbsvæver er en fugleart, der menes at være blandt de mest talrige i verden. Man har estimeret, at der findes 1,5 milliarder voksne blodnæbsvævere.",
+  "url": "https://da.wikipedia.org/wiki/Blodn%C3%A6bsv%C3%A6ver"
+ },
+ "inat": {
+  "id": 14005,
+  "observations": 4331
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 104100327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104100327/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104100327/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/64722068",
+    "place": "Aberdeen District, South Africa",
+    "date": "2019-01-27"
+   },
+   {
+    "id": 161236455,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161236455/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161236455/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/97002989",
+    "place": "Pontevedra, España",
+    "date": "2004-07-24"
+   },
+   {
+    "id": 121571517,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121571517/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121571517/large.jpg",
+    "attribution": "(c) Timothy Whitehead, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/74389480",
+    "place": "Overberg District Municipality, South Africa",
+    "date": "2021-04-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 15391462,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15391462/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15391462/large.jpg",
+    "attribution": "(c) Tony Rebelo, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/10944939",
+    "place": "Driehoek - camping site",
+    "date": "2013-11-24"
+   },
+   {
+    "id": 176459861,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176459861/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176459861/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/105201613",
+    "place": "Western District, South Africa",
+    "date": "2022-01-13"
+   },
+   {
+    "id": 573701429,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573701429/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573701429/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/317486496",
+    "place": "Dodoma Urban, Tanzania",
+    "date": "2025-09-28"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 782446,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/782446/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/782446/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/782446",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2493987,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "worldTotal": 427578,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 332926
+   },
+   {
+    "code": "NA",
+    "count": 22618
+   },
+   {
+    "code": "ZW",
+    "count": 19102
+   },
+   {
+    "code": "KE",
+    "count": 12299
+   },
+   {
+    "code": "BW",
+    "count": 9511
+   },
+   {
+    "code": "TZ",
+    "count": 5348
+   },
+   {
+    "code": "ZM",
+    "count": 4903
+   },
+   {
+    "code": "SN",
+    "count": 3828
+   },
+   {
+    "code": "UG",
+    "count": 3614
+   },
+   {
+    "code": "ET",
+    "count": 2670
+   },
+   {
+    "code": "GM",
+    "count": 2288
+   },
+   {
+    "code": "MZ",
+    "count": 1146
+   }
+  ]
+ },
+ "warnings": []
+}

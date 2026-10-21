@@ -1,0 +1,151 @@
+{
+ "key": "calidris-minuta",
+ "name": "Calidris minuta",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:26.767Z",
+ "names": {
+  "da": "Dværgryle",
+  "en": "Little Stint",
+  "accepted": "Calidris minuta"
+ },
+ "wikidata": {
+  "id": "Q27232"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværgryle",
+  "extract": "Dværgryle er en vadefugl, der er ret almindelig som trækgæst i Danmark. Omkring hvert tredje år ses de juvenile fugle særligt talrigt om efteråret. Den overvintrer fra det vestlige Middelhav til tropisk Vestafrika.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgryle"
+ },
+ "inat": {
+  "id": 3838,
+  "observations": 14640
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 578962694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/578962694/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/578962694/large.jpg",
+    "attribution": "(c) Juan Rodríguez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/320236027",
+    "place": "Toledo, España",
+    "date": "2025-10-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 602211977,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602211977/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602211977/large.jpg",
+    "attribution": "(c) Antoine Thivolle, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331905519",
+    "place": "Arles, France",
+    "date": "2024-08-24"
+   },
+   {
+    "id": 614001004,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001004/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001004/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/337734027",
+    "place": "Tacumshin",
+    "date": "2010-09-17"
+   },
+   {
+    "id": 569389006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569389006/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569389006/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/315201311",
+    "place": "Musselburgh Lagoons",
+    "date": "2025-09-14"
+   }
+  ],
+  "hero": {
+   "id": 578962694,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/578962694/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/578962694/large.jpg",
+   "attribution": "(c) Juan Rodríguez, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/320236027",
+   "place": "Toledo, España",
+   "date": "2025-10-11"
+  }
+ },
+ "gbif": {
+  "key": 2481749,
+  "dkTotal": 34268,
+  "dkMonths": [
+   3,
+   1,
+   0,
+   48,
+   3418,
+   587,
+   6616,
+   13095,
+   10376,
+   83,
+   25,
+   0
+  ],
+  "worldTotal": 617813,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 98942
+   },
+   {
+    "code": "IN",
+    "count": 62675
+   },
+   {
+    "code": "ES",
+    "count": 56149
+   },
+   {
+    "code": "ZA",
+    "count": 49427
+   },
+   {
+    "code": "DK",
+    "count": 34268
+   },
+   {
+    "code": "NO",
+    "count": 33570
+   },
+   {
+    "code": "FR",
+    "count": 33436
+   },
+   {
+    "code": "IL",
+    "count": 30118
+   },
+   {
+    "code": "GB",
+    "count": 26471
+   },
+   {
+    "code": "AE",
+    "count": 17909
+   },
+   {
+    "code": "PT",
+    "count": 16155
+   },
+   {
+    "code": "FI",
+    "count": 13135
+   }
+  ]
+ },
+ "warnings": []
+}

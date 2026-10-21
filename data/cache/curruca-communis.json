@@ -1,0 +1,202 @@
+{
+ "key": "curruca-communis",
+ "name": "Curruca communis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:42.302Z",
+ "names": {
+  "da": "Tornsanger",
+  "en": null,
+  "accepted": "Curruca communis"
+ },
+ "wikidata": {
+  "id": "Q110257516"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tornsanger",
+  "extract": "Tornsangeren er en 14 centimeter stor spurvefugl, der yngler i det meste af Europa og det vestlige Asien. Om vinteren trækker den sydpå til det tropiske Afrika, Arabien og Indien.",
+  "url": "https://da.wikipedia.org/wiki/Tornsanger"
+ },
+ "inat": {
+  "id": 1289470,
+  "observations": 40550
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 193151533,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151533/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151533/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/114383403",
+    "place": "95130 Le Plessis-Bouchard, France",
+    "date": "2022-05-01"
+   },
+   {
+    "id": 20297646,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20297646/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20297646/large.jpeg",
+    "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/13775116",
+    "place": "Armenia",
+    "date": "2018-06-24"
+   },
+   {
+    "id": 194684813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194684813/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194684813/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/115263629",
+    "place": "77680 Roissy-en-Brie, France",
+    "date": "2022-05-02"
+   }
+  ],
+  "female": [
+   {
+    "id": 3615967,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3615967/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3615967/large.JPG",
+    "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/3126031",
+    "place": "Armenia",
+    "date": "2016-05-08"
+   },
+   {
+    "id": 665333916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665333916/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665333916/large.jpg",
+    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/364457418",
+    "place": "Ide, Exeter EX2 9TW, UK",
+    "date": "2026-05-23"
+   },
+   {
+    "id": 737255224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/737255224/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/737255224/large.jpg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/401668766",
+    "place": "Basel-Wettstein, 4058 Basel, Switzerland",
+    "date": "2026-09-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 732948536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732948536/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732948536/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399488554",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-11"
+   },
+   {
+    "id": 566161017,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566161017/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566161017/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313507183",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2025-09-12"
+   },
+   {
+    "id": 254171404,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254171404/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254171404/large.jpeg",
+    "attribution": "(c) Anthony McDonald, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147684558",
+    "place": "Flamborough, East Riding of Yorkshire, UK",
+    "date": "2022-08-28"
+   }
+  ],
+  "hero": {
+   "id": 193151533,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151533/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151533/large.jpg",
+   "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/114383403",
+   "place": "95130 Le Plessis-Bouchard, France",
+   "date": "2022-05-01"
+  }
+ },
+ "gbif": {
+  "key": 2492943,
+  "dkTotal": 235042,
+  "dkMonths": [
+   0,
+   0,
+   4,
+   4311,
+   97242,
+   67862,
+   36093,
+   22189,
+   7179,
+   78,
+   9,
+   8
+  ],
+  "worldTotal": 2390000,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 460148
+   },
+   {
+    "code": "NL",
+    "count": 354798
+   },
+   {
+    "code": "FR",
+    "count": 284020
+   },
+   {
+    "code": "GB",
+    "count": 281917
+   },
+   {
+    "code": "DK",
+    "count": 235042
+   },
+   {
+    "code": "BE",
+    "count": 115016
+   },
+   {
+    "code": "FI",
+    "count": 106654
+   },
+   {
+    "code": "NO",
+    "count": 103665
+   },
+   {
+    "code": "ES",
+    "count": 97319
+   },
+   {
+    "code": "DE",
+    "count": 79262
+   },
+   {
+    "code": "RU",
+    "count": 34735
+   },
+   {
+    "code": "PL",
+    "count": 27294
+   }
+  ]
+ },
+ "warnings": []
+}

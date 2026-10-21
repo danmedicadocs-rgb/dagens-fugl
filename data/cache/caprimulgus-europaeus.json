@@ -1,0 +1,202 @@
+{
+ "key": "caprimulgus-europaeus",
+ "name": "Caprimulgus europaeus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:13:20.086Z",
+ "names": {
+  "da": "Natravn",
+  "en": "European Nightjar",
+  "accepted": "Caprimulgus europaeus"
+ },
+ "wikidata": {
+  "id": "Q26717"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Natravn",
+  "extract": "Natravn er en fugl i ordenen af natravne, der er udbredt i Europa, Nordafrika og dele af Asien. Den yngler f.eks. i skovlysninger eller på heder med spredt bevoksning, hvor den ligesom flagermus jager insekter i skumringen.",
+  "url": "https://da.wikipedia.org/wiki/Natravn"
+ },
+ "inat": {
+  "id": 19410,
+  "observations": 6269
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 134538592,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134538592/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134538592/large.jpeg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82002932",
+    "place": "Жамбылский район, Казахстан",
+    "date": "2021-05-11"
+   },
+   {
+    "id": 426714858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426714858/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426714858/large.jpeg",
+    "attribution": "(c) Dmitry Galitsyn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239575155",
+    "place": "RPXH+FP Екатеринбург, Свердловская область, Россия",
+    "date": "2024-07-08"
+   },
+   {
+    "id": 660965416,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660965416/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660965416/large.jpg",
+    "attribution": "(c) Jordi Casanovas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/362150573",
+    "place": "17486 Castelló d'Empúries, Girona, Espanya",
+    "date": "2026-05-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 253474887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253474887/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253474887/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147317538",
+    "place": "Челябинская обл., Россия, 456151",
+    "date": "2022-07-30"
+   },
+   {
+    "id": 398198348,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398198348/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398198348/large.jpeg",
+    "attribution": "(c) Hanna U., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224656163",
+    "place": "Reinometsa, Jõksi, 63110 Põlva maakond, Estonia",
+    "date": "2024-06-23"
+   },
+   {
+    "id": 518756373,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518756373/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518756373/large.jpg",
+    "attribution": "(c) Ljaž, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/288458522",
+    "place": "5296 Kostanjevica na Krasu, Slovenia",
+    "date": "2025-06-10"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 158474203,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158474203/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158474203/large.jpg",
+    "attribution": "(c) Paulo Martins, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/95457105",
+    "place": "Torres Novas, 2350, Portugal",
+    "date": "2021-09-19"
+   },
+   {
+    "id": 223001103,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223001103/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223001103/large.jpeg",
+    "attribution": "(c) Daniela Costa, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/131072878",
+    "place": null,
+    "date": "2022-08-16"
+   },
+   {
+    "id": 536675103,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536675103/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536675103/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/297971057",
+    "place": "Toses, Girona, Spain",
+    "date": "2025-07-10"
+   }
+  ],
+  "hero": {
+   "id": 134538592,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134538592/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134538592/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/82002932",
+   "place": "Жамбылский район, Казахстан",
+   "date": "2021-05-11"
+  }
+ },
+ "gbif": {
+  "key": 8109681,
+  "dkTotal": 16025,
+  "dkMonths": [
+   3,
+   0,
+   2,
+   29,
+   3944,
+   7523,
+   2963,
+   998,
+   353,
+   48,
+   1,
+   3
+  ],
+  "worldTotal": 297821,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 97300
+   },
+   {
+    "code": "FR",
+    "count": 45389
+   },
+   {
+    "code": "ES",
+    "count": 26232
+   },
+   {
+    "code": "GB",
+    "count": 16063
+   },
+   {
+    "code": "DK",
+    "count": 16025
+   },
+   {
+    "code": "NL",
+    "count": 14884
+   },
+   {
+    "code": "FI",
+    "count": 14805
+   },
+   {
+    "code": "NO",
+    "count": 14554
+   },
+   {
+    "code": "PT",
+    "count": 7200
+   },
+   {
+    "code": "BE",
+    "count": 6613
+   },
+   {
+    "code": "EE",
+    "count": 5691
+   },
+   {
+    "code": "ZA",
+    "count": 2947
+   }
+  ]
+ },
+ "warnings": []
+}

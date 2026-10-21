@@ -1,0 +1,172 @@
+{
+ "key": "leucophaeus-atricilla",
+ "name": "Leucophaeus atricilla",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:45:52.549Z",
+ "names": {
+  "da": "Lattermåge",
+  "en": "Laughing Gull",
+  "accepted": "Leucophaeus atricilla"
+ },
+ "wikidata": {
+  "id": "Q528764"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lattermåge",
+  "extract": "Lattermåge er en mågefugl, som er almindelig langs dele af Nordamerikas østkyst, og som kan forekomme som en sjælden gæst i bl.a. Vesteuropa. Det zoologiske artsnavn atricilla kommer fra de to latinske ord atra for sort og cilla for hale. Helt unge lattermåger har sorte halefjer.",
+  "url": "https://da.wikipedia.org/wiki/Latterm%C3%A5ge"
+ },
+ "inat": {
+  "id": 144514,
+  "observations": 103398
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 550041442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550041442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550041442/large.jpg",
+    "attribution": "(c) jonsense, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/305090303",
+    "place": "Northwest Washington, Washington, DC, USA",
+    "date": "2025-08-09"
+   },
+   {
+    "id": 254348108,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254348108/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254348108/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/147743938",
+    "place": "Zona Romántica, Emiliano Zapata, Puerto Vallarta, Jal., Mexico",
+    "date": "2023-01-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 140014234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140014234/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140014234/large.jpeg",
+    "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/85131716",
+    "place": "Port Aransas, TX, USA",
+    "date": "2021-06-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 126164054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126164054/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126164054/large.jpeg",
+    "attribution": "(c) Ricard Busquets Reverte, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/77153291",
+    "place": "Flores, Guatemala",
+    "date": "2021-03-15"
+   },
+   {
+    "id": 96810070,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96810070/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96810070/large.jpg",
+    "attribution": "(c) Tim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/60535341",
+    "place": "Absecon Island, Margate City, NJ, US",
+    "date": "2020-09-23"
+   },
+   {
+    "id": 4677735,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4677735/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4677735/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/3967573",
+    "place": "Somerville, MA, USA",
+    "date": "2016-08-24"
+   }
+  ],
+  "hero": {
+   "id": 550041442,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550041442/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550041442/large.jpg",
+   "attribution": "(c) jonsense, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/305090303",
+   "place": "Northwest Washington, Washington, DC, USA",
+   "date": "2025-08-09"
+  }
+ },
+ "gbif": {
+  "key": 6065844,
+  "dkTotal": 409,
+  "dkMonths": [
+   237,
+   0,
+   0,
+   0,
+   61,
+   9,
+   18,
+   19,
+   1,
+   3,
+   1,
+   59
+  ],
+  "worldTotal": 3230647,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2932666
+   },
+   {
+    "code": "MX",
+    "count": 90609
+   },
+   {
+    "code": "CR",
+    "count": 21704
+   },
+   {
+    "code": "BS",
+    "count": 19160
+   },
+   {
+    "code": "PA",
+    "count": 18904
+   },
+   {
+    "code": "BZ",
+    "count": 15822
+   },
+   {
+    "code": "CU",
+    "count": 15044
+   },
+   {
+    "code": "CO",
+    "count": 14623
+   },
+   {
+    "code": "PR",
+    "count": 8639
+   },
+   {
+    "code": "GT",
+    "count": 7894
+   },
+   {
+    "code": "HN",
+    "count": 6918
+   },
+   {
+    "code": "AW",
+    "count": 6309
+   }
+  ]
+ },
+ "warnings": []
+}

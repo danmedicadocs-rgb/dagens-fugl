@@ -1,0 +1,141 @@
+{
+ "key": "lymnocryptes-minimus",
+ "name": "Lymnocryptes minimus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:06:15.471Z",
+ "names": {
+  "da": "Enkeltbekkasin",
+  "en": "Jack Snipe",
+  "accepted": "Lymnocryptes minimus"
+ },
+ "wikidata": {
+  "id": "Q26711"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Enkeltbekkasin",
+  "extract": "Enkeltbekkasin er en vadefugl, der i Danmark er en temmelig almindelig trækgæst fra Fennoskandinavien. Den overvintrer i Vest- og Sydeuropa.",
+  "url": "https://da.wikipedia.org/wiki/Enkeltbekkasin"
+ },
+ "inat": {
+  "id": 3911,
+  "observations": 1670
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 748827873,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748827873/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748827873/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/407480991",
+    "place": "Rainham Marshes RSPB",
+    "date": "2026-10-10"
+   },
+   {
+    "id": 580659425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/580659425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/580659425/large.jpg",
+    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/321099194",
+    "place": "The New House, Higher Town, Isles of Scilly TR25 0QL, UK",
+    "date": "2025-10-15"
+   },
+   {
+    "id": 601706075,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601706075/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601706075/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/331656577",
+    "place": "Lugasu De Jos, Bihor, RO",
+    "date": "2025-12-22"
+   }
+  ],
+  "hero": {
+   "id": 748827873,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748827873/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748827873/large.jpg",
+   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/407480991",
+   "place": "Rainham Marshes RSPB",
+   "date": "2026-10-10"
+  }
+ },
+ "gbif": {
+  "key": 2481835,
+  "dkTotal": 11145,
+  "dkMonths": [
+   1126,
+   885,
+   838,
+   1266,
+   165,
+   10,
+   0,
+   20,
+   913,
+   3714,
+   1491,
+   699
+  ],
+  "worldTotal": 179197,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 56247
+   },
+   {
+    "code": "GB",
+    "count": 21890
+   },
+   {
+    "code": "NO",
+    "count": 15260
+   },
+   {
+    "code": "NL",
+    "count": 15123
+   },
+   {
+    "code": "FR",
+    "count": 12380
+   },
+   {
+    "code": "DK",
+    "count": 11145
+   },
+   {
+    "code": "BE",
+    "count": 7826
+   },
+   {
+    "code": "FI",
+    "count": 7755
+   },
+   {
+    "code": "ES",
+    "count": 5911
+   },
+   {
+    "code": "PL",
+    "count": 3935
+   },
+   {
+    "code": "DE",
+    "count": 3928
+   },
+   {
+    "code": "IL",
+    "count": 2444
+   }
+  ]
+ },
+ "warnings": []
+}

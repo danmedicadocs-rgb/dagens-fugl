@@ -1,0 +1,162 @@
+{
+ "key": "haematopus-ostralegus",
+ "name": "Haematopus ostralegus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:04:07.174Z",
+ "names": {
+  "da": "Strandskade",
+  "en": "Eurasian Oystercatcher",
+  "accepted": "Haematopus ostralegus"
+ },
+ "wikidata": {
+  "id": "Q25928"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Strandskade",
+  "extract": "Strandskaden er en vadefugl med en karakteristisk sort og hvid fjerdragt og røde ben og næb. Fuglen yngler i adskilte områder fra Vesteuropa til Østasien samt på New Zealand. I Danmark er den almindelig langs kysterne, men findes også ved åer og søer i indlandet samt på flade hustage i byerne. Et stort antal strandskader overvintrer i Vadehavet. Strandskaden er nationalfugl på Færøerne, hvor den kaldes Tjaldur.",
+  "url": "https://da.wikipedia.org/wiki/Strandskade"
+ },
+ "inat": {
+  "id": 4843,
+  "observations": 48950
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 547069639,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/large.jpg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/303519462",
+    "place": "Glenelg, Kyle IV40 8JR, UK",
+    "date": "2025-08-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 691439378,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691439378/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691439378/large.jpg",
+    "attribution": "(c) Vi Murphy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/378075570",
+    "place": "St Helier, Jersey",
+    "date": "2026-07-04"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 695117451,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695117451/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695117451/large.jpg",
+    "attribution": "(c) Олеся, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/379538351",
+    "place": "Vyborgskiy rayon, RU-LN, RU",
+    "date": "2026-07-08"
+   },
+   {
+    "id": 656179436,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656179436/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656179436/large.jpg",
+    "attribution": "(c) Maisie Henderson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/359633595",
+    "place": "North Ayrshire, Scotland, GB",
+    "date": "2026-05-08"
+   },
+   {
+    "id": 99571165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/99571165/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/99571165/large.jpg",
+    "attribution": "(c) Ian Adams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/62167617",
+    "place": "Argyll and Bute Council, UK",
+    "date": "2017-07-07"
+   }
+  ],
+  "hero": {
+   "id": 547069639,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/large.jpg",
+   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/303519462",
+   "place": "Glenelg, Kyle IV40 8JR, UK",
+   "date": "2025-08-03"
+  }
+ },
+ "gbif": {
+  "key": 7788295,
+  "dkTotal": 395330,
+  "dkMonths": [
+   13718,
+   18928,
+   53980,
+   62643,
+   57430,
+   38303,
+   53423,
+   42080,
+   22281,
+   15547,
+   9127,
+   7787
+  ],
+  "worldTotal": 3955815,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 1551808
+   },
+   {
+    "code": "GB",
+    "count": 520109
+   },
+   {
+    "code": "SE",
+    "count": 517329
+   },
+   {
+    "code": "NO",
+    "count": 445741
+   },
+   {
+    "code": "DK",
+    "count": 395330
+   },
+   {
+    "code": "BE",
+    "count": 125693
+   },
+   {
+    "code": "FR",
+    "count": 59828
+   },
+   {
+    "code": "DE",
+    "count": 59278
+   },
+   {
+    "code": "IS",
+    "count": 39426
+   },
+   {
+    "code": "IE",
+    "count": 37780
+   },
+   {
+    "code": "ES",
+    "count": 33107
+   },
+   {
+    "code": "FI",
+    "count": 29731
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "dendrocoptes-medius",
+ "name": "Dendrocoptes medius",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:14:22.280Z",
+ "names": {
+  "da": "Mellemflagspætte",
+  "en": "Middle Spotted Woodpecker",
+  "accepted": "Dendrocoptes medius"
+ },
+ "wikidata": {
+  "id": "Q275591"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Mellemflagspætte",
+  "extract": "Mellemflagspætten er en spætteart, der lever i Europa og det vestlige Asien. Arten er knyttet til gamle lyse egeskove.",
+  "url": "https://da.wikipedia.org/wiki/Mellemflagsp%C3%A6tte"
+ },
+ "inat": {
+  "id": 792985,
+  "observations": 14729
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 344507595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/large.jpg",
+    "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195776638",
+    "place": "Новомосковский Адм. округ, Москва, Россия",
+    "date": "2024-01-04"
+   },
+   {
+    "id": 261317123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261317123/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261317123/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/151448857",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-03-16"
+   },
+   {
+    "id": 346876967,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346876967/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346876967/large.jpeg",
+    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197009701",
+    "place": "74560 Monnetier-Mornex, France",
+    "date": "2023-12-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 289088099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289088099/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289088099/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/166916456",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 289097541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097541/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097541/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/166921389",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 289099617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289099617/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289099617/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/166922504",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-06-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 289097642,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097642/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097642/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/166921493",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 530262166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530262166/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530262166/large.jpg",
+    "attribution": "(c) Михаил Малышев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/294595498",
+    "place": "Ленинский р-н, Владимир, Владимирская обл., Россия",
+    "date": "2025-06-26"
+   },
+   {
+    "id": 361755128,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361755128/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361755128/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/204650694",
+    "place": "San Giovanni",
+    "date": "2024-03-30"
+   }
+  ],
+  "hero": {
+   "id": 344507595,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/large.jpg",
+   "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/195776638",
+   "place": "Новомосковский Адм. округ, Москва, Россия",
+   "date": "2024-01-04"
+  }
+ },
+ "gbif": {
+  "key": 8773033,
+  "dkTotal": 2029,
+  "dkMonths": [
+   315,
+   491,
+   455,
+   257,
+   94,
+   25,
+   10,
+   9,
+   5,
+   11,
+   59,
+   287
+  ],
+  "worldTotal": 284816,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 78858
+   },
+   {
+    "code": "NL",
+    "count": 75906
+   },
+   {
+    "code": "DE",
+    "count": 42674
+   },
+   {
+    "code": "RU",
+    "count": 10822
+   },
+   {
+    "code": "BE",
+    "count": 10101
+   },
+   {
+    "code": "PL",
+    "count": 8383
+   },
+   {
+    "code": "EE",
+    "count": 6633
+   },
+   {
+    "code": "CZ",
+    "count": 6093
+   },
+   {
+    "code": "ES",
+    "count": 4761
+   },
+   {
+    "code": "GR",
+    "count": 3850
+   },
+   {
+    "code": "UA",
+    "count": 3601
+   },
+   {
+    "code": "TR",
+    "count": 3568
+   }
+  ]
+ },
+ "warnings": []
+}

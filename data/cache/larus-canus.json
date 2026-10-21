@@ -1,0 +1,182 @@
+{
+ "key": "larus-canus",
+ "name": "Larus canus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:24.528Z",
+ "names": {
+  "da": "Stormmåge",
+  "en": "Common Gull",
+  "accepted": "Larus canus"
+ },
+ "wikidata": {
+  "id": "Q26427"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stormmåge",
+  "extract": "Stormmåge er en mågefugl, der er udbredt i det nordlige Europa og Asien. Den er en almindelig dansk ynglefugl, der yngler i kolonier på øer og holme ved de danske kyster samt enkelte steder i indlandet ved søer og moser. Arten er desuden en meget almindelig træk- og vintergæst nordfra. I størrelse ligger den mellem de to andre almindelige mågearter i Danmark: hættemågen og sølvmågen.",
+  "url": "https://da.wikipedia.org/wiki/Stormm%C3%A5ge"
+ },
+ "inat": {
+  "id": 4356,
+  "observations": 47943
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 729672082,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/large.jpg",
+    "attribution": "(c) Vladimir Mishonov, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/397812924",
+    "place": "Pieršamajski rajon, Viciebsk, Viciebskaja voblasć, Belarus",
+    "date": "2026-09-06"
+   },
+   {
+    "id": 278960559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278960559/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278960559/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/161390834",
+    "place": "г. Карпинск, Свердловская обл., Россия",
+    "date": "2023-05-13"
+   },
+   {
+    "id": 523512549,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523512549/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523512549/large.jpg",
+    "attribution": "(c) humon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/290989801",
+    "place": "Shetland Islands, Scotland, GB",
+    "date": "2024-06-22"
+   }
+  ],
+  "female": [
+   {
+    "id": 658763162,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658763162/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658763162/large.jpg",
+    "attribution": "(c) Олеся, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/360989603",
+    "place": "Vyborgskiy rayon, RU-LN, RU",
+    "date": "2026-05-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 584367522,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/584367522/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/584367522/large.jpg",
+    "attribution": "(c) Ilkka Tuunainen, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/322980478",
+    "place": "57130 Savonlinna, Suomi",
+    "date": "2025-07-12"
+   },
+   {
+    "id": 345853746,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345853746/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345853746/large.jpeg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196442037",
+    "place": "Algeria",
+    "date": "2024-01-11"
+   },
+   {
+    "id": 673778379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673778379/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673778379/large.jpg",
+    "attribution": "(c) Ксения Витвицкая, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/368879499",
+    "place": "Зеленоградский административный округ, Москва, Россия",
+    "date": "2026-05-31"
+   }
+  ],
+  "hero": {
+   "id": 729672082,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/large.jpg",
+   "attribution": "(c) Vladimir Mishonov, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/397812924",
+   "place": "Pieršamajski rajon, Viciebsk, Viciebskaja voblasć, Belarus",
+   "date": "2026-09-06"
+  }
+ },
+ "gbif": {
+  "key": 7982160,
+  "dkTotal": 444380,
+  "dkMonths": [
+   53097,
+   43878,
+   52434,
+   42314,
+   32066,
+   39152,
+   30761,
+   28984,
+   27447,
+   30804,
+   27071,
+   33235
+  ],
+  "worldTotal": 3412765,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 964735
+   },
+   {
+    "code": "NO",
+    "count": 625982
+   },
+   {
+    "code": "DK",
+    "count": 444380
+   },
+   {
+    "code": "GB",
+    "count": 387953
+   },
+   {
+    "code": "FI",
+    "count": 260809
+   },
+   {
+    "code": "NL",
+    "count": 205024
+   },
+   {
+    "code": "BE",
+    "count": 105934
+   },
+   {
+    "code": "DE",
+    "count": 90849
+   },
+   {
+    "code": "RU",
+    "count": 58725
+   },
+   {
+    "code": "EE",
+    "count": 44671
+   },
+   {
+    "code": "FR",
+    "count": 43908
+   },
+   {
+    "code": "PL",
+    "count": 26577
+   }
+  ]
+ },
+ "warnings": []
+}

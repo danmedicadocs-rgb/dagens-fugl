@@ -1,0 +1,171 @@
+{
+ "key": "pharomachrus-mocinno",
+ "name": "Pharomachrus mocinno",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:48:01.086Z",
+ "names": {
+  "da": "Quetzal",
+  "en": "Resplendent Quetzal",
+  "accepted": "Pharomachrus mocinno"
+ },
+ "wikidata": {
+  "id": "Q459267"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Resplendent quetzal",
+  "extract": "The resplendent quetzal is a small bird found in Central America and southern Mexico that lives in tropical forests, particularly montane cloud forests. They are part of the family Trogonidae and have two recognized subspecies, P. m. mocinno and P. m. costaricensis. Like other quetzals, the resplendent is mostly omnivorous; its diet mainly consists of fruits of plants in the laurel family, Lauraceae, but it occasionally also preys on insects, lizards, frogs and snails.",
+  "url": "https://en.wikipedia.org/wiki/Resplendent_quetzal"
+ },
+ "inat": {
+  "id": 20856,
+  "observations": 4780
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 111321224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111321224/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111321224/large.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68706945",
+    "place": "Costa Rica",
+    "date": "2018-11-15"
+   },
+   {
+    "id": 175739925,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175739925/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175739925/large.jpg",
+    "attribution": "(c) Paul Hoekman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104830643",
+    "place": "Nicaragua",
+    "date": "2005-03-26"
+   },
+   {
+    "id": 616801465,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616801465/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616801465/large.jpg",
+    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/339104270",
+    "place": null,
+    "date": "2026-02-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 6797801,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6797801/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6797801/large.jpeg",
+    "attribution": "(c) melimez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/5512711",
+    "place": "San José, CR",
+    "date": "2015-05-17"
+   },
+   {
+    "id": 174350382,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174350382/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174350382/large.jpg",
+    "attribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104079437",
+    "place": "San José, CR",
+    "date": "2021-11-24"
+   },
+   {
+    "id": 27664159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27664159/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27664159/large.jpeg",
+    "attribution": "(c) Dan Riley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18094373",
+    "place": "Costa Rica",
+    "date": "2008-07-21"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 111321224,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111321224/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111321224/large.jpg",
+   "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/68706945",
+   "place": "Costa Rica",
+   "date": "2018-11-15"
+  }
+ },
+ "gbif": {
+  "key": 2496723,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 54656,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 39444
+   },
+   {
+    "code": "PA",
+    "count": 5083
+   },
+   {
+    "code": "GT",
+    "count": 4755
+   },
+   {
+    "code": "MX",
+    "count": 2391
+   },
+   {
+    "code": "HN",
+    "count": 2004
+   },
+   {
+    "code": "NI",
+    "count": 477
+   },
+   {
+    "code": "SV",
+    "count": 140
+   },
+   {
+    "code": "ZZ",
+    "count": 27
+   },
+   {
+    "code": "US",
+    "count": 25
+   },
+   {
+    "code": "CO",
+    "count": 19
+   },
+   {
+    "code": "VE",
+    "count": 15
+   },
+   {
+    "code": "EC",
+    "count": 11
+   }
+  ]
+ },
+ "warnings": []
+}

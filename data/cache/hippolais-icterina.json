@@ -1,0 +1,140 @@
+{
+ "key": "hippolais-icterina",
+ "name": "Hippolais icterina",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:41.466Z",
+ "names": {
+  "da": "Gulbug",
+  "en": null,
+  "accepted": "Hippolais icterina"
+ },
+ "wikidata": {
+  "id": "Q27674"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gulbug",
+  "extract": "Gulbugen er en sanger af spurvefugle. Den når en længde på 13 cm. Den yngler i store dele af Europa, mens den trækker til Afrika syd for Sahara. Gulbugen lever hovedsageligt i løv- og blandingsskove, sommerhusområder, ældre haver og parker. Da den foretrækker tæt vegetation, ses den sjældent, men kan dog observeres i svirreflugt under jagt på føde eller enkelte gange i toppen af større træer. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Gulbug"
+ },
+ "inat": {
+  "id": 116918,
+  "observations": 5799
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 135677348,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/large.jpg",
+    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82652328",
+    "place": "Парк Лесотехнической академии, Санкт-Петербург, Россия",
+    "date": "2021-06-11"
+   },
+   {
+    "id": 201233808,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201233808/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201233808/large.jpeg",
+    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/118740815",
+    "place": "Железнодорожный р-н, Екатеринбург, Свердловская обл., Россия",
+    "date": "2022-05-26"
+   },
+   {
+    "id": 281100092,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281100092/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281100092/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/162564821",
+    "place": "Leibnitz, Österreich",
+    "date": "2023-05-18"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 135677348,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/large.jpg",
+   "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/82652328",
+   "place": "Парк Лесотехнической академии, Санкт-Петербург, Россия",
+   "date": "2021-06-11"
+  }
+ },
+ "gbif": {
+  "key": 2493220,
+  "dkTotal": 74381,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   4,
+   31192,
+   28733,
+   9058,
+   5012,
+   317,
+   1,
+   0,
+   2
+  ],
+  "worldTotal": 524913,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 229552
+   },
+   {
+    "code": "DK",
+    "count": 74381
+   },
+   {
+    "code": "NL",
+    "count": 47360
+   },
+   {
+    "code": "NO",
+    "count": 44076
+   },
+   {
+    "code": "BE",
+    "count": 23788
+   },
+   {
+    "code": "DE",
+    "count": 18377
+   },
+   {
+    "code": "FI",
+    "count": 14148
+   },
+   {
+    "code": "PL",
+    "count": 12097
+   },
+   {
+    "code": "EE",
+    "count": 9707
+   },
+   {
+    "code": "RU",
+    "count": 8741
+   },
+   {
+    "code": "FR",
+    "count": 7621
+   },
+   {
+    "code": "CZ",
+    "count": 5460
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,161 @@
+{
+ "key": "poecile-palustris",
+ "name": "Poecile palustris",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:16:28.644Z",
+ "names": {
+  "da": "Sumpmejse",
+  "en": "Marsh Tit",
+  "accepted": "Poecile palustris"
+ },
+ "wikidata": {
+  "id": "Q207838"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sumpmejse",
+  "extract": "Sumpmejsen er en 11,5 cm lang fugl, der er almindelig som standfugl i fugtige løvskove i de fleste dele af Danmark. Den bliver også kaldt gråmejse.",
+  "url": "https://da.wikipedia.org/wiki/Sumpmejse"
+ },
+ "inat": {
+  "id": 144809,
+  "observations": 27990
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 116667412,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71639853",
+    "place": "Saint-Cloud, Hauts-de-Seine, Île-de-France, FR",
+    "date": "2021-03-20"
+   },
+   {
+    "id": 179019478,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179019478/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179019478/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/106554506",
+    "place": "Botkyrka S, Sverige",
+    "date": "2022-02-11"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 18594803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/18594803/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/18594803/large.jpg",
+    "attribution": "(c) Dr. Nasser Halaweh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/12820201",
+    "place": "Nord, Hannover, Deutschland",
+    "date": "2017-05-24"
+   },
+   {
+    "id": 708348618,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/708348618/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/708348618/large.jpg",
+    "attribution": "(c) joy russell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/386862706",
+    "place": "Somerset, UK",
+    "date": "2026-06-27"
+   },
+   {
+    "id": 201073422,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201073422/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201073422/large.jpeg",
+    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/118973637",
+    "place": "Корсаков",
+    "date": "2022-05-26"
+   }
+  ],
+  "hero": {
+   "id": 116667412,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/71639853",
+   "place": "Saint-Cloud, Hauts-de-Seine, Île-de-France, FR",
+   "date": "2021-03-20"
+  }
+ },
+ "gbif": {
+  "key": 2487843,
+  "dkTotal": 162585,
+  "dkMonths": [
+   23241,
+   19675,
+   24330,
+   19217,
+   9338,
+   5630,
+   5747,
+   8382,
+   9449,
+   10907,
+   12340,
+   14282
+  ],
+  "worldTotal": 1531292,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 451720
+   },
+   {
+    "code": "FR",
+    "count": 290922
+   },
+   {
+    "code": "DE",
+    "count": 165645
+   },
+   {
+    "code": "DK",
+    "count": 162585
+   },
+   {
+    "code": "NO",
+    "count": 94921
+   },
+   {
+    "code": "GB",
+    "count": 77345
+   },
+   {
+    "code": "KR",
+    "count": 34665
+   },
+   {
+    "code": "NL",
+    "count": 24708
+   },
+   {
+    "code": "IT",
+    "count": 23376
+   },
+   {
+    "code": "PL",
+    "count": 19735
+   },
+   {
+    "code": "EE",
+    "count": 18773
+   },
+   {
+    "code": "BE",
+    "count": 18265
+   }
+  ]
+ },
+ "warnings": []
+}

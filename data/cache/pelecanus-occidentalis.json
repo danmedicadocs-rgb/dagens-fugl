@@ -1,0 +1,202 @@
+{
+ "key": "pelecanus-occidentalis",
+ "name": "Pelecanus occidentalis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:44:16.251Z",
+ "names": {
+  "da": "Brun Pelikan",
+  "en": "Brown pelican",
+  "accepted": "Pelecanus occidentalis"
+ },
+ "wikidata": {
+  "id": "Q208714"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Brown pelican",
+  "extract": "The brown pelican is a bird of the pelican family, Pelecanidae, one of three species found in the Americas and one of two that feed by diving into water. It is found on the Atlantic Coast from New Jersey to the mouth of the Amazon River, and along the Pacific Coast from British Columbia to Peru, including the Galapagos Islands. The nominate subspecies in its breeding plumage has a white head with a yellowish wash on the crown. The nape and neck are dark maroon–brown. The upper sides of the neck have white lines along the base of the gular pouch, and the lower fore neck has a pale yellowish patch. The male and female are similar, but the female is slightly smaller. The nonbreeding adult has a white head and neck. The pink skin around the eyes becomes dull and gray in the nonbreeding season. It lacks any red hue, and the pouch is strongly olivaceous ochre-tinged and the legs are olivaceous gray to blackish-gray.",
+  "url": "https://en.wikipedia.org/wiki/Brown_pelican"
+ },
+ "inat": {
+  "id": 4328,
+  "observations": 150217
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 179753525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179753525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179753525/large.jpg",
+    "attribution": "(c) Henrik Kibak, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106936959",
+    "place": "Coast Blvd, San Diego, CA, US",
+    "date": "2022-02-15"
+   },
+   {
+    "id": 346269912,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346269912/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346269912/large.jpg",
+    "attribution": "(c) Charla, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196711328",
+    "place": "San Diego County, US-CA, US",
+    "date": "2024-01-14"
+   },
+   {
+    "id": 201970596,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201970596/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201970596/large.jpeg",
+    "attribution": "(c) Charla, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/119476295",
+    "place": "Malibu, CA, USA",
+    "date": "2022-05-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 629638580,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/629638580/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/629638580/large.jpg",
+    "attribution": "(c) Jose Luis Leon de la Luz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/345492900",
+    "place": "La Paz, B.C.S., México",
+    "date": "2026-03-26"
+   },
+   {
+    "id": 178362834,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178362834/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178362834/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/106200586",
+    "place": "Windsor Forest, Savannah, GA, USA",
+    "date": "2022-02-05"
+   },
+   {
+    "id": 470167947,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470167947/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470167947/large.jpg",
+    "attribution": "(c) Raúl A. Ruiz M., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261679686",
+    "place": "Puerto Baquerizo Moreno, Ecuador",
+    "date": "2023-08-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 175212698,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175212698/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175212698/large.jpg",
+    "attribution": "(c) James Muehlner, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/104552014",
+    "place": "Baker Beach, San Francisco, CA, USA",
+    "date": "2022-01-07"
+   },
+   {
+    "id": 396173245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/396173245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/396173245/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/223581813",
+    "place": "Homestead, FL, US",
+    "date": "2024-06-18"
+   },
+   {
+    "id": 495401620,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/495401620/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/495401620/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/275431995",
+    "place": "17 Mile Dr, Pebble Beach, CA, US",
+    "date": "2025-04-27"
+   }
+  ],
+  "hero": {
+   "id": 179753525,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179753525/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179753525/large.jpg",
+   "attribution": "(c) Henrik Kibak, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/106936959",
+   "place": "Coast Blvd, San Diego, CA, US",
+   "date": "2022-02-15"
+  }
+ },
+ "gbif": {
+  "key": 5229158,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 2922631,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2371497
+   },
+   {
+    "code": "MX",
+    "count": 162295
+   },
+   {
+    "code": "CR",
+    "count": 68406
+   },
+   {
+    "code": "EC",
+    "count": 46274
+   },
+   {
+    "code": "PR",
+    "count": 41449
+   },
+   {
+    "code": "PA",
+    "count": 38148
+   },
+   {
+    "code": "CO",
+    "count": 29061
+   },
+   {
+    "code": "BZ",
+    "count": 28536
+   },
+   {
+    "code": "CU",
+    "count": 17666
+   },
+   {
+    "code": "VE",
+    "count": 11600
+   },
+   {
+    "code": "HN",
+    "count": 11203
+   },
+   {
+    "code": "AW",
+    "count": 9082
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,151 @@
+{
+ "key": "nucifraga-caryocatactes",
+ "name": "Nucifraga caryocatactes",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:15:12.944Z",
+ "names": {
+  "da": "Nøddekrige",
+  "en": "Northern Nutcracker",
+  "accepted": "Nucifraga caryocatactes"
+ },
+ "wikidata": {
+  "id": "Q184820"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Nøddekrige",
+  "extract": "Nøddekrigen er en kragefugl på størrelse med Skovskaden. Den yngler i områder med nåleskov i det sydlige Norge og Sverige, i Centraleuropa, i det nordlige Rusland og Sibirien til Stillehavskysten, i Japan og i et område ned gennem Kina til Himalaya. Fuglen er en sjælden træk- og vintergæst i Danmark. På den danske rødliste 2019 angives at den som uddød som ynglefugl i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/N%C3%B8ddekrige"
+ },
+ "inat": {
+  "id": 204552,
+  "observations": 10804
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 149627042,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149627042/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149627042/large.jpeg",
+    "attribution": "(c) Isabella Paleari, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/90524832",
+    "place": "Introd",
+    "date": "2021-08-01"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 144943994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144943994/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144943994/large.jpg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/87886168",
+    "place": "Davos, Switzerland",
+    "date": "2021-07-17"
+   },
+   {
+    "id": 87164187,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87164187/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87164187/large.jpeg",
+    "attribution": "(c) E. A., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/54746169",
+    "place": "Seckau, 8732, Österreich",
+    "date": "2020-07-29"
+   },
+   {
+    "id": 210766988,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210766988/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210766988/large.jpeg",
+    "attribution": "(c) Tatiana Strus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/124352149",
+    "place": "Ханты-Мансийск, Ханты-Мансийский автономный округ, Россия",
+    "date": "2022-07-02"
+   }
+  ],
+  "hero": {
+   "id": 28580558,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28580558/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28580558/large.jpg",
+   "attribution": "(c) Alpsdake, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/28580558",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2482613,
+  "dkTotal": 4920,
+  "dkMonths": [
+   310,
+   356,
+   192,
+   148,
+   93,
+   98,
+   174,
+   281,
+   1036,
+   1276,
+   694,
+   210
+  ],
+  "worldTotal": 364500,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 166038
+   },
+   {
+    "code": "NO",
+    "count": 55273
+   },
+   {
+    "code": "FI",
+    "count": 29740
+   },
+   {
+    "code": "FR",
+    "count": 28822
+   },
+   {
+    "code": "AT",
+    "count": 15243
+   },
+   {
+    "code": "CH",
+    "count": 10383
+   },
+   {
+    "code": "RU",
+    "count": 8770
+   },
+   {
+    "code": "EE",
+    "count": 8331
+   },
+   {
+    "code": "IT",
+    "count": 8042
+   },
+   {
+    "code": "DE",
+    "count": 5626
+   },
+   {
+    "code": "DK",
+    "count": 4920
+   },
+   {
+    "code": "NL",
+    "count": 4079
+   }
+  ]
+ },
+ "warnings": []
+}

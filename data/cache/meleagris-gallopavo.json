@@ -1,0 +1,202 @@
+{
+ "key": "meleagris-gallopavo",
+ "name": "Meleagris gallopavo",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:41:35.489Z",
+ "names": {
+  "da": "Kalkun",
+  "en": "Wild Turkey",
+  "accepted": "Meleagris gallopavo"
+ },
+ "wikidata": {
+  "id": "Q26844"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Wild turkey",
+  "extract": "The wild turkey is an upland game bird native to North America, one of two extant species of turkey and the heaviest member of the order Galliformes. It is the ancestor to the domestic turkey, which was originally derived from a southern Mexican subspecies of wild turkey.",
+  "url": "https://en.wikipedia.org/wiki/Wild_turkey"
+ },
+ "inat": {
+  "id": 906,
+  "observations": 204001
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 273311243,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273311243/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273311243/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/158122427",
+    "place": "Southcrest, London, ON, CA",
+    "date": "2023-04-30"
+   },
+   {
+    "id": 331816513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331816513/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331816513/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/189419166",
+    "place": "Woodridge Ct, Salinas, CA, US",
+    "date": "2023-10-29"
+   },
+   {
+    "id": 569776964,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569776964/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569776964/large.jpg",
+    "attribution": "(c) Dan Vickers, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/315409217",
+    "place": "27WP+66F, Rye, NH, USA",
+    "date": "2023-05-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 540963198,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540963198/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540963198/large.jpg",
+    "attribution": "(c) Zac Justus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/300245140",
+    "place": "Sugarcreek Township, OH, USA",
+    "date": "2025-07-22"
+   },
+   {
+    "id": 531982449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531982449/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531982449/large.jpg",
+    "attribution": "(c) DiegoH, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295508018",
+    "place": "Cochise County, AZ, USA",
+    "date": "2025-07-01"
+   },
+   {
+    "id": 174409272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174409272/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174409272/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/104111019",
+    "place": "Fort Washington, MD, USA",
+    "date": "2020-01-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 28421460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28421460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28421460/large.jpg",
+    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18574861",
+    "place": "Chesapeake, VA, USA",
+    "date": "2016-07-06"
+   },
+   {
+    "id": 288752660,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288752660/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288752660/large.jpeg",
+    "attribution": "(c) Cody Stricker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/166728982",
+    "place": "Comal County, TX, USA",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 204887517,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204887517/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204887517/large.jpg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/121097734",
+    "place": "Wenonah, NJ 08090, USA",
+    "date": "2022-06-03"
+   }
+  ],
+  "hero": {
+   "id": 273311243,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273311243/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273311243/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/158122427",
+   "place": "Southcrest, London, ON, CA",
+   "date": "2023-04-30"
+  }
+ },
+ "gbif": {
+  "key": 9606290,
+  "dkTotal": 43,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   3,
+   1,
+   0,
+   30,
+   0
+  ],
+  "worldTotal": 2849158,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2522132
+   },
+   {
+    "code": "CA",
+    "count": 312017
+   },
+   {
+    "code": "NZ",
+    "count": 7210
+   },
+   {
+    "code": "MX",
+    "count": 3150
+   },
+   {
+    "code": "AU",
+    "count": 805
+   },
+   {
+    "code": "NC",
+    "count": 305
+   },
+   {
+    "code": "CU",
+    "count": 224
+   },
+   {
+    "code": "NL",
+    "count": 211
+   },
+   {
+    "code": "CO",
+    "count": 198
+   },
+   {
+    "code": "FR",
+    "count": 112
+   },
+   {
+    "code": "DO",
+    "count": 95
+   },
+   {
+    "code": "DE",
+    "count": 86
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,141 @@
+{
+ "key": "cecropis-daurica",
+ "name": "Cecropis daurica",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:31.272Z",
+ "names": {
+  "da": "Rødrygget Svale",
+  "en": "Eastern Red-rumped Swallow",
+  "accepted": "Cecropis daurica"
+ },
+ "wikidata": {
+  "id": "Q27075446"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eastern red-rumped swallow",
+  "extract": "The eastern red-rumped swallow is a small passerine bird in the swallow family Hirundinidae. It is found in open, often hilly, areas with clearings and cultivation across eastern and southeastern Asia to north-eastern India and Taiwan.",
+  "url": "https://en.wikipedia.org/wiki/Eastern_red-rumped_swallow"
+ },
+ "inat": {
+  "id": 144792,
+  "observations": 9254
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 149373034,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/large.jpeg",
+    "attribution": "(c) 雲一百香果, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/90382407",
+    "place": "台灣雲林縣",
+    "date": "2021-08-07"
+   },
+   {
+    "id": 110186284,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110186284/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110186284/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68100245",
+    "place": "Русский, Приморский край, Россия",
+    "date": "2017-05-24"
+   },
+   {
+    "id": 529133943,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529133943/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529133943/large.jpg",
+    "attribution": "(c) Ashwin A, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/293990280",
+    "place": "Malampuzha Dam",
+    "date": "2025-06-29"
+   }
+  ],
+  "hero": {
+   "id": 149373034,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/large.jpeg",
+   "attribution": "(c) 雲一百香果, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/90382407",
+   "place": "台灣雲林縣",
+   "date": "2021-08-07"
+  }
+ },
+ "gbif": {
+  "key": 9717283,
+  "dkTotal": 29,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   28,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 494977,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 255116
+   },
+   {
+    "code": "TW",
+    "count": 129283
+   },
+   {
+    "code": "CN",
+    "count": 23717
+   },
+   {
+    "code": "TH",
+    "count": 19806
+   },
+   {
+    "code": "ES",
+    "count": 14217
+   },
+   {
+    "code": "FR",
+    "count": 6601
+   },
+   {
+    "code": "NP",
+    "count": 6328
+   },
+   {
+    "code": "ID",
+    "count": 4173
+   },
+   {
+    "code": "JP",
+    "count": 3801
+   },
+   {
+    "code": "PT",
+    "count": 3675
+   },
+   {
+    "code": "KH",
+    "count": 3466
+   },
+   {
+    "code": "PH",
+    "count": 3245
+   }
+  ]
+ },
+ "warnings": []
+}

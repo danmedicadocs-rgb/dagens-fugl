@@ -1,0 +1,141 @@
+{
+ "key": "gelochelidon-nilotica",
+ "name": "Gelochelidon nilotica",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:11.418Z",
+ "names": {
+  "da": "Sandterne",
+  "en": "Gull-billed Tern",
+  "accepted": "Gelochelidon nilotica"
+ },
+ "wikidata": {
+  "id": "Q18834"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sandterne",
+  "extract": "Sandternen er en fugleart i terneslægten Gelochelidon, hvor den er eneste art. Den lever spredt over alle kontinenter, bortset fra Antarktis. I Europa findes den største bestand i Spanien. Arten har et vingefang på op til 110 centimeter. Den er kraftigt bygget og mågelignende med lange ben og fanger mest sin føde på jorden, ikke ved at styrtdykke efter fisk som mange andre terner.",
+  "url": "https://da.wikipedia.org/wiki/Sandterne"
+ },
+ "inat": {
+  "id": 144536,
+  "observations": 11213
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 342060675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/large.jpeg",
+    "attribution": "(c) Tristan Jobin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/194575834",
+    "place": "Pak Tale, Ban Laem District, Phetchaburi, Thailand",
+    "date": "2023-11-28"
+   },
+   {
+    "id": 303269368,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303269368/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303269368/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/174561519",
+    "place": "Chambers County, TX, USA",
+    "date": "2023-07-22"
+   },
+   {
+    "id": 202700796,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202700796/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202700796/large.jpg",
+    "attribution": "(c) CK2AZ, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/119879506",
+    "place": "Texas City Channel, Bolivar Peninsula, TX, US",
+    "date": "2022-05-25"
+   }
+  ],
+  "hero": {
+   "id": 342060675,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/large.jpeg",
+   "attribution": "(c) Tristan Jobin, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/194575834",
+   "place": "Pak Tale, Ban Laem District, Phetchaburi, Thailand",
+   "date": "2023-11-28"
+  }
+ },
+ "gbif": {
+  "key": 2481263,
+  "dkTotal": 1576,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   23,
+   595,
+   500,
+   250,
+   89,
+   3,
+   0,
+   0,
+   1
+  ],
+  "worldTotal": 418449,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 140875
+   },
+   {
+    "code": "ES",
+    "count": 49058
+   },
+   {
+    "code": "IN",
+    "count": 37918
+   },
+   {
+    "code": "FR",
+    "count": 19558
+   },
+   {
+    "code": "AU",
+    "count": 18253
+   },
+   {
+    "code": "MX",
+    "count": 10250
+   },
+   {
+    "code": "NL",
+    "count": 9552
+   },
+   {
+    "code": "TW",
+    "count": 7378
+   },
+   {
+    "code": "AE",
+    "count": 6968
+   },
+   {
+    "code": "KE",
+    "count": 6966
+   },
+   {
+    "code": "LK",
+    "count": 6880
+   },
+   {
+    "code": "CN",
+    "count": 6001
+   }
+  ]
+ },
+ "warnings": []
+}

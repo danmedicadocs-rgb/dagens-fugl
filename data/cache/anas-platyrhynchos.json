@@ -1,0 +1,202 @@
+{
+ "key": "anas-platyrhynchos",
+ "name": "Anas platyrhynchos",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:56:17.063Z",
+ "names": {
+  "da": "Gråand",
+  "en": "Mallard",
+  "accepted": "Anas platyrhynchos"
+ },
+ "wikidata": {
+  "id": "Q25348"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gråand",
+  "extract": "Gråanden er en svømmeand, der er en almindelig ynglefugl i Danmark og mange andre steder på den nordlige halvkugle, hvor den lever i vådområder som byernes parker, og ofte optræder i flok. Gråanden er stamform til de fleste typer af tamænder, og den opdrættes i stort tal for at blive udsat i naturen før jagtsæsonen eller for at blive slagtet. Føden består af vandplanter og smådyr. Arten er desuden indført til områder på den sydlige halvkugle, hvor den nogle steder betragtes som en invasiv art.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%A5and"
+ },
+ "inat": {
+  "id": 6930,
+  "observations": 978245
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 32774133,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32774133/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32774133/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/21203884",
+    "place": "Palermo, CABA, Argentina",
+    "date": "2014-05-25"
+   },
+   {
+    "id": 116793572,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116793572/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116793572/large.jpeg",
+    "attribution": "(c) Michel Langeveld, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71710579",
+    "place": "Warmond, Zuid-Holland, Netherlands",
+    "date": "2021-03-21"
+   },
+   {
+    "id": 177479326,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177479326/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177479326/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105737491",
+    "place": "Breite, Basel, Switzerland",
+    "date": "2022-01-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 126405965,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126405965/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126405965/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/77299726",
+    "place": "Aberdeen, UK",
+    "date": "2021-05-04"
+   },
+   {
+    "id": 271487982,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271487982/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/271487982/large.jpg",
+    "attribution": "(c) Brandon Corder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/156979670",
+    "place": "University of Wisconsin-Madison, Madison, WI, US",
+    "date": "2023-04-27"
+   },
+   {
+    "id": 476349977,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476349977/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476349977/large.jpeg",
+    "attribution": "(c) Skyler Principe, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/265221098",
+    "place": "Macomb County, MI, USA",
+    "date": "2024-05-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 290373164,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290373164/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290373164/large.jpg",
+    "attribution": "(c) Carol Ann Vermeer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167610980",
+    "place": "Kildonan Park, Winnipeg, MB, Canada",
+    "date": "2023-06-11"
+   },
+   {
+    "id": 495113315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/495113315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/495113315/large.jpg",
+    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/275552771",
+    "place": "Independence Pkwy, Chesapeake, VA, US",
+    "date": "2025-04-28"
+   },
+   {
+    "id": 201292995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201292995/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201292995/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/119097897",
+    "place": "29640 Schneverdingen, Deutschland",
+    "date": "2022-05-28"
+   }
+  ],
+  "hero": {
+   "id": 95268822,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95268822/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95268822/large.jpg",
+   "attribution": "(c) anonymous, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/95268822",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9761484,
+  "dkTotal": 782515,
+  "dkMonths": [
+   84512,
+   70411,
+   92382,
+   92381,
+   85000,
+   58683,
+   46774,
+   50422,
+   46737,
+   54391,
+   49500,
+   50954
+  ],
+  "worldTotal": 33396863,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 19690474
+   },
+   {
+    "code": "CA",
+    "count": 3864218
+   },
+   {
+    "code": "SE",
+    "count": 1486988
+   },
+   {
+    "code": "GB",
+    "count": 1217404
+   },
+   {
+    "code": "NL",
+    "count": 1116525
+   },
+   {
+    "code": "NO",
+    "count": 786695
+   },
+   {
+    "code": "DK",
+    "count": 782515
+   },
+   {
+    "code": "FR",
+    "count": 745558
+   },
+   {
+    "code": "ES",
+    "count": 690890
+   },
+   {
+    "code": "DE",
+    "count": 498328
+   },
+   {
+    "code": "BE",
+    "count": 433145
+   },
+   {
+    "code": "RU",
+    "count": 187616
+   }
+  ]
+ },
+ "warnings": []
+}

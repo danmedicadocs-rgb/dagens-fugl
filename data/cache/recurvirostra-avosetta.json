@@ -1,0 +1,192 @@
+{
+ "key": "recurvirostra-avosetta",
+ "name": "Recurvirostra avosetta",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:04:12.410Z",
+ "names": {
+  "da": "Klyde",
+  "en": "Pied Avocet",
+  "accepted": "Recurvirostra avosetta"
+ },
+ "wikidata": {
+  "id": "Q26147"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Klyde",
+  "extract": "Klyden er en vadefugl, der er udbredt i Europa og Centralasien samt i Øst- og Sydafrika.",
+  "url": "https://da.wikipedia.org/wiki/Klyde"
+ },
+ "inat": {
+  "id": 4883,
+  "observations": 27526
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 196541036,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196541036/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196541036/large.jpeg",
+    "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/116433730",
+    "place": "Bogdanovichskiy rayon, RU-SV, RU",
+    "date": "2022-05-09"
+   },
+   {
+    "id": 131474425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131474425/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131474425/large.jpeg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/80225810",
+    "place": "中国河北省唐山市曹妃甸区",
+    "date": "2021-05-21"
+   },
+   {
+    "id": 222419214,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/222419214/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/222419214/large.jpg",
+    "attribution": "(c) Jan Vršovský, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/130757689",
+    "place": "Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",
+    "date": "2022-07-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 131475233,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131475233/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131475233/large.jpeg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/80226205",
+    "place": "中国河北省唐山市曹妃甸区",
+    "date": "2021-05-19"
+   },
+   {
+    "id": 132860735,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132860735/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132860735/large.jpg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/81031571",
+    "place": "Tangshan, Hebei, China",
+    "date": "2021-05-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 141493389,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141493389/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141493389/large.jpg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/85943573",
+    "place": "Mórahalom, 6782 Hungary",
+    "date": "2021-06-25"
+   },
+   {
+    "id": 565759136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565759136/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565759136/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313295027",
+    "place": "Pomorie, Bulgaria",
+    "date": "2025-09-10"
+   },
+   {
+    "id": 136563820,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136563820/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136563820/large.jpg",
+    "attribution": "(c) David F. Belmonte, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83170593",
+    "place": "Marismas de Cetina, Puerto real, Cádiz, España",
+    "date": "2021-05-27"
+   }
+  ],
+  "hero": {
+   "id": 196541036,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196541036/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196541036/large.jpeg",
+   "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/116433730",
+   "place": "Bogdanovichskiy rayon, RU-SV, RU",
+   "date": "2022-05-09"
+  }
+ },
+ "gbif": {
+  "key": 2480259,
+  "dkTotal": 130345,
+  "dkMonths": [
+   105,
+   261,
+   11546,
+   26908,
+   31156,
+   21286,
+   19597,
+   11653,
+   4299,
+   2368,
+   755,
+   78
+  ],
+  "worldTotal": 1278008,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 361126
+   },
+   {
+    "code": "SE",
+    "count": 174867
+   },
+   {
+    "code": "DK",
+    "count": 130345
+   },
+   {
+    "code": "GB",
+    "count": 125756
+   },
+   {
+    "code": "FR",
+    "count": 94472
+   },
+   {
+    "code": "ES",
+    "count": 85862
+   },
+   {
+    "code": "TW",
+    "count": 56014
+   },
+   {
+    "code": "ZA",
+    "count": 43478
+   },
+   {
+    "code": "BE",
+    "count": 38676
+   },
+   {
+    "code": "PT",
+    "count": 29468
+   },
+   {
+    "code": "IN",
+    "count": 19900
+   },
+   {
+    "code": "CN",
+    "count": 10928
+   }
+  ]
+ },
+ "warnings": []
+}

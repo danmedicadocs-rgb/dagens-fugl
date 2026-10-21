@@ -1,0 +1,192 @@
+{
+ "key": "trichoglossus-moluccanus",
+ "name": "Trichoglossus moluccanus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:37:55.939Z",
+ "names": {
+  "da": "Regnbuelori",
+  "en": "Rainbow Lorikeet",
+  "accepted": "Trichoglossus moluccanus"
+ },
+ "wikidata": {
+  "id": "Q1809222"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Regnbuelori",
+  "extract": "Regnbuelorien er en papegøjeart, som lever i Australien. Den er almindelig langs østkysten fra det nordlige Queensland til South Australia. Den holder til i regnskov, åbne skovområder og i villakvarterer.",
+  "url": "https://da.wikipedia.org/wiki/Regnbuelori"
+ },
+ "inat": {
+  "id": 980095,
+  "observations": 43698
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 181273542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273542/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273542/large.jpeg",
+    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107744013",
+    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
+    "date": "2022-03-01"
+   },
+   {
+    "id": 181515597,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181515597/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181515597/large.jpeg",
+    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107873772",
+    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
+    "date": "2022-03-04"
+   },
+   {
+    "id": 17301651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17301651/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/17301651/large.jpeg",
+    "attribution": "(c) Dragonette, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/12065690",
+    "place": "New South Wales, AU",
+    "date": "2018-05-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 181273563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273563/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273563/large.jpeg",
+    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107744034",
+    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
+    "date": "2022-03-01"
+   },
+   {
+    "id": 184588912,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184588912/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184588912/large.jpeg",
+    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/109512798",
+    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
+    "date": "2022-03-26"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 250964402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250964402/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250964402/large.jpg",
+    "attribution": "(c) Proteros, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146028312",
+    "place": "New South Wales, AU",
+    "date": "2023-01-07"
+   },
+   {
+    "id": 433616360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433616360/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433616360/large.jpeg",
+    "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243192577",
+    "place": "Graceville Ave at Graceville - Nadine, stop 44, Graceville QLD 4075, Australia",
+    "date": "2024-09-20"
+   },
+   {
+    "id": 454787202,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454787202/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454787202/large.jpeg",
+    "attribution": "(c) Steve Fitzgerald, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/253955384",
+    "place": "Edge Hill QLD 4870, Australia",
+    "date": "2024-12-03"
+   }
+  ],
+  "hero": {
+   "id": 181273542,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273542/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273542/large.jpeg",
+   "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/107744013",
+   "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
+   "date": "2022-03-01"
+  }
+ },
+ "gbif": {
+  "key": 6170530,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1603144,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 1602180
+   },
+   {
+    "code": "PG",
+    "count": 147
+   },
+   {
+    "code": "NZ",
+    "count": 113
+   },
+   {
+    "code": "US",
+    "count": 39
+   },
+   {
+    "code": "BE",
+    "count": 19
+   },
+   {
+    "code": "NL",
+    "count": 13
+   },
+   {
+    "code": "ZZ",
+    "count": 13
+   },
+   {
+    "code": "VU",
+    "count": 12
+   },
+   {
+    "code": "HK",
+    "count": 11
+   },
+   {
+    "code": "ID",
+    "count": 10
+   },
+   {
+    "code": "TW",
+    "count": 8
+   },
+   {
+    "code": "PR",
+    "count": 4
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "emberiza-calandra",
+ "name": "Emberiza calandra",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:25:19.830Z",
+ "names": {
+  "da": "Bomlærke",
+  "en": "Corn Bunting",
+  "accepted": "Emberiza calandra"
+ },
+ "wikidata": {
+  "id": "Q27220"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Bomlærke",
+  "extract": "Bomlærken, også kaldet kornværling, er en stor værling, der yngler i store dele af Europa samt dele af Asien og det nordvestlige Afrika. Fuglen kan i udseende minde om en lærke, men næbbet er kraftigere og halen er uden hvidt. I Danmark yngler den i åbent agerland, almindeligst i det vestlige og nordlige Jylland.",
+  "url": "https://da.wikipedia.org/wiki/Boml%C3%A6rke"
+ },
+ "inat": {
+  "id": 145291,
+  "observations": 25608
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 365306755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365306755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365306755/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206575148",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-04-10"
+   },
+   {
+    "id": 274085116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/274085116/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/274085116/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/158605600",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-05-01"
+   },
+   {
+    "id": 282467792,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282467792/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282467792/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163322294",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-05-23"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 291741257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291741257/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291741257/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/168348129",
+    "place": "Sila",
+    "date": "2023-06-17"
+   },
+   {
+    "id": 291740706,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291740706/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291740706/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/168347914",
+    "place": "Sila",
+    "date": "2023-06-17"
+   },
+   {
+    "id": 401312744,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401312744/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401312744/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/226293916",
+    "place": "Parco nazionale della Sila",
+    "date": "2024-06-27"
+   }
+  ],
+  "hero": {
+   "id": 487246494,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487246494/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487246494/large.jpg",
+   "attribution": "(c) Charles J. Sharp, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/487246494",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 7634625,
+  "dkTotal": 83086,
+  "dkMonths": [
+   5668,
+   5096,
+   7148,
+   13038,
+   18113,
+   11266,
+   10047,
+   2856,
+   1056,
+   2204,
+   3233,
+   3288
+  ],
+  "worldTotal": 1149781,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 369907
+   },
+   {
+    "code": "FR",
+    "count": 204426
+   },
+   {
+    "code": "PT",
+    "count": 135207
+   },
+   {
+    "code": "DK",
+    "count": 83086
+   },
+   {
+    "code": "GB",
+    "count": 63650
+   },
+   {
+    "code": "BG",
+    "count": 30791
+   },
+   {
+    "code": "TR",
+    "count": 30316
+   },
+   {
+    "code": "DE",
+    "count": 26394
+   },
+   {
+    "code": "GR",
+    "count": 24924
+   },
+   {
+    "code": "SE",
+    "count": 20962
+   },
+   {
+    "code": "IL",
+    "count": 20831
+   },
+   {
+    "code": "PL",
+    "count": 15891
+   }
+  ]
+ },
+ "warnings": []
+}

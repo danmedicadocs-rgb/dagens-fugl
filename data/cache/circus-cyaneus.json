@@ -1,0 +1,202 @@
+{
+ "key": "circus-cyaneus",
+ "name": "Circus cyaneus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:01:41.385Z",
+ "names": {
+  "da": "Blå kærhøg",
+  "en": "Hen Harrier",
+  "accepted": "Circus cyaneus"
+ },
+ "wikidata": {
+  "id": "Q25572"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Blå kærhøg",
+  "extract": "Den blå kærhøg er en rovfugl i høgefamilien, der måler ca. 47 cm og har et vingefang på 110 cm. Hannen har blågrå vinger med brede sorte spidser, mens hunner og ungfugle er brunlige med tværbåndet hale. Arten har hvid overgump i alle dragter.",
+  "url": "https://da.wikipedia.org/wiki/Bl%C3%A5_k%C3%A6rh%C3%B8g"
+ },
+ "inat": {
+  "id": 559064,
+  "observations": 18573
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 253964018,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253964018/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253964018/large.jpg",
+    "attribution": "(c) Benny Albro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147577169",
+    "place": "Big Island, Co. Wexford, Ireland",
+    "date": "2020-02-08"
+   },
+   {
+    "id": 323070964,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323070964/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323070964/large.jpg",
+    "attribution": "(c) Andreas Eriksson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185027148",
+    "place": "Östersund, Sverige",
+    "date": "2023-09-10"
+   },
+   {
+    "id": 703821873,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703821873/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703821873/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384490521",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2026-07-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 610700788,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610700788/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610700788/large.jpg",
+    "attribution": "(c) Nathan Mesnildrey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/336101157",
+    "place": "Nordrhein-Westfalen, DE",
+    "date": "2026-01-25"
+   },
+   {
+    "id": 356351737,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356351737/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356351737/large.jpg",
+    "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/201833609",
+    "place": "Provincia di Vercelli, Italia",
+    "date": "2024-03-09"
+   },
+   {
+    "id": 344109374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344109374/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344109374/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195577687",
+    "place": "De Cocksdorp, Netherlands",
+    "date": "2023-12-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 164421780,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164421780/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164421780/large.png",
+    "attribution": "(c) Paolo Zucca, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/98720096",
+    "place": "Provincia di Gorizia, Italia",
+    "date": "2021-10-19"
+   },
+   {
+    "id": 743413134,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743413134/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743413134/large.jpg",
+    "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/404791901",
+    "place": "Esbjerg, Nationalpark Vadehavet, DK-SD, DK",
+    "date": "2026-09-30"
+   },
+   {
+    "id": 721762337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/721762337/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/721762337/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/393752839",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2026-08-23"
+   }
+  ],
+  "hero": {
+   "id": 253964018,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253964018/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253964018/large.jpg",
+   "attribution": "(c) Benny Albro, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/147577169",
+   "place": "Big Island, Co. Wexford, Ireland",
+   "date": "2020-02-08"
+  }
+ },
+ "gbif": {
+  "key": 2480487,
+  "dkTotal": 208927,
+  "dkMonths": [
+   23617,
+   19845,
+   21601,
+   35667,
+   13544,
+   739,
+   64,
+   2632,
+   15889,
+   36942,
+   21325,
+   17045
+  ],
+  "worldTotal": 5113405,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 3323390
+   },
+   {
+    "code": "CA",
+    "count": 620286
+   },
+   {
+    "code": "SE",
+    "count": 299532
+   },
+   {
+    "code": "DK",
+    "count": 208927
+   },
+   {
+    "code": "FR",
+    "count": 166702
+   },
+   {
+    "code": "NL",
+    "count": 99963
+   },
+   {
+    "code": "BE",
+    "count": 58540
+   },
+   {
+    "code": "ES",
+    "count": 44785
+   },
+   {
+    "code": "NO",
+    "count": 31030
+   },
+   {
+    "code": "MX",
+    "count": 29655
+   },
+   {
+    "code": "GB",
+    "count": 28179
+   },
+   {
+    "code": "DE",
+    "count": 26983
+   }
+  ]
+ },
+ "warnings": []
+}

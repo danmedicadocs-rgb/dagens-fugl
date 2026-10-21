@@ -1,0 +1,172 @@
+{
+ "key": "anthus-campestris",
+ "name": "Anthus campestris",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:22:56.520Z",
+ "names": {
+  "da": "Markpiber",
+  "en": "Tawny Pipit",
+  "accepted": "Anthus campestris"
+ },
+ "wikidata": {
+  "id": "Q27226"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Markpiber",
+  "extract": "Markpiber er en 17 centimeter stor spurvefugl, der yngler spredt over en stor del af Eurasien. Arten er i Europa især udbredt i Syd- og Østeuropa. Den er en sjælden ynglefugl i Danmark i klitter og andre åbne steder nær kysten. Det er en trækfugl, der overvintrer i sahelområdet i Afrika, på den Arabiske Halvø eller i Grækenland og Tyrkiet.",
+  "url": "https://da.wikipedia.org/wiki/Markpiber"
+ },
+ "inat": {
+  "id": 13712,
+  "observations": 5647
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 423286861,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/423286861/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/423286861/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/237810093",
+    "place": "Los Tremellos, Burgos, España",
+    "date": "2024-08-11"
+   },
+   {
+    "id": 422168917,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422168917/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422168917/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/237232431",
+    "place": "Los Tremellos, Burgos, España",
+    "date": "2024-08-11"
+   },
+   {
+    "id": 139920732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139920732/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139920732/large.jpg",
+    "attribution": "(c) Oleksandr, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/85077139",
+    "place": "Ічня, Чернігівська область, Україна, 16703",
+    "date": "2021-06-16"
+   }
+  ],
+  "adult": [
+   {
+    "id": 613362993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613362993/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613362993/large.jpg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337409461",
+    "place": "W9VM+VXG, Kattampally, Kerala 670011, India",
+    "date": "2025-10-18"
+   },
+   {
+    "id": 403217698,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403217698/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403217698/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/227299756",
+    "place": "Algeria",
+    "date": "2024-05-21"
+   },
+   {
+    "id": 583155329,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583155329/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583155329/large.jpg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/322364205",
+    "place": "Madayipara",
+    "date": "2025-10-05"
+   }
+  ],
+  "hero": {
+   "id": 650037342,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/650037342/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/650037342/large.jpg",
+   "attribution": "(c) Johannes S., some rights reserved (CC BY), uploaded by Johannes S.",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/650037342",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2490274,
+  "dkTotal": 706,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   37,
+   303,
+   140,
+   32,
+   73,
+   93,
+   9,
+   0,
+   0
+  ],
+  "worldTotal": 198442,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 46026
+   },
+   {
+    "code": "ES",
+    "count": 33671
+   },
+   {
+    "code": "IN",
+    "count": 24067
+   },
+   {
+    "code": "SE",
+    "count": 13768
+   },
+   {
+    "code": "AE",
+    "count": 9216
+   },
+   {
+    "code": "PT",
+    "count": 7845
+   },
+   {
+    "code": "IL",
+    "count": 7698
+   },
+   {
+    "code": "TR",
+    "count": 6101
+   },
+   {
+    "code": "NL",
+    "count": 5553
+   },
+   {
+    "code": "GR",
+    "count": 3743
+   },
+   {
+    "code": "BE",
+    "count": 3040
+   },
+   {
+    "code": "UA",
+    "count": 2795
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "tetrastes-bonasia",
+ "name": "Tetrastes bonasia",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:52.741Z",
+ "names": {
+  "da": "Hjerpe",
+  "en": "Hazel Grouse",
+  "accepted": "Tetrastes bonasia"
+ },
+ "wikidata": {
+  "id": "Q182761"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hjerpe",
+  "extract": "Hjerpe eller jærpe er en hønsefugl i gruppen af skovhøns. Den er en af de mindre skovhøns. Det er en standfugl, som yngler i hele det nordlige Eurasien i tæt, fugtig, blandet nåleskov.",
+  "url": "https://da.wikipedia.org/wiki/Hjerpe"
+ },
+ "inat": {
+  "id": 558443,
+  "observations": 5313
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 160053689,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/160053689/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/160053689/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/96348296",
+    "place": "Bayern, DE",
+    "date": "2021-09-26"
+   },
+   {
+    "id": 120649271,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120649271/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120649271/large.jpeg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/73867960",
+    "place": "Томск, Томская обл., Россия",
+    "date": "2021-04-13"
+   },
+   {
+    "id": 452227898,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452227898/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452227898/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/252606609",
+    "place": "Челябинская обл., Россия, 456143",
+    "date": "2024-11-22"
+   }
+  ],
+  "female": [
+   {
+    "id": 53607821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53607821/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53607821/large.jpeg",
+    "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/34090322",
+    "place": "Кадуйский р-н, Вологодская обл., Россия",
+    "date": "2017-06-17"
+   },
+   {
+    "id": 344456766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456766/large.jpg",
+    "attribution": "(c) Нурхайдарова Татьяна, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195750011",
+    "place": "Новобибеево, Новосибирская обл., Россия, 633334",
+    "date": "2023-12-02"
+   },
+   {
+    "id": 238824924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238824924/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238824924/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/139611590",
+    "place": "Свердловская обл., Россия, 624931",
+    "date": "2022-10-22"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 151263258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151263258/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151263258/large.jpg",
+    "attribution": "(c) Viktor N. Chekan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/91447442",
+    "place": "Priozerskiy rayon, RU-LN, RU",
+    "date": "2021-08-16"
+   },
+   {
+    "id": 532330080,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532330080/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532330080/large.jpg",
+    "attribution": "(c) Teemu Helonheimo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295691302",
+    "place": "Kanta-Häme, FI-LS, FI",
+    "date": "2025-06-16"
+   },
+   {
+    "id": 517551787,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517551787/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/517551787/large.jpg",
+    "attribution": "(c) Марина Садыкова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/287821663",
+    "place": "Дмитровский муниципальный округ, Московская обл., Россия",
+    "date": "2025-06-08"
+   }
+  ],
+  "hero": {
+   "id": 160053689,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/160053689/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/160053689/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/96348296",
+   "place": "Bayern, DE",
+   "date": "2021-09-26"
+  }
+ },
+ "gbif": {
+  "key": 2473663,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0
+  ],
+  "worldTotal": 159716,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 67970
+   },
+   {
+    "code": "FI",
+    "count": 36616
+   },
+   {
+    "code": "NO",
+    "count": 11968
+   },
+   {
+    "code": "FR",
+    "count": 10525
+   },
+   {
+    "code": "EE",
+    "count": 10439
+   },
+   {
+    "code": "RU",
+    "count": 9433
+   },
+   {
+    "code": "AT",
+    "count": 1935
+   },
+   {
+    "code": "KR",
+    "count": 1116
+   },
+   {
+    "code": "CH",
+    "count": 1107
+   },
+   {
+    "code": "PL",
+    "count": 981
+   },
+   {
+    "code": "UA",
+    "count": 929
+   },
+   {
+    "code": "DE",
+    "count": 763
+   }
+  ]
+ },
+ "warnings": []
+}

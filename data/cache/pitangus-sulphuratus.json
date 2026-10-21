@@ -1,0 +1,182 @@
+{
+ "key": "pitangus-sulphuratus",
+ "name": "Pitangus sulphuratus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:48:52.647Z",
+ "names": {
+  "da": "Kiskadie",
+  "en": "Great Kiskadee",
+  "accepted": "Pitangus sulphuratus"
+ },
+ "wikidata": {
+  "id": "Q202804"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Great kiskadee",
+  "extract": "The great kiskadee is a passerine bird in the tyrant flycatcher family Tyrannidae. It is the only member of the genus Pitangus. It breeds in open woodland with some tall trees, including cultivation and around human habitation. It is found from the extreme southern United States south to Argentina. It was introduced to Bermuda in 1957, and to Tobago in about 1970.",
+  "url": "https://en.wikipedia.org/wiki/Great_kiskadee"
+ },
+ "inat": {
+  "id": 16956,
+  "observations": 85290
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 219389501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219389501/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219389501/large.jpeg",
+    "attribution": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/129120383",
+    "place": "Universidade Federal de Viçosa - Campus Rio Paranaíba",
+    "date": "2022-08-02"
+   },
+   {
+    "id": 527735282,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527735282/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527735282/large.jpg",
+    "attribution": "(c) Gabriel Augusto Faria, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/293216892",
+    "place": "Ilha Solteira, SP, 15385-000, Brasil",
+    "date": "2025-06-19"
+   },
+   {
+    "id": 90254575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90254575/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90254575/large.jpeg",
+    "attribution": "(c) Sol Quipildor, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/56627815",
+    "place": "Av. H. Yrigoyen pasando 25 de Mayo, La Merced, Salta, Argentina",
+    "date": "2020-08-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 628138856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628138856/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628138856/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/344722756",
+    "place": "3RHH+H6H, Veracruz, Nicaragua",
+    "date": "2026-03-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 205762555,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205762555/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205762555/large.jpeg",
+    "attribution": "(c) Ricard Busquets Reverte, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/121586615",
+    "place": "Zona 1, Flores, Guatemala",
+    "date": "2022-05-20"
+   },
+   {
+    "id": 414675470,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414675470/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414675470/large.jpeg",
+    "attribution": "(c) Giovanna Roque de Castro, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/233340227",
+    "place": "Irajá, Rio de Janeiro - RJ, 21235, Brasil",
+    "date": "2024-08-01"
+   },
+   {
+    "id": 329486770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329486770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329486770/large.jpg",
+    "attribution": "(c) Pedro Van Kan, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/188280578",
+    "place": "Avenida 1, Formosa, GO, BR",
+    "date": "2023-10-20"
+   }
+  ],
+  "hero": {
+   "id": 1766279,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1766279/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1766279/large.jpg",
+   "attribution": "(c) Dario Sanches, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/1766279",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2482755,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "worldTotal": 2749389,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 512950
+   },
+   {
+    "code": "CR",
+    "count": 423102
+   },
+   {
+    "code": "US",
+    "count": 324094
+   },
+   {
+    "code": "AR",
+    "count": 300581
+   },
+   {
+    "code": "CO",
+    "count": 283232
+   },
+   {
+    "code": "MX",
+    "count": 281841
+   },
+   {
+    "code": "BZ",
+    "count": 115252
+   },
+   {
+    "code": "VE",
+    "count": 80068
+   },
+   {
+    "code": "PA",
+    "count": 75090
+   },
+   {
+    "code": "UY",
+    "count": 53025
+   },
+   {
+    "code": "HN",
+    "count": 50302
+   },
+   {
+    "code": "GT",
+    "count": 34693
+   }
+  ]
+ },
+ "warnings": []
+}

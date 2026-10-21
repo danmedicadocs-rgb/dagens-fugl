@@ -1,0 +1,172 @@
+{
+ "key": "eudyptula-minor",
+ "name": "Eudyptula minor",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:05.852Z",
+ "names": {
+  "da": "Dværgpingvin",
+  "en": "Little Penguin",
+  "accepted": "Eudyptula minor"
+ },
+ "wikidata": {
+  "id": "Q203628"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværgpingvin",
+  "extract": "Dværgpingvinen er den mindste pingvinart. Den lever på New Zealands kyst og på Tasmanien i Australien. I 1996 blev der observeret dværgpingviner i Chile. På Phillip Island på kysten af Victoria i Australien er dværgpingviner en meget populær turistattraktion.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgpingvin"
+ },
+ "inat": {
+  "id": 3817,
+  "observations": 8107
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 30384957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30384957/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30384957/large.jpg",
+    "attribution": "(c) John Steel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19722313",
+    "place": "Glenledi 9292, New Zealand",
+    "date": "2019-01-19"
+   },
+   {
+    "id": 89264368,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89264368/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89264368/large.jpg",
+    "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/56039541",
+    "place": "Auckland, NZ",
+    "date": "2019-09-19"
+   },
+   {
+    "id": 728112772,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/728112772/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/728112772/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397011755",
+    "place": "Tiritiri Matangi, Auckland, New Zealand",
+    "date": "2014-01-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 123582184,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/large.jpeg",
+    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/75531386",
+    "place": "Waitangi, NZ-CI, NZ",
+    "date": "2021-03-20"
+   },
+   {
+    "id": 64636889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64636889/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64636889/large.jpeg",
+    "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40775294",
+    "place": "Auckland, NZ",
+    "date": "2018-09-11"
+   },
+   {
+    "id": 2908154,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/large.jpg",
+    "attribution": "(c) Emily Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2603434",
+    "place": "New Plymouth",
+    "date": "2015-11-15"
+   }
+  ],
+  "hero": {
+   "id": 123582184,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/large.jpeg",
+   "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/75531386",
+   "place": "Waitangi, NZ-CI, NZ",
+   "date": "2021-03-20"
+  }
+ },
+ "gbif": {
+  "key": 2481646,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 566972,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 545764
+   },
+   {
+    "code": "NZ",
+    "count": 20552
+   },
+   {
+    "code": "US",
+    "count": 21
+   },
+   {
+    "code": "CL",
+    "count": 6
+   },
+   {
+    "code": "FK",
+    "count": 3
+   },
+   {
+    "code": "NA",
+    "count": 3
+   },
+   {
+    "code": "ZZ",
+    "count": 3
+   },
+   {
+    "code": "AQ",
+    "count": 2
+   },
+   {
+    "code": "CA",
+    "count": 2
+   },
+   {
+    "code": "FR",
+    "count": 1
+   },
+   {
+    "code": "PG",
+    "count": 1
+   },
+   {
+    "code": "ZA",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,120 @@
+{
+ "key": "cyanocorax-yncas",
+ "name": "Cyanocorax yncas",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:11.995Z",
+ "names": {
+  "da": "Grøn Skade",
+  "en": null,
+  "accepted": "Cyanocorax yncas"
+ },
+ "wikidata": {
+  "id": "Q918078"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Inca jay",
+  "extract": "The Inca jay is a bird species of the New World jays, which is native to the Andes of South America. It is widely known as querrequerre in Spanish, an onomatopoeic name derived from the bird's call.",
+  "url": "https://en.wikipedia.org/wiki/Inca_jay"
+ },
+ "inat": {
+  "id": 8474,
+  "observations": 14815
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 535027822,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/large.jpg",
+    "attribution": "(c) J Alejandro González Castillo, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/297098281",
+    "place": "Nicté-ha",
+    "date": "2025-05-19"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 535027822,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/large.jpg",
+   "attribution": "(c) J Alejandro González Castillo, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/297098281",
+   "place": "Nicté-ha",
+   "date": "2025-05-19"
+  }
+ },
+ "gbif": {
+  "key": 2482565,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 465959,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 260168
+   },
+   {
+    "code": "MX",
+    "count": 71832
+   },
+   {
+    "code": "CO",
+    "count": 61673
+   },
+   {
+    "code": "EC",
+    "count": 26886
+   },
+   {
+    "code": "BZ",
+    "count": 14480
+   },
+   {
+    "code": "VE",
+    "count": 13344
+   },
+   {
+    "code": "PE",
+    "count": 11104
+   },
+   {
+    "code": "GT",
+    "count": 3373
+   },
+   {
+    "code": "HN",
+    "count": 2356
+   },
+   {
+    "code": "BO",
+    "count": 452
+   },
+   {
+    "code": "ZZ",
+    "count": 23
+   },
+   {
+    "code": "DE",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

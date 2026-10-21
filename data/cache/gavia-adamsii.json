@@ -1,0 +1,151 @@
+{
+ "key": "gavia-adamsii",
+ "name": "Gavia adamsii",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:36.950Z",
+ "names": {
+  "da": "Hvidnæbbet lom",
+  "en": "Yellow-billed Diver",
+  "accepted": "Gavia adamsii"
+ },
+ "wikidata": {
+  "id": "Q208328"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidnæbbet lom",
+  "extract": "Hvidnæbbet lom er en fugl i lomslægten. Den har en længde på 77-91cm med et vingefang på 135-152 cm og er dermed det største medlem af lommerne. Dens levealder er 20 år. Fuglen yngler i Arktis, Rusland, Alaska og Canada og overvintrer til havs hovedsageligt ved kysterne af Norge og det vestlige Canada. Den er en sjælden trækgæst i Danmark om vinteren. Indtil 1990 var der opgjort 149 fund her i landet. Den er regnet som kritisk truet på den danske rødliste 2019.",
+  "url": "https://da.wikipedia.org/wiki/Hvidn%C3%A6bbet_lom"
+ },
+ "inat": {
+  "id": 4622,
+  "observations": 1252
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 454013645,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/253550434",
+    "place": "Douglas County, CO, USA",
+    "date": "2020-02-08"
+   },
+   {
+    "id": 108644911,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108644911/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108644911/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/67270393",
+    "place": "Surrey, BC V3S, Canada",
+    "date": "2020-12-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 29454969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454969/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454969/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19178820",
+    "place": "Kassel, Deutschland",
+    "date": "2016-12-22"
+   },
+   {
+    "id": 318824705,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318824705/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318824705/large.jpeg",
+    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182823666",
+    "place": "Cascade County, MT, USA",
+    "date": "2017-12-17"
+   }
+  ],
+  "hero": {
+   "id": 454013645,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/253550434",
+   "place": "Douglas County, CO, USA",
+   "date": "2020-02-08"
+  }
+ },
+ "gbif": {
+  "key": 2481957,
+  "dkTotal": 1531,
+  "dkMonths": [
+   28,
+   23,
+   105,
+   361,
+   530,
+   21,
+   13,
+   26,
+   52,
+   213,
+   134,
+   24
+  ],
+  "worldTotal": 64969,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 28185
+   },
+   {
+    "code": "NO",
+    "count": 16193
+   },
+   {
+    "code": "SE",
+    "count": 9239
+   },
+   {
+    "code": "CA",
+    "count": 4426
+   },
+   {
+    "code": "NL",
+    "count": 2719
+   },
+   {
+    "code": "DK",
+    "count": 1531
+   },
+   {
+    "code": "GB",
+    "count": 998
+   },
+   {
+    "code": "RU",
+    "count": 232
+   },
+   {
+    "code": "DE",
+    "count": 198
+   },
+   {
+    "code": "FI",
+    "count": 188
+   },
+   {
+    "code": "EE",
+    "count": 154
+   },
+   {
+    "code": "JP",
+    "count": 116
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,120 @@
+{
+ "key": "calonectris-diomedea",
+ "name": "Calonectris diomedea",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:34.248Z",
+ "names": {
+  "da": "Skopolis Skråpe",
+  "en": "Scopoli's Shearwater",
+  "accepted": "Calonectris diomedea"
+ },
+ "wikidata": {
+  "id": "Q216850"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kuhls skråpe",
+  "extract": "Kuhls skråpe er en stormfugl. Den yngler på stejle skrænter i Middelhavet. I sensommeren opløses kolonierne og fuglene flyver mod vest og nordover så langt som til det sydlige Irland. De fleste kuhls skråper overvintrer i den sydlige del af Atlanterhavet, men nogle overvintrer også i den nordlige del.",
+  "url": "https://da.wikipedia.org/wiki/Kuhls_skr%C3%A5pe"
+ },
+ "inat": {
+  "id": 509656,
+  "observations": 2044
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 11230630,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11230630/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11230630/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/8432775",
+    "place": "Via Mannarazza, 92010 Lampedusa e Linosa AG, Italia",
+    "date": "2017-10-16"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 11230630,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11230630/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11230630/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/8432775",
+   "place": "Via Mannarazza, 92010 Lampedusa e Linosa AG, Italia",
+   "date": "2017-10-16"
+  }
+ },
+ "gbif": {
+  "key": 2481521,
+  "dkTotal": 55,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   16,
+   10,
+   27,
+   1,
+   0,
+   0
+  ],
+  "worldTotal": 308252,
+  "topCountries": [
+   {
+    "code": "PT",
+    "count": 158748
+   },
+   {
+    "code": "ES",
+    "count": 72722
+   },
+   {
+    "code": "US",
+    "count": 42266
+   },
+   {
+    "code": "FR",
+    "count": 10665
+   },
+   {
+    "code": "IT",
+    "count": 3742
+   },
+   {
+    "code": "GR",
+    "count": 3531
+   },
+   {
+    "code": "MA",
+    "count": 2116
+   },
+   {
+    "code": "GB",
+    "count": 1658
+   },
+   {
+    "code": "BR",
+    "count": 1565
+   },
+   {
+    "code": "IL",
+    "count": 1217
+   },
+   {
+    "code": "CA",
+    "count": 1164
+   },
+   {
+    "code": "HR",
+    "count": 953
+   }
+  ]
+ },
+ "warnings": []
+}

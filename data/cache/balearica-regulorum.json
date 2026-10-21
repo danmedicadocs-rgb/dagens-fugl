@@ -1,0 +1,131 @@
+{
+ "key": "balearica-regulorum",
+ "name": "Balearica regulorum",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:34.452Z",
+ "names": {
+  "da": "Grå krontrane",
+  "en": "Grey Crowned Crane",
+  "accepted": "Balearica regulorum"
+ },
+ "wikidata": {
+  "id": "Q335992"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Grey crowned crane",
+  "extract": "The grey crowned crane or gray crowned crane is a large crane species native to Sub-Saharan Africa. It occurs mainly in dry savannah, although it nests in somewhat wetter habitats, and can also be found in marshes, cultivated lands and grassy flatlands near rivers and lakes. Its body plumage is mainly grey and it has white cheeks, a red throat patch, and a stiff golden crown. It is omnivorous, consuming a wide variety of animal and plant matter, including plants, seeds, grain, insects, frogs, worms, snakes, small fish and the eggs of aquatic animals. It is listed as endangered on the IUCN Red List. It is the national bird of Uganda.",
+  "url": "https://en.wikipedia.org/wiki/Grey_crowned_crane"
+ },
+ "inat": {
+  "id": 53,
+  "observations": 6435
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 174128742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/large.jpeg",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/103964275",
+    "place": "Loitokitok, Kenya",
+    "date": "2008-07-15"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 463536901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463536901/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463536901/large.jpeg",
+    "attribution": "(c) Tim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258368404",
+    "place": "Loitokitok, Kenya",
+    "date": "2024-08-13"
+   }
+  ],
+  "hero": {
+   "id": 174128742,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/large.jpeg",
+   "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/103964275",
+   "place": "Loitokitok, Kenya",
+   "date": "2008-07-15"
+  }
+ },
+ "gbif": {
+  "key": 5228229,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 78921,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 33525
+   },
+   {
+    "code": "KE",
+    "count": 21071
+   },
+   {
+    "code": "UG",
+    "count": 9450
+   },
+   {
+    "code": "TZ",
+    "count": 7689
+   },
+   {
+    "code": "RW",
+    "count": 1824
+   },
+   {
+    "code": "ZM",
+    "count": 1777
+   },
+   {
+    "code": "ZW",
+    "count": 1029
+   },
+   {
+    "code": "AE",
+    "count": 612
+   },
+   {
+    "code": "MZ",
+    "count": 375
+   },
+   {
+    "code": "CD",
+    "count": 325
+   },
+   {
+    "code": "NL",
+    "count": 271
+   },
+   {
+    "code": "BW",
+    "count": 208
+   }
+  ]
+ },
+ "warnings": []
+}

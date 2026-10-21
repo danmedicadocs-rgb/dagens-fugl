@@ -1,0 +1,162 @@
+{
+ "key": "anser-albifrons",
+ "name": "Anser albifrons",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:55:07.295Z",
+ "names": {
+  "da": "Blisgås",
+  "en": "Greater white-fronted goose",
+  "accepted": "Anser albifrons"
+ },
+ "wikidata": {
+  "id": "Q172093"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Blisgås",
+  "extract": "Blisgåsen er en fugl i gåseslægten Anser. Den lever cirkumpolart i Alaska, Canada, Grønland og det nordlige Sibirien. Blisgåsen er en mellemstor gås, der kendes på sin hvide pandeblis og mørke tværstriber på bugen.",
+  "url": "https://da.wikipedia.org/wiki/Blisg%C3%A5s"
+ },
+ "inat": {
+  "id": 7019,
+  "observations": 39939
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 473556852,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/large.jpeg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/263587905",
+    "place": "Юж. административный округ, Москва, Россия",
+    "date": "2025-02-09"
+   }
+  ],
+  "female": [
+   {
+    "id": 168655501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168655501/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168655501/large.jpeg",
+    "attribution": "(c) bemma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101014088",
+    "place": "Beobachtungshütte Rieselfelder Münster, Unnamed Road, 48157 Münster, Germany",
+    "date": "2021-11-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 665112749,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665112749/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665112749/large.jpg",
+    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/364339373",
+    "place": "Калининский р-н, Тверская обл., Россия",
+    "date": "2026-05-23"
+   },
+   {
+    "id": 158636826,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158636826/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158636826/large.jpg",
+    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/95547896",
+    "place": "Ломоносовский р-н, Ленинградская обл., Россия",
+    "date": "2021-09-16"
+   },
+   {
+    "id": 526221542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/526221542/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/526221542/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/292419420",
+    "place": "Inuvik, NT X0E 0T0, Canada",
+    "date": "2025-06-14"
+   }
+  ],
+  "hero": {
+   "id": 473556852,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/large.jpeg",
+   "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/263587905",
+   "place": "Юж. административный округ, Москва, Россия",
+   "date": "2025-02-09"
+  }
+ },
+ "gbif": {
+  "key": 2498017,
+  "dkTotal": 121213,
+  "dkMonths": [
+   20621,
+   24558,
+   30817,
+   5505,
+   1649,
+   320,
+   288,
+   220,
+   1914,
+   16720,
+   8727,
+   9866
+  ],
+  "worldTotal": 1736128,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 768960
+   },
+   {
+    "code": "SE",
+    "count": 244430
+   },
+   {
+    "code": "NL",
+    "count": 238133
+   },
+   {
+    "code": "DK",
+    "count": 121213
+   },
+   {
+    "code": "CA",
+    "count": 69767
+   },
+   {
+    "code": "BE",
+    "count": 52127
+   },
+   {
+    "code": "DE",
+    "count": 47356
+   },
+   {
+    "code": "RU",
+    "count": 28627
+   },
+   {
+    "code": "GB",
+    "count": 22991
+   },
+   {
+    "code": "NO",
+    "count": 22177
+   },
+   {
+    "code": "EE",
+    "count": 18564
+   },
+   {
+    "code": "KR",
+    "count": 12179
+   }
+  ]
+ },
+ "warnings": []
+}

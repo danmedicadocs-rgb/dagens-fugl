@@ -1,0 +1,202 @@
+{
+ "key": "pyrrhula-pyrrhula",
+ "name": "Pyrrhula pyrrhula",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:23:53.031Z",
+ "names": {
+  "da": "Dompap",
+  "en": "Eurasian Bullfinch",
+  "accepted": "Pyrrhula pyrrhula"
+ },
+ "wikidata": {
+  "id": "Q25382"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dompap",
+  "extract": "Dompap er en 16 centimeter stor fugleart i familien finker. Dompappen findes oftest i blandede nåle- og løvskove samt i store haver, i parker eller på kirkegårde. Tit ser man den i toppen af et træ, eller man hører dens karakteristiske bløde og vemodige fløjt. I Danmark er den en ret almindelig ynglefugl, og landet gæstes i vinterhalvåret af dompapper nordfra.",
+  "url": "https://da.wikipedia.org/wiki/Dompap"
+ },
+ "inat": {
+  "id": 9462,
+  "observations": 86408
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 116210075,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116210075/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116210075/large.jpg",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71381107",
+    "place": "г. Кыштым, Челябинская обл., Россия",
+    "date": "2021-03-15"
+   },
+   {
+    "id": 115941316,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115941316/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115941316/large.jpg",
+    "attribution": "(c) Artem Kuznetsov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71233668",
+    "place": "Каменск-Уральский, Свердловская обл., Россия",
+    "date": "2021-03-13"
+   },
+   {
+    "id": 345975778,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345975778/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345975778/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196502190",
+    "place": "Куса, Челябинская обл., Россия",
+    "date": "2024-01-13"
+   }
+  ],
+  "female": [
+   {
+    "id": 599453180,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599453180/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599453180/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/330562004",
+    "place": "Florești, Cluj, RO",
+    "date": "2025-12-13"
+   },
+   {
+    "id": 477052590,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477052590/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477052590/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/265578163",
+    "place": "RSPB Old Moor, Wombwell, Bolton upon Dearne, Barnsley S73 0YF, UK",
+    "date": "2025-03-14"
+   },
+   {
+    "id": 611981346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611981346/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611981346/large.jpg",
+    "attribution": "(c) Олеся, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/336733742",
+    "place": "Выборг, Ленинградская обл., Россия",
+    "date": "2026-01-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 284558197,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284558197/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284558197/large.jpg",
+    "attribution": "(c) Ilya Firsov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/164462789",
+    "place": "Протвино, Московская обл., Россия",
+    "date": "2023-05-29"
+   },
+   {
+    "id": 409705916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409705916/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409705916/large.jpeg",
+    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/230725515",
+    "place": "Isle of Mull PA75, UK",
+    "date": "2024-07-12"
+   },
+   {
+    "id": 549280332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549280332/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549280332/large.jpg",
+    "attribution": "(c) Tatiana Strus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/304677415",
+    "place": "Ханты-Мансийск, Ханты-Мансийский автономный округ, Россия",
+    "date": "2025-08-08"
+   }
+  ],
+  "hero": {
+   "id": 116210075,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116210075/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116210075/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/71381107",
+   "place": "г. Кыштым, Челябинская обл., Россия",
+   "date": "2021-03-15"
+  }
+ },
+ "gbif": {
+  "key": 2494543,
+  "dkTotal": 263400,
+  "dkMonths": [
+   35014,
+   32522,
+   37961,
+   27788,
+   18456,
+   11823,
+   9904,
+   10976,
+   9172,
+   21463,
+   23971,
+   24264
+  ],
+  "worldTotal": 2963343,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 813379
+   },
+   {
+    "code": "FI",
+    "count": 378816
+   },
+   {
+    "code": "NO",
+    "count": 369729
+   },
+   {
+    "code": "GB",
+    "count": 263726
+   },
+   {
+    "code": "DK",
+    "count": 263400
+   },
+   {
+    "code": "DE",
+    "count": 187547
+   },
+   {
+    "code": "FR",
+    "count": 184648
+   },
+   {
+    "code": "NL",
+    "count": 146211
+   },
+   {
+    "code": "RU",
+    "count": 100068
+   },
+   {
+    "code": "ES",
+    "count": 41703
+   },
+   {
+    "code": "EE",
+    "count": 29795
+   },
+   {
+    "code": "IE",
+    "count": 21506
+   }
+  ]
+ },
+ "warnings": []
+}

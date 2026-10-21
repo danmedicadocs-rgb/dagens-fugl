@@ -1,0 +1,182 @@
+{
+ "key": "ramphastos-sulfuratus",
+ "name": "Ramphastos sulfuratus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:36.924Z",
+ "names": {
+  "da": "Kølnæbbet tukan",
+  "en": "Keel-billed Toucan",
+  "accepted": "Ramphastos sulfuratus"
+ },
+ "wikidata": {
+  "id": "Q47501"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kølnæbbet tukan",
+  "extract": "Kølnæbbet tukan, også kendt som regnbuenæbbet tukan, er en farverig latinamerikansk medlem af tukanfamilien. Det er den nationale fugl i Belize.",
+  "url": "https://da.wikipedia.org/wiki/K%C3%B8ln%C3%A6bbet_tukan"
+ },
+ "inat": {
+  "id": 18796,
+  "observations": 12024
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 550144065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/large.jpg",
+    "attribution": "(c) Amelia Tauber, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/305138962",
+    "place": "Cayo District, Belize",
+    "date": "2025-08-01"
+   },
+   {
+    "id": 535003420,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535003420/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535003420/large.jpg",
+    "attribution": "(c) Dylan Camacho Guzman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297085223",
+    "place": "Pejibaye, Provincia de Cartago, Jiménez, Costa Rica",
+    "date": "2025-07-11"
+   },
+   {
+    "id": 512095204,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/512095204/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/512095204/large.jpg",
+    "attribution": "(c) My-Lan Le, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/284920176",
+    "place": "FW2M+J4R, Heredia Province, Puerto Viejo de Sarapiqui, Costa Rica",
+    "date": "2025-05-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 614218178,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614218178/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614218178/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/337828174",
+    "place": "JV39+JQV, El Valle de Antón, Coclé Province, Panama",
+    "date": "2026-02-08"
+   },
+   {
+    "id": 601795396,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601795396/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601795396/large.jpg",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331702669",
+    "place": "Santa Marta, Magdalena, Colombia",
+    "date": "2025-02-25"
+   },
+   {
+    "id": 742193458,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/742193458/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/742193458/large.jpg",
+    "attribution": "(c) Forest Botial-Jarvis, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/405296788",
+    "place": "Punta Laurel, Bocas del Toro Province, Panama",
+    "date": "2026-09-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 85744900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85744900/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85744900/large.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/53897691",
+    "place": "Provincia de Panamá, PA",
+    "date": "2020-07-21"
+   }
+  ],
+  "hero": {
+   "id": 550144065,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/large.jpg",
+   "attribution": "(c) Amelia Tauber, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/305138962",
+   "place": "Cayo District, Belize",
+   "date": "2025-08-01"
+  }
+ },
+ "gbif": {
+  "key": 2478771,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 366133,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 154341
+   },
+   {
+    "code": "PA",
+    "count": 76715
+   },
+   {
+    "code": "BZ",
+    "count": 52779
+   },
+   {
+    "code": "MX",
+    "count": 28708
+   },
+   {
+    "code": "GT",
+    "count": 17791
+   },
+   {
+    "code": "HN",
+    "count": 14783
+   },
+   {
+    "code": "CO",
+    "count": 14631
+   },
+   {
+    "code": "NI",
+    "count": 5843
+   },
+   {
+    "code": "VE",
+    "count": 100
+   },
+   {
+    "code": "US",
+    "count": 60
+   },
+   {
+    "code": "ZZ",
+    "count": 60
+   },
+   {
+    "code": "DE",
+    "count": 15
+   }
+  ]
+ },
+ "warnings": []
+}

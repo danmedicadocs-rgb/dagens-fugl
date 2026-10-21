@@ -1,0 +1,171 @@
+{
+ "key": "ploceus-cucullatus",
+ "name": "Ploceus cucullatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:12.066Z",
+ "names": {
+  "da": "Stor Maskevæver",
+  "en": "Village Weaver",
+  "accepted": "Ploceus cucullatus"
+ },
+ "wikidata": {
+  "id": "Q1070285"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Village weaver",
+  "extract": "The village weaver , also known as the spotted-backed weaver or black-headed weaver, is a bird species in the family Ploceidae found in much of sub-Saharan Africa. It has also been introduced to Portugal and Venezuela as well as to the islands of Hispaniola, Martinique, Puerto Rico, Mauritius and Réunion.",
+  "url": "https://en.wikipedia.org/wiki/Village_weaver"
+ },
+ "inat": {
+  "id": 13796,
+  "observations": 9518
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 426864121,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426864121/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426864121/large.jpeg",
+    "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239663955",
+    "place": "Saint-André 97440, La Réunion",
+    "date": "2024-08-31"
+   },
+   {
+    "id": 568181577,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/568181577/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/568181577/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/314587904",
+    "place": "Richards Bay, South Africa",
+    "date": "2025-09-15"
+   },
+   {
+    "id": 424838435,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424838435/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/424838435/large.jpeg",
+    "attribution": "(c) Jenni Ly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/238615345",
+    "place": "Saint-Gilles-Les-Bains, Réunion",
+    "date": "2024-08-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 452017939,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452017939/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452017939/large.jpeg",
+    "attribution": "(c) Eddie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/252498775",
+    "place": "Section B, Playa Bayahibe, La Romana 23000, Dominican Republic",
+    "date": "2024-11-10"
+   },
+   {
+    "id": 248439620,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248439620/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248439620/large.jpeg",
+    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/144715006",
+    "place": "Hoima, Ouganda",
+    "date": "2022-12-09"
+   },
+   {
+    "id": 445415153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445415153/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445415153/large.jpeg",
+    "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/249200484",
+    "place": "Sainte-Marie 97438, La Réunion",
+    "date": "2024-10-21"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 426864121,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426864121/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426864121/large.jpeg",
+   "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/239663955",
+   "place": "Saint-André 97440, La Réunion",
+   "date": "2024-08-31"
+  }
+ },
+ "gbif": {
+  "key": 2494058,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "worldTotal": 239095,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 115368
+   },
+   {
+    "code": "KE",
+    "count": 20838
+   },
+   {
+    "code": "UG",
+    "count": 13829
+   },
+   {
+    "code": "NG",
+    "count": 12900
+   },
+   {
+    "code": "GM",
+    "count": 9662
+   },
+   {
+    "code": "GH",
+    "count": 6414
+   },
+   {
+    "code": "ZW",
+    "count": 5780
+   },
+   {
+    "code": "DO",
+    "count": 5138
+   },
+   {
+    "code": "SN",
+    "count": 4247
+   },
+   {
+    "code": "TZ",
+    "count": 4132
+   },
+   {
+    "code": "ZM",
+    "count": 3045
+   },
+   {
+    "code": "RW",
+    "count": 2956
+   }
+  ]
+ },
+ "warnings": []
+}

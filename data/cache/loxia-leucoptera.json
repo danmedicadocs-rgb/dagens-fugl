@@ -1,0 +1,171 @@
+{
+ "key": "loxia-leucoptera",
+ "name": "Loxia leucoptera",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:24:47.188Z",
+ "names": {
+  "da": "Hvidvinget korsnæb",
+  "en": "White-winged Crossbill",
+  "accepted": "Loxia leucoptera"
+ },
+ "wikidata": {
+  "id": "Q331190"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidvinget korsnæb",
+  "extract": "Hvidvinget korsnæb er en 15-16 centimeter stor spurvefugl, der er udbredt i det nordlige Europa, Asien og Nordamerika. Den lever især af lærketræets frø i f.eks. Ruslands taiga.",
+  "url": "https://da.wikipedia.org/wiki/Hvidvinget_korsn%C3%A6b"
+ },
+ "inat": {
+  "id": 10423,
+  "observations": 6170
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 433288996,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/large.jpeg",
+    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243015862",
+    "place": "Haliburton, ON K0M 1S0, Canada",
+    "date": "2022-02-25"
+   },
+   {
+    "id": 482192447,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482192447/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482192447/large.jpeg",
+    "attribution": "(c) Chris Friesen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/268269470",
+    "place": "Division No. 14, CA-MB, CA",
+    "date": "2025-04-02"
+   },
+   {
+    "id": 61723868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61723868/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61723868/large.jpg",
+    "attribution": "(c) Jimmy Dee, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/38800976",
+    "place": "Kings County, NB, Canada",
+    "date": "2020-02-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 110364554,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110364554/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110364554/large.jpeg",
+    "attribution": "(c) Mary Krieger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68197217",
+    "place": "Division No. 1, MB, Canada",
+    "date": "2021-01-16"
+   },
+   {
+    "id": 258682193,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258682193/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258682193/large.jpeg",
+    "attribution": "(c) Lauren Markewicz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/150061681",
+    "place": "Waskesiu Lake, SK S0J, Canada",
+    "date": "2023-03-02"
+   },
+   {
+    "id": 717549021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717549021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717549021/large.jpg",
+    "attribution": "(c) Donald Hampton, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/391589860",
+    "place": "Goldstream, AK 99709, USA",
+    "date": "2026-08-15"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 433288996,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/large.jpeg",
+   "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/243015862",
+   "place": "Haliburton, ON K0M 1S0, Canada",
+   "date": "2022-02-25"
+  }
+ },
+ "gbif": {
+  "key": 8144830,
+  "dkTotal": 3598,
+  "dkMonths": [
+   451,
+   313,
+   333,
+   177,
+   138,
+   12,
+   204,
+   418,
+   294,
+   375,
+   606,
+   268
+  ],
+  "worldTotal": 343724,
+  "topCountries": [
+   {
+    "code": "CA",
+    "count": 177482
+   },
+   {
+    "code": "US",
+    "count": 102594
+   },
+   {
+    "code": "SE",
+    "count": 42378
+   },
+   {
+    "code": "NO",
+    "count": 10035
+   },
+   {
+    "code": "DK",
+    "count": 3598
+   },
+   {
+    "code": "FI",
+    "count": 3250
+   },
+   {
+    "code": "NL",
+    "count": 1603
+   },
+   {
+    "code": "RU",
+    "count": 670
+   },
+   {
+    "code": "GB",
+    "count": 626
+   },
+   {
+    "code": "EE",
+    "count": 205
+   },
+   {
+    "code": "PM",
+    "count": 202
+   },
+   {
+    "code": "CN",
+    "count": 195
+   }
+  ]
+ },
+ "warnings": []
+}

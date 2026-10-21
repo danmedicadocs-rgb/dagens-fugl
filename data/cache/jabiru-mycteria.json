@@ -1,0 +1,151 @@
+{
+ "key": "jabiru-mycteria",
+ "name": "Jabiru mycteria",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:38.241Z",
+ "names": {
+  "da": "Jabiru",
+  "en": "Jabiru",
+  "accepted": "Jabiru mycteria"
+ },
+ "wikidata": {
+  "id": "Q17970"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Jabiru",
+  "extract": "The jabiru is a large stork found in the Americas from Mexico to Argentina, except west of the Andes. The only member of the genus of the same name, it is most common in the Pantanal region of Brazil and the eastern Paraguayan Chaco. It sometimes wanders into the United States, usually in Texas, but also reportedly in Mississippi, Oklahoma and Louisiana. The name comes from the Tupi–Guaraní languages and means 'swollen neck'.",
+  "url": "https://en.wikipedia.org/wiki/Jabiru"
+ },
+ "inat": {
+  "id": 4773,
+  "observations": 5246
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 112882473,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/large.jpeg",
+    "attribution": "(c) Vincent A. Vos, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69555689",
+    "place": "Vaca Diez, Bolivia",
+    "date": "2021-02-13"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 490939472,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490939472/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490939472/large.jpeg",
+    "attribution": "(c) EDMILSON FERNANDO JARQUIN LOPEZ, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/272882197",
+    "place": "San Carlos, Nicaragua",
+    "date": "2025-03-01"
+   },
+   {
+    "id": 462927886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462927886/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462927886/large.jpeg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258051450",
+    "place": "Miranda - MS, 79380-000, Brasil",
+    "date": "2025-01-07"
+   },
+   {
+    "id": 279854547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279854547/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279854547/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/161885239",
+    "place": "Ituzaingó, Corrientes, Argentina",
+    "date": "2014-12-27"
+   }
+  ],
+  "hero": {
+   "id": 112882473,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/large.jpeg",
+   "attribution": "(c) Vincent A. Vos, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/69555689",
+   "place": "Vaca Diez, Bolivia",
+   "date": "2021-02-13"
+  }
+ },
+ "gbif": {
+  "key": 2481953,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 66262,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 26599
+   },
+   {
+    "code": "CR",
+    "count": 8577
+   },
+   {
+    "code": "BZ",
+    "count": 7489
+   },
+   {
+    "code": "AR",
+    "count": 7206
+   },
+   {
+    "code": "CO",
+    "count": 3808
+   },
+   {
+    "code": "BO",
+    "count": 2822
+   },
+   {
+    "code": "GY",
+    "count": 2063
+   },
+   {
+    "code": "PY",
+    "count": 1758
+   },
+   {
+    "code": "PE",
+    "count": 1711
+   },
+   {
+    "code": "VE",
+    "count": 1620
+   },
+   {
+    "code": "MX",
+    "count": 947
+   },
+   {
+    "code": "HN",
+    "count": 333
+   }
+  ]
+ },
+ "warnings": []
+}

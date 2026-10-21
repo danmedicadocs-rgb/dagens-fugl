@@ -1,0 +1,202 @@
+{
+ "key": "lophodytes-cucullatus",
+ "name": "Lophodytes cucullatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:45:57.719Z",
+ "names": {
+  "da": "Hjelmskallesluger",
+  "en": "Hooded Merganser",
+  "accepted": "Lophodytes cucullatus"
+ },
+ "wikidata": {
+  "id": "Q241349"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Hooded merganser",
+  "extract": "The hooded merganser is a species of fish-eating duck in the subfamily Anatinae. It is the only extant species in the genus Lophodytes. The genus name derives from Greek: lophos meaning 'crest', and dutes meaning 'diver'. The bird is striking in appearance; both sexes have crests that they can raise or lower, and the breeding plumage of the male is handsomely patterned and colored. The hooded merganser has a sawbill but is not classified as a typical merganser.",
+  "url": "https://en.wikipedia.org/wiki/Hooded_merganser"
+ },
+ "inat": {
+  "id": 7109,
+  "observations": 82271
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 243821460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/large.jpg",
+    "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142235980",
+    "place": "Centennial Dr, Chilliwack, BC, CA",
+    "date": "2022-11-15"
+   },
+   {
+    "id": 365544882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/large.jpg",
+    "attribution": "(c) Chris O'Donoghue, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206704863",
+    "place": "Fort Richmond, Winnipeg, MB, Canada",
+    "date": "2024-04-11"
+   },
+   {
+    "id": 242832116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242832116/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242832116/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141709612",
+    "place": "Amarillo Medical Center Park, Amarillo, TX, USA",
+    "date": "2022-10-25"
+   }
+  ],
+  "female": [
+   {
+    "id": 750105037,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750105037/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750105037/large.jpg",
+    "attribution": "(c) Thomas Boe, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/408107309",
+    "place": "Plymouth, MN, USA",
+    "date": "2024-05-15"
+   },
+   {
+    "id": 618876441,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618876441/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618876441/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340117497",
+    "place": "Dublin Blvd, Dublin, CA, US",
+    "date": "2026-02-24"
+   },
+   {
+    "id": 614251296,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614251296/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614251296/large.jpg",
+    "attribution": "(c) Kevin Anderson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337846158",
+    "place": "Wake County, NC, USA",
+    "date": "2026-02-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 127117700,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127117700/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127117700/large.jpg",
+    "attribution": "(c) Eamon Corbett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/77712377",
+    "place": "Highlands/Perkins, Baton Rouge, LA, USA",
+    "date": "2021-04-30"
+   },
+   {
+    "id": 487142821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487142821/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487142821/large.jpeg",
+    "attribution": "(c) Michele Jones, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/270849142",
+    "place": "South Redlands, Redlands, CA, USA",
+    "date": "2025-04-15"
+   },
+   {
+    "id": 220401434,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220401434/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220401434/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129672491",
+    "place": "Skagit County, WA, USA",
+    "date": "2022-07-09"
+   }
+  ],
+  "hero": {
+   "id": 243821460,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/large.jpg",
+   "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/142235980",
+   "place": "Centennial Dr, Chilliwack, BC, CA",
+   "date": "2022-11-15"
+  }
+ },
+ "gbif": {
+  "key": 2498408,
+  "dkTotal": 973,
+  "dkMonths": [
+   72,
+   60,
+   44,
+   72,
+   153,
+   36,
+   1,
+   20,
+   140,
+   88,
+   112,
+   175
+  ],
+  "worldTotal": 3341103,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2658839
+   },
+   {
+    "code": "CA",
+    "count": 668973
+   },
+   {
+    "code": "NL",
+    "count": 5905
+   },
+   {
+    "code": "BE",
+    "count": 1039
+   },
+   {
+    "code": "BM",
+    "count": 1003
+   },
+   {
+    "code": "SE",
+    "count": 979
+   },
+   {
+    "code": "DK",
+    "count": 973
+   },
+   {
+    "code": "MX",
+    "count": 948
+   },
+   {
+    "code": "GB",
+    "count": 610
+   },
+   {
+    "code": "DE",
+    "count": 319
+   },
+   {
+    "code": "BS",
+    "count": 163
+   },
+   {
+    "code": "PT",
+    "count": 141
+   }
+  ]
+ },
+ "warnings": []
+}

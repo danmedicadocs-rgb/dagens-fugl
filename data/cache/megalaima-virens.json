@@ -1,0 +1,136 @@
+{
+ "key": "megalaima-virens",
+ "name": "Megalaima virens",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:36:23.050Z",
+ "names": {
+  "da": null,
+  "en": null,
+  "accepted": "Psilopogon virens"
+ },
+ "wikidata": {
+  "id": "Q1263531"
+ },
+ "wiki": null,
+ "inat": {
+  "id": 367525,
+  "observations": 2223
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 608415951,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/large.jpg",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334966098",
+    "place": "Tawang, Arunachal Pradesh, India",
+    "date": "2023-02-28"
+   },
+   {
+    "id": 79191435,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79191435/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79191435/large.jpg",
+    "attribution": "(c) Ramnarayan K, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/49878109",
+    "place": "Mukteshwar, Uttarakhand, India",
+    "date": "2019-10-23"
+   },
+   {
+    "id": 263039604,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263039604/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263039604/large.jpg",
+    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/152376571",
+    "place": "Mukteshwar, Uttarakhand, India",
+    "date": "2023-03-26"
+   }
+  ],
+  "hero": {
+   "id": 608415951,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/334966098",
+   "place": "Tawang, Arunachal Pradesh, India",
+   "date": "2023-02-28"
+  }
+ },
+ "gbif": {
+  "key": 7982358,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 113522,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 72421
+   },
+   {
+    "code": "NP",
+    "count": 11254
+   },
+   {
+    "code": "TH",
+    "count": 9284
+   },
+   {
+    "code": "CN",
+    "count": 7211
+   },
+   {
+    "code": "BT",
+    "count": 7161
+   },
+   {
+    "code": "HK",
+    "count": 4074
+   },
+   {
+    "code": "MM",
+    "count": 760
+   },
+   {
+    "code": "PK",
+    "count": 490
+   },
+   {
+    "code": "LA",
+    "count": 428
+   },
+   {
+    "code": "VN",
+    "count": 320
+   },
+   {
+    "code": "BD",
+    "count": 25
+   },
+   {
+    "code": "ZZ",
+    "count": 6
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,182 @@
+{
+ "key": "athene-noctua",
+ "name": "Athene noctua",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:22.781Z",
+ "names": {
+  "da": "Kirkeugle",
+  "en": "Little Owl",
+  "accepted": "Athene noctua"
+ },
+ "wikidata": {
+  "id": "Q129958"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kirkeugle",
+  "extract": "Kirkeuglen er en art blandt de egentlige ugler, der er udbredt i et stort område gennem Europa og Nordafrika i vest til Asiens stillehavskyst i øst. Den måler cirka 22 centimeter fra hoved til hale og er dermed Danmarks mindste ugle – kun på størrelse med en stær. Den har et vingefang på cirka 50-56 centimeter. Kirkeuglen har ligesom de øvrige ugler et rundt og ret fladt hoved og brede, afrundede vinger. Selve kroppen har også en afrundet form på grund af dens løse fjerdragt, benene er forholdsvis lange og halen er kort. Kirkeuglen har i yngletiden et langtrukkent, skarpt skrig.",
+  "url": "https://da.wikipedia.org/wiki/Kirkeugle"
+ },
+ "inat": {
+  "id": 19998,
+  "observations": 20962
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 260698292,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260698292/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260698292/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151119696",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-03-14"
+   },
+   {
+    "id": 260520789,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260520789/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260520789/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151025147",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-03-13"
+   },
+   {
+    "id": 260844055,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260844055/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260844055/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151198355",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-03-15"
+   }
+  ],
+  "female": [
+   {
+    "id": 260520995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260520995/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260520995/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151025269",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-03-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 510240795,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510240795/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510240795/large.jpg",
+    "attribution": "(c) Davide, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/283940705",
+    "place": "Provincia di Modena, Italia",
+    "date": "2021-06-11"
+   },
+   {
+    "id": 208424888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208424888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208424888/large.jpg",
+    "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/123055647",
+    "place": "Отрарский район, Казахстан",
+    "date": "2022-05-24"
+   },
+   {
+    "id": 723578400,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723578400/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723578400/large.jpg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/394677450",
+    "place": "Provinz Teruel, Spanien",
+    "date": "2026-08-07"
+   }
+  ],
+  "hero": {
+   "id": 260698292,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260698292/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260698292/large.jpg",
+   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/151119696",
+   "place": "4292 Dobri Dol, Bulgaria",
+   "date": "2023-03-14"
+  }
+ },
+ "gbif": {
+  "key": 2497266,
+  "dkTotal": 1997,
+  "dkMonths": [
+   145,
+   152,
+   269,
+   380,
+   296,
+   226,
+   196,
+   66,
+   57,
+   80,
+   41,
+   24
+  ],
+  "worldTotal": 653608,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 177161
+   },
+   {
+    "code": "ES",
+    "count": 116680
+   },
+   {
+    "code": "FR",
+    "count": 105049
+   },
+   {
+    "code": "GB",
+    "count": 47680
+   },
+   {
+    "code": "BE",
+    "count": 41037
+   },
+   {
+    "code": "PT",
+    "count": 38639
+   },
+   {
+    "code": "IT",
+    "count": 18653
+   },
+   {
+    "code": "DE",
+    "count": 12942
+   },
+   {
+    "code": "TR",
+    "count": 12694
+   },
+   {
+    "code": "IL",
+    "count": 11245
+   },
+   {
+    "code": "GR",
+    "count": 9723
+   },
+   {
+    "code": "MA",
+    "count": 5674
+   }
+  ]
+ },
+ "warnings": []
+}

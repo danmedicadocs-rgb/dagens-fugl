@@ -1,0 +1,182 @@
+{
+ "key": "dacelo-novaeguineae",
+ "name": "Dacelo novaeguineae",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:38:00.726Z",
+ "names": {
+  "da": "Latterfugl",
+  "en": "Laughing Kookaburra",
+  "accepted": "Dacelo novaeguineae"
+ },
+ "wikidata": {
+  "id": "Q824974"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Latterfugl",
+  "extract": "Latterfuglen er en isfugl i underfamilien Halcyoninae. Den er også kendt under sit australske navn kookaburra. Den er en stor isfugl med et hvidligt hoved med en brun øjenstribe. Oversiden er primært mørkebrun, men der er en stribe med lyseblå pletter på vingedækfjerene. Undersiden er cremet hvid og halen har rødbrune og sorte striber. Fjerdragten hos hanner og hunner er ens. Territorialkaldet er en karakteristisk 'latter', som ofte bliver fremført af flere fugle på samme tid.",
+  "url": "https://da.wikipedia.org/wiki/Latterfugl"
+ },
+ "inat": {
+  "id": 2413,
+  "observations": 51299
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 594895907,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594895907/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594895907/large.jpg",
+    "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/328310707",
+    "place": "Sydney - Inner, New South Wales, Australia",
+    "date": "2025-11-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 594896195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594896195/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594896195/large.jpg",
+    "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/328310772",
+    "place": "Sydney - Inner, New South Wales, Australia",
+    "date": "2025-11-24"
+   },
+   {
+    "id": 122818645,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122818645/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122818645/large.jpeg",
+    "attribution": "(c) Jane C Frost, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/75099294",
+    "place": "Tamborine QLD 4270, Australia",
+    "date": "2021-04-25"
+   },
+   {
+    "id": 169521130,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169521130/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169521130/large.jpeg",
+    "attribution": "(c) Jane C Frost, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101499868",
+    "place": "Tamborine QLD 4270, Australia",
+    "date": "2021-11-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 246054073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246054073/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246054073/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/143470393",
+    "place": "Heathmont VIC 3135, Australia",
+    "date": "2022-12-02"
+   },
+   {
+    "id": 110977669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110977669/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110977669/large.jpg",
+    "attribution": "(c) Paul Whitington, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68523977",
+    "place": "Wonboyn NSW 2551, Australia",
+    "date": "2020-11-17"
+   },
+   {
+    "id": 333099353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333099353/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333099353/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/190062454",
+    "place": "Minnie Water NSW 2462, Australien",
+    "date": "2023-09-24"
+   }
+  ],
+  "hero": {
+   "id": 594895907,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594895907/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594895907/large.jpg",
+   "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/328310707",
+   "place": "Sydney - Inner, New South Wales, Australia",
+   "date": "2025-11-24"
+  }
+ },
+ "gbif": {
+  "key": 2475648,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1
+  ],
+  "worldTotal": 1338479,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 1336992
+   },
+   {
+    "code": "NZ",
+    "count": 626
+   },
+   {
+    "code": "BE",
+    "count": 167
+   },
+   {
+    "code": "US",
+    "count": 43
+   },
+   {
+    "code": "NL",
+    "count": 36
+   },
+   {
+    "code": "DE",
+    "count": 23
+   },
+   {
+    "code": "ZZ",
+    "count": 19
+   },
+   {
+    "code": "GB",
+    "count": 9
+   },
+   {
+    "code": "ES",
+    "count": 4
+   },
+   {
+    "code": "JP",
+    "count": 4
+   },
+   {
+    "code": "AT",
+    "count": 2
+   },
+   {
+    "code": "DK",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

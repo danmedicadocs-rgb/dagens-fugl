@@ -1,0 +1,182 @@
+{
+ "key": "ficedula-parva",
+ "name": "Ficedula parva",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:21:30.035Z",
+ "names": {
+  "da": "Lille fluesnapper",
+  "en": "Red-breasted Flycatcher",
+  "accepted": "Ficedula parva"
+ },
+ "wikidata": {
+  "id": "Q241499"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille fluesnapper",
+  "extract": "Lille fluesnapper er en 11,5 cm stor spurvefugl, der har sin hovedudbredelse i Østeuropa. Det er en trækfugl, der har vinterkvarter i Sydasien. I Danmark er der siden 1941 gjort omkring ti ynglefund spredt over hele landet, især i åbne parkagtige løvskove. Som trækgæst ses den specielt om foråret i anden halvdel af maj i forbindelse med østlige vinde, særligt almindeligt på Christiansø.",
+  "url": "https://da.wikipedia.org/wiki/Lille_fluesnapper"
+ },
+ "inat": {
+  "id": 13113,
+  "observations": 5069
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 108405627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108405627/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108405627/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/67142538",
+    "place": "Bhimashankar, Maharashtra, India",
+    "date": "2014-11-09"
+   },
+   {
+    "id": 169076730,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169076730/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169076730/large.jpg",
+    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101254786",
+    "place": "Советский р-н, Казань, Респ. Татарстан, Россия",
+    "date": "2016-05-05"
+   },
+   {
+    "id": 331257769,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331257769/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331257769/large.jpeg",
+    "attribution": "(c) Emad Tahaei, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189146606",
+    "place": "Gilan Province, Iran",
+    "date": "2023-10-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 102741513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102741513/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102741513/large.jpg",
+    "attribution": "(c) Andrey Sdobnikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63960337",
+    "place": "Ртищевский р-н, Саратовская обл., Россия",
+    "date": "2014-09-14"
+   },
+   {
+    "id": 598511147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598511147/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598511147/large.jpg",
+    "attribution": "(c) Mitul and Vijul Singh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330102852",
+    "place": "Shreenagar Rural, Rajasthan, India",
+    "date": "2025-12-03"
+   },
+   {
+    "id": 34005742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34005742/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34005742/large.jpeg",
+    "attribution": "(c) Evgenij Samarin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/21942848",
+    "place": "Россия, 452930",
+    "date": "2016-08-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 536607736,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536607736/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536607736/large.jpg",
+    "attribution": "(c) Andrei Orekhov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297935554",
+    "place": "Дмитровский муниципальный округ, Московская обл., Россия",
+    "date": "2025-07-14"
+   }
+  ],
+  "hero": {
+   "id": 108405627,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108405627/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108405627/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/67142538",
+   "place": "Bhimashankar, Maharashtra, India",
+   "date": "2014-11-09"
+  }
+ },
+ "gbif": {
+  "key": 2492605,
+  "dkTotal": 7903,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   3,
+   3992,
+   1617,
+   55,
+   173,
+   1401,
+   633,
+   12,
+   1
+  ],
+  "worldTotal": 215648,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 68469
+   },
+   {
+    "code": "SE",
+    "count": 65950
+   },
+   {
+    "code": "DK",
+    "count": 7903
+   },
+   {
+    "code": "EE",
+    "count": 7666
+   },
+   {
+    "code": "RU",
+    "count": 7323
+   },
+   {
+    "code": "FI",
+    "count": 5684
+   },
+   {
+    "code": "NL",
+    "count": 5229
+   },
+   {
+    "code": "UA",
+    "count": 4538
+   },
+   {
+    "code": "PL",
+    "count": 4370
+   },
+   {
+    "code": "GB",
+    "count": 3708
+   },
+   {
+    "code": "TR",
+    "count": 3668
+   },
+   {
+    "code": "IR",
+    "count": 3188
+   }
+  ]
+ },
+ "warnings": []
+}

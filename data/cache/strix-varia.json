@@ -1,0 +1,198 @@
+{
+ "key": "strix-varia",
+ "name": "Strix varia",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:20.779Z",
+ "names": {
+  "da": "Båndet Natugle",
+  "en": "Barred Owl",
+  "accepted": "Strix varia"
+ },
+ "wikidata": {
+  "id": "Q630457"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Barred owl",
+  "extract": "The barred owl, also known as the northern barred owl, striped owl, or more informally, hoot owl or eight hooter, is a North American large species of owl. A member of the true owl family, Strigidae, they belong to the genus Strix, which is also the origin of the family's name under Linnaean taxonomy. Barred owls are largely native to eastern North America, but have expanded their range to the West Coast of North America, where they are considered invasive. Mature forests are their preferred habitat, but they can also acclimate to various gradients of open woodlands. Their diet consists mainly of small mammals, but this species is an opportunistic predator and is known to prey upon other small vertebrates such as birds, reptiles, and amphibians, as well as a variety of invertebrates.",
+  "url": "https://en.wikipedia.org/wiki/Barred_owl"
+ },
+ "inat": {
+  "id": 19893,
+  "observations": 84068
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 363874135,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363874135/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363874135/large.jpg",
+    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/205770052",
+    "place": "West Side, Vancouver, BC, Canada",
+    "date": "2024-04-06"
+   },
+   {
+    "id": 330755322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330755322/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330755322/large.jpg",
+    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/188898653",
+    "place": "West Side, Vancouver, BC, Canada",
+    "date": "2019-05-29"
+   },
+   {
+    "id": 421268203,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421268203/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421268203/large.jpg",
+    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/236767677",
+    "place": "West Side, Vancouver, BC, Canada",
+    "date": "2024-08-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 432975755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432975755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432975755/large.jpg",
+    "attribution": "(c) Brandon Johnson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/242850778",
+    "place": "South Baton Rouge, Baton Rouge, LA, USA",
+    "date": "2024-09-18"
+   },
+   {
+    "id": 336437743,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336437743/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336437743/large.jpg",
+    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/191737438",
+    "place": "West Side, Vancouver, BC, Canada",
+    "date": "2023-05-03"
+   },
+   {
+    "id": 263595089,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263595089/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263595089/large.jpeg",
+    "attribution": "(c) Matthew Gerke, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/152682229",
+    "place": "Wheaton, Wheaton-Glenmont, MD, USA",
+    "date": "2023-03-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 604916381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604916381/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604916381/large.jpg",
+    "attribution": "(c) Neil Hauta, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/333088517",
+    "place": "Coupeville, WA 98239, USA",
+    "date": "2026-01-01"
+   },
+   {
+    "id": 68626525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68626525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68626525/large.jpg",
+    "attribution": "(c) Edward Hurme, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/43235595",
+    "place": "Smithsonian’s National Zoo & Conservation Biology Institute, Washington, DC, US",
+    "date": "2020-04-24"
+   },
+   {
+    "id": 212888942,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212888942/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212888942/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/125535255",
+    "place": "Lane, Oregon, United States",
+    "date": "2022-07-09"
+   }
+  ],
+  "hero": {
+   "id": 363874135,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363874135/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363874135/large.jpg",
+   "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/205770052",
+   "place": "West Side, Vancouver, BC, Canada",
+   "date": "2024-04-06"
+  }
+ },
+ "gbif": {
+  "key": 2497541,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1319437,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1185349
+   },
+   {
+    "code": "CA",
+    "count": 133444
+   },
+   {
+    "code": "ZZ",
+    "count": 32
+   },
+   {
+    "code": "GT",
+    "count": 21
+   },
+   {
+    "code": "MX",
+    "count": 12
+   },
+   {
+    "code": "BZ",
+    "count": 6
+   },
+   {
+    "code": "HN",
+    "count": 4
+   },
+   {
+    "code": "GR",
+    "count": 2
+   },
+   {
+    "code": "AU",
+    "count": 1
+   },
+   {
+    "code": "BM",
+    "count": 1
+   },
+   {
+    "code": "GE",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

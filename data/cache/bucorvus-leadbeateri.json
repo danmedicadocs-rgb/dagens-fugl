@@ -1,0 +1,182 @@
+{
+ "key": "bucorvus-leadbeateri",
+ "name": "Bucorvus leadbeateri",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:43.688Z",
+ "names": {
+  "da": "Sydlig Hornravn",
+  "en": "Southern Ground Hornbill",
+  "accepted": "Bucorvus leadbeateri"
+ },
+ "wikidata": {
+  "id": "Q685074"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Southern ground hornbill",
+  "extract": "The southern ground hornbill is one of two species of ground hornbill, both of which are found solely within Africa, and is the largest species in the hornbill order worldwide. It can be found in the southern regions of Africa, ranging from Kenya to South Africa. Within these regions, they inhabit both woodlands and savannas. The other species of the genus Bucorvus is the Abyssinian ground hornbill, B. abyssinicus.",
+  "url": "https://en.wikipedia.org/wiki/Southern_ground_hornbill"
+ },
+ "inat": {
+  "id": 144281,
+  "observations": 4966
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 750054803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054803/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054803/large.jpg",
+    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/408087505",
+    "place": "Mopani, ZA-NP, ZA",
+    "date": "2025-11-29"
+   },
+   {
+    "id": 510512261,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510512261/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510512261/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/284100082",
+    "place": "Mara, TZ",
+    "date": "2017-07-14"
+   }
+  ],
+  "female": [
+   {
+    "id": 750054746,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054746/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054746/large.jpg",
+    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/408087506",
+    "place": "Mopani, ZA-NP, ZA",
+    "date": "2025-11-29"
+   },
+   {
+    "id": 562030711,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/562030711/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/562030711/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/311346637",
+    "place": "North-West, BW",
+    "date": "2025-08-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 504361386,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/504361386/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/504361386/large.jpeg",
+    "attribution": "(c) Paul Hoekman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/280800824",
+    "place": "Mopani District Municipality, South Africa",
+    "date": "2025-04-26"
+   },
+   {
+    "id": 586262793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586262793/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586262793/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/323957515",
+    "place": "Kilosa, TZ-MO, TZ",
+    "date": "2025-10-06"
+   },
+   {
+    "id": 510512297,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510512297/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510512297/large.jpg",
+    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/284100085",
+    "place": "Mara, TZ",
+    "date": "2017-07-14"
+   }
+  ],
+  "hero": {
+   "id": 750054803,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054803/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054803/large.jpg",
+   "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/408087505",
+   "place": "Mopani, ZA-NP, ZA",
+   "date": "2025-11-29"
+  }
+ },
+ "gbif": {
+  "key": 2476041,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 51397,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 28709
+   },
+   {
+    "code": "TZ",
+    "count": 5970
+   },
+   {
+    "code": "KE",
+    "count": 4768
+   },
+   {
+    "code": "BW",
+    "count": 3880
+   },
+   {
+    "code": "ZW",
+    "count": 3180
+   },
+   {
+    "code": "ZM",
+    "count": 2788
+   },
+   {
+    "code": "MZ",
+    "count": 785
+   },
+   {
+    "code": "MW",
+    "count": 536
+   },
+   {
+    "code": "NA",
+    "count": 477
+   },
+   {
+    "code": "AO",
+    "count": 52
+   },
+   {
+    "code": "SZ",
+    "count": 48
+   },
+   {
+    "code": "CD",
+    "count": 45
+   }
+  ]
+ },
+ "warnings": []
+}

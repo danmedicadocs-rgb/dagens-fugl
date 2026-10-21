@@ -1,0 +1,141 @@
+{
+ "key": "puffinus-puffinus",
+ "name": "Puffinus puffinus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:59:20.790Z",
+ "names": {
+  "da": "Almindelig skråpe",
+  "en": "Manx Shearwater",
+  "accepted": "Puffinus puffinus"
+ },
+ "wikidata": {
+  "id": "Q208405"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Manx shearwater",
+  "extract": "The Manx shearwater is a medium-sized shearwater in the seabird family Procellariidae. The scientific name of this species records a name shift: Manx shearwaters were called Manks puffins in the 17th century. Puffin is an Anglo-Norman word for the cured carcasses of nestling shearwaters. The Atlantic puffin acquired the name much later, possibly because of its similar nesting habits.",
+  "url": "https://en.wikipedia.org/wiki/Manx_shearwater"
+ },
+ "inat": {
+  "id": 4093,
+  "observations": 2659
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 32126880,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/large.jpeg",
+    "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/20828424",
+    "place": null,
+    "date": "2019-02-21"
+   },
+   {
+    "id": 531718354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531718354/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531718354/large.jpg",
+    "attribution": "(c) Fionn Ó Marcaigh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295362248",
+    "place": "Dún Phádraig (Downpatrick), Co. Mhaigh Eo, Éire",
+    "date": "2025-07-05"
+   },
+   {
+    "id": 32127387,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32127387/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32127387/large.jpeg",
+    "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/20828429",
+    "place": "Grenadines, VC",
+    "date": "2019-02-21"
+   }
+  ],
+  "hero": {
+   "id": 32126880,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/large.jpeg",
+   "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/20828424",
+   "place": null,
+   "date": "2019-02-21"
+  }
+ },
+ "gbif": {
+  "key": 5229380,
+  "dkTotal": 1474,
+  "dkMonths": [
+   0,
+   3,
+   1,
+   11,
+   124,
+   148,
+   427,
+   287,
+   345,
+   107,
+   8,
+   2
+  ],
+  "worldTotal": 202299,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 78644
+   },
+   {
+    "code": "IE",
+    "count": 35263
+   },
+   {
+    "code": "US",
+    "count": 32263
+   },
+   {
+    "code": "ES",
+    "count": 9461
+   },
+   {
+    "code": "PT",
+    "count": 5772
+   },
+   {
+    "code": "IM",
+    "count": 5389
+   },
+   {
+    "code": "FR",
+    "count": 4969
+   },
+   {
+    "code": "CA",
+    "count": 4790
+   },
+   {
+    "code": "SE",
+    "count": 4499
+   },
+   {
+    "code": "NO",
+    "count": 3290
+   },
+   {
+    "code": "IS",
+    "count": 2399
+   },
+   {
+    "code": "BR",
+    "count": 2397
+   }
+  ]
+ },
+ "warnings": []
+}

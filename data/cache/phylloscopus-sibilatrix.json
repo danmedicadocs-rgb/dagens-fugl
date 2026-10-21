@@ -1,0 +1,151 @@
+{
+ "key": "phylloscopus-sibilatrix",
+ "name": "Phylloscopus sibilatrix",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:41.657Z",
+ "names": {
+  "da": "Skovsanger",
+  "en": "Wood Warbler",
+  "accepted": "Phylloscopus sibilatrix"
+ },
+ "wikidata": {
+  "id": "Q27075477"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Skovsanger",
+  "extract": "Skovsangeren er en lille spurvefugl, der i Europa yngler fra de Britiske Øer og Frankrig til det vestlige Sibirien. I Danmark ses den typisk i højstammet bøgeskov og er udbredt over hele landet, men er ikke så talrig som sine slægtninge gransanger og løvsanger.",
+  "url": "https://da.wikipedia.org/wiki/Skovsanger"
+ },
+ "inat": {
+  "id": 117048,
+  "observations": 9089
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 131898505,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131898505/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131898505/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/80472487",
+    "place": "RSPB Binn Green, Greenfield, Greater Manchester, UK",
+    "date": "2021-05-27"
+   },
+   {
+    "id": 399228250,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/399228250/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/399228250/large.jpeg",
+    "attribution": "(c) K.P., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/225195002",
+    "place": "BPN, Polska",
+    "date": "2011-05-03"
+   },
+   {
+    "id": 287052699,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287052699/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287052699/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/165806041",
+    "place": "Parco Nazionale della Sila",
+    "date": "2023-06-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 287052566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287052566/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287052566/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/165805978",
+    "place": "Parco Nazionale della Sila",
+    "date": "2023-06-05"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 131898505,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131898505/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131898505/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/80472487",
+   "place": "RSPB Binn Green, Greenfield, Greater Manchester, UK",
+   "date": "2021-05-27"
+  }
+ },
+ "gbif": {
+  "key": 8128385,
+  "dkTotal": 32674,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   3693,
+   19441,
+   6703,
+   869,
+   1765,
+   148,
+   7,
+   0,
+   1
+  ],
+  "worldTotal": 515952,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 220147
+   },
+   {
+    "code": "FI",
+    "count": 44727
+   },
+   {
+    "code": "FR",
+    "count": 38860
+   },
+   {
+    "code": "DK",
+    "count": 32674
+   },
+   {
+    "code": "NO",
+    "count": 22520
+   },
+   {
+    "code": "GB",
+    "count": 20044
+   },
+   {
+    "code": "RU",
+    "count": 19572
+   },
+   {
+    "code": "EE",
+    "count": 16493
+   },
+   {
+    "code": "DE",
+    "count": 15830
+   },
+   {
+    "code": "PL",
+    "count": 13978
+   },
+   {
+    "code": "NL",
+    "count": 8981
+   },
+   {
+    "code": "ES",
+    "count": 7474
+   }
+  ]
+ },
+ "warnings": []
+}

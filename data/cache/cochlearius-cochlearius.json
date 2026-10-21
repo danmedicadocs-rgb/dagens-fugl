@@ -1,0 +1,151 @@
+{
+ "key": "cochlearius-cochlearius",
+ "name": "Cochlearius cochlearius",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:43.672Z",
+ "names": {
+  "da": "Bådnæbshejre",
+  "en": "Boat-billed Heron",
+  "accepted": "Cochlearius cochlearius"
+ },
+ "wikidata": {
+  "id": "Q210341"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Boat-billed heron",
+  "extract": "The boat-billed heron, colloquially known as the boatbill, is an atypical member of the heron family. It is the only member of the genus Cochlearius and was formerly placed in a monotypic family, the Cochleariidae. It lives in mangrove swamps from Mexico south to Peru and Brazil. It is a nocturnal bird, and breeds semi-colonially in mangrove trees, laying two to four bluish-white eggs in a twig nest.",
+  "url": "https://en.wikipedia.org/wiki/Boat-billed_heron"
+ },
+ "inat": {
+  "id": 5036,
+  "observations": 5598
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 255039100,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/large.jpg",
+    "attribution": "(c) Marina, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148136206",
+    "place": "Sian Ka'an, Tulum, Quintana Roo, MX",
+    "date": "2023-02-04"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 464017826,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464017826/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464017826/large.jpeg",
+    "attribution": "(c) Bruno Luka de Souza Bambirra Silveira, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258603807",
+    "place": "São Paulo, BR",
+    "date": "2025-01-11"
+   },
+   {
+    "id": 600610256,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600610256/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600610256/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331123213",
+    "place": "Barão de Melgaço - State of Mato Grosso, Brazil",
+    "date": "2025-08-06"
+   },
+   {
+    "id": 441199082,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/441199082/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/441199082/large.png",
+    "attribution": "(c) Slunky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/247072855",
+    "place": "Jose Ballivian, Bolivia",
+    "date": "2024-09-17"
+   }
+  ],
+  "hero": {
+   "id": 255039100,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/large.jpg",
+   "attribution": "(c) Marina, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/148136206",
+   "place": "Sian Ka'an, Tulum, Quintana Roo, MX",
+   "date": "2023-02-04"
+  }
+ },
+ "gbif": {
+  "key": 2480833,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 78676,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 31502
+   },
+   {
+    "code": "MX",
+    "count": 11226
+   },
+   {
+    "code": "BZ",
+    "count": 8115
+   },
+   {
+    "code": "BR",
+    "count": 6406
+   },
+   {
+    "code": "PA",
+    "count": 5948
+   },
+   {
+    "code": "CO",
+    "count": 2806
+   },
+   {
+    "code": "EC",
+    "count": 2655
+   },
+   {
+    "code": "GT",
+    "count": 2389
+   },
+   {
+    "code": "HN",
+    "count": 1872
+   },
+   {
+    "code": "PE",
+    "count": 1638
+   },
+   {
+    "code": "NI",
+    "count": 888
+   },
+   {
+    "code": "VE",
+    "count": 746
+   }
+  ]
+ },
+ "warnings": []
+}

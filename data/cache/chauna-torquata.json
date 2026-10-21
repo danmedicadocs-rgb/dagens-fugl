@@ -1,0 +1,151 @@
+{
+ "key": "chauna-torquata",
+ "name": "Chauna torquata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:51:19.530Z",
+ "names": {
+  "da": "Sorthalset Chaja",
+  "en": "Southern Screamer",
+  "accepted": "Chauna torquata"
+ },
+ "wikidata": {
+  "id": "Q602961"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Southern screamer",
+  "extract": "The southern screamer is a species of bird in family Anhimidae of the waterfowl order Anseriformes. It is found in Argentina, Bolivia, Brazil, Paraguay, Peru, and Uruguay.",
+  "url": "https://en.wikipedia.org/wiki/Southern_screamer"
+ },
+ "inat": {
+  "id": 6910,
+  "observations": 6852
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 362316753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362316753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362316753/large.jpg",
+    "attribution": "(c) Rodrigo Cesáreo Pampin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204948307",
+    "place": "San Pedro, Provincia de Buenos Aires, AR",
+    "date": "2024-03-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 445222569,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222569/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222569/large.jpeg",
+    "attribution": "(c) David F. Belmonte, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/249099938",
+    "place": "Reserva Natural Don Luis, Ituzaingó, Corrientes, Argentina",
+    "date": "2024-10-08"
+   },
+   {
+    "id": 34737905,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34737905/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34737905/large.jpeg",
+    "attribution": "(c) Gonzalo Roget, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22428714",
+    "place": "Col. Carlos Pellegrini, Corrientes, Argentina",
+    "date": "2015-10-12"
+   },
+   {
+    "id": 338417101,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338417101/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338417101/large.jpeg",
+    "attribution": "(c) Naelin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/192737695",
+    "place": "Puerto Madero, Buenos Aires, Argentina",
+    "date": "2023-08-07"
+   }
+  ],
+  "hero": {
+   "id": 362316753,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362316753/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362316753/large.jpg",
+   "attribution": "(c) Rodrigo Cesáreo Pampin, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/204948307",
+   "place": "San Pedro, Provincia de Buenos Aires, AR",
+   "date": "2024-03-30"
+  }
+ },
+ "gbif": {
+  "key": 5959222,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 100190,
+  "topCountries": [
+   {
+    "code": "AR",
+    "count": 59768
+   },
+   {
+    "code": "BR",
+    "count": 20061
+   },
+   {
+    "code": "UY",
+    "count": 12395
+   },
+   {
+    "code": "BO",
+    "count": 4915
+   },
+   {
+    "code": "PY",
+    "count": 2683
+   },
+   {
+    "code": "PE",
+    "count": 76
+   },
+   {
+    "code": "ZZ",
+    "count": 32
+   },
+   {
+    "code": "DE",
+    "count": 22
+   },
+   {
+    "code": "US",
+    "count": 18
+   },
+   {
+    "code": "CL",
+    "count": 8
+   },
+   {
+    "code": "ES",
+    "count": 3
+   },
+   {
+    "code": "AT",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

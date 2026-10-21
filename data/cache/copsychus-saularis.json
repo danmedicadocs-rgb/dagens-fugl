@@ -1,0 +1,202 @@
+{
+ "key": "copsychus-saularis",
+ "name": "Copsychus saularis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:28.332Z",
+ "names": {
+  "da": "Dayal",
+  "en": null,
+  "accepted": "Copsychus saularis"
+ },
+ "wikidata": {
+  "id": "Q266761"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Oriental magpie-robin",
+  "extract": "The Oriental magpie-robin is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but now considered an Old World flycatcher. The males are distinctive black and white birds with a long tail that is held upright as they forage on the ground or perch conspicuously. Occurring across most of the Indian subcontinent and parts of Southeast Asia, they are common birds in urban gardens as well as forests. They are particularly well known for their songs and are popular as cagebirds.",
+  "url": "https://en.wikipedia.org/wiki/Oriental_magpie-robin"
+ },
+ "inat": {
+  "id": 204491,
+  "observations": 43967
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 62234856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62234856/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62234856/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39243498",
+    "place": "Dambulla, Matale, Sri Lanka",
+    "date": "2020-02-07"
+   },
+   {
+    "id": 62547763,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62547763/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62547763/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39425627",
+    "place": "Nuwara Eliya, Sri Lanka",
+    "date": "2020-02-13"
+   },
+   {
+    "id": 536352480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536352480/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536352480/large.jpg",
+    "attribution": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297798869",
+    "place": "バングラデシュ ダッカ ミルプール",
+    "date": "2025-07-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 78846863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78846863/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78846863/large.jpeg",
+    "attribution": "(c) carbenoid, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/49666787",
+    "place": "Randalls Island, New York, NY, USA",
+    "date": "2020-06-14"
+   },
+   {
+    "id": 629188894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/629188894/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/629188894/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/345261500",
+    "place": "Kothrud, Pune, Maharashtra, India",
+    "date": "2026-02-22"
+   },
+   {
+    "id": 62234926,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62234926/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62234926/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39243511",
+    "place": "Dambulla, Matale, Sri Lanka",
+    "date": "2020-02-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 19111860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19111860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19111860/large.jpg",
+    "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/13112531",
+    "place": "Fo Tan Rd, Fo Tan, Hong Kong",
+    "date": "2018-06-04"
+   },
+   {
+    "id": 194669537,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194669537/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194669537/large.jpg",
+    "attribution": "(c) John Witton, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/115323886",
+    "place": "Harrow International School, Bangkok, Bangkok, TH",
+    "date": "2022-05-04"
+   },
+   {
+    "id": 197449557,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197449557/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197449557/large.jpeg",
+    "attribution": "(c) Rex Leung, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/116944878",
+    "place": "香港九龍城",
+    "date": "2022-05-14"
+   }
+  ],
+  "hero": {
+   "id": 62234856,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62234856/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62234856/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/39243498",
+   "place": "Dambulla, Matale, Sri Lanka",
+   "date": "2020-02-07"
+  }
+ },
+ "gbif": {
+  "key": 2492680,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1189460,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 771416
+   },
+   {
+    "code": "TH",
+    "count": 103827
+   },
+   {
+    "code": "TW",
+    "count": 86156
+   },
+   {
+    "code": "CN",
+    "count": 44891
+   },
+   {
+    "code": "HK",
+    "count": 41568
+   },
+   {
+    "code": "LK",
+    "count": 39826
+   },
+   {
+    "code": "NP",
+    "count": 24116
+   },
+   {
+    "code": "SG",
+    "count": 23030
+   },
+   {
+    "code": "BD",
+    "count": 16679
+   },
+   {
+    "code": "KH",
+    "count": 12463
+   },
+   {
+    "code": "BT",
+    "count": 5753
+   },
+   {
+    "code": "VN",
+    "count": 5395
+   }
+  ]
+ },
+ "warnings": []
+}

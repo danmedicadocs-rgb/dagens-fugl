@@ -1,0 +1,141 @@
+{
+ "key": "leptoptilos-crumenifer",
+ "name": "Leptoptilos crumenifer",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:21.300Z",
+ "names": {
+  "da": "Marabustork",
+  "en": "Marabou Stork",
+  "accepted": "Leptoptilos crumenifer"
+ },
+ "wikidata": {
+  "id": "Q512737"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Marabustork",
+  "extract": "Marabustork er en storkefugl, der lever i det subsahariske Afrika. Storken kaldes også en filosof pga. dens udseende og rolige og værdige adfærd. Marabustorken lever størstedelen af året som ådselsæder, men fanger levende dyr når den yngler. Marabustorken kan blive mellem 130 og 150 cm og den vejer fra 5 til 9 kg.",
+  "url": "https://da.wikipedia.org/wiki/Marabustork"
+ },
+ "inat": {
+  "id": 201031,
+  "observations": 8096
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 217303165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/large.jpg",
+    "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/127959867",
+    "place": "Nefassilk Lafto, Addis Ababa, Ethiopia",
+    "date": "2020-01-08"
+   },
+   {
+    "id": 299257539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299257539/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299257539/large.jpeg",
+    "attribution": "(c) Thom Doeleman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/172389141",
+    "place": "Salt Lick Safari Lodge",
+    "date": "2023-06-08"
+   },
+   {
+    "id": 718535782,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718535782/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718535782/large.jpg",
+    "attribution": "(c) Jono, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/392108757",
+    "place": "Lake View, Nakuru, Kenya",
+    "date": "2026-08-17"
+   }
+  ],
+  "hero": {
+   "id": 217303165,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/large.jpg",
+   "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/127959867",
+   "place": "Nefassilk Lafto, Addis Ababa, Ethiopia",
+   "date": "2020-01-08"
+  }
+ },
+ "gbif": {
+  "key": 2481946,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 23608,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 13203
+   },
+   {
+    "code": "KE",
+    "count": 4676
+   },
+   {
+    "code": "ZW",
+    "count": 1560
+   },
+   {
+    "code": "NA",
+    "count": 1300
+   },
+   {
+    "code": "BW",
+    "count": 1149
+   },
+   {
+    "code": "SZ",
+    "count": 735
+   },
+   {
+    "code": "MZ",
+    "count": 253
+   },
+   {
+    "code": "ZM",
+    "count": 233
+   },
+   {
+    "code": "UG",
+    "count": 169
+   },
+   {
+    "code": "MW",
+    "count": 60
+   },
+   {
+    "code": "US",
+    "count": 26
+   },
+   {
+    "code": "ET",
+    "count": 25
+   }
+  ]
+ },
+ "warnings": []
+}

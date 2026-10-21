@@ -1,0 +1,172 @@
+{
+ "key": "pygoscelis-papua",
+ "name": "Pygoscelis papua",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:29.928Z",
+ "names": {
+  "da": "Æselpingvin",
+  "en": "Gentoo Penguin",
+  "accepted": "Pygoscelis papua"
+ },
+ "wikidata": {
+  "id": "Q213021"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Æselpingvin",
+  "extract": "En æselpingvin er en pingvin, der hovedsageligt yngler på de subantarktiske øer. Den har navnet efter sin stemme, der lyder som et æsels skryden. Æselpingvinen er en af 18 pingvinarter.",
+  "url": "https://da.wikipedia.org/wiki/%C3%86selpingvin"
+ },
+ "inat": {
+  "id": 3808,
+  "observations": 5673
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 253044037,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253044037/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253044037/large.jpg",
+    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147092540",
+    "place": "Southern Ocean, AQ",
+    "date": "2004-01-12"
+   },
+   {
+    "id": 6729477,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6729477/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6729477/large.jpg",
+    "attribution": "(c) Erasmo Macaya Horta, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/5389615",
+    "place": "Antarctica",
+    "date": "2017-02-09"
+   },
+   {
+    "id": 466892473,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892473/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892473/large.jpg",
+    "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/260030481",
+    "place": "South Georgia and the South Sandwich Islands",
+    "date": "2024-12-14"
+   }
+  ],
+  "adult": [
+   {
+    "id": 601892981,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/331750763",
+    "place": "Neko Harbor, Antarctica",
+    "date": "2025-12-20"
+   },
+   {
+    "id": 600445805,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600445805/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600445805/large.jpg",
+    "attribution": "(c) yongestation, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331042688",
+    "place": "Antártica Chilena, Magallanes y Antártica Chilena, Chile",
+    "date": "2025-12-16"
+   },
+   {
+    "id": 604003803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604003803/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604003803/large.jpg",
+    "attribution": "(c) Alex Brown, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332776888",
+    "place": "Antarctica",
+    "date": "2025-12-29"
+   }
+  ],
+  "hero": {
+   "id": 601892981,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/331750763",
+   "place": "Neko Harbor, Antarctica",
+   "date": "2025-12-20"
+  }
+ },
+ "gbif": {
+  "key": 2481666,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "worldTotal": 31629,
+  "topCountries": [
+   {
+    "code": "AQ",
+    "count": 17872
+   },
+   {
+    "code": "GS",
+    "count": 5223
+   },
+   {
+    "code": "FK",
+    "count": 4989
+   },
+   {
+    "code": "AR",
+    "count": 1190
+   },
+   {
+    "code": "AU",
+    "count": 748
+   },
+   {
+    "code": "TF",
+    "count": 455
+   },
+   {
+    "code": "CL",
+    "count": 418
+   },
+   {
+    "code": "HM",
+    "count": 123
+   },
+   {
+    "code": "GB",
+    "count": 69
+   },
+   {
+    "code": "ZA",
+    "count": 56
+   },
+   {
+    "code": "ZZ",
+    "count": 36
+   },
+   {
+    "code": "US",
+    "count": 35
+   }
+  ]
+ },
+ "warnings": []
+}

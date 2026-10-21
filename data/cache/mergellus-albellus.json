@@ -1,0 +1,182 @@
+{
+ "key": "mergellus-albellus",
+ "name": "Mergellus albellus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:57:44.462Z",
+ "names": {
+  "da": "Lille skallesluger",
+  "en": "Smew",
+  "accepted": "Mergellus albellus"
+ },
+ "wikidata": {
+  "id": "Q200646"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille skallesluger",
+  "extract": "Lille skallesluger er en mindre dykand på cirka 41 centimeter, der yngler ved skovsøer fra det nordlige Skandinavien og østpå i et bredt bælte gennem Asien til Stillehavet. Arten er den eneste i slægten Mergellus. Den lever især af mindre fisk og yngler i hule træer eller spættehuller. Hannen er i pragtdragten, der bæres fra oktober til maj, hvid med en sort plet ved øjet og i nakken, mens hunnen har grå fjerdragt med rødbrun kalot og en hvid kindplet.",
+  "url": "https://da.wikipedia.org/wiki/Lille_skallesluger"
+ },
+ "inat": {
+  "id": 7192,
+  "observations": 9118
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 614194644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614194644/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614194644/large.jpg",
+    "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/337815791",
+    "place": "Provincia di Varese, Italia",
+    "date": "2026-02-08"
+   },
+   {
+    "id": 616103616,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616103616/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616103616/large.jpg",
+    "attribution": "(c) Wolfgang Ahlmer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/338753745",
+    "place": "85368 Wang, Deutschland",
+    "date": "2026-02-15"
+   },
+   {
+    "id": 349812370,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349812370/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349812370/large.jpg",
+    "attribution": "(c) Wang.QG, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198465451",
+    "place": "中国北京市海淀区钓鱼台",
+    "date": "2024-01-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 242918710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242918710/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242918710/large.jpeg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141754658",
+    "place": "Токай, Ота, Токио 143-0001, Япония",
+    "date": "2022-11-06"
+   },
+   {
+    "id": 607897171,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607897171/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607897171/large.jpg",
+    "attribution": "(c) s_schizik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334713335",
+    "place": "Браслаўскі раён, Віцебская вобласць, Беларусь",
+    "date": "2026-01-14"
+   },
+   {
+    "id": 616103741,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616103741/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616103741/large.jpg",
+    "attribution": "(c) Wolfgang Ahlmer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/338753746",
+    "place": "85368 Wang, Deutschland",
+    "date": "2026-02-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 370083510,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370083510/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370083510/large.jpg",
+    "attribution": "(c) SK53, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/209138297",
+    "place": "Nottinghamshire, UK",
+    "date": "2011-01-03"
+   }
+  ],
+  "hero": {
+   "id": 614194644,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614194644/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614194644/large.jpg",
+   "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/337815791",
+   "place": "Provincia di Varese, Italia",
+   "date": "2026-02-08"
+  }
+ },
+ "gbif": {
+  "key": 2498285,
+  "dkTotal": 98549,
+  "dkMonths": [
+   25025,
+   23756,
+   21982,
+   5329,
+   338,
+   53,
+   74,
+   83,
+   61,
+   1226,
+   6793,
+   13804
+  ],
+  "worldTotal": 732817,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 303458
+   },
+   {
+    "code": "NL",
+    "count": 152132
+   },
+   {
+    "code": "DK",
+    "count": 98549
+   },
+   {
+    "code": "NO",
+    "count": 28370
+   },
+   {
+    "code": "BE",
+    "count": 23331
+   },
+   {
+    "code": "FI",
+    "count": 23167
+   },
+   {
+    "code": "GB",
+    "count": 20791
+   },
+   {
+    "code": "DE",
+    "count": 14017
+   },
+   {
+    "code": "EE",
+    "count": 12910
+   },
+   {
+    "code": "JP",
+    "count": 9711
+   },
+   {
+    "code": "FR",
+    "count": 9003
+   },
+   {
+    "code": "RU",
+    "count": 8129
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,151 @@
+{
+ "key": "aegolius-funereus",
+ "name": "Aegolius funereus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:57.005Z",
+ "names": {
+  "da": "Perleugle",
+  "en": "Boreal Owl",
+  "accepted": "Aegolius funereus"
+ },
+ "wikidata": {
+  "id": "Q174466"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Perleugle",
+  "extract": "Perleugle har en længde på 24-26 centimeter og et vingefang på 52-58 centimeter. Perleuglen har et ret rundt hoved, lysende gule øjne, en bred sort kant på sløret og små hvide prikker i fjerdragten i panden.",
+  "url": "https://da.wikipedia.org/wiki/Perleugle"
+ },
+ "inat": {
+  "id": 20359,
+  "observations": 2144
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 444694139,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/248831091",
+    "place": "Ontario, CA",
+    "date": "2024-10-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 218524657,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218524657/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/218524657/large.jpg",
+    "attribution": "(c) Lars Falkdalen Lindahl, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/128641579",
+    "place": "Åre Municipality, Sweden",
+    "date": "2010-08-11"
+   },
+   {
+    "id": 92104512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92104512/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92104512/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/57725790",
+    "place": "St. Oswald-Riedlhütte, Deutschland",
+    "date": "2010-05-09"
+   },
+   {
+    "id": 137192343,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137192343/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137192343/large.jpeg",
+    "attribution": "(c) John Powers, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83528657",
+    "place": "Gunnison County, CO, USA",
+    "date": "2021-06-16"
+   }
+  ],
+  "hero": {
+   "id": 444694139,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/248831091",
+   "place": "Ontario, CA",
+   "date": "2024-10-23"
+  }
+ },
+ "gbif": {
+  "key": 5739298,
+  "dkTotal": 962,
+  "dkMonths": [
+   26,
+   125,
+   336,
+   188,
+   75,
+   64,
+   11,
+   2,
+   4,
+   49,
+   44,
+   9
+  ],
+  "worldTotal": 294995,
+  "topCountries": [
+   {
+    "code": "FI",
+    "count": 161184
+   },
+   {
+    "code": "SE",
+    "count": 73798
+   },
+   {
+    "code": "NO",
+    "count": 16879
+   },
+   {
+    "code": "FR",
+    "count": 12518
+   },
+   {
+    "code": "CA",
+    "count": 10143
+   },
+   {
+    "code": "US",
+    "count": 6731
+   },
+   {
+    "code": "AX",
+    "count": 3180
+   },
+   {
+    "code": "DE",
+    "count": 1082
+   },
+   {
+    "code": "DK",
+    "count": 962
+   },
+   {
+    "code": "EE",
+    "count": 962
+   },
+   {
+    "code": "ES",
+    "count": 931
+   },
+   {
+    "code": "AT",
+    "count": 916
+   }
+  ]
+ },
+ "warnings": []
+}

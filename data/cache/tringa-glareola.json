@@ -1,0 +1,172 @@
+{
+ "key": "tringa-glareola",
+ "name": "Tringa glareola",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:07:42.728Z",
+ "names": {
+  "da": "Tinksmed",
+  "en": "Wood Sandpiper",
+  "accepted": "Tringa glareola"
+ },
+ "wikidata": {
+  "id": "Q18837"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tinksmed",
+  "extract": "Tinksmeden er en sjælden yngletrækfugl i Danmark, men ret almindelig som trækgæst fra Skandinavien. Den yngler især på heder med småsøer og moser. Den er regnet som en truet art på den danske rødliste 2019.",
+  "url": "https://da.wikipedia.org/wiki/Tinksmed"
+ },
+ "inat": {
+  "id": 3888,
+  "observations": 43174
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 405295439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405295439/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405295439/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/228394978",
+    "place": "Кусинские Печи, Челябинская обл., Россия, 456940",
+    "date": "2024-07-10"
+   },
+   {
+    "id": 555542627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555542627/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555542627/large.jpg",
+    "attribution": "(c) Ian Ballam, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/307959225",
+    "place": "Dorset, UK",
+    "date": "2025-08-20"
+   },
+   {
+    "id": 556518052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556518052/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556518052/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/308473707",
+    "place": "Grimsargh, Preston PR2, UK",
+    "date": "2025-08-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 482462782,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482462782/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482462782/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/268410374",
+    "place": "Burgas Municipality, Bulgaria",
+    "date": "2025-04-02"
+   },
+   {
+    "id": 654409976,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654409976/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654409976/large.jpg",
+    "attribution": "(c) Philip Schaffer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/358723475",
+    "place": "Rovinj, Kroatien",
+    "date": "2026-05-03"
+   },
+   {
+    "id": 426346198,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426346198/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426346198/large.jpg",
+    "attribution": "(c) Полина Полежанкина, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239387456",
+    "place": "Хайбуллинский р-н, Респ. Башкортостан, Россия",
+    "date": "2022-05-10"
+   }
+  ],
+  "hero": {
+   "id": 482462782,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482462782/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482462782/large.jpeg",
+   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/268410374",
+   "place": "Burgas Municipality, Bulgaria",
+   "date": "2025-04-02"
+  }
+ },
+ "gbif": {
+  "key": 2481713,
+  "dkTotal": 102695,
+  "dkMonths": [
+   3,
+   1,
+   2,
+   7400,
+   25451,
+   9831,
+   29674,
+   29259,
+   834,
+   78,
+   4,
+   1
+  ],
+  "worldTotal": 1611107,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 474846
+   },
+   {
+    "code": "IN",
+    "count": 195114
+   },
+   {
+    "code": "DK",
+    "count": 102695
+   },
+   {
+    "code": "TW",
+    "count": 98845
+   },
+   {
+    "code": "NO",
+    "count": 76474
+   },
+   {
+    "code": "FI",
+    "count": 72640
+   },
+   {
+    "code": "ZA",
+    "count": 59516
+   },
+   {
+    "code": "FR",
+    "count": 45699
+   },
+   {
+    "code": "ES",
+    "count": 41894
+   },
+   {
+    "code": "NL",
+    "count": 30714
+   },
+   {
+    "code": "IL",
+    "count": 23724
+   },
+   {
+    "code": "AU",
+    "count": 23555
+   }
+  ]
+ },
+ "warnings": []
+}

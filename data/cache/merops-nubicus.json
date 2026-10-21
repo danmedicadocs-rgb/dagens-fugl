@@ -1,0 +1,121 @@
+{
+ "key": "merops-nubicus",
+ "name": "Merops nubicus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:29:56.824Z",
+ "names": {
+  "da": "Bee-eater Karminbiæder",
+  "en": "Northern Carmine Bee-eater",
+  "accepted": "Merops nubicus"
+ },
+ "wikidata": {
+  "id": "Q1071843"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Karminbiæder",
+  "extract": "Karminbiæder er en sahelisk skrigefugl, der lever i subsaharisk Afrikas nordlige del.",
+  "url": "https://da.wikipedia.org/wiki/Karminbi%C3%A6der"
+ },
+ "inat": {
+  "id": 2220,
+  "observations": 819
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 345051595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345051595/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345051595/large.jpeg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196047020",
+    "place": "Tambacounda, Senegal",
+    "date": "2024-01-05"
+   }
+  ],
+  "hero": {
+   "id": 345051595,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345051595/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345051595/large.jpeg",
+   "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/196047020",
+   "place": "Tambacounda, Senegal",
+   "date": "2024-01-05"
+  }
+ },
+ "gbif": {
+  "key": 2475396,
+  "dkTotal": 5,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1,
+   1,
+   1
+  ],
+  "worldTotal": 12674,
+  "topCountries": [
+   {
+    "code": "KE",
+    "count": 4270
+   },
+   {
+    "code": "ET",
+    "count": 2409
+   },
+   {
+    "code": "UG",
+    "count": 1650
+   },
+   {
+    "code": "TZ",
+    "count": 610
+   },
+   {
+    "code": "GH",
+    "count": 548
+   },
+   {
+    "code": "NG",
+    "count": 537
+   },
+   {
+    "code": "SN",
+    "count": 505
+   },
+   {
+    "code": "GM",
+    "count": 370
+   },
+   {
+    "code": "BJ",
+    "count": 244
+   },
+   {
+    "code": "SE",
+    "count": 242
+   },
+   {
+    "code": "TD",
+    "count": 155
+   },
+   {
+    "code": "CM",
+    "count": 140
+   }
+  ]
+ },
+ "warnings": []
+}

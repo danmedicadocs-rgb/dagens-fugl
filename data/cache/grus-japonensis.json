@@ -1,0 +1,141 @@
+{
+ "key": "grus-japonensis",
+ "name": "Grus japonensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:43.831Z",
+ "names": {
+  "da": "Japansk Trane",
+  "en": "Red-crowned Crane",
+  "accepted": "Grus japonensis"
+ },
+ "wikidata": {
+  "id": "Q232906"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-crowned crane",
+  "extract": "The red-crowned crane, also called the Japanese crane and the Manchurian crane, is a large Northeast Asian crane among the rarest cranes in the world. In some parts of its range, it is known as a symbol of luck, longevity, and fidelity.",
+  "url": "https://en.wikipedia.org/wiki/Red-crowned_crane"
+ },
+ "inat": {
+  "id": 39,
+  "observations": 1778
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 2655507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/large.jpg",
+    "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2382482",
+    "place": "Gangwon-do, KR",
+    "date": "2001-03-07"
+   },
+   {
+    "id": 593684050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593684050/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593684050/large.jpg",
+    "attribution": "(c) Jacob She, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327678746",
+    "place": "Shandong, CN",
+    "date": "2024-11-19"
+   },
+   {
+    "id": 471364931,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471364931/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471364931/large.jpeg",
+    "attribution": "(c) Benjamin Mako Hill, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/262357542",
+    "place": "Tsurumidai, Shimosetsuri, Tsurui, Akan District, Hokkaido 085-1211, Japan",
+    "date": "2025-02-20"
+   }
+  ],
+  "hero": {
+   "id": 2655507,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/2382482",
+   "place": "Gangwon-do, KR",
+   "date": "2001-03-07"
+  }
+ },
+ "gbif": {
+  "key": 2474944,
+  "dkTotal": 87,
+  "dkMonths": [
+   16,
+   17,
+   6,
+   2,
+   2,
+   0,
+   0,
+   3,
+   4,
+   5,
+   12,
+   20
+  ],
+  "worldTotal": 7887,
+  "topCountries": [
+   {
+    "code": "JP",
+    "count": 3584
+   },
+   {
+    "code": "KR",
+    "count": 1371
+   },
+   {
+    "code": "CN",
+    "count": 966
+   },
+   {
+    "code": "RU",
+    "count": 741
+   },
+   {
+    "code": "TW",
+    "count": 261
+   },
+   {
+    "code": "US",
+    "count": 220
+   },
+   {
+    "code": "NL",
+    "count": 154
+   },
+   {
+    "code": "ES",
+    "count": 135
+   },
+   {
+    "code": "DK",
+    "count": 87
+   },
+   {
+    "code": "MN",
+    "count": 44
+   },
+   {
+    "code": "DE",
+    "count": 35
+   },
+   {
+    "code": "BE",
+    "count": 15
+   }
+  ]
+ },
+ "warnings": []
+}

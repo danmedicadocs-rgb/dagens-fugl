@@ -1,0 +1,141 @@
+{
+ "key": "mesembrinibis-cayennensis",
+ "name": "Mesembrinibis cayennensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:52:46.118Z",
+ "names": {
+  "da": "Grøn Ibis",
+  "en": "Green ibis",
+  "accepted": "Mesembrinibis cayennensis"
+ },
+ "wikidata": {
+  "id": "Q912057"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Grøn ibis",
+  "extract": "Grøn ibis er en amerikansk storkefugl, der lever fra Costa Rica til Rio Grande do Sul.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%B8n_ibis"
+ },
+ "inat": {
+  "id": 3770,
+  "observations": 4196
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 422469837,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/large.jpeg",
+    "attribution": "(c) Carlos Alexandre Mattos Raposo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/237386777",
+    "place": "Campos do Jordão - SP, 12460-000, Brasil",
+    "date": "2024-08-19"
+   },
+   {
+    "id": 710634165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710634165/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710634165/large.jpg",
+    "attribution": "(c) Caroline Galassi, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/388039633",
+    "place": "Amparo, SP, Brasil",
+    "date": "2025-10-25"
+   },
+   {
+    "id": 310425058,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310425058/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310425058/large.jpeg",
+    "attribution": "(c) Rodrigo Paiva Lázaro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/178398495",
+    "place": "Perove, Embu das Artes - SP, 06845, Brasil",
+    "date": "2023-08-06"
+   }
+  ],
+  "hero": {
+   "id": 422469837,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/large.jpeg",
+   "attribution": "(c) Carlos Alexandre Mattos Raposo, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/237386777",
+   "place": "Campos do Jordão - SP, 12460-000, Brasil",
+   "date": "2024-08-19"
+  }
+ },
+ "gbif": {
+  "key": 2480808,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 144264,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 54626
+   },
+   {
+    "code": "CR",
+    "count": 36487
+   },
+   {
+    "code": "CO",
+    "count": 30925
+   },
+   {
+    "code": "PA",
+    "count": 5282
+   },
+   {
+    "code": "PE",
+    "count": 5268
+   },
+   {
+    "code": "BO",
+    "count": 2591
+   },
+   {
+    "code": "VE",
+    "count": 2147
+   },
+   {
+    "code": "AR",
+    "count": 2141
+   },
+   {
+    "code": "GY",
+    "count": 1448
+   },
+   {
+    "code": "EC",
+    "count": 1337
+   },
+   {
+    "code": "NI",
+    "count": 636
+   },
+   {
+    "code": "SR",
+    "count": 516
+   }
+  ]
+ },
+ "warnings": []
+}

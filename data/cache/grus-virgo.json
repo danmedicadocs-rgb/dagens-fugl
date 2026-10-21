@@ -1,0 +1,147 @@
+{
+ "key": "grus-virgo",
+ "name": "Grus virgo",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:50.281Z",
+ "names": {
+  "da": "Jomfrutrane",
+  "en": "Demoiselle Crane",
+  "accepted": "Grus virgo"
+ },
+ "wikidata": {
+  "id": "Q23759614"
+ },
+ "wiki": null,
+ "inat": {
+  "id": 48,
+  "observations": 4056
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 57392302,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57392302/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57392302/large.jpg",
+    "attribution": "(c) Алина Урусова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/36315806",
+    "place": "Палласовский р-н, Волгоградская обл., Россия",
+    "date": "2017-06-24"
+   }
+  ],
+  "adult": [
+   {
+    "id": 197802886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197802886/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197802886/large.jpeg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/117144085",
+    "place": "Томский р-н, Томская обл., Россия",
+    "date": "2022-05-14"
+   },
+   {
+    "id": 85970339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85970339/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85970339/large.jpg",
+    "attribution": "(c) Safina Rezeda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/54041354",
+    "place": "Рангазар, Респ. Татарстан, Россия, 423359",
+    "date": "2020-06-09"
+   },
+   {
+    "id": 705226226,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/705226226/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/705226226/large.jpg",
+    "attribution": "(c) Надежда Костюкова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384240302",
+    "place": "Респ. Алтай, Россия, 649446",
+    "date": "2026-07-23"
+   }
+  ],
+  "hero": {
+   "id": 197802886,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197802886/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197802886/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/117144085",
+   "place": "Томский р-н, Томская обл., Россия",
+   "date": "2022-05-14"
+  }
+ },
+ "gbif": {
+  "key": 2474936,
+  "dkTotal": 155,
+  "dkMonths": [
+   0,
+   3,
+   0,
+   0,
+   2,
+   6,
+   93,
+   50,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 25525,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 8971
+   },
+   {
+    "code": "MN",
+    "count": 5373
+   },
+   {
+    "code": "RU",
+    "count": 2897
+   },
+   {
+    "code": "KZ",
+    "count": 1665
+   },
+   {
+    "code": "NL",
+    "count": 1242
+   },
+   {
+    "code": "UA",
+    "count": 846
+   },
+   {
+    "code": "SE",
+    "count": 749
+   },
+   {
+    "code": "CN",
+    "count": 533
+   },
+   {
+    "code": "TR",
+    "count": 265
+   },
+   {
+    "code": "NO",
+    "count": 231
+   },
+   {
+    "code": "GE",
+    "count": 219
+   },
+   {
+    "code": "IL",
+    "count": 208
+   }
+  ]
+ },
+ "warnings": []
+}

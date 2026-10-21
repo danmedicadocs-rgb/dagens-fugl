@@ -1,0 +1,151 @@
+{
+ "key": "gulosus-aristotelis",
+ "name": "Gulosus aristotelis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:00:00.021Z",
+ "names": {
+  "da": "Topskarv",
+  "en": "European shag",
+  "accepted": "Gulosus aristotelis"
+ },
+ "wikidata": {
+  "id": "Q83020448"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Topskarv",
+  "extract": "Topskarv er en skarvefugl som er lidt mindre end en normal skarv og med tyndere hals og næb. Den voksne fugl er sort med grønlig metalglans. Topskarvens føde består udelukkende af fisk.",
+  "url": "https://da.wikipedia.org/wiki/Topskarv"
+ },
+ "inat": {
+  "id": 1289604,
+  "observations": 18449
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 498926023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498926023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498926023/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/277865546",
+    "place": "Vardø, Noruega",
+    "date": "2025-04-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 332126706,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332126706/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332126706/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189570956",
+    "place": "Central Bedfordshire, UK",
+    "date": "2023-10-31"
+   },
+   {
+    "id": 469316232,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469316232/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469316232/large.jpeg",
+    "attribution": "(c) Fabien52851, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261251224",
+    "place": "Iles de Lérin, Cannes, France",
+    "date": "2025-02-09"
+   },
+   {
+    "id": 459884131,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459884131/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459884131/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/256489066",
+    "place": "Northumberland, UK",
+    "date": "2021-07-10"
+   }
+  ],
+  "hero": {
+   "id": 53779299,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53779299/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53779299/large.jpg",
+   "attribution": "(c) Tony, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/53779299",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481861,
+  "dkTotal": 2973,
+  "dkMonths": [
+   239,
+   220,
+   325,
+   405,
+   574,
+   93,
+   34,
+   59,
+   267,
+   378,
+   247,
+   127
+  ],
+  "worldTotal": 533101,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 127752
+   },
+   {
+    "code": "NO",
+    "count": 121706
+   },
+   {
+    "code": "ES",
+    "count": 62075
+   },
+   {
+    "code": "SE",
+    "count": 60463
+   },
+   {
+    "code": "NL",
+    "count": 27540
+   },
+   {
+    "code": "FR",
+    "count": 27251
+   },
+   {
+    "code": "IE",
+    "count": 20684
+   },
+   {
+    "code": "IM",
+    "count": 19338
+   },
+   {
+    "code": "PT",
+    "count": 14027
+   },
+   {
+    "code": "GR",
+    "count": 8521
+   },
+   {
+    "code": "TR",
+    "count": 8210
+   },
+   {
+    "code": "IS",
+    "count": 7284
+   }
+  ]
+ },
+ "warnings": []
+}

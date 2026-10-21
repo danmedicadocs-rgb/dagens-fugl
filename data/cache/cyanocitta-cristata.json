@@ -1,0 +1,202 @@
+{
+ "key": "cyanocitta-cristata",
+ "name": "Cyanocitta cristata",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:40:51.778Z",
+ "names": {
+  "da": "Blå Skovskade",
+  "en": "Blue Jay",
+  "accepted": "Cyanocitta cristata"
+ },
+ "wikidata": {
+  "id": "Q199758"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blue jay",
+  "extract": "The blue jay is a passerine bird in the family Corvidae, native to eastern North America. It lives in most of the eastern and central United States; some eastern populations may be migratory. Resident populations are also in Newfoundland, Canada; breeding populations are found across southern Canada. It breeds in both deciduous and coniferous forests, and is common in residential areas. Its coloration is predominantly blue, with a white chest and underparts, and a blue crest; it has a black, U-shaped collar around its neck and a black border behind the crest. Males and females are similar in size and plumage, which does not vary throughout the year. Four subspecies have been recognized.",
+  "url": "https://en.wikipedia.org/wiki/Blue_jay"
+ },
+ "inat": {
+  "id": 8229,
+  "observations": 209674
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 144436338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144436338/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144436338/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/86195855",
+    "place": "Newton Highlands, Newton, MA, USA",
+    "date": "2021-07-08"
+   },
+   {
+    "id": 541276756,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541276756/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541276756/large.jpg",
+    "attribution": "(c) Alexia Lorentz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/300410233",
+    "place": "Zanesville, OH 43701, USA",
+    "date": "2025-07-23"
+   },
+   {
+    "id": 16558790,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16558790/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16558790/large.jpg",
+    "attribution": "(c) pelican5, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11592191",
+    "place": null,
+    "date": "2018-04-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 603805377,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603805377/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603805377/large.jpg",
+    "attribution": "(c) Texas Bird Family, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332678814",
+    "place": "Villages Of Bear Creek, TX 77449, USA",
+    "date": "2025-12-29"
+   },
+   {
+    "id": 1824573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1824573/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1824573/large.jpg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/1471790",
+    "place": "Lochwood Neighborhood, Dallas, TX",
+    "date": "2015-05-09"
+   },
+   {
+    "id": 144864183,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144864183/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144864183/large.jpeg",
+    "attribution": "(c) sarah1862, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/87837312",
+    "place": "Buckner Terrace / Everglade Park, Dallas, TX, USA",
+    "date": "2021-06-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 517281614,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517281614/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/517281614/large.jpg",
+    "attribution": "(c) foxsu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/287685988",
+    "place": "Brooklyn, NY, USA",
+    "date": "2025-06-07"
+   },
+   {
+    "id": 215650488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215650488/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215650488/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/127051774",
+    "place": "Newport, MN, USA",
+    "date": "2022-07-06"
+   },
+   {
+    "id": 201356381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201356381/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201356381/large.jpeg",
+    "attribution": "(c) Mila C., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/119134805",
+    "place": "Northwest Philadelphia, Philadelphia, PA, USA",
+    "date": "2022-05-28"
+   }
+  ],
+  "hero": {
+   "id": 530721418,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/large.jpg",
+   "attribution": "(c) Judy Gallagher, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/530721418",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2482593,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 24115745,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 20645181
+   },
+   {
+    "code": "CA",
+    "count": 3468521
+   },
+   {
+    "code": "PM",
+    "count": 1023
+   },
+   {
+    "code": "ZZ",
+    "count": 26
+   },
+   {
+    "code": "GB",
+    "count": 10
+   },
+   {
+    "code": "CR",
+    "count": 2
+   },
+   {
+    "code": "ES",
+    "count": 2
+   },
+   {
+    "code": "GR",
+    "count": 2
+   },
+   {
+    "code": "MX",
+    "count": 2
+   },
+   {
+    "code": "PR",
+    "count": 2
+   },
+   {
+    "code": "BM",
+    "count": 1
+   },
+   {
+    "code": "CO",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

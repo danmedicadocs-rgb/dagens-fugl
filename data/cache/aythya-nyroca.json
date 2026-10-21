@@ -1,0 +1,171 @@
+{
+ "key": "aythya-nyroca",
+ "name": "Aythya nyroca",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:56:57.773Z",
+ "names": {
+  "da": "Hvidøjet And",
+  "en": "Ferruginous Duck",
+  "accepted": "Aythya nyroca"
+ },
+ "wikidata": {
+  "id": "Q191723"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Ferruginous duck",
+  "extract": "The ferruginous duck, also known as the ferruginous pochard, common white-eye or white-eyed pochard, is a medium-sized diving duck native to the Palearctic. The scientific name is derived from the Ancient Greek word, αἴθυιᾰ, an unknown seabird mentioned by authors including Hesychius and Aristotle, and the Russian word, нырок, the Russian word for pochard, which occurs in the bird's Russian common name.",
+  "url": "https://en.wikipedia.org/wiki/Ferruginous_duck"
+ },
+ "inat": {
+  "id": 7055,
+  "observations": 6828
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 541646859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541646859/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541646859/large.jpg",
+    "attribution": "(c) Andrew Thomas, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/300606410",
+    "place": "Somerset, England, GB",
+    "date": "2017-11-12"
+   },
+   {
+    "id": 23399328,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23399328/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23399328/large.jpeg",
+    "attribution": "(c) Aissa Djamel Filali, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/15680853",
+    "place": "Constantine, DZ",
+    "date": "2018-04-18"
+   },
+   {
+    "id": 249766287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249766287/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249766287/large.jpeg",
+    "attribution": "(c) Michael Bakker Paiva, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145414254",
+    "place": "Portugal",
+    "date": "2022-12-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 688003899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/688003899/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/688003899/large.jpg",
+    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/376314643",
+    "place": "Oxfordshire, England, GB",
+    "date": "2026-06-28"
+   },
+   {
+    "id": 351766274,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351766274/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351766274/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/199465162",
+    "place": "Belgium",
+    "date": "2024-02-16"
+   },
+   {
+    "id": 257671611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257671611/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257671611/large.jpg",
+    "attribution": "(c) 林孫鋒(Lin Sun Fong), some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/149524985",
+    "place": "Taiwan",
+    "date": "2023-02-15"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 6567260,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6567260/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6567260/large.jpg",
+   "attribution": "(c) Martin Mecnarowski, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/6567260",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498259,
+  "dkTotal": 2489,
+  "dkMonths": [
+   203,
+   133,
+   103,
+   58,
+   222,
+   336,
+   568,
+   215,
+   100,
+   256,
+   262,
+   31
+  ],
+  "worldTotal": 164393,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 20299
+   },
+   {
+    "code": "NL",
+    "count": 18465
+   },
+   {
+    "code": "ES",
+    "count": 16102
+   },
+   {
+    "code": "IL",
+    "count": 11394
+   },
+   {
+    "code": "FR",
+    "count": 6813
+   },
+   {
+    "code": "CN",
+    "count": 6021
+   },
+   {
+    "code": "BE",
+    "count": 5505
+   },
+   {
+    "code": "IT",
+    "count": 5282
+   },
+   {
+    "code": "HU",
+    "count": 4499
+   },
+   {
+    "code": "TR",
+    "count": 4388
+   },
+   {
+    "code": "GR",
+    "count": 4285
+   },
+   {
+    "code": "SE",
+    "count": 4054
+   }
+  ]
+ },
+ "warnings": []
+}

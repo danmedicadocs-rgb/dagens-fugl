@@ -1,0 +1,182 @@
+{
+ "key": "histrionicus-histrionicus",
+ "name": "Histrionicus histrionicus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:46:12.308Z",
+ "names": {
+  "da": "Strømand",
+  "en": "Harlequin Duck",
+  "accepted": "Histrionicus histrionicus"
+ },
+ "wikidata": {
+  "id": "Q331179"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Strømand",
+  "extract": "Strømand er en fugl i familien af egentlige andefugle, der yngler ved vandløb i Nordamerika, det vestlige Rusland samt Grønland og Island. Arten er den eneste i slægten Histrionicus. Det er en kortdistancetrækker, der overvintrer ved kysten og derfor sjældent ses i Vesteuropa.",
+  "url": "https://da.wikipedia.org/wiki/Str%C3%B8mand"
+ },
+ "inat": {
+  "id": 7111,
+  "observations": 18298
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 53608302,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53608302/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53608302/large.jpg",
+    "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/34090406",
+    "place": "Петроградский р-н, Санкт-Петербург, Россия",
+    "date": "2017-10-19"
+   },
+   {
+    "id": 592100847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592100847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592100847/large.jpg",
+    "attribution": "(c) Kevin Krebs, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326880446",
+    "place": "Tsawwassen, Delta, BC, Canada",
+    "date": "2025-11-16"
+   },
+   {
+    "id": 618751155,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618751155/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618751155/large.jpg",
+    "attribution": "(c) Simone Littledale, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340057791",
+    "place": "Victoria, BC V8S 2H5, Canada",
+    "date": "2026-02-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 460575084,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460575084/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460575084/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/256831367",
+    "place": "Barnegat Light, NJ, USA",
+    "date": "2024-12-30"
+   },
+   {
+    "id": 172827406,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172827406/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172827406/large.jpg",
+    "attribution": "(c) Elizabeth Green, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/103286580",
+    "place": "Sussex County, DE, USA",
+    "date": "2021-12-02"
+   },
+   {
+    "id": 412048921,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412048921/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412048921/large.jpeg",
+    "attribution": "(c) Glenn Wooden, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/231961264",
+    "place": "Longspell Rd, Kings, NS, CA",
+    "date": "2024-07-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 64782034,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64782034/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64782034/large.jpg",
+    "attribution": "(c) Matt Muir, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40862466",
+    "place": "South Addition, Anchorage, AK, USA",
+    "date": "2020-03-27"
+   }
+  ],
+  "hero": {
+   "id": 53608302,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53608302/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53608302/large.jpg",
+   "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/34090406",
+   "place": "Петроградский р-н, Санкт-Петербург, Россия",
+   "date": "2017-10-19"
+  }
+ },
+ "gbif": {
+  "key": 2498224,
+  "dkTotal": 5,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   1
+  ],
+  "worldTotal": 440280,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 279088
+   },
+   {
+    "code": "CA",
+    "count": 132926
+   },
+   {
+    "code": "IS",
+    "count": 15300
+   },
+   {
+    "code": "JP",
+    "count": 7181
+   },
+   {
+    "code": "RU",
+    "count": 2533
+   },
+   {
+    "code": "PM",
+    "count": 1038
+   },
+   {
+    "code": "KR",
+    "count": 730
+   },
+   {
+    "code": "GL",
+    "count": 386
+   },
+   {
+    "code": "GB",
+    "count": 199
+   },
+   {
+    "code": "NO",
+    "count": 164
+   },
+   {
+    "code": "NL",
+    "count": 135
+   },
+   {
+    "code": "MX",
+    "count": 55
+   }
+  ]
+ },
+ "warnings": []
+}

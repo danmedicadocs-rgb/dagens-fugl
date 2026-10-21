@@ -1,0 +1,171 @@
+{
+ "key": "euplectes-orix",
+ "name": "Euplectes orix",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:16.580Z",
+ "names": {
+  "da": "Oryxvæver",
+  "en": "Southern Red Bishop",
+  "accepted": "Euplectes orix"
+ },
+ "wikidata": {
+  "id": "Q183396"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Southern red bishop",
+  "extract": "The southern red bishop or red bishop is a small passerine bird belonging to the bishop and widowbird genus Euplectes in the weaver family, the Ploceidae. It is common in wetlands and grassland in Africa south of the Equator. North of the Equator, it is replaced by the northern red bishop or orange bishop which was formerly regarded as a subspecies of this species.",
+  "url": "https://en.wikipedia.org/wiki/Southern_red_bishop"
+ },
+ "inat": {
+  "id": 13962,
+  "observations": 7153
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 335916366,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335916366/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335916366/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/191483889",
+    "place": "Durban Botanical Gardens",
+    "date": "2023-11-11"
+   },
+   {
+    "id": 421216439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421216439/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421216439/large.jpeg",
+    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/236741937",
+    "place": "Matroosfontein, Cape Town, 7490, South Africa",
+    "date": "2024-08-19"
+   },
+   {
+    "id": 168513952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168513952/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168513952/large.jpg",
+    "attribution": "(c) Paapi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/100934405",
+    "place": "R74 muden road, Weenen, 3325, South Africa",
+    "date": "2021-11-10"
+   }
+  ],
+  "female": [
+   {
+    "id": 353548337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353548337/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353548337/large.jpeg",
+    "attribution": "(c) Mahomed Desai, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200393490",
+    "place": "Mount Moreland Agricultural, Mount Moreland, 4339, South Africa",
+    "date": "2024-02-20"
+   },
+   {
+    "id": 119108874,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119108874/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/119108874/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/72991210",
+    "place": "Stormberg District, South Africa",
+    "date": "2021-03-29"
+   },
+   {
+    "id": 103032166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103032166/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103032166/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/64119831",
+    "place": "Harding, 4680, South Africa",
+    "date": "2020-11-03"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 335916366,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335916366/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335916366/large.jpeg",
+   "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/191483889",
+   "place": "Durban Botanical Gardens",
+   "date": "2023-11-11"
+  }
+ },
+ "gbif": {
+  "key": 2494088,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 389798,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 359585
+   },
+   {
+    "code": "ZW",
+    "count": 6984
+   },
+   {
+    "code": "NA",
+    "count": 4368
+   },
+   {
+    "code": "TZ",
+    "count": 2934
+   },
+   {
+    "code": "UG",
+    "count": 2456
+   },
+   {
+    "code": "ZM",
+    "count": 2156
+   },
+   {
+    "code": "BW",
+    "count": 1998
+   },
+   {
+    "code": "MZ",
+    "count": 1547
+   },
+   {
+    "code": "SZ",
+    "count": 1544
+   },
+   {
+    "code": "KE",
+    "count": 1109
+   },
+   {
+    "code": "AE",
+    "count": 1063
+   },
+   {
+    "code": "MW",
+    "count": 960
+   }
+  ]
+ },
+ "warnings": []
+}

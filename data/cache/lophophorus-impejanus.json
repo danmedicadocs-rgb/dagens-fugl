@@ -1,0 +1,171 @@
+{
+ "key": "lophophorus-impejanus",
+ "name": "Lophophorus impejanus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:37.804Z",
+ "names": {
+  "da": "Glansfasan",
+  "en": "Himalayan Monal",
+  "accepted": "Lophophorus impejanus"
+ },
+ "wikidata": {
+  "id": "Q742818"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Himalayan monal",
+  "extract": "The Himalayan monal, also called Impeyan monal, is a landfowl native to Himalayan forests and shrublands at elevations of 2,100–4,500 m (6,900–14,800 ft). It is part of the family Phasianidae and is listed as Least Concern on the IUCN Red List.\nIt is the national bird of Nepal, where it is known as the danphe or danfe, and state bird of Uttarakhand, India, where it is known as a monal.\nThe scientific name commemorates Lady Mary Impey, the wife of the British chief justice of Bengal, Sir Elijah Impey.",
+  "url": "https://en.wikipedia.org/wiki/Himalayan_monal"
+ },
+ "inat": {
+  "id": 1175,
+  "observations": 759
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 483766041,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/large.jpg",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/269085693",
+    "place": "Гуил, Уттаракханд 246173, Индия",
+    "date": "2025-03-23"
+   },
+   {
+    "id": 110500322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110500322/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110500322/large.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68270308",
+    "place": "Bhulkan, Uttarakhand, India",
+    "date": "2018-04-29"
+   },
+   {
+    "id": 207682397,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207682397/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207682397/large.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/122651529",
+    "place": "Bumthang, Bhutan",
+    "date": "2017-04-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 207777102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207777102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207777102/large.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/122702640",
+    "place": "Bumthang, Bhutan",
+    "date": "2017-04-08"
+   },
+   {
+    "id": 236247699,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236247699/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236247699/large.jpeg",
+    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138241049",
+    "place": "Munsyari",
+    "date": "2022-10-02"
+   },
+   {
+    "id": 170839862,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170839862/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170839862/large.jpeg",
+    "attribution": "(c) Hopeland, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/102227794",
+    "place": "Pithoragarh, IN-UT, IN",
+    "date": "2021-09-21"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 483766041,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/269085693",
+   "place": "Гуил, Уттаракханд 246173, Индия",
+   "date": "2025-03-23"
+  }
+ },
+ "gbif": {
+  "key": 5227747,
+  "dkTotal": 18,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   8,
+   0,
+   2,
+   0,
+   0,
+   1
+  ],
+  "worldTotal": 11076,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 7092
+   },
+   {
+    "code": "BT",
+    "count": 1845
+   },
+   {
+    "code": "NP",
+    "count": 1159
+   },
+   {
+    "code": "PK",
+    "count": 196
+   },
+   {
+    "code": "CN",
+    "count": 172
+   },
+   {
+    "code": "ZZ",
+    "count": 55
+   },
+   {
+    "code": "US",
+    "count": 31
+   },
+   {
+    "code": "DK",
+    "count": 18
+   },
+   {
+    "code": "AF",
+    "count": 16
+   },
+   {
+    "code": "FR",
+    "count": 12
+   },
+   {
+    "code": "MM",
+    "count": 8
+   },
+   {
+    "code": "DE",
+    "count": 7
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,112 @@
+{
+ "key": "corcorax-melanorhamphos",
+ "name": "Corcorax melanorhamphos",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:40:32.441Z",
+ "names": {
+  "da": "Hvidvinget Fløjteskade",
+  "en": "White-winged chough",
+  "accepted": "Corcorax melanorhamphos"
+ },
+ "wikidata": {
+  "id": "Q971196"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "White-winged chough",
+  "extract": "The white-winged chough is one of only two surviving species of the Australian mud-nest builders family, Corcoracidae, and is the only member of the genus Corcorax. It is native to southern and eastern Australia and is an example of convergent evolution as it is only distantly related to the European choughs that it closely resembles in shape, and for which it was named.",
+  "url": "https://en.wikipedia.org/wiki/White-winged_chough"
+ },
+ "inat": {
+  "id": 8658,
+  "observations": 6416
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 106368368,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106368368/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106368368/large.jpeg",
+    "attribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66034718",
+    "place": "Wategora Reserve along Duck River, Sydney, New South Wales",
+    "date": "2020-12-03"
+   }
+  ],
+  "adult": [
+   {
+    "id": 127957758,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/large.jpg",
+    "attribution": "(c) Third Silence, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/78205833",
+    "place": "Australia",
+    "date": "2019-07-11"
+   },
+   {
+    "id": 442134684,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442134684/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442134684/large.jpg",
+    "attribution": "(c) Martin Kalfatovic, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/247543171",
+    "place": "Canberra Central, ACT, Australia",
+    "date": "2024-10-15"
+   },
+   {
+    "id": 664886690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664886690/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664886690/large.jpg",
+    "attribution": "(c) James K. Douch, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/364211495",
+    "place": "Armidale Dumaresq Bal, AU-NS, AU",
+    "date": "2026-05-20"
+   }
+  ],
+  "hero": {
+   "id": 127957758,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/large.jpg",
+   "attribution": "(c) Third Silence, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/78205833",
+   "place": "Australia",
+   "date": "2019-07-11"
+  }
+ },
+ "gbif": {
+  "key": 5845081,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 297460,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 297398
+   },
+   {
+    "code": "ZZ",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

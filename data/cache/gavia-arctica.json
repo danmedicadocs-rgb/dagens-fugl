@@ -1,0 +1,161 @@
+{
+ "key": "gavia-arctica",
+ "name": "Gavia arctica",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:26.991Z",
+ "names": {
+  "da": "Sortstrubet lom",
+  "en": "Black-throated loon",
+  "accepted": "Gavia arctica"
+ },
+ "wikidata": {
+  "id": "Q184432"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sortstrubet lom",
+  "extract": "Den sortstrubede lom er en fugl i lomslægten. Den når en længde på 63-75 cm med et vingefang på 100-122 cm. Dens levealder er 20 år. Fuglen yngler i Eurasien og lejlighedsvis i det vestlige Alaska. Den er en almindelig trækfugl i Danmark om vinteren.",
+  "url": "https://da.wikipedia.org/wiki/Sortstrubet_lom"
+ },
+ "inat": {
+  "id": 4623,
+  "observations": 7737
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 711597438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/large.jpg",
+    "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/388529918",
+    "place": "Värmdö, SE-ST, SE",
+    "date": "2026-08-05"
+   },
+   {
+    "id": 254067356,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254067356/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254067356/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147630842",
+    "place": "Челябинская обл., Россия, 456143",
+    "date": "2022-05-15"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 293615391,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293615391/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293615391/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/169362398",
+    "place": "озеро Серебры",
+    "date": "2023-06-24"
+   },
+   {
+    "id": 716737241,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716737241/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716737241/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/391175492",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2026-08-14"
+   },
+   {
+    "id": 710207937,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710207937/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710207937/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/387821738",
+    "place": "Челябинская обл., Россия, 456143",
+    "date": "2026-08-03"
+   }
+  ],
+  "hero": {
+   "id": 711597438,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/large.jpg",
+   "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/388529918",
+   "place": "Värmdö, SE-ST, SE",
+   "date": "2026-08-05"
+  }
+ },
+ "gbif": {
+  "key": 2481959,
+  "dkTotal": 43385,
+  "dkMonths": [
+   2083,
+   1616,
+   2567,
+   6544,
+   7811,
+   1489,
+   1246,
+   2432,
+   5529,
+   6204,
+   3808,
+   2027
+  ],
+  "worldTotal": 688046,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 428797
+   },
+   {
+    "code": "NO",
+    "count": 97963
+   },
+   {
+    "code": "DK",
+    "count": 43385
+   },
+   {
+    "code": "FI",
+    "count": 23708
+   },
+   {
+    "code": "GB",
+    "count": 16160
+   },
+   {
+    "code": "NL",
+    "count": 14326
+   },
+   {
+    "code": "EE",
+    "count": 8849
+   },
+   {
+    "code": "FR",
+    "count": 7677
+   },
+   {
+    "code": "RU",
+    "count": 4984
+   },
+   {
+    "code": "DE",
+    "count": 4644
+   },
+   {
+    "code": "US",
+    "count": 4623
+   },
+   {
+    "code": "IT",
+    "count": 3171
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "strix-nebulosa",
+ "name": "Strix nebulosa",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:57.940Z",
+ "names": {
+  "da": "Lapugle",
+  "en": "Great Grey Owl",
+  "accepted": "Strix nebulosa"
+ },
+ "wikidata": {
+  "id": "Q200724"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lapugle",
+  "extract": "Lapugle er en af de omkring 150 arter af ugler. Den har en længde på 64-70 centimeter og et vingefang på 134-158 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/Lapugle"
+ },
+ "inat": {
+  "id": 19890,
+  "observations": 7603
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 258497614,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497614/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497614/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149963349",
+    "place": "Chulymskiy rayon, RU-NS, RU",
+    "date": "2023-02-26"
+   },
+   {
+    "id": 352960197,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352960197/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352960197/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200091972",
+    "place": "Moscow City, RU",
+    "date": "2024-02-22"
+   },
+   {
+    "id": 262086210,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086210/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086210/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151861377",
+    "place": "Tomskiy rayon, RU-TO, RU",
+    "date": "2023-03-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 255019747,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255019747/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255019747/large.jpeg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148126576",
+    "place": "Tomskiy rayon, RU-TO, RU",
+    "date": "2023-02-04"
+   },
+   {
+    "id": 262086327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086327/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086327/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151861386",
+    "place": "Tomskiy rayon, RU-TO, RU",
+    "date": "2023-03-17"
+   },
+   {
+    "id": 359689604,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359689604/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359689604/large.jpeg",
+    "attribution": "(c) Борис Георги, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/203568432",
+    "place": "Zav'yalovskiy rayon, RU-UD, RU",
+    "date": "2024-03-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 324250257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324250257/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324250257/large.jpeg",
+    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185649486",
+    "place": "Missoula County, US-MT, Lewis and Clark National Historic Trail, US",
+    "date": "2022-05-28"
+   },
+   {
+    "id": 324250236,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324250236/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324250236/large.jpeg",
+    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185649483",
+    "place": "Missoula County, US-MT, Lewis and Clark National Historic Trail, US",
+    "date": "2022-05-25"
+   },
+   {
+    "id": 315230243,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315230243/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315230243/large.jpeg",
+    "attribution": "(c) Sean Frey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/180919343",
+    "place": "Manitoba, CA",
+    "date": "2023-08-29"
+   }
+  ],
+  "hero": {
+   "id": 258497614,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497614/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497614/large.jpg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/149963349",
+   "place": "Chulymskiy rayon, RU-NS, RU",
+   "date": "2023-02-26"
+  }
+ },
+ "gbif": {
+  "key": 2497522,
+  "dkTotal": 7,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   4,
+   1,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 39809,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 22880
+   },
+   {
+    "code": "FI",
+    "count": 6738
+   },
+   {
+    "code": "US",
+    "count": 3242
+   },
+   {
+    "code": "CA",
+    "count": 2695
+   },
+   {
+    "code": "RU",
+    "count": 2307
+   },
+   {
+    "code": "NO",
+    "count": 931
+   },
+   {
+    "code": "UA",
+    "count": 237
+   },
+   {
+    "code": "EE",
+    "count": 153
+   },
+   {
+    "code": "BY",
+    "count": 81
+   },
+   {
+    "code": "DE",
+    "count": 34
+   },
+   {
+    "code": "CN",
+    "count": 29
+   },
+   {
+    "code": "NL",
+    "count": 26
+   }
+  ]
+ },
+ "warnings": []
+}

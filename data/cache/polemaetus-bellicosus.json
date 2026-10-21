@@ -1,0 +1,172 @@
+{
+ "key": "polemaetus-bellicosus",
+ "name": "Polemaetus bellicosus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:30:52.581Z",
+ "names": {
+  "da": "Kampørn",
+  "en": "Martial Eagle",
+  "accepted": "Polemaetus bellicosus"
+ },
+ "wikidata": {
+  "id": "Q501733"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kampørn",
+  "extract": "Kampørnen er Afrikas største ørn, hvilket gør den i stand til at fange selv små antiloper. Arten er den eneste i slægten Polemaetus.",
+  "url": "https://da.wikipedia.org/wiki/Kamp%C3%B8rn"
+ },
+ "inat": {
+  "id": 5344,
+  "observations": 4604
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 452921338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452921338/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452921338/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/252991322",
+    "place": "Kruger Park, Ehlanzeni District Municipality, South Africa",
+    "date": "2024-02-26"
+   },
+   {
+    "id": 393740193,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393740193/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393740193/large.jpg",
+    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222295898",
+    "place": "Queen Elizabeth, UG",
+    "date": "2024-02-01"
+   },
+   {
+    "id": 257875968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257875968/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257875968/large.jpeg",
+    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149634734",
+    "place": "Uganda",
+    "date": "2023-02-05"
+   }
+  ],
+  "adult": [
+   {
+    "id": 399190736,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/399190736/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/399190736/large.jpg",
+    "attribution": "(c) Tom Heijnen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/225181384",
+    "place": "Hwange, ZW-MN, ZW",
+    "date": "1999-05-11"
+   },
+   {
+    "id": 447222637,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447222637/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447222637/large.jpeg",
+    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/250103965",
+    "place": "Kruger Park, South Africa",
+    "date": "2024-10-29"
+   },
+   {
+    "id": 166073712,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166073712/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166073712/large.jpeg",
+    "attribution": "(c) Mark Bolnik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/99602493",
+    "place": "Satara Camp Rd, South Africa",
+    "date": "2017-09-09"
+   }
+  ],
+  "hero": {
+   "id": 399190736,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/399190736/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/399190736/large.jpg",
+   "attribution": "(c) Tom Heijnen, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/225181384",
+   "place": "Hwange, ZW-MN, ZW",
+   "date": "1999-05-11"
+  }
+ },
+ "gbif": {
+  "key": 2480426,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 59262,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 31965
+   },
+   {
+    "code": "KE",
+    "count": 9941
+   },
+   {
+    "code": "TZ",
+    "count": 4662
+   },
+   {
+    "code": "UG",
+    "count": 2421
+   },
+   {
+    "code": "NA",
+    "count": 2378
+   },
+   {
+    "code": "BW",
+    "count": 2015
+   },
+   {
+    "code": "ZW",
+    "count": 1606
+   },
+   {
+    "code": "ZM",
+    "count": 1312
+   },
+   {
+    "code": "MW",
+    "count": 472
+   },
+   {
+    "code": "GM",
+    "count": 456
+   },
+   {
+    "code": "MZ",
+    "count": 434
+   },
+   {
+    "code": "ET",
+    "count": 341
+   }
+  ]
+ },
+ "warnings": []
+}

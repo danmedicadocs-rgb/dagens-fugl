@@ -1,0 +1,152 @@
+{
+ "key": "emberiza-pusilla",
+ "name": "Emberiza pusilla",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:25:41.289Z",
+ "names": {
+  "da": "Dværgværling",
+  "en": "Little Bunting",
+  "accepted": "Emberiza pusilla"
+ },
+ "wikidata": {
+  "id": "Q216855"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværgværling",
+  "extract": "Dværgværling er en 13 centimeter stor spurvefugl, der yngler i krat langs søbredder og skovmoser fra det nordlige Skandinavien mod øst gennem Rusland til Beringstrædet.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgv%C3%A6rling"
+ },
+ "inat": {
+  "id": 9197,
+  "observations": 4557
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 240576833,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240576833/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240576833/large.jpeg",
+    "attribution": "(c) Лия, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/140536044",
+    "place": "г. Норильск, Красноярский край, Россия",
+    "date": "2013-06-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 739767677,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/402942023",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2026-09-24"
+   },
+   {
+    "id": 34281217,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34281217/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34281217/large.jpeg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22144892",
+    "place": "Лунцюаньи, Чэнду, Сычуань, Китай",
+    "date": "2019-03-21"
+   },
+   {
+    "id": 438626201,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438626201/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438626201/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/245769446",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2024-10-05"
+   }
+  ],
+  "hero": {
+   "id": 739767677,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/large.jpg",
+   "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/402942023",
+   "place": "Карабаш, Челябинская обл., Россия",
+   "date": "2026-09-24"
+  }
+ },
+ "gbif": {
+  "key": 2491544,
+  "dkTotal": 1180,
+  "dkMonths": [
+   34,
+   1,
+   0,
+   18,
+   58,
+   4,
+   0,
+   0,
+   158,
+   575,
+   233,
+   98
+  ],
+  "worldTotal": 90907,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 18698
+   },
+   {
+    "code": "TW",
+    "count": 16453
+   },
+   {
+    "code": "SE",
+    "count": 9045
+   },
+   {
+    "code": "NL",
+    "count": 8597
+   },
+   {
+    "code": "IN",
+    "count": 5224
+   },
+   {
+    "code": "HK",
+    "count": 4348
+   },
+   {
+    "code": "NO",
+    "count": 3873
+   },
+   {
+    "code": "FI",
+    "count": 3260
+   },
+   {
+    "code": "RU",
+    "count": 2909
+   },
+   {
+    "code": "GB",
+    "count": 2602
+   },
+   {
+    "code": "MN",
+    "count": 2505
+   },
+   {
+    "code": "KR",
+    "count": 2241
+   }
+  ]
+ },
+ "warnings": []
+}

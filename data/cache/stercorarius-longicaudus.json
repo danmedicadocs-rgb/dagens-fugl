@@ -1,0 +1,162 @@
+{
+ "key": "stercorarius-longicaudus",
+ "name": "Stercorarius longicaudus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:08:30.509Z",
+ "names": {
+  "da": "Lille kjove",
+  "en": "Long-tailed Jaeger",
+  "accepted": "Stercorarius longicaudus"
+ },
+ "wikidata": {
+  "id": "Q216921"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille kjove",
+  "extract": "Den lille kjove er en fugl i kjovefamilien, der ruger i de arktiske egne af Eurasien og Nordamerika. Med en længde på 40–55 cm er arten den mindste kjoveart. Den er en fåtallig trækgæst i Danmark om efteråret.",
+  "url": "https://da.wikipedia.org/wiki/Lille_kjove"
+ },
+ "inat": {
+  "id": 4481,
+  "observations": 2740
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 574329873,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/574329873/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/574329873/large.jpg",
+    "attribution": "(c) Christian Back, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/317817382",
+    "place": "Côte-Nord, QC, Canada",
+    "date": "2025-09-19"
+   },
+   {
+    "id": 156678400,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156678400/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/156678400/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335922077",
+    "place": "Austurland, Islande",
+    "date": "2021-07-31"
+   }
+  ],
+  "adult": [
+   {
+    "id": 571701770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/large.jpg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/316426950",
+    "place": "Clermont County, OH, USA",
+    "date": "2025-09-23"
+   },
+   {
+    "id": 426097185,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426097185/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426097185/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/239262356",
+    "place": "North Pacific Ocean, AK, US",
+    "date": "2024-07-18"
+   },
+   {
+    "id": 569251890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569251890/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569251890/large.jpg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/315131249",
+    "place": "Clermont County, OH, USA",
+    "date": "2025-09-19"
+   }
+  ],
+  "hero": {
+   "id": 571701770,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/large.jpg",
+   "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/316426950",
+   "place": "Clermont County, OH, USA",
+   "date": "2025-09-23"
+  }
+ },
+ "gbif": {
+  "key": 2481613,
+  "dkTotal": 2621,
+  "dkMonths": [
+   0,
+   2,
+   1,
+   2,
+   56,
+   68,
+   94,
+   350,
+   1600,
+   430,
+   11,
+   0
+  ],
+  "worldTotal": 152449,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 68312
+   },
+   {
+    "code": "SE",
+    "count": 27929
+   },
+   {
+    "code": "NO",
+    "count": 13395
+   },
+   {
+    "code": "CA",
+    "count": 12378
+   },
+   {
+    "code": "NL",
+    "count": 3627
+   },
+   {
+    "code": "GB",
+    "count": 3101
+   },
+   {
+    "code": "DK",
+    "count": 2621
+   },
+   {
+    "code": "AU",
+    "count": 2449
+   },
+   {
+    "code": "FI",
+    "count": 2256
+   },
+   {
+    "code": "ES",
+    "count": 1994
+   },
+   {
+    "code": "RU",
+    "count": 1842
+   },
+   {
+    "code": "SJ",
+    "count": 1420
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "sitta-europaea",
+ "name": "Sitta europaea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:50.772Z",
+ "names": {
+  "da": "Spætmejse",
+  "en": "Eurasian Nuthatch",
+  "accepted": "Sitta europaea"
+ },
+ "wikidata": {
+  "id": "Q156767"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Spætmejse",
+  "extract": "Spætmejsen, 15 cm, er en almindelig ynglefugl i Danmark i ældre løvskove og parker. Uden for Danmark findes spætmejsen i størstedelen af Europa og østpå gennem Asien helt til Stillehavets kyst.",
+  "url": "https://da.wikipedia.org/wiki/Sp%C3%A6tmejse"
+ },
+ "inat": {
+  "id": 14824,
+  "observations": 93593
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 182966874,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182966874/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182966874/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/108646007",
+    "place": "Symonds Yat, Ross-on-Wye HR9, UK",
+    "date": "2022-03-14"
+   },
+   {
+    "id": 252893053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252893053/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252893053/large.jpeg",
+    "attribution": "(c) tulazur, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/147013849",
+    "place": "24150 Lanquais, France",
+    "date": "2023-01-20"
+   },
+   {
+    "id": 358622819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358622819/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358622819/large.jpeg",
+    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/203012505",
+    "place": "Louny, Česko",
+    "date": "2024-03-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 75368655,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75368655/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75368655/large.jpeg",
+    "attribution": "(c) ml_ls, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/47518570",
+    "place": "Cardiff, UK",
+    "date": "2020-05-26"
+   },
+   {
+    "id": 178736925,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178736925/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178736925/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106403739",
+    "place": "Cardiff, UK",
+    "date": "2022-02-08"
+   },
+   {
+    "id": 298741985,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/298741985/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/298741985/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/172114484",
+    "place": "Kaaks, Deutschland",
+    "date": "2023-07-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 547399083,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547399083/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547399083/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/303690629",
+    "place": "Salgüero de Juarros, Burgos, España",
+    "date": "2025-07-29"
+   },
+   {
+    "id": 226081355,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226081355/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226081355/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/132786843",
+    "place": "Soria, España",
+    "date": "2022-08-20"
+   },
+   {
+    "id": 394406989,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394406989/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394406989/large.jpeg",
+    "attribution": "(c) Alex Press, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222644004",
+    "place": "Woking, Surrey, UK",
+    "date": "2024-06-13"
+   }
+  ],
+  "hero": {
+   "id": 98789726,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98789726/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98789726/large.jpg",
+   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/98789726",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2484916,
+  "dkTotal": 226528,
+  "dkMonths": [
+   27281,
+   24668,
+   34168,
+   33426,
+   13362,
+   10530,
+   10092,
+   13325,
+   14239,
+   14292,
+   14753,
+   16337
+  ],
+  "worldTotal": 3756071,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 937324
+   },
+   {
+    "code": "FR",
+    "count": 476184
+   },
+   {
+    "code": "NL",
+    "count": 399914
+   },
+   {
+    "code": "DE",
+    "count": 373296
+   },
+   {
+    "code": "NO",
+    "count": 371894
+   },
+   {
+    "code": "GB",
+    "count": 252274
+   },
+   {
+    "code": "DK",
+    "count": 226528
+   },
+   {
+    "code": "ES",
+    "count": 125260
+   },
+   {
+    "code": "BE",
+    "count": 99060
+   },
+   {
+    "code": "RU",
+    "count": 78305
+   },
+   {
+    "code": "CZ",
+    "count": 64175
+   },
+   {
+    "code": "PT",
+    "count": 49599
+   }
+  ]
+ },
+ "warnings": []
+}

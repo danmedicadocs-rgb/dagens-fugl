@@ -1,0 +1,172 @@
+{
+ "key": "sterna-hirundo",
+ "name": "Sterna hirundo",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:36.972Z",
+ "names": {
+  "da": "Fjordterne",
+  "en": "Common Tern",
+  "accepted": "Sterna hirundo"
+ },
+ "wikidata": {
+  "id": "Q18875"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Fjordterne",
+  "extract": "Fjordternen er en 36 cm stor terne, der findes i det meste af Asien, i den nordlige del af Nordamerika og i det meste af Europa. Den danske bestand af ynglende fjordterner udgør omkring 1000 par, med de største kolonier i Vestjylland, bl.a. ved Vadehavet og Nissum Fjord, men også på det centrale Sjælland og i Roskilde Fjord kan man se den. Den trives ved uforstyrrede, lavvandede kyster og på småøer, samt ved indsøer og moser. Om vinteren trækker den til Afrika.",
+  "url": "https://da.wikipedia.org/wiki/Fjordterne"
+ },
+ "inat": {
+  "id": 4450,
+  "observations": 71708
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 22243644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22243644/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22243644/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/14902467",
+    "place": "Suffolk County, NY, USA",
+    "date": "2018-07-22"
+   },
+   {
+    "id": 22247771,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22247771/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22247771/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/14904845",
+    "place": "Suffolk County, NY, USA",
+    "date": "2018-07-26"
+   },
+   {
+    "id": 22241259,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241259/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241259/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/14901112",
+    "place": "Suffolk County, NY, USA",
+    "date": "2018-07-20"
+   }
+  ],
+  "adult": [
+   {
+    "id": 172940581,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/large.jpeg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/103345873",
+    "place": "Tivaouane, Senegal",
+    "date": "2016-04-18"
+   },
+   {
+    "id": 533458379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533458379/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533458379/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2599993",
+    "place": "New Jersey, United States",
+    "date": "2015-07-08"
+   },
+   {
+    "id": 177944085,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177944085/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177944085/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/105980261",
+    "place": "Glentana, Groot Brakrivier, 6525, South Africa",
+    "date": "2020-02-01"
+   }
+  ],
+  "hero": {
+   "id": 172940581,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/large.jpeg",
+   "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/103345873",
+   "place": "Tivaouane, Senegal",
+   "date": "2016-04-18"
+  }
+ },
+ "gbif": {
+  "key": 9367409,
+  "dkTotal": 133041,
+  "dkMonths": [
+   28,
+   1,
+   28,
+   10627,
+   27356,
+   17106,
+   30270,
+   32618,
+   13468,
+   1278,
+   68,
+   10
+  ],
+  "worldTotal": 3080576,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 708291
+   },
+   {
+    "code": "SE",
+    "count": 484224
+   },
+   {
+    "code": "NL",
+    "count": 303683
+   },
+   {
+    "code": "CA",
+    "count": 288851
+   },
+   {
+    "code": "FI",
+    "count": 205522
+   },
+   {
+    "code": "GB",
+    "count": 182443
+   },
+   {
+    "code": "DK",
+    "count": 133041
+   },
+   {
+    "code": "NO",
+    "count": 116756
+   },
+   {
+    "code": "FR",
+    "count": 105250
+   },
+   {
+    "code": "BE",
+    "count": 55623
+   },
+   {
+    "code": "ES",
+    "count": 49104
+   },
+   {
+    "code": "ZA",
+    "count": 36957
+   }
+  ]
+ },
+ "warnings": []
+}

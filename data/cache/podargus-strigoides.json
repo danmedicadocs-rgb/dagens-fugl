@@ -1,0 +1,182 @@
+{
+ "key": "podargus-strigoides",
+ "name": "Podargus strigoides",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:38:41.127Z",
+ "names": {
+  "da": "Australsk Frømund",
+  "en": "Tawny Frogmouth",
+  "accepted": "Podargus strigoides"
+ },
+ "wikidata": {
+  "id": "Q788512"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Tawny frogmouth",
+  "extract": "The tawny frogmouth is a species of frogmouth native to the Australian mainland and Tasmania and found throughout. It is a big-headed, stocky bird often mistaken for an owl due to its nocturnal habits and similar colouring.",
+  "url": "https://en.wikipedia.org/wiki/Tawny_frogmouth"
+ },
+ "inat": {
+  "id": 19721,
+  "observations": 29967
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 88468887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/large.jpg",
+    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/55554458",
+    "place": "Wolfang QLD 4721, Australia",
+    "date": "2008-05-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 293484901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293484901/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293484901/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/169291891",
+    "place": "Jubilee Park, Ringwood, VIC, AU",
+    "date": "2023-06-24"
+   },
+   {
+    "id": 379227013,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379227013/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379227013/large.jpg",
+    "attribution": "(c) Scott Warner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/214540930",
+    "place": "Redbank Creek QLD 4312, Australia",
+    "date": "2024-05-08"
+   },
+   {
+    "id": 456686450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456686450/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456686450/large.jpeg",
+    "attribution": "(c) A.J. Anderson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254902559",
+    "place": "North Lake bushland, Perth WA, Australia",
+    "date": "2020-04-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 40859536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40859536/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40859536/large.jpg",
+    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/26318425",
+    "place": "Brisbane QLD, Australia",
+    "date": "2008-01-24"
+   },
+   {
+    "id": 107804338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107804338/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107804338/large.jpg",
+    "attribution": "(c) Nicole Kearney, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66818403",
+    "place": "Beavers Road, Northcote, VIC, AU",
+    "date": "2020-12-12"
+   },
+   {
+    "id": 505167095,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/505167095/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/505167095/large.jpg",
+    "attribution": "(c) Karl Tattersall, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/281225938",
+    "place": "Nightcliff NT 0810, Australia",
+    "date": "2025-05-15"
+   }
+  ],
+  "hero": {
+   "id": 88468887,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/large.jpg",
+   "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/55554458",
+   "place": "Wolfang QLD 4721, Australia",
+   "date": "2008-05-20"
+  }
+ },
+ "gbif": {
+  "key": 2497109,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 226389,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 225943
+   },
+   {
+    "code": "US",
+    "count": 21
+   },
+   {
+    "code": "ZZ",
+    "count": 12
+   },
+   {
+    "code": "ID",
+    "count": 4
+   },
+   {
+    "code": "JP",
+    "count": 4
+   },
+   {
+    "code": "TZ",
+    "count": 3
+   },
+   {
+    "code": "CA",
+    "count": 2
+   },
+   {
+    "code": "PL",
+    "count": 2
+   },
+   {
+    "code": "GB",
+    "count": 1
+   },
+   {
+    "code": "GF",
+    "count": 1
+   },
+   {
+    "code": "MX",
+    "count": 1
+   },
+   {
+    "code": "UA",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

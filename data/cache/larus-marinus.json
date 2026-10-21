@@ -1,0 +1,151 @@
+{
+ "key": "larus-marinus",
+ "name": "Larus marinus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:05.173Z",
+ "names": {
+  "da": "Svartbag",
+  "en": "Great Black-backed Gull",
+  "accepted": "Larus marinus"
+ },
+ "wikidata": {
+  "id": "Q26629"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Svartbag",
+  "extract": "Svartbagen er en fugl, der lever langs de nordatlantiske kyster fra Nordamerika over Grønland og Island til Østersøen. Det er verdens største og kraftigste måge med en længde på 64-78 cm fra halespids til næbspids og vægt på 1.150-2.150 gram.",
+  "url": "https://da.wikipedia.org/wiki/Svartbag"
+ },
+ "inat": {
+  "id": 4368,
+  "observations": 49273
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 489312554,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489312554/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489312554/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/271995568",
+    "place": "Saint-Hilaire-de-Riez, FR",
+    "date": "2025-04-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 91081096,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91081096/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91081096/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/57117633",
+    "place": "7680 Thyborøn, Dänemark",
+    "date": "2008-03-24"
+   },
+   {
+    "id": 330350179,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330350179/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330350179/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/188671800",
+    "place": "22100 Lanvallay, France",
+    "date": "2023-10-23"
+   },
+   {
+    "id": 72712942,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72712942/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72712942/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45846193",
+    "place": "Boston Fish Pier, Boston, MA 02210, USA",
+    "date": "2017-07-01"
+   }
+  ],
+  "hero": {
+   "id": 489312554,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489312554/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489312554/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/271995568",
+   "place": "Saint-Hilaire-de-Riez, FR",
+   "date": "2025-04-21"
+  }
+ },
+ "gbif": {
+  "key": 2481172,
+  "dkTotal": 305025,
+  "dkMonths": [
+   33691,
+   24491,
+   27396,
+   24444,
+   22934,
+   20054,
+   24892,
+   30950,
+   26711,
+   26584,
+   21635,
+   20580
+  ],
+  "worldTotal": 5052891,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2094280
+   },
+   {
+    "code": "CA",
+    "count": 818459
+   },
+   {
+    "code": "SE",
+    "count": 467684
+   },
+   {
+    "code": "NO",
+    "count": 467498
+   },
+   {
+    "code": "GB",
+    "count": 413298
+   },
+   {
+    "code": "DK",
+    "count": 305025
+   },
+   {
+    "code": "FR",
+    "count": 66455
+   },
+   {
+    "code": "NL",
+    "count": 64998
+   },
+   {
+    "code": "FI",
+    "count": 64322
+   },
+   {
+    "code": "IS",
+    "count": 44998
+   },
+   {
+    "code": "BE",
+    "count": 43859
+   },
+   {
+    "code": "IE",
+    "count": 43196
+   }
+  ]
+ },
+ "warnings": []
+}

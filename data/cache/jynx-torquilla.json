@@ -1,0 +1,182 @@
+{
+ "key": "jynx-torquilla",
+ "name": "Jynx torquilla",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:13:57.736Z",
+ "names": {
+  "da": "Vendehals",
+  "en": "Eurasian Wryneck",
+  "accepted": "Jynx torquilla"
+ },
+ "wikidata": {
+  "id": "Q25678"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Vendehals",
+  "extract": "Vendehalsen er en spætte i ordenen af spættefugle. Den udgør sammen med den rødstrubede vendehals underfamilien vendehalse. Den har en længde på 16 cm og vejer 30-45 g. Den er udbredt i Europa og det centrale Asien samt i det nordlige Afrika. Ynglebestanden i Danmark vurderes til at udgøre 30-35 par (2009) og er vurderet som sårbar på den danske rødliste (2019).",
+  "url": "https://da.wikipedia.org/wiki/Vendehals"
+ },
+ "inat": {
+  "id": 18448,
+  "observations": 12217
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 280315857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280315857/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280315857/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/162131971",
+    "place": "Челябинская обл., Россия, 456395",
+    "date": "2023-05-17"
+   },
+   {
+    "id": 253861000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253861000/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253861000/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147521092",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2021-05-18"
+   },
+   {
+    "id": 394783411,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394783411/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394783411/large.jpg",
+    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222842236",
+    "place": "Удельный парк, St Petersburg, Russia",
+    "date": "2024-05-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 178196399,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178196399/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178196399/large.jpeg",
+    "attribution": "(c) 卢江离, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106113538",
+    "place": "Shenzhen, Guangdong, China",
+    "date": "2022-02-04"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 255943669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255943669/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255943669/large.jpeg",
+    "attribution": "(c) Михаил Языков, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148606290",
+    "place": "Борский р-н, Нижегородская обл., Россия",
+    "date": "2020-07-05"
+   },
+   {
+    "id": 545410782,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545410782/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545410782/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/302629934",
+    "place": "26005 Logroño, La Rioja, España",
+    "date": "2025-07-31"
+   },
+   {
+    "id": 31282519,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31282519/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31282519/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20266425",
+    "place": "Одинцовский р-н, Московская обл., Россия",
+    "date": "2014-07-05"
+   }
+  ],
+  "hero": {
+   "id": 280315857,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280315857/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280315857/large.jpeg",
+   "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/162131971",
+   "place": "Челябинская обл., Россия, 456395",
+   "date": "2023-05-17"
+  }
+ },
+ "gbif": {
+  "key": 8012314,
+  "dkTotal": 14327,
+  "dkMonths": [
+   2,
+   1,
+   2,
+   2970,
+   6573,
+   1366,
+   440,
+   1954,
+   798,
+   19,
+   4,
+   6
+  ],
+  "worldTotal": 555629,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 185066
+   },
+   {
+    "code": "FR",
+    "count": 56631
+   },
+   {
+    "code": "ES",
+    "count": 51558
+   },
+   {
+    "code": "FI",
+    "count": 47146
+   },
+   {
+    "code": "NO",
+    "count": 34847
+   },
+   {
+    "code": "IN",
+    "count": 20724
+   },
+   {
+    "code": "NL",
+    "count": 19810
+   },
+   {
+    "code": "DE",
+    "count": 16029
+   },
+   {
+    "code": "DK",
+    "count": 14327
+   },
+   {
+    "code": "IL",
+    "count": 9361
+   },
+   {
+    "code": "RU",
+    "count": 9320
+   },
+   {
+    "code": "EE",
+    "count": 7982
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,172 @@
+{
+ "key": "apus-apus",
+ "name": "Apus apus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:13:26.888Z",
+ "names": {
+  "da": "Mursejler",
+  "en": "Common Swift",
+  "accepted": "Apus apus"
+ },
+ "wikidata": {
+  "id": "Q25377"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Common swift",
+  "extract": "The common swift is a medium-sized bird, superficially similar to the barn swallow or house martin but somewhat larger, though not stemming from those passerine species, being in the order Apodiformes. The resemblances between the groups are due to convergent evolution, reflecting similar contextual development. The swifts' nearest relatives are the New World hummingbirds and the Southeast Asian treeswifts.",
+  "url": "https://en.wikipedia.org/wiki/Common_swift"
+ },
+ "inat": {
+  "id": 6638,
+  "observations": 38486
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 409936452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409936452/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409936452/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/230851928",
+    "place": "Ponte de Lima, Portugal",
+    "date": "2024-07-08"
+   },
+   {
+    "id": 98143808,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98143808/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98143808/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/61339675",
+    "place": "Юж. административный округ, Москва, Россия",
+    "date": "2010-07-25"
+   },
+   {
+    "id": 218054097,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218054097/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/218054097/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/128378048",
+    "place": "San Giovanni in Fiore",
+    "date": "2022-07-17"
+   }
+  ],
+  "adult": [
+   {
+    "id": 282703050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282703050/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282703050/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163450373",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2023-05-24"
+   },
+   {
+    "id": 382277341,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/382277341/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/382277341/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/216170697",
+    "place": "2770 Paço de Arcos, Portugal",
+    "date": "2024-05-11"
+   },
+   {
+    "id": 362324312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362324312/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362324312/large.png",
+    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204953412",
+    "place": "Scandellara, Bologna BO, Italy",
+    "date": "2024-04-01"
+   }
+  ],
+  "hero": {
+   "id": 282703050,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282703050/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282703050/large.jpg",
+   "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/163450373",
+   "place": "Глазовский р-н, республика Удмуртия, Россия",
+   "date": "2023-05-24"
+  }
+ },
+ "gbif": {
+  "key": 5228676,
+  "dkTotal": 189642,
+  "dkMonths": [
+   1,
+   0,
+   9,
+   460,
+   52011,
+   47388,
+   43920,
+   33919,
+   11740,
+   124,
+   22,
+   2
+  ],
+  "worldTotal": 3090365,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 476760
+   },
+   {
+    "code": "GB",
+    "count": 457233
+   },
+   {
+    "code": "ES",
+    "count": 347174
+   },
+   {
+    "code": "FR",
+    "count": 322015
+   },
+   {
+    "code": "NL",
+    "count": 306632
+   },
+   {
+    "code": "DK",
+    "count": 189642
+   },
+   {
+    "code": "DE",
+    "count": 166765
+   },
+   {
+    "code": "NO",
+    "count": 145947
+   },
+   {
+    "code": "FI",
+    "count": 96764
+   },
+   {
+    "code": "PT",
+    "count": 85743
+   },
+   {
+    "code": "BE",
+    "count": 82779
+   },
+   {
+    "code": "IL",
+    "count": 39190
+   }
+  ]
+ },
+ "warnings": []
+}

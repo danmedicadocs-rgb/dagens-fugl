@@ -1,0 +1,202 @@
+{
+ "key": "branta-canadensis",
+ "name": "Branta canadensis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:55:18.244Z",
+ "names": {
+  "da": "Canadagås",
+  "en": "Canada Goose",
+  "accepted": "Branta canadensis"
+ },
+ "wikidata": {
+  "id": "Q26733"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Canadagås",
+  "extract": "Canadagåsen er en stor gås, der har sin oprindelige udbredelse i Nordamerika, men som nu også yngler i dele af Nordeuropa og New Zealand. Den kan være til gene for landbruget, fordi den æder vintersæd.",
+  "url": "https://da.wikipedia.org/wiki/Canadag%C3%A5s"
+ },
+ "inat": {
+  "id": 7089,
+  "observations": 492192
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 67516226,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67516226/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67516226/large.jpeg",
+    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/42520840",
+    "place": "Uplands, London, ON N5X, Canada",
+    "date": "2020-04-18"
+   },
+   {
+    "id": 358577688,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358577688/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358577688/large.jpeg",
+    "attribution": "(c) Hunter Hammil, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/202989387",
+    "place": "Lake County, OH, USA",
+    "date": "2024-03-15"
+   },
+   {
+    "id": 624330364,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624330364/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624330364/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/342809133",
+    "place": "Singletree Ct, Pleasanton, CA, US",
+    "date": "2026-03-10"
+   }
+  ],
+  "female": [
+   {
+    "id": 40877515,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40877515/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40877515/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/26329921",
+    "place": "Cook County, IL, USA",
+    "date": "2019-05-29"
+   },
+   {
+    "id": 354273778,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354273778/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354273778/large.jpg",
+    "attribution": "(c) Asher P Higgins, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200766177",
+    "place": "Springville Rd, Ephrata, PA, US",
+    "date": "2009-05-13"
+   },
+   {
+    "id": 501944642,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/501944642/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/501944642/large.jpg",
+    "attribution": "(c) Cali Ellis, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/279520820",
+    "place": "Port Orchard, Bremerton, WA, US",
+    "date": "2025-05-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 123908815,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123908815/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123908815/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/75718382",
+    "place": "Edinboro University, Edinboro, PA, US",
+    "date": "2021-04-28"
+   },
+   {
+    "id": 639404659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639404659/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639404659/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/350439139",
+    "place": "1 Daybreak Ponds, South Jordan, UT, USA",
+    "date": "2026-04-16"
+   },
+   {
+    "id": 505987573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/505987573/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/505987573/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281660932",
+    "place": "Governor Dodge State Park, 4175 WI-23, Dodgeville, WI 53533, USA",
+    "date": "2025-05-14"
+   }
+  ],
+  "hero": {
+   "id": 67516226,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67516226/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67516226/large.jpeg",
+   "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/42520840",
+   "place": "Uplands, London, ON N5X, Canada",
+   "date": "2020-04-18"
+  }
+ },
+ "gbif": {
+  "key": 5232437,
+  "dkTotal": 113486,
+  "dkMonths": [
+   19898,
+   13325,
+   9403,
+   3398,
+   5224,
+   8984,
+   4917,
+   11477,
+   9778,
+   5865,
+   9408,
+   11794
+  ],
+  "worldTotal": 25858712,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 19219514
+   },
+   {
+    "code": "CA",
+    "count": 3743230
+   },
+   {
+    "code": "SE",
+    "count": 875697
+   },
+   {
+    "code": "GB",
+    "count": 697740
+   },
+   {
+    "code": "BE",
+    "count": 383794
+   },
+   {
+    "code": "NL",
+    "count": 363854
+   },
+   {
+    "code": "NO",
+    "count": 171018
+   },
+   {
+    "code": "DE",
+    "count": 128988
+   },
+   {
+    "code": "DK",
+    "count": 113486
+   },
+   {
+    "code": "FR",
+    "count": 62745
+   },
+   {
+    "code": "NZ",
+    "count": 53286
+   },
+   {
+    "code": "FI",
+    "count": 26569
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "merops-apiaster",
+ "name": "Merops apiaster",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:13:43.002Z",
+ "names": {
+  "da": "Biæder",
+  "en": "European Bee-eater",
+  "accepted": "Merops apiaster"
+ },
+ "wikidata": {
+  "id": "Q170718"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Biæder",
+  "extract": "Biæderen er en fugl i familien af biædere i ordenen af skrigefugle. Den når en længde på 30 cm og vejer 70 g. Den lever i Europa, Afrika og det vestlige, sydlige og centrale Asien. Den lille fugl har en temmelig kraftig stemme, der lyder blød og trillende i retning af \"prry-it\" eller kortere \"pyt\". Ofte kan man se den sidde i toppen af buske eller på telefonledninger. Et mindre antal besøger Danmark hvert sommerhalvår, men den er en meget sjælden ynglefugl i landet.",
+  "url": "https://da.wikipedia.org/wiki/Bi%C3%A6der"
+ },
+ "inat": {
+  "id": 2191,
+  "observations": 38095
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 146319809,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/88664373",
+    "place": "Quintanalara, Burgos, España",
+    "date": "2021-07-13"
+   },
+   {
+    "id": 219779913,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219779913/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219779913/large.jpg",
+    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129337907",
+    "place": "Mértola, 7750, Portugal",
+    "date": "2022-08-03"
+   },
+   {
+    "id": 513066540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513066540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513066540/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/285443317",
+    "place": "Sila",
+    "date": "2025-05-23"
+   }
+  ],
+  "female": [
+   {
+    "id": 215065074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215065074/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215065074/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/126734035",
+    "place": "Sila",
+    "date": "2022-07-15"
+   },
+   {
+    "id": 385865375,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385865375/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385865375/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/218075092",
+    "place": "Sila Grande",
+    "date": "2024-05-24"
+   },
+   {
+    "id": 537745680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537745680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537745680/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/298531566",
+    "place": "Parco nazionale della Sila",
+    "date": "2025-07-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 309288126,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309288126/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309288126/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/177799732",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-08-11"
+   },
+   {
+    "id": 718416107,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718416107/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718416107/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/392040916",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-08-16"
+   },
+   {
+    "id": 309287831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309287831/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309287831/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/177799559",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-08-11"
+   }
+  ],
+  "hero": {
+   "id": 146319809,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/large.jpg",
+   "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/88664373",
+   "place": "Quintanalara, Burgos, España",
+   "date": "2021-07-13"
+  }
+ },
+ "gbif": {
+  "key": 2475443,
+  "dkTotal": 2215,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   42,
+   1436,
+   490,
+   85,
+   122,
+   29,
+   3,
+   0,
+   1
+  ],
+  "worldTotal": 804102,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 236243
+   },
+   {
+    "code": "ZA",
+    "count": 108987
+   },
+   {
+    "code": "FR",
+    "count": 105347
+   },
+   {
+    "code": "PT",
+    "count": 57885
+   },
+   {
+    "code": "IL",
+    "count": 35994
+   },
+   {
+    "code": "TR",
+    "count": 23606
+   },
+   {
+    "code": "GR",
+    "count": 18981
+   },
+   {
+    "code": "IT",
+    "count": 15640
+   },
+   {
+    "code": "BG",
+    "count": 14297
+   },
+   {
+    "code": "DE",
+    "count": 11769
+   },
+   {
+    "code": "RU",
+    "count": 9638
+   },
+   {
+    "code": "KE",
+    "count": 9393
+   }
+  ]
+ },
+ "warnings": []
+}

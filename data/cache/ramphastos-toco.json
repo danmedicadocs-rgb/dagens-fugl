@@ -1,0 +1,202 @@
+{
+ "key": "ramphastos-toco",
+ "name": "Ramphastos toco",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:32.136Z",
+ "names": {
+  "da": "Kæmpetukan",
+  "en": "Toco Toucan",
+  "accepted": "Ramphastos toco"
+ },
+ "wikidata": {
+  "id": "Q376038"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kæmpetukan",
+  "extract": "Kæmpetukan er en fugl i familien tukaner i ordenen spættefugle, der lever i Sydamerika.",
+  "url": "https://da.wikipedia.org/wiki/K%C3%A6mpetukan"
+ },
+ "inat": {
+  "id": 18793,
+  "observations": 9094
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 679093253,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/large.jpg",
+    "attribution": "(c) Kozue Kawakami, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/371674658",
+    "place": "Ichilo, Bolivia",
+    "date": "2026-06-08"
+   },
+   {
+    "id": 591401199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591401199/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591401199/large.jpg",
+    "attribution": "(c) Rafael Rosa, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/326531489",
+    "place": "Campus da Usp, Ribeirão Preto - SP, Brazil",
+    "date": "2025-11-14"
+   },
+   {
+    "id": 589358817,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589358817/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589358817/large.jpg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/325506208",
+    "place": "Centro, Itajubá - MG, 37500, Brasil",
+    "date": "2025-11-08"
+   }
+  ],
+  "female": [
+   {
+    "id": 599761764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599761764/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599761764/large.jpg",
+    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330711557",
+    "place": "Barao de Guandu, Nova Iguaçu - RJ, Brasil",
+    "date": "2025-07-06"
+   },
+   {
+    "id": 599224859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224859/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224859/large.jpg",
+    "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330452509",
+    "place": "San Fernando, Chaco, Argentina",
+    "date": "2024-07-24"
+   },
+   {
+    "id": 599224997,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224997/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224997/large.jpg",
+    "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330452511",
+    "place": "San Fernando, Chaco, Argentina",
+    "date": "2024-07-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 613488192,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613488192/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613488192/large.jpg",
+    "attribution": "(c) tebobeto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337470931",
+    "place": "Soledade de Minas - State of Minas Gerais, Brasil",
+    "date": "2026-02-05"
+   },
+   {
+    "id": 507310074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507310074/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507310074/large.jpg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/282369392",
+    "place": "Minas Gerais, BR",
+    "date": "2025-05-19"
+   },
+   {
+    "id": 344300380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344300380/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344300380/large.jpg",
+    "attribution": "(c) Pedro Van Kan, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/195673187",
+    "place": "Formosa, GO, BR",
+    "date": "2024-01-02"
+   }
+  ],
+  "hero": {
+   "id": 679093253,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/large.jpg",
+   "attribution": "(c) Kozue Kawakami, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/371674658",
+   "place": "Ichilo, Bolivia",
+   "date": "2026-06-08"
+  }
+ },
+ "gbif": {
+  "key": 2478765,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 105420,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 77992
+   },
+   {
+    "code": "AR",
+    "count": 20244
+   },
+   {
+    "code": "BO",
+    "count": 3777
+   },
+   {
+    "code": "PY",
+    "count": 2120
+   },
+   {
+    "code": "GY",
+    "count": 744
+   },
+   {
+    "code": "GF",
+    "count": 80
+   },
+   {
+    "code": "SR",
+    "count": 57
+   },
+   {
+    "code": "ZZ",
+    "count": 39
+   },
+   {
+    "code": "US",
+    "count": 35
+   },
+   {
+    "code": "UY",
+    "count": 30
+   },
+   {
+    "code": "DE",
+    "count": 11
+   },
+   {
+    "code": "PE",
+    "count": 11
+   }
+  ]
+ },
+ "warnings": []
+}

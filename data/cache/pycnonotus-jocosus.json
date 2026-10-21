@@ -1,0 +1,192 @@
+{
+ "key": "pycnonotus-jocosus",
+ "name": "Pycnonotus jocosus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:32.496Z",
+ "names": {
+  "da": "Rødøret Bulbul",
+  "en": "Red-whiskered Bulbul",
+  "accepted": "Pycnonotus jocosus"
+ },
+ "wikidata": {
+  "id": "Q501063"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-whiskered bulbul",
+  "extract": "The red-whiskered bulbul, or crested bulbul, is a passerine bird native to Asia. It is a member of the bulbul family. It is a resident frugivore found mainly in tropical Asia. It has been introduced in many tropical areas of the world where populations have established themselves. It has a loud three or four note call, feeds on fruits and small insects and perches conspicuously on trees. It is common in hill forests and urban gardens.",
+  "url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul"
+ },
+ "inat": {
+  "id": 14591,
+  "observations": 28080
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 604255211,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604255211/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604255211/large.jpg",
+    "attribution": "(c) Edoardo Razzetti, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332871539",
+    "place": "Àgora, Quatre Carreres, 46013 Valencia, Spagna",
+    "date": "2025-12-30"
+   },
+   {
+    "id": 426428901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426428901/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426428901/large.jpeg",
+    "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239433606",
+    "place": "Sainte-Clotilde, Saint-Denis 97400, La Réunion",
+    "date": "2024-08-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 243891501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243891501/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243891501/large.jpeg",
+    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142273941",
+    "place": "Ramanagara, IN-KA, IN",
+    "date": "2022-09-16"
+   },
+   {
+    "id": 459975394,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459975394/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459975394/large.jpeg",
+    "attribution": "(c) Matteo Bellucci, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256534995",
+    "place": "Saint-Paul 97460, La Réunion",
+    "date": "2024-12-19"
+   },
+   {
+    "id": 424953722,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424953722/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/424953722/large.jpeg",
+    "attribution": "(c) eustreptospondylus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/238675249",
+    "place": "Tianhe District, Guangzhou, Guangdong Province, Китай",
+    "date": "2024-07-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 577271013,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577271013/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577271013/large.jpg",
+    "attribution": "(c) Chandu Bandi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/319353402",
+    "place": "Gattahalli, Bengaluru, Karnataka, India",
+    "date": "2025-10-07"
+   },
+   {
+    "id": 566109438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566109438/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566109438/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/313480065",
+    "place": "Manoa, Honolulu, HI, USA",
+    "date": "2025-09-12"
+   },
+   {
+    "id": 744645996,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/744645996/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/744645996/large.jpg",
+    "attribution": "(c) Utsav Biswas, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/405404732",
+    "place": "Devasandra Layout, Bengaluru, Karnataka, India",
+    "date": "2026-10-03"
+   }
+  ],
+  "hero": {
+   "id": 604255211,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604255211/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604255211/large.jpg",
+   "attribution": "(c) Edoardo Razzetti, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/332871539",
+   "place": "Àgora, Quatre Carreres, 46013 Valencia, Spagna",
+   "date": "2025-12-30"
+  }
+ },
+ "gbif": {
+  "key": 2486151,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 959477,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 714960
+   },
+   {
+    "code": "AU",
+    "count": 73603
+   },
+   {
+    "code": "US",
+    "count": 60372
+   },
+   {
+    "code": "HK",
+    "count": 53183
+   },
+   {
+    "code": "CN",
+    "count": 17113
+   },
+   {
+    "code": "RE",
+    "count": 9135
+   },
+   {
+    "code": "NP",
+    "count": 5869
+   },
+   {
+    "code": "SG",
+    "count": 5228
+   },
+   {
+    "code": "MU",
+    "count": 3309
+   },
+   {
+    "code": "BD",
+    "count": 2636
+   },
+   {
+    "code": "MM",
+    "count": 2219
+   },
+   {
+    "code": "ES",
+    "count": 2041
+   }
+  ]
+ },
+ "warnings": []
+}

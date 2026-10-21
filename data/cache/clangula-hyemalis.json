@@ -1,0 +1,202 @@
+{
+ "key": "clangula-hyemalis",
+ "name": "Clangula hyemalis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:57:33.983Z",
+ "names": {
+  "da": "Havlit",
+  "en": "Long-tailed Duck",
+  "accepted": "Clangula hyemalis"
+ },
+ "wikidata": {
+  "id": "Q26597"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Havlit",
+  "extract": "Havlit er en andefugl, der yngler i de arktiske egne. I Danmark forekommer havlitten som en meget almindelig trækgæst mellem oktober/november og april, men ses ikke meget, da den ofte opholder sig langt fra land.",
+  "url": "https://da.wikipedia.org/wiki/Havlit"
+ },
+ "inat": {
+  "id": 7170,
+  "observations": 26510
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 55612675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55612675/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55612675/large.jpeg",
+    "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/35278845",
+    "place": "Прионежский р-н, Респ. Карелия, Россия",
+    "date": "2019-11-02"
+   },
+   {
+    "id": 499937236,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499937236/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499937236/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/278432301",
+    "place": "Vardø, Noruega",
+    "date": "2025-04-16"
+   },
+   {
+    "id": 716453775,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716453775/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716453775/large.jpg",
+    "attribution": "(c) Johnathan Campbell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/391031096",
+    "place": "Kivalliq Region, NU, Canada",
+    "date": "2020-06-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 370003611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370003611/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370003611/large.jpeg",
+    "attribution": "(c) oksanaetal, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/209091922",
+    "place": "Orono, ME, USA",
+    "date": "2024-04-24"
+   },
+   {
+    "id": 347186601,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347186601/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347186601/large.jpeg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197163231",
+    "place": "Cantabria, ES-CB, ES",
+    "date": "2024-01-20"
+   },
+   {
+    "id": 261275683,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261275683/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261275683/large.jpg",
+    "attribution": "(c) Nancy Overholtz, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/151427685",
+    "place": "Inyo County, CA, USA",
+    "date": "2023-03-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 323163483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323163483/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323163483/large.jpeg",
+    "attribution": "(c) Aiva Noringseth, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185075189",
+    "place": "Tuya Mountains Provincial Park, Stikine Region, BC, Canada",
+    "date": "2023-07-24"
+   },
+   {
+    "id": 113537154,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113537154/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113537154/large.jpg",
+    "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69902636",
+    "place": "Carlsbad, NM 88220, USA",
+    "date": "2021-02-19"
+   },
+   {
+    "id": 671464737,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671464737/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671464737/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/367669311",
+    "place": "Ballynakill Bay",
+    "date": "2008-10-12"
+   }
+  ],
+  "hero": {
+   "id": 55612675,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55612675/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55612675/large.jpeg",
+   "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/35278845",
+   "place": "Прионежский р-н, Респ. Карелия, Россия",
+   "date": "2019-11-02"
+  }
+ },
+ "gbif": {
+  "key": 2498273,
+  "dkTotal": 59824,
+  "dkMonths": [
+   10043,
+   8509,
+   9939,
+   9143,
+   1774,
+   147,
+   101,
+   69,
+   321,
+   5504,
+   8369,
+   5879
+  ],
+  "worldTotal": 1593361,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 650069
+   },
+   {
+    "code": "CA",
+    "count": 338662
+   },
+   {
+    "code": "SE",
+    "count": 192054
+   },
+   {
+    "code": "NO",
+    "count": 141245
+   },
+   {
+    "code": "DK",
+    "count": 59824
+   },
+   {
+    "code": "DE",
+    "count": 31484
+   },
+   {
+    "code": "NL",
+    "count": 31455
+   },
+   {
+    "code": "EE",
+    "count": 29509
+   },
+   {
+    "code": "GB",
+    "count": 29394
+   },
+   {
+    "code": "IS",
+    "count": 24337
+   },
+   {
+    "code": "FI",
+    "count": 16818
+   },
+   {
+    "code": "RU",
+    "count": 8808
+   }
+  ]
+ },
+ "warnings": []
+}

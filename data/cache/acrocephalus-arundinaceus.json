@@ -1,0 +1,161 @@
+{
+ "key": "acrocephalus-arundinaceus",
+ "name": "Acrocephalus arundinaceus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:36.121Z",
+ "names": {
+  "da": "Drosselrørsanger",
+  "en": "Great Reed Warbler",
+  "accepted": "Acrocephalus arundinaceus"
+ },
+ "wikidata": {
+  "id": "Q180835"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Drosselrørsanger",
+  "extract": "Drosselrørsanger er en spurvefugl, der har sin hovedudbredelse i det meste af Europa syd for Danmark, i Nordafrika og i store dele af Asien. Arten ligner rørsanger, men er med sine 19 centimeter større og har en tydelig øjenbrynsstribe.",
+  "url": "https://da.wikipedia.org/wiki/Drosselr%C3%B8rsanger"
+ },
+ "inat": {
+  "id": 204456,
+  "observations": 11055
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 127738402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/large.jpeg",
+    "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/78080753",
+    "place": "Ghimbav, Rumänien",
+    "date": "2021-05-09"
+   },
+   {
+    "id": 511900150,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511900150/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/511900150/large.jpg",
+    "attribution": "(c) oskar0710, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/284814774",
+    "place": "Silesian, PL",
+    "date": "2025-05-28"
+   },
+   {
+    "id": 70315346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70315346/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70315346/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44349980",
+    "place": "Favoriten, 1100 Wien, Österreich",
+    "date": "2020-04-26"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 147251294,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147251294/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147251294/large.jpg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89185404",
+    "place": "North Bačka District, Serbia",
+    "date": "2021-07-30"
+   },
+   {
+    "id": 700095338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700095338/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700095338/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/382553726",
+    "place": "Iernut, Maros, RO",
+    "date": "2026-07-18"
+   }
+  ],
+  "hero": {
+   "id": 127738402,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/large.jpeg",
+   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/78080753",
+   "place": "Ghimbav, Rumänien",
+   "date": "2021-05-09"
+  }
+ },
+ "gbif": {
+  "key": 2493128,
+  "dkTotal": 7257,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   33,
+   3750,
+   3104,
+   289,
+   33,
+   9,
+   3,
+   0,
+   1
+  ],
+  "worldTotal": 439287,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 106841
+   },
+   {
+    "code": "SE",
+    "count": 66350
+   },
+   {
+    "code": "FR",
+    "count": 41058
+   },
+   {
+    "code": "PL",
+    "count": 34301
+   },
+   {
+    "code": "NL",
+    "count": 23988
+   },
+   {
+    "code": "DE",
+    "count": 18950
+   },
+   {
+    "code": "IL",
+    "count": 10498
+   },
+   {
+    "code": "TR",
+    "count": 9786
+   },
+   {
+    "code": "UA",
+    "count": 8911
+   },
+   {
+    "code": "GR",
+    "count": 8272
+   },
+   {
+    "code": "CZ",
+    "count": 7989
+   },
+   {
+    "code": "BG",
+    "count": 7760
+   }
+  ]
+ },
+ "warnings": []
+}

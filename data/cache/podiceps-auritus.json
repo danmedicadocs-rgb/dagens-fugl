@@ -1,0 +1,202 @@
+{
+ "key": "podiceps-auritus",
+ "name": "Podiceps auritus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:58:58.439Z",
+ "names": {
+  "da": "Nordisk lappedykker",
+  "en": "Horned Grebe",
+  "accepted": "Podiceps auritus"
+ },
+ "wikidata": {
+  "id": "Q192058"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Nordisk lappedykker",
+  "extract": "Den nordiske lappedykker er en fugleart af lappedykkere. Fuglen når en længde på 31-38 cm og har et vingefang på 46-55 cm. Fuglen yngler ved ferskvandssøer i det nordlige Europa og Asien samt på afsidesliggende steder i det nordlige USA og i en stor del af Canada. Om vinteren trækker fuglen ud til kysterne. Føden består af mindre vandinsekter, krebsdyr og mindre fisk, der fanges ved dykning.",
+  "url": "https://da.wikipedia.org/wiki/Nordisk_lappedykker"
+ },
+ "inat": {
+  "id": 4209,
+  "observations": 34511
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 16065549,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16065549/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16065549/large.jpeg",
+    "attribution": "(c) Lisa Wiencek Gerbec, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11293632",
+    "place": "Mayfield, OH, USA",
+    "date": "2018-04-21"
+   },
+   {
+    "id": 120603578,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120603578/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120603578/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/73837076",
+    "place": "Oakland, CA, USA",
+    "date": "2021-04-12"
+   },
+   {
+    "id": 274275895,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/274275895/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/274275895/large.png",
+    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/158736603",
+    "place": "Regina, SK, Canada",
+    "date": "2023-04-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 174769436,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174769436/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174769436/large.jpeg",
+    "attribution": "(c) sprcrkwild, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104316997",
+    "place": "The Bowl of Edmonds, Edmonds, WA 98020, USA",
+    "date": "2022-01-03"
+   },
+   {
+    "id": 604959030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604959030/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604959030/large.jpg",
+    "attribution": "(c) Therese Phillips, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/333242564",
+    "place": "Mukilteo, WA, USA",
+    "date": "2026-01-02"
+   },
+   {
+    "id": 354398806,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354398806/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354398806/large.jpg",
+    "attribution": "(c) Roberto Daniel Avila, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/200828932",
+    "place": "Anaheim Bay, Huntington Beach, CA, US",
+    "date": "2024-02-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 258331381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258331381/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258331381/large.jpeg",
+    "attribution": "(c) Robert Harris, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149876863",
+    "place": "Smyth County, VA, USA",
+    "date": "2023-02-27"
+   },
+   {
+    "id": 85628925,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85628925/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85628925/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/53829493",
+    "place": "г. Карпинск, Свердловская обл., Россия",
+    "date": "2020-07-21"
+   },
+   {
+    "id": 219640289,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219640289/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219640289/large.jpeg",
+    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129258369",
+    "place": "Paimio, Suomi",
+    "date": "2022-08-03"
+   }
+  ],
+  "hero": {
+   "id": 16065549,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16065549/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16065549/large.jpeg",
+   "attribution": "(c) Lisa Wiencek Gerbec, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/11293632",
+   "place": "Mayfield, OH, USA",
+   "date": "2018-04-21"
+  }
+ },
+ "gbif": {
+  "key": 2482059,
+  "dkTotal": 13066,
+  "dkMonths": [
+   1814,
+   1279,
+   1492,
+   1882,
+   513,
+   489,
+   245,
+   247,
+   536,
+   1862,
+   1658,
+   1043
+  ],
+  "worldTotal": 1892050,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1154376
+   },
+   {
+    "code": "CA",
+    "count": 274948
+   },
+   {
+    "code": "SE",
+    "count": 251262
+   },
+   {
+    "code": "NO",
+    "count": 105639
+   },
+   {
+    "code": "GB",
+    "count": 18956
+   },
+   {
+    "code": "NL",
+    "count": 13597
+   },
+   {
+    "code": "DK",
+    "count": 13066
+   },
+   {
+    "code": "IS",
+    "count": 12441
+   },
+   {
+    "code": "FR",
+    "count": 7879
+   },
+   {
+    "code": "FI",
+    "count": 6213
+   },
+   {
+    "code": "RU",
+    "count": 5534
+   },
+   {
+    "code": "EE",
+    "count": 3894
+   }
+  ]
+ },
+ "warnings": []
+}

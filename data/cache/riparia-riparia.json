@@ -1,0 +1,151 @@
+{
+ "key": "riparia-riparia",
+ "name": "Riparia riparia",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:20.243Z",
+ "names": {
+  "da": "Digesvale",
+  "en": "Sand Martin",
+  "accepted": "Riparia riparia"
+ },
+ "wikidata": {
+  "id": "Q25909"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Digesvale",
+  "extract": "Digesvale er med sine 12 cm Danmarks mindste svaleart. Den er vidt udbredt og findes i hele Europa, samt i Mellemøsten, det nordlige af Asien og i Nordamerika. Den har vinterkvarterer i Vest- og Centralafrika, i det sydlige Asien og i Sydamerika.",
+  "url": "https://da.wikipedia.org/wiki/Digesvale"
+ },
+ "inat": {
+  "id": 11941,
+  "observations": 28062
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 146477715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146477715/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146477715/large.jpg",
+    "attribution": "(c) tlaloc27, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/88753211",
+    "place": "Corinne, UT, US",
+    "date": "2021-07-17"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 28081310,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28081310/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28081310/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18372866",
+    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
+    "date": "2018-08-12"
+   },
+   {
+    "id": 410244877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410244877/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410244877/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/231013313",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2024-07-22"
+   },
+   {
+    "id": 684302293,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684302293/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684302293/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/374388652",
+    "place": "Lloyd Harbor, NY, USA",
+    "date": "2026-06-20"
+   }
+  ],
+  "hero": {
+   "id": 146477715,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146477715/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146477715/large.jpg",
+   "attribution": "(c) tlaloc27, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/88753211",
+   "place": "Corinne, UT, US",
+   "date": "2021-07-17"
+  }
+ },
+ "gbif": {
+  "key": 2489160,
+  "dkTotal": 116651,
+  "dkMonths": [
+   0,
+   0,
+   110,
+   14043,
+   29772,
+   17014,
+   18523,
+   24463,
+   12559,
+   60,
+   9,
+   0
+  ],
+  "worldTotal": 2497229,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 728885
+   },
+   {
+    "code": "CA",
+    "count": 237055
+   },
+   {
+    "code": "ES",
+    "count": 218871
+   },
+   {
+    "code": "GB",
+    "count": 201632
+   },
+   {
+    "code": "SE",
+    "count": 195617
+   },
+   {
+    "code": "NL",
+    "count": 150841
+   },
+   {
+    "code": "FI",
+    "count": 123739
+   },
+   {
+    "code": "DK",
+    "count": 116651
+   },
+   {
+    "code": "NO",
+    "count": 83861
+   },
+   {
+    "code": "FR",
+    "count": 83595
+   },
+   {
+    "code": "PL",
+    "count": 32322
+   },
+   {
+    "code": "PT",
+    "count": 30957
+   }
+  ]
+ },
+ "warnings": []
+}

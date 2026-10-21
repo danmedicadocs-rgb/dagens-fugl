@@ -1,0 +1,202 @@
+{
+ "key": "eolophus-roseicapilla",
+ "name": "Eolophus roseicapilla",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:37:41.120Z",
+ "names": {
+  "da": "Rosa kakadue",
+  "en": "Galah",
+  "accepted": "Eolophus roseicapilla"
+ },
+ "wikidata": {
+  "id": "Q1253755"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rosa kakadue",
+  "extract": "Den rosa kakadue, også kaldet rosakakadu, er en papegøje, der er en af de mest udbredte i naturen.",
+  "url": "https://da.wikipedia.org/wiki/Rosa_kakadue"
+ },
+ "inat": {
+  "id": 144560,
+  "observations": 33032
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 272218112,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/272218112/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/272218112/large.jpg",
+    "attribution": "(c) Proteros, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/156982261",
+    "place": "Tuggerah NSW 2259, Australia",
+    "date": "2023-04-28"
+   },
+   {
+    "id": 602654235,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602654235/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602654235/large.jpg",
+    "attribution": "(c) Liam Sultana, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332119857",
+    "place": "Melbourne VIC, Australia",
+    "date": "2025-12-24"
+   },
+   {
+    "id": 344795709,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344795709/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344795709/large.jpg",
+    "attribution": "(c) Thomas Jaeger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195918949",
+    "place": "Berwick VIC 3806, Australia",
+    "date": "2023-12-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 147415773,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147415773/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147415773/large.jpg",
+    "attribution": "(c) Andrew Allen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89279800",
+    "place": "Melbourne VIC, Australia",
+    "date": "2018-10-08"
+   },
+   {
+    "id": 252999998,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252999998/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252999998/large.jpg",
+    "attribution": "(c) patrickc, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147070837",
+    "place": "Alice Springs NT, Australia",
+    "date": "2022-12-11"
+   },
+   {
+    "id": 231472870,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231472870/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231472870/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/135692328",
+    "place": "Apollo Bay Foreshore, Apollo Bay, VIC, AU",
+    "date": "2017-10-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 598964948,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598964948/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598964948/large.jpg",
+    "attribution": "(c) Wooden Box, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/330327043",
+    "place": "Ashwood Wetlands, Ashwood VIC, Australia",
+    "date": "2025-12-11"
+   },
+   {
+    "id": 460367417,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460367417/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460367417/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/256726611",
+    "place": "Cygnet TAS 7112, Australia",
+    "date": "2024-12-30"
+   },
+   {
+    "id": 591225108,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591225108/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591225108/large.jpg",
+    "attribution": "(c) graeme lunt, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326442188",
+    "place": "Lal Lal VIC 3352, Australia",
+    "date": "2025-11-14"
+   }
+  ],
+  "hero": {
+   "id": 147415773,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147415773/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147415773/large.jpg",
+   "attribution": "(c) Andrew Allen, some rights reserved (CC BY), uploaded by Andrew Allen",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/147415773",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2479598,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1564073,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 1563466
+   },
+   {
+    "code": "NZ",
+    "count": 93
+   },
+   {
+    "code": "BE",
+    "count": 37
+   },
+   {
+    "code": "ZZ",
+    "count": 30
+   },
+   {
+    "code": "NL",
+    "count": 28
+   },
+   {
+    "code": "US",
+    "count": 28
+   },
+   {
+    "code": "DE",
+    "count": 8
+   },
+   {
+    "code": "GB",
+    "count": 2
+   },
+   {
+    "code": "IE",
+    "count": 2
+   },
+   {
+    "code": "JP",
+    "count": 2
+   },
+   {
+    "code": "AE",
+    "count": 1
+   },
+   {
+    "code": "CA",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "colaptes-auratus",
+ "name": "Colaptes auratus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:42:12.484Z",
+ "names": {
+  "da": "Guldspætte",
+  "en": "Northern Flicker",
+  "accepted": "Colaptes auratus"
+ },
+ "wikidata": {
+  "id": "Q16819"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Guldspætte",
+  "extract": "Guldspætten er en spætte i ordenen af spættefugle. Den lever i skovområder spredt over Nordamerika og helt ned til Mellemamerika.",
+  "url": "https://da.wikipedia.org/wiki/Guldsp%C3%A6tte"
+ },
+ "inat": {
+  "id": 18236,
+  "observations": 172196
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 675989599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/370046403",
+    "place": "King County, US-WA, US",
+    "date": "2026-06-09"
+   },
+   {
+    "id": 133071257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133071257/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133071257/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/81146100",
+    "place": "East Vancouver, Vancouver, BC, Canada",
+    "date": "2021-05-31"
+   },
+   {
+    "id": 702759559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702759559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702759559/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/383939455",
+    "place": "28th Ave E, Seattle, WA, US",
+    "date": "2026-07-22"
+   }
+  ],
+  "female": [
+   {
+    "id": 509241269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/509241269/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/509241269/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/283411485",
+    "place": "1PVille",
+    "date": "2025-05-21"
+   },
+   {
+    "id": 73718453,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73718453/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73718453/large.jpeg",
+    "attribution": "(c) Tom Norton, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/46477570",
+    "place": "Thetford Center, VT 05075, USA",
+    "date": "2020-05-19"
+   },
+   {
+    "id": 74952238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74952238/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74952238/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/47259309",
+    "place": "Washington County, VT, USA",
+    "date": "2020-05-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 298202423,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/298202423/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/298202423/large.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/171826080",
+    "place": "Margaret St, Teaneck, NJ, US",
+    "date": "2023-07-08"
+   },
+   {
+    "id": 548548317,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/548548317/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/548548317/large.jpg",
+    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/304298575",
+    "place": "Crazy Horse, SD 57730, USA",
+    "date": "2025-08-06"
+   },
+   {
+    "id": 105213030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105213030/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105213030/large.jpeg",
+    "attribution": "(c) Louise Woodrich, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/65376804",
+    "place": "Hanover County, VA, USA",
+    "date": "2020-11-21"
+   }
+  ],
+  "hero": {
+   "id": 675989599,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/370046403",
+   "place": "King County, US-WA, US",
+   "date": "2026-06-09"
+  }
+ },
+ "gbif": {
+  "key": 2478259,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 15041761,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 12491734
+   },
+   {
+    "code": "CA",
+    "count": 2511539
+   },
+   {
+    "code": "MX",
+    "count": 26418
+   },
+   {
+    "code": "KY",
+    "count": 5132
+   },
+   {
+    "code": "CU",
+    "count": 4563
+   },
+   {
+    "code": "PM",
+    "count": 647
+   },
+   {
+    "code": "GT",
+    "count": 284
+   },
+   {
+    "code": "BM",
+    "count": 87
+   },
+   {
+    "code": "HN",
+    "count": 84
+   },
+   {
+    "code": "ZZ",
+    "count": 51
+   },
+   {
+    "code": "SV",
+    "count": 30
+   },
+   {
+    "code": "NI",
+    "count": 15
+   }
+  ]
+ },
+ "warnings": []
+}

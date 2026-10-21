@@ -1,0 +1,172 @@
+{
+ "key": "platalea-leucorodia",
+ "name": "Platalea leucorodia",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:01:06.688Z",
+ "names": {
+  "da": "Skestork",
+  "en": "Eurasian Spoonbill",
+  "accepted": "Platalea leucorodia"
+ },
+ "wikidata": {
+  "id": "Q171360"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Skestork",
+  "extract": "Skestorken er en fugl, der lever i vådområder og er en smule mindre end fiskehejren. Den er hvid og har et bredt langt næb. Næbspidsen er gul og ligeledes det nederste af halsen og i yngletiden også nakketoppen. Skestorken lever af småfisk, muslinger, snegle, haletudser og insekter.",
+  "url": "https://da.wikipedia.org/wiki/Skestork"
+ },
+ "inat": {
+  "id": 3731,
+  "observations": 24909
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 607935425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607935425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607935425/large.jpg",
+    "attribution": "(c) marius, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334731382",
+    "place": "40440 Ondres, France",
+    "date": "2026-01-14"
+   },
+   {
+    "id": 387568903,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387568903/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387568903/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/218995633",
+    "place": "RSPB Fairburn Ings, West Yorkshire, UK",
+    "date": "2024-05-24"
+   },
+   {
+    "id": 347706570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347706570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347706570/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197421118",
+    "place": "Guérande, France",
+    "date": "2024-01-20"
+   }
+  ],
+  "adult": [
+   {
+    "id": 675344130,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/369715703",
+    "place": "Ciudad Real, España",
+    "date": "2026-06-02"
+   },
+   {
+    "id": 474312888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474312888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474312888/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/263971456",
+    "place": "RSPB Blacktoft Sands, Goole, East Riding of Yorkshire, UK",
+    "date": "2025-03-04"
+   },
+   {
+    "id": 254804537,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254804537/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254804537/large.jpg",
+    "attribution": "(c) Victor Brans, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/148022820",
+    "place": "Saint-Quentin-en-Tourmont, France",
+    "date": "2022-07-12"
+   }
+  ],
+  "hero": {
+   "id": 675344130,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/large.jpg",
+   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/369715703",
+   "place": "Ciudad Real, España",
+   "date": "2026-06-02"
+  }
+ },
+ "gbif": {
+  "key": 2480801,
+  "dkTotal": 50505,
+  "dkMonths": [
+   84,
+   264,
+   2106,
+   5216,
+   10029,
+   7577,
+   10466,
+   9639,
+   4645,
+   212,
+   162,
+   73
+  ],
+  "worldTotal": 1347656,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 631651
+   },
+   {
+    "code": "ES",
+    "count": 157812
+   },
+   {
+    "code": "FR",
+    "count": 114821
+   },
+   {
+    "code": "BE",
+    "count": 80417
+   },
+   {
+    "code": "IN",
+    "count": 74685
+   },
+   {
+    "code": "PT",
+    "count": 64516
+   },
+   {
+    "code": "DK",
+    "count": 50505
+   },
+   {
+    "code": "GB",
+    "count": 39117
+   },
+   {
+    "code": "IL",
+    "count": 13204
+   },
+   {
+    "code": "TW",
+    "count": 11574
+   },
+   {
+    "code": "SE",
+    "count": 9438
+   },
+   {
+    "code": "DE",
+    "count": 8522
+   }
+  ]
+ },
+ "warnings": []
+}

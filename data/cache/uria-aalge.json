@@ -1,0 +1,171 @@
+{
+ "key": "uria-aalge",
+ "name": "Uria aalge",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:10.066Z",
+ "names": {
+  "da": "Lomvie",
+  "en": "Common Murre",
+  "accepted": "Uria aalge"
+ },
+ "wikidata": {
+  "id": "Q21062"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lomvie",
+  "extract": "Lomvien er en stor alkefugl, der lever i verdens nordlige have i et antal af ca. 3-4 millioner. Den yngler i tætte kolonier på stejle klippesider ud til havet eller understenblokke, men mest på stejle klippekyster, fuglefjelde. Uden for yngletiden lever den udelukkende på havet.",
+  "url": "https://da.wikipedia.org/wiki/Lomvie"
+ },
+ "inat": {
+  "id": 4519,
+  "observations": 28265
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 448019690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448019690/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448019690/large.jpeg",
+    "attribution": "(c) Sean Vanderluit, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/250497883",
+    "place": "Chesterman Beach, Alberni-Clayoquot, BC, CA",
+    "date": "2024-11-04"
+   },
+   {
+    "id": 165461389,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165461389/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165461389/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/99276517",
+    "place": "Enterprise Channel, Oak Bay, CA",
+    "date": "2021-10-22"
+   },
+   {
+    "id": 165460839,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165460839/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165460839/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/99276297",
+    "place": "Juan de Fuca Strait, Capital, CA",
+    "date": "2021-10-22"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 311397924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311397924/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311397924/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/178908497",
+    "place": "Arch Cape, OR 97102, USA",
+    "date": "2023-08-17"
+   },
+   {
+    "id": 553553695,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553553695/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553553695/large.jpg",
+    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/306928294",
+    "place": "Golden Gate Natl. Rec. Area - SF, San Francisco, Golden Gate National Recreation Area, California, United States",
+    "date": "2025-08-16"
+   },
+   {
+    "id": 723448264,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723448264/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723448264/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/394615317",
+    "place": "Aleutians West County, US-AK, US",
+    "date": "2026-08-24"
+   }
+  ],
+  "hero": {
+   "id": 448019690,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448019690/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448019690/large.jpeg",
+   "attribution": "(c) Sean Vanderluit, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/250497883",
+   "place": "Chesterman Beach, Alberni-Clayoquot, BC, CA",
+   "date": "2024-11-04"
+  }
+ },
+ "gbif": {
+  "key": 2481342,
+  "dkTotal": 59552,
+  "dkMonths": [
+   5478,
+   5171,
+   3114,
+   4109,
+   3736,
+   1902,
+   2921,
+   3308,
+   5701,
+   12130,
+   8929,
+   2996
+  ],
+  "worldTotal": 1636138,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 510068
+   },
+   {
+    "code": "US",
+    "count": 438219
+   },
+   {
+    "code": "SE",
+    "count": 179566
+   },
+   {
+    "code": "NL",
+    "count": 107912
+   },
+   {
+    "code": "NO",
+    "count": 83834
+   },
+   {
+    "code": "CA",
+    "count": 82321
+   },
+   {
+    "code": "DK",
+    "count": 59552
+   },
+   {
+    "code": "IE",
+    "count": 41673
+   },
+   {
+    "code": "BE",
+    "count": 36829
+   },
+   {
+    "code": "FR",
+    "count": 30290
+   },
+   {
+    "code": "DE",
+    "count": 23282
+   },
+   {
+    "code": "IS",
+    "count": 9630
+   }
+  ]
+ },
+ "warnings": []
+}

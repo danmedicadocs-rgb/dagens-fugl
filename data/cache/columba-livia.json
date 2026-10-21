@@ -1,0 +1,202 @@
+{
+ "key": "columba-livia",
+ "name": "Columba livia",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:42.396Z",
+ "names": {
+  "da": "Klippedue",
+  "en": "Rock Dove",
+  "accepted": "Columba livia"
+ },
+ "wikidata": {
+  "id": "Q42326"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Rock dove",
+  "extract": "The rock dove, also known as the common pigeon or rock pigeon, is a member of the bird family Columbidae. In common usage, it is often simply referred to as the \"pigeon\", although the rock dove is the wild form of the bird; the pigeons familiar to most people are the domesticated forms of the wild rock dove.",
+  "url": "https://en.wikipedia.org/wiki/Rock_dove"
+ },
+ "inat": {
+  "id": 3017,
+  "observations": 468022
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 106619240,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106619240/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106619240/large.jpeg",
+    "attribution": "(c) Swarochi Tathagath, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66171836",
+    "place": "H-34-107, Vivekanandapuram Colony, Sainikpuri, Secunderabad, Telangana 500056, India",
+    "date": "2020-12-06"
+   },
+   {
+    "id": 394192483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394192483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394192483/large.jpg",
+    "attribution": "(c) Daniel Capilla, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/222526401",
+    "place": "Calle Juan de Austria, Málaga, Andalucía, Spain",
+    "date": "2024-06-13"
+   },
+   {
+    "id": 378002194,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378002194/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378002194/large.jpg",
+    "attribution": "(c) Naelin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/213886721",
+    "place": "Palermo, Buenos Aires, Argentina",
+    "date": "2024-05-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 482850306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482850306/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482850306/large.jpeg",
+    "attribution": "(c) Michael Grundner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/268612600",
+    "place": "Zuffenhausen, 70435 Stuttgart, Deutschland",
+    "date": "2025-04-04"
+   },
+   {
+    "id": 449014034,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449014034/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449014034/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/250994818",
+    "place": "W Georgia St, Vancouver, BC, CA",
+    "date": "2024-11-08"
+   },
+   {
+    "id": 118018345,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118018345/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118018345/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72390703",
+    "place": "Basel-Bachletten, Basel, Switzerland",
+    "date": "2021-03-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 538054944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538054944/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538054944/large.jpg",
+    "attribution": "(c) olmagon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/298700439",
+    "place": "Norwich, UK",
+    "date": "2025-07-15"
+   },
+   {
+    "id": 415978581,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415978581/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415978581/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/234026227",
+    "place": "Central Saanich, BC, Canada",
+    "date": "2024-08-04"
+   },
+   {
+    "id": 71208589,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71208589/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71208589/large.jpeg",
+    "attribution": "(c) Steven Bodzin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44920065",
+    "place": "Woodside, Queens, NY, USA",
+    "date": "2020-05-04"
+   }
+  ],
+  "hero": {
+   "id": 466776975,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466776975/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466776975/large.jpg",
+   "attribution": "(c) Birds of Gilgit-Baltistan, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/466776975",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2495414,
+  "dkTotal": 46926,
+  "dkMonths": [
+   5848,
+   3472,
+   4071,
+   4297,
+   4839,
+   3793,
+   4132,
+   4418,
+   3946,
+   3074,
+   2407,
+   2589
+  ],
+  "worldTotal": 15630316,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 7033254
+   },
+   {
+    "code": "CA",
+    "count": 1676569
+   },
+   {
+    "code": "IN",
+    "count": 1105330
+   },
+   {
+    "code": "GB",
+    "count": 591788
+   },
+   {
+    "code": "ES",
+    "count": 534321
+   },
+   {
+    "code": "AU",
+    "count": 463846
+   },
+   {
+    "code": "SE",
+    "count": 350779
+   },
+   {
+    "code": "PT",
+    "count": 256977
+   },
+   {
+    "code": "FR",
+    "count": 238960
+   },
+   {
+    "code": "DE",
+    "count": 171198
+   },
+   {
+    "code": "MX",
+    "count": 162310
+   },
+   {
+    "code": "TW",
+    "count": 162080
+   }
+  ]
+ },
+ "warnings": []
+}

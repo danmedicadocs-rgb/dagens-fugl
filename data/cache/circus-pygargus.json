@@ -1,0 +1,202 @@
+{
+ "key": "circus-pygargus",
+ "name": "Circus pygargus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:01:46.558Z",
+ "names": {
+  "da": "Hedehøg",
+  "en": "Montagu's Harrier",
+  "accepted": "Circus pygargus"
+ },
+ "wikidata": {
+  "id": "Q26574"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hedehøg",
+  "extract": "Hedehøg er en elegant bygget rovfugl med lang hale og smalle, spidse vinger. Det er den mindste af de slanke, langbenede kærhøge. Den findes udbredt over store dele af Europa, Asien og Nordafrika. I Danmark er den en sjælden ynglefugl, især i Sønderjyllands marskområder.",
+  "url": "https://da.wikipedia.org/wiki/Hedeh%C3%B8g"
+ },
+ "inat": {
+  "id": 5167,
+  "observations": 14329
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 171076888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171076888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171076888/large.jpg",
+    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/102357068",
+    "place": "г. Казань, Респ. Татарстан, Россия",
+    "date": "2018-07-09"
+   },
+   {
+    "id": 3403364,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3403364/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3403364/large.JPG",
+    "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2964266",
+    "place": "Armenia",
+    "date": "2016-04-17"
+   },
+   {
+    "id": 654178637,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654178637/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654178637/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/358591717",
+    "place": "Castilla y León, ES",
+    "date": "2026-05-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 90117304,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117304/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117304/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/56545895",
+    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
+    "date": "2020-08-15"
+   },
+   {
+    "id": 57795840,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57795840/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57795840/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/36552789",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2018-08-19"
+   },
+   {
+    "id": 536168233,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536168233/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536168233/large.jpg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297708868",
+    "place": "Респ. Башкортостан, Россия, 453351",
+    "date": "2025-07-09"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 28081389,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28081389/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28081389/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18372885",
+    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
+    "date": "2018-08-24"
+   },
+   {
+    "id": 90117320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117320/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117320/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/56545895",
+    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
+    "date": "2020-08-15"
+   },
+   {
+    "id": 743364071,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743364071/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743364071/large.jpg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/404716171",
+    "place": "Laumėnai II, 85210 Akmenės r. sav., Lietuva",
+    "date": "2026-09-30"
+   }
+  ],
+  "hero": {
+   "id": 83451925,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83451925/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83451925/large.jpg",
+   "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY), uploaded by Вячеслав Юсупов",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/83451925",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480495,
+  "dkTotal": 24441,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1267,
+   9914,
+   4187,
+   5199,
+   3547,
+   291,
+   18,
+   3,
+   0
+  ],
+  "worldTotal": 538921,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 109380
+   },
+   {
+    "code": "ES",
+    "count": 89798
+   },
+   {
+    "code": "ML",
+    "count": 51382
+   },
+   {
+    "code": "SE",
+    "count": 47220
+   },
+   {
+    "code": "NL",
+    "count": 30048
+   },
+   {
+    "code": "GE",
+    "count": 25687
+   },
+   {
+    "code": "DK",
+    "count": 24441
+   },
+   {
+    "code": "BE",
+    "count": 20598
+   },
+   {
+    "code": "IN",
+    "count": 20153
+   },
+   {
+    "code": "PT",
+    "count": 13400
+   },
+   {
+    "code": "RU",
+    "count": 10531
+   },
+   {
+    "code": "MR",
+    "count": 9303
+   }
+  ]
+ },
+ "warnings": []
+}

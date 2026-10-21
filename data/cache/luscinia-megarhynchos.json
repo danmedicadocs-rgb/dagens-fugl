@@ -1,0 +1,171 @@
+{
+ "key": "luscinia-megarhynchos",
+ "name": "Luscinia megarhynchos",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:21:14.328Z",
+ "names": {
+  "da": "Sydlig nattergal",
+  "en": "Common Nightingale",
+  "accepted": "Luscinia megarhynchos"
+ },
+ "wikidata": {
+  "id": "Q25393"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sydlig nattergal",
+  "extract": "Sydlig nattergal er en mindre spurvefugl, der er yngler i det central, sydlige og vestlige Europa, vestlige og central dele af Asien, og i Nordafrika, mens den overvintrer i det tropiske Afrika. På engelsk kaldes den blot nightingale, hvorimod den i Danmark langt mere almindelige nattergal kaldes thrush nightingale. Det var typisk den sydlige nattergal der var basis for forskellige historier og eventyr. I Danmark er den sydlige nattergal en fåtallig besøgende om foråret og sommeren, og første gang man registrerede at den ynglede i landet var i 2003. Dens udbredelse i det nordlige Tyskland ekspanderer, og på grund af klimaforandringer forventes det, at sydlig nattergal med tiden vil blive en regelmæssig ynglefugl i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Sydlig_nattergal"
+ },
+ "inat": {
+  "id": 13079,
+  "observations": 18075
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 191077394,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/large.jpg",
+    "attribution": "(c) katunchik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/113092501",
+    "place": "Приморско, Болгария",
+    "date": "2022-04-27"
+   },
+   {
+    "id": 668820594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668820594/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668820594/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/366284672",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-05-29"
+   },
+   {
+    "id": 39807132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39807132/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39807132/large.jpeg",
+    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/25683225",
+    "place": "Homburg, Deutschland",
+    "date": "2019-05-24"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 732498965,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732498965/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732498965/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/399259966",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-09-10"
+   },
+   {
+    "id": 704153923,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704153923/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704153923/large.jpg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384663131",
+    "place": "Avda. de Beiramar 1, Vigo, 36202 Vigo, Pontevedra, España",
+    "date": "2026-07-24"
+   },
+   {
+    "id": 219855735,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219855735/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219855735/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129376546",
+    "place": "Quintanalara, Burgos, España",
+    "date": "2022-07-17"
+   }
+  ],
+  "hero": {
+   "id": 191077394,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/large.jpg",
+   "attribution": "(c) katunchik, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/113092501",
+   "place": "Приморско, Болгария",
+   "date": "2022-04-27"
+  }
+ },
+ "gbif": {
+  "key": 7660710,
+  "dkTotal": 1722,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   128,
+   1237,
+   335,
+   8,
+   4,
+   7,
+   0,
+   1,
+   0
+  ],
+  "worldTotal": 1211377,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 418324
+   },
+   {
+    "code": "ES",
+    "count": 326899
+   },
+   {
+    "code": "NL",
+    "count": 118142
+   },
+   {
+    "code": "DE",
+    "count": 74738
+   },
+   {
+    "code": "PT",
+    "count": 62033
+   },
+   {
+    "code": "BE",
+    "count": 25878
+   },
+   {
+    "code": "BG",
+    "count": 23494
+   },
+   {
+    "code": "GB",
+    "count": 22414
+   },
+   {
+    "code": "TR",
+    "count": 14413
+   },
+   {
+    "code": "GR",
+    "count": 13465
+   },
+   {
+    "code": "IT",
+    "count": 12907
+   },
+   {
+    "code": "CZ",
+    "count": 12153
+   }
+  ]
+ },
+ "warnings": []
+}

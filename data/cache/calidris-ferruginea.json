@@ -1,0 +1,151 @@
+{
+ "key": "calidris-ferruginea",
+ "name": "Calidris ferruginea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:37.977Z",
+ "names": {
+  "da": "Krumnæbbet ryle",
+  "en": "Curlew Sandpiper",
+  "accepted": "Calidris ferruginea"
+ },
+ "wikidata": {
+  "id": "Q62345"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Krumnæbbet ryle",
+  "extract": "Krumnæbbet ryle er en vadefugl, der er ret almindelig som trækgæst i Danmark om efteråret, men sjælden om foråret, hvor fuglene flyver direkte til ynglepladserne i arktisk Sibirien mellem floderne Jenisej og Kolyma. Den overvintrer i tropisk Vestafrika. Det videnskabelige navn ferruginea betyder 'rustfarvet'.",
+  "url": "https://da.wikipedia.org/wiki/Krumn%C3%A6bbet_ryle"
+ },
+ "inat": {
+  "id": 3863,
+  "observations": 11074
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 62949245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62949245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62949245/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39664207",
+    "place": ", New Jersey, United States",
+    "date": "2011-05-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 582991165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582991165/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582991165/large.jpg",
+    "attribution": "(c) Cameron Wilkins, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/322285187",
+    "place": "Isle of Anglesey, UK",
+    "date": "2025-10-17"
+   },
+   {
+    "id": 565893692,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565893692/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565893692/large.jpg",
+    "attribution": "(c) Ross Nairn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313369246",
+    "place": "Cheddar BS27, UK",
+    "date": "2025-09-10"
+   },
+   {
+    "id": 603677421,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603677421/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603677421/large.jpg",
+    "attribution": "(c) Shane Austin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332618476",
+    "place": "Somerset, UK",
+    "date": "2025-09-15"
+   }
+  ],
+  "hero": {
+   "id": 62949245,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62949245/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62949245/large.jpg",
+   "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/39664207",
+   "place": ", New Jersey, United States",
+   "date": "2011-05-15"
+  }
+ },
+ "gbif": {
+  "key": 2481741,
+  "dkTotal": 46004,
+  "dkMonths": [
+   2,
+   0,
+   0,
+   18,
+   2327,
+   651,
+   19757,
+   17144,
+   6052,
+   43,
+   2,
+   1
+  ],
+  "worldTotal": 605036,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 125091
+   },
+   {
+    "code": "AU",
+    "count": 77693
+   },
+   {
+    "code": "DK",
+    "count": 46004
+   },
+   {
+    "code": "ZA",
+    "count": 44647
+   },
+   {
+    "code": "ES",
+    "count": 43002
+   },
+   {
+    "code": "NL",
+    "count": 35681
+   },
+   {
+    "code": "GB",
+    "count": 26073
+   },
+   {
+    "code": "NO",
+    "count": 19763
+   },
+   {
+    "code": "TW",
+    "count": 18847
+   },
+   {
+    "code": "FR",
+    "count": 18152
+   },
+   {
+    "code": "IN",
+    "count": 14540
+   },
+   {
+    "code": "PT",
+    "count": 12552
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "picoides-tridactylus",
+ "name": "Picoides tridactylus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:12.325Z",
+ "names": {
+  "da": "Tretået spætte",
+  "en": "Three-toed Woodpecker",
+  "accepted": "Picoides tridactylus"
+ },
+ "wikidata": {
+  "id": "Q210418"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tretået spætte",
+  "extract": "Den tretåede spætte er en spætte i ordenen af spættefugle. Voksne fugle er 21,5-24 cm lange. Den tretåede spætte lever i det vestlige Canada, Alaska, det amerikanske midtvesten samt de nordlige dele af Eurasien fra Norge til Korea. Den findes dog også i Alperne. I Danmark er den en meget sjælden gæst fra det nordlige skandinavien.",
+  "url": "https://da.wikipedia.org/wiki/Tret%C3%A5et_sp%C3%A6tte"
+ },
+ "inat": {
+  "id": 17669,
+  "observations": 3718
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 181074867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181074867/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181074867/large.jpeg",
+    "attribution": "(c) Adam Śliż, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107637674",
+    "place": "Silesian, PL",
+    "date": "2022-02-26"
+   },
+   {
+    "id": 684909961,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684909961/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684909961/large.jpg",
+    "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/374703014",
+    "place": "Q7W9+Q5 Петрозаводск, Республика Карелия, Россия",
+    "date": "2026-06-23"
+   },
+   {
+    "id": 236530808,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236530808/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236530808/large.jpg",
+    "attribution": "(c) Patrick Meurin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138391969",
+    "place": "Chur, Schweiz",
+    "date": "2022-08-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 71307197,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71307197/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71307197/large.jpeg",
+    "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44977826",
+    "place": "Нововилговское с/п, Респ. Карелия, Россия",
+    "date": "2020-05-05"
+   },
+   {
+    "id": 616023609,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616023609/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616023609/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/338711547",
+    "place": "Челябинская обл., Россия, 456318",
+    "date": "2026-02-15"
+   },
+   {
+    "id": 484587797,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/484587797/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/484587797/large.jpg",
+    "attribution": "(c) Andrejus Gaidamavičius, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/269515318",
+    "place": "Vilniaus, LT",
+    "date": "2025-04-09"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 181074867,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181074867/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181074867/large.jpeg",
+   "attribution": "(c) Adam Śliż, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/107637674",
+   "place": "Silesian, PL",
+   "date": "2022-02-26"
+  }
+ },
+ "gbif": {
+  "key": 2477804,
+  "dkTotal": 38,
+  "dkMonths": [
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   30,
+   4,
+   0
+  ],
+  "worldTotal": 141597,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 99553
+   },
+   {
+    "code": "NO",
+    "count": 14588
+   },
+   {
+    "code": "FI",
+    "count": 11292
+   },
+   {
+    "code": "RU",
+    "count": 3322
+   },
+   {
+    "code": "EE",
+    "count": 2806
+   },
+   {
+    "code": "AT",
+    "count": 2251
+   },
+   {
+    "code": "PL",
+    "count": 1325
+   },
+   {
+    "code": "CH",
+    "count": 942
+   },
+   {
+    "code": "DE",
+    "count": 837
+   },
+   {
+    "code": "FR",
+    "count": 825
+   },
+   {
+    "code": "CN",
+    "count": 516
+   },
+   {
+    "code": "SK",
+    "count": 305
+   }
+  ]
+ },
+ "warnings": []
+}

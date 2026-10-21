@@ -1,0 +1,152 @@
+{
+ "key": "anthus-richardi",
+ "name": "Anthus richardi",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:23:13.059Z",
+ "names": {
+  "da": "Storpiber",
+  "en": "Richard's Pipit",
+  "accepted": "Anthus richardi"
+ },
+ "wikidata": {
+  "id": "Q904790"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Storpiber",
+  "extract": "Storpiber er en 18 centimeter stor spurvefugl, der yngler på græsstepper og enge i Central- og Østasien, f.eks. i Mongoliet. Arten overvintrer fortrinsvis i Indien og Sydøstasien, men også så langt mod vest som Spanien og Portugal.",
+  "url": "https://da.wikipedia.org/wiki/Storpiber"
+ },
+ "inat": {
+  "id": 13726,
+  "observations": 2389
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 334143170,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334143170/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334143170/large.jpeg",
+    "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/190585796",
+    "place": "Βόια 230 53, Ελλάδα",
+    "date": "2023-10-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 610654349,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610654349/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610654349/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/336078157",
+    "place": "Tacumshin",
+    "date": "2007-12-02"
+   },
+   {
+    "id": 474315026,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474315026/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474315026/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/263972328",
+    "place": "Milton Keynes, UK",
+    "date": "2025-03-05"
+   },
+   {
+    "id": 334142252,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334142252/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334142252/large.jpeg",
+    "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/190585407",
+    "place": "Βόια 230 53, Ελλάδα",
+    "date": "2023-10-30"
+   }
+  ],
+  "hero": {
+   "id": 610654349,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610654349/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610654349/large.jpg",
+   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/336078157",
+   "place": "Tacumshin",
+   "date": "2007-12-02"
+  }
+ },
+ "gbif": {
+  "key": 9465111,
+  "dkTotal": 1469,
+  "dkMonths": [
+   146,
+   8,
+   2,
+   35,
+   31,
+   2,
+   0,
+   0,
+   241,
+   783,
+   152,
+   68
+  ],
+  "worldTotal": 90537,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 22600
+   },
+   {
+    "code": "CN",
+    "count": 7410
+   },
+   {
+    "code": "NL",
+    "count": 6818
+   },
+   {
+    "code": "SE",
+    "count": 6675
+   },
+   {
+    "code": "HK",
+    "count": 5754
+   },
+   {
+    "code": "TH",
+    "count": 5501
+   },
+   {
+    "code": "IN",
+    "count": 5476
+   },
+   {
+    "code": "NO",
+    "count": 3696
+   },
+   {
+    "code": "ES",
+    "count": 2801
+   },
+   {
+    "code": "FR",
+    "count": 2680
+   },
+   {
+    "code": "AE",
+    "count": 2399
+   },
+   {
+    "code": "GB",
+    "count": 2372
+   }
+  ]
+ },
+ "warnings": []
+}

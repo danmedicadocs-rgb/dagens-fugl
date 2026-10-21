@@ -1,0 +1,141 @@
+{
+ "key": "pitta-moluccensis",
+ "name": "Pitta moluccensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:07.454Z",
+ "names": {
+  "da": "Blåvinget Pitta",
+  "en": "Blue-winged Pitta",
+  "accepted": "Pitta moluccensis"
+ },
+ "wikidata": {
+  "id": "Q266705"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blue-winged pitta",
+  "extract": "The blue-winged pitta is a passerine bird in the family Pittidae. It forms a superspecies with three other pittas, the Indian pitta, the fairy pitta and the mangrove pitta. A colourful bird, it has a black head with a buff stripe above the eye, a white collar, greenish upper parts, blue wings, buff underparts and a reddish vent area. Its range extends from India to Malaysia, Indonesia, southern China and the Philippines. Its habitat is moist woodland, parks and gardens and it avoids dense forest. It feeds mainly on insects and worms. It breeds in the spring, building an untidy spherical nest on the ground, often near water and between tree roots. A clutch of about five eggs is laid and incubated by both parents, hatching after about sixteen days.",
+  "url": "https://en.wikipedia.org/wiki/Blue-winged_pitta"
+ },
+ "inat": {
+  "id": 14415,
+  "observations": 1091
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 547352967,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547352967/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547352967/large.jpg",
+    "attribution": "(c) Ian Dugdale, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/303667363",
+    "place": "Takien Tong, Khao Khitchakut District, Chanthaburi 22210, Thailand",
+    "date": "2011-05-07"
+   },
+   {
+    "id": 341738380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341738380/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341738380/large.jpeg",
+    "attribution": "(c) Chris Oldnall, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/194417113",
+    "place": "PR36+JGM, Khao Pu, Si Banphot District, Phatthalung 93190, Thailand",
+    "date": "2023-12-19"
+   },
+   {
+    "id": 639966944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639966944/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639966944/large.jpg",
+    "attribution": "(c) Apichart Nakarungutti, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/350725736",
+    "place": "C5RH+W6X, Bang Mak, Mueang Chumphon District, Chumphon 86000, Thailand",
+    "date": "2026-04-11"
+   }
+  ],
+  "hero": {
+   "id": 547352967,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547352967/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547352967/large.jpg",
+   "attribution": "(c) Ian Dugdale, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/303667363",
+   "place": "Takien Tong, Khao Khitchakut District, Chanthaburi 22210, Thailand",
+   "date": "2011-05-07"
+  }
+ },
+ "gbif": {
+  "key": 2489520,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 11399,
+  "topCountries": [
+   {
+    "code": "TH",
+    "count": 5716
+   },
+   {
+    "code": "SG",
+    "count": 2181
+   },
+   {
+    "code": "MY",
+    "count": 1756
+   },
+   {
+    "code": "VN",
+    "count": 555
+   },
+   {
+    "code": "KH",
+    "count": 508
+   },
+   {
+    "code": "TW",
+    "count": 208
+   },
+   {
+    "code": "MM",
+    "count": 114
+   },
+   {
+    "code": "ID",
+    "count": 105
+   },
+   {
+    "code": "LA",
+    "count": 52
+   },
+   {
+    "code": "CN",
+    "count": 31
+   },
+   {
+    "code": "PH",
+    "count": 11
+   },
+   {
+    "code": "BN",
+    "count": 10
+   }
+  ]
+ },
+ "warnings": []
+}

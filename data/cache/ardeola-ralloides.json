@@ -1,0 +1,120 @@
+{
+ "key": "ardeola-ralloides",
+ "name": "Ardeola ralloides",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:45.510Z",
+ "names": {
+  "da": "Tophejre",
+  "en": "Squacco Heron",
+  "accepted": "Ardeola ralloides"
+ },
+ "wikidata": {
+  "id": "Q191394"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tophejre",
+  "extract": "Tophejren er en hejre, der er 46 cm lang og vejer 280 g. Tophejren har i yngledragten røde ben og sortblåt næb. På andre årstider er benene gule og næbbet gulgrønt med sort spids. Den har hvide vinger og halefjer. Dens føde består af vandinsekter, igler, krebsdyr, haletudser og småfisk.",
+  "url": "https://da.wikipedia.org/wiki/Tophejre"
+ },
+ "inat": {
+  "id": 4994,
+  "observations": 13112
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 90675169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90675169/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90675169/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/56878792",
+    "place": "El Khroub, Algérie",
+    "date": "2020-08-06"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 90675169,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90675169/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90675169/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/56878792",
+   "place": "El Khroub, Algérie",
+   "date": "2020-08-06"
+  }
+ },
+ "gbif": {
+  "key": 2480906,
+  "dkTotal": 548,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   165,
+   120,
+   1,
+   1,
+   0,
+   5,
+   255,
+   0
+  ],
+  "worldTotal": 282930,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 40293
+   },
+   {
+    "code": "ZA",
+    "count": 36159
+   },
+   {
+    "code": "IL",
+    "count": 30088
+   },
+   {
+    "code": "FR",
+    "count": 19153
+   },
+   {
+    "code": "GR",
+    "count": 10285
+   },
+   {
+    "code": "TR",
+    "count": 9800
+   },
+   {
+    "code": "BW",
+    "count": 8586
+   },
+   {
+    "code": "KE",
+    "count": 8231
+   },
+   {
+    "code": "NL",
+    "count": 6856
+   },
+   {
+    "code": "AE",
+    "count": 6811
+   },
+   {
+    "code": "GM",
+    "count": 6599
+   },
+   {
+    "code": "EG",
+    "count": 6267
+   }
+  ]
+ },
+ "warnings": []
+}

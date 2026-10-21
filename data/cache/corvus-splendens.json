@@ -1,0 +1,162 @@
+{
+ "key": "corvus-splendens",
+ "name": "Corvus splendens",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:23.731Z",
+ "names": {
+  "da": "Huskrage",
+  "en": "House Crow",
+  "accepted": "Corvus splendens"
+ },
+ "wikidata": {
+  "id": "Q507383"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "House crow",
+  "extract": "The house crow, also known as the Indian, greynecked, Ceylon or Colombo crow, is a common bird of the crow family that is of Asian origin but now found in many parts of the world, where they arrived assisted by shipping. It is between the jackdaw and the carrion crow in size but is slimmer than either. The forehead, crown, throat and upper breast are a richly glossed black, whilst the neck and breast are a lighter grey-brown in colour. The wings, tail and legs are black. There are regional variations in the thickness of the bill and the depth of colour in areas of the plumage.",
+  "url": "https://en.wikipedia.org/wiki/House_crow"
+ },
+ "inat": {
+  "id": 8031,
+  "observations": 22391
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 254222160,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254222160/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254222160/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147711753",
+    "place": "Presint 13, 62000 Putrajaya, Malaisie",
+    "date": "2022-11-16"
+   },
+   {
+    "id": 103720425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103720425/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103720425/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/64507583",
+    "place": "Dibba - Fudschaira - Vereinigte Arabische Emirate",
+    "date": "2017-09-01"
+   }
+  ],
+  "adult": [
+   {
+    "id": 361054113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054113/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054113/large.jpg",
+    "attribution": "(c) Susan Murphy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204280224",
+    "place": "'s-Gravenzande, Netherlands",
+    "date": "2013-06-12"
+   },
+   {
+    "id": 697310793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697310793/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697310793/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/381114239",
+    "place": "4, Azad Nagar, Colaba, Mumbai, Maharashtra 400005, India",
+    "date": "2026-07-09"
+   },
+   {
+    "id": 145572482,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145572482/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145572482/large.jpeg",
+    "attribution": "(c) Vihansith Kulatunga, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/88242831",
+    "place": "Sri Lanka",
+    "date": "2021-07-23"
+   }
+  ],
+  "hero": {
+   "id": 361054113,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054113/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361054113/large.jpg",
+   "attribution": "(c) Susan Murphy, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/204280224",
+   "place": "'s-Gravenzande, Netherlands",
+   "date": "2013-06-12"
+  }
+ },
+ "gbif": {
+  "key": 2482499,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1506333,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 1242719
+   },
+   {
+    "code": "LK",
+    "count": 47282
+   },
+   {
+    "code": "SG",
+    "count": 35455
+   },
+   {
+    "code": "NP",
+    "count": 33732
+   },
+   {
+    "code": "AE",
+    "count": 28907
+   },
+   {
+    "code": "MY",
+    "count": 18141
+   },
+   {
+    "code": "BD",
+    "count": 17196
+   },
+   {
+    "code": "IL",
+    "count": 17027
+   },
+   {
+    "code": "KE",
+    "count": 11829
+   },
+   {
+    "code": "PK",
+    "count": 9426
+   },
+   {
+    "code": "TZ",
+    "count": 6858
+   },
+   {
+    "code": "OM",
+    "count": 6822
+   }
+  ]
+ },
+ "warnings": []
+}

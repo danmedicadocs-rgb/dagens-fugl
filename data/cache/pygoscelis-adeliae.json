@@ -1,0 +1,151 @@
+{
+ "key": "pygoscelis-adeliae",
+ "name": "Pygoscelis adeliae",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:23.498Z",
+ "names": {
+  "da": "Adeliepingvin",
+  "en": "Adelie penguin",
+  "accepted": "Pygoscelis adeliae"
+ },
+ "wikidata": {
+  "id": "Q187958"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Adeliepingvin",
+  "extract": "Adeliepingvin er en pingvinart, som er lidt mindre end kejser- og kongepingvinerne.",
+  "url": "https://da.wikipedia.org/wiki/Adeliepingvin"
+ },
+ "inat": {
+  "id": 3810,
+  "observations": 2334
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 107295635,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107295635/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107295635/large.jpg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66545658",
+    "place": "Antarctica",
+    "date": "1993-01-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 2912294,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2912294/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2912294/large.jpg",
+    "attribution": "(c) John Barkla, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2606939",
+    "place": "Dumont Durville, Antarctica",
+    "date": "2012-02-06"
+   },
+   {
+    "id": 107295680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107295680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107295680/large.jpg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66545671",
+    "place": "Humble Island, Antarctica",
+    "date": "1993-02-06"
+   },
+   {
+    "id": 260053970,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260053970/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260053970/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/150778332",
+    "place": "Antarctica",
+    "date": "2023-02-01"
+   }
+  ],
+  "hero": {
+   "id": 49209619,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49209619/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/49209619/large.jpg",
+   "attribution": "(c) Seig, some rights reserved (CC BY), uploaded by Seig",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/49209619",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481663,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 197756,
+  "topCountries": [
+   {
+    "code": "AQ",
+    "count": 196784
+   },
+   {
+    "code": "AU",
+    "count": 105
+   },
+   {
+    "code": "ZZ",
+    "count": 69
+   },
+   {
+    "code": "GS",
+    "count": 49
+   },
+   {
+    "code": "AR",
+    "count": 22
+   },
+   {
+    "code": "NZ",
+    "count": 22
+   },
+   {
+    "code": "TF",
+    "count": 13
+   },
+   {
+    "code": "US",
+    "count": 12
+   },
+   {
+    "code": "GB",
+    "count": 9
+   },
+   {
+    "code": "BV",
+    "count": 8
+   },
+   {
+    "code": "NO",
+    "count": 7
+   },
+   {
+    "code": "FK",
+    "count": 5
+   }
+  ]
+ },
+ "warnings": []
+}

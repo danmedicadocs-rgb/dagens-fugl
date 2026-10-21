@@ -1,0 +1,172 @@
+{
+ "key": "chrysolophus-pictus",
+ "name": "Chrysolophus pictus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:32.831Z",
+ "names": {
+  "da": "Guldfasan",
+  "en": "Golden Pheasant",
+  "accepted": "Chrysolophus pictus"
+ },
+ "wikidata": {
+  "id": "Q335113"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Golden pheasant",
+  "extract": "The golden pheasant, also known as the Chinese pheasant, and rainbow pheasant, is a gamebird of the order Galliformes and the family Phasianidae (pheasants). The genus name is from Ancient Greek khrusolophos, \"with golden crest\", and pictus is Latin for \"painted\" from pingere, \"to paint\".",
+  "url": "https://en.wikipedia.org/wiki/Golden_pheasant"
+ },
+ "inat": {
+  "id": 1230,
+  "observations": 2605
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 577457818,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/large.jpg",
+    "attribution": "(c) Mel Whiting, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/319451772",
+    "place": "Heathcote Valley, Christchurch, New Zealand",
+    "date": "2025-10-01"
+   },
+   {
+    "id": 439722124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722124/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722124/large.jpeg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/246324061",
+    "place": "荥阳市, 郑州市, 河南省, CN",
+    "date": "2024-10-05"
+   },
+   {
+    "id": 588762776,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588762776/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588762776/large.jpg",
+    "attribution": "(c) Lisa Bennett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/325144269",
+    "place": "North Island, Carterton, Wellington, NZ",
+    "date": "2025-11-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 186367047,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186367047/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186367047/large.jpeg",
+    "attribution": "(c) Alice Shanks, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/110473902",
+    "place": "Waipuna Saddle, Banks Peninsula",
+    "date": "2022-01-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 439722158,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722158/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722158/large.jpeg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/246324061",
+    "place": "荥阳市, 郑州市, 河南省, CN",
+    "date": "2024-10-05"
+   },
+   {
+    "id": 1225698,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1225698/square.",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1225698/square.",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/971786",
+    "place": "Lincoln University, Lincoln University, Canterbury, NZ",
+    "date": "2013-09-18"
+   }
+  ],
+  "hero": {
+   "id": 577457818,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/large.jpg",
+   "attribution": "(c) Mel Whiting, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/319451772",
+   "place": "Heathcote Valley, Christchurch, New Zealand",
+   "date": "2025-10-01"
+  }
+ },
+ "gbif": {
+  "key": 5228034,
+  "dkTotal": 50,
+  "dkMonths": [
+   2,
+   1,
+   0,
+   5,
+   18,
+   5,
+   9,
+   2,
+   2,
+   3,
+   1,
+   1
+  ],
+  "worldTotal": 5614,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 2081
+   },
+   {
+    "code": "GB",
+    "count": 1406
+   },
+   {
+    "code": "US",
+    "count": 409
+   },
+   {
+    "code": "BE",
+    "count": 226
+   },
+   {
+    "code": "NL",
+    "count": 198
+   },
+   {
+    "code": "NZ",
+    "count": 103
+   },
+   {
+    "code": "FR",
+    "count": 88
+   },
+   {
+    "code": "ZZ",
+    "count": 78
+   },
+   {
+    "code": "DE",
+    "count": 76
+   },
+   {
+    "code": "CA",
+    "count": 66
+   },
+   {
+    "code": "DK",
+    "count": 50
+   },
+   {
+    "code": "SE",
+    "count": 29
+   }
+  ]
+ },
+ "warnings": []
+}

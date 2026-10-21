@@ -1,0 +1,202 @@
+{
+ "key": "ephippiorhynchus-senegalensis",
+ "name": "Ephippiorhynchus senegalensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:59.061Z",
+ "names": {
+  "da": "Saddelnæb",
+  "en": null,
+  "accepted": "Ephippiorhynchus senegalensis"
+ },
+ "wikidata": {
+  "id": "Q1219291"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Saddle-billed stork",
+  "extract": "The saddle-billed stork or saddlebill is a large wading bird in the stork family, Ciconiidae. It is a widespread species which is a resident breeder in sub-Saharan Africa from Sudan, Ethiopia, and Kenya south to South Africa and in the Gambia, Senegal, Côte d'Ivoire, and Chad in west Africa. It is considered endangered in South Africa.",
+  "url": "https://en.wikipedia.org/wiki/Saddle-billed_stork"
+ },
+ "inat": {
+  "id": 4754,
+  "observations": 4511
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 334356269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334356269/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334356269/large.png",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/190696952",
+    "place": "Unnamed Road, Botswana",
+    "date": "2023-11-09"
+   },
+   {
+    "id": 96619407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96619407/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96619407/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/60425427",
+    "place": "Gweru, Zimbabwe",
+    "date": "2020-09-19"
+   },
+   {
+    "id": 579368143,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579368143/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579368143/large.jpg",
+    "attribution": "(c) B Pulman005, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/320441244",
+    "place": "Bagamoyo, TZ-PW, TZ",
+    "date": "2025-10-11"
+   }
+  ],
+  "female": [
+   {
+    "id": 13753257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13753257/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13753257/large.jpg",
+    "attribution": "(c) Wynand Uys, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/10002585",
+    "place": "KNP, South Africa",
+    "date": "2018-02-25"
+   },
+   {
+    "id": 365986215,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365986215/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365986215/large.jpeg",
+    "attribution": "(c) Karen Eichholz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206954370",
+    "place": "Ehlanzeni District Municipality, South Africa",
+    "date": "2023-10-28"
+   },
+   {
+    "id": 190287779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190287779/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190287779/large.jpeg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/112650961",
+    "place": "Lolgorian, Kenya",
+    "date": "2021-12-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 336405134,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336405134/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336405134/large.jpeg",
+    "attribution": "(c) Reiner Jakubowski, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/191721986",
+    "place": "Lavushimanda, Zambia",
+    "date": "2023-11-06"
+   },
+   {
+    "id": 585206315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585206315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585206315/large.jpg",
+    "attribution": "(c) sableplains, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/323422058",
+    "place": "Thabazimbi, Limpopo, ZA",
+    "date": "2025-10-27"
+   },
+   {
+    "id": 159539946,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159539946/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159539946/large.jpeg",
+    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/96057687",
+    "place": "Kruger Park, South Africa",
+    "date": "2021-08-25"
+   }
+  ],
+  "hero": {
+   "id": 334356269,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334356269/medium.png",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334356269/large.png",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/190696952",
+   "place": "Unnamed Road, Botswana",
+   "date": "2023-11-09"
+  }
+ },
+ "gbif": {
+  "key": 2481904,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 49888,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 24305
+   },
+   {
+    "code": "BW",
+    "count": 4963
+   },
+   {
+    "code": "KE",
+    "count": 4543
+   },
+   {
+    "code": "TZ",
+    "count": 3919
+   },
+   {
+    "code": "UG",
+    "count": 3258
+   },
+   {
+    "code": "ZM",
+    "count": 2906
+   },
+   {
+    "code": "ZW",
+    "count": 2248
+   },
+   {
+    "code": "NA",
+    "count": 858
+   },
+   {
+    "code": "MZ",
+    "count": 612
+   },
+   {
+    "code": "ET",
+    "count": 475
+   },
+   {
+    "code": "BJ",
+    "count": 319
+   },
+   {
+    "code": "MW",
+    "count": 291
+   }
+  ]
+ },
+ "warnings": []
+}

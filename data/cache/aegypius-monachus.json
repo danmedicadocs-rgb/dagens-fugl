@@ -1,0 +1,172 @@
+{
+ "key": "aegypius-monachus",
+ "name": "Aegypius monachus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:26:07.678Z",
+ "names": {
+  "da": "Munkegrib",
+  "en": "Cinereous Vulture",
+  "accepted": "Aegypius monachus"
+ },
+ "wikidata": {
+  "id": "Q168677"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Munkegrib",
+  "extract": "Munkegribben er en rovfugl i høgefamilien. Det er Europas største rovfugl med et vingefang på op til 295 centimeter. Den er udbredt i Sydeuropa og Lilleasien og videre gennem Kaukasus i et bredt bælte til Kina. Den lever især af ådsler som den finder ved at kredse på ubevægelige vinger. Munkegrib er den eneste art i slægten Aegypius.",
+  "url": "https://da.wikipedia.org/wiki/Munkegrib"
+ },
+ "inat": {
+  "id": 5382,
+  "observations": 11870
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 426862657,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426862657/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426862657/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239655805",
+    "place": "Salamanca, ES-CL, ES",
+    "date": "2024-08-17"
+   },
+   {
+    "id": 597490110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597490110/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597490110/large.jpg",
+    "attribution": "(c) SIA, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329597039",
+    "place": "Crimea, UA",
+    "date": "2025-11-20"
+   },
+   {
+    "id": 589205973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589205973/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589205973/large.jpg",
+    "attribution": "(c) Антон Лабачоў, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/325432311",
+    "place": "Dagestan, RU",
+    "date": "2025-09-09"
+   }
+  ],
+  "adult": [
+   {
+    "id": 729558168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397758228",
+    "place": "Georgia",
+    "date": "2026-09-05"
+   },
+   {
+    "id": 605698033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605698033/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605698033/large.jpg",
+    "attribution": "(c) Cristina Villaverde, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/333633262",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2026-01-01"
+   },
+   {
+    "id": 480387698,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/480387698/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/480387698/large.jpg",
+    "attribution": "(c) CaracalShan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261906047",
+    "place": "Vlaanderen, BE",
+    "date": "2019-05-08"
+   }
+  ],
+  "hero": {
+   "id": 729558168,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/large.jpg",
+   "attribution": "(c) Donsky, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/397758228",
+   "place": "Georgia",
+   "date": "2026-09-05"
+  }
+ },
+ "gbif": {
+  "key": 5229165,
+  "dkTotal": 671,
+  "dkMonths": [
+   0,
+   1,
+   3,
+   27,
+   3,
+   53,
+   577,
+   1,
+   2,
+   4,
+   0,
+   0
+  ],
+  "worldTotal": 371546,
+  "topCountries": [
+   {
+    "code": "MN",
+    "count": 146722
+   },
+   {
+    "code": "ES",
+    "count": 104262
+   },
+   {
+    "code": "KR",
+    "count": 48135
+   },
+   {
+    "code": "CN",
+    "count": 21952
+   },
+   {
+    "code": "FR",
+    "count": 10560
+   },
+   {
+    "code": "PT",
+    "count": 9912
+   },
+   {
+    "code": "IN",
+    "count": 6213
+   },
+   {
+    "code": "KP",
+    "count": 3236
+   },
+   {
+    "code": "RU",
+    "count": 3003
+   },
+   {
+    "code": "TR",
+    "count": 2733
+   },
+   {
+    "code": "IR",
+    "count": 2078
+   },
+   {
+    "code": "GE",
+    "count": 1755
+   }
+  ]
+ },
+ "warnings": []
+}

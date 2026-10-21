@@ -1,0 +1,161 @@
+{
+ "key": "acridotheres-tristis",
+ "name": "Acridotheres tristis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:27.623Z",
+ "names": {
+  "da": "Maina",
+  "en": "Common myna",
+  "accepted": "Acridotheres tristis"
+ },
+ "wikidata": {
+  "id": "Q116667"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Common myna",
+  "extract": "The common myna or Indian myna, sometimes spelled mynah, is a bird in the family Sturnidae, native to Asia. An omnivorous open woodland bird with a strong territorial instinct, the common myna has adapted extremely well to urban environments.",
+  "url": "https://en.wikipedia.org/wiki/Common_myna"
+ },
+ "inat": {
+  "id": 204454,
+  "observations": 72432
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 70799271,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/large.jpg",
+    "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44657081",
+    "place": "Al Garhoud - Dubai - Emirati Arabi Uniti",
+    "date": "2012-08-18"
+   },
+   {
+    "id": 62653457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62653457/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62653457/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39494346",
+    "place": "Mkuze, 3965, South Africa",
+    "date": "2020-02-29"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 594636357,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594636357/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594636357/large.jpg",
+    "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/328180162",
+    "place": "Sydney - Inner, New South Wales, Australia",
+    "date": "2025-11-24"
+   },
+   {
+    "id": 543737018,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/543737018/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/543737018/large.jpg",
+    "attribution": "(c) relew, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/301730779",
+    "place": "14, Tambon Sa Khu, Amphoe Thalang, Chang Wat Phuket 83110, Таиланд",
+    "date": "2025-07-28"
+   },
+   {
+    "id": 166085648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166085648/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166085648/large.jpeg",
+    "attribution": "(c) Ben, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/99608846",
+    "place": "Blue Bay, Mauritius",
+    "date": "2021-10-28"
+   }
+  ],
+  "hero": {
+   "id": 70799271,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/large.jpg",
+   "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/44657081",
+   "place": "Al Garhoud - Dubai - Emirati Arabi Uniti",
+   "date": "2012-08-18"
+  }
+ },
+ "gbif": {
+  "key": 2489005,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 3574651,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 1342735
+   },
+   {
+    "code": "AU",
+    "count": 850391
+   },
+   {
+    "code": "TW",
+    "count": 275854
+   },
+   {
+    "code": "ZA",
+    "count": 210915
+   },
+   {
+    "code": "US",
+    "count": 197136
+   },
+   {
+    "code": "TH",
+    "count": 114280
+   },
+   {
+    "code": "NZ",
+    "count": 110584
+   },
+   {
+    "code": "IL",
+    "count": 109169
+   },
+   {
+    "code": "LK",
+    "count": 57280
+   },
+   {
+    "code": "AE",
+    "count": 48227
+   },
+   {
+    "code": "NP",
+    "count": 31697
+   },
+   {
+    "code": "KH",
+    "count": 21802
+   }
+  ]
+ },
+ "warnings": []
+}

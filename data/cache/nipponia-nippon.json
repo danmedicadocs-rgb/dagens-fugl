@@ -1,0 +1,122 @@
+{
+ "key": "nipponia-nippon",
+ "name": "Nipponia nippon",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:06.763Z",
+ "names": {
+  "da": "Japansk Ibis",
+  "en": "Crested Ibis",
+  "accepted": "Nipponia nippon"
+ },
+ "wikidata": {
+  "id": "Q493173"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Crested ibis",
+  "extract": "The crested ibis, also called the Japanese crested ibis, Asian crested ibis or toki (トキ), is a species of bird in the ibis family, Threskiornithidae. It is the only species in the genus Nipponia.",
+  "url": "https://en.wikipedia.org/wiki/Crested_ibis"
+ },
+ "inat": {
+  "id": 3774,
+  "observations": 316
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [
+   {
+    "id": 257869500,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869500/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869500/large.jpeg",
+    "attribution": "(c) Jiro Iguchi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/149631320",
+    "place": "Niigata, JP",
+    "date": "2023-02-23"
+   },
+   {
+    "id": 76835106,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76835106/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76835106/large.jpeg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48423288",
+    "place": "Niigata, JP",
+    "date": "2020-06-04"
+   },
+   {
+    "id": 76826684,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76826684/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76826684/large.jpeg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48417903",
+    "place": "Niigata, JP",
+    "date": "2020-06-03"
+   }
+  ],
+  "hero": {
+   "id": 257869500,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869500/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257869500/large.jpeg",
+   "attribution": "(c) Jiro Iguchi, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/149631320",
+   "place": "Niigata, JP",
+   "date": "2023-02-23"
+  }
+ },
+ "gbif": {
+  "key": 2480810,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1559,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 1072
+   },
+   {
+    "code": "JP",
+    "count": 279
+   },
+   {
+    "code": "KR",
+    "count": 172
+   },
+   {
+    "code": "TW",
+    "count": 4
+   },
+   {
+    "code": "NG",
+    "count": 1
+   },
+   {
+    "code": "PG",
+    "count": 1
+   },
+   {
+    "code": "RU",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

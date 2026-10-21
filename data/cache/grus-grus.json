@@ -1,0 +1,151 @@
+{
+ "key": "grus-grus",
+ "name": "Grus grus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:04:00.367Z",
+ "names": {
+  "da": "Trane",
+  "en": "Common Crane",
+  "accepted": "Grus grus"
+ },
+ "wikidata": {
+  "id": "Q4764"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Trane",
+  "extract": "Tranen er en stor, langbenet fugl, der findes i Europa, Asien og Afrika, hovedsageligt i vådområder. Da Grus grus er den eneste regelmæssigt forekommende art i Danmark kaldes den blot \"trane\", men der er i alt 15 trane-arter, hvoraf jomfrutranen og prærietranen er meget sjældne besøgende i landet.",
+  "url": "https://da.wikipedia.org/wiki/Trane"
+ },
+ "inat": {
+  "id": 41,
+  "observations": 42551
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 471791855,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/large.jpeg",
+    "attribution": "(c) Trixie Hürkamp, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/262701126",
+    "place": "49457 Drebber, Deutschland",
+    "date": "2025-02-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 208970875,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208970875/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208970875/large.jpeg",
+    "attribution": "(c) Grzegorz Grzejszczak, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/123361855",
+    "place": "Powiat policki, Polska",
+    "date": "2022-06-16"
+   },
+   {
+    "id": 131792147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131792147/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131792147/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/80412911",
+    "place": "Кстовский р-н, Нижегородская обл., Россия",
+    "date": "2021-05-26"
+   },
+   {
+    "id": 153979195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153979195/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153979195/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/92950108",
+    "place": "Åboland-Turunmaa, Suomi",
+    "date": "2021-08-29"
+   }
+  ],
+  "hero": {
+   "id": 471791855,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/large.jpeg",
+   "attribution": "(c) Trixie Hürkamp, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/262701126",
+   "place": "49457 Drebber, Deutschland",
+   "date": "2025-02-22"
+  }
+ },
+ "gbif": {
+  "key": 2474950,
+  "dkTotal": 220768,
+  "dkMonths": [
+   4089,
+   10787,
+   53713,
+   47920,
+   36091,
+   11150,
+   10866,
+   13784,
+   13477,
+   12608,
+   3662,
+   2513
+  ],
+  "worldTotal": 2522264,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 909607
+   },
+   {
+    "code": "DE",
+    "count": 254732
+   },
+   {
+    "code": "DK",
+    "count": 220768
+   },
+   {
+    "code": "NO",
+    "count": 158469
+   },
+   {
+    "code": "FR",
+    "count": 153152
+   },
+   {
+    "code": "EE",
+    "count": 120155
+   },
+   {
+    "code": "NL",
+    "count": 105343
+   },
+   {
+    "code": "ES",
+    "count": 101719
+   },
+   {
+    "code": "FI",
+    "count": 66597
+   },
+   {
+    "code": "PL",
+    "count": 65500
+   },
+   {
+    "code": "HU",
+    "count": 64682
+   },
+   {
+    "code": "ET",
+    "count": 31634
+   }
+  ]
+ },
+ "warnings": []
+}

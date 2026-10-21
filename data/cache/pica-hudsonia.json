@@ -1,0 +1,168 @@
+{
+ "key": "pica-hudsonia",
+ "name": "Pica hudsonia",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:45:46.797Z",
+ "names": {
+  "da": "Hudsonskade",
+  "en": "Black-billed Magpie",
+  "accepted": "Pica hudsonia"
+ },
+ "wikidata": {
+  "id": "Q254057"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black-billed magpie",
+  "extract": "The black-billed magpie, also known as the American magpie, is a bird in the corvid family found in the western half of North America. It is black and white, with the wings and tail showing black areas and iridescent hints of blue and blue-green. It was formerly treated as a subspecies of Pica pica, but was separated as a species in its own in 2000 based on genetic studies.",
+  "url": "https://en.wikipedia.org/wiki/Black-billed_magpie"
+ },
+ "inat": {
+  "id": 143853,
+  "observations": 45234
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 397760813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397760813/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397760813/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/224426330",
+    "place": "Division No. 6, CA-AB, CA",
+    "date": "2024-06-22"
+   },
+   {
+    "id": 678012459,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/678012459/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/678012459/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/371100478",
+    "place": "Fort St John, BC, Canada",
+    "date": "2026-06-12"
+   },
+   {
+    "id": 178703551,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178703551/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178703551/large.jpg",
+    "attribution": "(c) Wendy McCrady, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106386524",
+    "place": "Custer County, ID, USA",
+    "date": "2017-06-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 353612467,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353612467/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353612467/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/200425899",
+    "place": "Division No. 11, CA-AB, CA",
+    "date": "2023-06-29"
+   },
+   {
+    "id": 428776617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/428776617/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/428776617/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/240653274",
+    "place": "Edmonton, AB T5R 3Z5, Canada",
+    "date": "2024-09-08"
+   },
+   {
+    "id": 311194574,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311194574/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311194574/large.jpeg",
+    "attribution": "(c) Mayela y Ramón, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/178801551",
+    "place": "Anchorage, Alaska, EE. UU.",
+    "date": "2023-08-16"
+   }
+  ],
+  "hero": {
+   "id": 353612467,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353612467/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353612467/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/200425899",
+   "place": "Division No. 11, CA-AB, CA",
+   "date": "2023-06-29"
+  }
+ },
+ "gbif": {
+  "key": 5229487,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 2689082,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1917085
+   },
+   {
+    "code": "CA",
+    "count": 771695
+   },
+   {
+    "code": "ZZ",
+    "count": 28
+   },
+   {
+    "code": "GB",
+    "count": 7
+   },
+   {
+    "code": "SG",
+    "count": 3
+   },
+   {
+    "code": "SI",
+    "count": 2
+   },
+   {
+    "code": "CO",
+    "count": 1
+   },
+   {
+    "code": "DE",
+    "count": 1
+   },
+   {
+    "code": "FR",
+    "count": 1
+   },
+   {
+    "code": "HU",
+    "count": 1
+   },
+   {
+    "code": "MX",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

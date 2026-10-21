@@ -1,0 +1,120 @@
+{
+ "key": "amazona-aestiva",
+ "name": "Amazona aestiva",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:51:44.337Z",
+ "names": {
+  "da": "Blåpandet Amazone",
+  "en": "Blue-fronted Parrot",
+  "accepted": "Amazona aestiva"
+ },
+ "wikidata": {
+  "id": "Q525897"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blue-fronted amazon",
+  "extract": "The blue-fronted amazon, also called the blue-fronted parrot, the turquoise-fronted amazon and the turquoise-fronted parrot, is a South American species of amazon parrot and one of the most common amazon parrots kept in captivity as a pet or companion parrot. Its common name is derived from the distinctive blue/turquoise marking on its head just above its beak.",
+  "url": "https://en.wikipedia.org/wiki/Blue-fronted_amazon"
+ },
+ "inat": {
+  "id": 18978,
+  "observations": 4484
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 436786993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436786993/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436786993/large.jpeg",
+    "attribution": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/244831600",
+    "place": "São Paulo, BR",
+    "date": "2024-09-29"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 436786993,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436786993/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436786993/large.jpeg",
+   "attribution": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/244831600",
+   "place": "São Paulo, BR",
+   "date": "2024-09-29"
+  }
+ },
+ "gbif": {
+  "key": 2479662,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 90663,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 65594
+   },
+   {
+    "code": "AR",
+    "count": 13466
+   },
+   {
+    "code": "PY",
+    "count": 6223
+   },
+   {
+    "code": "BO",
+    "count": 4020
+   },
+   {
+    "code": "PR",
+    "count": 323
+   },
+   {
+    "code": "US",
+    "count": 292
+   },
+   {
+    "code": "IT",
+    "count": 69
+   },
+   {
+    "code": "ZZ",
+    "count": 50
+   },
+   {
+    "code": "UY",
+    "count": 48
+   },
+   {
+    "code": "ES",
+    "count": 28
+   },
+   {
+    "code": "DE",
+    "count": 20
+   },
+   {
+    "code": "MX",
+    "count": 6
+   }
+  ]
+ },
+ "warnings": []
+}

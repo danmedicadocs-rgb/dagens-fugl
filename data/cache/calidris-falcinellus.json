@@ -1,0 +1,120 @@
+{
+ "key": "calidris-falcinellus",
+ "name": "Calidris falcinellus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:58.341Z",
+ "names": {
+  "da": "Kærløber",
+  "en": "Broad-billed Sandpiper",
+  "accepted": "Calidris falcinellus"
+ },
+ "wikidata": {
+  "id": "Q28114227"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kærløber",
+  "extract": "Kærløber er en vadefugl, der i Danmark er en sjælden trækgæst fra det nordlige Fennoskandinavien. Den ses især i juli/august, hvor den er på vej til overvintringsområdet, der strækker sig fra den Persiske Bugt til Østafrika.",
+  "url": "https://da.wikipedia.org/wiki/K%C3%A6rl%C3%B8ber"
+ },
+ "inat": {
+  "id": 339594,
+  "observations": 2014
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 226953736,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226953736/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226953736/large.jpeg",
+    "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/133257238",
+    "place": "Βόια 230 53, Ελλάδα",
+    "date": "2022-08-31"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 226953736,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226953736/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226953736/large.jpeg",
+   "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/133257238",
+   "place": "Βόια 230 53, Ελλάδα",
+   "date": "2022-08-31"
+  }
+ },
+ "gbif": {
+  "key": 7537888,
+  "dkTotal": 7437,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   2489,
+   306,
+   2255,
+   2134,
+   248,
+   3,
+   0,
+   0
+  ],
+  "worldTotal": 122434,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 50224
+   },
+   {
+    "code": "TW",
+    "count": 7646
+   },
+   {
+    "code": "DK",
+    "count": 7437
+   },
+   {
+    "code": "TH",
+    "count": 6139
+   },
+   {
+    "code": "AU",
+    "count": 5939
+   },
+   {
+    "code": "NL",
+    "count": 5862
+   },
+   {
+    "code": "NO",
+    "count": 4136
+   },
+   {
+    "code": "FI",
+    "count": 3792
+   },
+   {
+    "code": "CN",
+    "count": 3660
+   },
+   {
+    "code": "IN",
+    "count": 3648
+   },
+   {
+    "code": "IL",
+    "count": 2578
+   },
+   {
+    "code": "EE",
+    "count": 1435
+   }
+  ]
+ },
+ "warnings": []
+}

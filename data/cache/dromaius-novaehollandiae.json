@@ -1,0 +1,162 @@
+{
+ "key": "dromaius-novaehollandiae",
+ "name": "Dromaius novaehollandiae",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:37:18.379Z",
+ "names": {
+  "da": "Emu",
+  "en": "Emu",
+  "accepted": "Dromaius novaehollandiae"
+ },
+ "wikidata": {
+  "id": "Q93208"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Emu",
+  "extract": "Emuen er en stor australsk fugl, der ikke kan flyve. Fuglen har en højde på cirka 150–190 centimeter og en vægt på 30–55 kilogram. Den menes at være nærmest beslægtet med kasuarerne. Emuen er den eneste nulevende art i familien Dromaiidae, der ofte er blevet placeret blandt strudsefuglene, men nu er foreslået at tilhøre ordenen Casuariiformes.",
+  "url": "https://da.wikipedia.org/wiki/Emu"
+ },
+ "inat": {
+  "id": 20504,
+  "observations": 13347
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 587229233,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/large.jpg",
+    "attribution": "(c) SatNavSaysStraightOn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/324443387",
+    "place": "Goulburn Mulwaree Bal, AU-NS, AU",
+    "date": "2025-11-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 587229232,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229232/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229232/large.jpg",
+    "attribution": "(c) SatNavSaysStraightOn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/324443378",
+    "place": "Goulburn Mulwaree Bal, AU-NS, AU",
+    "date": "2025-11-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 327607884,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327607884/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327607884/large.jpeg",
+    "attribution": "(c) Julia Palmer, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/187344660",
+    "place": "Chatham Islands Territory, New Zealand",
+    "date": "2023-10-06"
+   },
+   {
+    "id": 586860206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586860206/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586860206/large.jpg",
+    "attribution": "(c) Zara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/324258045",
+    "place": "Broken Hill NSW 2880, Australia",
+    "date": "2025-07-16"
+   },
+   {
+    "id": 247053181,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247053181/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247053181/large.jpg",
+    "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/143996167",
+    "place": "Walpole-Nornalup National Park, Broke, WA, AU",
+    "date": "2022-12-09"
+   }
+  ],
+  "hero": {
+   "id": 587229233,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/large.jpg",
+   "attribution": "(c) SatNavSaysStraightOn, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/324443387",
+   "place": "Goulburn Mulwaree Bal, AU-NS, AU",
+   "date": "2025-11-01"
+  }
+ },
+ "gbif": {
+  "key": 2495134,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 168734,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 167259
+   },
+   {
+    "code": "NZ",
+    "count": 207
+   },
+   {
+    "code": "US",
+    "count": 164
+   },
+   {
+    "code": "ZZ",
+    "count": 62
+   },
+   {
+    "code": "DE",
+    "count": 37
+   },
+   {
+    "code": "GB",
+    "count": 36
+   },
+   {
+    "code": "JP",
+    "count": 31
+   },
+   {
+    "code": "IN",
+    "count": 18
+   },
+   {
+    "code": "ZA",
+    "count": 16
+   },
+   {
+    "code": "AE",
+    "count": 15
+   },
+   {
+    "code": "NL",
+    "count": 15
+   },
+   {
+    "code": "BR",
+    "count": 12
+   }
+  ]
+ },
+ "warnings": []
+}

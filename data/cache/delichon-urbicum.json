@@ -1,0 +1,151 @@
+{
+ "key": "delichon-urbicum",
+ "name": "Delichon urbicum",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:36.484Z",
+ "names": {
+  "da": "Bysvale",
+  "en": "Common House Martin",
+  "accepted": "Delichon urbicum"
+ },
+ "wikidata": {
+  "id": "Q26055"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Bysvale",
+  "extract": "Bysvalen er med sine 12,5 centimeter og 16-25 gram næsten lige så lille som digesvalen. Den minder med sin blåsorte farve på hoved, ryg og vinger mere om landsvalen. Halen er dog kort og kløftet, og bysvalen mangler det mørke brystbånd. Bysvalen kendes bedst på den hvide overgump, som ses tydeligt i flugten. I modsætning til de to andre svalearter i Danmark har bysvalen fjerklædte hvide ben og tæer. Bysvalen er ynglefugl i hele Europa, den findes også i Asien, helt til Nordvestsibirien, i Japan og i Nordvestafrika.",
+  "url": "https://da.wikipedia.org/wiki/Bysvale"
+ },
+ "inat": {
+  "id": 64705,
+  "observations": 39238
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 266802618,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266802618/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266802618/large.jpeg",
+    "attribution": "(c) Aurèle Baretje, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/154410422",
+    "place": "25000 Besançon, France",
+    "date": "2018-05-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 697896235,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896235/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896235/large.jpg",
+    "attribution": "(c) Holly Hodges, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/381414989",
+    "place": "The Avenue, Cambridge, England, GB",
+    "date": "2026-07-14"
+   },
+   {
+    "id": 697896395,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896395/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896395/large.jpg",
+    "attribution": "(c) Holly Hodges, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/381414882",
+    "place": "Cambridge, England, GB",
+    "date": "2026-07-14"
+   },
+   {
+    "id": 558901368,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558901368/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558901368/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309705055",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2025-08-28"
+   }
+  ],
+  "hero": {
+   "id": 266802618,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266802618/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266802618/large.jpeg",
+   "attribution": "(c) Aurèle Baretje, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/154410422",
+   "place": "25000 Besançon, France",
+   "date": "2018-05-17"
+  }
+ },
+ "gbif": {
+  "key": 2489214,
+  "dkTotal": 198939,
+  "dkMonths": [
+   1,
+   1,
+   35,
+   13526,
+   49104,
+   38362,
+   34076,
+   41252,
+   22410,
+   50,
+   68,
+   1
+  ],
+  "worldTotal": 2590637,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 412409
+   },
+   {
+    "code": "SE",
+    "count": 344343
+   },
+   {
+    "code": "GB",
+    "count": 321838
+   },
+   {
+    "code": "FR",
+    "count": 273401
+   },
+   {
+    "code": "DK",
+    "count": 198939
+   },
+   {
+    "code": "DE",
+    "count": 183213
+   },
+   {
+    "code": "PT",
+    "count": 129258
+   },
+   {
+    "code": "NO",
+    "count": 114944
+   },
+   {
+    "code": "NL",
+    "count": 107224
+   },
+   {
+    "code": "FI",
+    "count": 56801
+   },
+   {
+    "code": "BE",
+    "count": 54624
+   },
+   {
+    "code": "PL",
+    "count": 36024
+   }
+  ]
+ },
+ "warnings": []
+}

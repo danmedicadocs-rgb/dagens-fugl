@@ -1,0 +1,172 @@
+{
+ "key": "lullula-arborea",
+ "name": "Lullula arborea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:16:59.342Z",
+ "names": {
+  "da": "Hedelærke",
+  "en": "Woodlark",
+  "accepted": "Lullula arborea"
+ },
+ "wikidata": {
+  "id": "Q26969"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hedelærke",
+  "extract": "Hedelærke er en mindre spurvefugl, der er udbredt i størstedelen af Europa, Mellemøsten og Nordafrika. Den lever i større lysninger i nåleskove eller på heder med spredtstående træer. I Danmark er den almindeligst som ynglefugl i Midt-, Vest- og Nordjylland, men findes spredt over hele landet.",
+  "url": "https://da.wikipedia.org/wiki/Hedel%C3%A6rke"
+ },
+ "inat": {
+  "id": 7363,
+  "observations": 10059
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 524012633,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524012633/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524012633/large.jpg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/291253631",
+    "place": "85201, Lietuva",
+    "date": "2025-06-20"
+   },
+   {
+    "id": 558286693,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558286693/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558286693/large.jpg",
+    "attribution": "(c) Umut Nuri Erdoğan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309386516",
+    "place": "Sugözü, Gazipaşa/Antalya, Türkiye",
+    "date": "2025-07-05"
+   },
+   {
+    "id": 131564008,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131564008/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131564008/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/80278762",
+    "place": "San Juan de Ortega, Burgos, España",
+    "date": "2021-05-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 181635911,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/large.jpg",
+    "attribution": "(c) carabus123, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107938930",
+    "place": "Buttenbergweg, Inzlingen, Baden-Württemberg, DE",
+    "date": "2022-03-05"
+   },
+   {
+    "id": 491469767,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/491469767/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/491469767/large.jpeg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/273239255",
+    "place": "Ступино, Московская обл., Россия",
+    "date": "2025-04-20"
+   },
+   {
+    "id": 476818589,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476818589/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476818589/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/265457405",
+    "place": "Sliven municipality, Bulgaria",
+    "date": "2025-03-14"
+   }
+  ],
+  "hero": {
+   "id": 181635911,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/large.jpg",
+   "attribution": "(c) carabus123, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/107938930",
+   "place": "Buttenbergweg, Inzlingen, Baden-Württemberg, DE",
+   "date": "2022-03-05"
+  }
+ },
+ "gbif": {
+  "key": 2490604,
+  "dkTotal": 48902,
+  "dkMonths": [
+   221,
+   601,
+   12493,
+   10290,
+   6804,
+   3754,
+   1237,
+   369,
+   3147,
+   9507,
+   79,
+   98
+  ],
+  "worldTotal": 903809,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 220617
+   },
+   {
+    "code": "SE",
+    "count": 160064
+   },
+   {
+    "code": "NL",
+    "count": 137443
+   },
+   {
+    "code": "ES",
+    "count": 118935
+   },
+   {
+    "code": "PT",
+    "count": 57804
+   },
+   {
+    "code": "DK",
+    "count": 48902
+   },
+   {
+    "code": "BE",
+    "count": 37368
+   },
+   {
+    "code": "GB",
+    "count": 22278
+   },
+   {
+    "code": "DE",
+    "count": 15903
+   },
+   {
+    "code": "EE",
+    "count": 10603
+   },
+   {
+    "code": "TR",
+    "count": 9125
+   },
+   {
+    "code": "NO",
+    "count": 8093
+   }
+  ]
+ },
+ "warnings": []
+}

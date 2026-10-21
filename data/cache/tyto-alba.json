@@ -1,0 +1,172 @@
+{
+ "key": "tyto-alba",
+ "name": "Tyto alba",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:18.187Z",
+ "names": {
+  "da": "Slørugle",
+  "en": "Western Barn Owl",
+  "accepted": "Tyto alba"
+ },
+ "wikidata": {
+  "id": "Q25317"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Slørugle",
+  "extract": "Slørugle er en mellemstor, lys ugle med et karakteristisk hjerteformet ansigt. Den har sorte øjne. Det er en ugle på 33-39 centimeter og med et vingefang på 85-93 centimeter. Hunnen vejer mere end hannen, nemlig 330-460 g.",
+  "url": "https://da.wikipedia.org/wiki/Sl%C3%B8rugle"
+ },
+ "inat": {
+  "id": 20445,
+  "observations": 8560
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 485434225,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485434225/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485434225/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/269951351",
+    "place": "Enford Hill, Pewsey, England, GB",
+    "date": "2025-04-12"
+   },
+   {
+    "id": 389274456,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389274456/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389274456/large.jpg",
+    "attribution": "(c) gerardbertrand, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/219902140",
+    "place": "Route du Prieuré, Dixmont, Bourgogne-Franche-Comté, FR",
+    "date": "2024-06-02"
+   }
+  ],
+  "female": [
+   {
+    "id": 687259457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687259457/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687259457/large.jpg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375910658",
+    "place": "The Vicarage, Dipton, St Johns Vicarage, Stanley DH9 9EB, UK",
+    "date": "2026-06-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 426443745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426443745/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426443745/large.jpeg",
+    "attribution": "(c) thecolumbarium, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239438909",
+    "place": "Wombwell, Barnsley, UK",
+    "date": "2024-07-19"
+   },
+   {
+    "id": 393953230,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393953230/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393953230/large.jpeg",
+    "attribution": "(c) vetch10, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222397611",
+    "place": "Sheffield S20, UK",
+    "date": "2024-06-12"
+   },
+   {
+    "id": 654999467,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654999467/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654999467/large.jpg",
+    "attribution": "(c) Nicola Crockford, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/359021600",
+    "place": "Tuddenham playing fields, ramses, Tuddenham, Bury Saint Edmunds IP28 6TB, UK",
+    "date": "2026-05-06"
+   }
+  ],
+  "hero": {
+   "id": 165796939,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165796939/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165796939/large.jpg",
+   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/165796939",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2497921,
+  "dkTotal": 5187,
+  "dkMonths": [
+   376,
+   292,
+   445,
+   420,
+   449,
+   715,
+   715,
+   442,
+   316,
+   413,
+   304,
+   244
+  ],
+  "worldTotal": 448057,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 103501
+   },
+   {
+    "code": "GB",
+    "count": 94175
+   },
+   {
+    "code": "NL",
+    "count": 81367
+   },
+   {
+    "code": "ES",
+    "count": 43047
+   },
+   {
+    "code": "ZA",
+    "count": 33182
+   },
+   {
+    "code": "BE",
+    "count": 13976
+   },
+   {
+    "code": "PT",
+    "count": 10860
+   },
+   {
+    "code": "IL",
+    "count": 8899
+   },
+   {
+    "code": "US",
+    "count": 6329
+   },
+   {
+    "code": "DE",
+    "count": 6149
+   },
+   {
+    "code": "DK",
+    "count": 5187
+   },
+   {
+    "code": "IT",
+    "count": 4283
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,140 @@
+{
+ "key": "polysticta-stelleri",
+ "name": "Polysticta stelleri",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:57:19.690Z",
+ "names": {
+  "da": "Stellersand",
+  "en": "Steller’s Eider",
+  "accepted": "Polysticta stelleri"
+ },
+ "wikidata": {
+  "id": "Q210954"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stellersand",
+  "extract": "Stellersand er en fugleart blandt de egentlige andefugle. Den er på størrelse med en troldand, men er nærmest beslægtet med edderfuglen. Arten yngler langs kysten og i søer og floder i det nordlige Sibirien og Alaska, mens den overvintrer på havet nær kysten, de fleste i Beringshavet, men nogle også blandt andet i Varangerfjorden i Norge samt i den østlige del af Østersøen. Stellersand er opkaldt efter den tyske naturhistoriker Georg Wilhelm Steller (1709-1746). Det er den eneste art i slægten Polysticta.",
+  "url": "https://da.wikipedia.org/wiki/Stellersand"
+ },
+ "inat": {
+  "id": 7164,
+  "observations": 495
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 2963206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/large.jpg",
+    "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2641198",
+    "place": "North Slope County, US-AK, US",
+    "date": "2015-06-15"
+   },
+   {
+    "id": 179316077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179316077/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179316077/large.jpg",
+    "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106708956",
+    "place": "Båtsfjord, NO-FI, NO",
+    "date": "2022-02-13"
+   },
+   {
+    "id": 98254463,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98254463/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98254463/large.jpeg",
+    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/61403292",
+    "place": "Southwest Finland, FI-LS, FI",
+    "date": "2019-05-19"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 2963206,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/large.jpg",
+   "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/2641198",
+   "place": "North Slope County, US-AK, US",
+   "date": "2015-06-15"
+  }
+ },
+ "gbif": {
+  "key": 5232431,
+  "dkTotal": 701,
+  "dkMonths": [
+   183,
+   88,
+   95,
+   165,
+   89,
+   19,
+   1,
+   3,
+   4,
+   4,
+   15,
+   34
+  ],
+  "worldTotal": 108342,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 81234
+   },
+   {
+    "code": "SE",
+    "count": 13313
+   },
+   {
+    "code": "NO",
+    "count": 8444
+   },
+   {
+    "code": "EE",
+    "count": 1743
+   },
+   {
+    "code": "RU",
+    "count": 1356
+   },
+   {
+    "code": "DK",
+    "count": 701
+   },
+   {
+    "code": "FI",
+    "count": 531
+   },
+   {
+    "code": "SJ",
+    "count": 189
+   },
+   {
+    "code": "NL",
+    "count": 128
+   },
+   {
+    "code": "PL",
+    "count": 113
+   },
+   {
+    "code": "IS",
+    "count": 100
+   },
+   {
+    "code": "DE",
+    "count": 65
+   }
+  ]
+ },
+ "warnings": []
+}

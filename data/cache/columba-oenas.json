@@ -1,0 +1,151 @@
+{
+ "key": "columba-oenas",
+ "name": "Columba oenas",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:47.535Z",
+ "names": {
+  "da": "Huldue",
+  "en": "Stock Dove",
+  "accepted": "Columba oenas"
+ },
+ "wikidata": {
+  "id": "Q26140"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Huldue",
+  "extract": "Hulduen er en duefugl, der lever i Europa og det vestlige Asien. Dens levested er typisk ældre løvskov, hvor den kan finde redehuller, dog kan den også ses i klitområder, hvor den yngler i kaninhuller. Ofte er den under trækket i selskab med den almindelige ringdue.",
+  "url": "https://da.wikipedia.org/wiki/Huldue"
+ },
+ "inat": {
+  "id": 3033,
+  "observations": 15898
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 656051696,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656051696/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656051696/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/359571228",
+    "place": "England, GB",
+    "date": "2026-05-03"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 320481656,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320481656/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320481656/large.jpg",
+    "attribution": "(c) Andrew Skotnicki, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/183672833",
+    "place": "Fishponds Park, Surbiton, London, UK",
+    "date": "2023-09-17"
+   },
+   {
+    "id": 312133980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312133980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312133980/large.jpg",
+    "attribution": "(c) Andrew Skotnicki, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/179303124",
+    "place": "Hogsmill River, Kingston upon Thames, London, UK",
+    "date": "2023-08-19"
+   },
+   {
+    "id": 212033331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212033331/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212033331/large.jpg",
+    "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/125054234",
+    "place": "Norfolk, UK",
+    "date": "2022-07-06"
+   }
+  ],
+  "hero": {
+   "id": 119807269,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119807269/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/119807269/large.jpg",
+   "attribution": "(c) Paul Lewis, some rights reserved (CC BY), uploaded by Paul Lewis",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/119807269",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2495471,
+  "dkTotal": 108548,
+  "dkMonths": [
+   2840,
+   6398,
+   22055,
+   19562,
+   14202,
+   7950,
+   6593,
+   6858,
+   7862,
+   10915,
+   2057,
+   1209
+  ],
+  "worldTotal": 1523415,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 372392
+   },
+   {
+    "code": "SE",
+    "count": 365791
+   },
+   {
+    "code": "NL",
+    "count": 250224
+   },
+   {
+    "code": "DK",
+    "count": 108548
+   },
+   {
+    "code": "BE",
+    "count": 90488
+   },
+   {
+    "code": "FR",
+    "count": 89689
+   },
+   {
+    "code": "DE",
+    "count": 52390
+   },
+   {
+    "code": "NO",
+    "count": 44269
+   },
+   {
+    "code": "ES",
+    "count": 42126
+   },
+   {
+    "code": "FI",
+    "count": 33692
+   },
+   {
+    "code": "CZ",
+    "count": 9193
+   },
+   {
+    "code": "EE",
+    "count": 8559
+   }
+  ]
+ },
+ "warnings": []
+}

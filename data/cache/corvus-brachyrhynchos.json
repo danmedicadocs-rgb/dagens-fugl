@@ -1,0 +1,155 @@
+{
+ "key": "corvus-brachyrhynchos",
+ "name": "Corvus brachyrhynchos",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:43:59.992Z",
+ "names": {
+  "da": "Amerikansk Krage",
+  "en": "American Crow",
+  "accepted": "Corvus brachyrhynchos"
+ },
+ "wikidata": {
+  "id": "Q267735"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "American crow",
+  "extract": "The American crow is a large passerine bird species of the family Corvidae. It is a common bird found throughout much of North America, only absent from the tundra biome. The American crow is the New World counterpart to the carrion crow and the hooded crow of Eurasia, occupying similar ecological niches.",
+  "url": "https://en.wikipedia.org/wiki/American_crow"
+ },
+ "inat": {
+  "id": 8021,
+  "observations": 224704
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 75215338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75215338/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75215338/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/47425442",
+    "place": "Rodanthe Public Beach, Nags Head, NC 27959, USA",
+    "date": "2018-04-17"
+   },
+   {
+    "id": 82210821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82210821/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82210821/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/51733760",
+    "place": "Renton, WA 98058, USA",
+    "date": "2020-07-01"
+   },
+   {
+    "id": 146452273,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146452273/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146452273/large.jpg",
+    "attribution": "(c) tlaloc27, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/88739392",
+    "place": "Lander, WY, US",
+    "date": "2021-07-16"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 293013541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293013541/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293013541/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/169033102",
+    "place": "Alderson Ave, Coquitlam, BC, CA",
+    "date": "2023-06-22"
+   },
+   {
+    "id": 129872849,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129872849/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/129872849/large.jpg",
+    "attribution": "(c) Linzy L., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/79301078",
+    "place": "Presidio of San Francisco, San Francisco, CA, USA",
+    "date": "2021-05-18"
+   },
+   {
+    "id": 670520864,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670520864/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670520864/large.jpg",
+    "attribution": "(c) Ian Manning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/367180871",
+    "place": "Kings, CA-NS, CA",
+    "date": "2026-05-31"
+   }
+  ],
+  "hero": {
+   "id": 75215338,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75215338/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75215338/large.jpg",
+   "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/47425442",
+   "place": "Rodanthe Public Beach, Nags Head, NC 27959, USA",
+   "date": "2018-04-17"
+  }
+ },
+ "gbif": {
+  "key": 2482507,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 29100715,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 23448856
+   },
+   {
+    "code": "CA",
+    "count": 5633073
+   },
+   {
+    "code": "BM",
+    "count": 11748
+   },
+   {
+    "code": "MX",
+    "count": 6043
+   },
+   {
+    "code": "PM",
+    "count": 526
+   },
+   {
+    "code": "ZZ",
+    "count": 32
+   },
+   {
+    "code": "FR",
+    "count": 1
+   },
+   {
+    "code": "GN",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

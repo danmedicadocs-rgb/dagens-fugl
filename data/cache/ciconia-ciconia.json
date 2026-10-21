@@ -1,0 +1,192 @@
+{
+ "key": "ciconia-ciconia",
+ "name": "Ciconia ciconia",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:00:51.767Z",
+ "names": {
+  "da": "Hvid stork",
+  "en": "White stork",
+  "accepted": "Ciconia ciconia"
+ },
+ "wikidata": {
+  "id": "Q25352"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvid stork",
+  "extract": "Hvid stork eller almindelig stork er en fugl i familien af storke, der er udbredt i dele af Europa, Afrika og Asien. I Danmark var storken tidligere en almindelig ynglefugl, men er nu meget sjælden, med ti ynglepar i 2023. Den er regnet som kritisk truet på den danske rødliste 2019.",
+  "url": "https://da.wikipedia.org/wiki/Hvid_stork"
+ },
+ "inat": {
+  "id": 4733,
+  "observations": 85504
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 538153516,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538153516/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538153516/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/298744274",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2025-07-16"
+   },
+   {
+    "id": 161218542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161218542/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161218542/large.jpeg",
+    "attribution": "(c) Jens Gyldenkærne Jensen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/96993552",
+    "place": "3670 Veksø, Danmark",
+    "date": "2021-10-03"
+   },
+   {
+    "id": 58124826,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58124826/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58124826/large.jpg",
+    "attribution": "(c) lugachev_vitaly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/36739949",
+    "place": "Западный округ, Краснодар, Краснодарский край, Россия",
+    "date": "2019-09-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 498724367,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498724367/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498724367/large.jpeg",
+    "attribution": "(c) Matteo Negro, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/277752758",
+    "place": "Piemonte, IT",
+    "date": "2025-05-02"
+   },
+   {
+    "id": 358878915,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358878915/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358878915/large.jpeg",
+    "attribution": "(c) Filipi Miranda Soares, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/203148107",
+    "place": "26001 Logroño, La Rioja, Spain",
+    "date": "2024-03-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 667252917,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667252917/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667252917/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/365466201",
+    "place": "34970 Lattes, France",
+    "date": "2026-05-22"
+   },
+   {
+    "id": 514839073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514839073/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514839073/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286385718",
+    "place": "85710 Châteauneuf, France",
+    "date": "2025-05-30"
+   },
+   {
+    "id": 77209717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77209717/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77209717/large.jpeg",
+    "attribution": "(c) RAUL DAL SANTO, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/48652775",
+    "place": "13866 Masserano BI, Italia",
+    "date": "2020-06-06"
+   }
+  ],
+  "hero": {
+   "id": 269104502,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/269104502/large.jpg",
+   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/269104502",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481912,
+  "dkTotal": 25111,
+  "dkMonths": [
+   187,
+   459,
+   2126,
+   7067,
+   7292,
+   2891,
+   1890,
+   1706,
+   847,
+   286,
+   166,
+   96
+  ],
+  "worldTotal": 1986818,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 565951
+   },
+   {
+    "code": "ES",
+    "count": 428567
+   },
+   {
+    "code": "FR",
+    "count": 164485
+   },
+   {
+    "code": "DE",
+    "count": 162711
+   },
+   {
+    "code": "PT",
+    "count": 141247
+   },
+   {
+    "code": "PL",
+    "count": 75926
+   },
+   {
+    "code": "SE",
+    "count": 54798
+   },
+   {
+    "code": "BE",
+    "count": 46436
+   },
+   {
+    "code": "BG",
+    "count": 32305
+   },
+   {
+    "code": "ZA",
+    "count": 30473
+   },
+   {
+    "code": "TR",
+    "count": 30039
+   },
+   {
+    "code": "IL",
+    "count": 29690
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,182 @@
+{
+ "key": "bostrychia-hagedash",
+ "name": "Bostrychia hagedash",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:31.151Z",
+ "names": {
+  "da": "Hadadaibis",
+  "en": "Hadada Ibis",
+  "accepted": "Bostrychia hagedash"
+ },
+ "wikidata": {
+  "id": "Q301777"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Hadada ibis",
+  "extract": "The hadada ibis or hadeda is an ibis native to Sub-Saharan Africa. It is named for its loud three to four note calls uttered in flight especially in the mornings and evenings when they fly out or return to their roost trees. Although not as dependent on water as some ibises, they are found near wetlands and often live in close proximity to humans, foraging in cultivated land and gardens. A medium-sized ibis with stout legs and a typical down-curved bill, the wing coverts are iridescent with a green or purple sheen. They are non-migratory but are known to make nomadic movements in response to rain particularly during droughts. Their ranges in southern Africa have increased with an increase in tree cover and irrigation in human-altered habitats.",
+  "url": "https://en.wikipedia.org/wiki/Hadada_ibis"
+ },
+ "inat": {
+  "id": 3743,
+  "observations": 15977
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 117467558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467558/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467558/large.jpg",
+    "attribution": "(c) Diana Studer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72083903",
+    "place": "Fish Hoek, Cape Town, 7975, South Africa",
+    "date": "2021-03-26"
+   },
+   {
+    "id": 593579715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593579715/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593579715/large.jpg",
+    "attribution": "(c) Glynn Morris, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327624431",
+    "place": "Karatini Farm, Farm 203/72 Elandskraal Sedgefield, Sedgefield, 6573, South Africa",
+    "date": "2025-11-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 593580107,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593580107/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593580107/large.jpg",
+    "attribution": "(c) Glynn Morris, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327624609",
+    "place": "Karatini Farm, Farm 203/72 Elandskraal Sedgefield, Sedgefield, 6573, South Africa",
+    "date": "2025-11-21"
+   },
+   {
+    "id": 117467739,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467739/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467739/large.jpg",
+    "attribution": "(c) Diana Studer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72083952",
+    "place": "Fish Hoek, Cape Town, 7975, South Africa",
+    "date": "2021-03-26"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 724815562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815562/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815562/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/395305358",
+    "place": "Langeberg, Western Cape, ZA",
+    "date": "2026-08-27"
+   },
+   {
+    "id": 724815067,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815067/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815067/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/395305057",
+    "place": "Langeberg, Western Cape, ZA",
+    "date": "2026-08-27"
+   },
+   {
+    "id": 227123041,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227123041/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227123041/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/133347426",
+    "place": "Joubertina, South Africa",
+    "date": "2022-09-02"
+   }
+  ],
+  "hero": {
+   "id": 117467558,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467558/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467558/large.jpg",
+   "attribution": "(c) Diana Studer, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/72083903",
+   "place": "Fish Hoek, Cape Town, 7975, South Africa",
+   "date": "2021-03-26"
+  }
+ },
+ "gbif": {
+  "key": 5229203,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 662859,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 532421
+   },
+   {
+    "code": "KE",
+    "count": 51602
+   },
+   {
+    "code": "UG",
+    "count": 22561
+   },
+   {
+    "code": "TZ",
+    "count": 11186
+   },
+   {
+    "code": "ZM",
+    "count": 6135
+   },
+   {
+    "code": "RW",
+    "count": 5557
+   },
+   {
+    "code": "ZW",
+    "count": 5086
+   },
+   {
+    "code": "BW",
+    "count": 4968
+   },
+   {
+    "code": "SZ",
+    "count": 3816
+   },
+   {
+    "code": "ET",
+    "count": 3670
+   },
+   {
+    "code": "MZ",
+    "count": 2376
+   },
+   {
+    "code": "GH",
+    "count": 1744
+   }
+  ]
+ },
+ "warnings": []
+}

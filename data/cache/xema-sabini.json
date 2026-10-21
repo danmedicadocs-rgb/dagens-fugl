@@ -1,0 +1,172 @@
+{
+ "key": "xema-sabini",
+ "name": "Xema sabini",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:08:49.444Z",
+ "names": {
+  "da": "Sabinemåge",
+  "en": "Sabine's Gull",
+  "accepted": "Xema sabini"
+ },
+ "wikidata": {
+  "id": "Q212047"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sabinemåge",
+  "extract": "Sabinemåge er en måge, som yngler cirkumpolart i det højarktiske område og tilbringer den nordlige vinter ud for Sydvest- og Sydafrika. Arten er den eneste i slægten Xema.",
+  "url": "https://da.wikipedia.org/wiki/Sabinem%C3%A5ge"
+ },
+ "inat": {
+  "id": 4571,
+  "observations": 3601
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 546196486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546196486/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546196486/large.jpg",
+    "attribution": "(c) gjecology, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/303050735",
+    "place": "East Sussex, England, GB",
+    "date": "2023-11-07"
+   },
+   {
+    "id": 342735014,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342735014/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342735014/large.jpg",
+    "attribution": "(c) Nathan Mesnildrey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/194905588",
+    "place": "85330 Noirmoutier-en-l'Île, France",
+    "date": "2023-12-26"
+   },
+   {
+    "id": 571706528,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571706528/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571706528/large.jpg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/316429091",
+    "place": "Warren County, OH, USA",
+    "date": "2025-09-24"
+   }
+  ],
+  "adult": [
+   {
+    "id": 24096824,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24096824/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24096824/large.jpeg",
+    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/16087731",
+    "place": "Longridge Point, Cochrane, Ontario",
+    "date": "2018-08-21"
+   },
+   {
+    "id": 403719564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403719564/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403719564/large.jpeg",
+    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/227565857",
+    "place": "Marin County, CA, USA",
+    "date": "2015-04-08"
+   },
+   {
+    "id": 332925231,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332925231/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332925231/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189975805",
+    "place": "Vendée, Pays de la Loire, France",
+    "date": "2023-11-04"
+   }
+  ],
+  "hero": {
+   "id": 24096824,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24096824/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24096824/large.jpeg",
+   "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/16087731",
+   "place": "Longridge Point, Cochrane, Ontario",
+   "date": "2018-08-21"
+  }
+ },
+ "gbif": {
+  "key": 2481221,
+  "dkTotal": 1242,
+  "dkMonths": [
+   7,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1,
+   39,
+   680,
+   469,
+   36,
+   7
+  ],
+  "worldTotal": 147275,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 108623
+   },
+   {
+    "code": "CA",
+    "count": 10459
+   },
+   {
+    "code": "NL",
+    "count": 4574
+   },
+   {
+    "code": "SE",
+    "count": 4347
+   },
+   {
+    "code": "ES",
+    "count": 2879
+   },
+   {
+    "code": "GB",
+    "count": 2854
+   },
+   {
+    "code": "FR",
+    "count": 1653
+   },
+   {
+    "code": "DK",
+    "count": 1242
+   },
+   {
+    "code": "MX",
+    "count": 1193
+   },
+   {
+    "code": "ZA",
+    "count": 994
+   },
+   {
+    "code": "NO",
+    "count": 861
+   },
+   {
+    "code": "CR",
+    "count": 819
+   }
+  ]
+ },
+ "warnings": []
+}

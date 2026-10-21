@@ -1,0 +1,141 @@
+{
+ "key": "calandrella-brachydactyla",
+ "name": "Calandrella brachydactyla",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:16:52.808Z",
+ "names": {
+  "da": "Korttået Lærke",
+  "en": "Greater Short-toed Lark",
+  "accepted": "Calandrella brachydactyla"
+ },
+ "wikidata": {
+  "id": "Q24843"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Greater short-toed lark",
+  "extract": "The greater short-toed lark is a small passerine bird. The current scientific name is from Ancient Greek. The genus name, Calandrella, is a diminutive of kalandros, the calandra lark, and brachydactila is from brakhus, \"short\", and daktulos, \"toe\".",
+  "url": "https://en.wikipedia.org/wiki/Greater_short-toed_lark"
+ },
+ "inat": {
+  "id": 578093,
+  "observations": 2736
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 654117904,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654117904/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654117904/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/358561109",
+    "place": "Newcastle",
+    "date": "2011-05-10"
+   },
+   {
+    "id": 263754646,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263754646/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263754646/large.jpeg",
+    "attribution": "(c) Mourad Harzallah, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/152767265",
+    "place": "El Achir, Algérie",
+    "date": "2022-04-10"
+   },
+   {
+    "id": 527240858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527240858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527240858/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/292899991",
+    "place": "Achladochori, Central Macedonia, GR",
+    "date": "2025-06-26"
+   }
+  ],
+  "hero": {
+   "id": 654117904,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654117904/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654117904/large.jpg",
+   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/358561109",
+   "place": "Newcastle",
+   "date": "2011-05-10"
+  }
+ },
+ "gbif": {
+  "key": 2490681,
+  "dkTotal": 327,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   30,
+   143,
+   46,
+   15,
+   41,
+   19,
+   15,
+   16,
+   0
+  ],
+  "worldTotal": 137015,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 46492
+   },
+   {
+    "code": "IN",
+    "count": 19100
+   },
+   {
+    "code": "PT",
+    "count": 10095
+   },
+   {
+    "code": "FR",
+    "count": 8539
+   },
+   {
+    "code": "IL",
+    "count": 8374
+   },
+   {
+    "code": "TR",
+    "count": 6047
+   },
+   {
+    "code": "SE",
+    "count": 4286
+   },
+   {
+    "code": "MA",
+    "count": 3825
+   },
+   {
+    "code": "AE",
+    "count": 2941
+   },
+   {
+    "code": "GR",
+    "count": 2923
+   },
+   {
+    "code": "CY",
+    "count": 1911
+   },
+   {
+    "code": "GE",
+    "count": 1804
+   }
+  ]
+ },
+ "warnings": []
+}

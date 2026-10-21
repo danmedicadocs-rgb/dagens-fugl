@@ -1,0 +1,152 @@
+{
+ "key": "ara-ararauna",
+ "name": "Ara ararauna",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:50.349Z",
+ "names": {
+  "da": "Blågul Ara",
+  "en": "Blue-and-yellow Macaw",
+  "accepted": "Ara ararauna"
+ },
+ "wikidata": {
+  "id": "Q205477"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blue-and-yellow macaw",
+  "extract": "The blue-and-yellow macaw, also known as the blue-and-gold macaw, is a large Neotropical parrot with a mostly blue dorsum, light yellow/orange venter, and gradient hues of green on top of its head. It is a member of the large group of neotropical parrots known as macaws. It inhabits forest, woodland, and savannah of tropical Central and South America, as well as the island of Trinidad in the Caribbean. They are popular in aviculture because of their striking color, ability to talk, ready availability in the marketplace, and close bonding to humans. It is the most commonly kept macaw species in captivity worldwide as a pet or companion parrot and is also the cheapest among the large macaws. As of 2025, there are 1 million blue and gold macaws living in captivity worldwide, one of the highest populations of any large parrot in captivity.",
+  "url": "https://en.wikipedia.org/wiki/Blue-and-yellow_macaw"
+ },
+ "inat": {
+  "id": 19018,
+  "observations": 13872
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 714317185,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714317185/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714317185/large.jpg",
+    "attribution": "(c) Vinicius Gerolin Ceballos, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/389937963",
+    "place": "Mato Grosso do Sul, BR",
+    "date": "2021-11-25"
+   }
+  ],
+  "adult": [
+   {
+    "id": 711230016,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711230016/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711230016/large.jpg",
+    "attribution": "(c) willengarg, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/388342873",
+    "place": "Mato Grosso, BR",
+    "date": "2026-08-04"
+   },
+   {
+    "id": 527736147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527736147/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527736147/large.jpg",
+    "attribution": "(c) Gabriel Augusto Faria, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/293217256",
+    "place": "São Paulo, BR",
+    "date": "2025-06-21"
+   },
+   {
+    "id": 58796206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58796206/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58796206/large.jpg",
+    "attribution": "(c) Greg Barrett, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37121237",
+    "place": "J11–J31 Calle Bilbao, Guaynabo, PR, US",
+    "date": "2019-12-30"
+   }
+  ],
+  "hero": {
+   "id": 711230016,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711230016/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711230016/large.jpg",
+   "attribution": "(c) willengarg, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/388342873",
+   "place": "Mato Grosso, BR",
+   "date": "2026-08-04"
+  }
+ },
+ "gbif": {
+  "key": 5959231,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0
+  ],
+  "worldTotal": 125637,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 39626
+   },
+   {
+    "code": "VE",
+    "count": 32365
+   },
+   {
+    "code": "PE",
+    "count": 18707
+   },
+   {
+    "code": "CO",
+    "count": 10369
+   },
+   {
+    "code": "EC",
+    "count": 8049
+   },
+   {
+    "code": "BO",
+    "count": 4722
+   },
+   {
+    "code": "US",
+    "count": 3449
+   },
+   {
+    "code": "PR",
+    "count": 3330
+   },
+   {
+    "code": "PA",
+    "count": 1293
+   },
+   {
+    "code": "GY",
+    "count": 1259
+   },
+   {
+    "code": "TT",
+    "count": 634
+   },
+   {
+    "code": "SR",
+    "count": 507
+   }
+  ]
+ },
+ "warnings": []
+}

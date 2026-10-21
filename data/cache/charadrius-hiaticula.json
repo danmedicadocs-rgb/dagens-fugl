@@ -1,0 +1,172 @@
+{
+ "key": "charadrius-hiaticula",
+ "name": "Charadrius hiaticula",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:04:21.492Z",
+ "names": {
+  "da": "Stor præstekrave",
+  "en": "Common Ringed Plover",
+  "accepted": "Charadrius hiaticula"
+ },
+ "wikidata": {
+  "id": "Q26816"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stor præstekrave",
+  "extract": "Stor præstekrave er en 18-20 cm lang, kortbenet vadefugl. Den har en sort og hvid halskrave og er den eneste af de danske præstekraver, der har orange næb med sort spids og orange ben. Den er en almindelig ynglefugl i Danmark med cirka 2.000 par, hvilket gør den til den talrigeste art af præstekraver i landet. Den er vurderet som sårbar på den danske rødliste. I august-september trækker de til Spanien for at overvintre.",
+  "url": "https://da.wikipedia.org/wiki/Stor_pr%C3%A6stekrave"
+ },
+ "inat": {
+  "id": 4801,
+  "observations": 28782
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 609040907,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/large.jpg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335276715",
+    "place": "Sveitarfélagið Hornafjörður, Iceland",
+    "date": "2025-06-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 411905375,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/411905375/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/411905375/large.jpeg",
+    "attribution": "(c) Robert Blackmore, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/231887734",
+    "place": "Witless Bay, NL A0A, Canada",
+    "date": "2024-07-26"
+   },
+   {
+    "id": 454152882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454152882/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454152882/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253617591",
+    "place": "Las Palmas, Spain",
+    "date": "2024-09-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 508833604,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508833604/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508833604/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/283192572",
+    "place": "Ireland",
+    "date": "2025-05-22"
+   },
+   {
+    "id": 745449597,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745449597/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745449597/large.jpg",
+    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/405807081",
+    "place": "Colyford, Colyton EX24 6QP, UK",
+    "date": "2026-09-06"
+   },
+   {
+    "id": 177683839,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177683839/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177683839/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/105843054",
+    "place": "Nelson Mandela Bay, ZA-EC, ZA",
+    "date": "2022-01-29"
+   }
+  ],
+  "hero": {
+   "id": 609040907,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/large.jpg",
+   "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/335276715",
+   "place": "Sveitarfélagið Hornafjörður, Iceland",
+   "date": "2025-06-12"
+  }
+ },
+ "gbif": {
+  "key": 9566659,
+  "dkTotal": 214625,
+  "dkMonths": [
+   493,
+   4559,
+   23283,
+   23522,
+   32527,
+   19778,
+   36056,
+   45830,
+   22421,
+   5348,
+   495,
+   228
+  ],
+  "worldTotal": 1848828,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 463263
+   },
+   {
+    "code": "DK",
+    "count": 214625
+   },
+   {
+    "code": "NO",
+    "count": 212560
+   },
+   {
+    "code": "GB",
+    "count": 191684
+   },
+   {
+    "code": "NL",
+    "count": 183547
+   },
+   {
+    "code": "ES",
+    "count": 130100
+   },
+   {
+    "code": "FR",
+    "count": 76379
+   },
+   {
+    "code": "PT",
+    "count": 60575
+   },
+   {
+    "code": "FI",
+    "count": 33270
+   },
+   {
+    "code": "ZA",
+    "count": 29782
+   },
+   {
+    "code": "IL",
+    "count": 27917
+   },
+   {
+    "code": "BE",
+    "count": 21697
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,162 @@
+{
+ "key": "eudyptes-chrysocome",
+ "name": "Eudyptes chrysocome",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:43.790Z",
+ "names": {
+  "da": "Springpingvin",
+  "en": "Southern Rockhopper Penguin",
+  "accepted": "Eudyptes chrysocome"
+ },
+ "wikidata": {
+  "id": "Q688641"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Western rockhopper penguin",
+  "extract": "The western rockhopper penguin is a species of rockhopper penguin. It occurs in subantarctic waters around the southern coast of South America and nearby islands.",
+  "url": "https://en.wikipedia.org/wiki/Western_rockhopper_penguin"
+ },
+ "inat": {
+  "id": 3827,
+  "observations": 741
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 251718203,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251718203/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251718203/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/146415335",
+    "place": "Falkland Islands",
+    "date": "2016-01-16"
+   },
+   {
+    "id": 466787203,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466787203/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466787203/large.jpg",
+    "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/259988238",
+    "place": "Falkland Islands",
+    "date": "2024-12-08"
+   }
+  ],
+  "adult": [
+   {
+    "id": 595298143,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595298143/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595298143/large.jpg",
+    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/328509940",
+    "place": "Falkland Islands",
+    "date": "2025-11-27"
+   },
+   {
+    "id": 583407773,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583407773/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583407773/large.jpg",
+    "attribution": "(c) Lucas Kaminski, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/322492795",
+    "place": "FIQQ 1ZZ, Islas Malvinas (Falkland Islands)",
+    "date": "2025-10-17"
+   },
+   {
+    "id": 593110668,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593110668/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593110668/large.jpg",
+    "attribution": "(c) patrickc, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327388628",
+    "place": "Falkland Islands",
+    "date": "2025-11-18"
+   }
+  ],
+  "hero": {
+   "id": 595298143,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595298143/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595298143/large.jpg",
+   "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/328509940",
+   "place": "Falkland Islands",
+   "date": "2025-11-27"
+  }
+ },
+ "gbif": {
+  "key": 2481635,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 7079,
+  "topCountries": [
+   {
+    "code": "FK",
+    "count": 3407
+   },
+   {
+    "code": "AR",
+    "count": 774
+   },
+   {
+    "code": "NZ",
+    "count": 652
+   },
+   {
+    "code": "AU",
+    "count": 607
+   },
+   {
+    "code": "CL",
+    "count": 520
+   },
+   {
+    "code": "AQ",
+    "count": 258
+   },
+   {
+    "code": "TF",
+    "count": 237
+   },
+   {
+    "code": "HM",
+    "count": 116
+   },
+   {
+    "code": "ZZ",
+    "count": 93
+   },
+   {
+    "code": "GB",
+    "count": 82
+   },
+   {
+    "code": "ZA",
+    "count": 78
+   },
+   {
+    "code": "DE",
+    "count": 29
+   }
+  ]
+ },
+ "warnings": []
+}

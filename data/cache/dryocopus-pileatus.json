@@ -1,0 +1,198 @@
+{
+ "key": "dryocopus-pileatus",
+ "name": "Dryocopus pileatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:42:01.612Z",
+ "names": {
+  "da": "Amerikansk sortspætte",
+  "en": "Pileated woodpecker",
+  "accepted": "Dryocopus pileatus"
+ },
+ "wikidata": {
+  "id": "Q930712"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Amerikansk sortspætte",
+  "extract": "Den amerikanske sortspætte er en meget stor spætte i ordenen af spættefugle. De lever i skovområder med store træer spredt ud over Canada, det østlige USA og dele af stillehavskysten.",
+  "url": "https://da.wikipedia.org/wiki/Amerikansk_sortsp%C3%A6tte"
+ },
+ "inat": {
+  "id": 17855,
+  "observations": 97721
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 32126809,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126809/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126809/large.gif",
+    "attribution": "(c) Thomas Koffel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18297196",
+    "place": "Marion County, FL, USA",
+    "date": "2018-11-05"
+   },
+   {
+    "id": 598503687,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598503687/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598503687/large.jpg",
+    "attribution": "(c) froggymum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330098558",
+    "place": "Clarksville, MD 21029, USA",
+    "date": "2025-12-09"
+   },
+   {
+    "id": 502174715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502174715/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502174715/large.jpeg",
+    "attribution": "(c) Joe Brewer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/279638557",
+    "place": "Derby, KS 67037, USA",
+    "date": "2025-01-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 654169766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654169766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654169766/large.jpg",
+    "attribution": "(c) froggymum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/358586317",
+    "place": "Clarksville",
+    "date": "2026-05-05"
+   },
+   {
+    "id": 458519114,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458519114/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458519114/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/255813464",
+    "place": "Mayfair Village, Jacksonville, FL 32207, USA",
+    "date": "2024-12-21"
+   },
+   {
+    "id": 106505478,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106505478/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106505478/large.jpg",
+    "attribution": "(c) Mary Krieger, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66111325",
+    "place": "Division No. 13, MB, Canada",
+    "date": "2020-11-22"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 435447615,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435447615/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/435447615/large.jpeg",
+    "attribution": "(c) Sean Frey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/244135777",
+    "place": "Manitoba, Canada",
+    "date": "2024-09-25"
+   },
+   {
+    "id": 125230522,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125230522/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125230522/large.jpg",
+    "attribution": "(c) Rebecca Gimenez Husted, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/76566242",
+    "place": "Jones County, GA, USA",
+    "date": "2021-05-01"
+   },
+   {
+    "id": 116865484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116865484/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116865484/large.jpg",
+    "attribution": "(c) Eric Habisch, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71751330",
+    "place": "Harry Road Home - Sunshine Coast Regional District, BC, Canada",
+    "date": "2018-07-17"
+   }
+  ],
+  "hero": {
+   "id": 168915535,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168915535/large.jpg",
+   "attribution": "(c) Joshlaymon, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/168915535",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5228824,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 5385187,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 4662136
+   },
+   {
+    "code": "CA",
+    "count": 722578
+   },
+   {
+    "code": "ZZ",
+    "count": 21
+   },
+   {
+    "code": "CU",
+    "count": 3
+   },
+   {
+    "code": "MX",
+    "count": 3
+   },
+   {
+    "code": "BR",
+    "count": 1
+   },
+   {
+    "code": "BS",
+    "count": 1
+   },
+   {
+    "code": "CN",
+    "count": 1
+   },
+   {
+    "code": "CR",
+    "count": 1
+   },
+   {
+    "code": "FR",
+    "count": 1
+   },
+   {
+    "code": "GR",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

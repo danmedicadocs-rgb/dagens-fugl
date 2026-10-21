@@ -1,0 +1,202 @@
+{
+ "key": "ardea-cinerea",
+ "name": "Ardea cinerea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:00:39.214Z",
+ "names": {
+  "da": "Fiskehejre",
+  "en": "Grey Heron",
+  "accepted": "Ardea cinerea"
+ },
+ "wikidata": {
+  "id": "Q25273"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Fiskehejre",
+  "extract": "Fiskehejren er en fugl, der er udbredt i Europa, Asien og store dele af Afrika syd for Sahara. Den lever af småfisk, frøer og krebsdyr, som den fanger på lavt vand i søer og moser og ved havet langs kysterne.",
+  "url": "https://da.wikipedia.org/wiki/Fiskehejre"
+ },
+ "inat": {
+  "id": 4954,
+  "observations": 270091
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 573877669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573877669/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573877669/large.jpg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/317555624",
+    "place": "Chilton Moor, Houghton le Spring DH4 6PU, UK",
+    "date": "2025-09-29"
+   },
+   {
+    "id": 345254566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345254566/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345254566/large.jpg",
+    "attribution": "(c) Dr. Sven Gippner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196148818",
+    "place": "38 Braunschweig-Wabe-Schunter-Beberbach, Germany",
+    "date": "2024-01-08"
+   },
+   {
+    "id": 204082651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204082651/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204082651/large.jpeg",
+    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120648098",
+    "place": "Сосницький район, Чернігівська область, Україна",
+    "date": "2019-05-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 84944561,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84944561/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84944561/large.jpeg",
+    "attribution": "(c) João Pedro Gato, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/53408126",
+    "place": "Castedo e Cotas, 5070, Portugal",
+    "date": "2020-07-17"
+   },
+   {
+    "id": 184460795,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184460795/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184460795/large.jpeg",
+    "attribution": "(c) Carman Chew, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/109443786",
+    "place": "Singapore",
+    "date": "2022-03-25"
+   },
+   {
+    "id": 182703838,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182703838/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182703838/large.jpeg",
+    "attribution": "(c) inatadedi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/108507911",
+    "place": "Ripollet, Barcelona, España",
+    "date": "2022-03-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 174161523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174161523/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174161523/large.jpeg",
+    "attribution": "(c) joba102, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/103982370",
+    "place": "Rieselfeld, 79111 Freiburg im Breisgau, Deutschland",
+    "date": "2021-12-19"
+   },
+   {
+    "id": 442832710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442832710/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442832710/large.jpeg",
+    "attribution": "(c) Brenda Black, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/247894024",
+    "place": "80 München-Neuhausen-Nymphenburg, Deutschland",
+    "date": "2024-10-18"
+   },
+   {
+    "id": 595797744,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595797744/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595797744/large.jpg",
+    "attribution": "(c) Marco Zaccaria Di Fraia, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/328755903",
+    "place": "Rye Hill Park (Stop EH), London SE15 3JG, UK",
+    "date": "2025-11-29"
+   }
+  ],
+  "hero": {
+   "id": 73516715,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73516715/large.jpg",
+   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/73516715",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9797180,
+  "dkTotal": 630884,
+  "dkMonths": [
+   55766,
+   43555,
+   55790,
+   65050,
+   60245,
+   45984,
+   54995,
+   61749,
+   56415,
+   51700,
+   40577,
+   38991
+  ],
+  "worldTotal": 7916139,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 1112387
+   },
+   {
+    "code": "SE",
+    "count": 883946
+   },
+   {
+    "code": "GB",
+    "count": 728423
+   },
+   {
+    "code": "FR",
+    "count": 645831
+   },
+   {
+    "code": "DK",
+    "count": 630884
+   },
+   {
+    "code": "ES",
+    "count": 505059
+   },
+   {
+    "code": "DE",
+    "count": 409688
+   },
+   {
+    "code": "NO",
+    "count": 382392
+   },
+   {
+    "code": "IN",
+    "count": 316503
+   },
+   {
+    "code": "BE",
+    "count": 303075
+   },
+   {
+    "code": "TW",
+    "count": 270570
+   },
+   {
+    "code": "ZA",
+    "count": 227180
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,162 @@
+{
+ "key": "alca-torda",
+ "name": "Alca torda",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:17.064Z",
+ "names": {
+  "da": "Alk",
+  "en": "Razorbill",
+  "accepted": "Alca torda"
+ },
+ "wikidata": {
+  "id": "Q27102"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Alk",
+  "extract": "Alken er en havfugl i familien alkefugle (Alcidae), og den eneste art i slægten Alca. Arten yngler i kolonier på klipper i tempererede, boreale og lavarktiske kystområder i Nordatlanten.",
+  "url": "https://da.wikipedia.org/wiki/Alk"
+ },
+ "inat": {
+  "id": 4501,
+  "observations": 12402
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 237522921,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237522921/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237522921/large.jpg",
+    "attribution": "(c) Blake Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138926968",
+    "place": "Charlotte, CA-NB, CA",
+    "date": "2022-08-01"
+   },
+   {
+    "id": 142621140,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142621140/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/142621140/large.jpeg",
+    "attribution": "(c) rowan_m, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/86561850",
+    "place": "Eilean Siar, Scotland, GB",
+    "date": "2021-07-11"
+   }
+  ],
+  "adult": [
+   {
+    "id": 498925677,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/277865541",
+    "place": null,
+    "date": "2025-04-15"
+   },
+   {
+    "id": 194962541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194962541/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194962541/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/115519222",
+    "place": null,
+    "date": "2022-04-14"
+   },
+   {
+    "id": 41298260,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41298260/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41298260/large.jpg",
+    "attribution": "(c) Don Loarie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/25165545",
+    "place": "North Sea, Anstruther, Scotland, GB",
+    "date": "2019-05-15"
+   }
+  ],
+  "hero": {
+   "id": 498925677,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/large.jpg",
+   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/277865541",
+   "place": null,
+   "date": "2025-04-15"
+  }
+ },
+ "gbif": {
+  "key": 8277073,
+  "dkTotal": 58754,
+  "dkMonths": [
+   5303,
+   3209,
+   3037,
+   3134,
+   3383,
+   2184,
+   2467,
+   2442,
+   3693,
+   12107,
+   11266,
+   6423
+  ],
+  "worldTotal": 749215,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 137373
+   },
+   {
+    "code": "SE",
+    "count": 131261
+   },
+   {
+    "code": "US",
+    "count": 128440
+   },
+   {
+    "code": "CA",
+    "count": 65729
+   },
+   {
+    "code": "NO",
+    "count": 64909
+   },
+   {
+    "code": "DK",
+    "count": 58754
+   },
+   {
+    "code": "FI",
+    "count": 32180
+   },
+   {
+    "code": "NL",
+    "count": 23741
+   },
+   {
+    "code": "FR",
+    "count": 16704
+   },
+   {
+    "code": "ES",
+    "count": 16044
+   },
+   {
+    "code": "IE",
+    "count": 14558
+   },
+   {
+    "code": "BE",
+    "count": 13627
+   }
+  ]
+ },
+ "warnings": []
+}

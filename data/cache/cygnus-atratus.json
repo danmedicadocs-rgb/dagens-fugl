@@ -1,0 +1,182 @@
+{
+ "key": "cygnus-atratus",
+ "name": "Cygnus atratus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:38:30.404Z",
+ "names": {
+  "da": "Sortsvane",
+  "en": "Black Swan",
+  "accepted": "Cygnus atratus"
+ },
+ "wikidata": {
+  "id": "Q131044"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sortsvane",
+  "extract": "Sortsvane er en svaneart, som hovedsageligt yngler i det sydøstlige og sydvestlige Australien. Arten er blevet jaget til udryddelse i New Zealand, men er senere genindført. I Australien er den nomadisk med uregelmæssig træk afhængigt af vejrforholdene. Sortsvanen er en stor fugl med sort fjerdragt og rødt næb. Den er monogam og begge forældre deltager i udrugning af æggene og efterfølgende pleje af ungerne.",
+  "url": "https://da.wikipedia.org/wiki/Sortsvane"
+ },
+ "inat": {
+  "id": 6914,
+  "observations": 40716
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 317524547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317524547/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317524547/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/182142613",
+    "place": "Hokitika 7810, New Zealand",
+    "date": "2023-09-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 135857539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135857539/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135857539/large.jpeg",
+    "attribution": "(c) Mark Kriedemann, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82759768",
+    "place": "Casino NSW 2470, Australia",
+    "date": "2021-06-13"
+   },
+   {
+    "id": 268602287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/268602287/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/268602287/large.jpeg",
+    "attribution": "(c) MJ Taylor, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/155391235",
+    "place": "Eugenana TAS 7310, Australia",
+    "date": "2023-04-16"
+   },
+   {
+    "id": 45727099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45727099/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45727099/large.jpg",
+    "attribution": "(c) Tim Park, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/29303161",
+    "place": "23 Goulding Road, Okere Falls, Bay of Plenty, NZ",
+    "date": "2019-07-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 592432385,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592432385/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592432385/large.jpg",
+    "attribution": "(c) William Harland, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327047489",
+    "place": "Lincoln, New Zealand",
+    "date": "2025-11-12"
+   },
+   {
+    "id": 101678828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101678828/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101678828/large.jpeg",
+    "attribution": "(c) Tim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63364505",
+    "place": "Sydney NSW, Australia",
+    "date": "2020-10-12"
+   },
+   {
+    "id": 464189178,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464189178/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464189178/large.jpeg",
+    "attribution": "(c) Rhys, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/258686206",
+    "place": "Dawlish, UK",
+    "date": "2025-01-05"
+   }
+  ],
+  "hero": {
+   "id": 317524547,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317524547/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317524547/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/182142613",
+   "place": "Hokitika 7810, New Zealand",
+   "date": "2023-09-07"
+  }
+ },
+ "gbif": {
+  "key": 2498344,
+  "dkTotal": 3528,
+  "dkMonths": [
+   300,
+   254,
+   402,
+   415,
+   398,
+   355,
+   303,
+   220,
+   290,
+   247,
+   195,
+   148
+  ],
+  "worldTotal": 869572,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 668989
+   },
+   {
+    "code": "NZ",
+    "count": 84487
+   },
+   {
+    "code": "NL",
+    "count": 45124
+   },
+   {
+    "code": "BE",
+    "count": 14949
+   },
+   {
+    "code": "FR",
+    "count": 12192
+   },
+   {
+    "code": "GB",
+    "count": 11272
+   },
+   {
+    "code": "US",
+    "count": 6855
+   },
+   {
+    "code": "DE",
+    "count": 5404
+   },
+   {
+    "code": "DK",
+    "count": 3528
+   },
+   {
+    "code": "SE",
+    "count": 3383
+   },
+   {
+    "code": "ES",
+    "count": 2433
+   },
+   {
+    "code": "CN",
+    "count": 2419
+   }
+  ]
+ },
+ "warnings": []
+}

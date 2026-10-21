@@ -1,0 +1,171 @@
+{
+ "key": "periparus-ater",
+ "name": "Periparus ater",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:16:23.724Z",
+ "names": {
+  "da": "Sortmejse",
+  "en": "Coal tit",
+  "accepted": "Periparus ater"
+ },
+ "wikidata": {
+  "id": "Q191096"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sortmejse",
+  "extract": "Sortmejsen er en mejse i ordenen af spurvefugle. Den yngler i Europa og i store dele af Asien. Sortmejsen lever i områder med nåletræer, ofte sammen med fuglekongen.",
+  "url": "https://da.wikipedia.org/wiki/Sortmejse"
+ },
+ "inat": {
+  "id": 144823,
+  "observations": 48655
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 168805367,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168805367/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168805367/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101101423",
+    "place": "15280 Brión, A Coruña, España",
+    "date": "2021-11-13"
+   },
+   {
+    "id": 118260554,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118260554/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118260554/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72524706",
+    "place": "32449 Casgutierre, Ourense, España",
+    "date": "2021-03-31"
+   },
+   {
+    "id": 111121223,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111121223/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111121223/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/68599336",
+    "place": "Irkside NR, Alkrington Woods and Rhodes Lodges, Greater Manchester, UK",
+    "date": "2021-01-25"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 388541250,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388541250/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388541250/large.jpeg",
+    "attribution": "(c) Alex Press, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/219508041",
+    "place": "Woking, Surrey, UK",
+    "date": "2024-05-31"
+   },
+   {
+    "id": 211944502,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211944502/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211944502/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/124992766",
+    "place": "Forcella di Brez, Trento, Italy",
+    "date": "2022-07-06"
+   },
+   {
+    "id": 683329137,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/683329137/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/683329137/large.jpg",
+    "attribution": "(c) justinm_, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/373883476",
+    "place": "Ty Fry Road, Rumney, Cardiff CF3 3LN, UK",
+    "date": "2026-06-21"
+   }
+  ],
+  "hero": {
+   "id": 436734934,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436734934/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436734934/large.jpg",
+   "attribution": "(c) Luiz Lapa, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/436734934",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2487871,
+  "dkTotal": 125219,
+  "dkMonths": [
+   11092,
+   11484,
+   17255,
+   19189,
+   13111,
+   6944,
+   5441,
+   6719,
+   10442,
+   11735,
+   5850,
+   5907
+  ],
+  "worldTotal": 2549606,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 453013
+   },
+   {
+    "code": "GB",
+    "count": 424289
+   },
+   {
+    "code": "FI",
+    "count": 251954
+   },
+   {
+    "code": "FR",
+    "count": 237593
+   },
+   {
+    "code": "ES",
+    "count": 220535
+   },
+   {
+    "code": "NO",
+    "count": 217109
+   },
+   {
+    "code": "DK",
+    "count": 125219
+   },
+   {
+    "code": "DE",
+    "count": 119248
+   },
+   {
+    "code": "PT",
+    "count": 65489
+   },
+   {
+    "code": "BE",
+    "count": 42813
+   },
+   {
+    "code": "NL",
+    "count": 31801
+   },
+   {
+    "code": "PL",
+    "count": 31457
+   }
+  ]
+ },
+ "warnings": []
+}

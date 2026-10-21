@@ -1,0 +1,143 @@
+{
+ "key": "menura-novaehollandiae",
+ "name": "Menura novaehollandiae",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:38:05.995Z",
+ "names": {
+  "da": "Pragtlyrehale",
+  "en": "Superb Lyrebird",
+  "accepted": "Menura novaehollandiae"
+ },
+ "wikidata": {
+  "id": "Q757013"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Pragtlyrehale",
+  "extract": "Pragtlyrehale også kaldt Grå lyrehale er en fugl af familien lyrehaler inden for ordnen spurvefugle. Pragtlyrehalen er endemisk for Australien og sammen med ravnen hører den til de største af alle spurvefugle. Lyrehaler er i øvrigt kendt for deres evne til at imitere lyde.",
+  "url": "https://da.wikipedia.org/wiki/Pragtlyrehale"
+ },
+ "inat": {
+  "id": 12700,
+  "observations": 6642
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 350107803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/large.png",
+    "attribution": "(c) Sockrosma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198617509",
+    "place": "New South Wales, AU",
+    "date": "2017-01-04"
+   },
+   {
+    "id": 383927857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/383927857/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/383927857/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/217050072",
+    "place": "Melbourne VIC, Australia",
+    "date": "2023-08-11"
+   },
+   {
+    "id": 378039135,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378039135/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378039135/large.jpeg",
+    "attribution": "(c) Tim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/213903736",
+    "place": "Invergordon NSW 2422, Australia",
+    "date": "2024-03-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 340068392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340068392/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340068392/large.jpeg",
+    "attribution": "(c) Antoine MARNAT, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/193577680",
+    "place": "Blue Mountains Nat'l Park NSW 2787, Australie",
+    "date": "2010-05-19"
+   },
+   {
+    "id": 55937543,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55937543/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55937543/large.jpg",
+    "attribution": "(c) Andrew Allen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/35472724",
+    "place": "Melbourne VIC, Australia",
+    "date": "2016-09-19"
+   },
+   {
+    "id": 602226358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602226358/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602226358/large.jpg",
+    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/331911620",
+    "place": "Macquarie Pass NSW 2577, Australia",
+    "date": "2025-12-22"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 350107803,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/medium.png",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/large.png",
+   "attribution": "(c) Sockrosma, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/198617509",
+   "place": "New South Wales, AU",
+   "date": "2017-01-04"
+  }
+ },
+ "gbif": {
+  "key": 2488980,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 149588,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 149464
+   },
+   {
+    "code": "ZZ",
+    "count": 4
+   },
+   {
+    "code": "GR",
+    "count": 1
+   },
+   {
+    "code": "NZ",
+    "count": 1
+   },
+   {
+    "code": "US",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

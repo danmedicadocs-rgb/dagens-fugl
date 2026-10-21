@@ -1,0 +1,162 @@
+{
+ "key": "dicrurus-macrocercus",
+ "name": "Dicrurus macrocercus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:44.115Z",
+ "names": {
+  "da": "Sort Drongo",
+  "en": "Black Drongo",
+  "accepted": "Dicrurus macrocercus"
+ },
+ "wikidata": {
+  "id": "Q46435"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black drongo",
+  "extract": "The  black drongo is a small Asian passerine bird of the drongo family Dicruridae. It is a common resident breeder in much of tropical southern Asia from southwest Iran through Pakistan, India, Bangladesh and Sri Lanka east to southern China and Indonesia and accidental visitor of Japan. It is an all black bird with a distinctive forked tail and measures 28 cm (11 in) in length. It feeds on insects, and is common in open agricultural areas and light forest throughout its range, perching conspicuously on a bare perch or along power or telephone lines.",
+  "url": "https://en.wikipedia.org/wiki/Black_drongo"
+ },
+ "inat": {
+  "id": 8277,
+  "observations": 24929
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 194174648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194174648/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194174648/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/115025192",
+    "place": "Road No-5, Dhaka, BD",
+    "date": "2022-05-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 399350659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/399350659/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/399350659/large.jpeg",
+    "attribution": "(c) 胡正恆(Jackson Hu), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/225254647",
+    "place": "961台灣台東縣成功鎮成功",
+    "date": "2024-06-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 208398501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208398501/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208398501/large.jpeg",
+    "attribution": "(c) Min-Hsuan NI, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123043251",
+    "place": "Taoyuan, Taipei, Taiwan",
+    "date": "2022-06-21"
+   },
+   {
+    "id": 627966269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/627966269/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/627966269/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/344632362",
+    "place": "Sawargaon, Maharashtra, India",
+    "date": "2026-03-23"
+   },
+   {
+    "id": 662565028,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662565028/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662565028/large.jpg",
+    "attribution": "(c) Srivatsan Ramkumar, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/362987568",
+    "place": "Tamil Nadu, India",
+    "date": "2026-05-17"
+   }
+  ],
+  "hero": {
+   "id": 194174648,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194174648/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194174648/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/115025192",
+   "place": "Road No-5, Dhaka, BD",
+   "date": "2022-05-03"
+  }
+ },
+ "gbif": {
+  "key": 2493970,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1500149,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 996801
+   },
+   {
+    "code": "TW",
+    "count": 348335
+   },
+   {
+    "code": "TH",
+    "count": 58098
+   },
+   {
+    "code": "NP",
+    "count": 22466
+   },
+   {
+    "code": "CN",
+    "count": 15567
+   },
+   {
+    "code": "BD",
+    "count": 13966
+   },
+   {
+    "code": "KH",
+    "count": 10701
+   },
+   {
+    "code": "HK",
+    "count": 10127
+   },
+   {
+    "code": "PK",
+    "count": 3830
+   },
+   {
+    "code": "MM",
+    "count": 3734
+   },
+   {
+    "code": "VN",
+    "count": 3313
+   },
+   {
+    "code": "LK",
+    "count": 2394
+   }
+  ]
+ },
+ "warnings": []
+}

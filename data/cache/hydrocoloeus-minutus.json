@@ -1,0 +1,172 @@
+{
+ "key": "hydrocoloeus-minutus",
+ "name": "Hydrocoloeus minutus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:00.836Z",
+ "names": {
+  "da": "Dværgmåge",
+  "en": "Little Gull",
+  "accepted": "Hydrocoloeus minutus"
+ },
+ "wikidata": {
+  "id": "Q164467"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværgmåge",
+  "extract": "Dværgmågen er en fugleart i familien mågefugle, der især er udbredt i det nordøstlige Europa og Asien. Den forekommer ved lavvandede søer med rørsump og på sumpede enge med tuer. Dværgmågen er verdens mindste måge med et vingefang på omkring 74 centimeter. Den ligner hættemågen, men kendes blandt andet på at være tydeligt mindre og have vinger med gråsort underside.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgm%C3%A5ge"
+ },
+ "inat": {
+  "id": 144512,
+  "observations": 7849
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 23981358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23981358/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23981358/large.jpeg",
+    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/16013548",
+    "place": "Longridge Point, Cochrane District, ON, Canada",
+    "date": "2018-08-26"
+   },
+   {
+    "id": 9447881,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9447881/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9447881/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/7300982",
+    "place": "Plaja SF. Gheorghe, , Tulcea, RO",
+    "date": "2017-07-29"
+   },
+   {
+    "id": 206369084,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206369084/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/206369084/large.jpeg",
+    "attribution": "(c) Juan Rodríguez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/121923900",
+    "place": "Madrid, España",
+    "date": "2020-03-20"
+   }
+  ],
+  "adult": [
+   {
+    "id": 451632911,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451632911/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451632911/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/252309239",
+    "place": "Kemi, Suomi",
+    "date": "2012-06-01"
+   },
+   {
+    "id": 451632957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451632957/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451632957/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/252309248",
+    "place": "Kemi, Suomi",
+    "date": "2012-06-01"
+   },
+   {
+    "id": 693300285,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/693300285/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/693300285/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/379039261",
+    "place": "Глазов, республика Удмуртия, Россия",
+    "date": "2026-07-07"
+   }
+  ],
+  "hero": {
+   "id": 451632911,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451632911/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451632911/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/252309239",
+   "place": "Kemi, Suomi",
+   "date": "2012-06-01"
+  }
+ },
+ "gbif": {
+  "key": 6065841,
+  "dkTotal": 58676,
+  "dkMonths": [
+   2581,
+   830,
+   752,
+   4716,
+   9787,
+   2493,
+   3809,
+   6255,
+   8349,
+   11399,
+   5945,
+   1741
+  ],
+  "worldTotal": 510409,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 196028
+   },
+   {
+    "code": "DK",
+    "count": 58676
+   },
+   {
+    "code": "GB",
+    "count": 36146
+   },
+   {
+    "code": "NL",
+    "count": 25291
+   },
+   {
+    "code": "US",
+    "count": 23298
+   },
+   {
+    "code": "FR",
+    "count": 22235
+   },
+   {
+    "code": "CA",
+    "count": 22219
+   },
+   {
+    "code": "BE",
+    "count": 22017
+   },
+   {
+    "code": "FI",
+    "count": 21469
+   },
+   {
+    "code": "NO",
+    "count": 12725
+   },
+   {
+    "code": "DE",
+    "count": 11607
+   },
+   {
+    "code": "EE",
+    "count": 9215
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,156 @@
+{
+ "key": "cyanopica-cooki",
+ "name": "Cyanopica cooki",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:26:56.449Z",
+ "names": {
+  "da": "Ibererblåskade",
+  "en": "Iberian Magpie",
+  "accepted": "Cyanopica cooki"
+ },
+ "wikidata": {
+  "id": "Q12256020"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Iberian magpie",
+  "extract": "The Iberian magpie is a bird in the crow family. It is 31–35 cm (12–14 in) long and similar in overall shape to the Eurasian magpie but is slenderer with proportionately smaller legs and bill.",
+  "url": "https://en.wikipedia.org/wiki/Iberian_magpie"
+ },
+ "inat": {
+  "id": 339684,
+  "observations": 6916
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 285315882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285315882/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285315882/large.jpeg",
+    "attribution": "(c) Cristina Olivares Collado, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/164868374",
+    "place": "Aulario DC, 14014, Córdoba, España",
+    "date": "2023-05-31"
+   },
+   {
+    "id": 735436188,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/735436188/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/735436188/large.jpg",
+    "attribution": "(c) Darío Calvente Viera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/400740324",
+    "place": "Estabulario, 14014 Córdoba, España",
+    "date": "2026-09-16"
+   },
+   {
+    "id": 211097758,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211097758/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211097758/large.jpeg",
+    "attribution": "(c) Amalia Herrera Grau, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/124537221",
+    "place": "28492 Manzanares el Real, Madrid, Spain",
+    "date": "2022-06-27"
+   }
+  ],
+  "adult": [
+   {
+    "id": 245148563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142951880",
+    "place": "Loulé, Portugal",
+    "date": "2022-11-22"
+   },
+   {
+    "id": 7203452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7203452/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7203452/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/5796607",
+    "place": "Sacromonte, 18010 Granada, Spain",
+    "date": "2017-04-17"
+   },
+   {
+    "id": 205121000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/large.jpg",
+    "attribution": "(c) poblado_verde_en_acción, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/121227937",
+    "place": "Calle de la Tejera, Moralzarzal, Madrid, ES",
+    "date": "2022-06-11"
+   }
+  ],
+  "hero": {
+   "id": 245148563,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/large.jpeg",
+   "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/142951880",
+   "place": "Loulé, Portugal",
+   "date": "2022-11-22"
+  }
+ },
+ "gbif": {
+  "key": 5844936,
+  "dkTotal": 10,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0,
+   4,
+   1,
+   0
+  ],
+  "worldTotal": 212215,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 114628
+   },
+   {
+    "code": "PT",
+    "count": 97507
+   },
+   {
+    "code": "BE",
+    "count": 37
+   },
+   {
+    "code": "DK",
+    "count": 10
+   },
+   {
+    "code": "GI",
+    "count": 7
+   },
+   {
+    "code": "DE",
+    "count": 5
+   },
+   {
+    "code": "NL",
+    "count": 5
+   },
+   {
+    "code": "FR",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

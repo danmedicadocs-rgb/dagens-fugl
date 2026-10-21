@@ -1,0 +1,172 @@
+{
+ "key": "rissa-tridactyla",
+ "name": "Rissa tridactyla",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:08:43.011Z",
+ "names": {
+  "da": "Ride",
+  "en": "Black-legged Kittiwake",
+  "accepted": "Rissa tridactyla"
+ },
+ "wikidata": {
+  "id": "Q26612"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Ride (fugl)",
+  "extract": "Riden er verdens almindeligste mågeart. Den lever i større eller mindre kolonier langs de nordlige kyster af især Nordamerika og Europa. Riden er i Danmark en fåtallig ynglefugl, men almindelig som vintergæst fra ynglepladserne i Nordatlanten.",
+  "url": "https://da.wikipedia.org/wiki/Ride_(fugl)"
+ },
+ "inat": {
+  "id": 4494,
+  "observations": 17820
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 301919822,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301919822/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301919822/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/173831300",
+    "place": "Svalbard, Svalbard and Jan Mayen",
+    "date": "2023-07-19"
+   },
+   {
+    "id": 243035379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243035379/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243035379/large.jpeg",
+    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141832157",
+    "place": "Wicklow, IE",
+    "date": "2022-07-26"
+   },
+   {
+    "id": 433149902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433149902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433149902/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/242946814",
+    "place": "Карское море у Северной Земли",
+    "date": "2024-08-16"
+   }
+  ],
+  "adult": [
+   {
+    "id": 177338326,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/large.jpeg",
+    "attribution": "(c) Iona M., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105663578",
+    "place": "Oban PA34 5AD, UK",
+    "date": "2022-01-27"
+   },
+   {
+    "id": 11504971,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11504971/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11504971/large.jpeg",
+    "attribution": "(c) patrickc, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/8603886",
+    "place": "Jan Mayen, Svalbard and Jan Mayen",
+    "date": "2016-05-19"
+   },
+   {
+    "id": 388184078,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388184078/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388184078/large.jpeg",
+    "attribution": "(c) Alex Press, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/219318429",
+    "place": "RSPB Bempton Cliffs, East Riding of Yorkshire, UK",
+    "date": "2021-05-29"
+   }
+  ],
+  "hero": {
+   "id": 177338326,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/large.jpeg",
+   "attribution": "(c) Iona M., some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/105663578",
+   "place": "Oban PA34 5AD, UK",
+   "date": "2022-01-27"
+  }
+ },
+ "gbif": {
+  "key": 2481205,
+  "dkTotal": 62668,
+  "dkMonths": [
+   5849,
+   3857,
+   2621,
+   3383,
+   5551,
+   2426,
+   4043,
+   5977,
+   6216,
+   11376,
+   8423,
+   2908
+  ],
+  "worldTotal": 1114651,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 358559
+   },
+   {
+    "code": "US",
+    "count": 177746
+   },
+   {
+    "code": "CA",
+    "count": 114210
+   },
+   {
+    "code": "NO",
+    "count": 81108
+   },
+   {
+    "code": "DK",
+    "count": 62668
+   },
+   {
+    "code": "SE",
+    "count": 53578
+   },
+   {
+    "code": "NL",
+    "count": 39551
+   },
+   {
+    "code": "BE",
+    "count": 37482
+   },
+   {
+    "code": "IE",
+    "count": 36427
+   },
+   {
+    "code": "FR",
+    "count": 31984
+   },
+   {
+    "code": "DE",
+    "count": 25957
+   },
+   {
+    "code": "IS",
+    "count": 25480
+   }
+  ]
+ },
+ "warnings": []
+}

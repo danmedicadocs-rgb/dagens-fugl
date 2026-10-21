@@ -1,0 +1,152 @@
+{
+ "key": "momotus-momota",
+ "name": "Momotus momota",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:50:57.256Z",
+ "names": {
+  "da": "Rubinmotmot",
+  "en": "Blue-crowned Motmot",
+  "accepted": "Momotus momota"
+ },
+ "wikidata": {
+  "id": "Q904932"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Amazonian motmot",
+  "extract": "The Amazonian motmot is a colorful coraciiform bird in the family Momotidae. It is found in the Amazon lowlands and low Andean foothills from eastern Venezuela to eastern Brazil and northeastern Argentina.",
+  "url": "https://en.wikipedia.org/wiki/Amazonian_motmot"
+ },
+ "inat": {
+  "id": 204447,
+  "observations": 1429
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 612751115,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612751115/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612751115/large.jpg",
+    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337114619",
+    "place": "Miranda - MS, 79380-000, Brasil",
+    "date": "2026-01-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 358895811,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/large.jpeg",
+    "attribution": "(c) Edwin Rivera Millán, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/203157050",
+    "place": "Vereda Valle de Mesetas Sector 1, Villavicencio, Meta, Colombia",
+    "date": "2024-03-19"
+   },
+   {
+    "id": 334795863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334795863/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334795863/large.jpeg",
+    "attribution": "(c) Griffin Anderson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/150076921",
+    "place": "96QQ+83 Maceió",
+    "date": "2023-03-02"
+   },
+   {
+    "id": 579049550,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579049550/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579049550/large.jpg",
+    "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/320280510",
+    "place": "Jardin Botanico de Santa Cruz",
+    "date": "2025-09-26"
+   }
+  ],
+  "hero": {
+   "id": 358895811,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/large.jpeg",
+   "attribution": "(c) Edwin Rivera Millán, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/203157050",
+   "place": "Vereda Valle de Mesetas Sector 1, Villavicencio, Meta, Colombia",
+   "date": "2024-03-19"
+  }
+ },
+ "gbif": {
+  "key": 2475290,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 62154,
+  "topCountries": [
+   {
+    "code": "BR",
+    "count": 19884
+   },
+   {
+    "code": "CO",
+    "count": 19056
+   },
+   {
+    "code": "PE",
+    "count": 11139
+   },
+   {
+    "code": "EC",
+    "count": 4516
+   },
+   {
+    "code": "BO",
+    "count": 2813
+   },
+   {
+    "code": "AR",
+    "count": 918
+   },
+   {
+    "code": "VE",
+    "count": 798
+   },
+   {
+    "code": "GY",
+    "count": 757
+   },
+   {
+    "code": "SR",
+    "count": 523
+   },
+   {
+    "code": "GF",
+    "count": 502
+   },
+   {
+    "code": "MX",
+    "count": 425
+   },
+   {
+    "code": "PY",
+    "count": 300
+   }
+  ]
+ },
+ "warnings": []
+}

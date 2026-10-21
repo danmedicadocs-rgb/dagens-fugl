@@ -1,0 +1,171 @@
+{
+ "key": "egretta-thula",
+ "name": "Egretta thula",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:44:31.174Z",
+ "names": {
+  "da": "Snehejre",
+  "en": "Snowy Egret",
+  "accepted": "Egretta thula"
+ },
+ "wikidata": {
+  "id": "Q59785"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Snowy egret",
+  "extract": "The snowy egret is a small white heron. The genus name comes from Provençal French for the little egret, aigrette, which is a diminutive of aigron, 'heron'. The species name thula is the Mapudungun term for the black-necked swan, applied to this species in error by Chilean naturalist Juan Ignacio Molina in 1782.",
+  "url": "https://en.wikipedia.org/wiki/Snowy_egret"
+ },
+ "inat": {
+  "id": 4940,
+  "observations": 183771
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 586152157,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/large.jpg",
+    "attribution": "(c) Wes Copas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/323902381",
+    "place": "Olmos Park, TX 78212, USA",
+    "date": "2025-10-29"
+   },
+   {
+    "id": 261303769,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261303769/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261303769/large.jpeg",
+    "attribution": "(c) mfeaver, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151442508",
+    "place": "Jefferson County, FL, USA",
+    "date": "2023-03-16"
+   },
+   {
+    "id": 87324513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324513/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324513/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/54866345",
+    "place": "Crissy Field, San Francisco, CA, USA",
+    "date": "2020-07-30"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 403802649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403802649/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403802649/large.jpeg",
+    "attribution": "(c) JD Flores, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/227609475",
+    "place": "Sunset Beach, NC, USA",
+    "date": "2024-07-04"
+   },
+   {
+    "id": 20954702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/14141308",
+    "place": "33446, Delray Beach, FL, US",
+    "date": "2018-07-07"
+   },
+   {
+    "id": 316931364,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316931364/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316931364/large.jpeg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/181839042",
+    "place": "Northampton County, VA, USA",
+    "date": "2023-09-04"
+   }
+  ],
+  "hero": {
+   "id": 586152157,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/large.jpg",
+   "attribution": "(c) Wes Copas, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/323902381",
+   "place": "Olmos Park, TX 78212, USA",
+   "date": "2025-10-29"
+  }
+ },
+ "gbif": {
+  "key": 2480873,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 4766855,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 3845959
+   },
+   {
+    "code": "MX",
+    "count": 179738
+   },
+   {
+    "code": "BR",
+    "count": 103539
+   },
+   {
+    "code": "AR",
+    "count": 83280
+   },
+   {
+    "code": "CR",
+    "count": 80281
+   },
+   {
+    "code": "CO",
+    "count": 70341
+   },
+   {
+    "code": "CL",
+    "count": 66874
+   },
+   {
+    "code": "PE",
+    "count": 48474
+   },
+   {
+    "code": "BZ",
+    "count": 29795
+   },
+   {
+    "code": "PA",
+    "count": 25211
+   },
+   {
+    "code": "EC",
+    "count": 25034
+   },
+   {
+    "code": "PR",
+    "count": 22359
+   }
+  ]
+ },
+ "warnings": []
+}

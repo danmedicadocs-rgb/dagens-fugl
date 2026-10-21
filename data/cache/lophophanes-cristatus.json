@@ -1,0 +1,141 @@
+{
+ "key": "lophophanes-cristatus",
+ "name": "Lophophanes cristatus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:16:18.385Z",
+ "names": {
+  "da": "Topmejse",
+  "en": "European Crested Tit",
+  "accepted": "Lophophanes cristatus"
+ },
+ "wikidata": {
+  "id": "Q207831"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Topmejse",
+  "extract": "Topmejsen er en spurvefugl, der er almindelig som ynglefugl i nåleskove i Jylland og på Fyn. Den findes i øvrigt i store dele af Europa.",
+  "url": "https://da.wikipedia.org/wiki/Topmejse"
+ },
+ "inat": {
+  "id": 144830,
+  "observations": 18371
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 488783906,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/large.jpeg",
+    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271717631",
+    "place": "Сосницький район, Чернігівська область, Україна",
+    "date": "2025-04-20"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 384784004,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384784004/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384784004/large.jpeg",
+    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/217501912",
+    "place": "Busenberg, Deutschland",
+    "date": "2024-05-04"
+   },
+   {
+    "id": 384783937,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384783937/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384783937/large.jpeg",
+    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/217501913",
+    "place": "Busenberg, Deutschland",
+    "date": "2024-05-04"
+   }
+  ],
+  "hero": {
+   "id": 488783906,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/large.jpeg",
+   "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/271717631",
+   "place": "Сосницький район, Чернігівська область, Україна",
+   "date": "2025-04-20"
+  }
+ },
+ "gbif": {
+  "key": 2487883,
+  "dkTotal": 50934,
+  "dkMonths": [
+   4830,
+   4274,
+   5808,
+   5940,
+   4715,
+   2846,
+   2999,
+   3122,
+   3848,
+   5895,
+   3551,
+   3070
+  ],
+  "worldTotal": 1305011,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 290489
+   },
+   {
+    "code": "FR",
+    "count": 217116
+   },
+   {
+    "code": "ES",
+    "count": 139878
+   },
+   {
+    "code": "NL",
+    "count": 132172
+   },
+   {
+    "code": "FI",
+    "count": 121190
+   },
+   {
+    "code": "DE",
+    "count": 80559
+   },
+   {
+    "code": "NO",
+    "count": 73048
+   },
+   {
+    "code": "DK",
+    "count": 50934
+   },
+   {
+    "code": "BE",
+    "count": 43577
+   },
+   {
+    "code": "PT",
+    "count": 39880
+   },
+   {
+    "code": "PL",
+    "count": 30574
+   },
+   {
+    "code": "EE",
+    "count": 12474
+   }
+  ]
+ },
+ "warnings": []
+}

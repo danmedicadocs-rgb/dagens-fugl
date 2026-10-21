@@ -1,0 +1,192 @@
+{
+ "key": "garrulus-glandarius",
+ "name": "Garrulus glandarius",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:15:00.742Z",
+ "names": {
+  "da": "Skovskade",
+  "en": "Eurasian Jay",
+  "accepted": "Garrulus glandarius"
+ },
+ "wikidata": {
+  "id": "Q25354"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Skovskade",
+  "extract": "Skovskaden er en stor kragefugl i ordenen af spurvefugle. Den yngler både i løv- og nåleskove i et stort område fra det vestlige Europa og det nordvestlige Afrika til den asiatiske østkyst og det sydøstlige Asien.",
+  "url": "https://da.wikipedia.org/wiki/Skovskade"
+ },
+ "inat": {
+  "id": 8088,
+  "observations": 110315
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 671652000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/large.jpg",
+    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/367772511",
+    "place": "Nordrhein-Westfalen, DE",
+    "date": "2026-06-02"
+   },
+   {
+    "id": 183687990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183687990/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/183687990/large.jpg",
+    "attribution": "(c) Alexandra Luckyanchenko, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/109031582",
+    "place": "Потсдам Норд, Потсдам, Германия",
+    "date": "2022-03-19"
+   },
+   {
+    "id": 265660218,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265660218/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265660218/large.jpeg",
+    "attribution": "(c) Valentin Moreau, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/153787472",
+    "place": "Gemeinde Landeck, 6500 Landeck, Österreich",
+    "date": "2023-04-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 363975501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363975501/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363975501/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/205101564",
+    "place": "Obchodní centrum Hostivař, 102 00 Praha-Praha 15, Česko",
+    "date": "2024-04-02"
+   },
+   {
+    "id": 671654018,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671654018/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671654018/large.jpg",
+    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/367772512",
+    "place": "Nordrhein-Westfalen, DE",
+    "date": "2026-06-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 700795058,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700795058/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700795058/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/382922688",
+    "place": "Old Tbilisi, Tbilisi, Georgia",
+    "date": "2026-07-15"
+   },
+   {
+    "id": 516499277,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/516499277/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/516499277/large.jpg",
+    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/287258061",
+    "place": "93192 Wald, Germany",
+    "date": "2025-06-06"
+   },
+   {
+    "id": 482851677,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482851677/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482851677/large.jpg",
+    "attribution": "(c) Asrın Akıncıoğlu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/268613912",
+    "place": "Kartepe/Kocaeli, Türkiye",
+    "date": "2025-04-04"
+   }
+  ],
+  "hero": {
+   "id": 168146456,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168146456/large.jpg",
+   "attribution": "(c) Luc Viatour, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/168146456",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229493,
+  "dkTotal": 236814,
+  "dkMonths": [
+   23391,
+   17760,
+   22881,
+   26920,
+   20582,
+   12746,
+   8773,
+   11304,
+   25357,
+   30810,
+   19412,
+   16818
+  ],
+  "worldTotal": 4322250,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 672590
+   },
+   {
+    "code": "NL",
+    "count": 604169
+   },
+   {
+    "code": "SE",
+    "count": 542453
+   },
+   {
+    "code": "DE",
+    "count": 393046
+   },
+   {
+    "code": "GB",
+    "count": 378967
+   },
+   {
+    "code": "DK",
+    "count": 236814
+   },
+   {
+    "code": "ES",
+    "count": 192586
+   },
+   {
+    "code": "NO",
+    "count": 178007
+   },
+   {
+    "code": "FI",
+    "count": 156842
+   },
+   {
+    "code": "BE",
+    "count": 146834
+   },
+   {
+    "code": "PT",
+    "count": 112032
+   },
+   {
+    "code": "IT",
+    "count": 85803
+   }
+  ]
+ },
+ "warnings": []
+}

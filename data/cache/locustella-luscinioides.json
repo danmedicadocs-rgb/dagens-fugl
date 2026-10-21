@@ -1,0 +1,151 @@
+{
+ "key": "locustella-luscinioides",
+ "name": "Locustella luscinioides",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:05.868Z",
+ "names": {
+  "da": "Savisanger",
+  "en": null,
+  "accepted": "Locustella luscinioides"
+ },
+ "wikidata": {
+  "id": "Q321272"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Savisanger",
+  "extract": "Savisanger er en mindre spurvefugl, der yngler i rørskove i det meste af Europa syd for Skandinavien og i store dele af Asien og i Nordafrika. Savisanger er opkaldt efter den italienske naturvidenskabsmand Paolo Savi, der var den første til at beskrive arten videnskabeligt.",
+  "url": "https://da.wikipedia.org/wiki/Savisanger"
+ },
+ "inat": {
+  "id": 116940,
+  "observations": 3162
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 253757349,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/large.png",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147467177",
+    "place": "Lobau, Wien, Österreich",
+    "date": "2016-04-14"
+   },
+   {
+    "id": 13856951,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13856951/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13856951/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/10065337",
+    "place": "Aspern, 1220 Wien, Österreich",
+    "date": "2012-05-06"
+   },
+   {
+    "id": 387571148,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571148/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571148/large.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/218993138",
+    "place": "Illmitz, BL, Österreich",
+    "date": "2024-05-13"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 715406752,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715406752/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715406752/large.jpg",
+    "attribution": "(c) Markus Lampinen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/390490567",
+    "place": "Laajalahden luonnonsuojelualue, Espoo, Uusimaa, FI",
+    "date": "2026-08-12"
+   }
+  ],
+  "hero": {
+   "id": 253757349,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/medium.png",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/large.png",
+   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/147467177",
+   "place": "Lobau, Wien, Österreich",
+   "date": "2016-04-14"
+  }
+ },
+ "gbif": {
+  "key": 2493551,
+  "dkTotal": 4745,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   831,
+   1944,
+   1256,
+   587,
+   60,
+   5,
+   6,
+   0,
+   0
+  ],
+  "worldTotal": 184672,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 28492
+   },
+   {
+    "code": "SE",
+    "count": 25209
+   },
+   {
+    "code": "NL",
+    "count": 20121
+   },
+   {
+    "code": "FR",
+    "count": 19176
+   },
+   {
+    "code": "PL",
+    "count": 13563
+   },
+   {
+    "code": "IL",
+    "count": 12263
+   },
+   {
+    "code": "DE",
+    "count": 9978
+   },
+   {
+    "code": "PT",
+    "count": 6481
+   },
+   {
+    "code": "BE",
+    "count": 6407
+   },
+   {
+    "code": "CZ",
+    "count": 4857
+   },
+   {
+    "code": "DK",
+    "count": 4745
+   },
+   {
+    "code": "HU",
+    "count": 4313
+   }
+  ]
+ },
+ "warnings": []
+}

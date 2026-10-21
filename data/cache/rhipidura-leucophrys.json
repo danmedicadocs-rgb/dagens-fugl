@@ -1,0 +1,143 @@
+{
+ "key": "rhipidura-leucophrys",
+ "name": "Rhipidura leucophrys",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:38:51.143Z",
+ "names": {
+  "da": "Sorthvid Viftehale",
+  "en": "Willie Wagtail",
+  "accepted": "Rhipidura leucophrys"
+ },
+ "wikidata": {
+  "id": "Q642235"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Willie wagtail",
+  "extract": "The willie wagtail is a passerine bird native to Australia, New Guinea, the Solomon Islands, the Bismarck Archipelago, and Eastern Indonesia. It is a common and familiar bird throughout much of its range, living in most habitats apart from thick forest. Measuring 19–21.5 cm in length, the willie wagtail is contrastingly coloured with almost entirely black upperparts and white underparts; the male and female have similar plumage.",
+  "url": "https://en.wikipedia.org/wiki/Willie_wagtail"
+ },
+ "inat": {
+  "id": 8143,
+  "observations": 29986
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 189740096,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189740096/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189740096/large.jpeg",
+    "attribution": "(c) Cobi Calyx, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/112333798",
+    "place": "Seaford SA 5169, Australia",
+    "date": "2022-04-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 169189342,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169189342/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169189342/large.jpeg",
+    "attribution": "(c) Matt B, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101312662",
+    "place": "Smithfield QLD 4878, Australia",
+    "date": "2021-11-17"
+   },
+   {
+    "id": 2921156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/large.JPG",
+    "attribution": "(c) gsmith03, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2612319",
+    "place": "Point Malcolm, South Australia",
+    "date": "2016-01-24"
+   },
+   {
+    "id": 259481099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259481099/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259481099/large.jpeg",
+    "attribution": "(c) A.J. Anderson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/150477019",
+    "place": "Jan Hammond Reserve, Bartram Rd & Baningan Ave, Success WA 6164, Australia",
+    "date": "2023-01-12"
+   }
+  ],
+  "hero": {
+   "id": 50151413,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50151413/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50151413/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/50151413",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5231722,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1819819,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 1801354
+   },
+   {
+    "code": "PG",
+    "count": 9057
+   },
+   {
+    "code": "ID",
+    "count": 7624
+   },
+   {
+    "code": "SB",
+    "count": 1265
+   },
+   {
+    "code": "ZZ",
+    "count": 28
+   },
+   {
+    "code": "JP",
+    "count": 3
+   },
+   {
+    "code": "US",
+    "count": 2
+   },
+   {
+    "code": "MY",
+    "count": 1
+   },
+   {
+    "code": "NZ",
+    "count": 1
+   },
+   {
+    "code": "SG",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

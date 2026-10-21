@@ -1,0 +1,161 @@
+{
+ "key": "acrocephalus-scirpaceus",
+ "name": "Acrocephalus scirpaceus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:26.483Z",
+ "names": {
+  "da": "Rørsanger",
+  "en": "Eurasian Reed Warbler",
+  "accepted": "Acrocephalus scirpaceus"
+ },
+ "wikidata": {
+  "id": "Q159080"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rørsanger",
+  "extract": "Rørsanger er en lille spurvefugl, der yngler i rørskove over størstedelen af Europa samt i dele af Centralasien og Nordafrika. Arten er en almindelig ynglefugl i Danmark som overvintrer i tropisk Afrika. Af udseende ligner den meget kærsanger og andre slægtninge, og genkendes bedst på sin sang. Den lever fortrinsvis af myg og fluer.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8rsanger"
+ },
+ "inat": {
+  "id": 204455,
+  "observations": 15670
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 283322161,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322161/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322161/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163784183",
+    "place": "RSBP Leighton Moss",
+    "date": "2023-05-15"
+   },
+   {
+    "id": 514820113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820113/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820113/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286374276",
+    "place": "Statzendorf, Österreich",
+    "date": "2025-05-31"
+   },
+   {
+    "id": 16124552,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16124552/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16124552/large.jpeg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11324351",
+    "place": "Aspern, 1220 Wien, Österreich",
+    "date": "2018-04-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 237449167,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237449167/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237449167/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/138889199",
+    "place": "Eymir Gölü Yolu",
+    "date": "2022-10-11"
+   },
+   {
+    "id": 557954454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954454/large.jpg",
+    "attribution": "(c) Rex Leung, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309211243",
+    "place": "英國得文",
+    "date": "2025-08-25"
+   }
+  ],
+  "hero": {
+   "id": 283322161,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322161/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322161/large.jpeg",
+   "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/163784183",
+   "place": "RSBP Leighton Moss",
+   "date": "2023-05-15"
+  }
+ },
+ "gbif": {
+  "key": 2493118,
+  "dkTotal": 132237,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   2164,
+   49535,
+   38229,
+   24022,
+   13319,
+   4769,
+   78,
+   10,
+   3
+  ],
+  "worldTotal": 2979349,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 707280
+   },
+   {
+    "code": "SE",
+    "count": 592428
+   },
+   {
+    "code": "NL",
+    "count": 438945
+   },
+   {
+    "code": "FR",
+    "count": 221078
+   },
+   {
+    "code": "GB",
+    "count": 169588
+   },
+   {
+    "code": "LU",
+    "count": 140553
+   },
+   {
+    "code": "DK",
+    "count": 132237
+   },
+   {
+    "code": "BE",
+    "count": 96340
+   },
+   {
+    "code": "PL",
+    "count": 94800
+   },
+   {
+    "code": "FI",
+    "count": 70136
+   },
+   {
+    "code": "PT",
+    "count": 56648
+   },
+   {
+    "code": "DE",
+    "count": 50949
+   }
+  ]
+ },
+ "warnings": []
+}

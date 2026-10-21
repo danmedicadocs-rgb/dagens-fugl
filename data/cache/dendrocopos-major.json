@@ -1,0 +1,202 @@
+{
+ "key": "dendrocopos-major",
+ "name": "Dendrocopos major",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:14:16.974Z",
+ "names": {
+  "da": "Stor flagspætte",
+  "en": "Great Spotted Woodpecker",
+  "accepted": "Dendrocopos major"
+ },
+ "wikidata": {
+  "id": "Q26209"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stor flagspætte",
+  "extract": "Stor flagspætte er en spætteart, der lever i Europa, det nordlige Afrika og i store dele af Asien. Stor flagspætte er den almindeligste danske spætte.",
+  "url": "https://da.wikipedia.org/wiki/Stor_flagsp%C3%A6tte"
+ },
+ "inat": {
+  "id": 17871,
+  "observations": 156357
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 325633275,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325633275/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325633275/large.jpeg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/186345614",
+    "place": "38300 La Orotava, Santa Cruz de Tenerife, España",
+    "date": "2023-09-29"
+   },
+   {
+    "id": 351209552,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209552/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351209552/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/199177159",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-02-13"
+   },
+   {
+    "id": 610446871,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610446871/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610446871/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335973910",
+    "place": "Trappes, France",
+    "date": "2026-01-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 37761858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37761858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/37761858/large.jpg",
+    "attribution": "(c) Andy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/24421187",
+    "place": "Bansko, Bulgaria",
+    "date": "2019-05-02"
+   },
+   {
+    "id": 489010654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489010654/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489010654/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271841252",
+    "place": "Inari, Finlandia",
+    "date": "2025-04-12"
+   },
+   {
+    "id": 255641055,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255641055/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255641055/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148448102",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2022-03-25"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 28347741,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28347741/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28347741/large.jpeg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18530920",
+    "place": "Кстовский р-н, Нижегородская обл., Россия",
+    "date": "2015-06-20"
+   },
+   {
+    "id": 393795694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393795694/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393795694/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/222317227",
+    "place": "87055 San Giovanni in Fiore CS, Italia",
+    "date": "2024-06-07"
+   },
+   {
+    "id": 741502860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/741502860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/741502860/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/403823244",
+    "place": "Светлый, Оренбургская обл., Россия, 462740",
+    "date": "2026-09-27"
+   }
+  ],
+  "hero": {
+   "id": 325633275,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325633275/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325633275/large.jpeg",
+   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/186345614",
+   "place": "38300 La Orotava, Santa Cruz de Tenerife, España",
+   "date": "2023-09-29"
+  }
+ },
+ "gbif": {
+  "key": 2477968,
+  "dkTotal": 361822,
+  "dkMonths": [
+   36511,
+   34826,
+   48071,
+   44294,
+   34775,
+   29284,
+   19504,
+   22582,
+   23148,
+   25817,
+   21594,
+   21349
+  ],
+  "worldTotal": 5399688,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 1075941
+   },
+   {
+    "code": "NL",
+    "count": 784418
+   },
+   {
+    "code": "FR",
+    "count": 556561
+   },
+   {
+    "code": "DE",
+    "count": 489271
+   },
+   {
+    "code": "GB",
+    "count": 445301
+   },
+   {
+    "code": "DK",
+    "count": 361822
+   },
+   {
+    "code": "NO",
+    "count": 332049
+   },
+   {
+    "code": "FI",
+    "count": 269960
+   },
+   {
+    "code": "ES",
+    "count": 193658
+   },
+   {
+    "code": "BE",
+    "count": 189147
+   },
+   {
+    "code": "RU",
+    "count": 116428
+   },
+   {
+    "code": "CZ",
+    "count": 80418
+   }
+  ]
+ },
+ "warnings": []
+}

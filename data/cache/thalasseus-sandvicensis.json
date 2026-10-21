@@ -1,0 +1,151 @@
+{
+ "key": "thalasseus-sandvicensis",
+ "name": "Thalasseus sandvicensis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:23.181Z",
+ "names": {
+  "da": "Splitterne",
+  "en": "Sandwich Tern",
+  "accepted": "Thalasseus sandvicensis"
+ },
+ "wikidata": {
+  "id": "Q27547"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Splitterne",
+  "extract": "Splitternen er en fugleart, der yngler visse steder langs kysterne af Europa og det vestlige Asien. Splitternen er en stor terne, der blandt andet kendes på sit sorte næb med gul spids og den sorte nakketop. Det videnskabelige artsnavn sandvicensis er givet af den engelske ornitolog John Latham efter byen Sandwich ved østkysten af Kent i det sydøstlige England.",
+  "url": "https://da.wikipedia.org/wiki/Splitterne"
+ },
+ "inat": {
+  "id": 144541,
+  "observations": 27203
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 58130853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58130853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58130853/large.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/36743271",
+    "place": "Provincia de Panamá, PA",
+    "date": "2019-12-17"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 412452255,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412452255/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412452255/large.jpeg",
+    "attribution": "(c) JD Flores, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/232175586",
+    "place": "Carteret County, US-NC, US",
+    "date": "2024-07-27"
+   },
+   {
+    "id": 243170444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243170444/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243170444/large.jpeg",
+    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141892520",
+    "place": "Bollarney Murragh, Co. Wicklow, Ireland",
+    "date": "2022-07-25"
+   },
+   {
+    "id": 243170356,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243170356/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243170356/large.jpeg",
+    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141892514",
+    "place": "Bollarney Murragh, Co. Wicklow, Ireland",
+    "date": "2022-07-25"
+   }
+  ],
+  "hero": {
+   "id": 58130853,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58130853/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58130853/large.jpg",
+   "attribution": "(c) Aitor, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/36743271",
+   "place": "Provincia de Panamá, PA",
+   "date": "2019-12-17"
+  }
+ },
+ "gbif": {
+  "key": 2481240,
+  "dkTotal": 170511,
+  "dkMonths": [
+   54,
+   49,
+   4939,
+   22517,
+   23693,
+   27708,
+   27655,
+   30842,
+   26095,
+   6630,
+   226,
+   24
+  ],
+  "worldTotal": 1290701,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 289386
+   },
+   {
+    "code": "DK",
+    "count": 170511
+   },
+   {
+    "code": "SE",
+    "count": 150605
+   },
+   {
+    "code": "ES",
+    "count": 105071
+   },
+   {
+    "code": "GB",
+    "count": 102671
+   },
+   {
+    "code": "NL",
+    "count": 81345
+   },
+   {
+    "code": "FR",
+    "count": 68298
+   },
+   {
+    "code": "PT",
+    "count": 43234
+   },
+   {
+    "code": "ZA",
+    "count": 27475
+   },
+   {
+    "code": "MX",
+    "count": 21925
+   },
+   {
+    "code": "DE",
+    "count": 17637
+   },
+   {
+    "code": "BE",
+    "count": 14883
+   }
+  ]
+ },
+ "warnings": []
+}

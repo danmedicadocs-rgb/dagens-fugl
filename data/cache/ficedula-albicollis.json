@@ -1,0 +1,192 @@
+{
+ "key": "ficedula-albicollis",
+ "name": "Ficedula albicollis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:21:39.775Z",
+ "names": {
+  "da": "Hvidhalset fluesnapper",
+  "en": "Collared Flycatcher",
+  "accepted": "Ficedula albicollis"
+ },
+ "wikidata": {
+  "id": "Q690826"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidhalset fluesnapper",
+  "extract": "Hvidhalset fluesnapper er en fluesnapper, der har sin hovedudbredelse i det sydøstlige Europa, det vestlige Rusland indtil floden Volga samt dele af Mellemøsten. Desuden yngler en mindre bestand i Sverige på øerne Gotland og Øland. Den foretrækker løvskove eller frodige haver og parker.",
+  "url": "https://da.wikipedia.org/wiki/Hvidhalset_fluesnapper"
+ },
+ "inat": {
+  "id": 13133,
+  "observations": 4599
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 121159924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/large.jpeg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/74153011",
+    "place": "Djebel El Ouahch, Constantine, Algérie",
+    "date": "2021-04-16"
+   },
+   {
+    "id": 187914215,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187914215/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187914215/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/111322191",
+    "place": "Via Etnea, 260, 95100 Catania CT, Italia",
+    "date": "2022-04-13"
+   },
+   {
+    "id": 384885155,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384885155/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384885155/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/217557160",
+    "place": "San Giovanni",
+    "date": "2024-05-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 641867980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/641867980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/641867980/large.jpg",
+    "attribution": "(c) Mykola Borysenko, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/351711260",
+    "place": "Канівський район, Черкаська область, Україна",
+    "date": "2026-04-21"
+   },
+   {
+    "id": 646665559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/646665559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/646665559/large.jpg",
+    "attribution": "(c) Mykola Borysenko, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/354490195",
+    "place": "Канівський район, Черкаська область, Україна",
+    "date": "2026-04-26"
+   },
+   {
+    "id": 508715385,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508715385/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508715385/large.jpg",
+    "attribution": "(c) Andrey Polstianoi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/283125975",
+    "place": "Померки, Харьков, Харьковская область, Украина, 61000",
+    "date": "2025-05-22"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 168208298,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168208298/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168208298/large.jpg",
+    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/100764732",
+    "place": "Советский р-н, Казань, Респ. Татарстан, Россия",
+    "date": "2015-07-26"
+   },
+   {
+    "id": 680458997,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680458997/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680458997/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/372384085",
+    "place": "Parco nazionale della Sila",
+    "date": "2026-06-14"
+   }
+  ],
+  "hero": {
+   "id": 121159924,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/large.jpeg",
+   "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/74153011",
+   "place": "Djebel El Ouahch, Constantine, Algérie",
+   "date": "2021-04-16"
+  }
+ },
+ "gbif": {
+  "key": 2492601,
+  "dkTotal": 628,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   106,
+   473,
+   28,
+   0,
+   5,
+   13,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 203881,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 147991
+   },
+   {
+    "code": "PL",
+    "count": 6842
+   },
+   {
+    "code": "UA",
+    "count": 6199
+   },
+   {
+    "code": "CZ",
+    "count": 4619
+   },
+   {
+    "code": "IL",
+    "count": 4100
+   },
+   {
+    "code": "FR",
+    "count": 3662
+   },
+   {
+    "code": "TR",
+    "count": 3407
+   },
+   {
+    "code": "GR",
+    "count": 3174
+   },
+   {
+    "code": "DE",
+    "count": 3145
+   },
+   {
+    "code": "RU",
+    "count": 2750
+   },
+   {
+    "code": "HU",
+    "count": 2229
+   },
+   {
+    "code": "AT",
+    "count": 1641
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,141 @@
+{
+ "key": "colius-striatus",
+ "name": "Colius striatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:27.422Z",
+ "names": {
+  "da": "Brun Musefugl",
+  "en": "Speckled Mousebird",
+  "accepted": "Colius striatus"
+ },
+ "wikidata": {
+  "id": "Q875885"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Speckled mousebird",
+  "extract": "The speckled mousebird is the largest species of mousebird, as well as one of the most common. It is found throughout most of Central, Eastern and Southern Africa.",
+  "url": "https://en.wikipedia.org/wiki/Speckled_mousebird"
+ },
+ "inat": {
+  "id": 3704,
+  "observations": 8600
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 593618434,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/large.jpg",
+    "attribution": "(c) Nicole Kearney, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327643359",
+    "place": "Arusha, Arusha Urban, TZ",
+    "date": "2025-11-22"
+   },
+   {
+    "id": 181535507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181535507/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181535507/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107884788",
+    "place": "Keurboomstrand, South Africa",
+    "date": "2022-03-04"
+   },
+   {
+    "id": 159574405,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159574405/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159574405/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/96079714",
+    "place": "Riversdale, 6670, South Africa",
+    "date": "2021-09-23"
+   }
+  ],
+  "hero": {
+   "id": 593618434,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/large.jpg",
+   "attribution": "(c) Nicole Kearney, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/327643359",
+   "place": "Arusha, Arusha Urban, TZ",
+   "date": "2025-11-22"
+  }
+ },
+ "gbif": {
+  "key": 5229467,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "worldTotal": 423091,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 289681
+   },
+   {
+    "code": "KE",
+    "count": 53091
+   },
+   {
+    "code": "UG",
+    "count": 23548
+   },
+   {
+    "code": "TZ",
+    "count": 18952
+   },
+   {
+    "code": "ET",
+    "count": 7391
+   },
+   {
+    "code": "RW",
+    "count": 6751
+   },
+   {
+    "code": "ZW",
+    "count": 4786
+   },
+   {
+    "code": "NG",
+    "count": 3723
+   },
+   {
+    "code": "SZ",
+    "count": 3527
+   },
+   {
+    "code": "MZ",
+    "count": 2690
+   },
+   {
+    "code": "CD",
+    "count": 2329
+   },
+   {
+    "code": "MW",
+    "count": 1640
+   }
+  ]
+ },
+ "warnings": []
+}

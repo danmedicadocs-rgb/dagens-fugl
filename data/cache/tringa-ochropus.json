@@ -1,0 +1,152 @@
+{
+ "key": "tringa-ochropus",
+ "name": "Tringa ochropus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:07:36.320Z",
+ "names": {
+  "da": "Svaleklire",
+  "en": "Green Sandpiper",
+  "accepted": "Tringa ochropus"
+ },
+ "wikidata": {
+  "id": "Q28450"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Svaleklire",
+  "extract": "Svaleklire er en sjælden yngletrækfugl i Danmark, men ret almindelig som trækgæst fra Fennoskandinavien. Svalekliren kan i flugten minde om en bysvale pga. sin hvide overgump. Den overvinter i tropisk Vestafrika eller i det sydvestlige Europa.",
+  "url": "https://da.wikipedia.org/wiki/Svaleklire"
+ },
+ "inat": {
+  "id": 3885,
+  "observations": 29279
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 556519190,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556519190/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556519190/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/308473713",
+    "place": "Grimsargh, Preston PR2, UK",
+    "date": "2025-08-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 216434479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/large.jpeg",
+    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/127483136",
+    "place": "Сосницький район, Чернігівська область, Україна",
+    "date": "2021-04-04"
+   },
+   {
+    "id": 370690344,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370690344/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370690344/large.jpeg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/209476440",
+    "place": "Аргаяшский р-н, Челябинская обл., Россия",
+    "date": "2024-04-26"
+   },
+   {
+    "id": 366800488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366800488/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366800488/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/207371893",
+    "place": "Karpinsk gorsovet, Sverdlovsk, Russia",
+    "date": "2024-04-15"
+   }
+  ],
+  "hero": {
+   "id": 216434479,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/large.jpeg",
+   "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/127483136",
+   "place": "Сосницький район, Чернігівська область, Україна",
+   "date": "2021-04-04"
+  }
+ },
+ "gbif": {
+  "key": 2481728,
+  "dkTotal": 100354,
+  "dkMonths": [
+   768,
+   552,
+   2393,
+   24225,
+   4941,
+   13680,
+   24742,
+   23812,
+   3586,
+   603,
+   447,
+   476
+  ],
+  "worldTotal": 1684994,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 391619
+   },
+   {
+    "code": "ES",
+    "count": 151620
+   },
+   {
+    "code": "NL",
+    "count": 142621
+   },
+   {
+    "code": "IN",
+    "count": 138185
+   },
+   {
+    "code": "FR",
+    "count": 123978
+   },
+   {
+    "code": "GB",
+    "count": 106952
+   },
+   {
+    "code": "DK",
+    "count": 100354
+   },
+   {
+    "code": "BE",
+    "count": 84303
+   },
+   {
+    "code": "NO",
+    "count": 68358
+   },
+   {
+    "code": "PT",
+    "count": 40363
+   },
+   {
+    "code": "DE",
+    "count": 34657
+   },
+   {
+    "code": "IL",
+    "count": 33546
+   }
+  ]
+ },
+ "warnings": []
+}

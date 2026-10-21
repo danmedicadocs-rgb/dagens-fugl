@@ -1,0 +1,162 @@
+{
+ "key": "halcyon-smyrnensis",
+ "name": "Halcyon smyrnensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:34:12.278Z",
+ "names": {
+  "da": "Smyrnaisfugl",
+  "en": "White-throated Kingfisher",
+  "accepted": "Halcyon smyrnensis"
+ },
+ "wikidata": {
+  "id": "Q735158"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "White-throated kingfisher",
+  "extract": "The white-throated kingfisher also known as the white-breasted kingfisher is a tree kingfisher, widely distributed in Asia from the Sinai east through the Indian subcontinent to China and Indonesia. This kingfisher is a resident over much of its range, although some populations may make short distance movements. It can often be found well away from water where it feeds on a wide range of prey that includes small reptiles, amphibians, crabs, small rodents and even birds. During the breeding season they call loudly in the mornings from prominent perches including the tops of buildings in urban areas or on wires.",
+  "url": "https://en.wikipedia.org/wiki/White-throated_kingfisher"
+ },
+ "inat": {
+  "id": 204519,
+  "observations": 27360
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 469853049,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853049/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853049/large.jpg",
+    "attribution": "(c) Boson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261522343",
+    "place": "Industrial Estate, Sankurupeta, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh, India",
+    "date": "2024-08-19"
+   },
+   {
+    "id": 330268558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330268558/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330268558/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/188660512",
+    "place": "H6Q5+R9J, Salbari, West Bengal 734426, India",
+    "date": "2023-10-22"
+   },
+   {
+    "id": 460058727,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460058727/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460058727/large.jpeg",
+    "attribution": "(c) pelijan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256573848",
+    "place": "XM58+P54, Polgahamulla, Sri Lanka",
+    "date": "2024-12-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 442218866,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442218866/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442218866/large.png",
+    "attribution": "(c) James Hunt, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/247583856",
+    "place": "Tân Phú, VN-DN, VN",
+    "date": "2022-12-26"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 157520657,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157520657/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157520657/large.jpeg",
+    "attribution": "(c) Vihansith Kulatunga, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/94923298",
+    "place": "Sri Lanka",
+    "date": "2021-09-15"
+   }
+  ],
+  "hero": {
+   "id": 469853049,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853049/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469853049/large.jpg",
+   "attribution": "(c) Boson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/261522343",
+   "place": "Industrial Estate, Sankurupeta, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh, India",
+   "date": "2024-08-19"
+  }
+ },
+ "gbif": {
+  "key": 5228328,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1365772,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 1027446
+   },
+   {
+    "code": "IL",
+    "count": 81641
+   },
+   {
+    "code": "TH",
+    "count": 53581
+   },
+   {
+    "code": "LK",
+    "count": 50288
+   },
+   {
+    "code": "SG",
+    "count": 23621
+   },
+   {
+    "code": "MY",
+    "count": 22754
+   },
+   {
+    "code": "NP",
+    "count": 21621
+   },
+   {
+    "code": "TW",
+    "count": 14825
+   },
+   {
+    "code": "HK",
+    "count": 12629
+   },
+   {
+    "code": "BD",
+    "count": 11057
+   },
+   {
+    "code": "CN",
+    "count": 6657
+   },
+   {
+    "code": "VN",
+    "count": 6642
+   }
+  ]
+ },
+ "warnings": []
+}

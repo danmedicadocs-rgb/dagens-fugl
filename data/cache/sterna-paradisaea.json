@@ -1,0 +1,172 @@
+{
+ "key": "sterna-paradisaea",
+ "name": "Sterna paradisaea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:43.786Z",
+ "names": {
+  "da": "Havterne",
+  "en": "Arctic Tern",
+  "accepted": "Sterna paradisaea"
+ },
+ "wikidata": {
+  "id": "Q26800"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Havterne",
+  "extract": "Havternen er en fugl, der er udbredt cirkumpolart på den nordlige halvkugle, fra Grønland i nord til Danmark og Nordtyskland i syd. Arten er kendt for sit lange træk fra ynglepladsen i nord til vinterkvarteret, der ligger på den sydlige halvkugle, ofte så langt væk som Antarktis. I Danmark er havternen en almindelig ynglefugl. Ynglebestanden er vurderet som sårbar på den danske rødliste.",
+  "url": "https://da.wikipedia.org/wiki/Havterne"
+ },
+ "inat": {
+  "id": 4449,
+  "observations": 11996
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 107581880,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107581880/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107581880/large.jpeg",
+    "attribution": "(c) bigayon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66698491",
+    "place": "59760 Grande-Synthe, France",
+    "date": "2019-11-01"
+   },
+   {
+    "id": 149439362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149439362/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149439362/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/90421518",
+    "place": "Rif, Islande",
+    "date": "2021-07-24"
+   },
+   {
+    "id": 23287545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23287545/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23287545/large.jpeg",
+    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/15569616",
+    "place": "Westfjords Region, Iceland",
+    "date": "2018-08-08"
+   }
+  ],
+  "adult": [
+   {
+    "id": 417731161,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/large.jpeg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/234932679",
+    "place": "W7RW+QP, Azhikode North, Kerala, India",
+    "date": "2024-07-17"
+   },
+   {
+    "id": 417449065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417449065/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417449065/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/234785325",
+    "place": "Petersburg Borough, AK, USA",
+    "date": "2024-08-09"
+   },
+   {
+    "id": 164292729,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164292729/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164292729/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/98658677",
+    "place": "Cemlyn Bay NWWT, Isle of Anglesey, UK",
+    "date": "2021-07-11"
+   }
+  ],
+  "hero": {
+   "id": 417731161,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/large.jpeg",
+   "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/234932679",
+   "place": "W7RW+QP, Azhikode North, Kerala, India",
+   "date": "2024-07-17"
+  }
+ },
+ "gbif": {
+  "key": 5229230,
+  "dkTotal": 79616,
+  "dkMonths": [
+   21,
+   3,
+   50,
+   10728,
+   19468,
+   12986,
+   21327,
+   11165,
+   2828,
+   485,
+   173,
+   8
+  ],
+  "worldTotal": 840279,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 217920
+   },
+   {
+    "code": "US",
+    "count": 153549
+   },
+   {
+    "code": "FI",
+    "count": 128666
+   },
+   {
+    "code": "DK",
+    "count": 79616
+   },
+   {
+    "code": "NO",
+    "count": 55819
+   },
+   {
+    "code": "IS",
+    "count": 48611
+   },
+   {
+    "code": "GB",
+    "count": 46049
+   },
+   {
+    "code": "CA",
+    "count": 38634
+   },
+   {
+    "code": "SJ",
+    "count": 11729
+   },
+   {
+    "code": "EE",
+    "count": 10259
+   },
+   {
+    "code": "NL",
+    "count": 7282
+   },
+   {
+    "code": "DE",
+    "count": 6391
+   }
+  ]
+ },
+ "warnings": []
+}

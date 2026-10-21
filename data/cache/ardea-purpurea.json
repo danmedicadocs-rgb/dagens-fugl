@@ -1,0 +1,172 @@
+{
+ "key": "ardea-purpurea",
+ "name": "Ardea purpurea",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:00:46.894Z",
+ "names": {
+  "da": "Purpurhejre",
+  "en": "Purple Heron",
+  "accepted": "Ardea purpurea"
+ },
+ "wikidata": {
+  "id": "Q160488"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Purpurhejre",
+  "extract": "Purpurhejren er en hejre, som af og til dukker op i Danmark. Den er lidt mindre end fiskehejren som den ofte forveksles med. Dens fjerdragt er i grå og rødbrune farver. Purpurhejren lever af fisk, padder, småpattedyr og insekter.",
+  "url": "https://da.wikipedia.org/wiki/Purpurhejre"
+ },
+ "inat": {
+  "id": 4951,
+  "observations": 28852
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 356294484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356294484/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356294484/large.jpg",
+    "attribution": "(c) Dave Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/201803867",
+    "place": "Stellenbosch Rural, Stellenbosch, WC, ZA",
+    "date": "2024-03-09"
+   },
+   {
+    "id": 555234060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555234060/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555234060/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/307800055",
+    "place": "Sila Grande",
+    "date": "2025-08-18"
+   },
+   {
+    "id": 642274369,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/642274369/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/642274369/large.jpg",
+    "attribution": "(c) Navaneeth Sini George, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/351919933",
+    "place": "likkalam, Kumarakom, Kerala 686563, India",
+    "date": "2025-09-03"
+   }
+  ],
+  "adult": [
+   {
+    "id": 63646830,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63646830/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63646830/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40073818",
+    "place": "Pegu, Bago, Myanmar",
+    "date": "2016-02-27"
+   },
+   {
+    "id": 415838224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415838224/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415838224/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/233952270",
+    "place": "Apaj, 2345 Ungarn",
+    "date": "2024-07-22"
+   },
+   {
+    "id": 141842388,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141842388/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141842388/large.jpg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/86132471",
+    "place": "Szatymaz, 6763 Hungary",
+    "date": "2021-06-28"
+   }
+  ],
+  "hero": {
+   "id": 63646830,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63646830/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63646830/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/40073818",
+   "place": "Pegu, Bago, Myanmar",
+   "date": "2016-02-27"
+  }
+ },
+ "gbif": {
+  "key": 2480934,
+  "dkTotal": 183,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   4,
+   30,
+   72,
+   0,
+   3,
+   0,
+   70,
+   2,
+   0
+  ],
+  "worldTotal": 864324,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 289837
+   },
+   {
+    "code": "ES",
+    "count": 84557
+   },
+   {
+    "code": "NL",
+    "count": 72502
+   },
+   {
+    "code": "FR",
+    "count": 69097
+   },
+   {
+    "code": "ZA",
+    "count": 60089
+   },
+   {
+    "code": "PT",
+    "count": 20167
+   },
+   {
+    "code": "TH",
+    "count": 19638
+   },
+   {
+    "code": "IL",
+    "count": 19183
+   },
+   {
+    "code": "LK",
+    "count": 18476
+   },
+   {
+    "code": "TW",
+    "count": 18124
+   },
+   {
+    "code": "MY",
+    "count": 15597
+   },
+   {
+    "code": "TR",
+    "count": 10466
+   }
+  ]
+ },
+ "warnings": []
+}

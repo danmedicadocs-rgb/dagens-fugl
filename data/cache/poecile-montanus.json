@@ -1,0 +1,131 @@
+{
+ "key": "poecile-montanus",
+ "name": "Poecile montanus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:16:33.695Z",
+ "names": {
+  "da": "Fyrremejse",
+  "en": "Willow Tit",
+  "accepted": "Poecile montanus"
+ },
+ "wikidata": {
+  "id": "Q215211"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Fyrremejse",
+  "extract": "Fyrremejse er en 11,5 centimeter stor spurvefugl, der yngler i skove i et bælte gennem Europa og Asien. I Danmark er arten indvandret i 1980'erne fra Tyskland og breder sig mod nord i Jylland. Den ligner sumpmejsen og kendes bedst på stemmen.",
+  "url": "https://da.wikipedia.org/wiki/Fyrremejse"
+ },
+ "inat": {
+  "id": 144812,
+  "observations": 35218
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 262086168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086168/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086168/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/151861370",
+    "place": "Томск, Томская обл., Россия",
+    "date": "2023-03-17"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 206990355,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206990355/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/206990355/large.jpeg",
+    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/122263975",
+    "place": "Камчатський край, Росія, 684309",
+    "date": "2022-06-14"
+   }
+  ],
+  "hero": {
+   "id": 262086168,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086168/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086168/large.jpg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/151861370",
+   "place": "Томск, Томская обл., Россия",
+   "date": "2023-03-17"
+  }
+ },
+ "gbif": {
+  "key": 2487866,
+  "dkTotal": 8760,
+  "dkMonths": [
+   651,
+   773,
+   1251,
+   1678,
+   715,
+   316,
+   356,
+   505,
+   565,
+   1193,
+   451,
+   304
+  ],
+  "worldTotal": 1327957,
+  "topCountries": [
+   {
+    "code": "FI",
+    "count": 392184
+   },
+   {
+    "code": "SE",
+    "count": 374640
+   },
+   {
+    "code": "NO",
+    "count": 241614
+   },
+   {
+    "code": "DE",
+    "count": 55346
+   },
+   {
+    "code": "RU",
+    "count": 52313
+   },
+   {
+    "code": "GB",
+    "count": 43398
+   },
+   {
+    "code": "FR",
+    "count": 39724
+   },
+   {
+    "code": "BE",
+    "count": 32625
+   },
+   {
+    "code": "PL",
+    "count": 14986
+   },
+   {
+    "code": "NL",
+    "count": 13307
+   },
+   {
+    "code": "EE",
+    "count": 9756
+   },
+   {
+    "code": "DK",
+    "count": 8760
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,152 @@
+{
+ "key": "anser-fabalis",
+ "name": "Anser fabalis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:54:47.502Z",
+ "names": {
+  "da": "Sædgås",
+  "en": "Taiga bean goose",
+  "accepted": "Anser fabalis"
+ },
+ "wikidata": {
+  "id": "Q26452"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sædgås",
+  "extract": "Sædgåsen er en fugl i familien af egentlige andefugle. Den har en længde på 66-88 cm og et vingefang på 147-175 cm. Den kan leve i op til 10 år. Benene er orange ligesom næbbet, der desuden har sorte tegninger. Den lever i skovmoser i Skandinavien og i tajgaen i det nordlige Rusland og Sibirien. Sædgåsen er som andre gæs planteæder og har fået sit navn, fordi den delvis lever af korn på dyrkede marker.",
+  "url": "https://da.wikipedia.org/wiki/S%C3%A6dg%C3%A5s"
+ },
+ "inat": {
+  "id": 7009,
+  "observations": 4734
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 54786766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54786766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54786766/large.jpg",
+    "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/34784372",
+    "place": "Рощино, Ленинградская обл., Россия, 188820",
+    "date": "2019-10-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 336265665,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/large.jpg",
+    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/191651859",
+    "place": "Черга, Респ. Алтай, Россия, 649219",
+    "date": "2023-11-07"
+   },
+   {
+    "id": 188957237,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188957237/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188957237/large.jpg",
+    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/111899195",
+    "place": "Вахитовский р-н, Казань, Респ. Татарстан, Россия",
+    "date": "2022-04-18"
+   },
+   {
+    "id": 345491699,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345491699/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345491699/large.jpg",
+    "attribution": "(c) Полина Полежанкина, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196264628",
+    "place": "Уфа, Респ. Башкортостан, Россия",
+    "date": "2024-01-08"
+   }
+  ],
+  "hero": {
+   "id": 336265665,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/large.jpg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/191651859",
+   "place": "Черга, Респ. Алтай, Россия, 649219",
+   "date": "2023-11-07"
+  }
+ },
+ "gbif": {
+  "key": 2498027,
+  "dkTotal": 14200,
+  "dkMonths": [
+   5010,
+   3421,
+   1346,
+   278,
+   35,
+   10,
+   11,
+   7,
+   86,
+   656,
+   1178,
+   2144
+  ],
+  "worldTotal": 149030,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 45605
+   },
+   {
+    "code": "RU",
+    "count": 17815
+   },
+   {
+    "code": "NO",
+    "count": 17190
+   },
+   {
+    "code": "DK",
+    "count": 14200
+   },
+   {
+    "code": "EE",
+    "count": 10096
+   },
+   {
+    "code": "FI",
+    "count": 9166
+   },
+   {
+    "code": "KR",
+    "count": 7991
+   },
+   {
+    "code": "DE",
+    "count": 6118
+   },
+   {
+    "code": "CN",
+    "count": 3833
+   },
+   {
+    "code": "JP",
+    "count": 2539
+   },
+   {
+    "code": "TW",
+    "count": 2321
+   },
+   {
+    "code": "FR",
+    "count": 2262
+   }
+  ]
+ },
+ "warnings": []
+}

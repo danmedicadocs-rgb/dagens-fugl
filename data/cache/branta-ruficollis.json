@@ -1,0 +1,141 @@
+{
+ "key": "branta-ruficollis",
+ "name": "Branta ruficollis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:55:36.449Z",
+ "names": {
+  "da": "Rødhalset gås",
+  "en": "Red-breasted Goose",
+  "accepted": "Branta ruficollis"
+ },
+ "wikidata": {
+  "id": "Q187852"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rødhalset gås",
+  "extract": "Rødhalset gås er en fugleart blandt de egentlige andefugle. Den yngler på tundraen øst for Uralbjergene i det nordlige Sibirien. Det er en trækfugl, der fortrinsvis overvintrer omkring Sortehavet, især i Rumænien og Bulgarien. Rødhalset gås er en lille gås med et vingefang på 110-125 cm. Dens længde er 54-60 cm. Den kan leve helt op til 15 år.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8dhalset_g%C3%A5s"
+ },
+ "inat": {
+  "id": 7102,
+  "observations": 2496
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 613798488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613798488/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613798488/large.jpg",
+    "attribution": "(c) Jay Brasher, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337621357",
+    "place": "Tennessee, US",
+    "date": "2026-02-06"
+   },
+   {
+    "id": 347915749,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347915749/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347915749/large.jpg",
+    "attribution": "(c) Полина Полежанкина, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197523161",
+    "place": "Khaybullinskiy rayon, RU-BK, RU",
+    "date": "2023-05-01"
+   },
+   {
+    "id": 198668581,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198668581/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198668581/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/117624387",
+    "place": null,
+    "date": "2022-05-16"
+   }
+  ],
+  "hero": {
+   "id": 94321119,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94321119/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94321119/large.jpg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/94321119",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5232451,
+  "dkTotal": 3821,
+  "dkMonths": [
+   328,
+   585,
+   705,
+   656,
+   281,
+   46,
+   89,
+   70,
+   48,
+   514,
+   254,
+   244
+  ],
+  "worldTotal": 76737,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 38129
+   },
+   {
+    "code": "SE",
+    "count": 17009
+   },
+   {
+    "code": "DK",
+    "count": 3821
+   },
+   {
+    "code": "GB",
+    "count": 2969
+   },
+   {
+    "code": "BE",
+    "count": 2781
+   },
+   {
+    "code": "DE",
+    "count": 1474
+   },
+   {
+    "code": "RU",
+    "count": 1303
+   },
+   {
+    "code": "BG",
+    "count": 1033
+   },
+   {
+    "code": "NO",
+    "count": 1018
+   },
+   {
+    "code": "HU",
+    "count": 852
+   },
+   {
+    "code": "EE",
+    "count": 717
+   },
+   {
+    "code": "RO",
+    "count": 702
+   }
+  ]
+ },
+ "warnings": []
+}

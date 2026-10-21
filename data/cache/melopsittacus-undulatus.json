@@ -1,0 +1,202 @@
+{
+ "key": "melopsittacus-undulatus",
+ "name": "Melopsittacus undulatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:37:51.276Z",
+ "names": {
+  "da": "Undulat",
+  "en": "Budgerigar",
+  "accepted": "Melopsittacus undulatus"
+ },
+ "wikidata": {
+  "id": "Q121221"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Undulat",
+  "extract": "Undulaten er en lille papegøje, der stammer fra Australien. Arten er den eneste i slægten Melopsittacus. Der findes den lille australske undulat, og den store engelske undulat, som er opdrættet mhp. udstilling.",
+  "url": "https://da.wikipedia.org/wiki/Undulat"
+ },
+ "inat": {
+  "id": 19339,
+  "observations": 12146
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 620019613,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/large.jpg",
+    "attribution": "(c) Lawrence Hylton, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340687411",
+    "place": "Petermann-Simpson, AU-NT, AU",
+    "date": "2026-02-27"
+   },
+   {
+    "id": 288979806,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288979806/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288979806/large.jpg",
+    "attribution": "(c) Rajan Rao, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/166860254",
+    "place": "McLaren Park, San Francisco, CA, USA",
+    "date": "2020-08-12"
+   },
+   {
+    "id": 27933207,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27933207/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27933207/large.jpg",
+    "attribution": "(c) Toby Rowland, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18284018",
+    "place": "Tiergarten, Berlin, Berlin, DE",
+    "date": "2018-08-27"
+   }
+  ],
+  "female": [
+   {
+    "id": 109709139,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109709139/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109709139/large.jpg",
+    "attribution": "(c) dhfischer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67840012",
+    "place": "Mutawintji National Park, NSW",
+    "date": "2021-01-03"
+   },
+   {
+    "id": 363535732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363535732/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363535732/large.jpeg",
+    "attribution": "(c) Carlos Martínez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/205587670",
+    "place": "Centro, San Pedro Tlaquepaque, Jal., México",
+    "date": "2024-04-05"
+   },
+   {
+    "id": 117479480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117479480/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117479480/large.jpg",
+    "attribution": "(c) Mohammad Amin Ghaffari, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72090642",
+    "place": "شهرک والفجر، منطقه ۵، تهران، استان تهران، ایران",
+    "date": "2015-09-10"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 79026852,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79026852/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79026852/large.jpeg",
+    "attribution": "(c) Oscar Alejandro Morales Juárez, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/49777203",
+    "place": "Zona Centro, 38600 Acámbaro, Gto., México",
+    "date": "2020-06-15"
+   },
+   {
+    "id": 474292523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474292523/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474292523/large.jpeg",
+    "attribution": "(c) Ole N., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/263962290",
+    "place": "31275 Lehrte, Deutschland",
+    "date": "2019-07-10"
+   },
+   {
+    "id": 149917359,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149917359/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149917359/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/90695740",
+    "place": "Pantanos de Villa, Chorrillos, Perú",
+    "date": "2021-08-07"
+   }
+  ],
+  "hero": {
+   "id": 620019613,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/large.jpg",
+   "attribution": "(c) Lawrence Hylton, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/340687411",
+   "place": "Petermann-Simpson, AU-NT, AU",
+   "date": "2026-02-27"
+  }
+ },
+ "gbif": {
+  "key": 2479798,
+  "dkTotal": 402,
+  "dkMonths": [
+   9,
+   11,
+   14,
+   21,
+   21,
+   41,
+   73,
+   83,
+   52,
+   50,
+   9,
+   4
+  ],
+  "worldTotal": 117163,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 103769
+   },
+   {
+    "code": "US",
+    "count": 5527
+   },
+   {
+    "code": "BE",
+    "count": 775
+   },
+   {
+    "code": "TW",
+    "count": 525
+   },
+   {
+    "code": "CA",
+    "count": 469
+   },
+   {
+    "code": "FR",
+    "count": 414
+   },
+   {
+    "code": "DK",
+    "count": 402
+   },
+   {
+    "code": "NL",
+    "count": 371
+   },
+   {
+    "code": "ES",
+    "count": 352
+   },
+   {
+    "code": "DE",
+    "count": 320
+   },
+   {
+    "code": "MX",
+    "count": 310
+   },
+   {
+    "code": "PT",
+    "count": 278
+   }
+  ]
+ },
+ "warnings": []
+}

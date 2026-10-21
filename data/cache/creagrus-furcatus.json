@@ -1,0 +1,172 @@
+{
+ "key": "creagrus-furcatus",
+ "name": "Creagrus furcatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:54:15.181Z",
+ "names": {
+  "da": "Svalehalemåge",
+  "en": "Swallow-tailed Gull",
+  "accepted": "Creagrus furcatus"
+ },
+ "wikidata": {
+  "id": "Q1052818"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Swallow-tailed gull",
+  "extract": "The swallow-tailed gull is an equatorial seabird in the gull family, Laridae. It is the only species in the genus Creagrus, which derives from the Latin Creagra and the Greek kreourgos which means butcher, also from kreas, meat; according to Jobling it would mean \"hook for meat\" referring to the hooked bill of this species. It was first described by French naturalist and surgeon Adolphe-Simon Neboux in 1846. Its scientific name is originally derived from the Greek word for gull, \"Glaros\" and via Latin Larus, \"gull\" and furca \"two-tined fork\". It spends most of its life flying and hunting over the open ocean. The main breeding location is in the Galápagos Islands, particularly the rocky shores and cliffs of Hood, Tower and Wolf Islands, with lower numbers on most of the other islands. It is more common on the eastern islands where the water is warmer.",
+  "url": "https://en.wikipedia.org/wiki/Swallow-tailed_gull"
+ },
+ "inat": {
+  "id": 4564,
+  "observations": 2893
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 340955563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340955563/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340955563/large.jpeg",
+    "attribution": "(c) Amber M. King, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/194031664",
+    "place": "Santa Cruz, Ecuador",
+    "date": "2023-12-13"
+   },
+   {
+    "id": 249100692,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249100692/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249100692/large.jpg",
+    "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145056384",
+    "place": "Galápagos Islands, Ecuador",
+    "date": "2008-12-24"
+   },
+   {
+    "id": 287738560,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287738560/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287738560/large.jpeg",
+    "attribution": "(c) Tyler Vogel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/166174695",
+    "place": "Bellavista, Ecuador",
+    "date": "2023-06-07"
+   }
+  ],
+  "adult": [
+   {
+    "id": 29412731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/19155796",
+    "place": "Galápagos Islands, Ecuador",
+    "date": "2018-09-20"
+   },
+   {
+    "id": 39758227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39758227/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39758227/large.jpg",
+    "attribution": "(c) John Brew, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/25652857",
+    "place": "Galapagos Islands, , , ",
+    "date": "2019-05-21"
+   },
+   {
+    "id": 287739988,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287739988/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287739988/large.jpeg",
+    "attribution": "(c) Tyler Vogel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/166175515",
+    "place": "Bellavista, Ecuador",
+    "date": "2023-06-07"
+   }
+  ],
+  "hero": {
+   "id": 29412731,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/19155796",
+   "place": "Galápagos Islands, Ecuador",
+   "date": "2018-09-20"
+  }
+ },
+ "gbif": {
+  "key": 2481225,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 18682,
+  "topCountries": [
+   {
+    "code": "EC",
+    "count": 16368
+   },
+   {
+    "code": "PE",
+    "count": 971
+   },
+   {
+    "code": "US",
+    "count": 771
+   },
+   {
+    "code": "CL",
+    "count": 355
+   },
+   {
+    "code": "CR",
+    "count": 77
+   },
+   {
+    "code": "CO",
+    "count": 67
+   },
+   {
+    "code": "ZZ",
+    "count": 19
+   },
+   {
+    "code": "MX",
+    "count": 11
+   },
+   {
+    "code": "PA",
+    "count": 9
+   },
+   {
+    "code": "GT",
+    "count": 5
+   },
+   {
+    "code": "AR",
+    "count": 2
+   },
+   {
+    "code": "NG",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

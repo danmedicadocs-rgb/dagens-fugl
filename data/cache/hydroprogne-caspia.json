@@ -1,0 +1,172 @@
+{
+ "key": "hydroprogne-caspia",
+ "name": "Hydroprogne caspia",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:18.128Z",
+ "names": {
+  "da": "Rovterne",
+  "en": "Caspian Tern",
+  "accepted": "Hydroprogne caspia"
+ },
+ "wikidata": {
+  "id": "Q27129"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rovterne",
+  "extract": "Rovternen er verdens største terne. De voksne fugle har sorte ben og et langt rødt-orange næb. Rovternen når en længde på 48-56 cm og vejer 575-775 g. Dens vingefang kan blive op til 1,45 m.",
+  "url": "https://da.wikipedia.org/wiki/Rovterne"
+ },
+ "inat": {
+  "id": 144537,
+  "observations": 48341
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 251440227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251440227/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251440227/large.jpeg",
+    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146272666",
+    "place": "Delta du Saloum, SN-FK-FD, SN-FK, SN",
+    "date": "2023-01-07"
+   },
+   {
+    "id": 65870733,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65870733/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65870733/large.jpeg",
+    "attribution": "(c) Arnim Littek, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/41518285",
+    "place": "Foxton Beach, New Zealand",
+    "date": "2020-04-05"
+   },
+   {
+    "id": 87324889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324889/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324889/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/54866356",
+    "place": "Crissy Field, San Francisco, CA, USA",
+    "date": "2020-07-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 666829308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/365245601",
+    "place": "Juab County, UT, USA",
+    "date": "2026-05-21"
+   },
+   {
+    "id": 159317332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159317332/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159317332/large.jpg",
+    "attribution": "(c) James K. Douch, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/95931309",
+    "place": "Albert Park Lake, Albert Park, VIC, AU",
+    "date": "2021-09-24"
+   },
+   {
+    "id": 341397702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341397702/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341397702/large.jpg",
+    "attribution": "(c) James K. Douch, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/194249485",
+    "place": "Patterson River, Patterson Lakes, VIC, AU",
+    "date": "2023-12-18"
+   }
+  ],
+  "hero": {
+   "id": 666829308,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/large.jpg",
+   "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/365245601",
+   "place": "Juab County, UT, USA",
+   "date": "2026-05-21"
+  }
+ },
+ "gbif": {
+  "key": 2481236,
+  "dkTotal": 38726,
+  "dkMonths": [
+   1,
+   0,
+   2,
+   2593,
+   2823,
+   3623,
+   11559,
+   15721,
+   2277,
+   95,
+   0,
+   0
+  ],
+  "worldTotal": 2547156,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1468616
+   },
+   {
+    "code": "CA",
+    "count": 223935
+   },
+   {
+    "code": "SE",
+    "count": 195848
+   },
+   {
+    "code": "AU",
+    "count": 175086
+   },
+   {
+    "code": "FI",
+    "count": 58750
+   },
+   {
+    "code": "NZ",
+    "count": 51804
+   },
+   {
+    "code": "DK",
+    "count": 38726
+   },
+   {
+    "code": "MX",
+    "count": 36825
+   },
+   {
+    "code": "ZA",
+    "count": 36732
+   },
+   {
+    "code": "TW",
+    "count": 34230
+   },
+   {
+    "code": "NL",
+    "count": 33519
+   },
+   {
+    "code": "ES",
+    "count": 20670
+   }
+  ]
+ },
+ "warnings": []
+}

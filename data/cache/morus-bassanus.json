@@ -1,0 +1,162 @@
+{
+ "key": "morus-bassanus",
+ "name": "Morus bassanus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:59:48.988Z",
+ "names": {
+  "da": "Sule",
+  "en": "Northern Gannet",
+  "accepted": "Morus bassanus"
+ },
+ "wikidata": {
+  "id": "Q26675"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sule",
+  "extract": "Sulen er en havfugl, der i Danmark mest ses efterår, vinter og forår. Den yngler på fuglefjelde i Nordatlanten, f.eks på Mykineshólmur vest for Mykines på Færøerne. Om sommeren er det kun ikke-kønsmodne ungfugle, der ses i danske farvande. Sulen ses især langs Jyllands vestkyst.",
+  "url": "https://da.wikipedia.org/wiki/Sule"
+ },
+ "inat": {
+  "id": 3802,
+  "observations": 25773
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 70838277,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70838277/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70838277/large.jpeg",
+    "attribution": "(c) Ali Campbell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/44681244",
+    "place": "W BARNSTBLE, MA 02668, USA",
+    "date": "2019-11-23"
+   }
+  ],
+  "female": [
+   {
+    "id": 167019043,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167019043/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167019043/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/100098326",
+    "place": "Coruxo, Vigo, Pontevedra, España",
+    "date": "2021-11-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 176775373,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176775373/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176775373/large.jpeg",
+    "attribution": "(c) Tom Kennedy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105366014",
+    "place": "St. Joseph State Park, Gulf County, FL, USA",
+    "date": "2010-12-28"
+   },
+   {
+    "id": 263650042,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263650042/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263650042/large.jpeg",
+    "attribution": "(c) Júlio Reis, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/152705694",
+    "place": "2520 Ferrel, Portugal",
+    "date": "2011-07-07"
+   },
+   {
+    "id": 524550141,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524550141/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524550141/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/291542466",
+    "place": "Pyrénées Orientales, France",
+    "date": "2025-06-11"
+   }
+  ],
+  "hero": {
+   "id": 70838277,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70838277/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70838277/large.jpeg",
+   "attribution": "(c) Ali Campbell, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/44681244",
+   "place": "W BARNSTBLE, MA 02668, USA",
+   "date": "2019-11-23"
+  }
+ },
+ "gbif": {
+  "key": 2480964,
+  "dkTotal": 133997,
+  "dkMonths": [
+   4947,
+   3136,
+   8722,
+   12920,
+   11850,
+   3574,
+   10330,
+   13775,
+   22554,
+   25979,
+   11380,
+   4802
+  ],
+  "worldTotal": 2170769,
+  "topCountries": [
+   {
+    "code": "CA",
+    "count": 521895
+   },
+   {
+    "code": "US",
+    "count": 463517
+   },
+   {
+    "code": "GB",
+    "count": 410160
+   },
+   {
+    "code": "DK",
+    "count": 133997
+   },
+   {
+    "code": "FR",
+    "count": 104106
+   },
+   {
+    "code": "NO",
+    "count": 83155
+   },
+   {
+    "code": "PT",
+    "count": 79165
+   },
+   {
+    "code": "ES",
+    "count": 76489
+   },
+   {
+    "code": "SE",
+    "count": 73554
+   },
+   {
+    "code": "IE",
+    "count": 72292
+   },
+   {
+    "code": "NL",
+    "count": 58042
+   },
+   {
+    "code": "BE",
+    "count": 32011
+   }
+  ]
+ },
+ "warnings": []
+}

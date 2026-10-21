@@ -1,0 +1,202 @@
+{
+ "key": "streptopelia-decaocto",
+ "name": "Streptopelia decaocto",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:11:58.045Z",
+ "names": {
+  "da": "Tyrkerdue",
+  "en": "Eurasian Collared Dove",
+  "accepted": "Streptopelia decaocto"
+ },
+ "wikidata": {
+  "id": "Q54696"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tyrkerdue",
+  "extract": "Tyrkerduen er en slank lille due, der er udbredt i Europa og Asien samt introduceret til dele af Nordamerika, Japan og de Caribiske øer. Artens oprindelige udbredelsesområde menes at være Sydasien, men den har siden spredt sig via Tyrkiet til Europa. Den ynglede første gang i 1950 i Danmark, hvor den nu er almindelig mange steder i nærheden af menneskelig bebyggelse.",
+  "url": "https://da.wikipedia.org/wiki/Tyrkerdue"
+ },
+ "inat": {
+  "id": 2969,
+  "observations": 178647
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 210376521,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210376521/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210376521/large.jpeg",
+    "attribution": "(c) Dr. Nasser Halaweh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/124137066",
+    "place": "Outer Karrada, Baghdad, Iraq",
+    "date": "2022-05-31"
+   },
+   {
+    "id": 41852286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41852286/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41852286/large.jpeg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/26933578",
+    "place": "Oberrieden, Switzerland",
+    "date": "2019-06-10"
+   },
+   {
+    "id": 70079575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70079575/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70079575/large.jpeg",
+    "attribution": "(c) Oscar Alejandro Morales Juárez, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/44199592",
+    "place": "Zona Centro, 38600 Acámbaro, Gto., México",
+    "date": "2020-04-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 178376943,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178376943/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178376943/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/106208006",
+    "place": "Windsor Forest, Savannah, GA, USA",
+    "date": "2022-02-05"
+   },
+   {
+    "id": 184099954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184099954/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184099954/large.jpeg",
+    "attribution": "(c) Pablo F. Domínguez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/109251408",
+    "place": "Reynosa, MX-TM, MX",
+    "date": "2022-03-22"
+   },
+   {
+    "id": 658309649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658309649/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658309649/large.jpg",
+    "attribution": "(c) Brayam Paul Perez Barbarin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/360755583",
+    "place": "Parada en Blvd. Miguel de la Madrid 1580, Soleares, Garzas Gaviotas, 28219 Manzanillo, Col., México",
+    "date": "2026-05-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 385240267,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385240267/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385240267/large.jpeg",
+    "attribution": "(c) Matteo Negro, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/217746558",
+    "place": "10048 Vinovo TO, Italia",
+    "date": "2024-05-23"
+   },
+   {
+    "id": 477384358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477384358/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477384358/large.jpeg",
+    "attribution": "(c) Pablo F. Domínguez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/265744763",
+    "place": "Reynosa, MX-TM, MX",
+    "date": "2025-03-16"
+   },
+   {
+    "id": 393537558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393537558/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393537558/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/222178042",
+    "place": "Sutton County, TX, USA",
+    "date": "2024-04-13"
+   }
+  ],
+  "hero": {
+   "id": 210376521,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210376521/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210376521/large.jpeg",
+   "attribution": "(c) Dr. Nasser Halaweh, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/124137066",
+   "place": "Outer Karrada, Baghdad, Iraq",
+   "date": "2022-05-31"
+  }
+ },
+ "gbif": {
+  "key": 2495696,
+  "dkTotal": 146766,
+  "dkMonths": [
+   14301,
+   10803,
+   13861,
+   17689,
+   19321,
+   12727,
+   11756,
+   12406,
+   10584,
+   8489,
+   6875,
+   7903
+  ],
+  "worldTotal": 9663647,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 4271609
+   },
+   {
+    "code": "FR",
+    "count": 1007318
+   },
+   {
+    "code": "ES",
+    "count": 571169
+   },
+   {
+    "code": "GB",
+    "count": 558781
+   },
+   {
+    "code": "NL",
+    "count": 425914
+   },
+   {
+    "code": "IN",
+    "count": 341014
+   },
+   {
+    "code": "PT",
+    "count": 268845
+   },
+   {
+    "code": "CA",
+    "count": 227524
+   },
+   {
+    "code": "SE",
+    "count": 222380
+   },
+   {
+    "code": "DE",
+    "count": 206811
+   },
+   {
+    "code": "MX",
+    "count": 195619
+   },
+   {
+    "code": "BE",
+    "count": 179977
+   }
+  ]
+ },
+ "warnings": []
+}

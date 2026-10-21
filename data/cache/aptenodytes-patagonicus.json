@@ -1,0 +1,172 @@
+{
+ "key": "aptenodytes-patagonicus",
+ "name": "Aptenodytes patagonicus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:39:18.990Z",
+ "names": {
+  "da": "Kongepingvin",
+  "en": "King Penguin",
+  "accepted": "Aptenodytes patagonicus"
+ },
+ "wikidata": {
+  "id": "Q182209"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kongepingvin",
+  "extract": "Kongepingvinen er den næststørste af de omkring 18 forskellige pingviner, som findes; kejserpingvinen er den største.",
+  "url": "https://da.wikipedia.org/wiki/Kongepingvin"
+ },
+ "inat": {
+  "id": 3821,
+  "observations": 3076
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 452832438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452832438/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452832438/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/252938995",
+    "place": "Volunteer Point Penguin Colony, Falklands",
+    "date": "2018-01-29"
+   },
+   {
+    "id": 278688711,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278688711/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278688711/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/161240884",
+    "place": "Unnamed Road,Johnson's Harbour, FIQQ 1ZZ, Islas Malvinas (Falkland Islands)",
+    "date": "2016-03-10"
+   },
+   {
+    "id": 429404987,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/429404987/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/429404987/large.jpeg",
+    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/240975367",
+    "place": "Grande Terre, French Southern Territories, TF",
+    "date": "2024-09-01"
+   }
+  ],
+  "adult": [
+   {
+    "id": 466892159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/large.jpg",
+    "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/260030407",
+    "place": "South Georgia and the South Sandwich Islands",
+    "date": "2024-12-14"
+   },
+   {
+    "id": 624891715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624891715/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624891715/large.jpg",
+    "attribution": "(c) alanbedfordshaw, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/343087854",
+    "place": "Western Cape, South Africa",
+    "date": "2022-01-27"
+   },
+   {
+    "id": 628164566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628164566/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628164566/large.jpg",
+    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/344736180",
+    "place": "Grande Terre, TF",
+    "date": "2023-11-27"
+   }
+  ],
+  "hero": {
+   "id": 466892159,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/large.jpg",
+   "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/260030407",
+   "place": "South Georgia and the South Sandwich Islands",
+   "date": "2024-12-14"
+  }
+ },
+ "gbif": {
+  "key": 2481660,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 203934,
+  "topCountries": [
+   {
+    "code": "HM",
+    "count": 26720
+   },
+   {
+    "code": "GS",
+    "count": 10034
+   },
+   {
+    "code": "AQ",
+    "count": 8654
+   },
+   {
+    "code": "AU",
+    "count": 6178
+   },
+   {
+    "code": "ZA",
+    "count": 4382
+   },
+   {
+    "code": "TF",
+    "count": 4270
+   },
+   {
+    "code": "FK",
+    "count": 3654
+   },
+   {
+    "code": "AR",
+    "count": 2121
+   },
+   {
+    "code": "CL",
+    "count": 1859
+   },
+   {
+    "code": "ZZ",
+    "count": 148
+   },
+   {
+    "code": "NZ",
+    "count": 61
+   },
+   {
+    "code": "GB",
+    "count": 49
+   }
+  ]
+ },
+ "warnings": []
+}

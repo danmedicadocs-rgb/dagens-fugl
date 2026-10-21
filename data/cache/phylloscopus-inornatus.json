@@ -1,0 +1,141 @@
+{
+ "key": "phylloscopus-inornatus",
+ "name": "Phylloscopus inornatus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:57.466Z",
+ "names": {
+  "da": "Hvidbrynet løvsanger",
+  "en": "Yellow-browed Warbler",
+  "accepted": "Phylloscopus inornatus"
+ },
+ "wikidata": {
+  "id": "Q330318"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidbrynet løvsanger",
+  "extract": "Hvidbrynet løvsanger, 10 centimeter, er en sibirisk sanger, der forekommer i Europa som en sjælden, men regelmæssig gæst om efteråret i forbindelse med fænomenet \"omvendt træk\". Antallet af fund om året i Danmark varierer meget – typisk fra 5-60. Arten er ekstremt sjælden om foråret.",
+  "url": "https://da.wikipedia.org/wiki/Hvidbrynet_l%C3%B8vsanger"
+ },
+ "inat": {
+  "id": 117028,
+  "observations": 5695
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 542662167,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542662167/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542662167/large.jpg",
+    "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/301158360",
+    "place": "Assam, IN",
+    "date": "2025-02-28"
+   },
+   {
+    "id": 344949789,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344949789/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344949789/large.jpg",
+    "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/195995036",
+    "place": "Salaya, Phutthamonthon District, Nakhon Pathom, Thailand",
+    "date": "2024-01-06"
+   },
+   {
+    "id": 741576064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/741576064/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/741576064/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/403862226",
+    "place": "中国上海市浦东新区",
+    "date": "2026-09-27"
+   }
+  ],
+  "hero": {
+   "id": 542662167,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542662167/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542662167/large.jpg",
+   "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/301158360",
+   "place": "Assam, IN",
+   "date": "2025-02-28"
+  }
+ },
+ "gbif": {
+  "key": 2493095,
+  "dkTotal": 6384,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   2,
+   21,
+   0,
+   0,
+   0,
+   1489,
+   4684,
+   185,
+   1
+  ],
+  "worldTotal": 300496,
+  "topCountries": [
+   {
+    "code": "TH",
+    "count": 41512
+   },
+   {
+    "code": "NL",
+    "count": 38921
+   },
+   {
+    "code": "TW",
+    "count": 38066
+   },
+   {
+    "code": "CN",
+    "count": 25739
+   },
+   {
+    "code": "SE",
+    "count": 24372
+   },
+   {
+    "code": "HK",
+    "count": 20346
+   },
+   {
+    "code": "GB",
+    "count": 16609
+   },
+   {
+    "code": "IN",
+    "count": 16542
+   },
+   {
+    "code": "NO",
+    "count": 11008
+   },
+   {
+    "code": "VN",
+    "count": 7923
+   },
+   {
+    "code": "DK",
+    "count": 6384
+   },
+   {
+    "code": "FR",
+    "count": 6320
+   }
+  ]
+ },
+ "warnings": []
+}

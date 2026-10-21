@@ -1,0 +1,140 @@
+{
+ "key": "phylloscopus-trochiloides",
+ "name": "Phylloscopus trochiloides",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:10.410Z",
+ "names": {
+  "da": "Lundsanger",
+  "en": "Greenish Warbler",
+  "accepted": "Phylloscopus trochiloides"
+ },
+ "wikidata": {
+  "id": "Q460229"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Greenish warbler",
+  "extract": "The greenish warbler is a widespread leaf warbler with a breeding range in northeastern Europe, and temperate to subtropical continental Asia. This warbler is strongly migratory and winters in India. It is not uncommon as a spring or early autumn vagrant in Western Europe and is annually seen in Great Britain. In Central Europe large numbers of vagrant birds are encountered in some years; some of these may stay to breed, as a handful of pairs does each year in Germany.",
+  "url": "https://en.wikipedia.org/wiki/Greenish_warbler"
+ },
+ "inat": {
+  "id": 117054,
+  "observations": 4990
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 380581488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/large.jpeg",
+    "attribution": "(c) Fedotova Elena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/215271935",
+    "place": "Зональный, Бердск, Новосибирская обл., Россия",
+    "date": "2024-05-12"
+   },
+   {
+    "id": 243482229,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243482229/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243482229/large.jpeg",
+    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142053529",
+    "place": "Lahul & Spiti, IN-HP, IN",
+    "date": "2022-07-10"
+   },
+   {
+    "id": 666066124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666066124/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666066124/large.jpg",
+    "attribution": "(c) uxbridgebirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/364844991",
+    "place": "Romney Marsh, England, GB",
+    "date": "2026-05-24"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 380581488,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/large.jpeg",
+   "attribution": "(c) Fedotova Elena, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/215271935",
+   "place": "Зональный, Бердск, Новосибирская обл., Россия",
+   "date": "2024-05-12"
+  }
+ },
+ "gbif": {
+  "key": 2493084,
+  "dkTotal": 2482,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   623,
+   1578,
+   108,
+   120,
+   27,
+   23,
+   0,
+   0
+  ],
+  "worldTotal": 251771,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 184872
+   },
+   {
+    "code": "SE",
+    "count": 22161
+   },
+   {
+    "code": "RU",
+    "count": 9687
+   },
+   {
+    "code": "NP",
+    "count": 5607
+   },
+   {
+    "code": "CN",
+    "count": 3825
+   },
+   {
+    "code": "FI",
+    "count": 3667
+   },
+   {
+    "code": "DK",
+    "count": 2482
+   },
+   {
+    "code": "NL",
+    "count": 2454
+   },
+   {
+    "code": "TH",
+    "count": 2399
+   },
+   {
+    "code": "BD",
+    "count": 2254
+   },
+   {
+    "code": "EE",
+    "count": 1921
+   },
+   {
+    "code": "KZ",
+    "count": 1595
+   }
+  ]
+ },
+ "warnings": []
+}

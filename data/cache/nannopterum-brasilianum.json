@@ -1,0 +1,202 @@
+{
+ "key": "nannopterum-brasilianum",
+ "name": "Nannopterum brasilianum",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:52:32.445Z",
+ "names": {
+  "da": null,
+  "en": "Neotropic cormorant",
+  "accepted": "Nannopterum brasilianum"
+ },
+ "wikidata": {
+  "id": "Q117254632"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Neotropic cormorant",
+  "extract": "The neotropic cormorant or olivaceous cormorant is a medium-sized cormorant found throughout the American tropics and subtropics, from the middle Rio Grande and the Gulf and Californian coasts of the United States south through Mexico and Central America to southern South America, where it is called by the indigenous name of biguá. It also breeds in the Bahamas, Cuba, and Trinidad. It can be found both on coasts and in inland waters. There are at least two subspecies: N. b. mexicanum from Nicaragua northwards and N. b. brasilianum further south. In Peru, the neotropic cormorant is used by the Uru people for fishing.",
+  "url": "https://en.wikipedia.org/wiki/Neotropic_cormorant"
+ },
+ "inat": {
+  "id": 1289601,
+  "observations": 70719
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 478518433,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518433/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518433/large.jpeg",
+    "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204980163",
+    "place": "Brawley, CA 92227, USA",
+    "date": "2024-04-01"
+   },
+   {
+    "id": 381116440,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381116440/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381116440/large.jpeg",
+    "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/215556041",
+    "place": "Brawley, CA 92227, USA",
+    "date": "2024-05-11"
+   },
+   {
+    "id": 487135564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487135564/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487135564/large.jpeg",
+    "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/270843966",
+    "place": "Brawley, CA 92227, USA",
+    "date": "2025-04-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 429644571,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/429644571/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/429644571/large.jpg",
+    "attribution": "(c) Sara Navarro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/241115905",
+    "place": "Provincia de Panamá, Panamá",
+    "date": "2023-03-27"
+   },
+   {
+    "id": 219627740,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219627740/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219627740/large.jpeg",
+    "attribution": "(c) Maria Janeiro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129251104",
+    "place": "San Carlos, Panamá",
+    "date": "2022-08-01"
+   },
+   {
+    "id": 369758281,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369758281/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369758281/large.jpg",
+    "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/208961244",
+    "place": "Imperial County, CA, USA",
+    "date": "2024-04-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 575708700,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/575708700/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/575708700/large.jpg",
+    "attribution": "(c) Gabriela Cartes, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/318500602",
+    "place": "Bioparque Puquén, La Ligua, Región de Valparaíso, CL",
+    "date": "2025-10-03"
+   },
+   {
+    "id": 678472680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/678472680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/678472680/large.jpg",
+    "attribution": "(c) Paulo Nogueira, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/371348828",
+    "place": "Rua Chico Xavier, 39, Piratininga - Piratininga, Niterói - RJ, 24350-115, Brasil",
+    "date": "2026-06-13"
+   },
+   {
+    "id": 676147532,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676147532/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676147532/large.jpg",
+    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/370137488",
+    "place": "Kenner, LA, USA",
+    "date": "2026-06-09"
+   }
+  ],
+  "hero": {
+   "id": 478518433,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518433/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518433/large.jpeg",
+   "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/204980163",
+   "place": "Brawley, CA 92227, USA",
+   "date": "2024-04-01"
+  }
+ },
+ "gbif": {
+  "key": 9399113,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1541353,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 646537
+   },
+   {
+    "code": "CL",
+    "count": 135098
+   },
+   {
+    "code": "AR",
+    "count": 129315
+   },
+   {
+    "code": "MX",
+    "count": 126246
+   },
+   {
+    "code": "BR",
+    "count": 104534
+   },
+   {
+    "code": "CO",
+    "count": 70580
+   },
+   {
+    "code": "CR",
+    "count": 59959
+   },
+   {
+    "code": "PE",
+    "count": 54506
+   },
+   {
+    "code": "PA",
+    "count": 35772
+   },
+   {
+    "code": "BZ",
+    "count": 29159
+   },
+   {
+    "code": "UY",
+    "count": 22612
+   },
+   {
+    "code": "EC",
+    "count": 21136
+   }
+  ]
+ },
+ "warnings": []
+}

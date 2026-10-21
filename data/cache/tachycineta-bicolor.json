@@ -1,0 +1,202 @@
+{
+ "key": "tachycineta-bicolor",
+ "name": "Tachycineta bicolor",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:43:55.243Z",
+ "names": {
+  "da": "Træsvale",
+  "en": "Tree Swallow",
+  "accepted": "Tachycineta bicolor"
+ },
+ "wikidata": {
+  "id": "Q922192"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Tree swallow",
+  "extract": "The tree swallow is a migratory bird of the family Hirundinidae. Found in the Americas, the tree swallow was first described in 1807 by French ornithologist Louis Vieillot as Hirundo bicolor. It has since been moved to its current genus, Tachycineta, within which its phylogenetic placement is debated. The tree swallow has glossy blue-green upperparts, with the exception of the blackish wings and tail, and white underparts. The bill is black, the eyes dark brown, and the legs and feet pale brown. The female is generally duller than the male, and the first-year female has mostly brown upperparts, with some blue feathers. Juveniles have brown upperparts, and gray-brown-washed breasts. The tree swallow breeds in the US and Canada. It winters along southern US coasts south, along the Gulf Coast, to Panama and the northwestern coast of South America, and in the West Indies.",
+  "url": "https://en.wikipedia.org/wiki/Tree_swallow"
+ },
+ "inat": {
+  "id": 11935,
+  "observations": 90898
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 133783442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133783442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133783442/large.jpg",
+    "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/81555355",
+    "place": "Leesburg, VA, US",
+    "date": "2021-05-17"
+   },
+   {
+    "id": 384797830,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384797830/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384797830/large.jpeg",
+    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/217508300",
+    "place": "Mississauga, ON L5E 1E9, Canada",
+    "date": "2024-05-03"
+   },
+   {
+    "id": 479921151,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479921151/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479921151/large.jpeg",
+    "attribution": "(c) Theo Rickert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/267082148",
+    "place": "Butler County, PA, USA",
+    "date": "2025-03-25"
+   }
+  ],
+  "female": [
+   {
+    "id": 702580156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702580156/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702580156/large.jpg",
+    "attribution": "(c) Tser, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/383846298",
+    "place": "Cannon Beach, OR, USA",
+    "date": "2026-07-06"
+   },
+   {
+    "id": 527290813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527290813/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527290813/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/292965249",
+    "place": "Dionis, Nantucket, MA 02554, USA",
+    "date": "2025-06-26"
+   },
+   {
+    "id": 209458114,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209458114/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209458114/large.jpg",
+    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123632827",
+    "place": "Talbot, London, ON N6P, Canada",
+    "date": "2022-06-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 218088526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218088526/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/218088526/large.jpeg",
+    "attribution": "(c) Eric Schmidt, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/128396843",
+    "place": "Point Comfort Okauchee, Okauchee Lake, WI, USA",
+    "date": "2022-07-25"
+   },
+   {
+    "id": 78418095,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78418095/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78418095/large.jpg",
+    "attribution": "(c) kirk gardner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/49399326",
+    "place": "Camas County, ID, USA",
+    "date": "2020-06-07"
+   },
+   {
+    "id": 749513732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/749513732/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/749513732/large.jpg",
+    "attribution": "(c) Marc-Olivier Beausoleil, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/407817327",
+    "place": "Québec, CA",
+    "date": "2026-10-12"
+   }
+  ],
+  "hero": {
+   "id": 196885341,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196885341/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196885341/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Carter Dorscht",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/196885341",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2489181,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 8344309,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 6833134
+   },
+   {
+    "code": "CA",
+    "count": 1478027
+   },
+   {
+    "code": "MX",
+    "count": 16096
+   },
+   {
+    "code": "BZ",
+    "count": 7017
+   },
+   {
+    "code": "CU",
+    "count": 3674
+   },
+   {
+    "code": "GT",
+    "count": 1320
+   },
+   {
+    "code": "HN",
+    "count": 1112
+   },
+   {
+    "code": "CR",
+    "count": 1033
+   },
+   {
+    "code": "BS",
+    "count": 579
+   },
+   {
+    "code": "KY",
+    "count": 563
+   },
+   {
+    "code": "BM",
+    "count": 549
+   },
+   {
+    "code": "PM",
+    "count": 262
+   }
+  ]
+ },
+ "warnings": []
+}

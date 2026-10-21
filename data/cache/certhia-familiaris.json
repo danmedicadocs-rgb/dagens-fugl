@@ -1,0 +1,151 @@
+{
+ "key": "certhia-familiaris",
+ "name": "Certhia familiaris",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:19:55.640Z",
+ "names": {
+  "da": "Træløber",
+  "en": "Eurasian Treecreeper",
+  "accepted": "Certhia familiaris"
+ },
+ "wikidata": {
+  "id": "Q193593"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Træløber",
+  "extract": "Træløberen er 12,5 cm lang spurvefugl, der er almindelig i skove og parker i Danmark. Den findes desuden i det meste af Europa og Asien.",
+  "url": "https://da.wikipedia.org/wiki/Tr%C3%A6l%C3%B8ber"
+ },
+ "inat": {
+  "id": 7450,
+  "observations": 29755
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 507243274,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507243274/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507243274/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/282332735",
+    "place": "Niederösterreich, AT",
+    "date": "2025-05-19"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 200348852,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/200348852/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/200348852/large.jpg",
+    "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/118572447",
+    "place": "South-Western Administrative Okrug, Moscow, Russia",
+    "date": "2022-05-22"
+   },
+   {
+    "id": 251424714,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251424714/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251424714/large.jpg",
+    "attribution": "(c) Josh Boe, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146266294",
+    "place": "Brig o'Turk, Callander FK17 8HR, UK",
+    "date": "2022-06-28"
+   },
+   {
+    "id": 519503886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519503886/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/519503886/large.jpg",
+    "attribution": "(c) Олеся, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/288618548",
+    "place": "Выборг, Ленинградская обл., Россия",
+    "date": "2025-06-10"
+   }
+  ],
+  "hero": {
+   "id": 507243274,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507243274/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507243274/large.jpg",
+   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/282332735",
+   "place": "Niederösterreich, AT",
+   "date": "2025-05-19"
+  }
+ },
+ "gbif": {
+  "key": 2487603,
+  "dkTotal": 90173,
+  "dkMonths": [
+   9160,
+   9508,
+   16053,
+   13485,
+   8657,
+   4728,
+   3295,
+   3323,
+   4187,
+   7143,
+   5252,
+   5324
+  ],
+  "worldTotal": 1200362,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 430035
+   },
+   {
+    "code": "GB",
+    "count": 179354
+   },
+   {
+    "code": "FI",
+    "count": 160827
+   },
+   {
+    "code": "NO",
+    "count": 96434
+   },
+   {
+    "code": "DK",
+    "count": 90173
+   },
+   {
+    "code": "FR",
+    "count": 37190
+   },
+   {
+    "code": "RU",
+    "count": 36017
+   },
+   {
+    "code": "DE",
+    "count": 31767
+   },
+   {
+    "code": "PL",
+    "count": 18962
+   },
+   {
+    "code": "EE",
+    "count": 16740
+   },
+   {
+    "code": "AX",
+    "count": 13664
+   },
+   {
+    "code": "CZ",
+    "count": 12920
+   }
+  ]
+ },
+ "warnings": []
+}

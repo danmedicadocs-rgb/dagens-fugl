@@ -1,0 +1,202 @@
+{
+ "key": "setophaga-ruticilla",
+ "name": "Setophaga ruticilla",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:42:39.445Z",
+ "names": {
+  "da": "Amerikansk Ildstjert",
+  "en": "American Redstart",
+  "accepted": "Setophaga ruticilla"
+ },
+ "wikidata": {
+  "id": "Q922772"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "American redstart",
+  "extract": "The American redstart is a New World warbler. It is only distantly related to the Old World (common) redstart, with both belonging to the order Passeriformes.",
+  "url": "https://en.wikipedia.org/wiki/American_redstart"
+ },
+ "inat": {
+  "id": 10247,
+  "observations": 57378
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 618581507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581507/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581507/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/339975877",
+    "place": "Richmond, ME 04357, USA",
+    "date": "2024-06-23"
+   },
+   {
+    "id": 71956210,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71956210/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71956210/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45380114",
+    "place": " Montrose Point Bird Sanctuary, Chicago, IL, USA",
+    "date": "2017-05-18"
+   },
+   {
+    "id": 71956232,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71956232/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71956232/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45380118",
+    "place": " Montrose Point Bird Sanctuary, Chicago, IL, USA",
+    "date": "2017-05-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 435988261,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435988261/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/435988261/large.jpg",
+    "attribution": "(c) Carol Ann Vermeer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/244423278",
+    "place": "River East, Winnipeg, MB R2G, Canada",
+    "date": "2024-09-07"
+   },
+   {
+    "id": 72182346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72182346/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72182346/large.jpg",
+    "attribution": "(c) Brian White, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45520799",
+    "place": "Chester County, PA, USA",
+    "date": "2020-05-10"
+   },
+   {
+    "id": 383695143,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/383695143/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/383695143/large.jpg",
+    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/216929143",
+    "place": "Byron, London, ON, Canada",
+    "date": "2024-05-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 80738696,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80738696/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80738696/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/50833928",
+    "place": "Mountain Lake Park, San Francisco, CA, US",
+    "date": "2020-06-24"
+   },
+   {
+    "id": 91722422,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91722422/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91722422/large.jpeg",
+    "attribution": "(c) gpete, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/57500863",
+    "place": "Bangor Tt, Bay, MI, USA",
+    "date": "2020-08-23"
+   },
+   {
+    "id": 564695372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/564695372/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/564695372/large.jpg",
+    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/312744348",
+    "place": "Golden Gate Park, San Francisco, CA, USA",
+    "date": "2025-09-06"
+   }
+  ],
+  "hero": {
+   "id": 618581507,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581507/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581507/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/339975877",
+   "place": "Richmond, ME 04357, USA",
+   "date": "2024-06-23"
+  }
+ },
+ "gbif": {
+  "key": 2489985,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 4117990,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2933875
+   },
+   {
+    "code": "CA",
+    "count": 826479
+   },
+   {
+    "code": "MX",
+    "count": 67929
+   },
+   {
+    "code": "BZ",
+    "count": 66890
+   },
+   {
+    "code": "CO",
+    "count": 36361
+   },
+   {
+    "code": "CU",
+    "count": 31406
+   },
+   {
+    "code": "GT",
+    "count": 19701
+   },
+   {
+    "code": "CR",
+    "count": 19310
+   },
+   {
+    "code": "HN",
+    "count": 19048
+   },
+   {
+    "code": "VE",
+    "count": 18135
+   },
+   {
+    "code": "JM",
+    "count": 14866
+   },
+   {
+    "code": "BS",
+    "count": 14583
+   }
+  ]
+ },
+ "warnings": []
+}

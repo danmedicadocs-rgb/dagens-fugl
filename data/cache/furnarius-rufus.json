@@ -1,0 +1,170 @@
+{
+ "key": "furnarius-rufus",
+ "name": "Furnarius rufus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:48:47.563Z",
+ "names": {
+  "da": "Brun Ovnfugl",
+  "en": "Rufous Hornero",
+  "accepted": "Furnarius rufus"
+ },
+ "wikidata": {
+  "id": "Q852731"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Rufous hornero",
+  "extract": "The rufous hornero is a medium-sized ovenbird in the family Furnariidae. It occurs in eastern South America and is the national bird of Argentina. Also known as the red ovenbird, it is common in savannas, second-growth scrub, pastures, and agricultural land and is synanthropic. Its range includes midwestern, southeastern, and southern Brazil, Bolivia, Paraguay, Uruguay, and northern and central Argentina, extending as far south as northern Patagonia. The species is most closely related to the crested hornero of Paraguay and Argentina. There are four accepted subspecies.",
+  "url": "https://en.wikipedia.org/wiki/Rufous_hornero"
+ },
+ "inat": {
+  "id": 11275,
+  "observations": 25979
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 70370709,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70370709/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70370709/large.jpg",
+    "attribution": "(c) Sol Quipildor, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/44383905",
+    "place": "La Merced, Salta, Argentina",
+    "date": "2020-04-30"
+   },
+   {
+    "id": 332113470,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332113470/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332113470/large.jpeg",
+    "attribution": "(c) Rodrigo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189563563",
+    "place": "Perú y El Parral (Capital, Mendoza), Mendoza, Argentina",
+    "date": "2023-10-31"
+   },
+   {
+    "id": 227764661,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227764661/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227764661/large.jpeg",
+    "attribution": "(c) Peter Abrahamsen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/133694809",
+    "place": "Sao Jose dos Campos - State of São Paulo, Brazil",
+    "date": "2022-09-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 177630194,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177630194/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177630194/large.jpeg",
+    "attribution": "(c) Conrado Pável de Oliveira, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105815131",
+    "place": "Juiz de Fora - MG, Brasil",
+    "date": "2022-01-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 128990667,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128990667/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128990667/large.jpg",
+    "attribution": "(c) Bahiano Ayala, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78793484",
+    "place": "Ministro Rivadavia, Provincia de Buenos Aires, Argentina",
+    "date": "2021-05-13"
+   },
+   {
+    "id": 106946422,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106946422/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106946422/large.jpeg",
+    "attribution": "(c) tandria, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66352534",
+    "place": "Núñez, CABA, Argentina",
+    "date": "2020-11-15"
+   },
+   {
+    "id": 243849449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243849449/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243849449/large.jpg",
+    "attribution": "(c) Nico Fernandez-Sauleda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142252599",
+    "place": "Ñandubay, Progreso, Canelones, UY",
+    "date": "2022-11-10"
+   }
+  ],
+  "hero": {
+   "id": 182076045,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182076045/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182076045/large.jpg",
+   "attribution": "(c) Ron Knight, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/182076045",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2485821,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 651295,
+  "topCountries": [
+   {
+    "code": "AR",
+    "count": 291522
+   },
+   {
+    "code": "BR",
+    "count": 269284
+   },
+   {
+    "code": "UY",
+    "count": 53087
+   },
+   {
+    "code": "PY",
+    "count": 21601
+   },
+   {
+    "code": "BO",
+    "count": 15658
+   },
+   {
+    "code": "ZZ",
+    "count": 15
+   },
+   {
+    "code": "DE",
+    "count": 4
+   },
+   {
+    "code": "FR",
+    "count": 3
+   },
+   {
+    "code": "CL",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

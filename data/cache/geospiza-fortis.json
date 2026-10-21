@@ -1,0 +1,115 @@
+{
+ "key": "geospiza-fortis",
+ "name": "Geospiza fortis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:54:09.078Z",
+ "names": {
+  "da": "Mellemdarwinfinke",
+  "en": "Medium Ground Finch",
+  "accepted": "Geospiza fortis"
+ },
+ "wikidata": {
+  "id": "Q762307"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Medium ground finch",
+  "extract": "The medium ground finch is a species of bird in the family Thraupidae. It is endemic to the Galápagos Islands. Its primary natural habitat is tropical shrubland. One of Darwin's finches, the species was the first which scientists have observed evolving in real-time.",
+  "url": "https://en.wikipedia.org/wiki/Medium_ground_finch"
+ },
+ "inat": {
+  "id": 9479,
+  "observations": 2314
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 65006734,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006734/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006734/large.jpeg",
+    "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/41001093",
+    "place": "Santa Cruz, Ecuador",
+    "date": "2013-01-27"
+   },
+   {
+    "id": 108093661,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108093661/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108093661/large.jpg",
+    "attribution": "(c) ajott, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66974093",
+    "place": "Isabela, Ecuador",
+    "date": "2019-12-25"
+   },
+   {
+    "id": 65006425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006425/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006425/large.jpeg",
+    "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/41001017",
+    "place": "Isabela, Ecuador",
+    "date": "2013-01-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 65006790,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006790/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006790/large.jpeg",
+    "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/41001094",
+    "place": "Santa Cruz, Ecuador",
+    "date": "2013-01-27"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 65006734,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006734/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006734/large.jpeg",
+   "attribution": "(c) Frank Dietze, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/41001093",
+   "place": "Santa Cruz, Ecuador",
+   "date": "2013-01-27"
+  }
+ },
+ "gbif": {
+  "key": 5231030,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 20027,
+  "topCountries": [
+   {
+    "code": "EC",
+    "count": 19751
+   },
+   {
+    "code": "NZ",
+    "count": 4
+   },
+   {
+    "code": "US",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

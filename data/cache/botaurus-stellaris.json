@@ -1,0 +1,131 @@
+{
+ "key": "botaurus-stellaris",
+ "name": "Botaurus stellaris",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:00:04.767Z",
+ "names": {
+  "da": "Rørdrum",
+  "en": "Eurasian Bittern",
+  "accepted": "Botaurus stellaris"
+ },
+ "wikidata": {
+  "id": "Q25709"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rørdrum",
+  "extract": "Rørdrum er en hejre i ordenen Pelecaniformes, der lever i Europa, Nordafrika og et bælte gennem Asien. Rørdrummen lever i tætte rørskove ved større søer og sumpede områder. Den færdes skjult og genkendes på sin vidtlydende stemme, den såkaldte pauken.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8rdrum"
+ },
+ "inat": {
+  "id": 5033,
+  "observations": 5047
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 640921502,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/640921502/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/640921502/large.jpg",
+    "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/351232454",
+    "place": "Юж. административный округ, Москва, Россия",
+    "date": "2026-04-19"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 419548974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/419548974/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/419548974/large.jpeg",
+    "attribution": "(c) Catherine Currie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/235872148",
+    "place": "Rhodes, Afantou, L, GR",
+    "date": "2018-10-18"
+   }
+  ],
+  "hero": {
+   "id": 640921502,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/640921502/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/640921502/large.jpg",
+   "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/351232454",
+   "place": "Юж. административный округ, Москва, Россия",
+   "date": "2026-04-19"
+  }
+ },
+ "gbif": {
+  "key": 2480910,
+  "dkTotal": 65268,
+  "dkMonths": [
+   1738,
+   3393,
+   9535,
+   20083,
+   19331,
+   6272,
+   1450,
+   766,
+   639,
+   687,
+   516,
+   722
+  ],
+  "worldTotal": 480356,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 161908
+   },
+   {
+    "code": "NL",
+    "count": 80442
+   },
+   {
+    "code": "DK",
+    "count": 65268
+   },
+   {
+    "code": "GB",
+    "count": 37858
+   },
+   {
+    "code": "FR",
+    "count": 22013
+   },
+   {
+    "code": "BE",
+    "count": 21315
+   },
+   {
+    "code": "LV",
+    "count": 17700
+   },
+   {
+    "code": "PL",
+    "count": 9178
+   },
+   {
+    "code": "FI",
+    "count": 8535
+   },
+   {
+    "code": "EE",
+    "count": 5886
+   },
+   {
+    "code": "DE",
+    "count": 5637
+   },
+   {
+    "code": "RU",
+    "count": 5379
+   }
+  ]
+ },
+ "warnings": []
+}

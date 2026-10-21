@@ -1,0 +1,202 @@
+{
+ "key": "bombycilla-cedrorum",
+ "name": "Bombycilla cedrorum",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:43:50.439Z",
+ "names": {
+  "da": "Amerikansk silkehale",
+  "en": "Cedar Waxwing",
+  "accepted": "Bombycilla cedrorum"
+ },
+ "wikidata": {
+  "id": "Q184314"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Cedar waxwing",
+  "extract": "The cedar waxwing is a member of the family Bombycillidae or waxwing family of passerine birds. It is a medium-sized bird that is mainly brown, gray, and yellow. Some of the wing feathers have red tips, which resemble sealing wax, giving the bird its common name. It is a native of North and Central America, breeding in open wooded areas in southern Canada and wintering in the southern half of the United States, Central America, and the far northwest of South America. Its diet includes cedar cones, fruit, holly berries, and insects. The cedar waxwing is listed as least concern on the IUCN Red List.",
+  "url": "https://en.wikipedia.org/wiki/Cedar_waxwing"
+ },
+ "inat": {
+  "id": 7428,
+  "observations": 125410
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 707842271,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707842271/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707842271/large.jpg",
+    "attribution": "(c) Steven J. Røste, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/386589553",
+    "place": "Forestville Township, MN, USA",
+    "date": "2026-06-18"
+   },
+   {
+    "id": 211033439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211033439/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211033439/large.jpg",
+    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/124431403",
+    "place": "Regina, SK, Canada",
+    "date": "2022-07-02"
+   },
+   {
+    "id": 177172987,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177172987/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177172987/large.jpg",
+    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105576753",
+    "place": "Regina, SK, Canada",
+    "date": "2020-08-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 707843156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707843156/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707843156/large.jpg",
+    "attribution": "(c) Steven J. Røste, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/386590029",
+    "place": "Forestville Township, MN, USA",
+    "date": "2026-06-18"
+   },
+   {
+    "id": 307890244,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307890244/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307890244/large.jpeg",
+    "attribution": "(c) brentnmoran, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/177062777",
+    "place": "Skagit County, WA, USA",
+    "date": "2023-08-06"
+   },
+   {
+    "id": 167449524,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167449524/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167449524/large.jpg",
+    "attribution": "(c) Jay Brasher, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/100337224",
+    "place": "Lincoln County, TN, USA",
+    "date": "2020-11-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 323364629,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323364629/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323364629/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185178479",
+    "place": "Bucks County, PA, USA",
+    "date": "2023-09-20"
+   },
+   {
+    "id": 733995328,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/733995328/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/733995328/large.jpg",
+    "attribution": "(c) cigazze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/400034575",
+    "place": "Spokane, Washington, United States",
+    "date": "2026-09-08"
+   },
+   {
+    "id": 324820361,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324820361/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324820361/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/185936271",
+    "place": "Bucks County, PA, USA",
+    "date": "2023-10-01"
+   }
+  ],
+  "hero": {
+   "id": 707842271,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707842271/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707842271/large.jpg",
+   "attribution": "(c) Steven J. Røste, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/386589553",
+   "place": "Forestville Township, MN, USA",
+   "date": "2026-06-18"
+  }
+ },
+ "gbif": {
+  "key": 2484609,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 7265280,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 5881798
+   },
+   {
+    "code": "CA",
+    "count": 1355254
+   },
+   {
+    "code": "MX",
+    "count": 21367
+   },
+   {
+    "code": "GT",
+    "count": 1976
+   },
+   {
+    "code": "CR",
+    "count": 1020
+   },
+   {
+    "code": "BM",
+    "count": 678
+   },
+   {
+    "code": "BZ",
+    "count": 544
+   },
+   {
+    "code": "HN",
+    "count": 463
+   },
+   {
+    "code": "PM",
+    "count": 417
+   },
+   {
+    "code": "SV",
+    "count": 288
+   },
+   {
+    "code": "CU",
+    "count": 173
+   },
+   {
+    "code": "PA",
+    "count": 127
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,182 @@
+{
+ "key": "coragyps-atratus",
+ "name": "Coragyps atratus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:44:40.522Z",
+ "names": {
+  "da": "Ravnegrib",
+  "en": "Black Vulture",
+  "accepted": "Coragyps atratus"
+ },
+ "wikidata": {
+  "id": "Q213366"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black vulture",
+  "extract": "The black vulture, also known as the American black vulture, Mexican vulture, zopilote, urubu, or gallinazo, is a bird in the New World vulture family whose range extends from the northeastern United States to Peru, Central Chile and Uruguay in South America, and common throughout Brazil where it can be seen in large scavenging groups. Although a common and widespread species, it has a somewhat more restricted distribution than its compatriot, the turkey vulture, which breeds well into Canada and all the way south to Tierra del Fuego. It is the only extant member of the genus Coragyps, which is in the family Cathartidae. Despite the similar name and appearance, this species is not closely related to the Eurasian black vulture, an Old World vulture, of the family Accipitridae. For ease of locating animal corpses, black vultures tend to inhabit relatively open areas with scattered trees, such as chaparral, in addition to subtropical forested areas and parts of the Brazilian pantanal.",
+  "url": "https://en.wikipedia.org/wiki/Black_vulture"
+ },
+ "inat": {
+  "id": 4765,
+  "observations": 135325
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 239409362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239409362/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239409362/large.jpg",
+    "attribution": "(c) Anthony Batista, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/139917793",
+    "place": "El Rincón, Panamá",
+    "date": "2022-10-23"
+   },
+   {
+    "id": 53069153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53069153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53069153/large.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/33767177",
+    "place": "Golfo de Panamá, Provincia de Panamá, PA",
+    "date": "2019-10-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 209982029,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209982029/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209982029/large.jpg",
+    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123920774",
+    "place": "Leticia, Amazonas, Colombia",
+    "date": "2022-06-01"
+   },
+   {
+    "id": 113486385,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113486385/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113486385/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69875114",
+    "place": "Shell, Ecuador",
+    "date": "2021-02-20"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 3610980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3610980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3610980/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/3122066",
+    "place": "North Carolina, US",
+    "date": "2016-05-07"
+   },
+   {
+    "id": 453137262,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453137262/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453137262/large.jpeg",
+    "attribution": "(c) David F. Belmonte, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253104199",
+    "place": "Pantanos de Villa, Lima, Perú",
+    "date": "2024-11-23"
+   },
+   {
+    "id": 425128073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425128073/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425128073/large.jpeg",
+    "attribution": "(c) Gab Buffo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/238762462",
+    "place": "Jardim Vila Bela, Rio Claro - SP, Brazil",
+    "date": "2024-08-30"
+   }
+  ],
+  "hero": {
+   "id": 239409362,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239409362/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239409362/large.jpg",
+   "attribution": "(c) Anthony Batista, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/139917793",
+   "place": "El Rincón, Panamá",
+   "date": "2022-10-23"
+  }
+ },
+ "gbif": {
+  "key": 2481942,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 6474814,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 3912406
+   },
+   {
+    "code": "CR",
+    "count": 433161
+   },
+   {
+    "code": "CO",
+    "count": 417271
+   },
+   {
+    "code": "BR",
+    "count": 349959
+   },
+   {
+    "code": "MX",
+    "count": 278309
+   },
+   {
+    "code": "PA",
+    "count": 178359
+   },
+   {
+    "code": "EC",
+    "count": 129094
+   },
+   {
+    "code": "VE",
+    "count": 102726
+   },
+   {
+    "code": "PE",
+    "count": 99781
+   },
+   {
+    "code": "AR",
+    "count": 93769
+   },
+   {
+    "code": "BZ",
+    "count": 93590
+   },
+   {
+    "code": "CL",
+    "count": 91058
+   }
+  ]
+ },
+ "warnings": []
+}

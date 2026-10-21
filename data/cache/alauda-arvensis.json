@@ -1,0 +1,171 @@
+{
+ "key": "alauda-arvensis",
+ "name": "Alauda arvensis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:09.526Z",
+ "names": {
+  "da": "Sanglærke",
+  "en": "Eurasian Skylark",
+  "accepted": "Alauda arvensis"
+ },
+ "wikidata": {
+  "id": "Q25961"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sanglærke",
+  "extract": "Sanglærken er en spurvefugl på cirka 18 centimeter, der forekommer spontant i Europa, Nordafrika og dele af Asien og desuden er introduceret til andre verdensdele. Lærken er en af Danmarks mest almindelige fugle, hvor den som oprindelig græssteppefugl har formået at tilpasse sig det åbne kulturlandskab.",
+  "url": "https://da.wikipedia.org/wiki/Sangl%C3%A6rke"
+ },
+ "inat": {
+  "id": 7347,
+  "observations": 38904
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 33753158,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33753158/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33753158/large.jpg",
+    "attribution": "(c) Lauren Gore, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/21791442",
+    "place": "Lose Hill, Hope Valley S33 8WB, UK",
+    "date": "2019-03-30"
+   },
+   {
+    "id": 135292267,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135292267/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135292267/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82434110",
+    "place": "Birkenhead, UK",
+    "date": "2021-06-08"
+   },
+   {
+    "id": 277929315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/277929315/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/277929315/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/160821629",
+    "place": "Farrington Moss, Lancashire, UK",
+    "date": "2023-05-09"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 202919734,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202919734/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202919734/large.jpg",
+    "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120010643",
+    "place": "Kilcoole Beach, Co. Wicklow, Ireland",
+    "date": "1998-07-11"
+   },
+   {
+    "id": 202126822,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202126822/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202126822/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/119559542",
+    "place": "Burgos, España",
+    "date": "2022-05-28"
+   },
+   {
+    "id": 29402597,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29402597/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29402597/large.jpg",
+    "attribution": "(c) Mike Bowie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19150002",
+    "place": "Eyrewell Forest, New Zealand",
+    "date": "2018-12-19"
+   }
+  ],
+  "hero": {
+   "id": 7408707,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7408707/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7408707/large.jpeg",
+   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/7408707",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 8077224,
+  "dkTotal": 385428,
+  "dkMonths": [
+   7385,
+   43952,
+   75237,
+   62687,
+   52532,
+   37459,
+   27563,
+   11412,
+   18262,
+   37585,
+   7600,
+   3506
+  ],
+  "worldTotal": 3690858,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 657236
+   },
+   {
+    "code": "FR",
+    "count": 516624
+   },
+   {
+    "code": "GB",
+    "count": 457703
+   },
+   {
+    "code": "DK",
+    "count": 385428
+   },
+   {
+    "code": "NL",
+    "count": 322932
+   },
+   {
+    "code": "NO",
+    "count": 209098
+   },
+   {
+    "code": "DE",
+    "count": 141843
+   },
+   {
+    "code": "BE",
+    "count": 136465
+   },
+   {
+    "code": "ES",
+    "count": 135967
+   },
+   {
+    "code": "AU",
+    "count": 112434
+   },
+   {
+    "code": "NZ",
+    "count": 110060
+   },
+   {
+    "code": "FI",
+    "count": 61750
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,148 @@
+{
+ "key": "spheniscus-mendiculus",
+ "name": "Spheniscus mendiculus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:53:36.411Z",
+ "names": {
+  "da": "Galapagospingvin",
+  "en": "Galápagos Penguin",
+  "accepted": "Spheniscus mendiculus"
+ },
+ "wikidata": {
+  "id": "Q206668"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Galapagospingvin",
+  "extract": "Galapagospingvin er den mindste art i slægten Spheniscus. Det er også den eneste pingvinart, der lever nord for ækvator; dog ikke hele bestanden. Galagapospingvinen er af IUCN klassificeret som en truet art.",
+  "url": "https://da.wikipedia.org/wiki/Galapagospingvin"
+ },
+ "inat": {
+  "id": 3815,
+  "observations": 2404
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 583629245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583629245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583629245/large.jpg",
+    "attribution": "(c) Norma Malinowski, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/322603632",
+    "place": "Santiago Island, Ecuador",
+    "date": "2009-11-24"
+   },
+   {
+    "id": 556041625,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556041625/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556041625/large.jpg",
+    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/308217591",
+    "place": "Ecuador",
+    "date": "2025-08-22"
+   },
+   {
+    "id": 50202062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50202062/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50202062/large.jpg",
+    "attribution": "(c) John G. Phillips, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/32037489",
+    "place": "Ecuador",
+    "date": "2019-01-05"
+   }
+  ],
+  "adult": [
+   {
+    "id": 600778145,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/large.jpg",
+    "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331204844",
+    "place": ", Provincia de Galápagos, Ecuador",
+    "date": "2023-02-14"
+   },
+   {
+    "id": 600862603,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600862603/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600862603/large.jpg",
+    "attribution": "(c) Jenni Ly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331245516",
+    "place": "hassi",
+    "date": "2025-12-18"
+   },
+   {
+    "id": 1448614,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1448614/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1448614/large.jpg",
+    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/1149874",
+    "place": "Isla Santiago, Galápagos, Ecuador",
+    "date": "2012-03-09"
+   }
+  ],
+  "hero": {
+   "id": 600778145,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/large.jpg",
+   "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/331204844",
+   "place": ", Provincia de Galápagos, Ecuador",
+   "date": "2023-02-14"
+  }
+ },
+ "gbif": {
+  "key": 5229383,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 11020,
+  "topCountries": [
+   {
+    "code": "EC",
+    "count": 10973
+   },
+   {
+    "code": "US",
+    "count": 7
+   },
+   {
+    "code": "ZZ",
+    "count": 5
+   },
+   {
+    "code": "CA",
+    "count": 1
+   },
+   {
+    "code": "DE",
+    "count": 1
+   },
+   {
+    "code": "NZ",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

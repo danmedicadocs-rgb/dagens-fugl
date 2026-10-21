@@ -1,0 +1,99 @@
+{
+ "key": "nannopterum-harrisi",
+ "name": "Nannopterum harrisi",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:53:42.520Z",
+ "names": {
+  "da": "Galapagosskarv",
+  "en": "Flightless Cormorant",
+  "accepted": "Nannopterum harrisi"
+ },
+ "wikidata": {
+  "id": "Q82955137"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Flightless cormorant",
+  "extract": "The flightless cormorant, also known as the Galápagos cormorant, is a cormorant endemic to the Galápagos Islands, and an example of the highly unusual fauna there. It is unique in that it is the only known cormorant that has lost the ability to fly. It was placed in its own genus, Nannopterum, but was later placed with most of the other cormorants in the genus Phalacrocorax. A 2014 study supported reclassifying it and two other American cormorant species back into Nannopterum. The IOU followed this classification in 2021.",
+  "url": "https://en.wikipedia.org/wiki/Flightless_cormorant"
+ },
+ "inat": {
+  "id": 1289603,
+  "observations": 841
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 39968540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39968540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39968540/large.jpg",
+    "attribution": "(c) J Brew, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/25781789",
+    "place": "Puerto Villamil, Galapagos, Ecuador",
+    "date": "2019-05-16"
+   },
+   {
+    "id": 409615171,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409615171/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409615171/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/230675205",
+    "place": "Tomas de Berlanga (Santo Tomas), Ecuador",
+    "date": "2024-07-16"
+   }
+  ],
+  "hero": {
+   "id": 600778189,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778189/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778189/large.jpg",
+   "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/600778189",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481900,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 5826,
+  "topCountries": [
+   {
+    "code": "EC",
+    "count": 5798
+   },
+   {
+    "code": "ZZ",
+    "count": 4
+   },
+   {
+    "code": "GB",
+    "count": 1
+   },
+   {
+    "code": "US",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

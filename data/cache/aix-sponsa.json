@@ -1,0 +1,202 @@
+{
+ "key": "aix-sponsa",
+ "name": "Aix sponsa",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:44:06.730Z",
+ "names": {
+  "da": "Brudeand",
+  "en": "Wood duck",
+  "accepted": "Aix sponsa"
+ },
+ "wikidata": {
+  "id": "Q322159"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Wood duck",
+  "extract": "The wood duck or Carolina duck is a partially migratory species of perching duck found in North America. The male is one of the most colorful North American waterfowls.",
+  "url": "https://en.wikipedia.org/wiki/Wood_duck"
+ },
+ "inat": {
+  "id": 7107,
+  "observations": 126377
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 75956702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75956702/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75956702/large.jpeg",
+    "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/47883634",
+    "place": "14055 Berlin, Germany",
+    "date": "2020-05-27"
+   },
+   {
+    "id": 597535322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597535322/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597535322/large.jpg",
+    "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329621459",
+    "place": "High Park-Swansea, Toronto, ON, Canada",
+    "date": "2025-04-21"
+   },
+   {
+    "id": 598142983,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598142983/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598142983/large.jpg",
+    "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329921472",
+    "place": "High Park-Swansea, Toronto, ON, Canada",
+    "date": "2025-05-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 533231648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533231648/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533231648/large.jpg",
+    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/296160867",
+    "place": "York County, PA, USA",
+    "date": "2025-07-06"
+   },
+   {
+    "id": 283094194,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283094194/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283094194/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/163665110",
+    "place": "Jefferson Barracks Park, 345 North Rd W, St. Louis, MO 63125, USA",
+    "date": "2023-05-11"
+   },
+   {
+    "id": 364174654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364174654/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364174654/large.jpeg",
+    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/205930249",
+    "place": "Praha-Suchdol, Česko",
+    "date": "2024-04-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 161392051,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161392051/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161392051/large.jpg",
+    "attribution": "(c) Nathan Vaughn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/97088751",
+    "place": "Lakewood, Dallas, TX 75214, USA",
+    "date": "2021-05-17"
+   },
+   {
+    "id": 666222630,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666222630/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666222630/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/364924021",
+    "place": "E Foster Island Rd, Seattle, WA, US",
+    "date": "2026-05-24"
+   },
+   {
+    "id": 531759297,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531759297/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531759297/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/295385200",
+    "place": "Oakwood Manor, Sarasota, FL, USA",
+    "date": "2025-07-05"
+   }
+  ],
+  "hero": {
+   "id": 75956702,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75956702/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75956702/large.jpeg",
+   "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/47883634",
+   "place": "14055 Berlin, Germany",
+   "date": "2020-05-27"
+  }
+ },
+ "gbif": {
+  "key": 2498387,
+  "dkTotal": 649,
+  "dkMonths": [
+   76,
+   60,
+   126,
+   54,
+   68,
+   18,
+   7,
+   8,
+   8,
+   27,
+   55,
+   142
+  ],
+  "worldTotal": 6518513,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 5713659
+   },
+   {
+    "code": "CA",
+    "count": 777563
+   },
+   {
+    "code": "NL",
+    "count": 5439
+   },
+   {
+    "code": "BE",
+    "count": 4975
+   },
+   {
+    "code": "MX",
+    "count": 2542
+   },
+   {
+    "code": "DE",
+    "count": 2362
+   },
+   {
+    "code": "FR",
+    "count": 1818
+   },
+   {
+    "code": "SE",
+    "count": 1157
+   },
+   {
+    "code": "GB",
+    "count": 1078
+   },
+   {
+    "code": "ES",
+    "count": 943
+   },
+   {
+    "code": "BM",
+    "count": 844
+   },
+   {
+    "code": "DK",
+    "count": 649
+   }
+  ]
+ },
+ "warnings": []
+}

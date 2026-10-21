@@ -1,0 +1,202 @@
+{
+ "key": "casuarius-casuarius",
+ "name": "Casuarius casuarius",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:37:23.982Z",
+ "names": {
+  "da": "Hjelmkasuar",
+  "en": "Southern Cassowary",
+  "accepted": "Casuarius casuarius"
+ },
+ "wikidata": {
+  "id": "Q375790"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hjelmkasuar",
+  "extract": "Hjelmkasuar er en fugl i kasuarfamilien. Den er en af tre arter i slægten Casuarius. Arten er endemisk for Australasien.",
+  "url": "https://da.wikipedia.org/wiki/Hjelmkasuar"
+ },
+ "inat": {
+  "id": 20500,
+  "observations": 3686
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 559082050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559082050/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559082050/large.jpg",
+    "attribution": "(c) Romain Boisseau, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/309806702",
+    "place": "Cow Bay QLD, Australie",
+    "date": "2024-10-29"
+   },
+   {
+    "id": 674558935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/674558935/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/674558935/large.jpg",
+    "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/369295068",
+    "place": "Topaz QLD 4885, Australia",
+    "date": "2026-06-07"
+   },
+   {
+    "id": 600460101,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600460101/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600460101/large.jpg",
+    "attribution": "(c) Callum, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331049724",
+    "place": "Coquette Point QLD, Australia",
+    "date": "2025-12-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 559083093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559083093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559083093/large.jpg",
+    "attribution": "(c) Romain Boisseau, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/309806703",
+    "place": "Cap Tribulation Queensland, Australie",
+    "date": "2024-10-29"
+   },
+   {
+    "id": 38811671,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38811671/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38811671/large.jpeg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/25080126",
+    "place": "Eacham, Queensland, Australia",
+    "date": "2017-02-22"
+   },
+   {
+    "id": 115883768,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115883768/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115883768/large.jpg",
+    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/71200886",
+    "place": "Etty Bay Road, Etty Bay, QLD, AU",
+    "date": "2021-03-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 161203172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161203172/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161203172/large.png",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/96985521",
+    "place": "Kuranda QLD 4881, Australia",
+    "date": "2018-10-21"
+   },
+   {
+    "id": 395138117,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395138117/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395138117/large.jpeg",
+    "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/223029665",
+    "place": "Topaz QLD 4885, Australia",
+    "date": "2024-06-07"
+   },
+   {
+    "id": 243522226,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243522226/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243522226/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/142075504",
+    "place": "Cow Bay QLD 4873, Australia",
+    "date": "2022-11-11"
+   }
+  ],
+  "hero": {
+   "id": 559082050,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559082050/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559082050/large.jpg",
+   "attribution": "(c) Romain Boisseau, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/309806702",
+   "place": "Cow Bay QLD, Australie",
+   "date": "2024-10-29"
+  }
+ },
+ "gbif": {
+  "key": 5231783,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 12809,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 11925
+   },
+   {
+    "code": "ID",
+    "count": 154
+   },
+   {
+    "code": "PG",
+    "count": 146
+   },
+   {
+    "code": "ZZ",
+    "count": 40
+   },
+   {
+    "code": "US",
+    "count": 16
+   },
+   {
+    "code": "CD",
+    "count": 12
+   },
+   {
+    "code": "DE",
+    "count": 6
+   },
+   {
+    "code": "CO",
+    "count": 3
+   },
+   {
+    "code": "ES",
+    "count": 3
+   },
+   {
+    "code": "DK",
+    "count": 2
+   },
+   {
+    "code": "JP",
+    "count": 2
+   },
+   {
+    "code": "AT",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

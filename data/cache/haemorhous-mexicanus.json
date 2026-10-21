@@ -1,0 +1,202 @@
+{
+ "key": "haemorhous-mexicanus",
+ "name": "Haemorhous mexicanus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:11.216Z",
+ "names": {
+  "da": "Husfinke",
+  "en": null,
+  "accepted": "Haemorhous mexicanus"
+ },
+ "wikidata": {
+  "id": "Q25170208"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "House finch",
+  "extract": "The house finch is a North American bird in the finch family. It is native to Mexico and southwestern United States, but has since been introduced to the eastern part of North America and Hawaiʻi, and is found year-round in almost all parts of the United States and most of Mexico, with breeding grounds well into Canada as far north as northern Alberta. There are estimated to be 40 million house finches across North America, making it the second-most populous finch, just behind the American goldfinch. The house finch and the other two American rosefinches are placed in the genus Haemorhous.",
+  "url": "https://en.wikipedia.org/wiki/House_finch"
+ },
+ "inat": {
+  "id": 199840,
+  "observations": 347750
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 77680959,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/large.jpg",
+    "attribution": "(c) dennisvo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48944342",
+    "place": "Bruchstraße, Thedinghausen, Niedersachsen, DE",
+    "date": "2020-01-05"
+   },
+   {
+    "id": 614455764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614455764/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614455764/large.jpg",
+    "attribution": "(c) Michael Nerrie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337944153",
+    "place": "Cheshire, New Hampshire, United States",
+    "date": "2026-02-05"
+   },
+   {
+    "id": 182633138,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182633138/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182633138/large.jpeg",
+    "attribution": "(c) Jacob Weston, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/108470638",
+    "place": "Hardin Valley, Knoxville, TN, USA",
+    "date": "2021-04-09"
+   }
+  ],
+  "female": [
+   {
+    "id": 251642982,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251642982/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251642982/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146376170",
+    "place": "E Williams Field Rd, Mesa, AZ 85212, USA",
+    "date": "2023-01-11"
+   },
+   {
+    "id": 544463077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/544463077/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/544463077/large.jpg",
+    "attribution": "(c) Logan Jones, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/302119256",
+    "place": "Utah, US",
+    "date": "2025-07-29"
+   },
+   {
+    "id": 720325296,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/720325296/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/720325296/large.jpg",
+    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/393018574",
+    "place": "Durango, CO, USA",
+    "date": "2026-08-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 133962880,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133962880/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133962880/large.jpg",
+    "attribution": "(c) bungelina, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/81664989",
+    "place": "Chateau Dr, Saratoga, CA, US",
+    "date": "2021-06-04"
+   },
+   {
+    "id": 380181217,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380181217/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380181217/large.jpeg",
+    "attribution": "(c) Kailey Alderfer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/215057134",
+    "place": "Ancient Oaks, PA 18062, USA",
+    "date": "2024-05-11"
+   },
+   {
+    "id": 267681925,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267681925/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267681925/large.jpg",
+    "attribution": "(c) stephen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/154893256",
+    "place": "Goochland County, VA, USA",
+    "date": "2023-04-14"
+   }
+  ],
+  "hero": {
+   "id": 77680959,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/large.jpg",
+   "attribution": "(c) dennisvo, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/48944342",
+   "place": "Bruchstraße, Thedinghausen, Niedersachsen, DE",
+   "date": "2020-01-05"
+  }
+ },
+ "gbif": {
+  "key": 8323485,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 19250355,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 17559900
+   },
+   {
+    "code": "CA",
+    "count": 1435946
+   },
+   {
+    "code": "MX",
+    "count": 249719
+   },
+   {
+    "code": "GR",
+    "count": 1807
+   },
+   {
+    "code": "ES",
+    "count": 1379
+   },
+   {
+    "code": "NL",
+    "count": 163
+   },
+   {
+    "code": "BE",
+    "count": 119
+   },
+   {
+    "code": "DE",
+    "count": 117
+   },
+   {
+    "code": "CU",
+    "count": 36
+   },
+   {
+    "code": "GB",
+    "count": 20
+   },
+   {
+    "code": "GT",
+    "count": 18
+   },
+   {
+    "code": "ZZ",
+    "count": 15
+   }
+  ]
+ },
+ "warnings": []
+}

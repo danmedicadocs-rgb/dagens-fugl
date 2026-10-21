@@ -1,0 +1,120 @@
+{
+ "key": "linaria-flavirostris",
+ "name": "Linaria flavirostris",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:24:19.669Z",
+ "names": {
+  "da": "Bjergirisk",
+  "en": "Twite",
+  "accepted": "Linaria flavirostris"
+ },
+ "wikidata": {
+  "id": "Q10965357"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Bjergirisk",
+  "extract": "Bjergirisk er en lille spurvefugl i familien finker, der yngler i åbne områder med sparsom vegetation i forskellige dele af Nordeuropa, Mellemøsten og Centralasien, hvor den lever af frø fra urter. Det er en selskabelig fugl, der kan yngle i løse kolonier. I Danmark er arten en almindelig gæst fra Norge i vinterhalvåret, hvor den ses i større eller mindre flokke på især strandenge.",
+  "url": "https://da.wikipedia.org/wiki/Bjergirisk"
+ },
+ "inat": {
+  "id": 558633,
+  "observations": 2224
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 590760357,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590760357/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590760357/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326207196",
+    "place": "Ring of Brodgar, Orkney, UK",
+    "date": "2014-05-18"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 590760357,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590760357/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590760357/large.jpg",
+   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/326207196",
+   "place": "Ring of Brodgar, Orkney, UK",
+   "date": "2014-05-18"
+  }
+ },
+ "gbif": {
+  "key": 7668711,
+  "dkTotal": 61060,
+  "dkMonths": [
+   9329,
+   5998,
+   6081,
+   4254,
+   328,
+   7,
+   1,
+   2,
+   33,
+   15466,
+   12448,
+   7077
+  ],
+  "worldTotal": 317231,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 122595
+   },
+   {
+    "code": "NO",
+    "count": 69111
+   },
+   {
+    "code": "DK",
+    "count": 61060
+   },
+   {
+    "code": "GB",
+    "count": 27189
+   },
+   {
+    "code": "NL",
+    "count": 15596
+   },
+   {
+    "code": "IN",
+    "count": 3378
+   },
+   {
+    "code": "CN",
+    "count": 2915
+   },
+   {
+    "code": "DE",
+    "count": 2281
+   },
+   {
+    "code": "BE",
+    "count": 1762
+   },
+   {
+    "code": "PL",
+    "count": 1454
+   },
+   {
+    "code": "GE",
+    "count": 1430
+   },
+   {
+    "code": "FI",
+    "count": 1210
+   }
+  ]
+ },
+ "warnings": []
+}

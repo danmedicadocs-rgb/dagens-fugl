@@ -1,0 +1,202 @@
+{
+ "key": "circaetus-gallicus",
+ "name": "Circaetus gallicus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:01:31.810Z",
+ "names": {
+  "da": "Slangeørn",
+  "en": "Short-toed Snake Eagle",
+  "accepted": "Circaetus gallicus"
+ },
+ "wikidata": {
+  "id": "Q170251"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Slangeørn",
+  "extract": "Slangeørnen er en mellemstor ørn med et vingefang på op til 195 centimeter. Den er udbredt i Europa, Nordafrika og Asien. Føden består hovedsageligt af krybdyr og i særlig grad slanger. Det er en udpræget trækfugl med vinterkvarter i Afrika syd for Sahelområdet.",
+  "url": "https://da.wikipedia.org/wiki/Slange%C3%B8rn"
+ },
+ "inat": {
+  "id": 5242,
+  "observations": 17598
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 213312792,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213312792/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213312792/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/125765078",
+    "place": "07110 Vinezac, France",
+    "date": "2022-07-09"
+   },
+   {
+    "id": 472706753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472706753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472706753/large.jpg",
+    "attribution": "(c) Pål A. Olsvik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/263156060",
+    "place": "Lakhmanon Ki Basti, Rajasthan 345001, India",
+    "date": "2024-12-19"
+   },
+   {
+    "id": 386329980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/386329980/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/386329980/large.jpeg",
+    "attribution": "(c) Yves Bas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/218326194",
+    "place": "Hérault, Languedoc-Roussillon, FR",
+    "date": "2024-05-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 566386675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566386675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566386675/large.jpg",
+    "attribution": "(c) Jacky Judas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313629358",
+    "place": "Tanomah Arabie saoudite",
+    "date": "2025-09-12"
+   },
+   {
+    "id": 315282094,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315282094/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315282094/large.jpeg",
+    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/180949171",
+    "place": "Kobuleti Municipality, Georgia",
+    "date": "2013-10-01"
+   },
+   {
+    "id": 602534594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602534594/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602534594/large.jpg",
+    "attribution": "(c) Lucas Benaiche, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/332062262",
+    "place": "64440 Laruns, France",
+    "date": "2020-08-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 566295180,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566295180/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566295180/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313581718",
+    "place": "Gardabani Municipality, Georgia",
+    "date": "2025-09-12"
+   },
+   {
+    "id": 240487166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240487166/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240487166/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/140486503",
+    "place": "Фаришский район, Узбекистан",
+    "date": "2022-10-21"
+   },
+   {
+    "id": 327216016,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327216016/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327216016/large.jpeg",
+    "attribution": "(c) Pedro Eça, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/187147961",
+    "place": "8650 Sagres, Portugal",
+    "date": "2023-10-11"
+   }
+  ],
+  "hero": {
+   "id": 40950147,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40950147/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40950147/large.jpg",
+   "attribution": "(c) Vijay Vanaparthy, some rights reserved (CC BY), uploaded by Vijay Vanaparthy",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/40950147",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480666,
+  "dkTotal": 1547,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   26,
+   271,
+   153,
+   410,
+   496,
+   122,
+   68,
+   0,
+   0
+  ],
+  "worldTotal": 500239,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 151801
+   },
+   {
+    "code": "ES",
+    "count": 129635
+   },
+   {
+    "code": "IL",
+    "count": 55407
+   },
+   {
+    "code": "IN",
+    "count": 32725
+   },
+   {
+    "code": "PT",
+    "count": 30989
+   },
+   {
+    "code": "NL",
+    "count": 15661
+   },
+   {
+    "code": "GE",
+    "count": 14865
+   },
+   {
+    "code": "TR",
+    "count": 13719
+   },
+   {
+    "code": "GR",
+    "count": 10894
+   },
+   {
+    "code": "IT",
+    "count": 5372
+   },
+   {
+    "code": "BG",
+    "count": 4366
+   },
+   {
+    "code": "PS",
+    "count": 3150
+   }
+  ]
+ },
+ "warnings": []
+}

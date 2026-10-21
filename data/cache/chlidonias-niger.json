@@ -1,0 +1,162 @@
+{
+ "key": "chlidonias-niger",
+ "name": "Chlidonias niger",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:10:55.117Z",
+ "names": {
+  "da": "Sortterne",
+  "en": "Black Tern",
+  "accepted": "Chlidonias niger"
+ },
+ "wikidata": {
+  "id": "Q27215"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sortterne",
+  "extract": "Sortternen er en lille terne. De voksne fugle har korte, mørke ben og et kort, sort næb. Fuglen når en længde på 23-28 cm og vejer 60-75 g. Den yngler i ferskvandssumpe i Canada, i det nordlige USA, i det meste af Europa og i det vestlige Asien. Den er regnet som en truet art på den danske rødliste 2019.",
+  "url": "https://da.wikipedia.org/wiki/Sortterne"
+ },
+ "inat": {
+  "id": 4512,
+  "observations": 20328
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 59334224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37428884",
+    "place": "Глазов, республика Удмуртия, Россия",
+    "date": "2018-05-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 367011900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367011900/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367011900/large.jpg",
+    "attribution": "(c) Morgan Caygill, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/207485839",
+    "place": "Wyberton, Boston, England, GB",
+    "date": "2024-04-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 28398738,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28398738/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28398738/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18561699",
+    "place": "Кстово, Нижегородская обл., Россия",
+    "date": "2016-06-13"
+   },
+   {
+    "id": 665607774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665607774/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665607774/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/364598996",
+    "place": "Sandymount Strand",
+    "date": "2009-09-04"
+   },
+   {
+    "id": 567689515,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567689515/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567689515/large.jpg",
+    "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/314306429",
+    "place": "Lisvane Reservoir, Cardiff, UK",
+    "date": "2025-09-15"
+   }
+  ],
+  "hero": {
+   "id": 59334224,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/large.jpg",
+   "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/37428884",
+   "place": "Глазов, республика Удмуртия, Россия",
+   "date": "2018-05-19"
+  }
+ },
+ "gbif": {
+  "key": 2481119,
+  "dkTotal": 26053,
+  "dkMonths": [
+   0,
+   0,
+   1,
+   810,
+   8427,
+   3421,
+   5485,
+   7335,
+   366,
+   86,
+   23,
+   0
+  ],
+  "worldTotal": 816720,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 345394
+   },
+   {
+    "code": "CA",
+    "count": 107019
+   },
+   {
+    "code": "SE",
+    "count": 93179
+   },
+   {
+    "code": "NL",
+    "count": 64458
+   },
+   {
+    "code": "FR",
+    "count": 26366
+   },
+   {
+    "code": "DK",
+    "count": 26053
+   },
+   {
+    "code": "ES",
+    "count": 22823
+   },
+   {
+    "code": "GB",
+    "count": 19278
+   },
+   {
+    "code": "BE",
+    "count": 14248
+   },
+   {
+    "code": "PL",
+    "count": 10748
+   },
+   {
+    "code": "DE",
+    "count": 9686
+   },
+   {
+    "code": "RU",
+    "count": 8944
+   }
+  ]
+ },
+ "warnings": []
+}

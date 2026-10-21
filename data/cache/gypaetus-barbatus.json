@@ -1,0 +1,151 @@
+{
+ "key": "gypaetus-barbatus",
+ "name": "Gypaetus barbatus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:25:53.837Z",
+ "names": {
+  "da": "Lammegrib",
+  "en": "Bearded vulture",
+  "accepted": "Gypaetus barbatus"
+ },
+ "wikidata": {
+  "id": "Q126167"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lammegrib",
+  "extract": "Lammegribben er en meget stor rovfugl med et vingefang på op til 280 centimeter. Den er udbredt i Sydeuropa, Afrika og Asien. Den lever af ådsler af nyligt døde dyr og deres knogler samt dyr, som den selv fanger. Det anslås, at 85-90 % af føden er knoglemarv. Lammegrib er den eneste art i slægten Gypaetus. Den er standfugl.",
+  "url": "https://da.wikipedia.org/wiki/Lammegrib"
+ },
+ "inat": {
+  "id": 5379,
+  "observations": 8263
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 141608823,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141608823/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141608823/large.jpeg",
+    "attribution": "(c) Samuel GUIRAUDOU, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/86004355",
+    "place": "48150 Meyrueis, France",
+    "date": "2021-07-04"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 209953645,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209953645/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209953645/large.jpeg",
+    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123903146",
+    "place": "बिर्थी वॉटरफॉल",
+    "date": "2022-05-17"
+   },
+   {
+    "id": 340463197,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340463197/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340463197/large.jpeg",
+    "attribution": "(c) Antoine MARNAT, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/193786395",
+    "place": "Villar-d'Arène, France",
+    "date": "2013-02-27"
+   },
+   {
+    "id": 364202643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364202643/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364202643/large.jpeg",
+    "attribution": "(c) Justin Ponder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/205957341",
+    "place": "Lesotho",
+    "date": "2024-02-29"
+   }
+  ],
+  "hero": {
+   "id": 141608823,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141608823/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141608823/large.jpeg",
+   "attribution": "(c) Samuel GUIRAUDOU, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/86004355",
+   "place": "48150 Meyrueis, France",
+   "date": "2021-07-04"
+  }
+ },
+ "gbif": {
+  "key": 2480649,
+  "dkTotal": 123,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   61,
+   61,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 105817,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 30099
+   },
+   {
+    "code": "AT",
+    "count": 18291
+   },
+   {
+    "code": "ES",
+    "count": 18126
+   },
+   {
+    "code": "IN",
+    "count": 8286
+   },
+   {
+    "code": "CN",
+    "count": 2807
+   },
+   {
+    "code": "ZA",
+    "count": 2706
+   },
+   {
+    "code": "IT",
+    "count": 2640
+   },
+   {
+    "code": "CH",
+    "count": 2535
+   },
+   {
+    "code": "GE",
+    "count": 2103
+   },
+   {
+    "code": "NL",
+    "count": 2099
+   },
+   {
+    "code": "NP",
+    "count": 1864
+   },
+   {
+    "code": "MN",
+    "count": 1805
+   }
+  ]
+ },
+ "warnings": []
+}

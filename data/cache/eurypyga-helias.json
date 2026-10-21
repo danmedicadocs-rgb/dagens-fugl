@@ -1,0 +1,152 @@
+{
+ "key": "eurypyga-helias",
+ "name": "Eurypyga helias",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:23.245Z",
+ "names": {
+  "da": "Solrikse",
+  "en": "Sunbittern",
+  "accepted": "Eurypyga helias"
+ },
+ "wikidata": {
+  "id": "Q601107"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Solrikse",
+  "extract": "Solrikse er en fugleart, der lever i Centralamerikas sydlige halvt og Sydamerikas nordlige halvt.",
+  "url": "https://da.wikipedia.org/wiki/Solrikse"
+ },
+ "inat": {
+  "id": 19,
+  "observations": 2528
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 194465281,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194465281/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194465281/large.jpg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/115206247",
+    "place": "Platanillo, Provincia de Cartago, Turrialba, Costa Rica",
+    "date": "2022-04-15"
+   }
+  ],
+  "adult": [
+   {
+    "id": 468741127,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/large.jpg",
+    "attribution": "(c) Dan Vickers, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/260961654",
+    "place": "6826G4X2+WR",
+    "date": "2019-09-04"
+   },
+   {
+    "id": 137806560,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137806560/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137806560/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/83883878",
+    "place": "Pium - TO, 77570-000, Brasil",
+    "date": "2019-11-27"
+   },
+   {
+    "id": 264005378,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264005378/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264005378/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/152898403",
+    "place": "Cocle, PA",
+    "date": "2023-03-30"
+   }
+  ],
+  "hero": {
+   "id": 468741127,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/large.jpg",
+   "attribution": "(c) Dan Vickers, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/260961654",
+   "place": "6826G4X2+WR",
+   "date": "2019-09-04"
+  }
+ },
+ "gbif": {
+  "key": 2474332,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 49052,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 12052
+   },
+   {
+    "code": "BR",
+    "count": 11853
+   },
+   {
+    "code": "CO",
+    "count": 9121
+   },
+   {
+    "code": "PE",
+    "count": 6050
+   },
+   {
+    "code": "EC",
+    "count": 3925
+   },
+   {
+    "code": "VE",
+    "count": 1819
+   },
+   {
+    "code": "PA",
+    "count": 1681
+   },
+   {
+    "code": "BO",
+    "count": 1192
+   },
+   {
+    "code": "GY",
+    "count": 730
+   },
+   {
+    "code": "HN",
+    "count": 171
+   },
+   {
+    "code": "SR",
+    "count": 116
+   },
+   {
+    "code": "GF",
+    "count": 84
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,172 @@
+{
+ "key": "cygnus-columbianus",
+ "name": "Cygnus columbianus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:54:35.477Z",
+ "names": {
+  "da": "Pibesvane",
+  "en": null,
+  "accepted": "Cygnus columbianus"
+ },
+ "wikidata": {
+  "id": "Q26603"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Pibesvane",
+  "extract": "Pibesvanen er en af de tre svanearter, man kan træffe i det fri i Danmark. Dens udseende minder forholdsvis meget om sangsvanens, men den har en kortere hals, og næbbets gule plet strækker sig ikke så langt frem. Den mindre størrelse har givet anledning til svanens norske navn dvergsvane, dværgsvane, og det svenske navn mindre sångsvan, mindre sangsvane. Som hos de andre svanearter er hannen og hunnen ens. Pibesvanen lever af vandplanter.",
+  "url": "https://da.wikipedia.org/wiki/Pibesvane"
+ },
+ "inat": {
+  "id": 6917,
+  "observations": 22825
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 460827495,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460827495/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460827495/large.jpg",
+    "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256952887",
+    "place": "St. Albert, AB, Canada",
+    "date": "2024-10-26"
+   },
+   {
+    "id": 442494345,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442494345/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442494345/large.jpg",
+    "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/247723252",
+    "place": "Sturgeon County, AB, Canada",
+    "date": "2024-10-13"
+   },
+   {
+    "id": 29605141,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29605141/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29605141/large.jpg",
+    "attribution": "(c) John Brew, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19265017",
+    "place": "4752–5298 Norman Rd, Stanwood, WA, US",
+    "date": "2018-12-27"
+   }
+  ],
+  "adult": [
+   {
+    "id": 460827507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460827507/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460827507/large.jpg",
+    "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256952890",
+    "place": "St. Albert, AB, Canada",
+    "date": "2024-10-26"
+   },
+   {
+    "id": 243435691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243435691/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243435691/large.jpeg",
+    "attribution": "(c) Laurel Meredyk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/142028834",
+    "place": "Benewah County, ID, USA",
+    "date": "2022-11-14"
+   },
+   {
+    "id": 452508438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452508438/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452508438/large.jpeg",
+    "attribution": "(c) miel00, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/252758208",
+    "place": "Wabasha County, US-MN, US",
+    "date": "2024-11-23"
+   }
+  ],
+  "hero": {
+   "id": 183205026,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183205026/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/183205026/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Andy Wilson",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/183205026",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498338,
+  "dkTotal": 36015,
+  "dkMonths": [
+   5244,
+   5404,
+   6968,
+   1382,
+   64,
+   6,
+   2,
+   1,
+   66,
+   5633,
+   6719,
+   4493
+  ],
+  "worldTotal": 1082838,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 673588
+   },
+   {
+    "code": "CA",
+    "count": 129849
+   },
+   {
+    "code": "NL",
+    "count": 72366
+   },
+   {
+    "code": "SE",
+    "count": 71863
+   },
+   {
+    "code": "DK",
+    "count": 36015
+   },
+   {
+    "code": "BE",
+    "count": 21926
+   },
+   {
+    "code": "GB",
+    "count": 18168
+   },
+   {
+    "code": "RU",
+    "count": 12204
+   },
+   {
+    "code": "EE",
+    "count": 9055
+   },
+   {
+    "code": "JP",
+    "count": 8250
+   },
+   {
+    "code": "FR",
+    "count": 6083
+   },
+   {
+    "code": "CN",
+    "count": 4558
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,202 @@
+{
+ "key": "cuculus-canorus",
+ "name": "Cuculus canorus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:12:13.606Z",
+ "names": {
+  "da": "Gøg",
+  "en": "Common Cuckoo",
+  "accepted": "Cuculus canorus"
+ },
+ "wikidata": {
+  "id": "Q18845"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gøg",
+  "extract": "Gøgen er en fugl, der findes udbredt over næsten hele Europa og store dele af Asien. Den er meget almindelig i Danmark som ynglefugl i blandt andet moseområder og løvskove. Gøgen er grå med lys mørkstribet underside og lang hale og kan derfor minde om spurvehøgen. Arten er redeparasit, det vil sige at den lader andre fugle opfostre sine unger. Gøgens sang er en karakteristisk \"kukken\". Føden består især af store, behårede sommerfuglelarver, der undgås af mange andre fugle.",
+  "url": "https://da.wikipedia.org/wiki/G%C3%B8g"
+ },
+ "inat": {
+  "id": 1907,
+  "observations": 32818
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 686416748,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686416748/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686416748/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375473110",
+    "place": "Tobes, Burgos, España",
+    "date": "2026-06-20"
+   },
+   {
+    "id": 127387731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127387731/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127387731/large.jpeg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/77871367",
+    "place": "Респ. Башкортостан, Россия, 452209",
+    "date": "2021-05-08"
+   },
+   {
+    "id": 125860111,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125860111/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125860111/large.jpg",
+    "attribution": "(c) Иван Шихалев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/76960133",
+    "place": "Артинский район, Свердловская область, Россия",
+    "date": "2021-05-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 738906486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/738906486/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/738906486/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/402501055",
+    "place": "Светлый, Оренбургская обл., Россия, 462740",
+    "date": "2026-09-22"
+   },
+   {
+    "id": 306034873,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306034873/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306034873/large.jpg",
+    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176055070",
+    "place": "29 Harkins Slough Rd, Watsonville, CA 95076, USA",
+    "date": "2012-09-29"
+   },
+   {
+    "id": 305431856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305431856/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305431856/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/175731954",
+    "place": "Inkoo, Suomi",
+    "date": "2023-07-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 140638774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140638774/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140638774/large.jpg",
+    "attribution": "(c) Ramnarayan K, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/85476479",
+    "place": "Sarmoli, Munsyari, Uttarakhand 262554, India",
+    "date": "2021-07-03"
+   },
+   {
+    "id": 85456754,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85456754/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85456754/large.jpg",
+    "attribution": "(c) Safina Rezeda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/53722074",
+    "place": "Рангазар, Респ. Татарстан, Россия, 423359",
+    "date": "2020-07-18"
+   },
+   {
+    "id": 127657018,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127657018/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127657018/large.jpeg",
+    "attribution": "(c) Adrien Nouailhane, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78030593",
+    "place": "24570 Condat-sur-Vézère, France",
+    "date": "2021-05-08"
+   }
+  ],
+  "hero": {
+   "id": 686416748,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686416748/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686416748/large.jpg",
+   "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/375473110",
+   "place": "Tobes, Burgos, España",
+   "date": "2026-06-20"
+  }
+ },
+ "gbif": {
+  "key": 5231918,
+  "dkTotal": 168808,
+  "dkMonths": [
+   1,
+   0,
+   4,
+   2625,
+   95351,
+   54639,
+   11917,
+   4031,
+   124,
+   41,
+   3,
+   1
+  ],
+  "worldTotal": 2047186,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 375265
+   },
+   {
+    "code": "NL",
+    "count": 313233
+   },
+   {
+    "code": "FR",
+    "count": 301844
+   },
+   {
+    "code": "DK",
+    "count": 168808
+   },
+   {
+    "code": "GB",
+    "count": 113965
+   },
+   {
+    "code": "DE",
+    "count": 107746
+   },
+   {
+    "code": "ES",
+    "count": 102666
+   },
+   {
+    "code": "NO",
+    "count": 79375
+   },
+   {
+    "code": "BE",
+    "count": 76720
+   },
+   {
+    "code": "FI",
+    "count": 74764
+   },
+   {
+    "code": "PT",
+    "count": 31702
+   },
+   {
+    "code": "RU",
+    "count": 31609
+   }
+  ]
+ },
+ "warnings": []
+}

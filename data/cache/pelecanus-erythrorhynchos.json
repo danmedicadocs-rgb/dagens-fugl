@@ -1,0 +1,171 @@
+{
+ "key": "pelecanus-erythrorhynchos",
+ "name": "Pelecanus erythrorhynchos",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:44:21.722Z",
+ "names": {
+  "da": "Amerikansk Hvid Pelikan",
+  "en": "American White Pelican",
+  "accepted": "Pelecanus erythrorhynchos"
+ },
+ "wikidata": {
+  "id": "Q735190"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "American white pelican",
+  "extract": "The American white pelican is a large aquatic soaring bird from the order Pelecaniformes. It breeds in interior North America, moving south and to the coasts, as far as Costa Rica, in winter.",
+  "url": "https://en.wikipedia.org/wiki/American_white_pelican"
+ },
+ "inat": {
+  "id": 4334,
+  "observations": 88225
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 113661497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/large.jpg",
+    "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69971389",
+    "place": "San Jerónimo Purenchécuaro, Mich., México",
+    "date": "2021-02-20"
+   },
+   {
+    "id": 230748458,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230748458/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230748458/large.jpg",
+    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/135302283",
+    "place": "Lincoln County, NV, USA",
+    "date": "2021-04-01"
+   },
+   {
+    "id": 89911294,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89911294/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89911294/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/56420969",
+    "place": "Baylands, Santa Clara County, USA",
+    "date": "2020-08-13"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 28242001,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28242001/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28242001/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/18470384",
+    "place": "Sunnyvale Baylands, CA, USA",
+    "date": "2018-11-17"
+   },
+   {
+    "id": 297764339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297764339/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/297764339/large.png",
+    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/171587839",
+    "place": "Craven, SK, Canada",
+    "date": "2023-07-02"
+   },
+   {
+    "id": 142495730,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142495730/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/142495730/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/86494728",
+    "place": "Baylands, Santa Clara County, CA, USA",
+    "date": "2021-07-09"
+   }
+  ],
+  "hero": {
+   "id": 113661497,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/large.jpg",
+   "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/69971389",
+   "place": "San Jerónimo Purenchécuaro, Mich., México",
+   "date": "2021-02-20"
+  }
+ },
+ "gbif": {
+  "key": 5229155,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 2176874,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1982623
+   },
+   {
+    "code": "CA",
+    "count": 130290
+   },
+   {
+    "code": "MX",
+    "count": 53799
+   },
+   {
+    "code": "CU",
+    "count": 3467
+   },
+   {
+    "code": "HN",
+    "count": 1367
+   },
+   {
+    "code": "SV",
+    "count": 1191
+   },
+   {
+    "code": "GT",
+    "count": 1107
+   },
+   {
+    "code": "BZ",
+    "count": 977
+   },
+   {
+    "code": "NI",
+    "count": 656
+   },
+   {
+    "code": "PA",
+    "count": 458
+   },
+   {
+    "code": "CR",
+    "count": 238
+   },
+   {
+    "code": "PR",
+    "count": 118
+   }
+  ]
+ },
+ "warnings": []
+}

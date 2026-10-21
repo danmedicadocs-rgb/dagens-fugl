@@ -1,0 +1,202 @@
+{
+ "key": "curruca-melanocephala",
+ "name": "Curruca melanocephala",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:27:00.998Z",
+ "names": {
+  "da": "Sorthovedet sanger",
+  "en": null,
+  "accepted": "Curruca melanocephala"
+ },
+ "wikidata": {
+  "id": "Q110257507"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Sardinian warbler",
+  "extract": "The Sardinian warbler is a common and widespread Sylviidae warbler from the Mediterranean region. Like most Curruca species, it has distinct male and female plumages. The adult male has a grey back, whitish underparts, black head, white throat and red eyes. Plumages are somewhat variable even in the same locality, with the intensity of a reddish hue on upper- and/or underside that varies from absent to pronounced. The female is mainly brown above and buff below, with a grey head. The Sardinian warbler's song is fast and rattling, and is very characteristic of the Mediterranean areas where this bird breeds.",
+  "url": "https://en.wikipedia.org/wiki/Sardinian_warbler"
+ },
+ "inat": {
+  "id": 1289472,
+  "observations": 23339
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 289588968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289588968/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289588968/large.jpeg",
+    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167183693",
+    "place": "Cádis, Espanha",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 155020668,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155020668/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155020668/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/93525270",
+    "place": "29693 La Gaspara, Málaga, Spain",
+    "date": "2021-08-26"
+   },
+   {
+    "id": 378892222,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378892222/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378892222/large.jpeg",
+    "attribution": "(c) Pirataber, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/214361200",
+    "place": "Parque del Guadalhorce, Churriana, 29004 Málaga, España",
+    "date": "2024-04-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 453921512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453921512/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453921512/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253502530",
+    "place": "Las Palmas, Spain",
+    "date": "2024-09-01"
+   },
+   {
+    "id": 84932060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84932060/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84932060/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/53401019",
+    "place": "Tindouf, Tindouf, Algeria",
+    "date": "2020-01-24"
+   },
+   {
+    "id": 675569334,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675569334/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675569334/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/369832976",
+    "place": "13460 Saintes-Maries-de-la-Mer, France",
+    "date": "2026-05-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 273614701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273614701/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273614701/large.jpg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/158310214",
+    "place": "El Clot, Barcelona, Spain",
+    "date": "2023-04-30"
+   },
+   {
+    "id": 273616069,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273616069/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273616069/large.jpg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/158310999",
+    "place": "El Clot, Barcelona, Spain",
+    "date": "2023-04-30"
+   },
+   {
+    "id": 506054131,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506054131/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506054131/large.jpg",
+    "attribution": "(c) Andrea Adelfio, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281693576",
+    "place": "Montegrillo, Perugia PG, Italia",
+    "date": "2025-05-16"
+   }
+  ],
+  "hero": {
+   "id": 289588968,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289588968/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289588968/large.jpeg",
+   "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/167183693",
+   "place": "Cádis, Espanha",
+   "date": "2023-06-09"
+  }
+ },
+ "gbif": {
+  "key": 9990095,
+  "dkTotal": 153,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   12,
+   19,
+   3,
+   67,
+   28,
+   24,
+   0,
+   0
+  ],
+  "worldTotal": 992217,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 498003
+   },
+   {
+    "code": "PT",
+    "count": 247800
+   },
+   {
+    "code": "IL",
+    "count": 62650
+   },
+   {
+    "code": "FR",
+    "count": 44659
+   },
+   {
+    "code": "IT",
+    "count": 42105
+   },
+   {
+    "code": "GR",
+    "count": 29323
+   },
+   {
+    "code": "TR",
+    "count": 15352
+   },
+   {
+    "code": "MA",
+    "count": 15215
+   },
+   {
+    "code": "CY",
+    "count": 13365
+   },
+   {
+    "code": "PS",
+    "count": 7111
+   },
+   {
+    "code": "MT",
+    "count": 2658
+   },
+   {
+    "code": "HR",
+    "count": 2651
+   }
+  ]
+ },
+ "warnings": []
+}

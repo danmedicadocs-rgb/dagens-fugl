@@ -1,0 +1,146 @@
+{
+ "key": "pternistis-swainsonii",
+ "name": "Pternistis swainsonii",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:42.192Z",
+ "names": {
+  "da": "Gråbrun Sporehøne",
+  "en": null,
+  "accepted": "Pternistis swainsonii"
+ },
+ "wikidata": {
+  "id": "Q20830886"
+ },
+ "wiki": null,
+ "inat": {
+  "id": 495984,
+  "observations": 2358
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 635147821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635147821/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635147821/large.jpg",
+    "attribution": "(c) Rudolph Steenkamp, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/348272865",
+    "place": "Spitskop Small Holdings, Bloemfontein, 9301, South Africa",
+    "date": "2026-04-05"
+   },
+   {
+    "id": 740281857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740281857/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740281857/large.jpg",
+    "attribution": "(c) Rudolph Steenkamp, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/403205510",
+    "place": "Spitskop Small Holdings, Bloemfontein, 9301, South Africa",
+    "date": "2026-09-23"
+   },
+   {
+    "id": 491294500,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/491294500/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/491294500/large.jpg",
+    "attribution": "(c) Rudolph Steenkamp, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/273123609",
+    "place": "Spitskop Small Holdings, Bloemfontein, 9301, South Africa",
+    "date": "2025-04-25"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 31121496,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31121496/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31121496/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20170863",
+    "place": "D2440 (5)",
+    "date": "2017-06-08"
+   }
+  ],
+  "hero": {
+   "id": 5635667,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5635667/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5635667/large.jpg",
+   "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/5635667",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2473944,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 172828,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 149950
+   },
+   {
+    "code": "ZW",
+    "count": 8018
+   },
+   {
+    "code": "BW",
+    "count": 6472
+   },
+   {
+    "code": "ZM",
+    "count": 4419
+   },
+   {
+    "code": "NA",
+    "count": 3120
+   },
+   {
+    "code": "SZ",
+    "count": 499
+   },
+   {
+    "code": "LS",
+    "count": 134
+   },
+   {
+    "code": "MZ",
+    "count": 94
+   },
+   {
+    "code": "MW",
+    "count": 20
+   },
+   {
+    "code": "AO",
+    "count": 10
+   },
+   {
+    "code": "KE",
+    "count": 2
+   },
+   {
+    "code": "CD",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

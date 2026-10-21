@@ -1,0 +1,141 @@
+{
+ "key": "phylloscopus-fuscatus",
+ "name": "Phylloscopus fuscatus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:16.384Z",
+ "names": {
+  "da": "Brun Løvsanger",
+  "en": "Dusky Warbler",
+  "accepted": "Phylloscopus fuscatus"
+ },
+ "wikidata": {
+  "id": "Q368505"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Dusky warbler",
+  "extract": "The dusky warbler is a leaf warbler which breeds in the east Palearctic. The genus name Phylloscopus is from Ancient Greek phullon, \"leaf\", and skopos, \"seeker\". The specific fuscatus is from Latin fuscus \"dark\".",
+  "url": "https://en.wikipedia.org/wiki/Dusky_warbler"
+ },
+ "inat": {
+  "id": 117022,
+  "observations": 3213
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 465386913,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465386913/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465386913/large.jpg",
+    "attribution": "(c) Devin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/259274256",
+    "place": "Mawlai, Shillong",
+    "date": "2024-12-02"
+   },
+   {
+    "id": 30740337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30740337/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30740337/large.jpg",
+    "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/19926971",
+    "place": "Karimganj, IN-AS, IN",
+    "date": "2019-01-25"
+   },
+   {
+    "id": 445020582,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445020582/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445020582/large.jpg",
+    "attribution": "(c) Devin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/248996178",
+    "place": "Mawlai, Shillong",
+    "date": "2024-10-25"
+   }
+  ],
+  "hero": {
+   "id": 465386913,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465386913/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465386913/large.jpg",
+   "attribution": "(c) Devin, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/259274256",
+   "place": "Mawlai, Shillong",
+   "date": "2024-12-02"
+  }
+ },
+ "gbif": {
+  "key": 2493075,
+  "dkTotal": 828,
+  "dkMonths": [
+   5,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   12,
+   570,
+   195,
+   44
+  ],
+  "worldTotal": 135424,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 21385
+   },
+   {
+    "code": "IN",
+    "count": 19871
+   },
+   {
+    "code": "TH",
+    "count": 18533
+   },
+   {
+    "code": "HK",
+    "count": 16703
+   },
+   {
+    "code": "CN",
+    "count": 16051
+   },
+   {
+    "code": "NL",
+    "count": 7640
+   },
+   {
+    "code": "SE",
+    "count": 5087
+   },
+   {
+    "code": "KH",
+    "count": 4998
+   },
+   {
+    "code": "MN",
+    "count": 3205
+   },
+   {
+    "code": "RU",
+    "count": 2894
+   },
+   {
+    "code": "BD",
+    "count": 2488
+   },
+   {
+    "code": "LA",
+    "count": 2068
+   }
+  ]
+ },
+ "warnings": []
+}

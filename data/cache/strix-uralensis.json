@@ -1,0 +1,182 @@
+{
+ "key": "strix-uralensis",
+ "name": "Strix uralensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:07.387Z",
+ "names": {
+  "da": "Slagugle",
+  "en": "Ural Owl",
+  "accepted": "Strix uralensis"
+ },
+ "wikidata": {
+  "id": "Q190083"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Slagugle",
+  "extract": "Slagugle er en ugle, der lever i Eurasien. Den har typisk en højde på 58-62 centimeter og kan have et vingefang på imellem 124-134 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/Slagugle"
+ },
+ "inat": {
+  "id": 19910,
+  "observations": 8415
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 345665867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/196352034",
+    "place": "ул. Ленина 19Е, г. Нефтекамск, Респ. Башкортостан, Россия",
+    "date": "2023-12-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 375802068,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375802068/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375802068/large.jpg",
+    "attribution": "(c) Oleg Kosterin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212659307",
+    "place": "Iskitimskiy rayon, RU-NS, RU",
+    "date": "2024-04-30"
+   },
+   {
+    "id": 375214566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375214566/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375214566/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212319202",
+    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
+    "date": "2024-04-30"
+   },
+   {
+    "id": 449609952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449609952/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449609952/large.jpg",
+    "attribution": "(c) Jono, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/251291379",
+    "place": null,
+    "date": "2023-05-10"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 117844954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117844954/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117844954/large.jpeg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/72295482",
+    "place": "Респ. Башкортостан, Россия, 450075",
+    "date": "2019-04-05"
+   },
+   {
+    "id": 406877739,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406877739/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/406877739/large.jpeg",
+    "attribution": "(c) Anastasiia Samokhvalova, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/229230453",
+    "place": "Сахалинская обл., Россия, 693023",
+    "date": "2024-07-14"
+   },
+   {
+    "id": 524893001,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524893001/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524893001/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/291718998",
+    "place": "Lesser Poland, PL",
+    "date": "2025-06-22"
+   }
+  ],
+  "hero": {
+   "id": 345665867,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/196352034",
+   "place": "ул. Ленина 19Е, г. Нефтекамск, Респ. Башкортостан, Россия",
+   "date": "2023-12-04"
+  }
+ },
+ "gbif": {
+  "key": 2497509,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 153723,
+  "topCountries": [
+   {
+    "code": "FI",
+    "count": 111148
+   },
+   {
+    "code": "SE",
+    "count": 26347
+   },
+   {
+    "code": "RU",
+    "count": 7124
+   },
+   {
+    "code": "EE",
+    "count": 5416
+   },
+   {
+    "code": "JP",
+    "count": 877
+   },
+   {
+    "code": "UA",
+    "count": 728
+   },
+   {
+    "code": "RO",
+    "count": 288
+   },
+   {
+    "code": "PL",
+    "count": 275
+   },
+   {
+    "code": "NO",
+    "count": 215
+   },
+   {
+    "code": "HU",
+    "count": 187
+   },
+   {
+    "code": "SI",
+    "count": 149
+   },
+   {
+    "code": "AT",
+    "count": 89
+   }
+  ]
+ },
+ "warnings": []
+}

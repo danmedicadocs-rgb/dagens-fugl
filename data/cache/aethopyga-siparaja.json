@@ -1,0 +1,202 @@
+{
+ "key": "aethopyga-siparaja",
+ "name": "Aethopyga siparaja",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:35:45.487Z",
+ "names": {
+  "da": "Karminsolfugl",
+  "en": "Crimson sunbird",
+  "accepted": "Aethopyga siparaja"
+ },
+ "wikidata": {
+  "id": "Q73760"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Crimson sunbird",
+  "extract": "The crimson sunbird is a species of bird in the sunbird family which feed largely on nectar. They may also take insects, especially when feeding their young. Flight is fast and direct on their short wings. Most species can take nectar by hovering like a hummingbird, but usually perch to feed. It is the unofficial national bird of Singapore, as declared by the Nature Society Singapore.",
+  "url": "https://en.wikipedia.org/wiki/Crimson_sunbird"
+ },
+ "inat": {
+  "id": 204458,
+  "observations": 4626
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 186495973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186495973/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186495973/large.jpeg",
+    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/110544446",
+    "place": "Central Water Catchment, Singapore",
+    "date": "2022-04-06"
+   },
+   {
+    "id": 101685208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101685208/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101685208/large.jpg",
+    "attribution": "(c) Gerard Chartier, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63367808",
+    "place": "Khum Pak Khlang, Cambodia",
+    "date": "2010-12-23"
+   },
+   {
+    "id": 176008506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176008506/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176008506/large.jpeg",
+    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104968061",
+    "place": "Lim Chu Kang, Singapore",
+    "date": "2022-01-15"
+   }
+  ],
+  "female": [
+   {
+    "id": 357100426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/357100426/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/357100426/large.jpeg",
+    "attribution": "(c) Seno Nur Rohman, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/202217144",
+    "place": "X6QG+GHQ, Lanjak Deras, Kec. Batang Lupar, Kabupaten Kapuas Hulu, Kalimantan Barat, Indonesia",
+    "date": "2024-03-05"
+   },
+   {
+    "id": 410486482,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410486482/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410486482/large.jpg",
+    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/231139672",
+    "place": "Kalauta, Uttarakhand, India",
+    "date": "2024-07-16"
+   },
+   {
+    "id": 60118110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60118110/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60118110/large.jpg",
+    "attribution": "(c) Carrie Seltzer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37869778",
+    "place": "Bukit Timah, West, Singapore",
+    "date": "2020-01-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 375558200,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375558200/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375558200/large.jpg",
+    "attribution": "(c) Gerard Chartier, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212517198",
+    "place": "Thma Bang, Cambodia",
+    "date": "2024-05-01"
+   },
+   {
+    "id": 116916236,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116916236/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116916236/large.jpeg",
+    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71777676",
+    "place": "Jurong West, Singapore",
+    "date": "2021-03-22"
+   },
+   {
+    "id": 176006667,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176006667/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176006667/large.jpeg",
+    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/104968038",
+    "place": "Lim Chu Kang, Singapore",
+    "date": "2022-01-15"
+   }
+  ],
+  "hero": {
+   "id": 186495973,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186495973/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186495973/large.jpeg",
+   "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/110544446",
+   "place": "Central Water Catchment, Singapore",
+   "date": "2022-04-06"
+  }
+ },
+ "gbif": {
+  "key": 2484677,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 77409,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 32311
+   },
+   {
+    "code": "SG",
+    "count": 13335
+   },
+   {
+    "code": "MY",
+    "count": 9477
+   },
+   {
+    "code": "TH",
+    "count": 6280
+   },
+   {
+    "code": "NP",
+    "count": 4677
+   },
+   {
+    "code": "VN",
+    "count": 2403
+   },
+   {
+    "code": "ID",
+    "count": 2137
+   },
+   {
+    "code": "BT",
+    "count": 1832
+   },
+   {
+    "code": "CN",
+    "count": 1610
+   },
+   {
+    "code": "KH",
+    "count": 933
+   },
+   {
+    "code": "BD",
+    "count": 795
+   },
+   {
+    "code": "LA",
+    "count": 651
+   }
+  ]
+ },
+ "warnings": []
+}

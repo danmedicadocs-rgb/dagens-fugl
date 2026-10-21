@@ -1,0 +1,202 @@
+{
+ "key": "melanerpes-formicivorus",
+ "name": "Melanerpes formicivorus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:42:17.611Z",
+ "names": {
+  "da": "Agernspætte",
+  "en": "Acorn Woodpecker",
+  "accepted": "Melanerpes formicivorus"
+ },
+ "wikidata": {
+  "id": "Q368657"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Agernspætte",
+  "extract": "Agernspætten er en spætte i ordenen af spættefugle. De lever i skovområder med egetræer fra det sydlige USA til Colombia. Som navnet antyder, er agern deres primære føde.",
+  "url": "https://da.wikipedia.org/wiki/Agernsp%C3%A6tte"
+ },
+ "inat": {
+  "id": 18209,
+  "observations": 70858
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 3085,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3085/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3085/large.jpg",
+    "attribution": "(c) Dmitry Mozzherin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2376",
+    "place": "Fort Huachuca, Arizona, United States",
+    "date": "2006-12-26"
+   },
+   {
+    "id": 481432302,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481432302/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481432302/large.jpeg",
+    "attribution": "(c) Guillermo Roque, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/267866585",
+    "place": "Pacheco, CA 94553, USA",
+    "date": "2025-03-20"
+   },
+   {
+    "id": 81351628,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81351628/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81351628/large.jpg",
+    "attribution": "(c) David Batchelor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/51211535",
+    "place": "Pine Spring, Clark County, NV, USA",
+    "date": "2019-11-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 334056836,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334056836/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334056836/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/190542251",
+    "place": "Country Park Rd, Salinas, CA, US",
+    "date": "2023-11-09"
+   },
+   {
+    "id": 366050655,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366050655/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366050655/large.jpg",
+    "attribution": "(c) Adam J. Searcy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206973804",
+    "place": "8 Mile Rd, Camino, CA, US",
+    "date": "2024-04-12"
+   },
+   {
+    "id": 43584108,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43584108/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43584108/large.jpeg",
+    "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/27979581",
+    "place": "San José Province, San Gerardo de Dota, Costa Rica",
+    "date": "2019-06-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 212635595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212635595/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212635595/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/125389328",
+    "place": "1600 Canyon View Loop, Williams, AZ 86046, USA",
+    "date": "2022-07-01"
+   },
+   {
+    "id": 12692694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12692694/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12692694/large.jpg",
+    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/9352168",
+    "place": "Golden Gate Park, San Francisco County, US-CA, US",
+    "date": "2016-09-23"
+   },
+   {
+    "id": 519087751,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519087751/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/519087751/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/288636223",
+    "place": "Coyote Creek North, CA, USA",
+    "date": "2025-06-10"
+   }
+  ],
+  "hero": {
+   "id": 3085,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3085/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3085/large.jpg",
+   "attribution": "(c) Dmitry Mozzherin, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/3085",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2478133,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1838061,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1620297
+   },
+   {
+    "code": "MX",
+    "count": 61565
+   },
+   {
+    "code": "CO",
+    "count": 55707
+   },
+   {
+    "code": "CR",
+    "count": 36419
+   },
+   {
+    "code": "GT",
+    "count": 22333
+   },
+   {
+    "code": "BZ",
+    "count": 18407
+   },
+   {
+    "code": "HN",
+    "count": 14983
+   },
+   {
+    "code": "PA",
+    "count": 5596
+   },
+   {
+    "code": "NI",
+    "count": 1485
+   },
+   {
+    "code": "SV",
+    "count": 619
+   },
+   {
+    "code": "CA",
+    "count": 314
+   },
+   {
+    "code": "ZZ",
+    "count": 7
+   }
+  ]
+ },
+ "warnings": []
+}

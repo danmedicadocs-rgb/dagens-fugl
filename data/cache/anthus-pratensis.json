@@ -1,0 +1,151 @@
+{
+ "key": "anthus-pratensis",
+ "name": "Anthus pratensis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:22:26.998Z",
+ "names": {
+  "da": "Engpiber",
+  "en": "Meadow Pipit",
+  "accepted": "Anthus pratensis"
+ },
+ "wikidata": {
+  "id": "Q26956"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Engpiber",
+  "extract": "Engpiber er en mindre spurvefugl, der er udbredt i Europa og det vestlige Asien. I Danmark er den en almindelig ynglefugl i åbne, udyrkede områder som strandenge eller ved søbredder. De fleste er trækfugle, der overvintrer langs Syd- og Vesteuropas kyster. Engpiberen lever i sommerhalvåret især af insekter, men tager i øvrigt også andre smådyr og plantefrø.",
+  "url": "https://da.wikipedia.org/wiki/Engpiber"
+ },
+ "inat": {
+  "id": 13729,
+  "observations": 36530
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 409311762,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409311762/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409311762/large.jpeg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/230515065",
+    "place": "Annfield Plain, Stanley DH9 7XF, UK",
+    "date": "2024-07-20"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 696650170,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/696650170/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/696650170/large.jpg",
+    "attribution": "(c) Fionn Ó Marcaigh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/380777632",
+    "place": "Inis Bó Finne, Tír Chonaill, Éire",
+    "date": "2026-07-07"
+   },
+   {
+    "id": 689678454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689678454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689678454/large.jpg",
+    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/377165652",
+    "place": "Kilpisjärvi, Lapland, FI",
+    "date": "2026-07-01"
+   },
+   {
+    "id": 218120407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218120407/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/218120407/large.jpeg",
+    "attribution": "(c) Anthony McDonald, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/128414357",
+    "place": "Thornwick Pool, Flamborough, East Riding of Yorkshire, UK",
+    "date": "2022-07-27"
+   }
+  ],
+  "hero": {
+   "id": 409311762,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409311762/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409311762/large.jpeg",
+   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/230515065",
+   "place": "Annfield Plain, Stanley DH9 7XF, UK",
+   "date": "2024-07-20"
+  }
+ },
+ "gbif": {
+  "key": 2490266,
+  "dkTotal": 274735,
+  "dkMonths": [
+   9401,
+   7788,
+   27446,
+   53288,
+   28026,
+   13543,
+   13884,
+   12399,
+   41030,
+   47699,
+   13282,
+   6798
+  ],
+  "worldTotal": 3401004,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 618604
+   },
+   {
+    "code": "NL",
+    "count": 586323
+   },
+   {
+    "code": "GB",
+    "count": 451772
+   },
+   {
+    "code": "NO",
+    "count": 354670
+   },
+   {
+    "code": "DK",
+    "count": 274735
+   },
+   {
+    "code": "ES",
+    "count": 273482
+   },
+   {
+    "code": "FR",
+    "count": 229745
+   },
+   {
+    "code": "PT",
+    "count": 102656
+   },
+   {
+    "code": "BE",
+    "count": 98599
+   },
+   {
+    "code": "FI",
+    "count": 79356
+   },
+   {
+    "code": "DE",
+    "count": 56923
+   },
+   {
+    "code": "IS",
+    "count": 39931
+   }
+  ]
+ },
+ "warnings": []
+}

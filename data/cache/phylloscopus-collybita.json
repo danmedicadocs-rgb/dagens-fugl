@@ -1,0 +1,182 @@
+{
+ "key": "phylloscopus-collybita",
+ "name": "Phylloscopus collybita",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:17:51.039Z",
+ "names": {
+  "da": "Gransanger",
+  "en": "Common Chiffchaff",
+  "accepted": "Phylloscopus collybita"
+ },
+ "wikidata": {
+  "id": "Q185784"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gransanger",
+  "extract": "Gransangeren er en mindre spurvefugl, der yngler i de nordlige og tempererede dele af Europa og Asien. Arten overvintrer i det vestlige og sydlige Europa, det sydlige Asien og det nordlige Afrika. Den danske bestand overvintrer især i middelhavsområdet. Navnet skyldes, at arten nord for Danmark især yngler i granskov. Efter at være indvandret til Danmark i 1800-tallet er gransangeren nu særdeles almindelig over hele landet både i nåleskove, løvskove og blandingsskove.",
+  "url": "https://da.wikipedia.org/wiki/Gransanger"
+ },
+ "inat": {
+  "id": 117016,
+  "observations": 99105
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 117661079,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117661079/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117661079/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/72191753",
+    "place": "Woods behind Hopwood Hall, Middleton, Gtr Manchester, UK",
+    "date": "2021-03-27"
+   },
+   {
+    "id": 478919916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478919916/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478919916/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/266541556",
+    "place": "Chester Zoo Nature Reserve",
+    "date": "2025-03-20"
+   },
+   {
+    "id": 288473408,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288473408/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288473408/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/166577498",
+    "place": "New Ferry Butterfly Park",
+    "date": "2023-06-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 76756953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76756953/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76756953/large.jpeg",
+    "attribution": "(c) Ulf Liebal, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48377061",
+    "place": "Kohlscheid, 52134 Herzogenrath, Germany",
+    "date": "2020-06-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 301424332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301424332/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301424332/large.jpeg",
+    "attribution": "(c) Johannes Hofer, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/173560664",
+    "place": "93059 Regensburg, Deutschland",
+    "date": "2023-07-17"
+   },
+   {
+    "id": 166782840,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166782840/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166782840/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/99973250",
+    "place": "32449 Casgutierre, Ourense, España",
+    "date": "2021-11-01"
+   },
+   {
+    "id": 743899226,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743899226/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743899226/large.jpg",
+    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/405034620",
+    "place": "Helsinki, Uusimaa, FI",
+    "date": "2026-10-01"
+   }
+  ],
+  "hero": {
+   "id": 117661079,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117661079/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117661079/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/72191753",
+   "place": "Woods behind Hopwood Hall, Middleton, Gtr Manchester, UK",
+   "date": "2021-03-27"
+  }
+ },
+ "gbif": {
+  "key": 2493091,
+  "dkTotal": 486246,
+  "dkMonths": [
+   536,
+   280,
+   34346,
+   126484,
+   98652,
+   60932,
+   42483,
+   29629,
+   51115,
+   37643,
+   3280,
+   798
+  ],
+  "worldTotal": 7193003,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 1281298
+   },
+   {
+    "code": "ES",
+    "count": 931336
+   },
+   {
+    "code": "FR",
+    "count": 877764
+   },
+   {
+    "code": "SE",
+    "count": 823465
+   },
+   {
+    "code": "GB",
+    "count": 718246
+   },
+   {
+    "code": "DK",
+    "count": 486246
+   },
+   {
+    "code": "DE",
+    "count": 339002
+   },
+   {
+    "code": "BE",
+    "count": 314937
+   },
+   {
+    "code": "NO",
+    "count": 301275
+   },
+   {
+    "code": "PT",
+    "count": 150199
+   },
+   {
+    "code": "FI",
+    "count": 133619
+   },
+   {
+    "code": "PL",
+    "count": 77724
+   }
+  ]
+ },
+ "warnings": []
+}

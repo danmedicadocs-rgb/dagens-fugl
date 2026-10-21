@@ -1,0 +1,141 @@
+{
+ "key": "pyrrhocorax-pyrrhocorax",
+ "name": "Pyrrhocorax pyrrhocorax",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:26:43.477Z",
+ "names": {
+  "da": "Alpekrage",
+  "en": "Red-billed Chough",
+  "accepted": "Pyrrhocorax pyrrhocorax"
+ },
+ "wikidata": {
+  "id": "Q643836"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Alpekrage",
+  "extract": "Alpekragen er en fugleart blandt kragefuglene. Den er udbredt fra de Britiske Øer i øst videre gennem Sydeuropa og Nordafrika til Centralasien, Indien og Kina. Alpekragen er cirka 40 centimeter i længden med et vingefang på op til 90 centimeter. Fjerdragten er sort. Næbbet er rødt, langt og nedadbøjet. Benene er røde.",
+  "url": "https://da.wikipedia.org/wiki/Alpekrage"
+ },
+ "inat": {
+  "id": 8349,
+  "observations": 10898
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 746211360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746211360/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746211360/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/406181467",
+    "place": "Great Orme Head, Conwy Principal Area, UK",
+    "date": "2012-09-02"
+   },
+   {
+    "id": 365734791,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365734791/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365734791/large.jpeg",
+    "attribution": "(c) Antoine MARNAT, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/206809144",
+    "place": "Camaret-sur-Mer, France",
+    "date": "2024-04-12"
+   },
+   {
+    "id": 187323422,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187323422/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187323422/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/110994714",
+    "place": "Provinz Santa Cruz de Tenerife, Spanien",
+    "date": "2022-04-06"
+   }
+  ],
+  "hero": {
+   "id": 746211360,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746211360/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746211360/large.jpg",
+   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/406181467",
+   "place": "Great Orme Head, Conwy Principal Area, UK",
+   "date": "2012-09-02"
+  }
+ },
+ "gbif": {
+  "key": 2482552,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 274733,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 117347
+   },
+   {
+    "code": "FR",
+    "count": 46247
+   },
+   {
+    "code": "GB",
+    "count": 21527
+   },
+   {
+    "code": "IM",
+    "count": 16183
+   },
+   {
+    "code": "IN",
+    "count": 11254
+   },
+   {
+    "code": "IE",
+    "count": 9105
+   },
+   {
+    "code": "PT",
+    "count": 8711
+   },
+   {
+    "code": "CN",
+    "count": 8353
+   },
+   {
+    "code": "MN",
+    "count": 6461
+   },
+   {
+    "code": "TR",
+    "count": 4397
+   },
+   {
+    "code": "BT",
+    "count": 4180
+   },
+   {
+    "code": "MA",
+    "count": 3862
+   }
+  ]
+ },
+ "warnings": []
+}

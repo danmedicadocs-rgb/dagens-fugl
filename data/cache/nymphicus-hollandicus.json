@@ -1,0 +1,171 @@
+{
+ "key": "nymphicus-hollandicus",
+ "name": "Nymphicus hollandicus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:37:45.674Z",
+ "names": {
+  "da": "Nymfeparakit",
+  "en": "Cockatiel",
+  "accepted": "Nymphicus hollandicus"
+ },
+ "wikidata": {
+  "id": "Q514809"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Nymfeparakit",
+  "extract": "Nymfekakadu (Nymphicus hollandicus), eller mere kendt som Nymfeparakit, er en papegøjeart. Arten er det eneste medlem i slægten Nymphicus og det eneste medlem i underfamilien Nymphicanae. Nymfekakadu bliver 33 cm lang og vejer 80-100 g. Den lever af frugt, nødder, korn og blomster. Arten er endemisk til Australien, hvor den lever i de fleste biotoper, men altid tæt ved vand. I begyndelsen af sommeren begynder fuglene at yngle. Hunnen lægger 4-8 æg. Rugetiden er 21 dage.",
+  "url": "https://da.wikipedia.org/wiki/Nymfeparakit"
+ },
+ "inat": {
+  "id": 116993,
+  "observations": 6652
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 245956877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245956877/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245956877/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/143420244",
+    "place": "Ashford NSW 2361, Australia",
+    "date": "2013-05-02"
+   },
+   {
+    "id": 609750986,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609750986/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609750986/large.jpg",
+    "attribution": "(c) Cecilia Fer Díaz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335627071",
+    "place": "Garupa, Misiones, Argentina",
+    "date": "2026-01-21"
+   },
+   {
+    "id": 154998965,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154998965/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154998965/large.jpeg",
+    "attribution": "(c) Maureen Howard, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/93513154",
+    "place": "Dalmore Reserve, Dunedin 9010, New Zealand",
+    "date": "2021-09-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 92360000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92360000/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92360000/large.jpeg",
+    "attribution": "(c) Graham Winterflood, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/57879297",
+    "place": "Pamayu NT 0862, Australia",
+    "date": "2020-08-11"
+   },
+   {
+    "id": 99434895,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/99434895/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/99434895/large.jpg",
+    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/62088399",
+    "place": "Clermont QLD 4721, Australia",
+    "date": "2007-10-15"
+   },
+   {
+    "id": 743860542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743860542/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743860542/large.jpg",
+    "attribution": "(c) Vincent Mia Edie Verheyen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/405015264",
+    "place": "Brussels, Brussels-Capital Region, BE",
+    "date": "2026-10-01"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 245956877,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245956877/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245956877/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/143420244",
+   "place": "Ashford NSW 2361, Australia",
+   "date": "2013-05-02"
+  }
+ },
+ "gbif": {
+  "key": 2479977,
+  "dkTotal": 166,
+  "dkMonths": [
+   4,
+   0,
+   5,
+   15,
+   14,
+   19,
+   21,
+   36,
+   31,
+   10,
+   6,
+   1
+  ],
+  "worldTotal": 118419,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 111858
+   },
+   {
+    "code": "US",
+    "count": 1328
+   },
+   {
+    "code": "BE",
+    "count": 1069
+   },
+   {
+    "code": "FR",
+    "count": 632
+   },
+   {
+    "code": "ES",
+    "count": 392
+   },
+   {
+    "code": "NL",
+    "count": 339
+   },
+   {
+    "code": "PT",
+    "count": 324
+   },
+   {
+    "code": "DE",
+    "count": 205
+   },
+   {
+    "code": "GB",
+    "count": 194
+   },
+   {
+    "code": "DK",
+    "count": 166
+   },
+   {
+    "code": "IL",
+    "count": 129
+   },
+   {
+    "code": "PR",
+    "count": 122
+   }
+  ]
+ },
+ "warnings": []
+}

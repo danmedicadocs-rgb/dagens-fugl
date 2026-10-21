@@ -1,0 +1,151 @@
+{
+ "key": "rynchops-niger",
+ "name": "Rynchops niger",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:50:50.926Z",
+ "names": {
+  "da": "Amerikansk Saksnæb",
+  "en": "Black Skimmer",
+  "accepted": "Rynchops niger"
+ },
+ "wikidata": {
+  "id": "Q516662"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black skimmer",
+  "extract": "The black skimmer is a tern-like seabird, one of three similar bird species in the skimmer genus Rynchops in the gull family Laridae. It breeds in North and South America. Northern populations winter in the warmer waters of the Caribbean and the tropical and subtropical Pacific and Atlantic coasts, but South American populations make only shorter movements in response to annual floods which extend their feeding areas in the river shallows.",
+  "url": "https://en.wikipedia.org/wiki/Black_skimmer"
+ },
+ "inat": {
+  "id": 4496,
+  "observations": 25843
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 193770074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/large.jpg",
+    "attribution": "(c) Aitor, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/114772692",
+    "place": "Bahía de Panamá, Panama City, Provincia de Panamá, PA",
+    "date": "2022-05-01"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 10460971,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10460971/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10460971/large.jpeg",
+    "attribution": "(c) Ben Machado, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/7925289",
+    "place": "Miami-Dade County, FL, USA",
+    "date": "2017-09-14"
+   },
+   {
+    "id": 540216993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540216993/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540216993/large.jpg",
+    "attribution": "(c) Dmitry Mozzherin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/299846002",
+    "place": "Lido Beach, NY, USA",
+    "date": "2006-08-18"
+   },
+   {
+    "id": 296511234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296511234/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296511234/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/170913678",
+    "place": "IND HBR BCH, FL 32937, USA",
+    "date": "2023-07-03"
+   }
+  ],
+  "hero": {
+   "id": 193770074,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/large.jpg",
+   "attribution": "(c) Aitor, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/114772692",
+   "place": "Bahía de Panamá, Panama City, Provincia de Panamá, PA",
+   "date": "2022-05-01"
+  }
+ },
+ "gbif": {
+  "key": 2481209,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 644023,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 523417
+   },
+   {
+    "code": "CL",
+    "count": 22923
+   },
+   {
+    "code": "BR",
+    "count": 16958
+   },
+   {
+    "code": "MX",
+    "count": 16869
+   },
+   {
+    "code": "PE",
+    "count": 16816
+   },
+   {
+    "code": "CO",
+    "count": 10952
+   },
+   {
+    "code": "AR",
+    "count": 6699
+   },
+   {
+    "code": "UY",
+    "count": 4295
+   },
+   {
+    "code": "VE",
+    "count": 3599
+   },
+   {
+    "code": "CR",
+    "count": 3526
+   },
+   {
+    "code": "TT",
+    "count": 1662
+   },
+   {
+    "code": "PY",
+    "count": 1529
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,151 @@
+{
+ "key": "spilornis-cheela",
+ "name": "Spilornis cheela",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:36:10.320Z",
+ "names": {
+  "da": "Toppet Slangeørn",
+  "en": "Crested Serpent Eagle",
+  "accepted": "Spilornis cheela"
+ },
+ "wikidata": {
+  "id": "Q431212"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Crested serpent eagle",
+  "extract": "The crested serpent eagle is a medium-sized bird of prey that is found in forested habitats across tropical Asia. Within its widespread range across the Indian subcontinent, Southeast Asia and East Asia, there are considerable variations and some authorities prefer to treat several of its subspecies as completely separate species. In the past, several species including the Philippine serpent eagle, Andaman serpent eagle and South Nicobar serpent eagle were treated as subspecies of the crested serpent eagle. All members within the species complex have a large-looking head with long feathers on the back, giving them a maned and crested appearance. The face is bare and yellow joining up with the ceres while the powerful feet are unfeathered and heavily scaled. They fly over the forest canopy on broad wings and tail have wide white and black bars. They call often with a loud, piercing and familiar three or two-note call. They often feed on snakes, giving them their name and are placed along with the Circaetus snake-eagles in the subfamily Circaetinae.",
+  "url": "https://en.wikipedia.org/wiki/Crested_serpent_eagle"
+ },
+ "inat": {
+  "id": 5158,
+  "observations": 16259
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 59895241,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/large.jpg",
+    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/37742755",
+    "place": "台灣彰化縣",
+    "date": "2020-01-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 33729244,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33729244/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33729244/large.jpg",
+    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/21776515",
+    "place": "台灣彰化縣芬園鄉芬園",
+    "date": "2019-03-30"
+   },
+   {
+    "id": 32122189,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32122189/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32122189/large.jpg",
+    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/20825389",
+    "place": "台灣彰化縣",
+    "date": "2019-02-21"
+   },
+   {
+    "id": 61312360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61312360/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61312360/large.jpg",
+    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/38566275",
+    "place": "台灣彰化縣",
+    "date": "2020-02-12"
+   }
+  ],
+  "hero": {
+   "id": 59895241,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/large.jpg",
+   "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/37742755",
+   "place": "台灣彰化縣",
+   "date": "2020-01-18"
+  }
+ },
+ "gbif": {
+  "key": 2480433,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 363249,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 142857
+   },
+   {
+    "code": "TW",
+    "count": 136808
+   },
+   {
+    "code": "MY",
+    "count": 23692
+   },
+   {
+    "code": "TH",
+    "count": 14952
+   },
+   {
+    "code": "LK",
+    "count": 13202
+   },
+   {
+    "code": "HK",
+    "count": 5015
+   },
+   {
+    "code": "ID",
+    "count": 4877
+   },
+   {
+    "code": "NP",
+    "count": 4805
+   },
+   {
+    "code": "KH",
+    "count": 3790
+   },
+   {
+    "code": "CN",
+    "count": 3345
+   },
+   {
+    "code": "VN",
+    "count": 2610
+   },
+   {
+    "code": "BT",
+    "count": 2021
+   }
+  ]
+ },
+ "warnings": []
+}

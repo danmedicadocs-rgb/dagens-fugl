@@ -1,0 +1,190 @@
+{
+ "key": "baeolophus-bicolor",
+ "name": "Baeolophus bicolor",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:47:06.095Z",
+ "names": {
+  "da": "Toppet Topmejse",
+  "en": "Tufted Titmouse",
+  "accepted": "Baeolophus bicolor"
+ },
+ "wikidata": {
+  "id": "Q738534"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Tufted titmouse",
+  "extract": "The tufted titmouse is a small songbird native to eastern North America. The species belongs to the tit and chickadee family (Paridae). The black-crested titmouse, found from central and southern Texas southward, was originally included as a subspecies but now is considered a separate species, Baeolophus atricristatus.",
+  "url": "https://en.wikipedia.org/wiki/Tufted_titmouse"
+ },
+ "inat": {
+  "id": 13632,
+  "observations": 98866
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 281927726,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281927726/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281927726/large.jpeg",
+    "attribution": "(c) James Weaver, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163026043",
+    "place": "Virginia, US",
+    "date": "2023-05-21"
+   },
+   {
+    "id": 264409367,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409367/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409367/large.jpg",
+    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/153113958",
+    "place": "Keene, TX, USA",
+    "date": "2023-04-01"
+   },
+   {
+    "id": 247538524,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247538524/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247538524/large.jpeg",
+    "attribution": "(c) Matthew Gerke, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/144248895",
+    "place": "Lanier Heights, Washington, DC 20009, USA",
+    "date": "2022-12-12"
+   }
+  ],
+  "female": [
+   {
+    "id": 264409175,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409175/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409175/large.jpg",
+    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/153113837",
+    "place": "Johnson, Texas, United States",
+    "date": "2023-04-01"
+   },
+   {
+    "id": 140511327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140511327/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140511327/large.jpeg",
+    "attribution": "(c) ncb1221, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/85403563",
+    "place": "Louisiana, US",
+    "date": "2021-07-02"
+   },
+   {
+    "id": 259501680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259501680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259501680/large.jpg",
+    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/150488190",
+    "place": "S1 County Hwy K, Fall Creek, WI 54742, USA",
+    "date": "2022-08-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 681321366,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681321366/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681321366/large.jpg",
+    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/372832963",
+    "place": "Fayetteville, AR, USA",
+    "date": "2026-06-17"
+   },
+   {
+    "id": 8133196,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8133196/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8133196/large.jpeg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/6438723",
+    "place": "Page County, VA, USA",
+    "date": "2017-05-26"
+   },
+   {
+    "id": 549176501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549176501/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549176501/large.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/304623325",
+    "place": "Webster, NY, US",
+    "date": "2025-08-07"
+   }
+  ],
+  "hero": {
+   "id": 281927726,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281927726/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281927726/large.jpeg",
+   "attribution": "(c) James Weaver, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/163026043",
+   "place": "Virginia, US",
+   "date": "2023-05-21"
+  }
+ },
+ "gbif": {
+  "key": 2487887,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 13304442,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 13199924
+   },
+   {
+    "code": "CA",
+    "count": 103939
+   },
+   {
+    "code": "MX",
+    "count": 248
+   },
+   {
+    "code": "ZZ",
+    "count": 2
+   },
+   {
+    "code": "BM",
+    "count": 1
+   },
+   {
+    "code": "CO",
+    "count": 1
+   },
+   {
+    "code": "DE",
+    "count": 1
+   },
+   {
+    "code": "GR",
+    "count": 1
+   },
+   {
+    "code": "NO",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

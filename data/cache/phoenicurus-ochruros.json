@@ -1,0 +1,202 @@
+{
+ "key": "phoenicurus-ochruros",
+ "name": "Phoenicurus ochruros",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:21:44.947Z",
+ "names": {
+  "da": "Husrødstjert",
+  "en": "Black Redstart",
+  "accepted": "Phoenicurus ochruros"
+ },
+ "wikidata": {
+  "id": "Q26755"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Husrødstjert",
+  "extract": "Husrødstjerten er en fugleart i familien fluesnappere. Den bliver 14 cm lang. Den er en udpræget byfugl og ikke særlig almindelig i Danmark, idet der yngler omkring 1000 par i landet. Fuglen kan observeres på havneområder og på byggepladser, hvor der er tømmer eller bygningsrør, ligesom den kan ses på høje bygninger, kraner, antenner eller kirketårne. Den opdages bedst omkring daggry.",
+  "url": "https://da.wikipedia.org/wiki/Husr%C3%B8dstjert"
+ },
+ "inat": {
+  "id": 13000,
+  "observations": 98144
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 628848727,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628848727/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628848727/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/345090569",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-03-25"
+   },
+   {
+    "id": 626010790,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626010790/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626010790/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/343636642",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-03-18"
+   },
+   {
+    "id": 558965974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558965974/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558965974/large.jpg",
+    "attribution": "(c) Katrin Simon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309741258",
+    "place": "Dresdner Zwinger, Dresden, Sachsen, DE",
+    "date": "2025-08-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 331881067,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331881067/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331881067/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189450325",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2023-10-28"
+   },
+   {
+    "id": 357242241,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/357242241/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/357242241/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/202289159",
+    "place": "4292 Dobri Dol, Bulgaria",
+    "date": "2024-03-13"
+   },
+   {
+    "id": 193151595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151595/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151595/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/114383411",
+    "place": "Jules César, 95130 Franconville, France",
+    "date": "2022-05-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 518154355,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518154355/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518154355/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/288142470",
+    "place": "87050 Casali del Manco CS, Italia",
+    "date": "2025-06-06"
+   },
+   {
+    "id": 137379663,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137379663/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137379663/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83634892",
+    "place": "Gellert, 4052 Basel, Switzerland",
+    "date": "2021-06-17"
+   },
+   {
+    "id": 81020572,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81020572/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81020572/large.jpeg",
+    "attribution": "(c) anasacuta, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/51007152",
+    "place": "Hérault, Languedoc-Roussillon, FR",
+    "date": "2020-06-26"
+   }
+  ],
+  "hero": {
+   "id": 628848727,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628848727/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628848727/large.jpg",
+   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/345090569",
+   "place": "4292 Dobri dol, Bulgaria",
+   "date": "2026-03-25"
+  }
+ },
+ "gbif": {
+  "key": 5739315,
+  "dkTotal": 59252,
+  "dkMonths": [
+   1189,
+   749,
+   2504,
+   13425,
+   11120,
+   7778,
+   5128,
+   3457,
+   4252,
+   6411,
+   2344,
+   857
+  ],
+  "worldTotal": 2504204,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 592609
+   },
+   {
+    "code": "ES",
+    "count": 531294
+   },
+   {
+    "code": "DE",
+    "count": 263369
+   },
+   {
+    "code": "PT",
+    "count": 182409
+   },
+   {
+    "code": "NL",
+    "count": 117325
+   },
+   {
+    "code": "SE",
+    "count": 112415
+   },
+   {
+    "code": "IT",
+    "count": 82252
+   },
+   {
+    "code": "IN",
+    "count": 80576
+   },
+   {
+    "code": "BE",
+    "count": 72828
+   },
+   {
+    "code": "DK",
+    "count": 59252
+   },
+   {
+    "code": "AT",
+    "count": 46339
+   },
+   {
+    "code": "CZ",
+    "count": 45987
+   }
+  ]
+ },
+ "warnings": []
+}

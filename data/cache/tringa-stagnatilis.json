@@ -1,0 +1,172 @@
+{
+ "key": "tringa-stagnatilis",
+ "name": "Tringa stagnatilis",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:07:23.110Z",
+ "names": {
+  "da": "Damklire",
+  "en": "Marsh Sandpiper",
+  "accepted": "Tringa stagnatilis"
+ },
+ "wikidata": {
+  "id": "Q28355"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Damklire",
+  "extract": "Damklire er en vadefugl, der ses som en meget sjælden gæst i Danmark fra Rusland. Den overvintrer i tropisk og sydlige Afrika. Det videnskabelige navn stagnatilis betyder 'lever ved stillestående vand' .",
+  "url": "https://da.wikipedia.org/wiki/Damklire"
+ },
+ "inat": {
+  "id": 3881,
+  "observations": 10933
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 565156192,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565156192/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565156192/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/312986784",
+    "place": "Musselburgh Lagoons",
+    "date": "2025-09-06"
+   },
+   {
+    "id": 556328245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556328245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556328245/large.jpg",
+    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/308364965",
+    "place": "Colyford, Colyton EX24 6QP, UK",
+    "date": "2025-08-22"
+   },
+   {
+    "id": 691555146,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691555146/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691555146/large.jpg",
+    "attribution": "(c) kkrivoruchko, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/378140066",
+    "place": "Карасукский р-н, Новосибирская обл., Россия",
+    "date": "2026-06-14"
+   }
+  ],
+  "adult": [
+   {
+    "id": 515695188,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515695188/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515695188/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286833856",
+    "place": "Лотошино муниципальный округ, Московская обл., Россия",
+    "date": "2025-06-04"
+   },
+   {
+    "id": 515692559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515692559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515692559/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/286832295",
+    "place": "Лотошино муниципальный округ, Московская обл., Россия",
+    "date": "2025-06-04"
+   },
+   {
+    "id": 659033860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659033860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659033860/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/361126132",
+    "place": "Челябинская обл., Россия, 456891",
+    "date": "2026-05-13"
+   }
+  ],
+  "hero": {
+   "id": 515695188,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515695188/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515695188/large.jpg",
+   "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/286833856",
+   "place": "Лотошино муниципальный округ, Московская обл., Россия",
+   "date": "2025-06-04"
+  }
+ },
+ "gbif": {
+  "key": 2481719,
+  "dkTotal": 1380,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   144,
+   207,
+   279,
+   407,
+   315,
+   21,
+   4,
+   0,
+   0
+  ],
+  "worldTotal": 343957,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 70190
+   },
+   {
+    "code": "IN",
+    "count": 54785
+   },
+   {
+    "code": "AU",
+    "count": 41327
+   },
+   {
+    "code": "IL",
+    "count": 21395
+   },
+   {
+    "code": "ZA",
+    "count": 21392
+   },
+   {
+    "code": "TH",
+    "count": 12786
+   },
+   {
+    "code": "NL",
+    "count": 10152
+   },
+   {
+    "code": "SE",
+    "count": 9937
+   },
+   {
+    "code": "CN",
+    "count": 7529
+   },
+   {
+    "code": "LK",
+    "count": 6301
+   },
+   {
+    "code": "RU",
+    "count": 6122
+   },
+   {
+    "code": "KE",
+    "count": 5632
+   }
+  ]
+ },
+ "warnings": []
+}

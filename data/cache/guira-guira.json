@@ -1,0 +1,172 @@
+{
+ "key": "guira-guira",
+ "name": "Guira guira",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:52:22.371Z",
+ "names": {
+  "da": "Guira",
+  "en": "Guira Cuckoo",
+  "accepted": "Guira guira"
+ },
+ "wikidata": {
+  "id": "Q911917"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Guira cuckoo",
+  "extract": "The guira cuckoo, known in Spanish as the pirincho, is a gregarious species of cuckoo found widely in open and semi-open habitats throughout eastern and southeastern South America. It is the only species placed in the genus Guira. Its range has expanded significantly as a result of deforestation, and it is commonly seen in suburban parks and gardens.",
+  "url": "https://en.wikipedia.org/wiki/Guira_cuckoo"
+ },
+ "inat": {
+  "id": 1979,
+  "observations": 12001
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 497758255,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/497758255/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/497758255/large.jpeg",
+    "attribution": "(c) Raquel Mondino, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/277205390",
+    "place": "Ñuflo de Chávez, Bolivia",
+    "date": "2025-04-26"
+   },
+   {
+    "id": 135367420,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135367420/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135367420/large.jpeg",
+    "attribution": "(c) Rodrigo Paiva Lázaro, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82476351",
+    "place": "Jardim Barbacena, Cotia - SP, Brasil",
+    "date": "2013-03-30"
+   },
+   {
+    "id": 257114935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257114935/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257114935/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/149228968",
+    "place": "Arroyo Leyes, Santa Fe, Argentina",
+    "date": "2017-05-04"
+   }
+  ],
+  "adult": [
+   {
+    "id": 60230959,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/37944533",
+    "place": "Cruz Alta - RS, Brasil",
+    "date": "2020-01-24"
+   },
+   {
+    "id": 111280249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111280249/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111280249/large.jpeg",
+    "attribution": "(c) Mateo Cocimano, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/68684368",
+    "place": "La Capilla, Provincia de Buenos Aires, Argentina",
+    "date": "2021-01-25"
+   },
+   {
+    "id": 249273902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249273902/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249273902/large.jpeg",
+    "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145143744",
+    "place": "São Paulo, BR-SP, BR",
+    "date": "2022-12-26"
+   }
+  ],
+  "hero": {
+   "id": 60230959,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/37944533",
+   "place": "Cruz Alta - RS, Brasil",
+   "date": "2020-01-24"
+  }
+ },
+ "gbif": {
+  "key": 2496462,
+  "dkTotal": 1,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 243044,
+  "topCountries": [
+   {
+    "code": "AR",
+    "count": 105057
+   },
+   {
+    "code": "BR",
+    "count": 102230
+   },
+   {
+    "code": "UY",
+    "count": 14553
+   },
+   {
+    "code": "PY",
+    "count": 12836
+   },
+   {
+    "code": "BO",
+    "count": 8154
+   },
+   {
+    "code": "CL",
+    "count": 39
+   },
+   {
+    "code": "DE",
+    "count": 33
+   },
+   {
+    "code": "ZZ",
+    "count": 7
+   },
+   {
+    "code": "PE",
+    "count": 6
+   },
+   {
+    "code": "CW",
+    "count": 2
+   },
+   {
+    "code": "GR",
+    "count": 2
+   },
+   {
+    "code": "AT",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

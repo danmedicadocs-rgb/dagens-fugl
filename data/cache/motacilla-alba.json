@@ -1,0 +1,202 @@
+{
+ "key": "motacilla-alba",
+ "name": "Motacilla alba",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:23:33.822Z",
+ "names": {
+  "da": "Vipstjert",
+  "en": "White Wagtail",
+  "accepted": "Motacilla alba"
+ },
+ "wikidata": {
+  "id": "Q25399"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvid vipstjert",
+  "extract": "Den Hvide Vipstjert, af og til blot kaldt vipstjert, måler op til 16,5-19 centimeter og vejer omkring 24 gram. Spurvefuglen har en sort, hvid og koksgrå fjerdragt og en meget lang hale. Den er i Danmark både en meget almindelig ynglefugl og trækgæst. I øvrigt findes den i hele resten af Europa, i størstedelen af Asien, i Nordvestafrika samt det sydøstlige Grønland.",
+  "url": "https://da.wikipedia.org/wiki/Hvid_vipstjert"
+ },
+ "inat": {
+  "id": 13695,
+  "observations": 208867
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 734909757,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734909757/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734909757/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/400477114",
+    "place": "Светлый, Оренбургская обл., Россия, 462740",
+    "date": "2026-09-15"
+   },
+   {
+    "id": 188596309,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188596309/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188596309/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/111703522",
+    "place": "Oxford, Royaume-Uni",
+    "date": "2022-04-13"
+   },
+   {
+    "id": 199041497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199041497/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199041497/large.jpeg",
+    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/117835052",
+    "place": "Камчатський край, Росія, 683003",
+    "date": "2022-05-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 114711655,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114711655/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114711655/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70548212",
+    "place": "Los Tomillares, Burgos, España",
+    "date": "2021-03-03"
+   },
+   {
+    "id": 293735863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293735863/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293735863/large.jpeg",
+    "attribution": "(c) Paula Wirtanen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/169429445",
+    "place": "Vantaa, Suomi",
+    "date": "2023-05-14"
+   },
+   {
+    "id": 659417119,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659417119/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659417119/large.jpg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/361328384",
+    "place": "Pleikiai, Akmenės r. sav., Lietuva",
+    "date": "2026-05-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 597181006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597181006/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597181006/large.jpg",
+    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329445163",
+    "place": "Сахарово, Тверская обл., Россия, 170904",
+    "date": "2025-12-04"
+   },
+   {
+    "id": 515999718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515999718/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515999718/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/286991725",
+    "place": "中国云南省昆明市五华区",
+    "date": "2025-06-05"
+   },
+   {
+    "id": 347901401,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347901401/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347901401/large.jpg",
+    "attribution": "(c) Wolfgang Ahlmer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197516393",
+    "place": "93 Wiesent, Deutschland",
+    "date": "2020-08-11"
+   }
+  ],
+  "hero": {
+   "id": 734909757,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734909757/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734909757/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/400477114",
+   "place": "Светлый, Оренбургская обл., Россия, 462740",
+   "date": "2026-09-15"
+  }
+ },
+ "gbif": {
+  "key": 9687165,
+  "dkTotal": 461779,
+  "dkMonths": [
+   373,
+   1054,
+   54442,
+   98753,
+   70131,
+   49308,
+   48217,
+   51841,
+   60497,
+   26678,
+   135,
+   283
+  ],
+  "worldTotal": 6932635,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 1003206
+   },
+   {
+    "code": "ES",
+    "count": 722057
+   },
+   {
+    "code": "GB",
+    "count": 710187
+   },
+   {
+    "code": "FR",
+    "count": 569515
+   },
+   {
+    "code": "NO",
+    "count": 522437
+   },
+   {
+    "code": "NL",
+    "count": 474071
+   },
+   {
+    "code": "DK",
+    "count": 461779
+   },
+   {
+    "code": "DE",
+    "count": 310205
+   },
+   {
+    "code": "PT",
+    "count": 239139
+   },
+   {
+    "code": "FI",
+    "count": 210419
+   },
+   {
+    "code": "TW",
+    "count": 177797
+   },
+   {
+    "code": "IN",
+    "count": 131512
+   }
+  ]
+ },
+ "warnings": []
+}

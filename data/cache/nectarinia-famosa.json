@@ -1,0 +1,202 @@
+{
+ "key": "nectarinia-famosa",
+ "name": "Nectarinia famosa",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:19.092Z",
+ "names": {
+  "da": "Malakitsolfugl",
+  "en": "Malachite Sunbird",
+  "accepted": "Nectarinia famosa"
+ },
+ "wikidata": {
+  "id": "Q1300638"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Malachite sunbird",
+  "extract": "The malachite sunbird is a small nectarivorous bird found from the highlands of Ethiopia southwards to South Africa. They pollinate many flowering plants, particularly those with long corolla tubes, in the Fynbos.",
+  "url": "https://en.wikipedia.org/wiki/Malachite_sunbird"
+ },
+ "inat": {
+  "id": 13300,
+  "observations": 5108
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 103448593,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103448593/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103448593/large.jpg",
+    "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/64353642",
+    "place": "Nyanga, Zimbabwe",
+    "date": "2020-10-28"
+   },
+   {
+    "id": 376130129,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376130129/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/376130129/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212845798",
+    "place": "Garden Route District Municipality, South Africa",
+    "date": "2024-04-29"
+   },
+   {
+    "id": 15767099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15767099/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15767099/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/11143980",
+    "place": "Coernie Station",
+    "date": "2015-11-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 732054536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732054536/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732054536/large.jpg",
+    "attribution": "(c) Nicola van Berkel, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/399033143",
+    "place": "ElimHeim Farm, Twee Rivieren,Sarah Baartman District Municipality, South Africa",
+    "date": "2026-08-31"
+   },
+   {
+    "id": 590058140,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590058140/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590058140/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/325855544",
+    "place": "75 Hoofweg, De Kelders, 7220, South Africa",
+    "date": "2025-11-07"
+   },
+   {
+    "id": 421216177,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421216177/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421216177/large.jpeg",
+    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/236741915",
+    "place": "Matroosfontein, Cape Town, 7490, South Africa",
+    "date": "2024-08-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 583909393,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583909393/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583909393/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/322752096",
+    "place": "Mossel Bay, 6506, South Africa",
+    "date": "2025-10-24"
+   },
+   {
+    "id": 603389352,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603389352/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603389352/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/332476924",
+    "place": "Greyton, 7233, South Africa",
+    "date": "2025-12-27"
+   },
+   {
+    "id": 31001311,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31001311/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31001311/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20076323",
+    "place": "Cape Canopy Tours, Overberg District Municipality, South Africa",
+    "date": "2019-01-28"
+   }
+  ],
+  "hero": {
+   "id": 25812,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25812/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25812/large.jpg",
+   "attribution": "(c) Steve Garvie, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/25812",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229971,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 108237,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 103115
+   },
+   {
+    "code": "KE",
+    "count": 1566
+   },
+   {
+    "code": "LS",
+    "count": 1124
+   },
+   {
+    "code": "TZ",
+    "count": 847
+   },
+   {
+    "code": "ZW",
+    "count": 440
+   },
+   {
+    "code": "SZ",
+    "count": 303
+   },
+   {
+    "code": "MW",
+    "count": 152
+   },
+   {
+    "code": "UG",
+    "count": 146
+   },
+   {
+    "code": "ET",
+    "count": 140
+   },
+   {
+    "code": "CD",
+    "count": 91
+   },
+   {
+    "code": "RW",
+    "count": 55
+   },
+   {
+    "code": "ZM",
+    "count": 43
+   }
+  ]
+ },
+ "warnings": []
+}

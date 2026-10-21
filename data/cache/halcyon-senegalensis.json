@@ -1,0 +1,141 @@
+{
+ "key": "halcyon-senegalensis",
+ "name": "Halcyon senegalensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:05.260Z",
+ "names": {
+  "da": "Skovisfugl",
+  "en": "Woodland Kingfisher",
+  "accepted": "Halcyon senegalensis"
+ },
+ "wikidata": {
+  "id": "Q838793"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Woodland kingfisher",
+  "extract": "The woodland kingfisher is a tree kingfisher that is widely distributed in Africa south of the Sahara.",
+  "url": "https://en.wikipedia.org/wiki/Woodland_kingfisher"
+ },
+ "inat": {
+  "id": 2337,
+  "observations": 3767
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 591190657,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/326423824",
+    "place": "Viana, Luanda, AO",
+    "date": "2025-09-26"
+   },
+   {
+    "id": 336804913,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336804913/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336804913/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/191921478",
+    "place": "Ehlanzeni, Mpumalanga, South Africa",
+    "date": "2023-11-22"
+   },
+   {
+    "id": 483082526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483082526/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483082526/large.jpeg",
+    "attribution": "(c) scaup, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/268734084",
+    "place": "Ehlanzeni District Municipality, South Africa",
+    "date": "2014-12-02"
+   }
+  ],
+  "hero": {
+   "id": 591190657,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/326423824",
+   "place": "Viana, Luanda, AO",
+   "date": "2025-09-26"
+  }
+ },
+ "gbif": {
+  "key": 5228340,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 114112,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 57727
+   },
+   {
+    "code": "UG",
+    "count": 14159
+   },
+   {
+    "code": "GH",
+    "count": 4841
+   },
+   {
+    "code": "KE",
+    "count": 4280
+   },
+   {
+    "code": "BW",
+    "count": 4184
+   },
+   {
+    "code": "TZ",
+    "count": 3647
+   },
+   {
+    "code": "NG",
+    "count": 3323
+   },
+   {
+    "code": "NA",
+    "count": 2234
+   },
+   {
+    "code": "ET",
+    "count": 1987
+   },
+   {
+    "code": "GM",
+    "count": 1961
+   },
+   {
+    "code": "ZM",
+    "count": 1637
+   },
+   {
+    "code": "RW",
+    "count": 1528
+   }
+  ]
+ },
+ "warnings": []
+}

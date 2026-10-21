@@ -1,0 +1,151 @@
+{
+ "key": "gallinago-gallinago",
+ "name": "Gallinago gallinago",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:06:20.377Z",
+ "names": {
+  "da": "Dobbeltbekkasin",
+  "en": null,
+  "accepted": "Gallinago gallinago"
+ },
+ "wikidata": {
+  "id": "Q25692"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dobbeltbekkasin",
+  "extract": "Dobbeltbekkasinen er en vadefugl med et karakteristisk langt næb. Den måler ca. 26 cm i længden, heraf det 7 cm lange næb. Vingefanget er ca. 46 cm. Fuglen yngler i moser og sumpede engområder i det nordlige Europa og Rusland. I Danmark er den en ret almindelig ynglefugl og meget almindelig som trækgæst. Dobbeltbekkasinen er som de øvrige bekkasiner godt camoufleret med sin brune fjerdragt med gullige striber og mørke pletter.",
+  "url": "https://da.wikipedia.org/wiki/Dobbeltbekkasin"
+ },
+ "inat": {
+  "id": 318836,
+  "observations": 29958
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 453458574,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453458574/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453458574/large.jpg",
+    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253270791",
+    "place": "Ammuta, 90406 Lääne County, Estonia",
+    "date": "2024-03-31"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 102020340,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102020340/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102020340/large.jpg",
+    "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63556762",
+    "place": "Cock Bridge, Scotland, UK",
+    "date": "2020-07-18"
+   },
+   {
+    "id": 208810856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208810856/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208810856/large.jpg",
+    "attribution": "(c) Pål A. Olsvik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/123272132",
+    "place": "Båtsfjord Municipality, Norway",
+    "date": "2016-08-01"
+   },
+   {
+    "id": 547365247,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547365247/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547365247/large.jpg",
+    "attribution": "(c) Wiljam Eklund, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/302096403",
+    "place": "Ostrobothnia, FI-LS, FI",
+    "date": "2025-07-25"
+   }
+  ],
+  "hero": {
+   "id": 453458574,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453458574/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453458574/large.jpg",
+   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/253270791",
+   "place": "Ammuta, 90406 Lääne County, Estonia",
+   "date": "2024-03-31"
+  }
+ },
+ "gbif": {
+  "key": 2481819,
+  "dkTotal": 194514,
+  "dkMonths": [
+   6403,
+   4699,
+   9627,
+   24642,
+   13876,
+   8296,
+   13204,
+   37044,
+   32965,
+   26965,
+   11742,
+   4958
+  ],
+  "worldTotal": 2374685,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 560124
+   },
+   {
+    "code": "GB",
+    "count": 261638
+   },
+   {
+    "code": "NL",
+    "count": 257729
+   },
+   {
+    "code": "DK",
+    "count": 194514
+   },
+   {
+    "code": "NO",
+    "count": 182827
+   },
+   {
+    "code": "FR",
+    "count": 151159
+   },
+   {
+    "code": "ES",
+    "count": 117732
+   },
+   {
+    "code": "BE",
+    "count": 93911
+   },
+   {
+    "code": "TW",
+    "count": 51953
+   },
+   {
+    "code": "IN",
+    "count": 50903
+   },
+   {
+    "code": "FI",
+    "count": 50134
+   },
+   {
+    "code": "DE",
+    "count": 45690
+   }
+  ]
+ },
+ "warnings": []
+}

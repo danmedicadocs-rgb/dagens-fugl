@@ -1,0 +1,161 @@
+{
+ "key": "aegithalos-caudatus",
+ "name": "Aegithalos caudatus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:18:21.762Z",
+ "names": {
+  "da": "Halemejse",
+  "en": "Long-tailed Tit",
+  "accepted": "Aegithalos caudatus"
+ },
+ "wikidata": {
+  "id": "Q170831"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Halemejse",
+  "extract": "Halemejsen er en 14 centimeter lang spurvefugl, der er almindelig som standfugl i Danmark, bortset fra i Vest- og Nordjylland. Den er i øvrigt udbredt i det meste af resten Europa og Asien. Den er ikke i familie med de andre mejser, men placeres i sin egen familie, halemejser. Den foretrækker løvskove og blandingsskove, især skovmoser. Ofte ser man halemejser søge føde mellem træernes yderste grene i mindre, omstrejfende flokke. I yngletiden optræder de dog parvis og mere diskret.",
+  "url": "https://da.wikipedia.org/wiki/Halemejse"
+ },
+ "inat": {
+  "id": 7278,
+  "observations": 83402
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 745293577,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/405727161",
+    "place": "Светлый, Оренбургская обл., Россия, 462740",
+    "date": "2026-10-04"
+   },
+   {
+    "id": 250541545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250541545/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250541545/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/145812225",
+    "place": "Quintanalara, Burgos, España",
+    "date": "2022-12-26"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 537896721,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537896721/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537896721/large.jpg",
+    "attribution": "(c) Miha Jurić, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/298608355",
+    "place": "10000, Gornji Grad - Medveščak, Zagreb, Hrvatska",
+    "date": "2025-05-07"
+   },
+   {
+    "id": 73379104,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73379104/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73379104/large.jpeg",
+    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/46268363",
+    "place": "13867 Flecchia BI, Italia",
+    "date": "2020-05-17"
+   },
+   {
+    "id": 215217423,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215217423/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215217423/large.jpeg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/126817256",
+    "place": "Камисояги, Ямато, Канагава 242-0029, Япония",
+    "date": "2022-07-18"
+   }
+  ],
+  "hero": {
+   "id": 745293577,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/405727161",
+   "place": "Светлый, Оренбургская обл., Россия, 462740",
+   "date": "2026-10-04"
+  }
+ },
+ "gbif": {
+  "key": 2495000,
+  "dkTotal": 117416,
+  "dkMonths": [
+   13762,
+   13973,
+   20650,
+   14336,
+   8716,
+   3850,
+   2252,
+   3456,
+   6150,
+   11772,
+   9345,
+   9103
+  ],
+  "worldTotal": 3298932,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 642899
+   },
+   {
+    "code": "NL",
+    "count": 506955
+   },
+   {
+    "code": "FR",
+    "count": 390647
+   },
+   {
+    "code": "SE",
+    "count": 386811
+   },
+   {
+    "code": "ES",
+    "count": 314231
+   },
+   {
+    "code": "DE",
+    "count": 166512
+   },
+   {
+    "code": "FI",
+    "count": 144702
+   },
+   {
+    "code": "DK",
+    "count": 117416
+   },
+   {
+    "code": "BE",
+    "count": 113379
+   },
+   {
+    "code": "IT",
+    "count": 67997
+   },
+   {
+    "code": "PL",
+    "count": 58902
+   },
+   {
+    "code": "PT",
+    "count": 58672
+   }
+  ]
+ },
+ "warnings": []
+}

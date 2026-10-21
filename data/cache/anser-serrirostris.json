@@ -1,0 +1,172 @@
+{
+ "key": "anser-serrirostris",
+ "name": "Anser serrirostris",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:54:54.354Z",
+ "names": {
+  "da": "Tundrasædgås",
+  "en": "Tundra bean goose",
+  "accepted": "Anser serrirostris"
+ },
+ "wikidata": {
+  "id": "Q673280"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tundrasædgås",
+  "extract": "Tundrasædgås er en fugl i familien af egentlige andefugle. Den lever på tundraen i det nordlige Rusland og Sibirien.",
+  "url": "https://da.wikipedia.org/wiki/Tundras%C3%A6dg%C3%A5s"
+ },
+ "inat": {
+  "id": 144423,
+  "observations": 6343
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 604440675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604440675/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604440675/large.gif",
+    "attribution": "(c) Mickey Wu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/333001646",
+    "place": "Kinmen, Fujian, Taiwan",
+    "date": "2025-12-23"
+   },
+   {
+    "id": 736350580,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/736350580/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/736350580/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/401201015",
+    "place": "Livermere Lake",
+    "date": "2016-11-02"
+   },
+   {
+    "id": 591240083,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591240083/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591240083/large.jpg",
+    "attribution": "(c) Eva Uzdilova, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326449189",
+    "place": "92CW+FQ, 552 03 Velká Jesenice-Česká Skalice, Česko",
+    "date": "2025-11-03"
+   }
+  ],
+  "adult": [
+   {
+    "id": 630008639,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630008639/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630008639/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/345678687",
+    "place": "Городской округ Красногорск, Московская обл., Россия",
+    "date": "2026-03-28"
+   },
+   {
+    "id": 321921053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/321921053/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/321921053/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/184423791",
+    "place": "120th St & Wadsworth Ave (Westbound), Los Angeles, CA 90059, USA",
+    "date": "2023-09-22"
+   },
+   {
+    "id": 613657678,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613657678/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613657678/large.jpg",
+    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/337567778",
+    "place": "Gloucestershire, UK",
+    "date": "2026-02-02"
+   }
+  ],
+  "hero": {
+   "id": 110151375,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110151375/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110151375/large.jpeg",
+   "attribution": "(c) Troy B, some rights reserved (CC BY), uploaded by Troy B",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/110151375",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 7340170,
+  "dkTotal": 10450,
+  "dkMonths": [
+   2574,
+   1781,
+   1244,
+   535,
+   55,
+   6,
+   34,
+   41,
+   140,
+   1216,
+   1248,
+   1576
+  ],
+  "worldTotal": 159764,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 32528
+   },
+   {
+    "code": "SE",
+    "count": 25988
+   },
+   {
+    "code": "DE",
+    "count": 16754
+   },
+   {
+    "code": "BE",
+    "count": 15434
+   },
+   {
+    "code": "DK",
+    "count": 10450
+   },
+   {
+    "code": "PL",
+    "count": 9914
+   },
+   {
+    "code": "NO",
+    "count": 8803
+   },
+   {
+    "code": "KR",
+    "count": 6745
+   },
+   {
+    "code": "GB",
+    "count": 3971
+   },
+   {
+    "code": "US",
+    "count": 3809
+   },
+   {
+    "code": "EE",
+    "count": 3605
+   },
+   {
+    "code": "CN",
+    "count": 3441
+   }
+  ]
+ },
+ "warnings": []
+}

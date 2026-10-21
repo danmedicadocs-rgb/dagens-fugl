@@ -1,0 +1,152 @@
+{
+ "key": "anastomus-lamelligerus",
+ "name": "Anastomus lamelligerus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:53.705Z",
+ "names": {
+  "da": "Afrikansk Gabenæb",
+  "en": "African Openbill",
+  "accepted": "Anastomus lamelligerus"
+ },
+ "wikidata": {
+  "id": "Q26902"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "African openbill",
+  "extract": "The African openbill is a species of stork from the family Ciconiidae. It is widely distributed in Sub-Saharan Africa and western regions of Madagascar. This species is considered common to locally abundant across its range, although it has a patchy distribution. Some experts consider there to be two sub-species, A. l. lamelligerus distributed on the continent and A. l. madagascariensis living on the island of Madagascar. Scientists distinguish between the two sub-species due to the more pronounced longitudinal ridges on the bills of adult A. l. madagascariensis. The Asian openbill found in Asia is the African openbill's closest relative. The two species share the same notably large bill of a peculiar shape that gives them their name.",
+  "url": "https://en.wikipedia.org/wiki/African_openbill"
+ },
+ "inat": {
+  "id": 4776,
+  "observations": 3475
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 286083209,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286083209/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286083209/large.jpg",
+    "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/165277416",
+    "place": "Gorongosa National Park, Mozambique",
+    "date": "2014-06-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 664958438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664958438/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664958438/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/364253355",
+    "place": "Babati, TZ",
+    "date": "2026-05-23"
+   },
+   {
+    "id": 604141955,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604141955/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604141955/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332844785",
+    "place": "Lwengo, Uganda",
+    "date": "2025-08-28"
+   },
+   {
+    "id": 72441183,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72441183/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72441183/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/45677873",
+    "place": "Mambwe, Zambia",
+    "date": "2017-07-13"
+   }
+  ],
+  "hero": {
+   "id": 664958438,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664958438/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664958438/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/364253355",
+   "place": "Babati, TZ",
+   "date": "2026-05-23"
+  }
+ },
+ "gbif": {
+  "key": 5229411,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 62973,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 13244
+   },
+   {
+    "code": "UG",
+    "count": 10413
+   },
+   {
+    "code": "BW",
+    "count": 7716
+   },
+   {
+    "code": "KE",
+    "count": 6361
+   },
+   {
+    "code": "NA",
+    "count": 5011
+   },
+   {
+    "code": "ZM",
+    "count": 4921
+   },
+   {
+    "code": "TZ",
+    "count": 3993
+   },
+   {
+    "code": "ZW",
+    "count": 3427
+   },
+   {
+    "code": "MZ",
+    "count": 2157
+   },
+   {
+    "code": "RW",
+    "count": 1639
+   },
+   {
+    "code": "MW",
+    "count": 1151
+   },
+   {
+    "code": "CD",
+    "count": 359
+   }
+  ]
+ },
+ "warnings": []
+}

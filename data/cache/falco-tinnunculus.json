@@ -1,0 +1,202 @@
+{
+ "key": "falco-tinnunculus",
+ "name": "Falco tinnunculus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:02:52.006Z",
+ "names": {
+  "da": "Tårnfalk",
+  "en": "Common Kestrel",
+  "accepted": "Falco tinnunculus"
+ },
+ "wikidata": {
+  "id": "Q26490"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Tårnfalk",
+  "extract": "Tårnfalken er en rovfugl, der findes over store dele af Europa, Asien og Afrika. Den er kendt for at jage mus ved at stå stille i luften på flagrende vinger over f.eks. græsmarker. Denne flyveadfærd kaldes \"at muse\".",
+  "url": "https://da.wikipedia.org/wiki/T%C3%A5rnfalk"
+ },
+ "inat": {
+  "id": 472766,
+  "observations": 147371
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 255957127,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255957127/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255957127/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/148613413",
+    "place": "2770 Paço de Arcos, Portugal",
+    "date": "2023-02-12"
+   },
+   {
+    "id": 187660947,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187660947/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187660947/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/111181813",
+    "place": "Zorilor, Cluj-Napoca, Romania",
+    "date": "2022-04-11"
+   },
+   {
+    "id": 176132490,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176132490/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176132490/large.jpeg",
+    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105032479",
+    "place": "86643 Rennertshofen, Deutschland",
+    "date": "2022-01-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 466934488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466934488/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466934488/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/260050802",
+    "place": "Santa Cruz de Tenerife, Spain",
+    "date": "2024-12-23"
+   },
+   {
+    "id": 472339961,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472339961/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472339961/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/262973734",
+    "place": "Portugal",
+    "date": "2025-02-24"
+   },
+   {
+    "id": 469027668,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469027668/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469027668/large.jpg",
+    "attribution": "(c) Stephan Mende, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261106329",
+    "place": "31 Hildesheim, Germany",
+    "date": "2025-02-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 206248232,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206248232/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/206248232/large.jpeg",
+    "attribution": "(c) Mourad Harzallah, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/121852581",
+    "place": "El Achir, Algérie",
+    "date": "2015-06-21"
+   },
+   {
+    "id": 96530792,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96530792/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96530792/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/60372654",
+    "place": "Западный административный округ, Москва, Россия",
+    "date": "2014-07-05"
+   },
+   {
+    "id": 398240815,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398240815/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398240815/large.jpeg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224679427",
+    "place": "Восточный административный округ, Москва, Россия",
+    "date": "2024-06-23"
+   }
+  ],
+  "hero": {
+   "id": 255957127,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255957127/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255957127/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/148613413",
+   "place": "2770 Paço de Arcos, Portugal",
+   "date": "2023-02-12"
+  }
+ },
+ "gbif": {
+  "key": 9616058,
+  "dkTotal": 521595,
+  "dkMonths": [
+   42620,
+   33777,
+   40577,
+   59402,
+   55238,
+   29858,
+   35194,
+   49257,
+   67391,
+   47482,
+   30346,
+   30330
+  ],
+  "worldTotal": 5828190,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 864774
+   },
+   {
+    "code": "SE",
+    "count": 681605
+   },
+   {
+    "code": "FR",
+    "count": 586003
+   },
+   {
+    "code": "ES",
+    "count": 542607
+   },
+   {
+    "code": "DK",
+    "count": 521595
+   },
+   {
+    "code": "GB",
+    "count": 510554
+   },
+   {
+    "code": "FI",
+    "count": 350265
+   },
+   {
+    "code": "DE",
+    "count": 336432
+   },
+   {
+    "code": "BE",
+    "count": 210381
+   },
+   {
+    "code": "PT",
+    "count": 128902
+   },
+   {
+    "code": "IL",
+    "count": 110791
+   },
+   {
+    "code": "IT",
+    "count": 105880
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,152 @@
+{
+ "key": "leucogeranus-leucogeranus",
+ "name": "Leucogeranus leucogeranus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:56.295Z",
+ "names": {
+  "da": "Snetrane",
+  "en": "Siberian Crane",
+  "accepted": "Leucogeranus leucogeranus"
+ },
+ "wikidata": {
+  "id": "Q21949185"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Siberian crane",
+  "extract": "The Siberian crane, also known as the Siberian white crane or the snow crane, is a bird of the family Gruidae, the cranes. They are distinctive among the cranes: adults are nearly all snowy white, except for their black primary feathers that are visible in flight, and with two breeding populations in the Arctic tundra of western and eastern Russia. The eastern populations migrate during winter to China, while the western population winters in Iran and (formerly) in Bharatpur, India.",
+  "url": "https://en.wikipedia.org/wiki/Siberian_crane"
+ },
+ "inat": {
+  "id": 144289,
+  "observations": 606
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 64688754,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64688754/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64688754/large.jpeg",
+    "attribution": "(c) 呂一起(Lyu yi-chi), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40806234",
+    "place": "台灣新北市",
+    "date": "2014-12-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 14608295,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14608295/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14608295/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/10501895",
+    "place": "San Tin, Hong Kong",
+    "date": "2016-12-17"
+   },
+   {
+    "id": 2737991,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2737991/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2737991/large.jpg",
+    "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2451090",
+    "place": "Chungcheongnam-do, KR",
+    "date": "2004-11-19"
+   },
+   {
+    "id": 590067113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590067113/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590067113/large.jpg",
+    "attribution": "(c) rashidchan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/325860102",
+    "place": "中国山东省东营市垦利区",
+    "date": "2025-11-09"
+   }
+  ],
+  "hero": {
+   "id": 14608295,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14608295/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14608295/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/10501895",
+   "place": "San Tin, Hong Kong",
+   "date": "2016-12-17"
+  }
+ },
+ "gbif": {
+  "key": 2474961,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 4104,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 1937
+   },
+   {
+    "code": "TW",
+    "count": 804
+   },
+   {
+    "code": "JP",
+    "count": 405
+   },
+   {
+    "code": "IN",
+    "count": 360
+   },
+   {
+    "code": "IR",
+    "count": 155
+   },
+   {
+    "code": "HK",
+    "count": 95
+   },
+   {
+    "code": "US",
+    "count": 68
+   },
+   {
+    "code": "RU",
+    "count": 62
+   },
+   {
+    "code": "KR",
+    "count": 61
+   },
+   {
+    "code": "MN",
+    "count": 52
+   },
+   {
+    "code": "ZZ",
+    "count": 13
+   },
+   {
+    "code": "DE",
+    "count": 10
+   }
+  ]
+ },
+ "warnings": []
+}

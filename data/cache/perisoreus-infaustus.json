@@ -1,0 +1,141 @@
+{
+ "key": "perisoreus-infaustus",
+ "name": "Perisoreus infaustus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:28:24.224Z",
+ "names": {
+  "da": "Lavskrige",
+  "en": "Siberian Jay",
+  "accepted": "Perisoreus infaustus"
+ },
+ "wikidata": {
+  "id": "Q214281"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Siberian jay",
+  "extract": "The Siberian jay is a small jay with a widespread distribution within the coniferous forests in North Eurasia. It has grey-brown plumage with a darker brown crown and a paler throat. It is rusty-red in a panel near the wing-bend, on the undertail coverts and on the sides of the tail. The sexes are similar. Although its habitat is being fragmented, it is a common bird with a very wide range so the International Union for Conservation of Nature has assessed its conservation status as being of \"least concern\".",
+  "url": "https://en.wikipedia.org/wiki/Siberian_jay"
+ },
+ "inat": {
+  "id": 8334,
+  "observations": 1515
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 86026265,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/large.jpg",
+    "attribution": "(c) Lars Falkdalen Lindahl, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/54076740",
+    "place": "Åsele SO, Sweden",
+    "date": "2019-10-20"
+   },
+   {
+    "id": 602715946,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602715946/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602715946/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/332147657",
+    "place": "Njupeskärsleden, Särna, Dalarna County, SE",
+    "date": "2025-12-26"
+   },
+   {
+    "id": 255002075,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255002075/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255002075/large.jpeg",
+    "attribution": "(c) Надежда Прыкина, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/148111502",
+    "place": "Респ. Башкортостан, Россия, 453725",
+    "date": "2023-02-05"
+   }
+  ],
+  "hero": {
+   "id": 86026265,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/large.jpg",
+   "attribution": "(c) Lars Falkdalen Lindahl, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/54076740",
+   "place": "Åsele SO, Sweden",
+   "date": "2019-10-20"
+  }
+ },
+ "gbif": {
+  "key": 2482449,
+  "dkTotal": 1,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 130677,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 61800
+   },
+   {
+    "code": "FI",
+    "count": 50173
+   },
+   {
+    "code": "NO",
+    "count": 16773
+   },
+   {
+    "code": "RU",
+    "count": 1540
+   },
+   {
+    "code": "MN",
+    "count": 106
+   },
+   {
+    "code": "CN",
+    "count": 97
+   },
+   {
+    "code": "EE",
+    "count": 26
+   },
+   {
+    "code": "MX",
+    "count": 24
+   },
+   {
+    "code": "ZZ",
+    "count": 12
+   },
+   {
+    "code": "UA",
+    "count": 4
+   },
+   {
+    "code": "BE",
+    "count": 3
+   },
+   {
+    "code": "AX",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,162 @@
+{
+ "key": "turdus-viscivorus",
+ "name": "Turdus viscivorus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:20:29.160Z",
+ "names": {
+  "da": "Misteldrossel",
+  "en": "Mistle Thrush",
+  "accepted": "Turdus viscivorus"
+ },
+ "wikidata": {
+  "id": "Q178942"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Misteldrossel",
+  "extract": "Misteldrossel er med sine 27 centimeter den største af de danske drosler. Den er i Danmark ret almindelig både som ynglefugl og som trækgæst. Den ligner af ydre en stor sangdrossel, men dens sang minder mest om solsortens.",
+  "url": "https://da.wikipedia.org/wiki/Misteldrossel"
+ },
+ "inat": {
+  "id": 12735,
+  "observations": 27959
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 338267434,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/large.jpeg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/192662067",
+    "place": "Dipton, UK",
+    "date": "2023-11-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 263661860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263661860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263661860/large.jpg",
+    "attribution": "(c) Leonardo Antonio Argese, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/152712880",
+    "place": "Politecnico di Bari, Bari, Puglia, IT",
+    "date": "2023-03-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 112630612,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112630612/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112630612/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/69330825",
+    "place": "Ponteland, Newcastle upon Tyne, UK",
+    "date": "2020-05-01"
+   },
+   {
+    "id": 410098818,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410098818/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410098818/large.jpeg",
+    "attribution": "(c) A. Johann, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/230933614",
+    "place": "Göllheimer Wald, Göllheim, Rheinland-Pfalz, DE",
+    "date": "2024-07-22"
+   },
+   {
+    "id": 527558789,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527558789/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527558789/large.jpg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/293122161",
+    "place": "Респ. Башкортостан, Россия, 453620",
+    "date": "2025-06-27"
+   }
+  ],
+  "hero": {
+   "id": 338267434,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/large.jpeg",
+   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/192662067",
+   "place": "Dipton, UK",
+   "date": "2023-11-30"
+  }
+ },
+ "gbif": {
+  "key": 2490774,
+  "dkTotal": 106989,
+  "dkMonths": [
+   3730,
+   6288,
+   26782,
+   23924,
+   11747,
+   5188,
+   2731,
+   1555,
+   4483,
+   14784,
+   3439,
+   2290
+  ],
+  "worldTotal": 1710891,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 356523
+   },
+   {
+    "code": "FR",
+    "count": 343609
+   },
+   {
+    "code": "GB",
+    "count": 254354
+   },
+   {
+    "code": "ES",
+    "count": 130568
+   },
+   {
+    "code": "NL",
+    "count": 111700
+   },
+   {
+    "code": "DK",
+    "count": 106989
+   },
+   {
+    "code": "DE",
+    "count": 68144
+   },
+   {
+    "code": "NO",
+    "count": 59315
+   },
+   {
+    "code": "BE",
+    "count": 44188
+   },
+   {
+    "code": "FI",
+    "count": 31831
+   },
+   {
+    "code": "IE",
+    "count": 22928
+   },
+   {
+    "code": "PT",
+    "count": 21155
+   }
+  ]
+ },
+ "warnings": []
+}

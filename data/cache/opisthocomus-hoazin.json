@@ -1,0 +1,131 @@
+{
+ "key": "opisthocomus-hoazin",
+ "name": "Opisthocomus hoazin",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:48:19.520Z",
+ "names": {
+  "da": "Hoatzin",
+  "en": "Hoatzin",
+  "accepted": "Opisthocomus hoazin"
+ },
+ "wikidata": {
+  "id": "Q188660"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hoatzin",
+  "extract": "Hoatzin er en regnskovslevende fugl, der er dårlig til at flyve.\nDen er den eneste art i fuglefamilien Opisthocomidae – og i ordenen Opisthocomiformes.",
+  "url": "https://da.wikipedia.org/wiki/Hoatzin"
+ },
+ "inat": {
+  "id": 1626,
+  "observations": 4430
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 172303634,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172303634/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172303634/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/103004875",
+    "place": "Villavicencio, Meta, CO",
+    "date": "2021-12-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 188504347,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188504347/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188504347/large.jpg",
+    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/111651459",
+    "place": "Tambopata, Peru",
+    "date": "2014-12-12"
+   }
+  ],
+  "hero": {
+   "id": 335722298,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335722298/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335722298/large.jpg",
+   "attribution": "no rights reserved, uploaded by Philipp Hoenle",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/335722298",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2496202,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 63521,
+  "topCountries": [
+   {
+    "code": "CO",
+    "count": 18782
+   },
+   {
+    "code": "EC",
+    "count": 18053
+   },
+   {
+    "code": "PE",
+    "count": 15848
+   },
+   {
+    "code": "BR",
+    "count": 5075
+   },
+   {
+    "code": "BO",
+    "count": 2416
+   },
+   {
+    "code": "VE",
+    "count": 2251
+   },
+   {
+    "code": "GY",
+    "count": 826
+   },
+   {
+    "code": "GF",
+    "count": 113
+   },
+   {
+    "code": "SR",
+    "count": 34
+   },
+   {
+    "code": "ZZ",
+    "count": 7
+   },
+   {
+    "code": "PY",
+    "count": 3
+   },
+   {
+    "code": "US",
+    "count": 3
+   }
+  ]
+ },
+ "warnings": []
+}

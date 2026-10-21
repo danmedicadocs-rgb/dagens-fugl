@@ -1,0 +1,150 @@
+{
+ "key": "promerops-cafer",
+ "name": "Promerops cafer",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:32:13.948Z",
+ "names": {
+  "da": "Kapsukkerfugl",
+  "en": "Cape Sugarbird",
+  "accepted": "Promerops cafer"
+ },
+ "wikidata": {
+  "id": "Q1002569"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Cape sugarbird",
+  "extract": "The Cape sugarbird is one of the eight bird species endemic to the Fynbos biome of the Western Cape and Eastern Cape provinces of South Africa.",
+  "url": "https://en.wikipedia.org/wiki/Cape_sugarbird"
+ },
+ "inat": {
+  "id": 13442,
+  "observations": 5080
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 215166796,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215166796/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215166796/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/126788930",
+    "place": "Table Mountain (Nature Reserve), Cape Town, South Africa",
+    "date": "2022-07-17"
+   },
+   {
+    "id": 220132936,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220132936/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220132936/large.jpg",
+    "attribution": "(c) Alan Manson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/129528408",
+    "place": "Grootvadersbosch, South Cape DC, South Africa",
+    "date": "2021-03-27"
+   },
+   {
+    "id": 32096298,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32096298/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32096298/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20810889",
+    "place": "Fire belt above Eco Lodge, Greyton, 7233, South Africa",
+    "date": "2019-02-25"
+   }
+  ],
+  "female": [
+   {
+    "id": 225503887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/225503887/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/225503887/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/132428095",
+    "place": "George Municipality, South Africa",
+    "date": "2022-08-26"
+   },
+   {
+    "id": 224184737,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224184737/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224184737/large.jpeg",
+    "attribution": "(c) Karen Eichholz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/131711808",
+    "place": "Betty's Bay, 7141, South Africa",
+    "date": "2022-08-20"
+   },
+   {
+    "id": 166401570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166401570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166401570/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/99775139",
+    "place": "Woodridge, Gqeberha, South Africa",
+    "date": "2021-10-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 86368136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86368136/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86368136/large.jpeg",
+    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/54284096",
+    "place": "Overberg District Municipality, South Africa",
+    "date": "2020-07-25"
+   }
+  ],
+  "hero": {
+   "id": 215166796,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215166796/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215166796/large.jpeg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/126788930",
+   "place": "Table Mountain (Nature Reserve), Cape Town, South Africa",
+   "date": "2022-07-17"
+  }
+ },
+ "gbif": {
+  "key": 5229963,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 49749,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 49688
+   },
+   {
+    "code": "ZZ",
+    "count": 2
+   },
+   {
+    "code": "GR",
+    "count": 1
+   },
+   {
+    "code": "SZ",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,172 @@
+{
+ "key": "ardea-goliath",
+ "name": "Ardea goliath",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:31:47.555Z",
+ "names": {
+  "da": "Goliathejre",
+  "en": "Goliath Heron",
+  "accepted": "Ardea goliath"
+ },
+ "wikidata": {
+  "id": "Q118608"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Goliath heron",
+  "extract": "The Goliath heron, also known as the giant heron, is a very large wading bird in the heron family, Ardeidae. It is primarily found in sub-Saharan Africa, with smaller, declining numbers in Southwest and South Asia. Asian records are now very rare, but it is still known as an occasional vagrant.",
+  "url": "https://en.wikipedia.org/wiki/Goliath_heron"
+ },
+ "inat": {
+  "id": 4969,
+  "observations": 3931
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 63248142,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63248142/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63248142/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39839994",
+    "place": "Bunyaruguru, Bushenyi, Queen Elizabeth, Uganda",
+    "date": "2012-09-20"
+   },
+   {
+    "id": 179909117,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179909117/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179909117/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107018804",
+    "place": "Tarangire, Babati, Manyara, Tanzania",
+    "date": "2022-01-26"
+   },
+   {
+    "id": 653581539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/653581539/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/653581539/large.jpg",
+    "attribution": "(c) linkie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/358287487",
+    "place": "Kruger National Park, Ehlanzeni, Mpumalanga, South Africa",
+    "date": "2025-12-30"
+   }
+  ],
+  "adult": [
+   {
+    "id": 601031978,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601031978/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601031978/large.jpg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331326178",
+    "place": "Marievale, Nigel, South Africa",
+    "date": "2025-10-11"
+   },
+   {
+    "id": 455298954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455298954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455298954/large.jpg",
+    "attribution": "(c) Peter Archdale, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254215893",
+    "place": "Loitokitok, Kenya",
+    "date": "2024-10-30"
+   },
+   {
+    "id": 287351233,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287351233/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287351233/large.jpeg",
+    "attribution": "(c) Jan Vršovský, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/165967024",
+    "place": "Akagera, Kayonza, Iburasirazuba, Rwanda",
+    "date": "2023-05-07"
+   }
+  ],
+  "hero": {
+   "id": 601031978,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601031978/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601031978/large.jpg",
+   "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/331326178",
+   "place": "Marievale, Nigel, South Africa",
+   "date": "2025-10-11"
+  }
+ },
+ "gbif": {
+  "key": 2480927,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 83742,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 54886
+   },
+   {
+    "code": "KE",
+    "count": 6431
+   },
+   {
+    "code": "BW",
+    "count": 4304
+   },
+   {
+    "code": "UG",
+    "count": 3641
+   },
+   {
+    "code": "NA",
+    "count": 2374
+   },
+   {
+    "code": "ZW",
+    "count": 2256
+   },
+   {
+    "code": "ZM",
+    "count": 1904
+   },
+   {
+    "code": "TZ",
+    "count": 1786
+   },
+   {
+    "code": "GM",
+    "count": 1109
+   },
+   {
+    "code": "ET",
+    "count": 1019
+   },
+   {
+    "code": "SN",
+    "count": 831
+   },
+   {
+    "code": "MZ",
+    "count": 631
+   }
+  ]
+ },
+ "warnings": []
+}

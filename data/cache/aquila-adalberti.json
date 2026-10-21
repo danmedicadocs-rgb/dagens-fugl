@@ -1,0 +1,145 @@
+{
+ "key": "aquila-adalberti",
+ "name": "Aquila adalberti",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:26:17.774Z",
+ "names": {
+  "da": "Spansk Kejserørn",
+  "en": "Spanish Imperial Eagle",
+  "accepted": "Aquila adalberti"
+ },
+ "wikidata": {
+  "id": "Q499568"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Spanish imperial eagle",
+  "extract": "The Spanish imperial eagle, Spanish eagle, Iberian imperial eagle or Adalbert's eagle is a species of eagle native to the Iberian Peninsula. The binomial commemorates Prince Adalbert of Bavaria. Due to its distinct \"epaulettes\", old literature often referred to this species as the white-shouldered eagle.",
+  "url": "https://en.wikipedia.org/wiki/Spanish_imperial_eagle"
+ },
+ "inat": {
+  "id": 5081,
+  "observations": 2770
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 455675954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455675954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455675954/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254402722",
+    "place": "Jaén, ES-AN, ES",
+    "date": "2024-12-06"
+   },
+   {
+    "id": 509867367,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/509867367/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/509867367/large.jpg",
+    "attribution": "(c) antoterryn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/283745025",
+    "place": "Castilla-La Mancha, ES",
+    "date": "2025-05-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 346659361,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346659361/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346659361/large.jpg",
+    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/196904104",
+    "place": "Beja, PT",
+    "date": "2024-01-15"
+   },
+   {
+    "id": 252428243,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252428243/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252428243/large.jpg",
+    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146779841",
+    "place": "Beja, PT",
+    "date": "2023-01-17"
+   },
+   {
+    "id": 535868382,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535868382/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535868382/large.jpg",
+    "attribution": "(c) antoterryn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/297542716",
+    "place": "Castilla-La Mancha, ES",
+    "date": "2025-07-05"
+   }
+  ],
+  "hero": {
+   "id": 455675954,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455675954/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455675954/large.jpg",
+   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/254402722",
+   "place": "Jaén, ES-AN, ES",
+   "date": "2024-12-06"
+  }
+ },
+ "gbif": {
+  "key": 2480510,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 40121,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 39391
+   },
+   {
+    "code": "PT",
+    "count": 627
+   },
+   {
+    "code": "MA",
+    "count": 33
+   },
+   {
+    "code": "FR",
+    "count": 23
+   },
+   {
+    "code": "DZ",
+    "count": 3
+   },
+   {
+    "code": "NL",
+    "count": 2
+   },
+   {
+    "code": "GI",
+    "count": 1
+   },
+   {
+    "code": "PH",
+    "count": 1
+   }
+  ]
+ },
+ "warnings": []
+}

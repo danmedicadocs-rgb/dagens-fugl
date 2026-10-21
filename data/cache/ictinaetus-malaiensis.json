@@ -1,0 +1,172 @@
+{
+ "key": "ictinaetus-malaiensis",
+ "name": "Ictinaetus malaiensis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:36:17.175Z",
+ "names": {
+  "da": "Indisk Sortørn",
+  "en": "Black Eagle",
+  "accepted": "Ictinaetus malaiensis"
+ },
+ "wikidata": {
+  "id": "Q795439"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black eagle",
+  "extract": "The black eagle is a bird of prey. Like all eagles, it is in the family Accipitridae, and it is the only member of the genus Ictinaetus. It soars over forests in the hilly regions of tropical and subtropical South and Southeast Asia, as well as southeastern China, hunting mammals and birds, particularly at their nests. It is easily identified by its widely splayed and long primary \"fingers\", the characteristic silhouette, slow flight and yellow ceres and legs that contrast with the dark feathers.",
+  "url": "https://en.wikipedia.org/wiki/Black_eagle"
+ },
+ "inat": {
+  "id": 367472,
+  "observations": 3358
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 158303400,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158303400/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158303400/large.jpg",
+    "attribution": "(c) dhfischer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/95360910",
+    "place": "Jeriau Waterfall, Fraser's Hill, Malaysia",
+    "date": "2012-04-01"
+   },
+   {
+    "id": 232551848,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/232551848/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/232551848/large.jpeg",
+    "attribution": "(c) Roland Godon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/136278386",
+    "place": "Kabupaten de Minahasa, Sulawesi du Nord, Indonésie",
+    "date": "2022-09-13"
+   },
+   {
+    "id": 458400994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458400994/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458400994/large.jpeg",
+    "attribution": "(c) 許慶棠Ray, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/255753501",
+    "place": "Taiwan",
+    "date": "2024-12-21"
+   }
+  ],
+  "adult": [
+   {
+    "id": 62920718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62920718/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62920718/large.jpg",
+    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/39646907",
+    "place": "Taiwan, TW",
+    "date": "2020-03-07"
+   },
+   {
+    "id": 706037026,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/706037026/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/706037026/large.jpg",
+    "attribution": "(c) Srivatsan Ramkumar, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/385656098",
+    "place": "Kongadai, Tamil Nadu 638501, India",
+    "date": "2026-07-26"
+   },
+   {
+    "id": 479191615,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191615/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191615/large.jpg",
+    "attribution": "(c) vrxz, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/266699056",
+    "place": "Taiwan",
+    "date": "2025-01-06"
+   }
+  ],
+  "hero": {
+   "id": 30653128,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30653128/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30653128/large.jpg",
+   "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA), uploaded by 尹若宇",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/30653128",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229198,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 72546,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 33806
+   },
+   {
+    "code": "TW",
+    "count": 17724
+   },
+   {
+    "code": "LK",
+    "count": 3828
+   },
+   {
+    "code": "ID",
+    "count": 3501
+   },
+   {
+    "code": "CN",
+    "count": 3151
+   },
+   {
+    "code": "MY",
+    "count": 2916
+   },
+   {
+    "code": "BT",
+    "count": 2417
+   },
+   {
+    "code": "NP",
+    "count": 1668
+   },
+   {
+    "code": "TH",
+    "count": 1554
+   },
+   {
+    "code": "VN",
+    "count": 1193
+   },
+   {
+    "code": "MM",
+    "count": 343
+   },
+   {
+    "code": "KH",
+    "count": 281
+   }
+  ]
+ },
+ "warnings": []
+}

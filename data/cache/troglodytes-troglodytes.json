@@ -1,0 +1,202 @@
+{
+ "key": "troglodytes-troglodytes",
+ "name": "Troglodytes troglodytes",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:20:07.720Z",
+ "names": {
+  "da": "Gærdesmutte",
+  "en": null,
+  "accepted": "Troglodytes troglodytes"
+ },
+ "wikidata": {
+  "id": "Q25740"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gærdesmutte",
+  "extract": "Gærdesmutten er en fugleart i gærdesmuttefamilien. Den måler 9,5-12 centimeter og er med sine 8-13 gram Danmarks næstmindste fugl efter fuglekongen. Gærdesmutten yngler i skove, parker og haver, oftest i tæt krat.",
+  "url": "https://da.wikipedia.org/wiki/G%C3%A6rdesmutte"
+ },
+ "inat": {
+  "id": 145363,
+  "observations": 61321
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 123587450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/75531686",
+    "place": "Milton Keynes, England, United Kingdom",
+    "date": "2021-04-28"
+   },
+   {
+    "id": 177439349,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177439349/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177439349/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105716218",
+    "place": "Jules César, 95130 Franconville, France",
+    "date": "2022-01-28"
+   },
+   {
+    "id": 475310011,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/475310011/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/475310011/large.jpg",
+    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/264686658",
+    "place": "Nordrhein-Westfalen, DE",
+    "date": "2025-03-09"
+   }
+  ],
+  "female": [
+   {
+    "id": 415815612,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415815612/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415815612/large.jpeg",
+    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/233939746",
+    "place": "Eyemouth TD14 5QE, UK",
+    "date": "2024-08-05"
+   },
+   {
+    "id": 176682158,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176682158/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176682158/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105317135",
+    "place": "Montfrais Eboulures, Franconville, France",
+    "date": "2022-01-21"
+   },
+   {
+    "id": 422551539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422551539/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422551539/large.jpeg",
+    "attribution": "(c) Pavel Smirnov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/237428038",
+    "place": "Северо-Курильский р-н, Сахалинская обл., Россия, 694550",
+    "date": "2024-07-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 139586671,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139586671/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139586671/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/84895810",
+    "place": "Häädemeeste, Pärnu, Estonia",
+    "date": "2021-06-22"
+   },
+   {
+    "id": 398295971,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398295971/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398295971/large.jpeg",
+    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/224709342",
+    "place": "Highland Council, UK",
+    "date": "2024-06-22"
+   },
+   {
+    "id": 34442625,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34442625/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34442625/large.jpeg",
+    "attribution": "(c) John Smith, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/22243336",
+    "place": "Woolacombe, UK",
+    "date": "2019-04-09"
+   }
+  ],
+  "hero": {
+   "id": 123587450,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/75531686",
+   "place": "Milton Keynes, England, United Kingdom",
+   "date": "2021-04-28"
+  }
+ },
+ "gbif": {
+  "key": 5231438,
+  "dkTotal": 457933,
+  "dkMonths": [
+   36705,
+   29721,
+   53332,
+   67714,
+   55143,
+   39036,
+   30094,
+   19138,
+   22528,
+   41911,
+   34534,
+   27997
+  ],
+  "worldTotal": 5954537,
+  "topCountries": [
+   {
+    "code": "GB",
+    "count": 1136798
+   },
+   {
+    "code": "SE",
+    "count": 889505
+   },
+   {
+    "code": "FR",
+    "count": 772392
+   },
+   {
+    "code": "NL",
+    "count": 673635
+   },
+   {
+    "code": "DK",
+    "count": 457933
+   },
+   {
+    "code": "DE",
+    "count": 351687
+   },
+   {
+    "code": "ES",
+    "count": 319675
+   },
+   {
+    "code": "BE",
+    "count": 313757
+   },
+   {
+    "code": "NO",
+    "count": 296994
+   },
+   {
+    "code": "PT",
+    "count": 155661
+   },
+   {
+    "code": "IT",
+    "count": 67243
+   },
+   {
+    "code": "IE",
+    "count": 61059
+   }
+  ]
+ },
+ "warnings": []
+}

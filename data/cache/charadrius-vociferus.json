@@ -1,0 +1,202 @@
+{
+ "key": "charadrius-vociferus",
+ "name": "Charadrius vociferus",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:45:17.231Z",
+ "names": {
+  "da": "Kildire",
+  "en": "Killdeer",
+  "accepted": "Charadrius vociferus"
+ },
+ "wikidata": {
+  "id": "Q755737"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Killdeer",
+  "extract": "The killdeer is a large plover found in the Americas. Its shrill, two-syllable call is often heard, sounding like \"kill deer\". It was described and given its current scientific name in 1758 by Carl Linnaeus in the 10th edition of his Systema Naturae. Three subspecies are described. Its upperparts are mostly brown with rufous fringes, the head has patches of white and black, and two black bands cross the breast. The belly and the rest of the breast are white. The nominate subspecies breeds from southeastern Alaska and southern Canada to Mexico. It is seen year-round in the southern half of its breeding range; the subspecies C. v. ternominatus is resident in the West Indies, and C. v. peruvianus inhabits Peru and surrounding South American countries throughout the year. North American breeders winter from their resident range south to Central America, the West Indies, and the northernmost portions of South America.",
+  "url": "https://en.wikipedia.org/wiki/Killdeer"
+ },
+ "inat": {
+  "id": 4793,
+  "observations": 156786
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 351424221,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/large.jpeg",
+    "attribution": "(c) Mordecai-Mark Mac Low, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/199285549",
+    "place": "Isla Vista, CA 93117, USA",
+    "date": "2024-02-13"
+   },
+   {
+    "id": 191299672,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191299672/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191299672/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/113217256",
+    "place": "Westfort Village, Thunder Bay, ON, CA",
+    "date": "2022-04-26"
+   },
+   {
+    "id": 485237648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485237648/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485237648/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/269849886",
+    "place": "Hopyard Rd, Pleasanton, CA, US",
+    "date": "2025-04-11"
+   }
+  ],
+  "female": [
+   {
+    "id": 618756466,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618756466/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618756466/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340061730",
+    "place": "Laguna Creek Ln, Pleasanton, CA, US",
+    "date": "2026-02-23"
+   },
+   {
+    "id": 394377649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394377649/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394377649/large.jpeg",
+    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222625560",
+    "place": "Churchill County, NV, USA",
+    "date": "2024-06-07"
+   },
+   {
+    "id": 654040320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654040320/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654040320/large.jpg",
+    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/358519924",
+    "place": "Laguna Creek Ln, Pleasanton, CA, US",
+    "date": "2026-05-04"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 67100327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67100327/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67100327/large.jpeg",
+    "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/42265463",
+    "place": "Fort Worth, TX, USA",
+    "date": "2020-04-15"
+   },
+   {
+    "id": 456136056,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456136056/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456136056/large.jpg",
+    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254632909",
+    "place": "Yolo County, CA, USA",
+    "date": "2024-06-11"
+   },
+   {
+    "id": 673912550,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673912550/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673912550/large.jpg",
+    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/368954874",
+    "place": "Hattiesburg, MS, USA",
+    "date": "2026-06-06"
+   }
+  ],
+  "hero": {
+   "id": 351424221,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/large.jpeg",
+   "attribution": "(c) Mordecai-Mark Mac Low, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/199285549",
+   "place": "Isla Vista, CA 93117, USA",
+   "date": "2024-02-13"
+  }
+ },
+ "gbif": {
+  "key": 2480320,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 9900304,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 8510706
+   },
+   {
+    "code": "CA",
+    "count": 1190422
+   },
+   {
+    "code": "MX",
+    "count": 85890
+   },
+   {
+    "code": "CU",
+    "count": 20409
+   },
+   {
+    "code": "PR",
+    "count": 17649
+   },
+   {
+    "code": "PE",
+    "count": 14134
+   },
+   {
+    "code": "BZ",
+    "count": 8887
+   },
+   {
+    "code": "BS",
+    "count": 8511
+   },
+   {
+    "code": "CR",
+    "count": 6253
+   },
+   {
+    "code": "DO",
+    "count": 5674
+   },
+   {
+    "code": "BM",
+    "count": 4416
+   },
+   {
+    "code": "AW",
+    "count": 4105
+   }
+  ]
+ },
+ "warnings": []
+}

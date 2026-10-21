@@ -1,0 +1,172 @@
+{
+ "key": "calidris-temminckii",
+ "name": "Calidris temminckii",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:05:33.431Z",
+ "names": {
+  "da": "Temmincksryle",
+  "en": "Temminck's Stint",
+  "accepted": "Calidris temminckii"
+ },
+ "wikidata": {
+  "id": "Q58921"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Temmincksryle",
+  "extract": "Temmincksryle er en vadefugl, der kun ses fåtalligt som trækgæst i Danmark. Den overvintrer i Sahel-regionen i Vest- og Centralafrika. Temmincksryle er opkaldt efter den hollandske zoolog Coenraad Jacob Temminck (1778-1858).",
+  "url": "https://da.wikipedia.org/wiki/Temmincksryle"
+ },
+ "inat": {
+  "id": 3837,
+  "observations": 8106
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 707912755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707912755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707912755/large.jpg",
+    "attribution": "(c) Борис Георги, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/386630510",
+    "place": "Завьяловский р-н, республика Удмуртия, Россия",
+    "date": "2026-07-28"
+   },
+   {
+    "id": 729736576,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729736576/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729736576/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397846097",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-02"
+   },
+   {
+    "id": 583249376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583249376/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583249376/large.jpg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/322412284",
+    "place": "Gloucestershire, UK",
+    "date": "2025-10-21"
+   }
+  ],
+  "adult": [
+   {
+    "id": 559304477,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/large.jpg",
+    "attribution": "(c) Olivier Morel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/309915156",
+    "place": "42210 Unias, France",
+    "date": "2025-08-21"
+   },
+   {
+    "id": 729702362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729702362/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729702362/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397829031",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-02"
+   },
+   {
+    "id": 729691623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729691623/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729691623/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/397822799",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-02"
+   }
+  ],
+  "hero": {
+   "id": 559304477,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/large.jpg",
+   "attribution": "(c) Olivier Morel, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/309915156",
+   "place": "42210 Unias, France",
+   "date": "2025-08-21"
+  }
+ },
+ "gbif": {
+  "key": 2481740,
+  "dkTotal": 26533,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   378,
+   12585,
+   207,
+   6357,
+   6870,
+   125,
+   9,
+   0,
+   0
+  ],
+  "worldTotal": 354906,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 129074
+   },
+   {
+    "code": "IN",
+    "count": 50079
+   },
+   {
+    "code": "NO",
+    "count": 28340
+   },
+   {
+    "code": "DK",
+    "count": 26533
+   },
+   {
+    "code": "FI",
+    "count": 13286
+   },
+   {
+    "code": "AE",
+    "count": 9992
+   },
+   {
+    "code": "NL",
+    "count": 9965
+   },
+   {
+    "code": "ES",
+    "count": 9077
+   },
+   {
+    "code": "IL",
+    "count": 7388
+   },
+   {
+    "code": "FR",
+    "count": 6700
+   },
+   {
+    "code": "RU",
+    "count": 5874
+   },
+   {
+    "code": "TW",
+    "count": 4646
+   }
+  ]
+ },
+ "warnings": []
+}

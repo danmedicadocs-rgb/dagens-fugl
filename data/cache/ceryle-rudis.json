@@ -1,0 +1,171 @@
+{
+ "key": "ceryle-rudis",
+ "name": "Ceryle rudis",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:33:12.269Z",
+ "names": {
+  "da": "Gråfisker",
+  "en": "Pied Kingfisher",
+  "accepted": "Ceryle rudis"
+ },
+ "wikidata": {
+  "id": "Q320043"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gråfisker",
+  "extract": "Gråfiskeren er en skrigefugl. Den når en længde på 25 cm og vejer 90 g. Fuglen lever i Afrika syd for Sahara og det sydlige Asien fra Tyrkiet til Kina. Fjerdragten er sort- og hvidbroget.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%A5fisker"
+ },
+ "inat": {
+  "id": 2662,
+  "observations": 15641
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 237355442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237355442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237355442/large.jpg",
+    "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138839983",
+    "place": "Kachchh, IN-GJ, IN",
+    "date": "2020-11-16"
+   },
+   {
+    "id": 327195847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327195847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327195847/large.jpg",
+    "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/187136566",
+    "place": "Kachchh, IN-GJ, IN",
+    "date": "2020-12-06"
+   },
+   {
+    "id": 144837061,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144837061/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144837061/large.jpg",
+    "attribution": "(c) Paulmathi Vinod, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/87822390",
+    "place": "Chennai, Tamil Nadu, India",
+    "date": "2021-07-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 275782500,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275782500/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275782500/large.jpeg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/159613283",
+    "place": "Ezhome",
+    "date": "2023-02-24"
+   },
+   {
+    "id": 147808165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808165/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808165/large.jpeg",
+    "attribution": "(c) Matthew Fainman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89505653",
+    "place": "South Cape DC, South Africa",
+    "date": "2021-08-01"
+   },
+   {
+    "id": 294836916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/294836916/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/294836916/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/170026467",
+    "place": "Inyoni Project, Richmond, Waterberg District Municipality, South Africa",
+    "date": "2023-05-16"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 237355442,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237355442/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237355442/large.jpg",
+   "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/138839983",
+   "place": "Kachchh, IN-GJ, IN",
+   "date": "2020-11-16"
+  }
+ },
+ "gbif": {
+  "key": 2475679,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 542332,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 172890
+   },
+   {
+    "code": "ZA",
+    "count": 149049
+   },
+   {
+    "code": "IL",
+    "count": 42540
+   },
+   {
+    "code": "KE",
+    "count": 21918
+   },
+   {
+    "code": "UG",
+    "count": 15900
+   },
+   {
+    "code": "BW",
+    "count": 11347
+   },
+   {
+    "code": "GM",
+    "count": 9311
+   },
+   {
+    "code": "TW",
+    "count": 9281
+   },
+   {
+    "code": "LK",
+    "count": 8004
+   },
+   {
+    "code": "HK",
+    "count": 7849
+   },
+   {
+    "code": "ZM",
+    "count": 7603
+   },
+   {
+    "code": "ZW",
+    "count": 7029
+   }
+  ]
+ },
+ "warnings": []
+}

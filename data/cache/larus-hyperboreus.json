@@ -1,0 +1,172 @@
+{
+ "key": "larus-hyperboreus",
+ "name": "Larus hyperboreus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T09:09:59.082Z",
+ "names": {
+  "da": "Gråmåge",
+  "en": "Glaucous Gull",
+  "accepted": "Larus hyperboreus"
+ },
+ "wikidata": {
+  "id": "Q27375"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Gråmåge",
+  "extract": "Gråmågen er en fugleart i familien mågefugle, der er udbredt cirkumpolart i de arktiske egne. Den forekommer for eksempel omkring Grønlands kyster. Arten er på størrelse med svartbagen med et vingefang på cirka 150 centimeter, men er meget lysere uden sorte vingespidser.",
+  "url": "https://da.wikipedia.org/wiki/Gr%C3%A5m%C3%A5ge"
+ },
+ "inat": {
+  "id": 4349,
+  "observations": 8986
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 114002234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114002234/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114002234/large.jpg",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70159965",
+    "place": "Западный административный округ, Москва, Россия",
+    "date": "2021-02-23"
+   },
+   {
+    "id": 1661428,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1661428/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1661428/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/1342554",
+    "place": "Pennsylvania, United States",
+    "date": "2010-01-17"
+   },
+   {
+    "id": 56688944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56688944/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56688944/large.png",
+    "attribution": "(c) Paolo Zucca, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/35911039",
+    "place": "Islanda",
+    "date": "2018-06-22"
+   }
+  ],
+  "adult": [
+   {
+    "id": 180757863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/large.jpg",
+    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/107469094",
+    "place": "Lorain, OH, USA",
+    "date": "2022-02-23"
+   },
+   {
+    "id": 531932786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/large.jpg",
+    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295477822",
+    "place": "Amutsivimmut Aqqut, Avannaata, GL",
+    "date": "2025-07-05"
+   },
+   {
+    "id": 597770414,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597770414/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597770414/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329738719",
+    "place": "Barents Sea",
+    "date": "2025-11-24"
+   }
+  ],
+  "hero": {
+   "id": 180757863,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/large.jpg",
+   "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/observations/107469094",
+   "place": "Lorain, OH, USA",
+   "date": "2022-02-23"
+  }
+ },
+ "gbif": {
+  "key": 2481127,
+  "dkTotal": 5281,
+  "dkMonths": [
+   1318,
+   905,
+   738,
+   831,
+   494,
+   51,
+   78,
+   43,
+   97,
+   145,
+   159,
+   417
+  ],
+  "worldTotal": 430291,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 174005
+   },
+   {
+    "code": "CA",
+    "count": 118931
+   },
+   {
+    "code": "IS",
+    "count": 28353
+   },
+   {
+    "code": "SJ",
+    "count": 22094
+   },
+   {
+    "code": "NO",
+    "count": 17903
+   },
+   {
+    "code": "SE",
+    "count": 15603
+   },
+   {
+    "code": "NL",
+    "count": 15318
+   },
+   {
+    "code": "GB",
+    "count": 10642
+   },
+   {
+    "code": "GL",
+    "count": 5707
+   },
+   {
+    "code": "DK",
+    "count": 5281
+   },
+   {
+    "code": "JP",
+    "count": 3428
+   },
+   {
+    "code": "RU",
+    "count": 3134
+   }
+  ]
+ },
+ "warnings": []
+}

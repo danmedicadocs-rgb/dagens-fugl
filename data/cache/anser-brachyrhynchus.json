@@ -1,0 +1,172 @@
+{
+ "key": "anser-brachyrhynchus",
+ "name": "Anser brachyrhynchus",
+ "region": "dk",
+ "fetchedAt": "2026-10-21T08:55:00.838Z",
+ "names": {
+  "da": "Kortnæbbet Gås",
+  "en": "Pink-footed goose",
+  "accepted": "Anser brachyrhynchus"
+ },
+ "wikidata": {
+  "id": "Q209419"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kortnæbbet gås",
+  "extract": "Kortnæbbet gås er en andefugl som tilhører gruppen af grå gæs. Arten findes opdelt i to bestande, der yngler henholdsvis på Island/Grønland og Svalbard. Kortnæbbet gås ligner sædgås, men har lyserøde ben og et mere kompakt hoved med et kort næb, der er sort og lyserødt.",
+  "url": "https://da.wikipedia.org/wiki/Kortn%C3%A6bbet_g%C3%A5s"
+ },
+ "inat": {
+  "id": 7007,
+  "observations": 4945
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 153095944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153095944/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153095944/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/92459687",
+    "place": "Norðurland eystra, Islande",
+    "date": "2021-07-29"
+   },
+   {
+    "id": 608587452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608587452/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608587452/large.jpg",
+    "attribution": "(c) Leon Haag-Fank, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335048027",
+    "place": "Heidelberg, DE-BW, DE",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 234395566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/234395566/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/234395566/large.jpg",
+    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/137261813",
+    "place": "Norðurþing, Iceland",
+    "date": "2022-07-18"
+   }
+  ],
+  "adult": [
+   {
+    "id": 601490753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601490753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601490753/large.jpg",
+    "attribution": "(c) Jonas Kraft, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331550903",
+    "place": "Glattparkstrasse, Glattpark (Opfikon), ZH, CH",
+    "date": "2025-12-21"
+   },
+   {
+    "id": 177350051,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177350051/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177350051/large.jpeg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105669973",
+    "place": "Newport, UK",
+    "date": "2022-01-27"
+   },
+   {
+    "id": 470276371,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470276371/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470276371/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/261734305",
+    "place": "Flintshire, UK",
+    "date": "2025-02-13"
+   }
+  ],
+  "hero": {
+   "id": 601490753,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601490753/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601490753/large.jpg",
+   "attribution": "(c) Jonas Kraft, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/331550903",
+   "place": "Glattparkstrasse, Glattpark (Opfikon), ZH, CH",
+   "date": "2025-12-21"
+  }
+ },
+ "gbif": {
+  "key": 2498024,
+  "dkTotal": 64649,
+  "dkMonths": [
+   9530,
+   8849,
+   11981,
+   7570,
+   2221,
+   101,
+   139,
+   173,
+   3256,
+   9865,
+   5687,
+   5272
+  ],
+  "worldTotal": 449211,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 113844
+   },
+   {
+    "code": "GB",
+    "count": 101272
+   },
+   {
+    "code": "NO",
+    "count": 100691
+   },
+   {
+    "code": "DK",
+    "count": 64649
+   },
+   {
+    "code": "NL",
+    "count": 11050
+   },
+   {
+    "code": "US",
+    "count": 10943
+   },
+   {
+    "code": "BE",
+    "count": 10644
+   },
+   {
+    "code": "IS",
+    "count": 10212
+   },
+   {
+    "code": "SJ",
+    "count": 8977
+   },
+   {
+    "code": "CA",
+    "count": 4211
+   },
+   {
+    "code": "DE",
+    "count": 2888
+   },
+   {
+    "code": "FI",
+    "count": 1649
+   }
+  ]
+ },
+ "warnings": []
+}

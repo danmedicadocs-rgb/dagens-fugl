@@ -1,0 +1,131 @@
+{
+ "key": "psarocolius-montezuma",
+ "name": "Psarocolius montezuma",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:49:16.877Z",
+ "names": {
+  "da": "Montezuma Oropendola",
+  "en": "Montezuma Oropendola",
+  "accepted": "Psarocolius montezuma"
+ },
+ "wikidata": {
+  "id": "Q934975"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Montezuma oropendola",
+  "extract": "The Montezuma oropendola is a New World tropical icterid bird. It is a resident breeder in the Caribbean coastal lowlands from southeastern Mexico to central Panama, but is absent from El Salvador and southern Guatemala. It also occurs on the Pacific slope of Nicaragua and Honduras and northwestern and southwestern Costa Rica. It is among the oropendola species sometimes separated in the genus Gymnostinops. The English and scientific names of this species commemorate the Aztec emperor Moctezuma II.",
+  "url": "https://en.wikipedia.org/wiki/Montezuma_oropendola"
+ },
+ "inat": {
+  "id": 68047,
+  "observations": 8655
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 460883153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/large.jpg",
+    "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/256981772",
+    "place": "Belize District, Belize",
+    "date": "2024-04-23"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 226895793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226895793/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226895793/large.jpeg",
+    "attribution": "(c) Norman Salazar Arguedas, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/133227975",
+    "place": "Finca Catie, Provincia de Cartago, Turrialba, Costa Rica",
+    "date": "2022-06-09"
+   }
+  ],
+  "hero": {
+   "id": 460883153,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/large.jpg",
+   "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/256981772",
+   "place": "Belize District, Belize",
+   "date": "2024-04-23"
+  }
+ },
+ "gbif": {
+  "key": 2484246,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 342755,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 221230
+   },
+   {
+    "code": "MX",
+    "count": 32407
+   },
+   {
+    "code": "HN",
+    "count": 23582
+   },
+   {
+    "code": "BZ",
+    "count": 21188
+   },
+   {
+    "code": "NI",
+    "count": 17464
+   },
+   {
+    "code": "GT",
+    "count": 14368
+   },
+   {
+    "code": "PA",
+    "count": 12338
+   },
+   {
+    "code": "ZZ",
+    "count": 10
+   },
+   {
+    "code": "SV",
+    "count": 3
+   },
+   {
+    "code": "US",
+    "count": 3
+   },
+   {
+    "code": "CO",
+    "count": 2
+   },
+   {
+    "code": "DE",
+    "count": 2
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,171 @@
+{
+ "key": "sarcoramphus-papa",
+ "name": "Sarcoramphus papa",
+ "region": "verden",
+ "fetchedAt": "2026-10-21T09:51:54.766Z",
+ "names": {
+  "da": "Kongegrib",
+  "en": "King Vulture",
+  "accepted": "Sarcoramphus papa"
+ },
+ "wikidata": {
+  "id": "Q192705"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Kongekondor",
+  "extract": "Kongekondor har et vingefang på 1,7 meter. Kongekondoren er den mest farverige af vestgribbene. Den tilhører sin egen slægt Sarcoramphus. Fuglen kaldes også for Kongegrib.",
+  "url": "https://da.wikipedia.org/wiki/Kongekondor"
+ },
+ "inat": {
+  "id": 4763,
+  "observations": 4755
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 32209877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/large.png",
+    "attribution": "(c) Karen (with occasional help from Mike), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/20875984",
+    "place": "San José Province, Dota, Costa Rica",
+    "date": "2019-02-19"
+   },
+   {
+    "id": 267044617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267044617/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267044617/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/154543178",
+    "place": "Darien, PA",
+    "date": "2023-04-06"
+   },
+   {
+    "id": 240832301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240832301/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240832301/large.jpeg",
+    "attribution": "(c) Kaetlyn Mackenzie Sandoval, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/140673244",
+    "place": "Changuinola, Panamá",
+    "date": "2022-10-30"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 468756360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468756360/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468756360/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/260969784",
+    "place": "Rest of Region 8, Potaro-Siparuni, Guyana",
+    "date": "2025-01-14"
+   },
+   {
+    "id": 29127558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29127558/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29127558/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/18995601",
+    "place": "Sendero Macuco, Misiónes, Argentina",
+    "date": "2018-12-11"
+   },
+   {
+    "id": 443551456,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443551456/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443551456/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/248260350",
+    "place": "Paragominas - State of Pará, Brazil",
+    "date": "2024-09-12"
+   }
+  ],
+  "hero": {
+   "id": 32209877,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/medium.png",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/large.png",
+   "attribution": "(c) Karen (with occasional help from Mike), some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/observations/20875984",
+   "place": "San José Province, Dota, Costa Rica",
+   "date": "2019-02-19"
+  }
+ },
+ "gbif": {
+  "key": 2481923,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 114041,
+  "topCountries": [
+   {
+    "code": "CR",
+    "count": 32735
+   },
+   {
+    "code": "BZ",
+    "count": 18742
+   },
+   {
+    "code": "CO",
+    "count": 11068
+   },
+   {
+    "code": "BR",
+    "count": 11004
+   },
+   {
+    "code": "PA",
+    "count": 8591
+   },
+   {
+    "code": "PE",
+    "count": 7126
+   },
+   {
+    "code": "EC",
+    "count": 4441
+   },
+   {
+    "code": "GT",
+    "count": 3996
+   },
+   {
+    "code": "MX",
+    "count": 3681
+   },
+   {
+    "code": "AR",
+    "count": 2875
+   },
+   {
+    "code": "VE",
+    "count": 2347
+   },
+   {
+    "code": "GY",
+    "count": 1734
+   }
+  ]
+ },
+ "warnings": []
+}
