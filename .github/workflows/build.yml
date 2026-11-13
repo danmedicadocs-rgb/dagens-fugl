@@ -61,6 +61,8 @@ jobs:
       - name: Byg siden
         env:
           ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'false' }}
+          OWNER_NAME: ${{ vars.OWNER_NAME }}
+          CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
         run: node src/build.mjs
 
       - uses: actions/upload-pages-artifact@v3
