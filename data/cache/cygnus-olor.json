@@ -2,7 +2,7 @@
  "key": "cygnus-olor",
  "name": "Cygnus olor",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:54:23.757Z",
+ "fetchedAt": "2026-11-13T11:02:17.163Z",
  "names": {
   "da": "Knopsvane",
   "en": "Mute Swan",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6921,
-  "observations": 191684
+  "observations": 194167
  },
  "photos": {
   "male": [
@@ -56,14 +56,14 @@
   ],
   "female": [
    {
-    "id": 687016180,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687016180/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687016180/large.jpg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
+    "id": 358023831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358023831/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358023831/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/375785890",
-    "place": "RSPB St Aidan's, West Yorkshire, UK",
-    "date": "2026-06-17"
+    "source": "https://www.inaturalist.org/observations/202701579",
+    "place": "São Martinho, Funchal, Portugal",
+    "date": "2024-03-09"
    },
    {
     "id": 356293368,
@@ -76,14 +76,14 @@
     "date": "2024-02-23"
    },
    {
-    "id": 358023831,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358023831/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358023831/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "id": 687016180,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687016180/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687016180/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/202701579",
-    "place": "São Martinho, Funchal, Portugal",
-    "date": "2024-03-09"
+    "source": "https://www.inaturalist.org/observations/375785890",
+    "place": "RSPB St Aidan's, West Yorkshire, UK",
+    "date": "2026-06-17"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 260166629,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260166629/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260166629/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "id": 283242966,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283242966/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283242966/large.jpg",
+   "attribution": "(c) Laura Mae, some rights reserved (CC BY), uploaded by Laura Mae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/150837821",
-   "place": "Brezovo, Bulgaria",
-   "date": "2023-03-11"
+   "source": "https://www.inaturalist.org/photos/283242966",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498343,
-  "dkTotal": 684615,
+  "dkTotal": 689439,
   "dkMonths": [
-   75772,
-   67568,
-   80296,
-   84570,
-   72859,
-   49985,
-   40603,
-   41149,
-   43568,
-   46487,
-   39572,
-   42063
+   75961,
+   67738,
+   80517,
+   84813,
+   73092,
+   50215,
+   40845,
+   41299,
+   43771,
+   48786,
+   40034,
+   42245
   ],
-  "worldTotal": 6782543,
+  "worldTotal": 6884259,
   "topCountries": [
    {
     "code": "US",
-    "count": 1530506
+    "count": 1436359
    },
    {
     "code": "SE",
-    "count": 974264
-   },
-   {
-    "code": "NL",
-    "count": 821291
+    "count": 982033
    },
    {
     "code": "GB",
-    "count": 768144
+    "count": 870945
+   },
+   {
+    "code": "NL",
+    "count": 839938
    },
    {
     "code": "DK",
-    "count": 684615
-   },
-   {
-    "code": "NO",
-    "count": 341800
+    "count": 689439
    },
    {
     "code": "FR",
-    "count": 336290
+    "count": 345945
+   },
+   {
+    "code": "NO",
+    "count": 345798
    },
    {
     "code": "CA",
-    "count": 327018
+    "count": 304207
    },
    {
     "code": "DE",
-    "count": 267896
+    "count": 282926
    },
    {
     "code": "BE",
-    "count": 120230
+    "count": 122039
    },
    {
     "code": "PL",
-    "count": 93389
+    "count": 115316
    },
    {
-    "code": "EE",
-    "count": 55010
+    "code": "FI",
+    "count": 60324
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "quiscalus-quiscula",
  "name": "Quiscalus quiscula",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:46:46.112Z",
+ "fetchedAt": "2026-11-13T11:46:41.962Z",
  "names": {
   "da": "Sortgrackel",
   "en": "Common Grackle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9602,
-  "observations": 120886
+  "observations": 121431
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2016-05-29"
    },
    {
-    "id": 376812502,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376812502/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/376812502/large.jpeg",
-    "attribution": "(c) davis0117, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/213221638",
-    "place": "Denton, TX, USA",
-    "date": "2024-05-03"
+    "id": 132804457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132804457/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132804457/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/80997105",
+    "place": "Madison, WI, USA",
+    "date": "2021-05-30"
    }
   ],
   "female": [
@@ -146,23 +146,23 @@
    0,
    0
   ],
-  "worldTotal": 12374643,
+  "worldTotal": 12095145,
   "topCountries": [
    {
     "code": "US",
-    "count": 10045341
+    "count": 9842116
    },
    {
     "code": "CA",
-    "count": 2327959
+    "count": 2251647
    },
    {
     "code": "PM",
-    "count": 581
+    "count": 646
    },
    {
     "code": "MX",
-    "count": 146
+    "count": 119
    },
    {
     "code": "ZZ",
@@ -170,7 +170,7 @@
    },
    {
     "code": "BM",
-    "count": 16
+    "count": 15
    },
    {
     "code": "NL",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

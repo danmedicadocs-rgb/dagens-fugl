@@ -2,7 +2,7 @@
  "key": "acrocephalus-palustris",
  "name": "Acrocephalus palustris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:31.530Z",
+ "fetchedAt": "2026-11-13T11:23:11.234Z",
  "names": {
   "da": "Kærsanger",
   "en": "Marsh Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116802,
-  "observations": 9327
+  "observations": 9360
  },
  "photos": {
   "male": [
@@ -100,72 +100,73 @@
  },
  "gbif": {
   "key": 2493136,
-  "dkTotal": 82035,
+  "dkTotal": 82175,
   "dkMonths": [
    0,
    0,
    0,
    3,
-   26171,
-   43860,
-   9045,
-   2679,
+   26241,
+   43965,
+   9046,
+   2619,
    207,
-   11,
+   35,
    3,
    3
   ],
-  "worldTotal": 651127,
+  "worldTotal": 667567,
   "topCountries": [
    {
     "code": "SE",
-    "count": 236090
+    "count": 236634
    },
    {
     "code": "DK",
-    "count": 82035
+    "count": 82175
    },
    {
     "code": "BE",
-    "count": 49965
+    "count": 52484
    },
    {
     "code": "NL",
-    "count": 45557
+    "count": 47186
    },
    {
     "code": "NO",
-    "count": 39956
+    "count": 40278
    },
    {
     "code": "FR",
-    "count": 30395
-   },
-   {
-    "code": "LU",
-    "count": 28162
+    "count": 30724
    },
    {
     "code": "DE",
-    "count": 26177
+    "count": 28466
+   },
+   {
+    "code": "LU",
+    "count": 28257
    },
    {
     "code": "PL",
-    "count": 20277
+    "count": 23125
    },
    {
     "code": "FI",
-    "count": 16540
+    "count": 18573
    },
    {
     "code": "RU",
-    "count": 11682
+    "count": 11818
    },
    {
     "code": "ZA",
-    "count": 9762
+    "count": 9971
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

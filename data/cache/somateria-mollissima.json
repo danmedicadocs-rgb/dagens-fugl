@@ -2,7 +2,7 @@
  "key": "somateria-mollissima",
  "name": "Somateria mollissima",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:10.250Z",
+ "fetchedAt": "2026-11-13T11:04:35.479Z",
  "names": {
   "da": "Ederfugl",
   "en": "Common Eider",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7024,
-  "observations": 40443
+  "observations": 40857
  },
  "photos": {
   "male": [
@@ -108,14 +108,14 @@
     "date": "2025-07-11"
    },
    {
-    "id": 205050381,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205050381/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205050381/large.jpeg",
-    "attribution": "(c) Alexis Williams, some rights reserved (CC BY)",
+    "id": 137632643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137632643/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137632643/large.jpg",
+    "attribution": "(c) Michael Bakker Paiva, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/121187605",
-    "place": "Rimouski-Neigette, QC G0L 1B0, Canada",
-    "date": "2022-06-10"
+    "source": "https://www.inaturalist.org/observations/83784210",
+    "place": "De Marne, Groningen, Netherlands",
+    "date": "2021-05-24"
    }
   ],
   "hero": {
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498352,
-  "dkTotal": 349513,
+  "dkTotal": 351846,
   "dkMonths": [
-   39819,
-   33505,
-   36985,
-   32929,
-   31419,
-   20062,
-   21428,
-   22186,
-   25014,
-   39759,
-   25864,
-   18250
+   39863,
+   33596,
+   37046,
+   32934,
+   31344,
+   20138,
+   21478,
+   22177,
+   25098,
+   41378,
+   26247,
+   18258
   ],
-  "worldTotal": 2772279,
+  "worldTotal": 2708371,
   "topCountries": [
    {
     "code": "US",
-    "count": 613223
+    "count": 548056
    },
    {
     "code": "NO",
-    "count": 479007
+    "count": 483211
    },
    {
     "code": "SE",
-    "count": 471640
+    "count": 474225
    },
    {
     "code": "DK",
-    "count": 349513
+    "count": 351846
    },
    {
     "code": "CA",
-    "count": 311407
+    "count": 278918
    },
    {
     "code": "NL",
-    "count": 142653
+    "count": 146859
    },
    {
     "code": "GB",
-    "count": 102926
+    "count": 115288
    },
    {
     "code": "FI",
-    "count": 102194
+    "count": 105688
    },
    {
     "code": "IS",
-    "count": 63685
+    "count": 64215
    },
    {
     "code": "DE",
-    "count": 39672
+    "count": 41472
    },
    {
     "code": "SJ",
-    "count": 20590
+    "count": 20745
    },
    {
     "code": "EE",
-    "count": 17096
+    "count": 17620
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

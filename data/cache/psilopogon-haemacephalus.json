@@ -2,7 +2,7 @@
  "key": "psilopogon-haemacephalus",
  "name": "Psilopogon haemacephalus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:36:27.982Z",
+ "fetchedAt": "2026-11-13T11:38:25.245Z",
  "names": {
   "da": "Kobbersmed",
   "en": "Coppersmith Barbet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 367521,
-  "observations": 10642
+  "observations": 10830
  },
  "photos": {
   "male": [
@@ -78,14 +78,14 @@
    }
   ],
   "hero": {
-   "id": 56635826,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/large.jpeg",
-   "attribution": "(c) datadan, some rights reserved (CC BY)",
+   "id": 247924128,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247924128/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247924128/large.jpeg",
+   "attribution": "(c) Roland Godon, some rights reserved (CC BY), uploaded by Roland Godon",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/35880331",
-   "place": "Tha Wasukri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand",
-   "date": "2019-11-20"
+   "source": "https://www.inaturalist.org/photos/247924128",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -105,57 +105,58 @@
    0,
    0
   ],
-  "worldTotal": 602182,
+  "worldTotal": 547706,
   "topCountries": [
    {
     "code": "IN",
-    "count": 471977
+    "count": 415013
    },
    {
     "code": "TH",
-    "count": 61286
+    "count": 62779
    },
    {
     "code": "PH",
-    "count": 16496
+    "count": 15403
    },
    {
     "code": "KH",
-    "count": 9576
+    "count": 9721
    },
    {
     "code": "LK",
-    "count": 7930
+    "count": 7736
    },
    {
     "code": "ID",
-    "count": 6530
-   },
-   {
-    "code": "MY",
-    "count": 5981
+    "count": 7211
    },
    {
     "code": "SG",
-    "count": 5934
+    "count": 6164
+   },
+   {
+    "code": "MY",
+    "count": 6052
    },
    {
     "code": "BD",
-    "count": 4282
+    "count": 4035
    },
    {
     "code": "NP",
-    "count": 3170
+    "count": 3824
    },
    {
     "code": "VN",
-    "count": 2874
+    "count": 3200
    },
    {
-    "code": "PK",
-    "count": 2093
+    "code": "MM",
+    "count": 2162
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

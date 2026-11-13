@@ -2,7 +2,7 @@
  "key": "sturnus-vulgaris",
  "name": "Sturnus vulgaris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:13.266Z",
+ "fetchedAt": "2026-11-13T11:23:52.240Z",
  "names": {
   "da": "Stær",
   "en": "Common Starling",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14850,
-  "observations": 350715
+  "observations": 353974
  },
  "photos": {
   "male": [
@@ -122,81 +122,82 @@
    "id": 365984069,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365984069/medium.jpg",
    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365984069/large.jpg",
-   "attribution": "(c) Shiva Shenoy, some rights reserved (CC BY)",
+   "attribution": "(c) Shiva Shenoy, some rights reserved (CC BY), uploaded by Shiva Shenoy",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/206937528",
-   "place": "Green Acres Park, Flower Mound, TX, USA",
-   "date": "2024-04-12"
+   "source": "https://www.inaturalist.org/photos/365984069",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9809229,
-  "dkTotal": 464514,
+  "dkTotal": 467713,
   "dkMonths": [
-   14602,
-   18485,
-   65748,
-   66253,
-   55052,
-   40312,
-   38124,
-   40396,
-   44422,
-   52047,
-   19053,
-   9854
+   14623,
+   18522,
+   65847,
+   66334,
+   55111,
+   40458,
+   38306,
+   40537,
+   44623,
+   53979,
+   19324,
+   9883
   ],
-  "worldTotal": 28376479,
+  "worldTotal": 27860208,
   "topCountries": [
    {
     "code": "US",
-    "count": 16789694
+    "count": 16148381
    },
    {
     "code": "CA",
-    "count": 3294083
+    "count": 3129935
    },
    {
     "code": "GB",
-    "count": 1016509
+    "count": 1140700
    },
    {
     "code": "SE",
-    "count": 990446
+    "count": 996930
    },
    {
     "code": "FR",
-    "count": 973001
+    "count": 990030
    },
    {
     "code": "AU",
-    "count": 924163
+    "count": 939362
    },
    {
     "code": "NL",
-    "count": 795473
+    "count": 812910
    },
    {
     "code": "DE",
-    "count": 466653
+    "count": 486812
    },
    {
     "code": "DK",
-    "count": 464514
+    "count": 467713
    },
    {
     "code": "NO",
-    "count": 447477
+    "count": 453338
    },
    {
     "code": "FI",
-    "count": 296679
+    "count": 311279
    },
    {
     "code": "NZ",
-    "count": 272595
+    "count": 268260
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

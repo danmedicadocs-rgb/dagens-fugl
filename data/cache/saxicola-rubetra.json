@@ -2,7 +2,7 @@
  "key": "saxicola-rubetra",
  "name": "Saxicola rubetra",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:54.449Z",
+ "fetchedAt": "2026-11-13T11:25:22.621Z",
  "names": {
   "da": "Bynkefugl",
   "en": "Whinchat",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12908,
-  "observations": 35555
+  "observations": 35751
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2023-04-23"
    },
    {
-    "id": 72413599,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72413599/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72413599/large.jpeg",
-    "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/45661066",
-    "place": "Сысертский р-н, Свердловская обл., Россия",
-    "date": "2020-05-09"
-   },
-   {
     "id": 170444035,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170444035/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170444035/large.jpg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/102013532",
     "place": "г. Казань, Респ. Татарстан, Россия",
     "date": "2017-08-11"
+   },
+   {
+    "id": 72413599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72413599/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72413599/large.jpeg",
+    "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/45661066",
+    "place": "Сысертский р-н, Свердловская обл., Россия",
+    "date": "2020-05-09"
    }
   ],
   "juvenile": [
@@ -98,16 +98,6 @@
     "date": "2020-07-25"
    },
    {
-    "id": 592346526,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592346526/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592346526/large.jpg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/327004192",
-    "place": "Pilning, UK",
-    "date": "2025-11-16"
-   },
-   {
     "id": 227844543,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227844543/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227844543/large.jpg",
@@ -116,6 +106,16 @@
     "source": "https://www.inaturalist.org/observations/133735746",
     "place": "Quintanalara, Burgos, España",
     "date": "2022-08-31"
+   },
+   {
+    "id": 592346526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592346526/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592346526/large.jpg",
+    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/327004192",
+    "place": "Pilning, UK",
+    "date": "2025-11-16"
    }
   ],
   "hero": {
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2492521,
-  "dkTotal": 72293,
+  "dkTotal": 72294,
   "dkMonths": [
    1,
    6,
    3,
-   5345,
-   31263,
-   10341,
-   5033,
-   11723,
-   8265,
+   5361,
+   31243,
+   10347,
+   5042,
+   11690,
+   8289,
    217,
    23,
    13
   ],
-  "worldTotal": 1098242,
+  "worldTotal": 1121933,
   "topCountries": [
    {
     "code": "SE",
-    "count": 346565
+    "count": 347476
    },
    {
     "code": "NO",
-    "count": 101098
-   },
-   {
-    "code": "FR",
-    "count": 85058
+    "count": 101851
    },
    {
     "code": "FI",
-    "count": 79501
+    "count": 89884
    },
    {
-    "code": "DK",
-    "count": 72293
+    "code": "FR",
+    "count": 86014
    },
    {
     "code": "NL",
-    "count": 70442
+    "count": 72820
+   },
+   {
+    "code": "DK",
+    "count": 72294
    },
    {
     "code": "GB",
-    "count": 57961
+    "count": 62278
    },
    {
     "code": "ES",
-    "count": 49413
+    "count": 47312
    },
    {
     "code": "RU",
-    "count": 32802
+    "count": 32761
    },
    {
     "code": "DE",
-    "count": 25904
+    "count": 27115
    },
    {
     "code": "BE",
-    "count": 25189
+    "count": 25661
    },
    {
     "code": "EE",
-    "count": 15832
+    "count": 16064
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

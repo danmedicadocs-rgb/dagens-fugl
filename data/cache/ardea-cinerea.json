@@ -2,7 +2,7 @@
  "key": "ardea-cinerea",
  "name": "Ardea cinerea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:39.214Z",
+ "fetchedAt": "2026-11-13T11:07:32.583Z",
  "names": {
   "da": "Fiskehejre",
   "en": "Grey Heron",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4954,
-  "observations": 270091
+  "observations": 274404
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 9797180,
-  "dkTotal": 630884,
+  "dkTotal": 636037,
   "dkMonths": [
-   55766,
-   43555,
-   55790,
-   65050,
-   60245,
-   45984,
-   54995,
-   61749,
-   56415,
-   51700,
-   40577,
-   38991
+   55929,
+   43739,
+   55971,
+   65311,
+   60516,
+   46263,
+   55300,
+   62045,
+   56699,
+   53880,
+   41113,
+   39203
   ],
-  "worldTotal": 7916139,
+  "worldTotal": 8115735,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1112387
+    "count": 1146903
    },
    {
     "code": "SE",
-    "count": 883946
+    "count": 890887
    },
    {
     "code": "GB",
-    "count": 728423
+    "count": 830651
    },
    {
     "code": "FR",
-    "count": 645831
+    "count": 662777
    },
    {
     "code": "DK",
-    "count": 630884
+    "count": 636037
    },
    {
     "code": "ES",
-    "count": 505059
+    "count": 505868
    },
    {
     "code": "DE",
-    "count": 409688
+    "count": 434302
    },
    {
     "code": "NO",
-    "count": 382392
-   },
-   {
-    "code": "IN",
-    "count": 316503
+    "count": 388707
    },
    {
     "code": "BE",
-    "count": 303075
+    "count": 308027
+   },
+   {
+    "code": "IN",
+    "count": 266851
    },
    {
     "code": "TW",
-    "count": 270570
+    "count": 229852
    },
    {
     "code": "ZA",
-    "count": 227180
+    "count": 226951
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

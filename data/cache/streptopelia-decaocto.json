@@ -2,7 +2,7 @@
  "key": "streptopelia-decaocto",
  "name": "Streptopelia decaocto",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:58.045Z",
+ "fetchedAt": "2026-11-13T11:17:01.287Z",
  "names": {
   "da": "Tyrkerdue",
   "en": "Eurasian Collared Dove",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2969,
-  "observations": 178647
+  "observations": 180493
  },
  "photos": {
   "male": [
@@ -88,6 +88,16 @@
   ],
   "juvenile": [
    {
+    "id": 393537558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393537558/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393537558/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/222178042",
+    "place": "Sutton County, TX, USA",
+    "date": "2024-04-13"
+   },
+   {
     "id": 385240267,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385240267/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385240267/large.jpeg",
@@ -106,97 +116,88 @@
     "source": "https://www.inaturalist.org/observations/265744763",
     "place": "Reynosa, MX-TM, MX",
     "date": "2025-03-16"
-   },
-   {
-    "id": 393537558,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393537558/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393537558/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/222178042",
-    "place": "Sutton County, TX, USA",
-    "date": "2024-04-13"
    }
   ],
   "hero": {
-   "id": 210376521,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210376521/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210376521/large.jpeg",
-   "attribution": "(c) Dr. Nasser Halaweh, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/124137066",
-   "place": "Outer Karrada, Baghdad, Iraq",
-   "date": "2022-05-31"
+   "id": 72298521,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72298521/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72298521/large.jpg",
+   "attribution": "(c) Iruka, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/72298521",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2495696,
-  "dkTotal": 146766,
+  "dkTotal": 147611,
   "dkMonths": [
-   14301,
-   10803,
-   13861,
-   17689,
-   19321,
-   12727,
-   11756,
-   12406,
-   10584,
-   8489,
-   6875,
-   7903
+   14318,
+   10833,
+   13884,
+   17744,
+   19363,
+   12769,
+   11826,
+   12473,
+   10647,
+   8833,
+   6930,
+   7940
   ],
-  "worldTotal": 9663647,
+  "worldTotal": 9510903,
   "topCountries": [
    {
     "code": "US",
-    "count": 4271609
+    "count": 3974964
    },
    {
     "code": "FR",
-    "count": 1007318
-   },
-   {
-    "code": "ES",
-    "count": 571169
+    "count": 1019924
    },
    {
     "code": "GB",
-    "count": 558781
+    "count": 625636
+   },
+   {
+    "code": "ES",
+    "count": 600228
    },
    {
     "code": "NL",
-    "count": 425914
+    "count": 434767
    },
    {
     "code": "IN",
-    "count": 341014
+    "count": 305695
    },
    {
     "code": "PT",
-    "count": 268845
-   },
-   {
-    "code": "CA",
-    "count": 227524
+    "count": 270022
    },
    {
     "code": "SE",
-    "count": 222380
+    "count": 223479
+   },
+   {
+    "code": "CA",
+    "count": 222965
    },
    {
     "code": "DE",
-    "count": 206811
-   },
-   {
-    "code": "MX",
-    "count": 195619
+    "count": 214349
    },
    {
     "code": "BE",
-    "count": 179977
+    "count": 185258
+   },
+   {
+    "code": "MX",
+    "count": 175692
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

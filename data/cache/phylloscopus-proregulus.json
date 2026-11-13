@@ -2,7 +2,7 @@
  "key": "phylloscopus-proregulus",
  "name": "Phylloscopus proregulus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:05.515Z",
+ "fetchedAt": "2026-11-13T11:21:56.767Z",
  "names": {
   "da": "Fuglekongesanger",
   "en": "Pallas's Leaf Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117041,
-  "observations": 3169
+  "observations": 3231
  },
  "photos": {
   "male": [
@@ -37,19 +37,19 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 295323464,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295323464/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295323464/large.jpg",
-   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "id": 91060625,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91060625/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91060625/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/170292706",
-   "place": "Спасский р-н, Приморский край, Россия",
-   "date": "2023-05-15"
+   "source": "https://www.inaturalist.org/photos/91060625",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493090,
-  "dkTotal": 1485,
+  "dkTotal": 1491,
   "dkMonths": [
    11,
    0,
@@ -60,61 +60,62 @@
    0,
    1,
    1,
-   1004,
-   306,
+   1014,
+   302,
    61
   ],
-  "worldTotal": 77303,
+  "worldTotal": 79464,
   "topCountries": [
    {
     "code": "CN",
-    "count": 22401
+    "count": 27170
    },
    {
     "code": "SE",
-    "count": 12000
+    "count": 12070
    },
    {
     "code": "HK",
-    "count": 8620
+    "count": 8725
    },
    {
     "code": "NL",
-    "count": 8125
+    "count": 8191
    },
    {
     "code": "TW",
-    "count": 7967
+    "count": 5368
    },
    {
     "code": "RU",
-    "count": 3188
+    "count": 3033
    },
    {
     "code": "GB",
-    "count": 2619
-   },
-   {
-    "code": "TH",
-    "count": 1882
-   },
-   {
-    "code": "MN",
-    "count": 1778
+    "count": 2987
    },
    {
     "code": "DK",
-    "count": 1485
+    "count": 1491
+   },
+   {
+    "code": "MN",
+    "count": 1419
+   },
+   {
+    "code": "TH",
+    "count": 1275
    },
    {
     "code": "FR",
-    "count": 1178
+    "count": 1219
    },
    {
     "code": "BE",
-    "count": 1112
+    "count": 1145
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "strix-uralensis",
  "name": "Strix uralensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:28:07.387Z",
+ "fetchedAt": "2026-11-13T11:30:50.203Z",
  "names": {
   "da": "Slagugle",
   "en": "Ural Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19910,
-  "observations": 8415
+  "observations": 8570
  },
  "photos": {
   "male": [
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 153723,
+  "worldTotal": 157800,
   "topCountries": [
    {
     "code": "FI",
-    "count": 111148
+    "count": 114813
    },
    {
     "code": "SE",
-    "count": 26347
+    "count": 26530
    },
    {
     "code": "RU",
-    "count": 7124
+    "count": 7213
    },
    {
     "code": "EE",
-    "count": 5416
+    "count": 5481
    },
    {
     "code": "JP",
-    "count": 877
+    "count": 881
    },
    {
     "code": "UA",
-    "count": 728
+    "count": 773
    },
    {
     "code": "RO",
-    "count": 288
+    "count": 293
    },
    {
     "code": "PL",
-    "count": 275
+    "count": 280
    },
    {
     "code": "NO",
-    "count": 215
+    "count": 219
    },
    {
     "code": "HU",
-    "count": 187
+    "count": 189
    },
    {
     "code": "SI",
-    "count": 149
+    "count": 151
    },
    {
-    "code": "AT",
-    "count": 89
+    "code": "CN",
+    "count": 91
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "charadrius-hiaticula",
  "name": "Charadrius hiaticula",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:21.492Z",
+ "fetchedAt": "2026-11-13T11:10:43.854Z",
  "names": {
   "da": "Stor præstekrave",
   "en": "Common Ringed Plover",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4801,
-  "observations": 28782
+  "observations": 29115
  },
  "photos": {
   "male": [
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 609040907,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/large.jpg",
-   "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+   "id": 97508320,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97508320/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97508320/large.jpg",
+   "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY), uploaded by Вячеслав Юсупов",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/335276715",
-   "place": "Sveitarfélagið Hornafjörður, Iceland",
-   "date": "2025-06-12"
+   "source": "https://www.inaturalist.org/photos/97508320",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9566659,
-  "dkTotal": 214625,
+  "dkTotal": 215463,
   "dkMonths": [
    493,
-   4559,
-   23283,
-   23522,
-   32527,
-   19778,
-   36056,
-   45830,
-   22421,
-   5348,
-   495,
+   4570,
+   23315,
+   23564,
+   32625,
+   19873,
+   36185,
+   46001,
+   22509,
+   5513,
+   503,
    228
   ],
-  "worldTotal": 1848828,
+  "worldTotal": 1879342,
   "topCountries": [
    {
     "code": "SE",
-    "count": 463263
+    "count": 464962
    },
    {
     "code": "DK",
-    "count": 214625
-   },
-   {
-    "code": "NO",
-    "count": 212560
+    "count": 215463
    },
    {
     "code": "GB",
-    "count": 191684
+    "count": 214782
+   },
+   {
+    "code": "NO",
+    "count": 213790
    },
    {
     "code": "NL",
-    "count": 183547
+    "count": 190022
    },
    {
     "code": "ES",
-    "count": 130100
+    "count": 125460
    },
    {
     "code": "FR",
-    "count": 76379
+    "count": 78952
    },
    {
     "code": "PT",
-    "count": 60575
+    "count": 56783
    },
    {
     "code": "FI",
-    "count": 33270
+    "count": 37314
    },
    {
     "code": "ZA",
-    "count": 29782
+    "count": 29613
    },
    {
     "code": "IL",
-    "count": 27917
+    "count": 25320
    },
    {
-    "code": "BE",
-    "count": 21697
+    "code": "DE",
+    "count": 22121
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

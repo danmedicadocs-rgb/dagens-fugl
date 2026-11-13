@@ -2,7 +2,7 @@
  "key": "circus-macrourus",
  "name": "Circus macrourus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:51.406Z",
+ "fetchedAt": "2026-11-13T11:08:35.746Z",
  "names": {
   "da": "Steppehøg",
   "en": "Pallid Harrier",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5178,
-  "observations": 4854
+  "observations": 4928
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2026-08-30"
    },
    {
-    "id": 313944066,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313944066/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313944066/large.jpeg",
-    "attribution": "(c) Григорий Потапов, some rights reserved (CC BY)",
+    "id": 743692580,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743692580/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743692580/large.jpg",
+    "attribution": "(c) Srivatsan Ramkumar, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/180248615",
-    "place": "Kholmogorskiy rayon, RU-AR, RU",
-    "date": "2023-08-24"
+    "source": "https://www.inaturalist.org/observations/404934202",
+    "place": "Tamil Nadu, IN",
+    "date": "2026-09-28"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2480491,
-  "dkTotal": 9234,
+  "dkTotal": 9319,
   "dkMonths": [
    0,
    0,
    13,
-   3014,
-   2554,
+   2999,
+   2550,
    92,
    105,
    296,
-   2198,
-   824,
+   2206,
+   920,
    137,
    0
   ],
-  "worldTotal": 135478,
+  "worldTotal": 131439,
   "topCountries": [
    {
     "code": "SE",
-    "count": 35194
+    "count": 35505
    },
    {
     "code": "IN",
-    "count": 16573
-   },
-   {
-    "code": "GE",
-    "count": 10680
+    "count": 13622
    },
    {
     "code": "NL",
-    "count": 10259
+    "count": 11353
+   },
+   {
+    "code": "GE",
+    "count": 10625
    },
    {
     "code": "DK",
-    "count": 9234
+    "count": 9319
    },
    {
     "code": "IL",
-    "count": 8061
+    "count": 7347
    },
    {
     "code": "RU",
-    "count": 3970
+    "count": 3987
    },
    {
     "code": "KE",
-    "count": 3616
-   },
-   {
-    "code": "AE",
-    "count": 2921
+    "count": 3495
    },
    {
     "code": "NO",
-    "count": 2904
+    "count": 2937
    },
    {
-    "code": "TZ",
-    "count": 1946
+    "code": "AE",
+    "count": 2725
    },
    {
-    "code": "TR",
-    "count": 1844
+    "code": "FI",
+    "count": 1840
+   },
+   {
+    "code": "FR",
+    "count": 1706
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

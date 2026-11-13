@@ -2,7 +2,7 @@
  "key": "guira-guira",
  "name": "Guira guira",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:22.371Z",
+ "fetchedAt": "2026-11-13T11:51:08.018Z",
  "names": {
   "da": "Guira",
   "en": "Guira Cuckoo",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1979,
-  "observations": 12001
+  "observations": 12221
  },
  "photos": {
   "male": [],
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 60230959,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/37944533",
-   "place": "Cruz Alta - RS, Brasil",
-   "date": "2020-01-24"
+   "id": 1112388,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1112388/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1112388/large.jpg",
+   "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY), uploaded by Nicolas Olejnik",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/1112388",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,35 +116,35 @@
    0,
    0
   ],
-  "worldTotal": 243044,
+  "worldTotal": 216770,
   "topCountries": [
    {
-    "code": "AR",
-    "count": 105057
+    "code": "BR",
+    "count": 97656
    },
    {
-    "code": "BR",
-    "count": 102230
+    "code": "AR",
+    "count": 89614
    },
    {
     "code": "UY",
-    "count": 14553
+    "count": 11642
    },
    {
     "code": "PY",
-    "count": 12836
+    "count": 10443
    },
    {
     "code": "BO",
-    "count": 8154
-   },
-   {
-    "code": "CL",
-    "count": 39
+    "count": 7218
    },
    {
     "code": "DE",
     "count": 33
+   },
+   {
+    "code": "CL",
+    "count": 22
    },
    {
     "code": "ZZ",
@@ -152,11 +152,7 @@
    },
    {
     "code": "PE",
-    "count": 6
-   },
-   {
-    "code": "CW",
-    "count": 2
+    "count": 5
    },
    {
     "code": "GR",
@@ -165,8 +161,13 @@
    {
     "code": "AT",
     "count": 1
+   },
+   {
+    "code": "CO",
+    "count": 1
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "ichthyaetus-melanocephalus",
  "name": "Ichthyaetus melanocephalus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:19.388Z",
+ "fetchedAt": "2026-11-13T11:14:43.290Z",
  "names": {
   "da": "Sorthovedet måge",
   "en": "Mediterranean Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144517,
-  "observations": 13401
+  "observations": 13554
  },
  "photos": {
   "male": [
@@ -78,14 +78,14 @@
     "date": "2010-02-14"
    },
    {
-    "id": 413822264,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/413822264/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/413822264/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/232893213",
-    "place": "L'Islet Lancieux, France",
-    "date": "2024-07-31"
+    "id": 532787983,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532787983/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532787983/large.jpg",
+    "attribution": "(c) Ian Ballam, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295924728",
+    "place": "Dorset, UK",
+    "date": "2025-07-06"
    }
   ],
   "hero": {
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 8151548,
-  "dkTotal": 19958,
+  "dkTotal": 20060,
   "dkMonths": [
    646,
    422,
-   2715,
-   4233,
-   3497,
-   1487,
-   1537,
-   1347,
-   1847,
-   1366,
-   446,
+   2723,
+   4239,
+   3494,
+   1490,
+   1542,
+   1355,
+   1852,
+   1419,
+   463,
    372
   ],
-  "worldTotal": 766251,
+  "worldTotal": 782901,
   "topCountries": [
    {
     "code": "FR",
-    "count": 167631
+    "count": 170582
    },
    {
     "code": "GB",
-    "count": 135128
+    "count": 148000
    },
    {
     "code": "NL",
-    "count": 112625
+    "count": 113720
    },
    {
     "code": "BE",
-    "count": 103069
+    "count": 103848
    },
    {
     "code": "ES",
-    "count": 94798
+    "count": 92048
    },
    {
     "code": "PT",
-    "count": 47804
+    "count": 45225
    },
    {
     "code": "DK",
-    "count": 19958
+    "count": 20060
    },
    {
     "code": "SE",
-    "count": 15014
+    "count": 14983
    },
    {
     "code": "IT",
-    "count": 12716
+    "count": 14718
    },
    {
     "code": "TR",
-    "count": 8290
+    "count": 8016
    },
    {
     "code": "IE",
-    "count": 7512
+    "count": 7906
    },
    {
     "code": "GR",
-    "count": 6777
+    "count": 6808
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

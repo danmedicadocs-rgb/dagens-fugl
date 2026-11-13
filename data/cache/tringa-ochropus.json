@@ -2,7 +2,7 @@
  "key": "tringa-ochropus",
  "name": "Tringa ochropus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:07:36.320Z",
+ "fetchedAt": "2026-11-13T11:13:21.273Z",
  "names": {
   "da": "Svaleklire",
   "en": "Green Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3885,
-  "observations": 29279
+  "observations": 29594
  },
  "photos": {
   "male": [],
@@ -81,72 +81,73 @@
  },
  "gbif": {
   "key": 2481728,
-  "dkTotal": 100354,
+  "dkTotal": 100524,
   "dkMonths": [
    768,
-   552,
+   551,
    2393,
-   24225,
-   4941,
-   13680,
-   24742,
-   23812,
-   3586,
-   603,
-   447,
-   476
+   24272,
+   4952,
+   13683,
+   24787,
+   23830,
+   3585,
+   646,
+   450,
+   478
   ],
-  "worldTotal": 1684994,
+  "worldTotal": 1684318,
   "topCountries": [
    {
     "code": "SE",
-    "count": 391619
+    "count": 392855
    },
    {
     "code": "ES",
-    "count": 151620
+    "count": 147857
    },
    {
     "code": "NL",
-    "count": 142621
-   },
-   {
-    "code": "IN",
-    "count": 138185
+    "count": 146131
    },
    {
     "code": "FR",
-    "count": 123978
+    "count": 127535
    },
    {
     "code": "GB",
-    "count": 106952
+    "count": 120574
+   },
+   {
+    "code": "IN",
+    "count": 111089
    },
    {
     "code": "DK",
-    "count": 100354
+    "count": 100524
    },
    {
     "code": "BE",
-    "count": 84303
+    "count": 85468
    },
    {
     "code": "NO",
-    "count": 68358
+    "count": 68823
    },
    {
-    "code": "PT",
-    "count": 40363
+    "code": "FI",
+    "count": 38348
    },
    {
     "code": "DE",
-    "count": 34657
+    "count": 36989
    },
    {
-    "code": "IL",
-    "count": 33546
+    "code": "PT",
+    "count": 36492
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

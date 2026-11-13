@@ -2,7 +2,7 @@
  "key": "prosthemadera-novaeseelandiae",
  "name": "Prosthemadera novaeseelandiae",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:40:06.811Z",
+ "fetchedAt": "2026-11-13T11:41:28.954Z",
  "names": {
   "da": "Præstefugl",
   "en": "Tūī",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12580,
-  "observations": 40100
+  "observations": 40305
  },
  "photos": {
   "male": [
@@ -56,6 +56,16 @@
   ],
   "female": [
    {
+    "id": 1391096,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1391096/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1391096/large.jpg",
+    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/1106552",
+    "place": "160 Reynolds Valley Road, Reynolds Valley, Okuti Valley, Canterbury, New Zealand",
+    "date": "2014-11-15"
+   },
+   {
     "id": 433285064,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433285064/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433285064/large.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/243159036",
     "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
     "date": "2024-09-22"
-   },
-   {
-    "id": 432195667,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432195667/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432195667/large.jpeg",
-    "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242422390",
-    "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
-    "date": "2024-09-18"
    }
   ],
   "juvenile": [
@@ -98,35 +98,35 @@
     "date": "2019-12-26"
    },
    {
-    "id": 177152157,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177152157/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177152157/large.jpeg",
-    "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
+    "id": 338479632,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338479632/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338479632/large.jpeg",
+    "attribution": "(c) Michael Berardozzi, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105565517",
-    "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
-    "date": "2022-01-26"
+    "source": "https://www.inaturalist.org/observations/192769691",
+    "place": "Eastbourne, Lower Hutt 5013, New Zealand",
+    "date": "2023-12-02"
    },
    {
-    "id": 175291303,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175291303/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175291303/large.jpeg",
+    "id": 245705339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245705339/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245705339/large.jpeg",
     "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/104593592",
+    "source": "https://www.inaturalist.org/observations/143277704",
     "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
-    "date": "2022-01-09"
+    "date": "2022-11-30"
    }
   ],
   "hero": {
-   "id": 430979162,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/430979162/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/430979162/large.jpeg",
-   "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
+   "id": 26140669,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26140669/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26140669/large.jpeg",
+   "attribution": "(c) Jacqui Geux, some rights reserved (CC BY), uploaded by Jacqui Geux",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/241791944",
-   "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
-   "date": "2024-09-15"
+   "source": "https://www.inaturalist.org/photos/26140669",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 274706,
+  "worldTotal": 273391,
   "topCountries": [
    {
     "code": "NZ",
-    "count": 274619
+    "count": 273304
    },
    {
     "code": "ZZ",
@@ -162,5 +162,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

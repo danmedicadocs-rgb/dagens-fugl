@@ -2,7 +2,7 @@
  "key": "branta-canadensis",
  "name": "Branta canadensis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:18.244Z",
+ "fetchedAt": "2026-11-13T11:03:05.304Z",
  "names": {
   "da": "Canadagås",
   "en": "Canada Goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7089,
-  "observations": 492192
+  "observations": 496601
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 67516226,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67516226/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67516226/large.jpeg",
-   "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+   "id": 247715952,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247715952/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247715952/large.jpeg",
+   "attribution": "(c) John Barkla, some rights reserved (CC BY), uploaded by John Barkla",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/42520840",
-   "place": "Uplands, London, ON N5X, Canada",
-   "date": "2020-04-18"
+   "source": "https://www.inaturalist.org/photos/247715952",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5232437,
-  "dkTotal": 113486,
+  "dkTotal": 114114,
   "dkMonths": [
-   19898,
-   13325,
-   9403,
-   3398,
-   5224,
-   8984,
-   4917,
-   11477,
-   9778,
-   5865,
-   9408,
-   11794
+   19912,
+   13341,
+   9410,
+   3379,
+   5227,
+   9002,
+   4941,
+   11524,
+   9847,
+   6209,
+   9490,
+   11817
   ],
-  "worldTotal": 25858712,
+  "worldTotal": 25277567,
   "topCountries": [
    {
     "code": "US",
-    "count": 19219514
+    "count": 18658439
    },
    {
     "code": "CA",
-    "count": 3743230
+    "count": 3560736
    },
    {
     "code": "SE",
-    "count": 875697
+    "count": 881746
    },
    {
     "code": "GB",
-    "count": 697740
+    "count": 797657
    },
    {
     "code": "BE",
-    "count": 383794
+    "count": 407744
    },
    {
     "code": "NL",
-    "count": 363854
+    "count": 374005
    },
    {
     "code": "NO",
-    "count": 171018
+    "count": 173079
    },
    {
     "code": "DE",
-    "count": 128988
+    "count": 137998
    },
    {
     "code": "DK",
-    "count": 113486
+    "count": 114114
    },
    {
     "code": "FR",
-    "count": 62745
+    "count": 66105
    },
    {
     "code": "NZ",
-    "count": 53286
+    "count": 52443
    },
    {
     "code": "FI",
-    "count": 26569
+    "count": 33875
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

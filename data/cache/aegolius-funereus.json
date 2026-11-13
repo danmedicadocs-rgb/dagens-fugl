@@ -2,7 +2,7 @@
  "key": "aegolius-funereus",
  "name": "Aegolius funereus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:57.005Z",
+ "fetchedAt": "2026-11-13T11:17:51.364Z",
  "names": {
   "da": "Perleugle",
   "en": "Boreal Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20359,
-  "observations": 2144
+  "observations": 2165
  },
  "photos": {
   "male": [],
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 5739298,
-  "dkTotal": 962,
+  "dkTotal": 955,
   "dkMonths": [
    26,
    125,
-   336,
-   188,
+   330,
+   185,
    75,
    64,
    11,
    2,
    4,
-   49,
+   51,
    44,
    9
   ],
-  "worldTotal": 294995,
+  "worldTotal": 299067,
   "topCountries": [
    {
     "code": "FI",
-    "count": 161184
+    "count": 165775
    },
    {
     "code": "SE",
-    "count": 73798
+    "count": 73921
    },
    {
     "code": "NO",
-    "count": 16879
+    "count": 17019
    },
    {
     "code": "FR",
-    "count": 12518
+    "count": 12550
    },
    {
     "code": "CA",
-    "count": 10143
+    "count": 9699
    },
    {
     "code": "US",
-    "count": 6731
+    "count": 5956
    },
    {
     "code": "AX",
-    "count": 3180
+    "count": 3199
    },
    {
     "code": "DE",
-    "count": 1082
+    "count": 1124
    },
    {
-    "code": "DK",
-    "count": 962
+    "code": "PL",
+    "count": 1039
    },
    {
     "code": "EE",
-    "count": 962
+    "count": 976
    },
    {
-    "code": "ES",
+    "code": "DK",
+    "count": 955
+   },
+   {
+    "code": "RU",
     "count": 931
-   },
-   {
-    "code": "AT",
-    "count": 916
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

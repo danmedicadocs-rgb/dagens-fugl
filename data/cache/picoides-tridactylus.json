@@ -2,7 +2,7 @@
  "key": "picoides-tridactylus",
  "name": "Picoides tridactylus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:28:12.325Z",
+ "fetchedAt": "2026-11-13T11:30:55.669Z",
  "names": {
   "da": "Tretået spætte",
   "en": "Three-toed Woodpecker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 17669,
-  "observations": 3718
+  "observations": 3805
  },
  "photos": {
   "male": [
@@ -88,14 +88,14 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 181074867,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181074867/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181074867/large.jpeg",
-   "attribution": "(c) Adam Śliż, some rights reserved (CC BY)",
+   "id": 91785065,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91785065/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91785065/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/107637674",
-   "place": "Silesian, PL",
-   "date": "2022-02-26"
+   "source": "https://www.inaturalist.org/photos/91785065",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,57 +115,58 @@
    4,
    0
   ],
-  "worldTotal": 141597,
+  "worldTotal": 146365,
   "topCountries": [
    {
     "code": "SE",
-    "count": 99553
+    "count": 100509
    },
    {
     "code": "NO",
-    "count": 14588
+    "count": 14757
    },
    {
     "code": "FI",
-    "count": 11292
+    "count": 14486
    },
    {
     "code": "RU",
-    "count": 3322
+    "count": 3395
    },
    {
     "code": "EE",
-    "count": 2806
+    "count": 2866
    },
    {
     "code": "AT",
-    "count": 2251
+    "count": 2275
    },
    {
     "code": "PL",
-    "count": 1325
+    "count": 1372
    },
    {
     "code": "CH",
-    "count": 942
+    "count": 985
    },
    {
     "code": "DE",
-    "count": 837
+    "count": 901
    },
    {
     "code": "FR",
-    "count": 825
+    "count": 843
    },
    {
     "code": "CN",
-    "count": 516
+    "count": 534
    },
    {
     "code": "SK",
-    "count": 305
+    "count": 378
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

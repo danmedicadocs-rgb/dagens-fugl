@@ -2,7 +2,7 @@
  "key": "lullula-arborea",
  "name": "Lullula arborea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:59.342Z",
+ "fetchedAt": "2026-11-13T11:21:02.711Z",
  "names": {
   "da": "Hedelærke",
   "en": "Woodlark",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 7363,
-  "observations": 10059
+  "observations": 10112
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 403004594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403004594/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403004594/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/227189254",
+    "place": "62039 Castelsantangelo sul Nera MC, Italia",
+    "date": "2024-07-04"
+   },
    {
     "id": 524012633,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524012633/medium.jpg",
@@ -34,16 +44,6 @@
     "source": "https://www.inaturalist.org/observations/291253631",
     "place": "85201, Lietuva",
     "date": "2025-06-20"
-   },
-   {
-    "id": 558286693,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558286693/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558286693/large.jpg",
-    "attribution": "(c) Umut Nuri Erdoğan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309386516",
-    "place": "Sugözü, Gazipaşa/Antalya, Türkiye",
-    "date": "2025-07-05"
    },
    {
     "id": 131564008,
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 181635911,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/large.jpg",
-   "attribution": "(c) carabus123, some rights reserved (CC BY)",
+   "id": 1742882,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1742882/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1742882/large.jpg",
+   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/107938930",
-   "place": "Buttenbergweg, Inzlingen, Baden-Württemberg, DE",
-   "date": "2022-03-05"
+   "source": "https://www.inaturalist.org/photos/1742882",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490604,
-  "dkTotal": 48902,
+  "dkTotal": 49168,
   "dkMonths": [
    221,
    601,
-   12493,
-   10290,
-   6804,
-   3754,
-   1237,
+   12517,
+   10322,
+   6813,
+   3761,
+   1245,
    369,
-   3147,
-   9507,
-   79,
+   3154,
+   9699,
+   66,
    98
   ],
-  "worldTotal": 903809,
+  "worldTotal": 922640,
   "topCountries": [
    {
     "code": "FR",
-    "count": 220617
+    "count": 223365
    },
    {
     "code": "SE",
-    "count": 160064
+    "count": 160804
    },
    {
     "code": "NL",
-    "count": 137443
+    "count": 139670
    },
    {
     "code": "ES",
-    "count": 118935
+    "count": 122076
    },
    {
     "code": "PT",
-    "count": 57804
+    "count": 55680
    },
    {
     "code": "DK",
-    "count": 48902
+    "count": 49168
    },
    {
     "code": "BE",
-    "count": 37368
+    "count": 38475
    },
    {
     "code": "GB",
-    "count": 22278
+    "count": 25533
    },
    {
     "code": "DE",
-    "count": 15903
+    "count": 17047
    },
    {
     "code": "EE",
-    "count": 10603
+    "count": 10970
    },
    {
-    "code": "TR",
-    "count": 9125
+    "code": "PL",
+    "count": 9618
    },
    {
-    "code": "NO",
-    "count": 8093
+    "code": "FI",
+    "count": 8453
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "anser-erythropus",
  "name": "Anser erythropus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:13.492Z",
+ "fetchedAt": "2026-11-13T11:03:00.546Z",
  "names": {
   "da": "Dværggås",
   "en": "Lesser white-fronted goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7013,
-  "observations": 707
+  "observations": 736
  },
  "photos": {
   "male": [],
@@ -48,25 +48,25 @@
    }
   ],
   "hero": {
-   "id": 546197009,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/large.jpg",
-   "attribution": "(c) gjecology, some rights reserved (CC BY)",
+   "id": 209902298,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209902298/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209902298/large.jpg",
+   "attribution": "(c) Ross Elliott, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/303050886",
-   "place": "England, GB",
-   "date": "2024-01-31"
+   "source": "https://www.inaturalist.org/photos/209902298",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498026,
-  "dkTotal": 1206,
+  "dkTotal": 1222,
   "dkMonths": [
-   129,
-   106,
-   360,
-   344,
-   42,
+   130,
+   107,
+   365,
+   351,
+   44,
    11,
    0,
    35,
@@ -75,57 +75,58 @@
    70,
    36
   ],
-  "worldTotal": 72635,
+  "worldTotal": 73521,
   "topCountries": [
    {
     "code": "SE",
-    "count": 40752
+    "count": 40868
    },
    {
     "code": "NL",
-    "count": 16562
+    "count": 16890
    },
    {
     "code": "NO",
-    "count": 2444
+    "count": 2496
    },
    {
     "code": "RU",
-    "count": 2144
+    "count": 2141
    },
    {
     "code": "DK",
-    "count": 1206
-   },
-   {
-    "code": "BE",
-    "count": 983
+    "count": 1222
    },
    {
     "code": "GB",
-    "count": 920
+    "count": 1211
    },
    {
-    "code": "GR",
-    "count": 836
+    "code": "BE",
+    "count": 1005
    },
    {
     "code": "DE",
-    "count": 733
+    "count": 767
    },
    {
-    "code": "TW",
-    "count": 710
+    "code": "GR",
+    "count": 727
    },
    {
     "code": "CN",
-    "count": 582
+    "count": 705
    },
    {
-    "code": "IN",
-    "count": 438
+    "code": "TW",
+    "count": 626
+   },
+   {
+    "code": "FI",
+    "count": 478
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

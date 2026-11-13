@@ -2,7 +2,7 @@
  "key": "anser-anser",
  "name": "Anser anser",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:54:41.096Z",
+ "fetchedAt": "2026-11-13T11:02:32.500Z",
  "names": {
   "da": "Grågås",
   "en": "Greylag Goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7018,
-  "observations": 104735
+  "observations": 105895
  },
  "photos": {
   "male": [
@@ -108,95 +108,96 @@
     "date": "2025-04-17"
    },
    {
-    "id": 653122264,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/653122264/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/653122264/large.jpg",
-    "attribution": "(c) Rhys, some rights reserved (CC BY)",
+    "id": 376363460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376363460/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/376363460/large.jpeg",
+    "attribution": "(c) Emil Jantke, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/358054229",
-    "place": "Gloucestershire, England, GB",
-    "date": "2026-04-29"
+    "source": "https://www.inaturalist.org/observations/212972723",
+    "place": "16278 Angermünde-Görlsdorf, Deutschland",
+    "date": "2024-05-02"
    }
   ],
   "hero": {
-   "id": 1155394,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1155394/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1155394/large.jpg",
-   "attribution": "(c) José Belem Hernández Díaz, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/906550",
-   "place": "Las Fuentes. Cadereyta, Qro.",
-   "date": "2011-04-12"
+   "id": 61333942,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61333942/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61333942/large.jpg",
+   "attribution": "(c) Imran Shah, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/61333942",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498036,
-  "dkTotal": 781872,
+  "dkTotal": 787850,
   "dkMonths": [
-   73128,
-   75837,
-   118962,
-   114778,
-   83716,
-   37888,
-   46782,
-   44670,
-   51640,
-   55598,
-   39054,
-   39645
+   73263,
+   76055,
+   119338,
+   115226,
+   83989,
+   38124,
+   47075,
+   44883,
+   51866,
+   58422,
+   39642,
+   39793
   ],
-  "worldTotal": 4936192,
+  "worldTotal": 5099117,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1191458
+    "count": 1200871
    },
    {
     "code": "NL",
-    "count": 971983
+    "count": 1000771
    },
    {
     "code": "DK",
-    "count": 781872
+    "count": 787850
    },
    {
     "code": "GB",
-    "count": 508354
+    "count": 586432
    },
    {
     "code": "NO",
-    "count": 406218
+    "count": 411666
    },
    {
     "code": "DE",
-    "count": 287136
+    "count": 306272
    },
    {
     "code": "BE",
-    "count": 194583
+    "count": 198218
    },
    {
     "code": "ES",
-    "count": 85027
+    "count": 82444
    },
    {
     "code": "FR",
-    "count": 75688
+    "count": 78056
    },
    {
     "code": "US",
-    "count": 65522
-   },
-   {
-    "code": "IS",
-    "count": 47220
+    "count": 60303
    },
    {
     "code": "PL",
-    "count": 37145
+    "count": 48046
+   },
+   {
+    "code": "IS",
+    "count": 46619
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

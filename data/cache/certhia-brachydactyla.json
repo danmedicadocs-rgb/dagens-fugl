@@ -2,7 +2,7 @@
  "key": "certhia-brachydactyla",
  "name": "Certhia brachydactyla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:00.569Z",
+ "fetchedAt": "2026-11-13T11:23:40.701Z",
  "names": {
   "da": "Korttået træløber",
   "en": "Short-toed Treecreeper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7462,
-  "observations": 19302
+  "observations": 19485
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 7806848,
-  "dkTotal": 52857,
+  "dkTotal": 53530,
   "dkMonths": [
-   4529,
-   5737,
-   10271,
-   8175,
-   5896,
-   3162,
-   2124,
-   2456,
-   2933,
-   2841,
-   2457,
-   2258
+   4561,
+   5795,
+   10337,
+   8248,
+   5975,
+   3195,
+   2134,
+   2482,
+   2977,
+   3031,
+   2506,
+   2271
   ],
-  "worldTotal": 1832051,
+  "worldTotal": 1909259,
   "topCountries": [
    {
     "code": "NL",
-    "count": 597573
+    "count": 612728
    },
    {
     "code": "FR",
-    "count": 409104
+    "count": 422548
    },
    {
     "code": "ES",
-    "count": 299152
+    "count": 310245
    },
    {
     "code": "DE",
-    "count": 150376
+    "count": 166113
    },
    {
     "code": "BE",
-    "count": 113806
+    "count": 118366
    },
    {
     "code": "PT",
-    "count": 103506
+    "count": 102859
    },
    {
     "code": "DK",
-    "count": 52857
+    "count": 53530
    },
    {
     "code": "IT",
-    "count": 24956
+    "count": 29520
    },
    {
     "code": "CH",
-    "count": 18081
+    "count": 22269
    },
    {
     "code": "PL",
-    "count": 13211
-   },
-   {
-    "code": "SE",
-    "count": 7843
+    "count": 19177
    },
    {
     "code": "CZ",
-    "count": 7449
+    "count": 8250
+   },
+   {
+    "code": "SE",
+    "count": 7895
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

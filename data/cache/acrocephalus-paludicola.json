@@ -2,7 +2,7 @@
  "key": "acrocephalus-paludicola",
  "name": "Acrocephalus paludicola",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:12.047Z",
+ "fetchedAt": "2026-11-13T11:22:53.521Z",
  "names": {
   "da": "Vandsanger",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117181,
-  "observations": 201
+  "observations": 204
  },
  "photos": {
   "male": [],
@@ -70,7 +70,7 @@
  },
  "gbif": {
   "key": 2493114,
-  "dkTotal": 61,
+  "dkTotal": 62,
   "dkMonths": [
    0,
    0,
@@ -79,63 +79,64 @@
    0,
    1,
    4,
-   38,
+   39,
    13,
    2,
    0,
    0
   ],
-  "worldTotal": 22259,
+  "worldTotal": 22069,
   "topCountries": [
    {
     "code": "FR",
-    "count": 8540
+    "count": 8574
    },
    {
     "code": "ES",
-    "count": 3556
+    "count": 3328
    },
    {
     "code": "PL",
-    "count": 3238
+    "count": 3239
    },
    {
     "code": "NL",
-    "count": 3168
+    "count": 3189
    },
    {
     "code": "BE",
-    "count": 1154
+    "count": 1156
    },
    {
     "code": "GB",
-    "count": 495
-   },
-   {
-    "code": "PT",
-    "count": 311
+    "count": 538
    },
    {
     "code": "SE",
-    "count": 261
+    "count": 260
+   },
+   {
+    "code": "PT",
+    "count": 244
    },
    {
     "code": "UA",
     "count": 221
    },
    {
+    "code": "LT",
+    "count": 190
+   },
+   {
     "code": "BY",
     "count": 187
    },
    {
-    "code": "LT",
-    "count": 187
-   },
-   {
     "code": "DE",
-    "count": 130
+    "count": 131
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

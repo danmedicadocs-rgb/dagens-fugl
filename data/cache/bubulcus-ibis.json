@@ -2,7 +2,7 @@
  "key": "bubulcus-ibis",
  "name": "Bubulcus ibis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:21.643Z",
+ "fetchedAt": "2026-11-13T11:07:17.727Z",
  "names": {
   "da": "Kohejre",
   "en": null,
@@ -16,72 +16,73 @@
  "photos": null,
  "gbif": {
   "key": 2480830,
-  "dkTotal": 2102,
+  "dkTotal": 2110,
   "dkMonths": [
    217,
    75,
    50,
-   196,
+   195,
    166,
    68,
    6,
    77,
    17,
-   348,
+   357,
    530,
    351
   ],
-  "worldTotal": 3709431,
+  "worldTotal": 3378938,
   "topCountries": [
    {
     "code": "US",
-    "count": 1274298
+    "count": 1143580
    },
    {
     "code": "ES",
-    "count": 296627
+    "count": 295350
    },
    {
     "code": "ZA",
-    "count": 293315
+    "count": 292370
    },
    {
     "code": "CO",
-    "count": 221824
+    "count": 174691
    },
    {
     "code": "FR",
-    "count": 140706
+    "count": 145604
    },
    {
     "code": "CR",
-    "count": 138246
-   },
-   {
-    "code": "MX",
-    "count": 121007
+    "count": 109409
    },
    {
     "code": "AU",
-    "count": 102538
+    "count": 102545
+   },
+   {
+    "code": "MX",
+    "count": 93699
    },
    {
     "code": "PT",
-    "count": 95489
-   },
-   {
-    "code": "BR",
-    "count": 68897
+    "count": 90634
    },
    {
     "code": "NL",
-    "count": 61811
+    "count": 64943
    },
    {
     "code": "IL",
-    "count": 61552
+    "count": 60884
+   },
+   {
+    "code": "BR",
+    "count": 60060
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

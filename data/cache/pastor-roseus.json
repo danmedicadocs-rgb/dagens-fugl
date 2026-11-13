@@ -2,7 +2,7 @@
  "key": "pastor-roseus",
  "name": "Pastor roseus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:18.846Z",
+ "fetchedAt": "2026-11-13T11:23:56.638Z",
  "names": {
   "da": "Rosenstær",
   "en": "Rosy Starling",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 145108,
-  "observations": 4701
+  "observations": 4800
  },
  "photos": {
   "male": [
@@ -78,84 +78,85 @@
    }
   ],
   "hero": {
-   "id": 734437272,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/400246210",
-   "place": "Светлый, Оренбургская обл., Россия, 462740",
-   "date": "2026-06-16"
+   "id": 137124372,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137124372/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137124372/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY), uploaded by Andrew Bazdyrev",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/137124372",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5845386,
-  "dkTotal": 1160,
+  "dkTotal": 1158,
   "dkMonths": [
    1,
    0,
    0,
    3,
    165,
-   414,
+   413,
    111,
    148,
    138,
-   161,
+   160,
    14,
    0
   ],
-  "worldTotal": 158508,
+  "worldTotal": 138644,
   "topCountries": [
    {
     "code": "IN",
-    "count": 113053
+    "count": 93984
    },
    {
     "code": "NL",
-    "count": 7922
+    "count": 7932
    },
    {
     "code": "SE",
-    "count": 5305
+    "count": 5326
    },
    {
     "code": "LK",
-    "count": 3502
-   },
-   {
-    "code": "TR",
-    "count": 2706
+    "count": 3294
    },
    {
     "code": "GB",
-    "count": 2682
-   },
-   {
-    "code": "KZ",
-    "count": 2276
+    "count": 2923
    },
    {
     "code": "NO",
-    "count": 2226
+    "count": 2279
    },
    {
-    "code": "GE",
-    "count": 1586
+    "code": "TR",
+    "count": 2132
+   },
+   {
+    "code": "KZ",
+    "count": 2079
    },
    {
     "code": "FR",
-    "count": 1537
+    "count": 1617
+   },
+   {
+    "code": "GE",
+    "count": 1320
    },
    {
     "code": "AE",
-    "count": 1297
+    "count": 1226
    },
    {
     "code": "RU",
-    "count": 1290
+    "count": 1189
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "panurus-biarmicus",
  "name": "Panurus biarmicus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:38.510Z",
+ "fetchedAt": "2026-11-13T11:20:44.597Z",
  "names": {
   "da": "Skægmejse",
   "en": "Bearded Reeding",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117000,
-  "observations": 6049
+  "observations": 6157
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 347155032,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347155032/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347155032/large.jpg",
-   "attribution": "(c) Tomas Broucek, some rights reserved (CC BY)",
+   "id": 81337552,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81337552/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81337552/large.jpeg",
+   "attribution": "(c) Roy Lowry, some rights reserved (CC BY), uploaded by Roy Lowry",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/197146722",
-   "place": "Praha-Dubeč, Česko",
-   "date": "2024-01-19"
+   "source": "https://www.inaturalist.org/photos/81337552",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493367,
-  "dkTotal": 80277,
+  "dkTotal": 81059,
   "dkMonths": [
-   4448,
-   2741,
-   4682,
-   9456,
-   8487,
-   6662,
-   7793,
-   6685,
-   6456,
-   12750,
-   6522,
-   3582
+   4449,
+   2748,
+   4695,
+   9512,
+   8519,
+   6694,
+   7829,
+   6720,
+   6478,
+   13171,
+   6634,
+   3597
   ],
-  "worldTotal": 569039,
+  "worldTotal": 581840,
   "topCountries": [
    {
     "code": "SE",
-    "count": 165688
+    "count": 166331
    },
    {
     "code": "NL",
-    "count": 139939
+    "count": 143001
    },
    {
     "code": "DK",
-    "count": 80277
+    "count": 81059
    },
    {
     "code": "GB",
-    "count": 39825
+    "count": 43292
    },
    {
     "code": "FR",
-    "count": 27013
-   },
-   {
-    "code": "ES",
-    "count": 18703
+    "count": 27278
    },
    {
     "code": "PL",
-    "count": 16341
+    "count": 18277
    },
    {
-    "code": "BE",
-    "count": 13306
+    "code": "ES",
+    "count": 17875
    },
    {
     "code": "FI",
-    "count": 11774
+    "count": 13525
+   },
+   {
+    "code": "BE",
+    "count": 13483
    },
    {
     "code": "DE",
-    "count": 10891
+    "count": 11991
    },
    {
     "code": "NO",
-    "count": 10161
+    "count": 10265
    },
    {
     "code": "EE",
-    "count": 4364
+    "count": 4570
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

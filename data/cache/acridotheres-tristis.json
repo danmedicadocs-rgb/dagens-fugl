@@ -2,7 +2,7 @@
  "key": "acridotheres-tristis",
  "name": "Acridotheres tristis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:34:27.623Z",
+ "fetchedAt": "2026-11-13T11:36:27.515Z",
  "names": {
   "da": "Maina",
   "en": "Common myna",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204454,
-  "observations": 72432
+  "observations": 73663
  },
  "photos": {
   "male": [
@@ -78,14 +78,14 @@
    }
   ],
   "hero": {
-   "id": 70799271,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/large.jpg",
-   "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
+   "id": 112489365,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112489365/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112489365/large.jpg",
+   "attribution": "(c) David F. Belmonte, some rights reserved (CC BY), uploaded by David F. Belmonte",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/44657081",
-   "place": "Al Garhoud - Dubai - Emirati Arabi Uniti",
-   "date": "2012-08-18"
+   "source": "https://www.inaturalist.org/photos/112489365",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -105,57 +105,58 @@
    0,
    0
   ],
-  "worldTotal": 3574651,
+  "worldTotal": 3497272,
   "topCountries": [
    {
     "code": "IN",
-    "count": 1342735
+    "count": 1232417
    },
    {
     "code": "AU",
-    "count": 850391
+    "count": 886511
    },
    {
     "code": "TW",
-    "count": 275854
+    "count": 253366
    },
    {
     "code": "ZA",
-    "count": 210915
+    "count": 213879
    },
    {
     "code": "US",
-    "count": 197136
-   },
-   {
-    "code": "TH",
-    "count": 114280
-   },
-   {
-    "code": "NZ",
-    "count": 110584
+    "count": 185246
    },
    {
     "code": "IL",
-    "count": 109169
+    "count": 117691
+   },
+   {
+    "code": "TH",
+    "count": 116284
+   },
+   {
+    "code": "NZ",
+    "count": 110671
    },
    {
     "code": "LK",
-    "count": 57280
+    "count": 58176
    },
    {
     "code": "AE",
-    "count": 48227
+    "count": 50993
    },
    {
     "code": "NP",
-    "count": 31697
+    "count": 36827
    },
    {
     "code": "KH",
-    "count": 21802
+    "count": 21244
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

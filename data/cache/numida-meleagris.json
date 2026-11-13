@@ -2,7 +2,7 @@
  "key": "numida-meleagris",
  "name": "Numida meleagris",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:58.517Z",
+ "fetchedAt": "2026-11-13T11:33:21.417Z",
  "names": {
   "da": "Perlehøne",
   "en": "Helmeted Guineafowl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1428,
-  "observations": 27841
+  "observations": 28301
  },
  "photos": {
   "male": [
@@ -109,19 +109,19 @@
    }
   ],
   "hero": {
-   "id": 220507529,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220507529/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220507529/large.jpg",
-   "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
+   "id": 563684147,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563684147/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563684147/large.jpg",
+   "attribution": "(c) Darren Obbard, some rights reserved (CC BY), uploaded by Darren Obbard",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/129732493",
-   "place": "Foz do Iguaçu, State of Paraná, Brazil",
-   "date": "2022-07-26"
+   "source": "https://www.inaturalist.org/photos/563684147",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2473341,
-  "dkTotal": 15,
+  "dkTotal": 17,
   "dkMonths": [
    0,
    0,
@@ -130,63 +130,64 @@
    5,
    0,
    3,
-   2,
+   4,
    2,
    0,
    0,
    0
   ],
-  "worldTotal": 508340,
+  "worldTotal": 505553,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 357364
+    "count": 358612
    },
    {
     "code": "KE",
-    "count": 26707
+    "count": 26228
    },
    {
     "code": "NA",
-    "count": 20978
+    "count": 20013
    },
    {
     "code": "TZ",
-    "count": 16325
+    "count": 15227
    },
    {
     "code": "ZW",
-    "count": 11628
+    "count": 12481
    },
    {
     "code": "BW",
-    "count": 10201
+    "count": 10324
    },
    {
     "code": "UG",
-    "count": 9763
+    "count": 8449
    },
    {
     "code": "AU",
-    "count": 8027
-   },
-   {
-    "code": "US",
-    "count": 7733
+    "count": 8181
    },
    {
     "code": "ZM",
-    "count": 7725
+    "count": 8078
    },
    {
-    "code": "CU",
-    "count": 2705
+    "code": "US",
+    "count": 7487
    },
    {
     "code": "SZ",
-    "count": 2365
+    "count": 2350
+   },
+   {
+    "code": "CU",
+    "count": 2249
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

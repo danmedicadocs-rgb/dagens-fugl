@@ -2,7 +2,7 @@
  "key": "merops-apiaster",
  "name": "Merops apiaster",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:43.002Z",
+ "fetchedAt": "2026-11-13T11:18:21.235Z",
  "names": {
   "da": "Biæder",
   "en": "European Bee-eater",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2191,
-  "observations": 38095
+  "observations": 38324
  },
  "photos": {
   "male": [
@@ -131,13 +131,13 @@
  },
  "gbif": {
   "key": 2475443,
-  "dkTotal": 2215,
+  "dkTotal": 2210,
   "dkMonths": [
    0,
    0,
    1,
    42,
-   1436,
+   1431,
    490,
    85,
    122,
@@ -146,57 +146,58 @@
    0,
    1
   ],
-  "worldTotal": 804102,
+  "worldTotal": 814543,
   "topCountries": [
    {
     "code": "ES",
-    "count": 236243
+    "count": 239147
    },
    {
     "code": "ZA",
-    "count": 108987
+    "count": 109008
    },
    {
     "code": "FR",
-    "count": 105347
+    "count": 107148
    },
    {
     "code": "PT",
-    "count": 57885
+    "count": 56206
    },
    {
     "code": "IL",
-    "count": 35994
+    "count": 35982
    },
    {
     "code": "TR",
-    "count": 23606
+    "count": 22653
    },
    {
     "code": "GR",
-    "count": 18981
+    "count": 19942
    },
    {
     "code": "IT",
-    "count": 15640
+    "count": 19917
    },
    {
     "code": "BG",
-    "count": 14297
+    "count": 14555
    },
    {
-    "code": "DE",
-    "count": 11769
+    "code": "NL",
+    "count": 10699
    },
    {
     "code": "RU",
-    "count": 9638
+    "count": 9646
    },
    {
     "code": "KE",
-    "count": 9393
+    "count": 9082
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

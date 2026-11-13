@@ -2,7 +2,7 @@
  "key": "colaptes-auratus",
  "name": "Colaptes auratus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:42:12.484Z",
+ "fetchedAt": "2026-11-13T11:43:12.995Z",
  "names": {
   "da": "Guldspætte",
   "en": "Northern Flicker",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 18236,
-  "observations": 172196
+  "observations": 174532
  },
  "photos": {
   "male": [
+   {
+    "id": 702759559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702759559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702759559/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/383939455",
+    "place": "28th Ave E, Seattle, WA, US",
+    "date": "2026-07-22"
+   },
    {
     "id": 675989599,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/medium.jpg",
@@ -34,27 +44,27 @@
     "date": "2026-06-09"
    },
    {
-    "id": 133071257,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133071257/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133071257/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/81146100",
-    "place": "East Vancouver, Vancouver, BC, Canada",
-    "date": "2021-05-31"
-   },
-   {
-    "id": 702759559,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702759559/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702759559/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/383939455",
-    "place": "28th Ave E, Seattle, WA, US",
-    "date": "2026-07-22"
+    "id": 286021851,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286021851/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286021851/large.jpg",
+    "attribution": "(c) Shiva Shenoy, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/165244392",
+    "place": "Valley Green Rd, Philadelphia, PA 19128, USA",
+    "date": "2023-05-31"
    }
   ],
   "female": [
+   {
+    "id": 326421846,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/326421846/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/326421846/large.jpg",
+    "attribution": "(c) Kristy Morley, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/186748973",
+    "place": "Montgomery County, PA, USA",
+    "date": "2023-10-06"
+   },
    {
     "id": 509241269,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/509241269/medium.jpg",
@@ -64,16 +74,6 @@
     "source": "https://www.inaturalist.org/observations/283411485",
     "place": "1PVille",
     "date": "2025-05-21"
-   },
-   {
-    "id": 73718453,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73718453/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73718453/large.jpeg",
-    "attribution": "(c) Tom Norton, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/46477570",
-    "place": "Thetford Center, VT 05075, USA",
-    "date": "2020-05-19"
    },
    {
     "id": 74952238,
@@ -98,6 +98,16 @@
     "date": "2023-07-08"
    },
    {
+    "id": 679448748,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679448748/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679448748/large.jpg",
+    "attribution": "(c) David Rankin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/371860227",
+    "place": "Tulare County, CA, USA",
+    "date": "2026-06-08"
+   },
+   {
     "id": 548548317,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/548548317/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/548548317/large.jpg",
@@ -106,27 +116,17 @@
     "source": "https://www.inaturalist.org/observations/304298575",
     "place": "Crazy Horse, SD 57730, USA",
     "date": "2025-08-06"
-   },
-   {
-    "id": 105213030,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105213030/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105213030/large.jpeg",
-    "attribution": "(c) Louise Woodrich, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/65376804",
-    "place": "Hanover County, VA, USA",
-    "date": "2020-11-21"
    }
   ],
   "hero": {
-   "id": 675989599,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675989599/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/370046403",
-   "place": "King County, US-WA, US",
-   "date": "2026-06-09"
+   "id": 115602651,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115602651/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115602651/large.jpeg",
+   "attribution": "(c) Jon Robson, some rights reserved (CC BY-SA), uploaded by Jon Robson",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/115602651",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,31 +146,31 @@
    0,
    0
   ],
-  "worldTotal": 15041761,
+  "worldTotal": 14465683,
   "topCountries": [
    {
     "code": "US",
-    "count": 12491734
+    "count": 12015879
    },
    {
     "code": "CA",
-    "count": 2511539
+    "count": 2419546
    },
    {
     "code": "MX",
-    "count": 26418
+    "count": 20370
    },
    {
     "code": "KY",
-    "count": 5132
+    "count": 4363
    },
    {
     "code": "CU",
-    "count": 4563
+    "count": 3083
    },
    {
     "code": "PM",
-    "count": 647
+    "count": 701
    },
    {
     "code": "GT",
@@ -178,7 +178,7 @@
    },
    {
     "code": "BM",
-    "count": 87
+    "count": 88
    },
    {
     "code": "HN",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

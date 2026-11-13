@@ -2,7 +2,7 @@
  "key": "agelaius-phoeniceus",
  "name": "Agelaius phoeniceus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:43:06.832Z",
+ "fetchedAt": "2026-11-13T11:43:58.516Z",
  "names": {
   "da": "Rødvinget Stærling",
   "en": "Red-winged Blackbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9744,
-  "observations": 317305
+  "observations": 318861
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 278246194,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278246194/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278246194/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/160994943",
-   "place": "Centracare Cir, Saint Cloud, MN, US",
-   "date": "2023-05-10"
+   "id": 275637604,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275637604/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275637604/large.jpg",
+   "attribution": "(c) anonymous, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/275637604",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -149,5 +149,6 @@
   "worldTotal": 0,
   "topCountries": []
  },
+ "photoVersion": 2,
  "warnings": []
 }

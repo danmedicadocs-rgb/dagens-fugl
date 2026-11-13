@@ -2,7 +2,7 @@
  "key": "limosa-lapponica",
  "name": "Limosa lapponica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:43.879Z",
+ "fetchedAt": "2026-11-13T11:12:40.058Z",
  "names": {
   "da": "Lille kobbersneppe",
   "en": "Bar-tailed Godwit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3951,
-  "observations": 17744
+  "observations": 18156
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 465580472,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465580472/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465580472/large.jpeg",
-   "attribution": "(c) ikelman, some rights reserved (CC BY)",
+   "id": 408063602,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/408063602/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/408063602/large.jpg",
+   "attribution": "(c) Настя Бухвалова, some rights reserved (CC BY), uploaded by Настя Бухвалова",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/259370114",
-   "place": "Lossiemouth IV31 6NW, UK",
-   "date": "2025-01-23"
+   "source": "https://www.inaturalist.org/photos/408063602",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481681,
-  "dkTotal": 105613,
+  "dkTotal": 106232,
   "dkMonths": [
-   1769,
-   1259,
-   3238,
-   6519,
-   13151,
-   2610,
-   23069,
-   28301,
-   14268,
-   7434,
-   2628,
-   1352
+   1768,
+   1256,
+   3240,
+   6530,
+   13159,
+   2620,
+   23084,
+   28357,
+   14312,
+   7849,
+   2689,
+   1353
   ],
-  "worldTotal": 899026,
+  "worldTotal": 900469,
   "topCountries": [
    {
     "code": "SE",
-    "count": 187771
+    "count": 188278
    },
    {
     "code": "AU",
-    "count": 129922
+    "count": 129371
    },
    {
     "code": "DK",
-    "count": 105613
+    "count": 106232
    },
    {
     "code": "GB",
-    "count": 82418
+    "count": 91771
    },
    {
     "code": "NL",
-    "count": 81508
+    "count": 85486
    },
    {
     "code": "NO",
-    "count": 67360
+    "count": 67816
    },
    {
     "code": "NZ",
-    "count": 38363
+    "count": 36503
    },
    {
     "code": "ES",
-    "count": 32148
+    "count": 28994
    },
    {
     "code": "FR",
-    "count": 26553
+    "count": 27205
    },
    {
     "code": "US",
-    "count": 21675
+    "count": 16426
    },
    {
     "code": "PT",
-    "count": 15929
+    "count": 14761
    },
    {
     "code": "BE",
-    "count": 9377
+    "count": 9562
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

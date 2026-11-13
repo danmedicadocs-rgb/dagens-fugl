@@ -2,7 +2,7 @@
  "key": "anastomus-lamelligerus",
  "name": "Anastomus lamelligerus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:31:53.705Z",
+ "fetchedAt": "2026-11-13T11:34:11.735Z",
  "names": {
   "da": "Afrikansk Gabenæb",
   "en": "African Openbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4776,
-  "observations": 3475
+  "observations": 3525
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
     "date": "2025-08-28"
    },
    {
-    "id": 72441183,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72441183/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72441183/large.jpg",
+    "id": 57719414,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57719414/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57719414/large.jpg",
     "attribution": "no rights reserved",
     "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/45677873",
-    "place": "Mambwe, Zambia",
-    "date": "2017-07-13"
+    "source": "https://www.inaturalist.org/observations/36508373",
+    "place": "Balaka, Malawi",
+    "date": "2019-08-11"
    }
   ],
   "hero": {
@@ -96,57 +96,58 @@
    0,
    0
   ],
-  "worldTotal": 62973,
+  "worldTotal": 60863,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 13244
+    "count": 13422
    },
    {
     "code": "UG",
-    "count": 10413
+    "count": 9585
    },
    {
     "code": "BW",
-    "count": 7716
+    "count": 7158
    },
    {
     "code": "KE",
-    "count": 6361
-   },
-   {
-    "code": "NA",
-    "count": 5011
+    "count": 6176
    },
    {
     "code": "ZM",
-    "count": 4921
+    "count": 4918
+   },
+   {
+    "code": "NA",
+    "count": 4472
    },
    {
     "code": "TZ",
-    "count": 3993
+    "count": 3846
    },
    {
     "code": "ZW",
-    "count": 3427
+    "count": 3626
    },
    {
     "code": "MZ",
-    "count": 2157
+    "count": 1843
    },
    {
     "code": "RW",
-    "count": 1639
+    "count": 1583
    },
    {
     "code": "MW",
-    "count": 1151
+    "count": 1156
    },
    {
     "code": "CD",
-    "count": 359
+    "count": 408
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

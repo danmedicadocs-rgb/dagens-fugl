@@ -2,7 +2,7 @@
  "key": "clanga-pomarina",
  "name": "Clanga pomarina",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:02:22.493Z",
+ "fetchedAt": "2026-11-13T11:09:00.493Z",
  "names": {
   "da": "Lille skrigeørn",
   "en": "Lesser Spotted Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 201033,
-  "observations": 4594
+  "observations": 4634
  },
  "photos": {
   "male": [
@@ -79,84 +79,85 @@
    }
   ],
   "hero": {
-   "id": 118239549,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118239549/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118239549/large.jpg",
-   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+   "id": 13669756,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13669756/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13669756/large.jpg",
+   "attribution": "(c) i_c_riddell, some rights reserved (CC BY), uploaded by i_c_riddell",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/72514146",
-   "place": "Rwaished District, Jordan",
-   "date": "2014-12-29"
+   "source": "https://www.inaturalist.org/photos/13669756",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480505,
-  "dkTotal": 1948,
+  "dkTotal": 1960,
   "dkMonths": [
    0,
    0,
    0,
    212,
    1142,
-   309,
+   308,
    8,
    58,
-   187,
-   27,
+   194,
+   33,
    4,
    0
   ],
-  "worldTotal": 181660,
+  "worldTotal": 183194,
   "topCountries": [
    {
     "code": "GE",
-    "count": 24218
+    "count": 24163
    },
    {
     "code": "IL",
-    "count": 16902
+    "count": 16592
    },
    {
     "code": "ZW",
-    "count": 12947
+    "count": 13026
    },
    {
     "code": "TR",
-    "count": 11535
+    "count": 11099
    },
    {
     "code": "ZM",
-    "count": 10333
+    "count": 10345
    },
    {
     "code": "BW",
-    "count": 8985
-   },
-   {
-    "code": "EE",
-    "count": 7865
+    "count": 9007
    },
    {
     "code": "PL",
-    "count": 7227
+    "count": 8374
+   },
+   {
+    "code": "EE",
+    "count": 8048
    },
    {
     "code": "SE",
-    "count": 6306
+    "count": 6288
    },
    {
     "code": "ZA",
-    "count": 6253
+    "count": 6254
    },
    {
     "code": "TZ",
-    "count": 6234
+    "count": 6168
    },
    {
     "code": "UA",
-    "count": 5342
+    "count": 5631
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

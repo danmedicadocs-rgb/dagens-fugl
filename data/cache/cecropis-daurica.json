@@ -2,7 +2,7 @@
  "key": "cecropis-daurica",
  "name": "Cecropis daurica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:31.272Z",
+ "fetchedAt": "2026-11-13T11:21:28.060Z",
  "names": {
   "da": "Rødrygget Svale",
   "en": "Eastern Red-rumped Swallow",
@@ -19,32 +19,43 @@
  },
  "inat": {
   "id": 144792,
-  "observations": 9254
+  "observations": 9369
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 703115982,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703115982/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703115982/large.jpg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/384124071",
+    "place": "Taman Negara Sungai Relau, Taman Negara Sungai Relau, Kampung Merapuh Lama, 27210 Kuala Lipis, Pahang, Malaysia",
+    "date": "2026-02-24"
+   }
+  ],
   "adult": [
    {
-    "id": 149373034,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/large.jpeg",
-    "attribution": "(c) 雲一百香果, some rights reserved (CC BY)",
+    "id": 281156491,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281156491/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281156491/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/90382407",
-    "place": "台灣雲林縣",
-    "date": "2021-08-07"
+    "source": "https://www.inaturalist.org/observations/162595338",
+    "place": "Q55H+X74, Dapoli Camp, Maharashtra 415713, India",
+    "date": "2023-05-19"
    },
    {
-    "id": 110186284,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110186284/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110186284/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "id": 527457753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527457753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527457753/large.jpg",
+    "attribution": "(c) Jiao Sun (孙娇), some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68100245",
-    "place": "Русский, Приморский край, Россия",
-    "date": "2017-05-24"
+    "source": "https://www.inaturalist.org/observations/293066332",
+    "place": "X9CG+C99, Zhucheng, Weifang, Shandong, China, 262201",
+    "date": "2025-06-08"
    },
    {
     "id": 529133943,
@@ -58,14 +69,14 @@
    }
   ],
   "hero": {
-   "id": 149373034,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149373034/large.jpeg",
-   "attribution": "(c) 雲一百香果, some rights reserved (CC BY)",
+   "id": 237607388,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237607388/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237607388/large.jpg",
+   "attribution": "(c) Parth Kansara, some rights reserved (CC BY), uploaded by Parth Kansara",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/90382407",
-   "place": "台灣雲林縣",
-   "date": "2021-08-07"
+   "source": "https://www.inaturalist.org/photos/237607388",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,27 +96,27 @@
    0,
    0
   ],
-  "worldTotal": 494977,
+  "worldTotal": 424312,
   "topCountries": [
    {
     "code": "IN",
-    "count": 255116
+    "count": 204538
    },
    {
     "code": "TW",
-    "count": 129283
+    "count": 108369
    },
    {
     "code": "CN",
-    "count": 23717
+    "count": 27493
    },
    {
     "code": "TH",
-    "count": 19806
+    "count": 16995
    },
    {
     "code": "ES",
-    "count": 14217
+    "count": 14226
    },
    {
     "code": "FR",
@@ -113,29 +124,30 @@
    },
    {
     "code": "NP",
-    "count": 6328
-   },
-   {
-    "code": "ID",
-    "count": 4173
+    "count": 6142
    },
    {
     "code": "JP",
-    "count": 3801
+    "count": 4819
+   },
+   {
+    "code": "ID",
+    "count": 4265
    },
    {
     "code": "PT",
-    "count": 3675
+    "count": 3767
    },
    {
-    "code": "KH",
-    "count": 3466
+    "code": "KR",
+    "count": 3245
    },
    {
     "code": "PH",
-    "count": 3245
+    "count": 2975
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

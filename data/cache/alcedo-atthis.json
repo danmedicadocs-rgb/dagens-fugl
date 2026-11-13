@@ -2,7 +2,7 @@
  "key": "alcedo-atthis",
  "name": "Alcedo atthis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:37.823Z",
+ "fetchedAt": "2026-11-13T11:18:16.678Z",
  "names": {
   "da": "Isfugl",
   "en": "Common Kingfisher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2599,
-  "observations": 65286
+  "observations": 66432
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2021-03-21"
    },
    {
-    "id": 745373436,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745373436/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745373436/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "id": 316422083,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316422083/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316422083/large.jpeg",
+    "attribution": "(c) Lasse W., some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/405771494",
-    "place": "Vake-Saburtalo, Tbilisi, Georgia",
-    "date": "2026-10-03"
+    "source": "https://www.inaturalist.org/observations/181573426",
+    "place": "24229 Strande, Deutschland",
+    "date": "2023-09-03"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 163772236,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163772236/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163772236/large.jpg",
-   "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+   "id": 33183952,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33183952/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33183952/large.jpg",
+   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/98375354",
-   "place": "92230 Gennevilliers, France",
-   "date": "2021-10-16"
+   "source": "https://www.inaturalist.org/photos/33183952",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2475532,
-  "dkTotal": 99685,
+  "dkTotal": 100225,
   "dkMonths": [
-   12485,
-   8015,
-   7891,
-   6739,
-   5433,
-   4046,
-   5093,
-   8329,
-   11207,
-   11200,
-   10093,
-   9092
+   12511,
+   8025,
+   7920,
+   6758,
+   5450,
+   4060,
+   5110,
+   8351,
+   11252,
+   11430,
+   10165,
+   9131
   ],
-  "worldTotal": 2607477,
+  "worldTotal": 2633358,
   "topCountries": [
    {
     "code": "NL",
-    "count": 481029
+    "count": 495643
    },
    {
     "code": "FR",
-    "count": 290190
+    "count": 297256
    },
    {
     "code": "IN",
-    "count": 284345
+    "count": 242216
    },
    {
     "code": "ES",
-    "count": 218836
+    "count": 219740
    },
    {
     "code": "GB",
-    "count": 187019
+    "count": 212792
    },
    {
     "code": "TW",
-    "count": 177312
+    "count": 153851
    },
    {
     "code": "SE",
-    "count": 121934
+    "count": 122575
    },
    {
     "code": "DE",
-    "count": 111480
+    "count": 119426
    },
    {
     "code": "BE",
-    "count": 104529
+    "count": 106922
    },
    {
     "code": "DK",
-    "count": 99685
+    "count": 100225
    },
    {
     "code": "PT",
-    "count": 68077
+    "count": 64181
    },
    {
     "code": "JP",
-    "count": 35799
+    "count": 44086
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

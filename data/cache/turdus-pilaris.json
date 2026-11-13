@@ -2,7 +2,7 @@
  "key": "turdus-pilaris",
  "name": "Turdus pilaris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:49.487Z",
+ "fetchedAt": "2026-11-13T11:24:23.843Z",
  "names": {
   "da": "Sjagger",
   "en": "Fieldfare",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12707,
-  "observations": 105105
+  "observations": 105973
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 128800277,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128800277/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128800277/large.jpeg",
-   "attribution": "(c) Марина Давлетшина, some rights reserved (CC BY)",
+   "id": 171598598,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171598598/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171598598/large.jpg",
+   "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY), uploaded by Михаил Голомысов",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/78683141",
-   "place": "Москва, Россия, 125171",
-   "date": "2021-05-14"
+   "source": "https://www.inaturalist.org/photos/171598598",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490737,
-  "dkTotal": 261277,
+  "dkTotal": 262761,
   "dkMonths": [
-   52813,
-   33452,
-   25407,
-   26787,
-   11185,
-   5137,
-   2467,
-   2400,
-   4928,
-   27248,
-   35847,
-   33535
+   52849,
+   33569,
+   25464,
+   26843,
+   11209,
+   5145,
+   2470,
+   2396,
+   4931,
+   27939,
+   36219,
+   33656
   ],
-  "worldTotal": 3011424,
+  "worldTotal": 3118854,
   "topCountries": [
    {
     "code": "SE",
-    "count": 869963
+    "count": 879828
    },
    {
     "code": "NO",
-    "count": 492734
+    "count": 500243
    },
    {
     "code": "FI",
-    "count": 331315
+    "count": 363877
    },
    {
     "code": "DK",
-    "count": 261277
+    "count": 262761
    },
    {
     "code": "GB",
-    "count": 181049
+    "count": 199358
    },
    {
     "code": "DE",
-    "count": 170256
+    "count": 175731
    },
    {
     "code": "RU",
-    "count": 144954
+    "count": 148576
    },
    {
     "code": "FR",
-    "count": 139722
+    "count": 141011
    },
    {
     "code": "NL",
-    "count": 110665
+    "count": 112868
    },
    {
     "code": "BE",
-    "count": 65419
-   },
-   {
-    "code": "EE",
-    "count": 37534
+    "count": 67000
    },
    {
     "code": "PL",
-    "count": 35716
+    "count": 48175
+   },
+   {
+    "code": "EE",
+    "count": 38297
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

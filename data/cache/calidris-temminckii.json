@@ -2,7 +2,7 @@
  "key": "calidris-temminckii",
  "name": "Calidris temminckii",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:33.431Z",
+ "fetchedAt": "2026-11-13T11:11:40.718Z",
  "names": {
   "da": "Temmincksryle",
   "en": "Temminck's Stint",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3837,
-  "observations": 8106
+  "observations": 8212
  },
  "photos": {
   "male": [],
@@ -68,22 +68,22 @@
     "date": "2025-08-21"
    },
    {
+    "id": 349324974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349324974/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349324974/large.jpeg",
+    "attribution": "(c) Andrew Simon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198222513",
+    "place": "Татарбунарський район, Одеська область, Україна",
+    "date": "2021-05-09"
+   },
+   {
     "id": 729702362,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729702362/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729702362/large.jpg",
     "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/397829031",
-    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
-    "date": "2026-07-02"
-   },
-   {
-    "id": 729691623,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729691623/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729691623/large.jpg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397822799",
     "place": "Анадырский р-н, Чукотский автономный округ, Россия",
     "date": "2026-07-02"
    }
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 2481740,
-  "dkTotal": 26533,
+  "dkTotal": 26598,
   "dkMonths": [
    1,
    0,
    0,
-   378,
-   12585,
-   207,
-   6357,
-   6870,
-   125,
+   381,
+   12600,
+   208,
+   6382,
+   6889,
+   127,
    9,
    0,
    0
   ],
-  "worldTotal": 354906,
+  "worldTotal": 346029,
   "topCountries": [
    {
     "code": "SE",
-    "count": 129074
+    "count": 129450
    },
    {
     "code": "IN",
-    "count": 50079
+    "count": 39307
    },
    {
     "code": "NO",
-    "count": 28340
+    "count": 28370
    },
    {
     "code": "DK",
-    "count": 26533
+    "count": 26598
    },
    {
     "code": "FI",
-    "count": 13286
-   },
-   {
-    "code": "AE",
-    "count": 9992
+    "count": 14845
    },
    {
     "code": "NL",
-    "count": 9965
+    "count": 10371
+   },
+   {
+    "code": "AE",
+    "count": 9780
    },
    {
     "code": "ES",
-    "count": 9077
+    "count": 8533
    },
    {
     "code": "IL",
-    "count": 7388
+    "count": 6987
    },
    {
     "code": "FR",
-    "count": 6700
+    "count": 6848
    },
    {
     "code": "RU",
-    "count": 5874
+    "count": 5674
    },
    {
-    "code": "TW",
-    "count": 4646
+    "code": "GB",
+    "count": 4874
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "aquila-heliaca",
  "name": "Aquila heliaca",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:22.666Z",
+ "fetchedAt": "2026-11-13T11:29:15.751Z",
  "names": {
   "da": "Kejserørn",
   "en": "Eastern Imperial Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5071,
-  "observations": 6867
+  "observations": 6940
  },
  "photos": {
   "male": [
@@ -109,14 +109,14 @@
    }
   ],
   "hero": {
-   "id": 261009460,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261009460/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261009460/large.jpeg",
-   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+   "id": 129874502,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129874502/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/129874502/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY), uploaded by Andrew Bazdyrev",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/151286730",
-   "place": "`Asir, SA",
-   "date": "2023-02-24"
+   "source": "https://www.inaturalist.org/photos/129874502",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,57 +136,58 @@
    0,
    9
   ],
-  "worldTotal": 58700,
+  "worldTotal": 55483,
   "topCountries": [
    {
     "code": "IN",
-    "count": 10202
+    "count": 8501
    },
    {
     "code": "RU",
-    "count": 8182
+    "count": 8183
    },
    {
     "code": "IL",
-    "count": 6440
+    "count": 6175
    },
    {
     "code": "HU",
-    "count": 4089
+    "count": 4075
    },
    {
     "code": "OM",
-    "count": 3811
-   },
-   {
-    "code": "IR",
-    "count": 2774
+    "count": 3615
    },
    {
     "code": "TR",
-    "count": 2287
+    "count": 2349
    },
    {
     "code": "AT",
-    "count": 2054
+    "count": 2116
    },
    {
     "code": "SE",
-    "count": 2008
+    "count": 2013
    },
    {
-    "code": "KZ",
-    "count": 1404
-   },
-   {
-    "code": "HK",
-    "count": 1399
+    "code": "IR",
+    "count": 1572
    },
    {
     "code": "SK",
-    "count": 1397
+    "count": 1561
+   },
+   {
+    "code": "HK",
+    "count": 1508
+   },
+   {
+    "code": "KZ",
+    "count": 1469
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

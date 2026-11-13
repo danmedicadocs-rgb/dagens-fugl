@@ -2,7 +2,7 @@
  "key": "asio-otus",
  "name": "Asio otus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:46.518Z",
+ "fetchedAt": "2026-11-13T11:17:42.533Z",
  "names": {
   "da": "Skovhornugle",
   "en": "Long-eared Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20307,
-  "observations": 24203
+  "observations": 24437
  },
  "photos": {
   "male": [
@@ -111,72 +111,73 @@
  },
  "gbif": {
   "key": 2497306,
-  "dkTotal": 25393,
+  "dkTotal": 25510,
   "dkMonths": [
-   3422,
-   2655,
-   2926,
+   3434,
+   2660,
+   2925,
    1986,
-   2322,
-   4171,
-   2048,
-   498,
-   345,
-   1433,
-   1813,
-   1672
+   2329,
+   4189,
+   2058,
+   503,
+   350,
+   1481,
+   1820,
+   1673
   ],
-  "worldTotal": 461912,
+  "worldTotal": 470603,
   "topCountries": [
    {
     "code": "SE",
-    "count": 103223
+    "count": 103626
    },
    {
     "code": "NL",
-    "count": 87005
+    "count": 88197
    },
    {
     "code": "FR",
-    "count": 46101
+    "count": 46478
    },
    {
     "code": "FI",
-    "count": 27059
+    "count": 30467
    },
    {
     "code": "DK",
-    "count": 25393
+    "count": 25510
    },
    {
     "code": "BE",
-    "count": 21626
+    "count": 22730
    },
    {
     "code": "ES",
-    "count": 19880
+    "count": 20033
    },
    {
     "code": "CA",
-    "count": 18897
+    "count": 17835
    },
    {
     "code": "DE",
-    "count": 15598
+    "count": 16314
    },
    {
     "code": "NO",
-    "count": 11825
+    "count": 11932
    },
    {
     "code": "RU",
-    "count": 8273
+    "count": 8290
    },
    {
-    "code": "PT",
-    "count": 7347
+    "code": "PL",
+    "count": 8079
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

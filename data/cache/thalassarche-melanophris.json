@@ -2,7 +2,7 @@
  "key": "thalassarche-melanophris",
  "name": "Thalassarche melanophris",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:56.532Z",
+ "fetchedAt": "2026-11-13T11:41:24.439Z",
  "names": {
   "da": "Sortbrynet Albatros",
   "en": "Black-browed Albatross",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144433,
-  "observations": 5520
+  "observations": 5741
  },
  "photos": {
   "male": [],
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 385100153,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385100153/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385100153/large.jpeg",
-   "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/217670248",
-   "place": "Campbell Island Nature Reserve, Campbell Islands, NZ-SO, NZ",
-   "date": "2023-12-23"
+   "id": 181347012,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181347012/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181347012/large.jpeg",
+   "attribution": "no rights reserved, uploaded by steve b",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/181347012",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 317146,
+  "worldTotal": 292234,
   "topCountries": [
    {
     "code": "AU",
-    "count": 67342
+    "count": 62689
    },
    {
     "code": "CL",
-    "count": 55479
+    "count": 47384
    },
    {
     "code": "TF",
-    "count": 30518
+    "count": 30491
    },
    {
     "code": "AQ",
-    "count": 25734
+    "count": 23867
    },
    {
     "code": "HM",
-    "count": 20191
+    "count": 20202
    },
    {
     "code": "AR",
-    "count": 12640
+    "count": 9935
    },
    {
     "code": "NZ",
-    "count": 10570
+    "count": 8344
    },
    {
     "code": "FK",
-    "count": 8809
+    "count": 7630
    },
    {
     "code": "GS",
-    "count": 8793
-   },
-   {
-    "code": "ZZ",
-    "count": 3545
+    "count": 7105
    },
    {
     "code": "ZA",
-    "count": 2877
+    "count": 2629
    },
    {
-    "code": "UY",
-    "count": 1537
+    "code": "ZZ",
+    "count": 2482
+   },
+   {
+    "code": "GB",
+    "count": 1326
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

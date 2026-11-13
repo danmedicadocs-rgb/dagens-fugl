@@ -2,7 +2,7 @@
  "key": "archilochus-colubris",
  "name": "Archilochus colubris",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:41:16.265Z",
+ "fetchedAt": "2026-11-13T11:42:28.106Z",
  "names": {
   "da": "Rubinstrube",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6432,
-  "observations": 103262
+  "observations": 103717
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2020-05-31"
    },
    {
-    "id": 117152054,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117152054/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117152054/large.jpeg",
-    "attribution": "(c) Rebecca Gimenez Husted, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/71909507",
-    "place": "Macon, GA 31217, USA",
-    "date": "2021-03-23"
-   },
-   {
     "id": 237290846,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237290846/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237290846/large.jpg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/138799680",
     "place": "Kings County, NB, Canada",
     "date": "2022-07-30"
+   },
+   {
+    "id": 117152054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117152054/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117152054/large.jpeg",
+    "attribution": "(c) Rebecca Gimenez Husted, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71909507",
+    "place": "Macon, GA 31217, USA",
+    "date": "2021-03-23"
    }
   ],
   "female": [
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 4613529,
+  "worldTotal": 4542060,
   "topCountries": [
    {
     "code": "US",
-    "count": 3968661
+    "count": 3939591
    },
    {
     "code": "CA",
-    "count": 542115
+    "count": 526203
    },
    {
     "code": "MX",
-    "count": 43352
+    "count": 30858
    },
    {
     "code": "CR",
-    "count": 21493
+    "count": 17291
    },
    {
     "code": "GT",
-    "count": 13551
+    "count": 10215
    },
    {
     "code": "BZ",
-    "count": 8218
+    "count": 5795
    },
    {
     "code": "SV",
-    "count": 5684
+    "count": 4571
    },
    {
     "code": "HN",
-    "count": 4856
+    "count": 3140
    },
    {
     "code": "NI",
-    "count": 3879
+    "count": 2788
    },
    {
     "code": "PA",
-    "count": 531
+    "count": 445
    },
    {
     "code": "BS",
-    "count": 315
+    "count": 297
    },
    {
     "code": "BM",
-    "count": 183
+    "count": 187
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calidris-falcinellus",
  "name": "Calidris falcinellus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:58.341Z",
+ "fetchedAt": "2026-11-13T11:12:03.744Z",
  "names": {
   "da": "Kærløber",
   "en": "Broad-billed Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 339594,
-  "observations": 2014
+  "observations": 2043
  },
  "photos": {
   "male": [],
@@ -37,84 +37,85 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 226953736,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226953736/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226953736/large.jpeg",
-   "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+   "id": 341469960,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341469960/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341469960/large.jpeg",
+   "attribution": "(c) Alidz31, some rights reserved (CC BY), uploaded by Alidz31",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/133257238",
-   "place": "Βόια 230 53, Ελλάδα",
-   "date": "2022-08-31"
+   "source": "https://www.inaturalist.org/photos/341469960",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 7537888,
-  "dkTotal": 7437,
+  "dkTotal": 7468,
   "dkMonths": [
    1,
    0,
    0,
    0,
-   2489,
+   2498,
    306,
-   2255,
-   2134,
-   248,
+   2265,
+   2143,
+   251,
    3,
    0,
    0
   ],
-  "worldTotal": 122434,
+  "worldTotal": 118391,
   "topCountries": [
    {
     "code": "SE",
-    "count": 50224
-   },
-   {
-    "code": "TW",
-    "count": 7646
+    "count": 50111
    },
    {
     "code": "DK",
-    "count": 7437
+    "count": 7468
    },
    {
-    "code": "TH",
-    "count": 6139
-   },
-   {
-    "code": "AU",
-    "count": 5939
+    "code": "TW",
+    "count": 6435
    },
    {
     "code": "NL",
-    "count": 5862
+    "count": 5883
    },
    {
-    "code": "NO",
-    "count": 4136
+    "code": "AU",
+    "count": 5495
+   },
+   {
+    "code": "TH",
+    "count": 5066
    },
    {
     "code": "FI",
-    "count": 3792
+    "count": 4656
+   },
+   {
+    "code": "NO",
+    "count": 4192
    },
    {
     "code": "CN",
-    "count": 3660
+    "count": 3632
    },
    {
     "code": "IN",
-    "count": 3648
+    "count": 2566
    },
    {
     "code": "IL",
-    "count": 2578
+    "count": 2157
    },
    {
     "code": "EE",
-    "count": 1435
+    "count": 1525
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

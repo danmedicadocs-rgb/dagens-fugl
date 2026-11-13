@@ -2,7 +2,7 @@
  "key": "pitangus-sulphuratus",
  "name": "Pitangus sulphuratus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:52.647Z",
+ "fetchedAt": "2026-11-13T11:48:18.989Z",
  "names": {
   "da": "Kiskadie",
   "en": "Great Kiskadee",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 16956,
-  "observations": 85290
+  "observations": 86522
  },
  "photos": {
   "male": [
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 2749389,
+  "worldTotal": 2442217,
   "topCountries": [
    {
     "code": "BR",
-    "count": 512950
+    "count": 530615
    },
    {
     "code": "CR",
-    "count": 423102
-   },
-   {
-    "code": "US",
-    "count": 324094
+    "count": 362389
    },
    {
     "code": "AR",
-    "count": 300581
+    "count": 278435
    },
    {
-    "code": "CO",
-    "count": 283232
+    "code": "US",
+    "count": 266815
    },
    {
     "code": "MX",
-    "count": 281841
+    "count": 242415
+   },
+   {
+    "code": "CO",
+    "count": 240653
    },
    {
     "code": "BZ",
-    "count": 115252
+    "count": 94649
    },
    {
     "code": "VE",
-    "count": 80068
+    "count": 73266
    },
    {
     "code": "PA",
-    "count": 75090
+    "count": 61564
    },
    {
     "code": "UY",
-    "count": 53025
+    "count": 46651
    },
    {
     "code": "HN",
-    "count": 50302
+    "count": 35291
    },
    {
-    "code": "GT",
-    "count": 34693
+    "code": "NI",
+    "count": 27992
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

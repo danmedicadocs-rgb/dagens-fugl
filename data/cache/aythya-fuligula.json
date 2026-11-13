@@ -2,7 +2,7 @@
  "key": "aythya-fuligula",
  "name": "Aythya fuligula",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:48.317Z",
+ "fetchedAt": "2026-11-13T11:04:21.980Z",
  "names": {
   "da": "Troldand",
   "en": "Tufted Duck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7046,
-  "observations": 87001
+  "observations": 88280
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2017-01-23"
    },
    {
-    "id": 113803721,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113803721/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113803721/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70050197",
-    "place": "Brest, France",
-    "date": "2021-02-22"
-   },
-   {
     "id": 6548618,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6548618/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6548618/large.jpg",
@@ -52,18 +42,28 @@
     "source": "https://www.inaturalist.org/observations/5292868",
     "place": "Hellusund 101 Reykjavík",
     "date": "2017-03-12"
+   },
+   {
+    "id": 113803721,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113803721/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113803721/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70050197",
+    "place": "Brest, France",
+    "date": "2021-02-22"
    }
   ],
   "female": [
    {
-    "id": 267630259,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267630259/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267630259/large.jpeg",
-    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/154865885",
-    "place": "77977 Rust, Németország",
-    "date": "2023-04-14"
+    "id": 157915494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157915494/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157915494/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/95141983",
+    "place": "190 12 Praha-Praha-Dolní Počernice, Česko",
+    "date": "2021-08-20"
    },
    {
     "id": 518725906,
@@ -76,14 +76,14 @@
     "date": "2025-06-09"
    },
    {
-    "id": 625357943,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625357943/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625357943/large.jpg",
-    "attribution": "(c) Jiao Sun (孙娇), some rights reserved (CC BY)",
+    "id": 558191744,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191744/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558191744/large.jpg",
+    "attribution": "(c) jonsense, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/343316924",
-    "place": "Reading, UK",
-    "date": "2026-02-28"
+    "source": "https://www.inaturalist.org/observations/309346711",
+    "place": "Östermalm, Stockholm, Sweden",
+    "date": "2025-08-26"
    }
   ],
   "juvenile": [
@@ -108,95 +108,96 @@
     "date": "2026-09-23"
    },
    {
-    "id": 537559319,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537559319/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537559319/large.jpg",
+    "id": 537141357,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537141357/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537141357/large.jpg",
     "attribution": "no rights reserved",
     "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/298434207",
-    "place": "Marks & Spencer, London, England, GB",
-    "date": "2025-07-16"
+    "source": "https://www.inaturalist.org/observations/298216743",
+    "place": "London W2 1AS, UK",
+    "date": "2025-07-15"
    }
   ],
   "hero": {
-   "id": 6104379,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6104379/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6104379/large.jpeg",
-   "attribution": "(c) alicia penney, some rights reserved (CC BY)",
+   "id": 6183058,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6183058/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6183058/large.jpg",
+   "attribution": "(c) Katja Schulz, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/4995159",
-   "place": "Glace Bay Harbour, NS B1A, Canada",
-   "date": "2017-01-23"
+   "source": "https://www.inaturalist.org/photos/6183058",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498261,
-  "dkTotal": 411311,
+  "dkTotal": 413743,
   "dkMonths": [
-   46477,
-   42823,
-   61722,
-   62355,
-   37268,
-   23022,
-   22279,
-   19657,
-   19073,
-   24420,
-   24907,
-   27167
+   46612,
+   42936,
+   61911,
+   62527,
+   37384,
+   23114,
+   22346,
+   19698,
+   19142,
+   25474,
+   25161,
+   27297
   ],
-  "worldTotal": 3988672,
+  "worldTotal": 4126368,
   "topCountries": [
    {
     "code": "NL",
-    "count": 856671
+    "count": 872065
    },
    {
     "code": "SE",
-    "count": 793629
+    "count": 798943
    },
    {
     "code": "GB",
-    "count": 575925
+    "count": 651872
    },
    {
     "code": "DK",
-    "count": 411311
+    "count": 413743
    },
    {
     "code": "NO",
-    "count": 269294
+    "count": 272376
    },
    {
     "code": "BE",
-    "count": 214579
+    "count": 217173
    },
    {
     "code": "DE",
-    "count": 189870
+    "count": 198959
    },
    {
     "code": "FR",
-    "count": 150419
+    "count": 154508
    },
    {
     "code": "FI",
-    "count": 48490
+    "count": 60249
    },
    {
     "code": "JP",
-    "count": 42974
+    "count": 46937
    },
    {
     "code": "RU",
-    "count": 40181
+    "count": 40784
    },
    {
-    "code": "TW",
-    "count": 34942
+    "code": "PL",
+    "count": 33492
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

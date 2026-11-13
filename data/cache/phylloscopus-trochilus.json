@@ -2,7 +2,7 @@
  "key": "phylloscopus-trochilus",
  "name": "Phylloscopus trochilus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:46.612Z",
+ "fetchedAt": "2026-11-13T11:21:41.801Z",
  "names": {
   "da": "Løvsanger",
   "en": "Willow Warbler",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 117055,
-  "observations": 35211
+  "observations": 35417
  },
  "photos": {
   "male": [
-   {
-    "id": 493836759,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/274736928",
-    "place": "Montrose DD10 9TN, UK",
-    "date": "2025-04-27"
-   },
    {
     "id": 500830340,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500830340/medium.jpeg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/278912864",
     "place": "Карабаш, Челябинская обл., Россия",
     "date": "2025-05-06"
+   },
+   {
+    "id": 493836759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/274736928",
+    "place": "Montrose DD10 9TN, UK",
+    "date": "2025-04-27"
    },
    {
     "id": 54719902,
@@ -99,84 +99,85 @@
    }
   ],
   "hero": {
-   "id": 493836759,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/274736928",
-   "place": "Montrose DD10 9TN, UK",
-   "date": "2025-04-27"
+   "id": 15234859,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15234859/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15234859/large.jpg",
+   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/15234859",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493052,
-  "dkTotal": 233147,
+  "dkTotal": 233599,
   "dkMonths": [
    0,
    3,
    8,
-   52953,
-   89069,
-   38410,
-   13212,
-   25179,
-   13531,
-   647,
-   23,
+   53142,
+   89242,
+   38511,
+   13245,
+   25118,
+   13542,
+   653,
+   24,
    4
   ],
-  "worldTotal": 5171978,
+  "worldTotal": 5268186,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1679332
+    "count": 1684653
    },
    {
     "code": "FI",
-    "count": 1091908
+    "count": 1121640
    },
    {
     "code": "NO",
-    "count": 388256
+    "count": 392807
    },
    {
     "code": "ES",
-    "count": 341557
+    "count": 341592
    },
    {
     "code": "NL",
-    "count": 333053
+    "count": 336293
    },
    {
     "code": "GB",
-    "count": 299070
+    "count": 332577
    },
    {
     "code": "DK",
-    "count": 233147
+    "count": 233599
    },
    {
     "code": "FR",
-    "count": 178248
+    "count": 180640
    },
    {
     "code": "DE",
-    "count": 78344
+    "count": 83013
    },
    {
     "code": "BE",
-    "count": 68553
+    "count": 71424
    },
    {
     "code": "PL",
-    "count": 55793
+    "count": 62621
    },
    {
     "code": "ZA",
-    "count": 51979
+    "count": 51997
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

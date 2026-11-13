@@ -2,7 +2,7 @@
  "key": "emberiza-pusilla",
  "name": "Emberiza pusilla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:41.289Z",
+ "fetchedAt": "2026-11-13T11:28:40.373Z",
  "names": {
   "da": "Dværgværling",
   "en": "Little Bunting",
@@ -19,69 +19,28 @@
  },
  "inat": {
   "id": 9197,
-  "observations": 4557
+  "observations": 0
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [
-   {
-    "id": 240576833,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240576833/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240576833/large.jpeg",
-    "attribution": "(c) Лия, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/140536044",
-    "place": "г. Норильск, Красноярский край, Россия",
-    "date": "2013-06-23"
-   }
-  ],
-  "adult": [
-   {
-    "id": 739767677,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/402942023",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2026-09-24"
-   },
-   {
-    "id": 34281217,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34281217/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34281217/large.jpeg",
-    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/22144892",
-    "place": "Лунцюаньи, Чэнду, Сычуань, Китай",
-    "date": "2019-03-21"
-   },
-   {
-    "id": 438626201,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438626201/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438626201/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/245769446",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2024-10-05"
-   }
-  ],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
   "hero": {
-   "id": 739767677,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739767677/large.jpg",
-   "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+   "id": 2619240,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2619240/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2619240/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/402942023",
-   "place": "Карабаш, Челябинская обл., Россия",
-   "date": "2026-09-24"
+   "source": "https://www.inaturalist.org/photos/2619240",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2491544,
-  "dkTotal": 1180,
+  "dkTotal": 1183,
   "dkMonths": [
    34,
    1,
@@ -92,61 +51,62 @@
    0,
    0,
    158,
-   575,
-   233,
+   580,
+   231,
    98
   ],
-  "worldTotal": 90907,
+  "worldTotal": 88624,
   "topCountries": [
    {
     "code": "CN",
-    "count": 18698
+    "count": 22018
    },
    {
     "code": "TW",
-    "count": 16453
+    "count": 11749
    },
    {
     "code": "SE",
-    "count": 9045
+    "count": 9086
    },
    {
     "code": "NL",
-    "count": 8597
-   },
-   {
-    "code": "IN",
-    "count": 5224
+    "count": 8839
    },
    {
     "code": "HK",
-    "count": 4348
+    "count": 4692
+   },
+   {
+    "code": "IN",
+    "count": 4241
    },
    {
     "code": "NO",
-    "count": 3873
+    "count": 3916
    },
    {
     "code": "FI",
-    "count": 3260
+    "count": 3654
    },
    {
     "code": "RU",
-    "count": 2909
+    "count": 2822
    },
    {
     "code": "GB",
-    "count": 2602
-   },
-   {
-    "code": "MN",
-    "count": 2505
+    "count": 2737
    },
    {
     "code": "KR",
-    "count": 2241
+    "count": 2695
+   },
+   {
+    "code": "MN",
+    "count": 1829
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

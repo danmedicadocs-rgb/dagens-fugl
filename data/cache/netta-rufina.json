@@ -2,7 +2,7 @@
  "key": "netta-rufina",
  "name": "Netta rufina",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:38.244Z",
+ "fetchedAt": "2026-11-13T11:04:12.677Z",
  "names": {
   "da": "Rødhovedet and",
   "en": "Red-crested Pochard",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7122,
-  "observations": 21679
+  "observations": 21882
  },
  "photos": {
   "male": [
@@ -37,21 +37,21 @@
     "id": 468495210,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468495210/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468495210/large.jpeg",
-    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "attribution": "(c) liam0066, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/260844611",
     "place": "Oxfordshire, UK",
     "date": "2025-02-05"
    },
    {
-    "id": 640858970,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/640858970/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/640858970/large.jpg",
-    "attribution": "(c) Антон Лабачоў, some rights reserved (CC BY)",
+    "id": 188592265,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188592265/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188592265/large.jpeg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/351205114",
-    "place": "Засвияжский р-н, Ульяновск, Ульяновская обл., Россия",
-    "date": "2026-04-15"
+    "source": "https://www.inaturalist.org/observations/111699785",
+    "place": "Genève, CH-GE-GE, CH",
+    "date": "2022-04-15"
    }
   ],
   "female": [
@@ -76,14 +76,14 @@
     "date": "2025-02-24"
    },
    {
-    "id": 510827376,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510827376/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510827376/large.jpg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "id": 663773794,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/663773794/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/663773794/large.jpg",
+    "attribution": "(c) Paul Lewis, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/284250681",
-    "place": "Jiayuguan, Jiayuguan City, Gansu, China",
-    "date": "2025-05-26"
+    "source": "https://www.inaturalist.org/observations/363624138",
+    "place": "Harefield, UK",
+    "date": "2026-05-21"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498180,
-  "dkTotal": 9657,
+  "dkTotal": 9642,
   "dkMonths": [
-   456,
-   994,
-   1477,
-   1439,
-   1435,
+   451,
+   993,
+   1474,
+   1436,
+   1428,
    1000,
-   626,
+   623,
    567,
-   384,
-   553,
-   435,
+   383,
+   560,
+   436,
    269
   ],
-  "worldTotal": 431839,
+  "worldTotal": 439635,
   "topCountries": [
    {
     "code": "NL",
-    "count": 88444
+    "count": 89789
    },
    {
     "code": "ES",
-    "count": 77047
+    "count": 75710
    },
    {
     "code": "FR",
-    "count": 63850
+    "count": 65906
    },
    {
     "code": "DE",
-    "count": 29173
+    "count": 30888
    },
    {
     "code": "GB",
-    "count": 26046
-   },
-   {
-    "code": "IN",
-    "count": 24723
+    "count": 29020
    },
    {
     "code": "CH",
-    "count": 20246
+    "count": 23157
+   },
+   {
+    "code": "IN",
+    "count": 21327
    },
    {
     "code": "SE",
-    "count": 10807
-   },
-   {
-    "code": "PT",
-    "count": 10027
-   },
-   {
-    "code": "DK",
-    "count": 9657
+    "count": 10879
    },
    {
     "code": "AT",
-    "count": 9488
+    "count": 10170
+   },
+   {
+    "code": "DK",
+    "count": 9642
+   },
+   {
+    "code": "PT",
+    "count": 9126
    },
    {
     "code": "BE",
-    "count": 8583
+    "count": 8657
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

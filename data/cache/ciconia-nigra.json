@@ -2,7 +2,7 @@
  "key": "ciconia-nigra",
  "name": "Ciconia nigra",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:56.537Z",
+ "fetchedAt": "2026-11-13T11:07:47.990Z",
  "names": {
   "da": "Sort stork",
   "en": "Black Stork",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4736,
-  "observations": 13602
+  "observations": 13718
  },
  "photos": {
   "male": [
@@ -100,72 +100,73 @@
  },
  "gbif": {
   "key": 2481909,
-  "dkTotal": 2499,
+  "dkTotal": 2496,
   "dkMonths": [
    1,
    0,
    3,
-   187,
+   186,
    439,
-   408,
+   407,
    376,
    899,
-   168,
+   167,
    2,
    0,
    1
   ],
-  "worldTotal": 414725,
+  "worldTotal": 411524,
   "topCountries": [
    {
     "code": "FR",
-    "count": 48950
+    "count": 49420
    },
    {
     "code": "ES",
-    "count": 44637
+    "count": 42330
    },
    {
     "code": "IL",
-    "count": 29855
+    "count": 29069
    },
    {
     "code": "NL",
-    "count": 26184
+    "count": 26759
    },
    {
     "code": "TR",
-    "count": 22163
+    "count": 21173
    },
    {
     "code": "SA",
-    "count": 18156
+    "count": 18159
    },
    {
     "code": "UA",
-    "count": 14093
-   },
-   {
-    "code": "IN",
-    "count": 13133
+    "count": 14179
    },
    {
     "code": "DE",
-    "count": 12891
+    "count": 13053
    },
    {
     "code": "ZA",
-    "count": 12153
-   },
-   {
-    "code": "ET",
-    "count": 10749
+    "count": 12236
    },
    {
     "code": "PL",
-    "count": 10545
+    "count": 12011
+   },
+   {
+    "code": "IN",
+    "count": 11026
+   },
+   {
+    "code": "ET",
+    "count": 10684
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

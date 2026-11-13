@@ -2,7 +2,7 @@
  "key": "polysticta-stelleri",
  "name": "Polysticta stelleri",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:19.690Z",
+ "fetchedAt": "2026-11-13T11:04:44.507Z",
  "names": {
   "da": "Stellersand",
   "en": "Steller’s Eider",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7164,
-  "observations": 495
+  "observations": 513
  },
  "photos": {
   "male": [
@@ -57,14 +57,14 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 2963206,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/large.jpg",
-   "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
+   "id": 453305254,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453305254/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453305254/large.jpg",
+   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY), uploaded by gwynmwilliams",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/2641198",
-   "place": "North Slope County, US-AK, US",
-   "date": "2015-06-15"
+   "source": "https://www.inaturalist.org/photos/453305254",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -84,27 +84,27 @@
    15,
    34
   ],
-  "worldTotal": 108342,
+  "worldTotal": 105274,
   "topCountries": [
    {
     "code": "US",
-    "count": 81234
+    "count": 78079
    },
    {
     "code": "SE",
-    "count": 13313
+    "count": 13347
    },
    {
     "code": "NO",
-    "count": 8444
+    "count": 8364
    },
    {
     "code": "EE",
-    "count": 1743
+    "count": 1818
    },
    {
     "code": "RU",
-    "count": 1356
+    "count": 1262
    },
    {
     "code": "DK",
@@ -112,29 +112,30 @@
    },
    {
     "code": "FI",
-    "count": 531
+    "count": 662
    },
    {
     "code": "SJ",
-    "count": 189
+    "count": 191
    },
    {
     "code": "NL",
-    "count": 128
+    "count": 129
    },
    {
     "code": "PL",
-    "count": 113
+    "count": 93
+   },
+   {
+    "code": "CA",
+    "count": 84
    },
    {
     "code": "IS",
-    "count": 100
-   },
-   {
-    "code": "DE",
-    "count": 65
+    "count": 76
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

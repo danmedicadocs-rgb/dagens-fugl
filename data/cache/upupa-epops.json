@@ -2,7 +2,7 @@
  "key": "upupa-epops",
  "name": "Upupa epops",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:52.658Z",
+ "fetchedAt": "2026-11-13T11:18:30.173Z",
  "names": {
   "da": "Hærfugl",
   "en": "Eurasian Hoopoe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20969,
-  "observations": 54415
+  "observations": 55071
  },
  "photos": {
   "male": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 370268686,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370268686/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370268686/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/209231854",
-   "place": "4292 Dobri Dol, Bulgaria",
-   "date": "2024-04-24"
+   "id": 498530483,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498530483/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498530483/large.jpg",
+   "attribution": "(c) Birds of Gilgit-Baltistan, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/498530483",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498415,
-  "dkTotal": 2734,
+  "dkTotal": 2741,
   "dkMonths": [
    141,
    203,
    161,
-   807,
-   396,
+   803,
+   394,
    82,
    19,
-   51,
+   52,
    141,
-   371,
-   212,
-   144
+   379,
+   217,
+   143
   ],
-  "worldTotal": 1298023,
+  "worldTotal": 1284398,
   "topCountries": [
    {
     "code": "ES",
-    "count": 328175
+    "count": 331637
    },
    {
     "code": "FR",
-    "count": 188993
+    "count": 191174
    },
    {
     "code": "IN",
-    "count": 186878
+    "count": 162198
    },
    {
     "code": "PT",
-    "count": 100504
+    "count": 97263
    },
    {
     "code": "IL",
-    "count": 57605
+    "count": 58602
    },
    {
     "code": "ZA",
-    "count": 36763
-   },
-   {
-    "code": "AE",
-    "count": 29883
+    "count": 36505
    },
    {
     "code": "CN",
-    "count": 27876
+    "count": 32861
+   },
+   {
+    "code": "AE",
+    "count": 30591
    },
    {
     "code": "TR",
-    "count": 24592
-   },
-   {
-    "code": "TW",
-    "count": 21919
+    "count": 22738
    },
    {
     "code": "TH",
-    "count": 20115
+    "count": 20611
    },
    {
     "code": "GR",
-    "count": 18693
+    "count": 19925
+   },
+   {
+    "code": "TW",
+    "count": 17482
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

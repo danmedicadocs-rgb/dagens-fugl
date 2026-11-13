@@ -2,7 +2,7 @@
  "key": "acrocephalus-arundinaceus",
  "name": "Acrocephalus arundinaceus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:36.121Z",
+ "fetchedAt": "2026-11-13T11:23:16.013Z",
  "names": {
   "da": "Drosselrørsanger",
   "en": "Great Reed Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204456,
-  "observations": 11055
+  "observations": 11098
  },
  "photos": {
   "male": [
@@ -78,84 +78,85 @@
    }
   ],
   "hero": {
-   "id": 127738402,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/large.jpeg",
-   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/78080753",
-   "place": "Ghimbav, Rumänien",
-   "date": "2021-05-09"
+   "id": 195587746,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195587746/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195587746/large.jpg",
+   "attribution": "(c) Tomas Broucek, some rights reserved (CC BY), uploaded by Tomas Broucek",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/195587746",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493128,
-  "dkTotal": 7257,
+  "dkTotal": 7263,
   "dkMonths": [
    0,
    0,
    0,
    33,
-   3750,
+   3755,
    3104,
    289,
    33,
-   9,
+   10,
    3,
    0,
    1
   ],
-  "worldTotal": 439287,
+  "worldTotal": 448889,
   "topCountries": [
    {
     "code": "ES",
-    "count": 106841
+    "count": 105178
    },
    {
     "code": "SE",
-    "count": 66350
+    "count": 66502
    },
    {
     "code": "FR",
-    "count": 41058
+    "count": 41631
    },
    {
     "code": "PL",
-    "count": 34301
+    "count": 40275
    },
    {
     "code": "NL",
-    "count": 23988
+    "count": 24223
    },
    {
     "code": "DE",
-    "count": 18950
+    "count": 20310
    },
    {
     "code": "IL",
-    "count": 10498
-   },
-   {
-    "code": "TR",
-    "count": 9786
+    "count": 9712
    },
    {
     "code": "UA",
-    "count": 8911
+    "count": 9461
    },
    {
-    "code": "GR",
-    "count": 8272
+    "code": "TR",
+    "count": 8497
    },
    {
     "code": "CZ",
-    "count": 7989
+    "count": 8422
    },
    {
-    "code": "BG",
-    "count": 7760
+    "code": "GR",
+    "count": 8282
+   },
+   {
+    "code": "ZA",
+    "count": 7699
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

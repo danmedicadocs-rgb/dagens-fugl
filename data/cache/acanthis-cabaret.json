@@ -2,7 +2,7 @@
  "key": "acanthis-cabaret",
  "name": "Acanthis cabaret",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:25.934Z",
+ "fetchedAt": "2026-11-13T11:27:30.483Z",
  "names": {
   "da": "Lille gråsisken",
   "en": null,
@@ -14,7 +14,7 @@
  "photos": null,
  "gbif": {
   "key": 8732478,
-  "dkTotal": 32747,
+  "dkTotal": 32760,
   "dkMonths": [
    968,
    887,
@@ -25,61 +25,62 @@
    4240,
    1843,
    1285,
-   1565,
-   862,
+   1576,
+   864,
    519
   ],
-  "worldTotal": 234136,
+  "worldTotal": 234461,
   "topCountries": [
    {
     "code": "NO",
-    "count": 63801
+    "count": 63864
    },
    {
     "code": "SE",
-    "count": 61351
+    "count": 61434
    },
    {
     "code": "GB",
-    "count": 35375
+    "count": 35380
    },
    {
     "code": "DK",
-    "count": 32747
+    "count": 32760
    },
    {
     "code": "NL",
-    "count": 11150
+    "count": 11183
    },
    {
     "code": "IE",
-    "count": 8036
+    "count": 8088
    },
    {
     "code": "BE",
-    "count": 6738
+    "count": 6772
    },
    {
     "code": "FI",
-    "count": 6074
+    "count": 6089
    },
    {
     "code": "FR",
-    "count": 3965
+    "count": 3969
    },
    {
     "code": "NZ",
-    "count": 1066
+    "count": 1072
    },
    {
     "code": "DE",
-    "count": 878
+    "count": 895
    },
    {
     "code": "AX",
-    "count": 757
+    "count": 759
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

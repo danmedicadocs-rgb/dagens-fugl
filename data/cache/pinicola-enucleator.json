@@ -2,7 +2,7 @@
  "key": "pinicola-enucleator",
  "name": "Pinicola enucleator",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:04.318Z",
+ "fetchedAt": "2026-11-13T11:27:10.685Z",
  "names": {
   "da": "Krognæb",
   "en": "Pine Grosbeak",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9771,
-  "observations": 15207
+  "observations": 15386
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2025-12-10"
    },
    {
-    "id": 345970875,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345970875/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345970875/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/196499817",
-    "place": "Междуреченск, Кемеровская обл., Россия",
-    "date": "2024-01-13"
+    "id": 603670589,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603670589/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603670589/large.jpg",
+    "attribution": "(c) Вячеслав Шуплецов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/332612340",
+    "place": "Первомайский р-н, Киров, Кировская обл., Россия",
+    "date": "2025-12-29"
    }
   ],
   "juvenile": [
@@ -121,7 +121,7 @@
  },
  "gbif": {
   "key": 2494771,
-  "dkTotal": 1217,
+  "dkTotal": 1216,
   "dkMonths": [
    20,
    1,
@@ -133,60 +133,61 @@
    4,
    0,
    187,
-   928,
+   927,
    66
   ],
-  "worldTotal": 543905,
+  "worldTotal": 513033,
   "topCountries": [
    {
     "code": "CA",
-    "count": 266012
+    "count": 250611
    },
    {
     "code": "US",
-    "count": 149066
+    "count": 131360
    },
    {
     "code": "SE",
-    "count": 78904
+    "count": 79655
    },
    {
     "code": "FI",
-    "count": 27275
+    "count": 28450
    },
    {
     "code": "NO",
-    "count": 14505
+    "count": 14654
    },
    {
     "code": "RU",
-    "count": 4377
+    "count": 4449
    },
    {
     "code": "DK",
-    "count": 1217
+    "count": 1216
    },
    {
     "code": "AX",
-    "count": 523
+    "count": 526
    },
    {
     "code": "EE",
-    "count": 434
+    "count": 437
    },
    {
     "code": "NL",
-    "count": 289
+    "count": 292
    },
    {
     "code": "JP",
-    "count": 218
+    "count": 251
    },
    {
     "code": "PM",
-    "count": 150
+    "count": 166
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "circus-aeruginosus",
  "name": "Circus aeruginosus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:36.740Z",
+ "fetchedAt": "2026-11-13T11:08:22.523Z",
  "names": {
   "da": "Rørhøg",
   "en": "Western Marsh Harrier",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5173,
-  "observations": 67306
+  "observations": 67966
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2023-04-15"
    },
    {
-    "id": 187747340,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187747340/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187747340/large.jpeg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
+    "id": 369608899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369608899/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369608899/large.jpg",
+    "attribution": "(c) Dave, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111231297",
-    "place": "Monmouthshire, UK",
-    "date": "2022-04-12"
+    "source": "https://www.inaturalist.org/observations/208877081",
+    "place": "Tophill Low Nature Reserve, Nature Reserve, Tophill Low, Driffield YO25 9RH, UK",
+    "date": "2024-04-12"
    }
   ],
   "juvenile": [
@@ -108,95 +108,96 @@
     "date": "2026-05-30"
    },
    {
-    "id": 427418251,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/427418251/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/427418251/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "id": 229518401,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229518401/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229518401/large.jpg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/239943462",
-    "place": "Atapuerca, Burgos, España",
-    "date": "2024-08-25"
+    "source": "https://www.inaturalist.org/observations/134634395",
+    "place": "Switzerland",
+    "date": "2022-09-04"
    }
   ],
   "hero": {
-   "id": 283322176,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322176/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322176/large.jpeg",
-   "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+   "id": 121481252,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121481252/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121481252/large.jpg",
+   "attribution": "(c) Artem Kuznetsov, some rights reserved (CC BY), uploaded by Artem Kuznetsov",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/163784184",
-   "place": "RSBP Leighton Moss",
-   "date": "2023-05-15"
+   "source": "https://www.inaturalist.org/photos/121481252",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480482,
-  "dkTotal": 417948,
+  "dkTotal": 419206,
   "dkMonths": [
    296,
-   322,
-   13584,
-   99972,
-   88765,
-   42750,
-   40798,
-   67512,
-   52833,
-   10038,
-   533,
+   321,
+   13622,
+   100172,
+   88927,
+   42896,
+   40912,
+   67648,
+   52985,
+   10341,
+   539,
    237
   ],
-  "worldTotal": 3471406,
+  "worldTotal": 3511556,
   "topCountries": [
    {
     "code": "SE",
-    "count": 705881
+    "count": 707843
    },
    {
     "code": "NL",
-    "count": 437404
+    "count": 452298
    },
    {
     "code": "DK",
-    "count": 417948
+    "count": 419206
    },
    {
     "code": "ES",
-    "count": 336631
-   },
-   {
-    "code": "BE",
-    "count": 199797
+    "count": 329126
    },
    {
     "code": "GB",
-    "count": 192734
+    "count": 221243
+   },
+   {
+    "code": "BE",
+    "count": 201857
    },
    {
     "code": "FR",
-    "count": 188569
+    "count": 192332
    },
    {
     "code": "IN",
-    "count": 108892
+    "count": 86418
    },
    {
     "code": "DE",
-    "count": 73847
+    "count": 77903
    },
    {
     "code": "GE",
-    "count": 64923
+    "count": 64488
    },
    {
     "code": "SN",
-    "count": 61581
+    "count": 61198
    },
    {
-    "code": "PT",
-    "count": 61284
+    "code": "NO",
+    "count": 56794
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

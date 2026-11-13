@@ -2,7 +2,7 @@
  "key": "pygoscelis-adeliae",
  "name": "Pygoscelis adeliae",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:23.498Z",
+ "fetchedAt": "2026-11-13T11:40:55.092Z",
  "names": {
   "da": "Adeliepingvin",
   "en": "Adelie penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3810,
-  "observations": 2334
+  "observations": 2368
  },
  "photos": {
   "male": [],
@@ -95,11 +95,11 @@
    0,
    0
   ],
-  "worldTotal": 197756,
+  "worldTotal": 196980,
   "topCountries": [
    {
     "code": "AQ",
-    "count": 196784
+    "count": 196006
    },
    {
     "code": "AU",
@@ -111,11 +111,11 @@
    },
    {
     "code": "GS",
-    "count": 49
+    "count": 48
    },
    {
     "code": "AR",
-    "count": 22
+    "count": 23
    },
    {
     "code": "NZ",
@@ -147,5 +147,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

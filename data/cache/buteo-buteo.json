@@ -2,7 +2,7 @@
  "key": "buteo-buteo",
  "name": "Buteo buteo",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:02:11.385Z",
+ "fetchedAt": "2026-11-13T11:08:51.603Z",
  "names": {
   "da": "Musvåge",
   "en": "Common Buzzard",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204472,
-  "observations": 172252
+  "observations": 174285
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 295575233,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295575233/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295575233/large.jpeg",
-   "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/170417256",
-   "place": "Parco nazionale della Sila",
-   "date": "2023-06-29"
+   "id": 337150135,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337150135/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337150135/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/337150135",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480537,
-  "dkTotal": 860459,
+  "dkTotal": 866051,
   "dkMonths": [
-   94539,
-   86406,
-   120757,
-   105037,
-   71924,
-   41142,
-   33647,
-   43314,
-   64809,
-   82745,
-   56660,
-   59351
+   94627,
+   86521,
+   120981,
+   105276,
+   72177,
+   41283,
+   33747,
+   43405,
+   65028,
+   86164,
+   57251,
+   59460
   ],
-  "worldTotal": 7696488,
+  "worldTotal": 7952085,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1459593
+    "count": 1499903
    },
    {
     "code": "SE",
-    "count": 1215821
+    "count": 1222796
    },
    {
     "code": "DK",
-    "count": 860459
+    "count": 866051
    },
    {
     "code": "FR",
-    "count": 752796
+    "count": 770057
    },
    {
     "code": "GB",
-    "count": 678711
+    "count": 767440
    },
    {
     "code": "BE",
-    "count": 522016
+    "count": 530083
    },
    {
     "code": "DE",
-    "count": 493193
+    "count": 515407
    },
    {
     "code": "ES",
-    "count": 421773
-   },
-   {
-    "code": "PT",
-    "count": 167149
+    "count": 422542
    },
    {
     "code": "NO",
-    "count": 160223
+    "count": 162053
+   },
+   {
+    "code": "PT",
+    "count": 159812
    },
    {
     "code": "IT",
-    "count": 123863
+    "count": 138993
    },
    {
-    "code": "CZ",
-    "count": 74209
+    "code": "PL",
+    "count": 83168
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

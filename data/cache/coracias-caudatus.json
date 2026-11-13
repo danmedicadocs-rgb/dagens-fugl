@@ -2,7 +2,7 @@
  "key": "coracias-caudatus",
  "name": "Coracias caudatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:50.681Z",
+ "fetchedAt": "2026-11-13T11:32:19.178Z",
  "names": {
   "da": "Lillabrystet Ellekrage",
   "en": "Lilac-breasted Roller",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2269,
-  "observations": 9807
+  "observations": 9999
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 65115306,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/41069048",
-   "place": "Rufiji, Tanzania",
-   "date": "2015-06-25"
+   "id": 175604863,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175604863/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175604863/large.jpeg",
+   "attribution": "(c) Justin Ponder, some rights reserved (CC BY), uploaded by Justin Ponder",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/175604863",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 212256,
+  "worldTotal": 208893,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 103045
+    "count": 102408
    },
    {
     "code": "KE",
-    "count": 28618
+    "count": 27548
    },
    {
     "code": "TZ",
-    "count": 18591
+    "count": 17415
    },
    {
     "code": "NA",
-    "count": 16520
+    "count": 16119
    },
    {
     "code": "BW",
-    "count": 15918
+    "count": 15626
    },
    {
     "code": "ZW",
-    "count": 9319
+    "count": 10217
    },
    {
     "code": "ZM",
-    "count": 6695
+    "count": 7123
    },
    {
     "code": "MZ",
-    "count": 4294
+    "count": 3948
    },
    {
     "code": "UG",
-    "count": 2651
-   },
-   {
-    "code": "ET",
-    "count": 1815
+    "count": 2226
    },
    {
     "code": "MW",
-    "count": 1669
+    "count": 1682
    },
    {
-    "code": "RW",
-    "count": 1080
+    "code": "ET",
+    "count": 1594
+   },
+   {
+    "code": "SZ",
+    "count": 1052
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

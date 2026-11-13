@@ -2,7 +2,7 @@
  "key": "passer-domesticus",
  "name": "Passer domesticus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:22:16.852Z",
+ "fetchedAt": "2026-11-13T11:25:40.538Z",
  "names": {
   "da": "Gråspurv",
   "en": "House Sparrow",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13858,
-  "observations": 574121
+  "observations": 580358
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 212832926,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/large.jpeg",
-   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "id": 136543105,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136543105/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136543105/large.jpeg",
+   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/125500734",
-   "place": "Castle",
-   "date": "2022-07-09"
+   "source": "https://www.inaturalist.org/photos/136543105",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5231190,
-  "dkTotal": 154290,
+  "dkTotal": 155787,
   "dkMonths": [
-   16283,
-   11697,
-   14588,
-   16475,
-   18483,
-   15650,
-   13260,
-   11828,
-   9614,
-   10176,
-   7728,
-   8422
+   16361,
+   11763,
+   14642,
+   16591,
+   18558,
+   15811,
+   13382,
+   11845,
+   9684,
+   10739,
+   7829,
+   8496
   ],
-  "worldTotal": 25932205,
+  "worldTotal": 26330691,
   "topCountries": [
    {
     "code": "US",
-    "count": 13360987
+    "count": 13499621
    },
    {
     "code": "CA",
-    "count": 2080480
+    "count": 2053321
    },
    {
     "code": "ES",
-    "count": 1281441
+    "count": 1324871
    },
    {
     "code": "FR",
-    "count": 1259442
+    "count": 1278687
    },
    {
     "code": "GB",
-    "count": 885654
+    "count": 990024
    },
    {
     "code": "NL",
-    "count": 718022
+    "count": 730099
    },
    {
     "code": "AU",
-    "count": 663477
+    "count": 676790
    },
    {
     "code": "DE",
-    "count": 564327
+    "count": 588769
    },
    {
     "code": "IN",
-    "count": 507682
+    "count": 472715
    },
    {
     "code": "PT",
-    "count": 448008
+    "count": 446712
    },
    {
     "code": "SE",
-    "count": 415301
+    "count": 420548
    },
    {
     "code": "NO",
-    "count": 412467
+    "count": 420009
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

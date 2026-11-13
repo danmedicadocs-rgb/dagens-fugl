@@ -2,7 +2,7 @@
  "key": "burhinus-oedicnemus",
  "name": "Burhinus oedicnemus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:16.788Z",
+ "fetchedAt": "2026-11-13T11:10:38.939Z",
  "names": {
   "da": "Triel",
   "en": "Eurasian Stone-curlew",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4923,
-  "observations": 4617
+  "observations": 4663
  },
  "photos": {
   "male": [
@@ -55,66 +55,67 @@
    0,
    226,
    23,
-   177,
+   176,
    31,
-   107,
+   108,
    118,
    5,
    4,
    4,
    0
   ],
-  "worldTotal": 222818,
+  "worldTotal": 223140,
   "topCountries": [
    {
     "code": "FR",
-    "count": 77030
+    "count": 77956
    },
    {
     "code": "ES",
-    "count": 70824
+    "count": 69969
    },
    {
     "code": "IL",
-    "count": 26296
-   },
-   {
-    "code": "PT",
-    "count": 9826
+    "count": 26306
    },
    {
     "code": "GB",
-    "count": 9441
+    "count": 9443
+   },
+   {
+    "code": "PT",
+    "count": 9323
    },
    {
     "code": "NL",
-    "count": 3756
-   },
-   {
-    "code": "MA",
-    "count": 3519
+    "count": 3776
    },
    {
     "code": "GR",
-    "count": 3344
+    "count": 3387
    },
    {
-    "code": "SE",
-    "count": 2860
+    "code": "MA",
+    "count": 3248
    },
    {
     "code": "IT",
-    "count": 2272
+    "count": 2997
+   },
+   {
+    "code": "SE",
+    "count": 2864
    },
    {
     "code": "CY",
-    "count": 1823
+    "count": 2012
    },
    {
     "code": "TR",
-    "count": 1775
+    "count": 1702
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

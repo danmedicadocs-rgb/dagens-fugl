@@ -2,7 +2,7 @@
  "key": "pycnonotus-jocosus",
  "name": "Pycnonotus jocosus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:34:32.496Z",
+ "fetchedAt": "2026-11-13T11:36:31.896Z",
  "names": {
   "da": "Rødøret Bulbul",
   "en": "Red-whiskered Bulbul",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14591,
-  "observations": 28080
+  "observations": 28522
  },
  "photos": {
   "male": [
@@ -109,14 +109,14 @@
    }
   ],
   "hero": {
-   "id": 604255211,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604255211/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604255211/large.jpg",
-   "attribution": "(c) Edoardo Razzetti, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/332871539",
-   "place": "Àgora, Quatre Carreres, 46013 Valencia, Spagna",
-   "date": "2025-12-30"
+   "id": 120402274,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120402274/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120402274/large.jpg",
+   "attribution": "(c) Zinogre, some rights reserved (CC BY-SA), uploaded by Zinogre",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/120402274",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,57 +136,58 @@
    0,
    0
   ],
-  "worldTotal": 959477,
+  "worldTotal": 863273,
   "topCountries": [
    {
     "code": "IN",
-    "count": 714960
+    "count": 608557
    },
    {
     "code": "AU",
-    "count": 73603
-   },
-   {
-    "code": "US",
-    "count": 60372
+    "count": 73067
    },
    {
     "code": "HK",
-    "count": 53183
+    "count": 59223
+   },
+   {
+    "code": "US",
+    "count": 57284
    },
    {
     "code": "CN",
-    "count": 17113
+    "count": 21602
    },
    {
     "code": "RE",
-    "count": 9135
+    "count": 9588
    },
    {
     "code": "NP",
-    "count": 5869
+    "count": 6971
    },
    {
     "code": "SG",
-    "count": 5228
+    "count": 6017
    },
    {
     "code": "MU",
-    "count": 3309
+    "count": 3847
    },
    {
     "code": "BD",
-    "count": 2636
-   },
-   {
-    "code": "MM",
-    "count": 2219
+    "count": 2607
    },
    {
     "code": "ES",
-    "count": 2041
+    "count": 2547
+   },
+   {
+    "code": "MM",
+    "count": 2468
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

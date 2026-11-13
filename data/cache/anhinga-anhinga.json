@@ -2,7 +2,7 @@
  "key": "anhinga-anhinga",
  "name": "Anhinga anhinga",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:33.167Z",
+ "fetchedAt": "2026-11-13T11:48:52.914Z",
  "names": {
   "da": "Amerikansk Slangehalsfugl",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5063,
-  "observations": 70040
+  "observations": 71048
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 109438323,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109438323/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109438323/large.jpg",
-    "attribution": "(c) Richard Stovall, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67694439",
-    "place": "Orange, Florida, United States",
-    "date": "2021-01-06"
-   },
-   {
     "id": 601975360,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601975360/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601975360/large.jpg",
@@ -74,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/331789866",
     "place": "Barão de Melgaço - State of Mato Grosso, Brazil",
     "date": "2025-08-06"
+   },
+   {
+    "id": 109438323,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109438323/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109438323/large.jpg",
+    "attribution": "(c) Richard Stovall, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67694439",
+    "place": "Orange, Florida, United States",
+    "date": "2021-01-06"
    },
    {
     "id": 612028558,
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 1571216,
+  "worldTotal": 1424122,
   "topCountries": [
    {
     "code": "US",
-    "count": 1333885
+    "count": 1239977
    },
    {
     "code": "CR",
-    "count": 53333
+    "count": 42711
    },
    {
     "code": "MX",
-    "count": 40941
+    "count": 32259
    },
    {
     "code": "BR",
-    "count": 36820
-   },
-   {
-    "code": "BZ",
-    "count": 17180
+    "count": 29578
    },
    {
     "code": "PA",
-    "count": 16211
+    "count": 11628
+   },
+   {
+    "code": "BZ",
+    "count": 11549
    },
    {
     "code": "CO",
-    "count": 14828
+    "count": 10647
    },
    {
     "code": "EC",
-    "count": 9829
+    "count": 8129
    },
    {
     "code": "AR",
-    "count": 9124
+    "count": 7265
    },
    {
     "code": "PE",
-    "count": 6918
+    "count": 5841
    },
    {
     "code": "CU",
-    "count": 4738
+    "count": 3559
    },
    {
-    "code": "VE",
-    "count": 3953
+    "code": "TT",
+    "count": 3275
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

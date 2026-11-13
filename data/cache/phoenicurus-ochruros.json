@@ -2,7 +2,7 @@
  "key": "phoenicurus-ochruros",
  "name": "Phoenicurus ochruros",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:44.947Z",
+ "fetchedAt": "2026-11-13T11:25:13.454Z",
  "names": {
   "da": "Husrødstjert",
   "en": "Black Redstart",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13000,
-  "observations": 98144
+  "observations": 99490
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 5739315,
-  "dkTotal": 59252,
+  "dkTotal": 59303,
   "dkMonths": [
-   1189,
-   749,
-   2504,
-   13425,
-   11120,
-   7778,
-   5128,
-   3457,
-   4252,
-   6411,
-   2344,
-   857
+   1191,
+   752,
+   2500,
+   13392,
+   11091,
+   7780,
+   5115,
+   3425,
+   4268,
+   6521,
+   2372,
+   858
   ],
-  "worldTotal": 2504204,
+  "worldTotal": 2585204,
   "topCountries": [
    {
     "code": "FR",
-    "count": 592609
+    "count": 603099
    },
    {
     "code": "ES",
-    "count": 531294
+    "count": 548275
    },
    {
     "code": "DE",
-    "count": 263369
+    "count": 273601
    },
    {
     "code": "PT",
-    "count": 182409
+    "count": 180600
    },
    {
     "code": "NL",
-    "count": 117325
+    "count": 120253
    },
    {
     "code": "SE",
-    "count": 112415
+    "count": 112906
    },
    {
     "code": "IT",
-    "count": 82252
-   },
-   {
-    "code": "IN",
-    "count": 80576
+    "count": 92022
    },
    {
     "code": "BE",
-    "count": 72828
+    "count": 75699
+   },
+   {
+    "code": "IN",
+    "count": 71120
    },
    {
     "code": "DK",
-    "count": 59252
-   },
-   {
-    "code": "AT",
-    "count": 46339
+    "count": 59303
    },
    {
     "code": "CZ",
-    "count": 45987
+    "count": 51184
+   },
+   {
+    "code": "AT",
+    "count": 48832
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

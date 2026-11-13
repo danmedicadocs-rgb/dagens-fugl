@@ -2,7 +2,7 @@
  "key": "platalea-leucorodia",
  "name": "Platalea leucorodia",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:06.688Z",
+ "fetchedAt": "2026-11-13T11:07:54.107Z",
  "names": {
   "da": "Skestork",
   "en": "Eurasian Spoonbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3731,
-  "observations": 24909
+  "observations": 25238
  },
  "photos": {
   "male": [],
@@ -78,95 +78,96 @@
     "date": "2025-03-04"
    },
    {
-    "id": 254804537,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254804537/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254804537/large.jpg",
-    "attribution": "(c) Victor Brans, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/148022820",
-    "place": "Saint-Quentin-en-Tourmont, France",
-    "date": "2022-07-12"
+    "id": 528284932,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/528284932/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/528284932/large.jpg",
+    "attribution": "(c) Marcello Manara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/293518810",
+    "place": "6880 Tarm, Danimarca",
+    "date": "2025-06-19"
    }
   ],
   "hero": {
-   "id": 675344130,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/large.jpg",
-   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+   "id": 7519861,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7519861/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7519861/large.jpg",
+   "attribution": "(c) Paolo Zucca, some rights reserved (CC BY), uploaded by Paolo Zucca",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/369715703",
-   "place": "Ciudad Real, España",
-   "date": "2026-06-02"
+   "source": "https://www.inaturalist.org/photos/7519861",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480801,
-  "dkTotal": 50505,
+  "dkTotal": 50760,
   "dkMonths": [
    84,
    264,
    2106,
-   5216,
-   10029,
-   7577,
-   10466,
-   9639,
-   4645,
-   212,
-   162,
+   5223,
+   10059,
+   7611,
+   10529,
+   9709,
+   4691,
+   215,
+   164,
    73
   ],
-  "worldTotal": 1347656,
+  "worldTotal": 1349699,
   "topCountries": [
    {
     "code": "NL",
-    "count": 631651
+    "count": 646483
    },
    {
     "code": "ES",
-    "count": 157812
+    "count": 152397
    },
    {
     "code": "FR",
-    "count": 114821
+    "count": 117453
    },
    {
     "code": "BE",
-    "count": 80417
-   },
-   {
-    "code": "IN",
-    "count": 74685
+    "count": 81763
    },
    {
     "code": "PT",
-    "count": 64516
+    "count": 61535
+   },
+   {
+    "code": "IN",
+    "count": 60756
    },
    {
     "code": "DK",
-    "count": 50505
+    "count": 50760
    },
    {
     "code": "GB",
-    "count": 39117
+    "count": 45870
    },
    {
     "code": "IL",
-    "count": 13204
+    "count": 12493
    },
    {
-    "code": "TW",
-    "count": 11574
+    "code": "CN",
+    "count": 9852
    },
    {
     "code": "SE",
-    "count": 9438
+    "count": 9547
    },
    {
-    "code": "DE",
-    "count": 8522
+    "code": "TW",
+    "count": 9339
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

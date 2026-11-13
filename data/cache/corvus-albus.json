@@ -2,7 +2,7 @@
  "key": "corvus-albus",
  "name": "Corvus albus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:51.559Z",
+ "fetchedAt": "2026-11-13T11:35:02.580Z",
  "names": {
   "da": "Broget Krage",
   "en": "Pied Crow",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8038,
-  "observations": 10359
+  "observations": 10558
  },
  "photos": {
   "male": [
@@ -55,16 +55,27 @@
    }
   ],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 334163110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334163110/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334163110/large.jpeg",
+    "attribution": "(c) Jacobus Retief, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/190596319",
+    "place": "Cape Farms, Cape Town, South Africa",
+    "date": "2023-11-10"
+   }
+  ],
   "hero": {
-   "id": 172035484,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172035484/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172035484/large.jpg",
-   "attribution": "no rights reserved",
+   "id": 104475058,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104475058/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104475058/large.jpg",
+   "attribution": "no rights reserved, uploaded by Dave Brown",
    "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/102860794",
-   "place": "Western District, South Africa",
-   "date": "2021-12-02"
+   "source": "https://www.inaturalist.org/photos/104475058",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -84,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 512225,
+  "worldTotal": 508413,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 315446
+    "count": 317160
    },
    {
     "code": "KE",
-    "count": 39947
+    "count": 39722
    },
    {
     "code": "UG",
-    "count": 15701
+    "count": 13918
    },
    {
     "code": "TZ",
-    "count": 14099
-   },
-   {
-    "code": "NA",
-    "count": 13354
-   },
-   {
-    "code": "GH",
-    "count": 12895
+    "count": 13911
    },
    {
     "code": "ZW",
-    "count": 12400
+    "count": 13507
+   },
+   {
+    "code": "NA",
+    "count": 12504
+   },
+   {
+    "code": "GH",
+    "count": 10984
    },
    {
     "code": "GM",
-    "count": 10594
-   },
-   {
-    "code": "MG",
-    "count": 10517
+    "count": 10175
    },
    {
     "code": "NG",
-    "count": 9102
+    "count": 9283
    },
    {
-    "code": "ET",
-    "count": 7466
+    "code": "MG",
+    "count": 8765
    },
    {
     "code": "ZM",
-    "count": 6378
+    "count": 6892
+   },
+   {
+    "code": "ET",
+    "count": 6863
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

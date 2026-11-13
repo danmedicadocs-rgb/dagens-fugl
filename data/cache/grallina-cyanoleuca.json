@@ -2,7 +2,7 @@
  "key": "grallina-cyanoleuca",
  "name": "Grallina cyanoleuca",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:40:20.963Z",
+ "fetchedAt": "2026-11-13T11:41:40.041Z",
  "names": {
   "da": "Skadelærke",
   "en": "Magpie-lark",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8583,
-  "observations": 31069
+  "observations": 31698
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 82608367,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82608367/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82608367/large.jpg",
-    "attribution": "(c) elawrey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/51978085",
-    "place": "Moreton Bay, QLD, AU",
-    "date": "2020-06-12"
-   },
-   {
     "id": 327577276,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327577276/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327577276/large.jpg",
@@ -74,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/187329555",
     "place": "Melbourne VIC, Australia",
     "date": "2023-10-11"
+   },
+   {
+    "id": 82608367,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82608367/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82608367/large.jpg",
+    "attribution": "(c) elawrey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/51978085",
+    "place": "Moreton Bay, QLD, AU",
+    "date": "2020-06-12"
    },
    {
     "id": 278549398,
@@ -108,25 +108,25 @@
     "date": "2023-04-23"
    },
    {
-    "id": 624161399,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624161399/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624161399/large.jpg",
-    "attribution": "(c) Wooden Box, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/342724544",
-    "place": "Gardiners Creek Trail, Ashwood VIC 3147, Australia",
-    "date": "2026-03-13"
+    "id": 253165954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253165954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253165954/large.jpg",
+    "attribution": "(c) Proteros, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147157474",
+    "place": "Sydney NSW, Australia",
+    "date": "2023-01-05"
    }
   ],
   "hero": {
-   "id": 61759280,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61759280/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61759280/large.jpeg",
-   "attribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
+   "id": 327577276,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327577276/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327577276/large.jpg",
+   "attribution": "(c) Thomas Jaeger, some rights reserved (CC BY), uploaded by Thomas Jaeger",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/38822930",
-   "place": "Royal Botanic Garden, Sydney, New South Wales",
-   "date": "2020-02-19"
+   "source": "https://www.inaturalist.org/photos/327577276",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 2084398,
+  "worldTotal": 2129005,
   "topCountries": [
    {
     "code": "AU",
-    "count": 2084068
+    "count": 2128676
    },
    {
     "code": "PG",
-    "count": 30
+    "count": 29
    },
    {
     "code": "US",
@@ -186,5 +186,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

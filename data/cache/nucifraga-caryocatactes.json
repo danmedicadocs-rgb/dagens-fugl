@@ -2,7 +2,7 @@
  "key": "nucifraga-caryocatactes",
  "name": "Nucifraga caryocatactes",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:12.944Z",
+ "fetchedAt": "2026-11-13T11:19:35.022Z",
  "names": {
   "da": "Nøddekrige",
   "en": "Northern Nutcracker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204552,
-  "observations": 10804
+  "observations": 11206
  },
  "photos": {
   "male": [
@@ -80,9 +80,9 @@
  },
  "gbif": {
   "key": 2482613,
-  "dkTotal": 4920,
+  "dkTotal": 5458,
   "dkMonths": [
-   310,
+   309,
    356,
    192,
    148,
@@ -90,62 +90,63 @@
    98,
    174,
    281,
-   1036,
-   1276,
-   694,
-   210
+   1046,
+   1787,
+   713,
+   209
   ],
-  "worldTotal": 364500,
+  "worldTotal": 375260,
   "topCountries": [
    {
     "code": "SE",
-    "count": 166038
+    "count": 167475
    },
    {
     "code": "NO",
-    "count": 55273
+    "count": 56423
    },
    {
     "code": "FI",
-    "count": 29740
+    "count": 31546
    },
    {
     "code": "FR",
-    "count": 28822
+    "count": 29560
    },
    {
     "code": "AT",
-    "count": 15243
+    "count": 15885
    },
    {
     "code": "CH",
-    "count": 10383
-   },
-   {
-    "code": "RU",
-    "count": 8770
-   },
-   {
-    "code": "EE",
-    "count": 8331
+    "count": 11437
    },
    {
     "code": "IT",
-    "count": 8042
+    "count": 9515
+   },
+   {
+    "code": "RU",
+    "count": 9007
+   },
+   {
+    "code": "EE",
+    "count": 8505
    },
    {
     "code": "DE",
-    "count": 5626
+    "count": 6021
    },
    {
     "code": "DK",
-    "count": 4920
+    "count": 5458
    },
    {
     "code": "NL",
-    "count": 4079
+    "count": 4115
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

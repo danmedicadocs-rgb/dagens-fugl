@@ -2,7 +2,7 @@
  "key": "tyto-alba",
  "name": "Tyto alba",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:18.187Z",
+ "fetchedAt": "2026-11-13T11:17:14.847Z",
  "names": {
   "da": "Slørugle",
   "en": "Western Barn Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20445,
-  "observations": 8560
+  "observations": 8694
  },
  "photos": {
   "male": [
@@ -58,16 +58,6 @@
   ],
   "juvenile": [
    {
-    "id": 426443745,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426443745/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426443745/large.jpeg",
-    "attribution": "(c) thecolumbarium, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/239438909",
-    "place": "Wombwell, Barnsley, UK",
-    "date": "2024-07-19"
-   },
-   {
     "id": 393953230,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393953230/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393953230/large.jpeg",
@@ -78,14 +68,24 @@
     "date": "2024-06-12"
    },
    {
-    "id": 654999467,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654999467/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654999467/large.jpg",
-    "attribution": "(c) Nicola Crockford, some rights reserved (CC BY)",
+    "id": 426443745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426443745/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426443745/large.jpeg",
+    "attribution": "(c) thecolumbarium, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/359021600",
-    "place": "Tuddenham playing fields, ramses, Tuddenham, Bury Saint Edmunds IP28 6TB, UK",
-    "date": "2026-05-06"
+    "source": "https://www.inaturalist.org/observations/239438909",
+    "place": "Wombwell, Barnsley, UK",
+    "date": "2024-07-19"
+   },
+   {
+    "id": 751292655,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751292655/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/751292655/large.jpg",
+    "attribution": "(c) Samuel Lüthi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/408685541",
+    "place": null,
+    "date": "2026-06-08"
    }
   ],
   "hero": {
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 2497921,
-  "dkTotal": 5187,
+  "dkTotal": 5232,
   "dkMonths": [
    376,
    292,
    445,
-   420,
-   449,
-   715,
-   715,
-   442,
-   316,
-   413,
-   304,
+   418,
+   448,
+   716,
+   722,
+   443,
+   321,
+   439,
+   312,
    244
   ],
-  "worldTotal": 448057,
+  "worldTotal": 459834,
   "topCountries": [
    {
     "code": "FR",
-    "count": 103501
+    "count": 104116
    },
    {
     "code": "GB",
-    "count": 94175
+    "count": 101323
    },
    {
     "code": "NL",
-    "count": 81367
+    "count": 82463
    },
    {
     "code": "ES",
-    "count": 43047
+    "count": 44203
    },
    {
     "code": "ZA",
-    "count": 33182
+    "count": 33294
    },
    {
     "code": "BE",
-    "count": 13976
+    "count": 14475
    },
    {
     "code": "PT",
-    "count": 10860
+    "count": 10559
    },
    {
     "code": "IL",
-    "count": 8899
-   },
-   {
-    "code": "US",
-    "count": 6329
+    "count": 8764
    },
    {
     "code": "DE",
-    "count": 6149
+    "count": 6420
+   },
+   {
+    "code": "US",
+    "count": 6373
    },
    {
     "code": "DK",
-    "count": 5187
+    "count": 5232
    },
    {
     "code": "IT",
-    "count": 4283
+    "count": 4572
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

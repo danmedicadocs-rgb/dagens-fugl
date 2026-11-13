@@ -2,7 +2,7 @@
  "key": "chrysolophus-pictus",
  "name": "Chrysolophus pictus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:32.831Z",
+ "fetchedAt": "2026-11-13T11:35:36.381Z",
  "names": {
   "da": "Guldfasan",
   "en": "Golden Pheasant",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1230,
-  "observations": 2605
+  "observations": 2674
  },
  "photos": {
   "male": [
@@ -89,19 +89,19 @@
    }
   ],
   "hero": {
-   "id": 577457818,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/large.jpg",
-   "attribution": "(c) Mel Whiting, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/319451772",
-   "place": "Heathcote Valley, Christchurch, New Zealand",
-   "date": "2025-10-01"
+   "id": 249007533,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249007533/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249007533/large.jpg",
+   "attribution": "(c) Thiago Valença, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/249007533",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5228034,
-  "dkTotal": 50,
+  "dkTotal": 51,
   "dkMonths": [
    2,
    1,
@@ -112,55 +112,55 @@
    9,
    2,
    2,
-   3,
+   4,
    1,
    1
   ],
-  "worldTotal": 5614,
+  "worldTotal": 5700,
   "topCountries": [
    {
     "code": "CN",
-    "count": 2081
+    "count": 2065
    },
    {
     "code": "GB",
-    "count": 1406
+    "count": 1528
    },
    {
     "code": "US",
-    "count": 409
+    "count": 376
    },
    {
     "code": "BE",
-    "count": 226
+    "count": 229
    },
    {
     "code": "NL",
-    "count": 198
+    "count": 202
    },
    {
     "code": "NZ",
-    "count": 103
+    "count": 106
    },
    {
     "code": "FR",
     "count": 88
    },
    {
+    "code": "DE",
+    "count": 80
+   },
+   {
     "code": "ZZ",
     "count": 78
    },
    {
-    "code": "DE",
-    "count": 76
-   },
-   {
     "code": "CA",
-    "count": 66
+    "count": 64
    },
    {
     "code": "DK",
-    "count": 50
+    "count": 51
    },
    {
     "code": "SE",
@@ -168,5 +168,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

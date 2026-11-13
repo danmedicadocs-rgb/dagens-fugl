@@ -2,7 +2,7 @@
  "key": "grus-americana",
  "name": "Grus americana",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:59.670Z",
+ "fetchedAt": "2026-11-13T11:45:41.635Z",
  "names": {
   "da": "Trompetértrane",
   "en": "Whooping crane",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 34,
-  "observations": 5029
+  "observations": 5060
  },
  "photos": {
   "male": [
@@ -126,15 +126,15 @@
    0,
    0
   ],
-  "worldTotal": 81646,
+  "worldTotal": 76864,
   "topCountries": [
    {
     "code": "US",
-    "count": 78880
+    "count": 74389
    },
    {
     "code": "CA",
-    "count": 2485
+    "count": 2194
    },
    {
     "code": "ZZ",
@@ -154,5 +154,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

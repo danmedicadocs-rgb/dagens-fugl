@@ -2,7 +2,7 @@
  "key": "phylloscopus-sibilatrix",
  "name": "Phylloscopus sibilatrix",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:41.657Z",
+ "fetchedAt": "2026-11-13T11:21:36.614Z",
  "names": {
   "da": "Skovsanger",
   "en": "Wood Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117048,
-  "observations": 9089
+  "observations": 9118
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2011-05-03"
    },
    {
-    "id": 287052699,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287052699/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287052699/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/165806041",
-    "place": "Parco Nazionale della Sila",
-    "date": "2023-06-05"
+    "id": 653571016,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/653571016/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/653571016/large.jpg",
+    "attribution": "(c) Mykola Borysenko, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/358279989",
+    "place": "Канівський район, Черкаська область, Україна",
+    "date": "2026-05-04"
    }
   ],
   "female": [
@@ -68,84 +68,85 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 131898505,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131898505/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131898505/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/80472487",
-   "place": "RSPB Binn Green, Greenfield, Greater Manchester, UK",
-   "date": "2021-05-27"
+   "id": 231450677,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231450677/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231450677/large.jpg",
+   "attribution": "(c) Steve Garvie, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/231450677",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 8128385,
-  "dkTotal": 32674,
+  "dkTotal": 32615,
   "dkMonths": [
    0,
    0,
    0,
-   3693,
-   19441,
-   6703,
-   869,
-   1765,
-   148,
+   3706,
+   19406,
+   6707,
+   876,
+   1727,
+   138,
    7,
    0,
    1
   ],
-  "worldTotal": 515952,
+  "worldTotal": 530286,
   "topCountries": [
    {
     "code": "SE",
-    "count": 220147
+    "count": 220781
    },
    {
     "code": "FI",
-    "count": 44727
+    "count": 51569
    },
    {
     "code": "FR",
-    "count": 38860
+    "count": 39061
    },
    {
     "code": "DK",
-    "count": 32674
+    "count": 32615
    },
    {
     "code": "NO",
-    "count": 22520
+    "count": 22697
    },
    {
     "code": "GB",
-    "count": 20044
+    "count": 21034
    },
    {
     "code": "RU",
-    "count": 19572
-   },
-   {
-    "code": "EE",
-    "count": 16493
+    "count": 19626
    },
    {
     "code": "DE",
-    "count": 15830
+    "count": 16743
+   },
+   {
+    "code": "EE",
+    "count": 16678
    },
    {
     "code": "PL",
-    "count": 13978
+    "count": 15867
    },
    {
     "code": "NL",
-    "count": 8981
+    "count": 9135
    },
    {
     "code": "ES",
-    "count": 7474
+    "count": 7213
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

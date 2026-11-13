@@ -2,7 +2,7 @@
  "key": "jynx-torquilla",
  "name": "Jynx torquilla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:57.736Z",
+ "fetchedAt": "2026-11-13T11:18:34.716Z",
  "names": {
   "da": "Vendehals",
   "en": "Eurasian Wryneck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18448,
-  "observations": 12217
+  "observations": 12315
  },
  "photos": {
   "male": [
@@ -59,8 +59,8 @@
     "id": 178196399,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178196399/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178196399/large.jpeg",
-    "attribution": "(c) 卢江离, some rights reserved (CC BY)",
-    "license": "cc-by",
+    "attribution": "no rights reserved",
+    "license": "cc0",
     "source": "https://www.inaturalist.org/observations/106113538",
     "place": "Shenzhen, Guangdong, China",
     "date": "2022-02-04"
@@ -111,72 +111,73 @@
  },
  "gbif": {
   "key": 8012314,
-  "dkTotal": 14327,
+  "dkTotal": 14308,
   "dkMonths": [
    2,
    1,
    2,
-   2970,
-   6573,
-   1366,
-   440,
-   1954,
-   798,
-   19,
+   2971,
+   6566,
+   1370,
+   441,
+   1936,
+   797,
+   20,
    4,
    6
   ],
-  "worldTotal": 555629,
+  "worldTotal": 562053,
   "topCountries": [
    {
     "code": "SE",
-    "count": 185066
+    "count": 185327
    },
    {
     "code": "FR",
-    "count": 56631
+    "count": 57099
    },
    {
     "code": "ES",
-    "count": 51558
+    "count": 52374
    },
    {
     "code": "FI",
-    "count": 47146
+    "count": 51365
    },
    {
     "code": "NO",
-    "count": 34847
-   },
-   {
-    "code": "IN",
-    "count": 20724
+    "count": 35073
    },
    {
     "code": "NL",
-    "count": 19810
+    "count": 20429
+   },
+   {
+    "code": "IN",
+    "count": 17005
    },
    {
     "code": "DE",
-    "count": 16029
+    "count": 16695
    },
    {
     "code": "DK",
-    "count": 14327
-   },
-   {
-    "code": "IL",
-    "count": 9361
+    "count": 14308
    },
    {
     "code": "RU",
-    "count": 9320
+    "count": 9199
    },
    {
-    "code": "EE",
-    "count": 7982
+    "code": "PL",
+    "count": 8549
+   },
+   {
+    "code": "IL",
+    "count": 8486
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

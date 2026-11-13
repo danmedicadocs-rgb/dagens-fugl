@@ -2,7 +2,7 @@
  "key": "bostrychia-hagedash",
  "name": "Bostrychia hagedash",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:31.151Z",
+ "fetchedAt": "2026-11-13T11:34:42.283Z",
  "names": {
   "da": "Hadadaibis",
   "en": "Hadada Ibis",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3743,
-  "observations": 15977
+  "observations": 16269
  },
  "photos": {
   "male": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 117467558,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467558/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117467558/large.jpg",
-   "attribution": "(c) Diana Studer, some rights reserved (CC BY)",
+   "id": 50051647,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50051647/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50051647/large.jpeg",
+   "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/72083903",
-   "place": "Fish Hoek, Cape Town, 7975, South Africa",
-   "date": "2021-03-26"
+   "source": "https://www.inaturalist.org/photos/50051647",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 662859,
+  "worldTotal": 664796,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 532421
+    "count": 537744
    },
    {
     "code": "KE",
-    "count": 51602
+    "count": 50519
    },
    {
     "code": "UG",
-    "count": 22561
+    "count": 20679
    },
    {
     "code": "TZ",
-    "count": 11186
+    "count": 10696
    },
    {
     "code": "ZM",
-    "count": 6135
-   },
-   {
-    "code": "RW",
-    "count": 5557
+    "count": 6387
    },
    {
     "code": "ZW",
-    "count": 5086
+    "count": 5529
+   },
+   {
+    "code": "RW",
+    "count": 5238
    },
    {
     "code": "BW",
-    "count": 4968
+    "count": 5151
    },
    {
     "code": "SZ",
-    "count": 3816
+    "count": 3804
    },
    {
     "code": "ET",
-    "count": 3670
+    "count": 3330
    },
    {
     "code": "MZ",
-    "count": 2376
+    "count": 2077
    },
    {
-    "code": "GH",
-    "count": 1744
+    "code": "NA",
+    "count": 1730
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

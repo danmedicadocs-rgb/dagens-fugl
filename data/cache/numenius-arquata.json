@@ -2,7 +2,7 @@
  "key": "numenius-arquata",
  "name": "Numenius arquata",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:57.750Z",
+ "fetchedAt": "2026-11-13T11:12:51.667Z",
  "names": {
   "da": "Storspove",
   "en": "Eurasian Curlew",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3896,
-  "observations": 30263
+  "observations": 30770
  },
  "photos": {
   "male": [],
@@ -88,84 +88,85 @@
    }
   ],
   "hero": {
-   "id": 60541594,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60541594/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60541594/large.jpg",
-   "attribution": "(c) William Stephens, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/38120832",
-   "place": "Muharraq, Bahrain",
-   "date": "2017-02-11"
+   "id": 52695454,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52695454/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52695454/large.jpg",
+   "attribution": "(c) Joanne Goldby, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/52695454",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481792,
-  "dkTotal": 247046,
+  "dkTotal": 248617,
   "dkMonths": [
-   18341,
-   14054,
-   21986,
-   31748,
-   14856,
-   16436,
-   29325,
-   33242,
-   21262,
-   19735,
-   13854,
-   11971
+   18359,
+   14088,
+   22017,
+   31802,
+   14884,
+   16489,
+   29390,
+   33374,
+   21373,
+   20582,
+   14028,
+   11995
   ],
-  "worldTotal": 2543938,
+  "worldTotal": 2689091,
   "topCountries": [
    {
     "code": "SE",
-    "count": 529788
+    "count": 531329
    },
    {
     "code": "GB",
-    "count": 437686
+    "count": 489851
    },
    {
     "code": "NL",
-    "count": 382344
+    "count": 417999
    },
    {
     "code": "DK",
-    "count": 247046
+    "count": 248617
    },
    {
     "code": "NO",
-    "count": 238119
+    "count": 240971
    },
    {
     "code": "FR",
-    "count": 142483
+    "count": 147775
    },
    {
     "code": "BE",
-    "count": 122566
+    "count": 144713
    },
    {
     "code": "FI",
-    "count": 68720
+    "count": 81833
    },
    {
     "code": "ES",
-    "count": 61104
+    "count": 70152
    },
    {
     "code": "DE",
-    "count": 38406
+    "count": 41499
    },
    {
     "code": "IE",
-    "count": 33771
+    "count": 36496
    },
    {
-    "code": "IN",
-    "count": 26161
+    "code": "PT",
+    "count": 20256
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "lophophanes-cristatus",
  "name": "Lophophanes cristatus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:18.385Z",
+ "fetchedAt": "2026-11-13T11:20:25.445Z",
  "names": {
   "da": "Topmejse",
   "en": "European Crested Tit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144830,
-  "observations": 18371
+  "observations": 18634
  },
  "photos": {
   "male": [
@@ -47,6 +47,16 @@
     "date": "2024-05-04"
    },
    {
+    "id": 683555205,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/683555205/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/683555205/large.jpg",
+    "attribution": "(c) Echo Severs, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/374002044",
+    "place": "31752 Urrotz, Nafarroa, Spain",
+    "date": "2026-06-21"
+   },
+   {
     "id": 384783937,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384783937/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384783937/large.jpeg",
@@ -58,84 +68,85 @@
    }
   ],
   "hero": {
-   "id": 488783906,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/large.jpeg",
-   "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/271717631",
-   "place": "Сосницький район, Чернігівська область, Україна",
-   "date": "2025-04-20"
+   "id": 90842308,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90842308/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90842308/large.jpeg",
+   "attribution": "(c) Ken Billington, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/90842308",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2487883,
-  "dkTotal": 50934,
+  "dkTotal": 51609,
   "dkMonths": [
-   4830,
-   4274,
-   5808,
-   5940,
-   4715,
-   2846,
-   2999,
-   3122,
-   3848,
-   5895,
-   3551,
-   3070
+   4853,
+   4290,
+   5812,
+   5948,
+   4740,
+   2892,
+   3018,
+   3149,
+   3902,
+   6254,
+   3622,
+   3093
   ],
-  "worldTotal": 1305011,
+  "worldTotal": 1350401,
   "topCountries": [
    {
     "code": "SE",
-    "count": 290489
+    "count": 292927
    },
    {
     "code": "FR",
-    "count": 217116
+    "count": 221793
    },
    {
     "code": "ES",
-    "count": 139878
+    "count": 143710
    },
    {
     "code": "NL",
-    "count": 132172
+    "count": 135989
    },
    {
     "code": "FI",
-    "count": 121190
+    "count": 134395
    },
    {
     "code": "DE",
-    "count": 80559
+    "count": 84099
    },
    {
     "code": "NO",
-    "count": 73048
+    "count": 74256
    },
    {
     "code": "DK",
-    "count": 50934
+    "count": 51609
    },
    {
     "code": "BE",
-    "count": 43577
+    "count": 45431
    },
    {
     "code": "PT",
-    "count": 39880
+    "count": 39115
    },
    {
     "code": "PL",
-    "count": 30574
+    "count": 33566
    },
    {
-    "code": "EE",
-    "count": 12474
+    "code": "IT",
+    "count": 13148
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

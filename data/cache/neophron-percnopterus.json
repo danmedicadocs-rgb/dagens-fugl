@@ -2,7 +2,7 @@
  "key": "neophron-percnopterus",
  "name": "Neophron percnopterus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:12.867Z",
+ "fetchedAt": "2026-11-13T11:29:06.660Z",
  "names": {
   "da": "Ådselgrib",
   "en": "Egyptian Vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5361,
-  "observations": 7550
+  "observations": 7595
  },
  "photos": {
   "male": [
@@ -68,26 +68,26 @@
    }
   ],
   "hero": {
-   "id": 120870350,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120870350/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120870350/large.jpg",
-   "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/73988635",
-   "place": "Las Palmas, ES-CN, ES",
-   "date": "2008-03-07"
+   "id": 139303350,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139303350/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139303350/large.jpeg",
+   "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA), uploaded by Kudaibergen Amirekul",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/139303350",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480696,
-  "dkTotal": 64,
+  "dkTotal": 67,
   "dkMonths": [
    0,
    0,
    0,
    1,
    12,
-   48,
+   51,
    0,
    2,
    0,
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 194151,
+  "worldTotal": 183627,
   "topCountries": [
    {
     "code": "ES",
-    "count": 85477
+    "count": 82549
    },
    {
     "code": "IN",
-    "count": 40873
+    "count": 34265
    },
    {
     "code": "FR",
-    "count": 14425
+    "count": 14488
    },
    {
     "code": "IL",
-    "count": 14306
+    "count": 13805
    },
    {
     "code": "PT",
-    "count": 7659
+    "count": 7005
    },
    {
     "code": "AE",
-    "count": 5550
+    "count": 5516
    },
    {
     "code": "TR",
-    "count": 4097
+    "count": 3835
    },
    {
     "code": "NP",
-    "count": 2591
+    "count": 3032
    },
    {
     "code": "OM",
-    "count": 2461
+    "count": 2450
    },
    {
     "code": "BG",
-    "count": 1895
+    "count": 1864
    },
    {
     "code": "GE",
-    "count": 1747
+    "count": 1672
    },
    {
-    "code": "ET",
-    "count": 1274
+    "code": "AM",
+    "count": 1248
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

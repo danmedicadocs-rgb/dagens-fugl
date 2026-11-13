@@ -2,7 +2,7 @@
  "key": "regulus-ignicapilla",
  "name": "Regulus ignicapilla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:47.869Z",
+ "fetchedAt": "2026-11-13T11:20:07.134Z",
  "names": {
   "da": "Rødtoppet fuglekonge",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117097,
-  "observations": 15061
+  "observations": 15262
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2021-10-27"
    },
    {
-    "id": 597273771,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597273771/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597273771/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/329494403",
-    "place": "Nunnery Lakes",
-    "date": "2017-10-27"
+    "id": 602706953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602706953/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602706953/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/332143560",
+    "place": "Temple Ewell, Dover, UK",
+    "date": "2025-12-26"
    }
   ],
   "female": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 166132319,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166132319/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166132319/large.jpeg",
-   "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
+   "id": 115614247,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115614247/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115614247/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/99633716",
-   "place": "Muttenz, Switzerland",
-   "date": "2021-10-27"
+   "source": "https://www.inaturalist.org/photos/115614247",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 6093527,
-  "dkTotal": 19855,
+  "dkTotal": 20100,
   "dkMonths": [
-   679,
-   471,
-   2557,
-   4901,
-   2564,
-   1359,
-   384,
-   274,
+   684,
+   476,
+   2549,
+   4882,
+   2562,
+   1369,
+   386,
+   279,
+   1133,
+   4031,
    1127,
-   3833,
-   1091,
-   605
+   612
   ],
-  "worldTotal": 872509,
+  "worldTotal": 921852,
   "topCountries": [
    {
     "code": "FR",
-    "count": 233975
+    "count": 241305
    },
    {
     "code": "ES",
-    "count": 194543
+    "count": 204539
    },
    {
     "code": "NL",
-    "count": 137983
+    "count": 141937
    },
    {
     "code": "PT",
-    "count": 52652
-   },
-   {
-    "code": "SE",
-    "count": 43783
+    "count": 53723
    },
    {
     "code": "DE",
-    "count": 40591
+    "count": 45600
    },
    {
     "code": "GB",
-    "count": 36213
+    "count": 44392
    },
    {
-    "code": "BE",
-    "count": 25889
+    "code": "SE",
+    "count": 44378
    },
    {
     "code": "IT",
-    "count": 24071
+    "count": 27966
+   },
+   {
+    "code": "BE",
+    "count": 27421
    },
    {
     "code": "DK",
-    "count": 19855
+    "count": 20100
    },
    {
     "code": "CH",
-    "count": 9607
+    "count": 11292
    },
    {
-    "code": "AT",
-    "count": 9093
+    "code": "PL",
+    "count": 10169
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

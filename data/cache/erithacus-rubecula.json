@@ -2,7 +2,7 @@
  "key": "erithacus-rubecula",
  "name": "Erithacus rubecula",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:04.461Z",
+ "fetchedAt": "2026-11-13T11:24:37.375Z",
  "names": {
   "da": "Rødhals",
   "en": "European robin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13094,
-  "observations": 196175
+  "observations": 198521
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2026-03-23"
    },
    {
-    "id": 120515144,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120515144/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120515144/large.jpg",
-    "attribution": "(c) ognevit, some rights reserved (CC BY)",
+    "id": 179244854,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179244854/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179244854/large.jpeg",
+    "attribution": "(c) Andrea Adelfio, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/73789047",
-    "place": "Ленинский район, Минск, Беларусь",
-    "date": "2021-04-12"
+    "source": "https://www.inaturalist.org/observations/106671473",
+    "place": "Trieste TS, Italia",
+    "date": "2022-02-04"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 11566966,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11566966/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11566966/large.jpg",
-   "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
+   "id": 591732718,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591732718/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591732718/large.jpg",
+   "attribution": "(c) Arjan Haverkamp, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/8640718",
-   "place": "Balcomie, Scotland, United Kingdom",
-   "date": "2017-10-20"
+   "source": "https://www.inaturalist.org/photos/591732718",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492462,
-  "dkTotal": 383464,
+  "dkTotal": 388221,
   "dkMonths": [
-   40969,
-   27347,
-   43303,
-   62739,
-   30622,
-   20092,
-   10618,
-   9258,
-   25162,
-   46357,
-   38770,
-   28100
+   41114,
+   27537,
+   43435,
+   62972,
+   30696,
+   20201,
+   10690,
+   9293,
+   25349,
+   48977,
+   39566,
+   28264
   ],
-  "worldTotal": 11039963,
+  "worldTotal": 11541722,
   "topCountries": [
    {
-    "code": "SE",
-    "count": 1743790
+    "code": "GB",
+    "count": 1843233
    },
    {
-    "code": "GB",
-    "count": 1612165
+    "code": "SE",
+    "count": 1754128
    },
    {
     "code": "FR",
-    "count": 1520770
+    "count": 1551089
    },
    {
     "code": "ES",
-    "count": 1148671
+    "count": 1179702
    },
    {
     "code": "NL",
-    "count": 1042438
+    "count": 1072318
    },
    {
     "code": "DE",
-    "count": 625359
-   },
-   {
-    "code": "NO",
-    "count": 549724
+    "count": 663922
    },
    {
     "code": "FI",
-    "count": 547956
+    "count": 572624
+   },
+   {
+    "code": "NO",
+    "count": 559001
    },
    {
     "code": "DK",
-    "count": 383464
+    "count": 388221
    },
    {
     "code": "PL",
-    "count": 301707
+    "count": 315347
    },
    {
     "code": "BE",
-    "count": 295573
+    "count": 304944
    },
    {
     "code": "PT",
-    "count": 276987
+    "count": 278320
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

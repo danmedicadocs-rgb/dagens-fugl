@@ -2,7 +2,7 @@
  "key": "dryocopus-martius",
  "name": "Dryocopus martius",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:14:12.164Z",
+ "fetchedAt": "2026-11-13T11:18:43.634Z",
  "names": {
   "da": "Sortspætte",
   "en": "Black Woodpecker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 17835,
-  "observations": 26653
+  "observations": 27018
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 361645525,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361645525/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361645525/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/204591714",
-   "place": "Parvomay, Bulgaria",
-   "date": "2024-03-30"
+   "id": 150466352,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150466352/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150466352/large.jpg",
+   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/150466352",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2477872,
-  "dkTotal": 44959,
+  "dkTotal": 45337,
   "dkMonths": [
-   3101,
-   4075,
-   8280,
-   7767,
-   5960,
-   2468,
-   1482,
-   2057,
-   2689,
-   2660,
-   2103,
-   1978
+   3136,
+   4109,
+   8317,
+   7790,
+   5977,
+   2480,
+   1489,
+   2067,
+   2695,
+   2808,
+   2142,
+   1988
   ],
-  "worldTotal": 1218770,
+  "worldTotal": 1265853,
   "topCountries": [
    {
     "code": "SE",
-    "count": 469344
+    "count": 473498
    },
    {
     "code": "FR",
-    "count": 154668
+    "count": 157006
    },
    {
     "code": "NL",
-    "count": 152942
-   },
-   {
-    "code": "NO",
-    "count": 74373
-   },
-   {
-    "code": "DE",
-    "count": 69521
+    "count": 156975
    },
    {
     "code": "FI",
-    "count": 61952
+    "count": 75474
+   },
+   {
+    "code": "NO",
+    "count": 75328
+   },
+   {
+    "code": "DE",
+    "count": 74917
    },
    {
     "code": "DK",
-    "count": 44959
+    "count": 45337
    },
    {
     "code": "BE",
-    "count": 36604
+    "count": 38083
    },
    {
     "code": "RU",
-    "count": 22826
+    "count": 23428
    },
    {
     "code": "CZ",
-    "count": 19844
-   },
-   {
-    "code": "EE",
-    "count": 17866
+    "count": 21305
    },
    {
     "code": "PL",
-    "count": 15649
+    "count": 20906
+   },
+   {
+    "code": "EE",
+    "count": 18091
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "sterna-hirundo",
  "name": "Sterna hirundo",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:10:36.972Z",
+ "fetchedAt": "2026-11-13T11:15:52.044Z",
  "names": {
   "da": "Fjordterne",
   "en": "Common Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4450,
-  "observations": 71708
+  "observations": 72264
  },
  "photos": {
   "male": [],
@@ -46,14 +46,14 @@
     "date": "2018-07-26"
    },
    {
-    "id": 22241259,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241259/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22241259/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "id": 712636064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712636064/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712636064/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/14901112",
-    "place": "Suffolk County, NY, USA",
-    "date": "2018-07-20"
+    "source": "https://www.inaturalist.org/observations/389075453",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2026-08-07"
    }
   ],
   "adult": [
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 172940581,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/large.jpeg",
-   "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+   "id": 8318331,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8318331/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8318331/large.jpg",
+   "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/103345873",
-   "place": "Tivaouane, Senegal",
-   "date": "2016-04-18"
+   "source": "https://www.inaturalist.org/photos/8318331",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9367409,
-  "dkTotal": 133041,
+  "dkTotal": 133552,
   "dkMonths": [
    28,
    1,
-   28,
-   10627,
-   27356,
-   17106,
-   30270,
-   32618,
-   13468,
-   1278,
-   68,
+   29,
+   10668,
+   27463,
+   17211,
+   30379,
+   32683,
+   13527,
+   1303,
+   67,
    10
   ],
-  "worldTotal": 3080576,
+  "worldTotal": 2997043,
   "topCountries": [
    {
     "code": "US",
-    "count": 708291
+    "count": 613274
    },
    {
     "code": "SE",
-    "count": 484224
+    "count": 486922
    },
    {
     "code": "NL",
-    "count": 303683
+    "count": 310214
    },
    {
     "code": "CA",
-    "count": 288851
+    "count": 265065
    },
    {
     "code": "FI",
-    "count": 205522
+    "count": 218283
    },
    {
     "code": "GB",
-    "count": 182443
+    "count": 205742
    },
    {
     "code": "DK",
-    "count": 133041
+    "count": 133552
    },
    {
     "code": "NO",
-    "count": 116756
+    "count": 118042
    },
    {
     "code": "FR",
-    "count": 105250
+    "count": 109025
    },
    {
     "code": "BE",
-    "count": 55623
+    "count": 56408
    },
    {
     "code": "ES",
-    "count": 49104
+    "count": 47555
    },
    {
     "code": "ZA",
-    "count": 36957
+    "count": 37033
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

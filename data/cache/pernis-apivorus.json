@@ -2,7 +2,7 @@
  "key": "pernis-apivorus",
  "name": "Pernis apivorus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:11.646Z",
+ "fetchedAt": "2026-11-13T11:07:59.111Z",
  "names": {
   "da": "Hvepsevåge",
   "en": "European honey buzzard",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5325,
-  "observations": 20845
+  "observations": 20928
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2026-05-25"
    },
    {
-    "id": 570997796,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/570997796/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/570997796/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/316056825",
-    "place": "Migration watchpoint",
-    "date": "2025-09-12"
+    "id": 388894512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388894512/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388894512/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/219697788",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2024-06-01"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2480420,
-  "dkTotal": 98443,
+  "dkTotal": 98534,
   "dkMonths": [
    5,
    0,
    5,
    10,
-   34232,
+   34254,
    12843,
-   9107,
-   22185,
-   19049,
-   707,
+   9114,
+   22211,
+   19082,
+   710,
    12,
    9
   ],
-  "worldTotal": 757664,
+  "worldTotal": 765406,
   "topCountries": [
    {
     "code": "SE",
-    "count": 168080
+    "count": 167714
    },
    {
     "code": "FR",
-    "count": 123473
+    "count": 125029
    },
    {
     "code": "DK",
-    "count": 98443
+    "count": 98534
    },
    {
     "code": "GE",
-    "count": 89574
+    "count": 89311
    },
    {
     "code": "ES",
-    "count": 58451
+    "count": 56873
    },
    {
     "code": "NL",
-    "count": 39099
+    "count": 40740
    },
    {
     "code": "BE",
-    "count": 38193
+    "count": 39134
    },
    {
     "code": "IL",
-    "count": 19819
-   },
-   {
-    "code": "NO",
-    "count": 12654
-   },
-   {
-    "code": "DE",
-    "count": 12627
+    "count": 19578
    },
    {
     "code": "FI",
-    "count": 11106
+    "count": 14460
+   },
+   {
+    "code": "DE",
+    "count": 13266
+   },
+   {
+    "code": "NO",
+    "count": 12789
    },
    {
     "code": "RU",
-    "count": 9602
+    "count": 9571
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

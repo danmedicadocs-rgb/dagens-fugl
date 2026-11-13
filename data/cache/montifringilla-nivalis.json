@@ -2,7 +2,7 @@
  "key": "montifringilla-nivalis",
  "name": "Montifringilla nivalis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:06.279Z",
+ "fetchedAt": "2026-11-13T11:31:39.359Z",
  "names": {
   "da": "Snefinke",
   "en": "White-winged Snowfinch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204544,
-  "observations": 3066
+  "observations": 3077
  },
  "photos": {
   "male": [],
@@ -37,16 +37,6 @@
     "date": "2026-07-22"
    },
    {
-    "id": 61224654,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61224654/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61224654/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/29534983",
-    "place": "Halle (Saale)",
-    "date": "2018-06-15"
-   },
-   {
     "id": 681594409,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681594409/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681594409/large.jpg",
@@ -55,17 +45,27 @@
     "source": "https://www.inaturalist.org/observations/372979822",
     "place": "82467 Garmisch-Partenkirchen, Deutschland",
     "date": "2026-06-16"
+   },
+   {
+    "id": 61224654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61224654/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61224654/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/29534983",
+    "place": "Halle (Saale)",
+    "date": "2018-06-15"
    }
   ],
   "hero": {
-   "id": 722115628,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/722115628/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/722115628/large.jpg",
-   "attribution": "(c) Yves Bas, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/393937858",
-   "place": "Vallée d'Aoste, Italie",
-   "date": "2026-07-22"
+   "id": 147054009,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147054009/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147054009/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Dario Taraborelli",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/147054009",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 31292,
+  "worldTotal": 31924,
   "topCountries": [
    {
     "code": "FR",
-    "count": 11823
+    "count": 12020
    },
    {
     "code": "ES",
-    "count": 4149
+    "count": 4058
    },
    {
     "code": "AT",
-    "count": 3529
+    "count": 3683
    },
    {
     "code": "CH",
-    "count": 2846
+    "count": 3134
    },
    {
     "code": "IT",
-    "count": 2774
+    "count": 3119
    },
    {
     "code": "TR",
-    "count": 2102
+    "count": 1894
    },
    {
     "code": "MN",
-    "count": 1110
+    "count": 964
    },
    {
     "code": "DE",
-    "count": 557
+    "count": 602
    },
    {
     "code": "IR",
-    "count": 463
+    "count": 374
    },
    {
     "code": "RU",
-    "count": 342
+    "count": 347
    },
    {
     "code": "KG",
-    "count": 268
+    "count": 302
    },
    {
-    "code": "AZ",
-    "count": 207
+    "code": "AM",
+    "count": 253
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

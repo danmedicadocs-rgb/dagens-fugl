@@ -2,7 +2,7 @@
  "key": "hirundo-rustica",
  "name": "Hirundo rustica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:25.062Z",
+ "fetchedAt": "2026-11-13T11:21:20.955Z",
  "names": {
   "da": "Landsvale",
   "en": "Barn Swallow",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 11901,
-  "observations": 245152
+  "observations": 246213
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 365307746,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365307746/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365307746/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "id": 635249690,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635249690/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635249690/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY), uploaded by Donald Davesne",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/206576697",
-   "place": "4292 Dobri Dol, Bulgaria",
-   "date": "2024-04-10"
+   "source": "https://www.inaturalist.org/photos/635249690",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9515886,
-  "dkTotal": 442097,
+  "dkTotal": 444462,
   "dkMonths": [
    8,
    1,
-   319,
-   64475,
-   107163,
-   60925,
-   58922,
-   76419,
-   70577,
-   2566,
-   631,
+   320,
+   64698,
+   107642,
+   61389,
+   59313,
+   76758,
+   70959,
+   2645,
+   638,
    1
   ],
-  "worldTotal": 17521788,
+  "worldTotal": 16882212,
   "topCountries": [
    {
     "code": "US",
-    "count": 7716078
+    "count": 7151854
    },
    {
     "code": "ES",
-    "count": 1367750
+    "count": 1373803
    },
    {
     "code": "CA",
-    "count": 1015926
+    "count": 948337
    },
    {
     "code": "SE",
-    "count": 769690
+    "count": 773947
    },
    {
     "code": "GB",
-    "count": 604688
+    "count": 681363
    },
    {
     "code": "FR",
-    "count": 599565
-   },
-   {
-    "code": "DK",
-    "count": 442097
+    "count": 611366
    },
    {
     "code": "FI",
-    "count": 432931
+    "count": 454372
+   },
+   {
+    "code": "DK",
+    "count": 444462
    },
    {
     "code": "NL",
-    "count": 401895
+    "count": 416558
    },
    {
     "code": "ZA",
-    "count": 361200
-   },
-   {
-    "code": "TW",
-    "count": 358957
+    "count": 360800
    },
    {
     "code": "NO",
-    "count": 341432
+    "count": 345874
+   },
+   {
+    "code": "TW",
+    "count": 314360
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "nyctibius-griseus",
  "name": "Nyctibius griseus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:50.556Z",
+ "fetchedAt": "2026-11-13T11:49:07.690Z",
  "names": {
   "da": "Potu",
   "en": "Common Potoo",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19667,
-  "observations": 5406
+  "observations": 5511
  },
  "photos": {
   "male": [],
@@ -36,16 +36,6 @@
     "date": "2025-10-03"
    },
    {
-    "id": 588186426,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588186426/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588186426/large.jpg",
-    "attribution": "(c) David F. Belmonte, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/324915363",
-    "place": "Loreto y alrededores inmediatos, El Beni, Bolivia",
-    "date": "2025-10-08"
-   },
-   {
     "id": 138811051,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138811051/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138811051/large.jpeg",
@@ -54,6 +44,16 @@
     "source": "https://www.inaturalist.org/observations/84455239",
     "place": "Jardim Barbacena, Cotia - SP, 06710-380, Brasil",
     "date": "2013-12-07"
+   },
+   {
+    "id": 588186426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588186426/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588186426/large.jpg",
+    "attribution": "(c) David F. Belmonte, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/324915363",
+    "place": "Loreto y alrededores inmediatos, El Beni, Bolivia",
+    "date": "2025-10-08"
    }
   ],
   "adult": [
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 109760258,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109760258/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109760258/large.jpeg",
-   "attribution": "(c) Ciencia1.com, some rights reserved (CC BY)",
+   "id": 63558563,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63558563/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63558563/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/67199154",
-   "place": "Villalengua 821, Quito 170102, Ecuador",
-   "date": "2020-12-28"
+   "source": "https://www.inaturalist.org/photos/63558563",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 81793,
+  "worldTotal": 67678,
   "topCountries": [
    {
     "code": "CO",
-    "count": 21876
+    "count": 16544
    },
    {
     "code": "BR",
-    "count": 16342
+    "count": 15072
    },
    {
     "code": "EC",
-    "count": 12458
+    "count": 10414
    },
    {
     "code": "CR",
-    "count": 8199
+    "count": 7058
    },
    {
     "code": "AR",
-    "count": 5742
+    "count": 4510
    },
    {
     "code": "PE",
-    "count": 4752
+    "count": 4063
    },
    {
     "code": "PA",
-    "count": 4626
+    "count": 3671
    },
    {
     "code": "TT",
-    "count": 2534
+    "count": 1984
    },
    {
     "code": "PY",
-    "count": 1520
-   },
-   {
-    "code": "VE",
-    "count": 929
+    "count": 1206
    },
    {
     "code": "BO",
-    "count": 899
+    "count": 870
+   },
+   {
+    "code": "VE",
+    "count": 716
    },
    {
     "code": "GY",
-    "count": 742
+    "count": 496
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "anser-brachyrhynchus",
  "name": "Anser brachyrhynchus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:00.838Z",
+ "fetchedAt": "2026-11-13T11:02:50.022Z",
  "names": {
   "da": "Kortnæbbet Gås",
   "en": "Pink-footed goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7007,
-  "observations": 4945
+  "observations": 5075
  },
  "photos": {
   "male": [],
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 2498024,
-  "dkTotal": 64649,
+  "dkTotal": 65186,
   "dkMonths": [
-   9530,
-   8849,
-   11981,
-   7570,
-   2221,
-   101,
+   9533,
+   8866,
+   11989,
+   7586,
+   2223,
+   104,
    139,
-   173,
-   3256,
-   9865,
-   5687,
-   5272
+   182,
+   3264,
+   10259,
+   5745,
+   5291
   ],
-  "worldTotal": 449211,
+  "worldTotal": 464445,
   "topCountries": [
    {
-    "code": "SE",
-    "count": 113844
+    "code": "GB",
+    "count": 114469
    },
    {
-    "code": "GB",
-    "count": 101272
+    "code": "SE",
+    "count": 114387
    },
    {
     "code": "NO",
-    "count": 100691
+    "count": 102027
    },
    {
     "code": "DK",
-    "count": 64649
+    "count": 65186
    },
    {
     "code": "NL",
-    "count": 11050
-   },
-   {
-    "code": "US",
-    "count": 10943
+    "count": 11431
    },
    {
     "code": "BE",
-    "count": 10644
+    "count": 10936
+   },
+   {
+    "code": "US",
+    "count": 9960
    },
    {
     "code": "IS",
-    "count": 10212
+    "count": 9525
    },
    {
     "code": "SJ",
-    "count": 8977
+    "count": 9021
    },
    {
     "code": "CA",
-    "count": 4211
+    "count": 3809
    },
    {
     "code": "DE",
-    "count": 2888
+    "count": 3198
    },
    {
     "code": "FI",
-    "count": 1649
+    "count": 2049
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

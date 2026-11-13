@@ -2,7 +2,7 @@
  "key": "numenius-phaeopus",
  "name": "Numenius phaeopus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:50.481Z",
+ "fetchedAt": "2026-11-13T11:12:47.408Z",
  "names": {
   "da": "Småspove",
   "en": "Eurasian Whimbrel",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3901,
-  "observations": 24054
+  "observations": 24485
  },
  "photos": {
   "male": [],
@@ -81,72 +81,73 @@
  },
  "gbif": {
   "key": 2481784,
-  "dkTotal": 52365,
+  "dkTotal": 52479,
   "dkMonths": [
    0,
    1,
    81,
-   6343,
-   11693,
-   2221,
-   18570,
-   12459,
-   912,
+   6359,
+   11705,
+   2226,
+   18613,
+   12490,
+   919,
    67,
    7,
    2
   ],
-  "worldTotal": 1737882,
+  "worldTotal": 956549,
   "topCountries": [
    {
-    "code": "US",
-    "count": 494894
-   },
-   {
     "code": "SE",
-    "count": 143298
+    "count": 143661
    },
    {
     "code": "AU",
-    "count": 99866
-   },
-   {
-    "code": "ES",
-    "count": 79854
+    "count": 99283
    },
    {
     "code": "GB",
-    "count": 78681
+    "count": 88002
    },
    {
-    "code": "CL",
-    "count": 70010
+    "code": "ES",
+    "count": 78806
    },
    {
     "code": "NO",
-    "count": 65599
-   },
-   {
-    "code": "CA",
-    "count": 64984
+    "count": 65948
    },
    {
     "code": "DK",
-    "count": 52365
+    "count": 52479
    },
    {
     "code": "NL",
-    "count": 48579
+    "count": 49627
    },
    {
     "code": "PT",
-    "count": 42284
+    "count": 40082
    },
    {
     "code": "FR",
-    "count": 37281
+    "count": 38593
+   },
+   {
+    "code": "ZA",
+    "count": 28382
+   },
+   {
+    "code": "IS",
+    "count": 26789
+   },
+   {
+    "code": "TW",
+    "count": 21713
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "gyps-africanus",
  "name": "Gyps africanus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:46.112Z",
+ "fetchedAt": "2026-11-13T11:33:11.010Z",
  "names": {
   "da": "Hvidrygget grib",
   "en": "White-backed Vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5363,
-  "observations": 9306
+  "observations": 9645
  },
  "photos": {
   "male": [],
@@ -68,16 +68,6 @@
     "date": "2024-09-07"
    },
    {
-    "id": 625955607,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/large.jpg",
-    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/343608628",
-    "place": "Khomas, NA-KH-WR, NA",
-    "date": "2026-03-18"
-   },
-   {
     "id": 521905288,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521905288/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521905288/large.jpg",
@@ -86,17 +76,27 @@
     "source": "https://www.inaturalist.org/observations/290135231",
     "place": "Mopani, Kruger National Park, Limpopo, South Africa",
     "date": "2025-06-06"
+   },
+   {
+    "id": 625955607,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/large.jpg",
+    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/343608628",
+    "place": "Khomas, NA-KH-WR, NA",
+    "date": "2026-03-18"
    }
   ],
   "hero": {
-   "id": 431932273,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/large.jpeg",
-   "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/242271275",
-   "place": "Hluhluwe-iMfolozi Park, ZA-NL-UY, ZA-NL, ZA",
-   "date": "2024-09-07"
+   "id": 150470903,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470903/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470903/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/150470903",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 148407,
+  "worldTotal": 143503,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 69736
+    "count": 68931
    },
    {
     "code": "KE",
-    "count": 16982
+    "count": 16045
    },
    {
     "code": "TZ",
-    "count": 12026
+    "count": 10744
    },
    {
     "code": "NA",
-    "count": 10776
+    "count": 10245
    },
    {
     "code": "BW",
-    "count": 8997
+    "count": 9024
    },
    {
     "code": "ZW",
-    "count": 7112
-   },
-   {
-    "code": "UG",
-    "count": 5776
+    "count": 7749
    },
    {
     "code": "ZM",
-    "count": 4764
+    "count": 4916
+   },
+   {
+    "code": "UG",
+    "count": 4773
    },
    {
     "code": "ET",
-    "count": 3344
+    "count": 2942
    },
    {
     "code": "GM",
-    "count": 1603
-   },
-   {
-    "code": "SN",
-    "count": 1332
+    "count": 1507
    },
    {
     "code": "SZ",
-    "count": 1231
+    "count": 1233
+   },
+   {
+    "code": "SN",
+    "count": 1040
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

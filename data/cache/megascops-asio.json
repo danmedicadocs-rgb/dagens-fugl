@@ -2,7 +2,7 @@
  "key": "megascops-asio",
  "name": "Megascops asio",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:41:56.316Z",
+ "fetchedAt": "2026-11-13T11:43:03.833Z",
  "names": {
   "da": "Østamerikansk Dværghornugle",
   "en": "Eastern Screech Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19765,
-  "observations": 26755
+  "observations": 27060
  },
  "photos": {
   "male": [
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 501168,
+  "worldTotal": 471482,
   "topCountries": [
    {
     "code": "US",
-    "count": 445147
+    "count": 418588
    },
    {
     "code": "CA",
-    "count": 54184
+    "count": 51244
    },
    {
     "code": "MX",
-    "count": 1330
+    "count": 1136
    },
    {
     "code": "ZZ",
@@ -194,5 +194,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

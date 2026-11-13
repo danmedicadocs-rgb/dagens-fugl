@@ -2,7 +2,7 @@
  "key": "ardea-alba",
  "name": "Ardea alba",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:34.355Z",
+ "fetchedAt": "2026-11-13T11:07:27.371Z",
  "names": {
   "da": "Sølvhejre",
   "en": "Great Egret",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144455,
-  "observations": 433860
+  "observations": 439897
  },
  "photos": {
   "male": [
@@ -88,84 +88,85 @@
    }
   ],
   "hero": {
-   "id": 508619590,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508619590/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508619590/large.jpg",
-   "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+   "id": 359167878,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359167878/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359167878/large.jpg",
+   "attribution": "(c) Mike Baird, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/283071828",
-   "place": "S Valley Trails Dr, Pleasanton, CA, US",
-   "date": "2025-05-21"
+   "source": "https://www.inaturalist.org/photos/359167878",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9752617,
-  "dkTotal": 156125,
+  "dkTotal": 159013,
   "dkMonths": [
-   14151,
-   12059,
-   14146,
-   9949,
-   6956,
-   4659,
-   9273,
-   16722,
-   20654,
-   21562,
-   14538,
-   11454
+   14194,
+   12118,
+   14223,
+   9997,
+   6996,
+   4686,
+   9352,
+   16831,
+   20783,
+   23392,
+   14915,
+   11524
   ],
-  "worldTotal": 13027618,
+  "worldTotal": 12219875,
   "topCountries": [
    {
     "code": "US",
-    "count": 7278447
+    "count": 6707404
    },
    {
     "code": "NL",
-    "count": 1137982
+    "count": 1161236
    },
    {
     "code": "AU",
-    "count": 455273
+    "count": 464293
    },
    {
     "code": "FR",
-    "count": 331989
+    "count": 340204
    },
    {
     "code": "TW",
-    "count": 304185
-   },
-   {
-    "code": "IN",
-    "count": 284680
+    "count": 255125
    },
    {
     "code": "CA",
-    "count": 263169
+    "count": 247609
    },
    {
-    "code": "MX",
-    "count": 220470
+    "code": "IN",
+    "count": 237846
    },
    {
     "code": "DE",
-    "count": 183325
+    "count": 193102
    },
    {
     "code": "SE",
-    "count": 178069
+    "count": 180361
+   },
+   {
+    "code": "MX",
+    "count": 178415
    },
    {
     "code": "DK",
-    "count": 156125
+    "count": 159013
    },
    {
     "code": "BE",
-    "count": 144468
+    "count": 147682
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

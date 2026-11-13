@@ -2,7 +2,7 @@
  "key": "picus-viridis",
  "name": "Picus viridis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:14:07.602Z",
+ "fetchedAt": "2026-11-13T11:18:39.296Z",
  "names": {
   "da": "Grønspætte",
   "en": "European Green Woodpecker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144243,
-  "observations": 39030
+  "observations": 39504
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2022-11-10"
    },
    {
+    "id": 597294952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597294952/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597294952/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/329502960",
+    "place": "Nunnery Lakes",
+    "date": "2016-07-17"
+   },
+   {
     "id": 255640895,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255640895/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255640895/large.jpg",
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/148448012",
     "place": "4292 Dobri Dol, Bulgaria",
     "date": "2020-09-19"
-   },
-   {
-    "id": 550879372,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879372/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550879372/large.jpg",
-    "attribution": "(c) Paul Lewis, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/305525117",
-    "place": "Maple Cross, UK",
-    "date": "2025-08-10"
    }
   ],
   "female": [
@@ -66,6 +66,16 @@
     "date": "2024-02-20"
    },
    {
+    "id": 762198814,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762198814/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762198814/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/414070558",
+    "place": "87059 Casali del Manco CS, Italia",
+    "date": "2026-11-08"
+   },
+   {
     "id": 676676692,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676676692/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676676692/large.jpg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/370411543",
     "place": "Swavesey, Cambridge, UK",
     "date": "2026-06-10"
-   },
-   {
-    "id": 599752811,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599752811/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599752811/large.jpg",
-    "attribution": "(c) Leonardo Rapisarda, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/330705565",
-    "place": "41013 Castelfranco Emilia MO, Italia",
-    "date": "2025-12-13"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2478523,
-  "dkTotal": 59685,
+  "dkTotal": 60361,
   "dkMonths": [
-   3198,
-   5030,
-   11916,
-   10161,
-   5629,
-   3000,
-   4472,
-   4300,
-   3653,
-   3950,
-   2491,
-   1848
+   3206,
+   5055,
+   11958,
+   10193,
+   5649,
+   3018,
+   4498,
+   4327,
+   3681,
+   4318,
+   2560,
+   1861
   ],
-  "worldTotal": 2488641,
+  "worldTotal": 2616062,
   "topCountries": [
    {
     "code": "FR",
-    "count": 567143
+    "count": 579497
    },
    {
     "code": "SE",
-    "count": 511191
-   },
-   {
-    "code": "DE",
-    "count": 296098
+    "count": 517153
    },
    {
     "code": "GB",
-    "count": 289685
+    "count": 328917
+   },
+   {
+    "code": "DE",
+    "count": 313166
    },
    {
     "code": "NL",
-    "count": 198630
+    "count": 203789
    },
    {
     "code": "BE",
-    "count": 178330
+    "count": 183881
    },
    {
     "code": "NO",
-    "count": 111468
+    "count": 112838
    },
    {
     "code": "IT",
-    "count": 61825
+    "count": 73698
    },
    {
     "code": "DK",
-    "count": 59685
+    "count": 60361
    },
    {
     "code": "CZ",
-    "count": 54662
+    "count": 60124
+   },
+   {
+    "code": "PL",
+    "count": 30147
    },
    {
     "code": "CH",
-    "count": 23091
-   },
-   {
-    "code": "AT",
-    "count": 21432
+    "count": 27497
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

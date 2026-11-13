@@ -2,7 +2,7 @@
  "key": "platalea-ajaja",
  "name": "Platalea ajaja",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:29.123Z",
+ "fetchedAt": "2026-11-13T11:49:37.974Z",
  "names": {
   "da": "Rosaskestork",
   "en": "Roseate Spoonbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 62529,
-  "observations": 41558
+  "observations": 42034
  },
  "photos": {
   "male": [],
@@ -57,25 +57,25 @@
     "date": "2024-07-20"
    },
    {
-    "id": 488716050,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488716050/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488716050/large.jpg",
-    "attribution": "(c) Craig K, some rights reserved (CC BY)",
+    "id": 307057485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307057485/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307057485/large.jpeg",
+    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/271679680",
-    "place": "South Padre Island, South Padre Island, TX, US",
-    "date": "2025-04-19"
+    "source": "https://www.inaturalist.org/observations/175734642",
+    "place": "Ken Euers Nature Area, Green Bay, WI, US",
+    "date": "2023-07-30"
    }
   ],
   "hero": {
-   "id": 488568756,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/large.jpg",
-   "attribution": "(c) Abraham A. Gómez Landero, some rights reserved (CC BY)",
+   "id": 2069153,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2069153/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2069153/large.jpg",
+   "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/271617743",
-   "place": "Celestún, Yuc., México",
-   "date": "2025-04-19"
+   "source": "https://www.inaturalist.org/photos/2069153",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,57 +95,58 @@
    0,
    2
   ],
-  "worldTotal": 800198,
+  "worldTotal": 679932,
   "topCountries": [
    {
     "code": "US",
-    "count": 610261
+    "count": 537746
    },
    {
     "code": "MX",
-    "count": 34327
+    "count": 26557
    },
    {
     "code": "CR",
-    "count": 32551
-   },
-   {
-    "code": "AR",
-    "count": 24947
+    "count": 24523
    },
    {
     "code": "BR",
-    "count": 24265
+    "count": 19599
+   },
+   {
+    "code": "AR",
+    "count": 18590
    },
    {
     "code": "CO",
-    "count": 16648
+    "count": 12239
    },
    {
     "code": "BZ",
-    "count": 8685
+    "count": 5901
    },
    {
     "code": "EC",
-    "count": 7293
+    "count": 5679
    },
    {
     "code": "CU",
-    "count": 5433
+    "count": 3654
    },
    {
     "code": "UY",
-    "count": 4923
-   },
-   {
-    "code": "VE",
-    "count": 3695
+    "count": 3487
    },
    {
     "code": "PE",
-    "count": 3685
+    "count": 3040
+   },
+   {
+    "code": "VE",
+    "count": 2635
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

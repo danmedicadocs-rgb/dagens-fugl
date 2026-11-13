@@ -2,7 +2,7 @@
  "key": "podiceps-nigricollis",
  "name": "Podiceps nigricollis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:59:08.096Z",
+ "fetchedAt": "2026-11-13T11:06:15.052Z",
  "names": {
   "da": "Sorthalset lappedykker",
   "en": "Black-necked Grebe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4205,
-  "observations": 40923
+  "observations": 41516
  },
  "photos": {
   "male": [
@@ -121,72 +121,73 @@
  },
  "gbif": {
   "key": 2482065,
-  "dkTotal": 33870,
+  "dkTotal": 33911,
   "dkMonths": [
    17,
    27,
-   1472,
-   8423,
-   8940,
-   5361,
-   4355,
+   1471,
+   8431,
+   8951,
+   5371,
+   4365,
    3572,
-   1401,
+   1404,
    222,
    34,
    22
   ],
-  "worldTotal": 1462485,
+  "worldTotal": 1306965,
   "topCountries": [
    {
     "code": "US",
-    "count": 846866
+    "count": 700413
    },
    {
     "code": "NL",
-    "count": 111215
+    "count": 112787
    },
    {
     "code": "ES",
-    "count": 83029
+    "count": 79440
    },
    {
     "code": "CA",
-    "count": 74544
+    "count": 67160
    },
    {
     "code": "FR",
-    "count": 58233
+    "count": 59495
    },
    {
     "code": "BE",
-    "count": 34137
+    "count": 34510
    },
    {
     "code": "DK",
-    "count": 33870
+    "count": 33911
    },
    {
     "code": "SE",
-    "count": 27197
-   },
-   {
-    "code": "MX",
-    "count": 26127
+    "count": 27193
    },
    {
     "code": "GB",
-    "count": 19975
+    "count": 22089
+   },
+   {
+    "code": "MX",
+    "count": 20313
    },
    {
     "code": "IT",
-    "count": 17258
+    "count": 18921
    },
    {
     "code": "ZA",
-    "count": 16455
+    "count": 15869
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

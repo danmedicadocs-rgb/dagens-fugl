@@ -2,7 +2,7 @@
  "key": "podiceps-grisegena",
  "name": "Podiceps grisegena",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:53.131Z",
+ "fetchedAt": "2026-11-13T11:06:06.163Z",
  "names": {
   "da": "Gråstrubet lappedykker",
   "en": "Red-necked Grebe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4224,
-  "observations": 21299
+  "observations": 21570
  },
  "photos": {
   "male": [
@@ -111,72 +111,73 @@
  },
  "gbif": {
   "key": 2482051,
-  "dkTotal": 151737,
+  "dkTotal": 152423,
   "dkMonths": [
-   3463,
-   4556,
-   21006,
-   35456,
-   29816,
-   18399,
-   11884,
-   7572,
-   5201,
-   6776,
-   5091,
-   2461
+   3468,
+   4559,
+   21094,
+   35533,
+   29934,
+   18459,
+   11922,
+   7597,
+   5214,
+   6972,
+   5156,
+   2459
   ],
-  "worldTotal": 1175836,
+  "worldTotal": 1116727,
   "topCountries": [
    {
     "code": "US",
-    "count": 379127
+    "count": 332420
    },
    {
     "code": "CA",
-    "count": 303746
+    "count": 281506
    },
    {
     "code": "SE",
-    "count": 210851
+    "count": 211492
    },
    {
     "code": "DK",
-    "count": 151737
+    "count": 152423
    },
    {
     "code": "NL",
-    "count": 31295
+    "count": 31620
    },
    {
     "code": "NO",
-    "count": 24890
+    "count": 25149
    },
    {
     "code": "DE",
-    "count": 12873
-   },
-   {
-    "code": "GB",
-    "count": 10462
-   },
-   {
-    "code": "EE",
-    "count": 8380
+    "count": 13496
    },
    {
     "code": "FI",
-    "count": 8205
+    "count": 12409
+   },
+   {
+    "code": "GB",
+    "count": 12056
+   },
+   {
+    "code": "EE",
+    "count": 8719
    },
    {
     "code": "BE",
-    "count": 5909
+    "count": 6021
    },
    {
-    "code": "FR",
-    "count": 4855
+    "code": "PL",
+    "count": 5043
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

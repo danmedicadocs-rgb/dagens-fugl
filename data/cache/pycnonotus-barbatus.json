@@ -2,7 +2,7 @@
  "key": "pycnonotus-barbatus",
  "name": "Pycnonotus barbatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:47.300Z",
+ "fetchedAt": "2026-11-13T11:34:57.806Z",
  "names": {
   "da": "Berberbulbul",
   "en": "Common Bulbul",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14588,
-  "observations": 16913
+  "observations": 17206
  },
  "photos": {
   "male": [
@@ -84,57 +84,58 @@
    0,
    0
   ],
-  "worldTotal": 398172,
+  "worldTotal": 389076,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 113640
+    "count": 115776
    },
    {
     "code": "KE",
-    "count": 54030
+    "count": 50753
    },
    {
     "code": "UG",
-    "count": 36939
+    "count": 32212
    },
    {
     "code": "TZ",
-    "count": 27231
+    "count": 26528
    },
    {
     "code": "MA",
-    "count": 23819
+    "count": 22990
    },
    {
     "code": "ZM",
-    "count": 16693
+    "count": 17873
    },
    {
     "code": "ZW",
-    "count": 13210
-   },
-   {
-    "code": "GH",
-    "count": 13044
+    "count": 15234
    },
    {
     "code": "GM",
-    "count": 11428
+    "count": 11037
+   },
+   {
+    "code": "GH",
+    "count": 11031
    },
    {
     "code": "RW",
-    "count": 9179
+    "count": 8572
    },
    {
     "code": "ET",
-    "count": 8477
+    "count": 7050
    },
    {
     "code": "SN",
-    "count": 7658
+    "count": 7001
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

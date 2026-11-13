@@ -2,7 +2,7 @@
  "key": "lanius-senator",
  "name": "Lanius senator",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:14:42.737Z",
+ "fetchedAt": "2026-11-13T11:19:10.564Z",
  "names": {
   "da": "Rødhovedet tornskade",
   "en": "Woodchat Shrike",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12039,
-  "observations": 12021
+  "observations": 12042
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2026-04-06"
    },
    {
-    "id": 236109186,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236109186/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236109186/large.jpeg",
-    "attribution": "(c) Claude Kolwelter, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/138178598",
-    "place": "8365 Pêra, Portugal",
-    "date": "2022-09-23"
-   },
-   {
     "id": 190940711,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190940711/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190940711/large.jpg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/113020131",
     "place": "7780 Castro Verde, Portugal",
     "date": "2022-04-17"
+   },
+   {
+    "id": 236109186,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236109186/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236109186/large.jpeg",
+    "attribution": "(c) Claude Kolwelter, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/138178598",
+    "place": "8365 Pêra, Portugal",
+    "date": "2022-09-23"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 281235839,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281235839/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281235839/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/162640312",
-   "place": "Parvomay, Bulgaria",
-   "date": "2023-05-20"
+   "id": 123779039,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123779039/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123779039/large.jpg",
+   "attribution": "(c) Juan Emilio, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/123779039",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492867,
-  "dkTotal": 962,
+  "dkTotal": 968,
   "dkMonths": [
    0,
    0,
    0,
    58,
    266,
-   111,
-   327,
-   158,
+   110,
+   329,
+   163,
    2,
    27,
    12,
    0
   ],
-  "worldTotal": 330372,
+  "worldTotal": 329592,
   "topCountries": [
    {
     "code": "ES",
-    "count": 161111
+    "count": 162313
    },
    {
     "code": "FR",
-    "count": 36574
+    "count": 36907
    },
    {
     "code": "PT",
-    "count": 30850
+    "count": 28911
    },
    {
     "code": "IL",
-    "count": 19685
+    "count": 18998
    },
    {
     "code": "GR",
-    "count": 14971
+    "count": 15792
    },
    {
     "code": "TR",
-    "count": 8600
-   },
-   {
-    "code": "MA",
-    "count": 8285
+    "count": 8354
    },
    {
     "code": "NL",
-    "count": 7523
+    "count": 7580
+   },
+   {
+    "code": "MA",
+    "count": 7394
    },
    {
     "code": "BG",
-    "count": 4674
+    "count": 4586
    },
    {
     "code": "SE",
-    "count": 3908
-   },
-   {
-    "code": "SN",
-    "count": 2555
+    "count": 4033
    },
    {
     "code": "IT",
-    "count": 2417
+    "count": 2986
+   },
+   {
+    "code": "CY",
+    "count": 2606
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

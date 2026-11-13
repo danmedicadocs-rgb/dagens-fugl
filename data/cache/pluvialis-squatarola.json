@@ -2,7 +2,7 @@
  "key": "pluvialis-squatarola",
  "name": "Pluvialis squatarola",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:58.929Z",
+ "fetchedAt": "2026-11-13T11:11:13.543Z",
  "names": {
   "da": "Strandhjejle",
   "en": "Grey Plover",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4892,
-  "observations": 59601
+  "observations": 60864
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2480327,
-  "dkTotal": 94844,
+  "dkTotal": 95869,
   "dkMonths": [
-   1575,
-   853,
-   1005,
-   2062,
-   11186,
-   1998,
-   10352,
-   26694,
-   16647,
-   16119,
-   4961,
-   1388
+   1574,
+   855,
+   1007,
+   2070,
+   11209,
+   2003,
+   10371,
+   26749,
+   16697,
+   16874,
+   5062,
+   1394
   ],
-  "worldTotal": 2532667,
+  "worldTotal": 2281864,
   "topCountries": [
    {
     "code": "US",
-    "count": 1285798
+    "count": 1100537
    },
    {
     "code": "CA",
-    "count": 229728
+    "count": 203991
    },
    {
     "code": "SE",
-    "count": 193258
+    "count": 194328
    },
    {
     "code": "DK",
-    "count": 94844
+    "count": 95869
    },
    {
     "code": "GB",
-    "count": 80961
-   },
-   {
-    "code": "ES",
-    "count": 61124
+    "count": 89054
    },
    {
     "code": "FR",
-    "count": 57549
+    "count": 59021
    },
    {
-    "code": "TW",
-    "count": 41708
-   },
-   {
-    "code": "PT",
-    "count": 38770
+    "code": "ES",
+    "count": 57864
    },
    {
     "code": "NL",
-    "count": 36964
+    "count": 41425
    },
    {
-    "code": "MX",
-    "count": 36469
+    "code": "PT",
+    "count": 36294
+   },
+   {
+    "code": "TW",
+    "count": 34485
    },
    {
     "code": "NO",
-    "count": 32253
+    "count": 32637
+   },
+   {
+    "code": "MX",
+    "count": 28913
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calidris-pygmaea",
  "name": "Calidris pygmaea",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:34:58.324Z",
+ "fetchedAt": "2026-11-13T11:36:54.900Z",
  "names": {
   "da": "Skeryle",
   "en": "Spoon-billed Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 979640,
-  "observations": 645
+  "observations": 669
  },
  "photos": {
   "male": [],
@@ -65,31 +65,31 @@
    0,
    0
   ],
-  "worldTotal": 7048,
+  "worldTotal": 6423,
   "topCountries": [
    {
     "code": "TH",
-    "count": 3493
+    "count": 3022
    },
    {
     "code": "CN",
-    "count": 1350
+    "count": 1439
    },
    {
     "code": "TW",
-    "count": 882
-   },
-   {
-    "code": "JP",
-    "count": 246
+    "count": 637
    },
    {
     "code": "KR",
-    "count": 228
+    "count": 265
+   },
+   {
+    "code": "JP",
+    "count": 247
    },
    {
     "code": "HK",
-    "count": 208
+    "count": 198
    },
    {
     "code": "RU",
@@ -97,25 +97,26 @@
    },
    {
     "code": "VN",
-    "count": 104
+    "count": 116
    },
    {
     "code": "BD",
-    "count": 100
+    "count": 94
    },
    {
     "code": "MM",
-    "count": 50
-   },
-   {
-    "code": "PH",
-    "count": 49
+    "count": 52
    },
    {
     "code": "MY",
     "count": 26
+   },
+   {
+    "code": "IN",
+    "count": 20
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

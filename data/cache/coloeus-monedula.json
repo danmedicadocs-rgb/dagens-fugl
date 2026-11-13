@@ -2,7 +2,7 @@
  "key": "coloeus-monedula",
  "name": "Coloeus monedula",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:17.931Z",
+ "fetchedAt": "2026-11-13T11:19:40.313Z",
  "names": {
   "da": "Allike",
   "en": "Western Jackdaw",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 336399,
-  "observations": 109832
+  "observations": 111263
  },
  "photos": {
   "male": [
@@ -78,105 +78,106 @@
     "date": "2019-07-12"
    },
    {
-    "id": 431900240,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431900240/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431900240/large.jpeg",
-    "attribution": "(c) shadow_385, some rights reserved (CC BY)",
+    "id": 135918570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135918570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135918570/large.jpg",
+    "attribution": "(c) Evgenij Samarin, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242268013",
-    "place": "Йошкар-Ола, Респ. Марий Эл, Россия, 424028",
-    "date": "2024-09-17"
+    "source": "https://www.inaturalist.org/observations/82793417",
+    "place": "Оренбургская область, RU",
+    "date": "2021-06-12"
    },
    {
-    "id": 606241675,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606241675/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606241675/large.jpg",
-    "attribution": "(c) Ciprian Samoilă, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/333898830",
-    "place": "Bulevardul Independenței, Bistrita, Bistriţa-Năsăud, RO",
-    "date": "2018-06-05"
+    "id": 288220637,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288220637/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288220637/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/166437489",
+    "place": "Carlisle CA3, UK",
+    "date": "2023-06-09"
    }
   ],
   "hero": {
-   "id": 203533809,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203533809/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203533809/large.jpg",
-   "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+   "id": 66946657,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66946657/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66946657/large.jpeg",
+   "attribution": "(c) Gergely Nigg, some rights reserved (CC BY), uploaded by Gergely Nigg",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/120347906",
-   "place": "Constantine, Algérie",
-   "date": "2022-06-01"
+   "source": "https://www.inaturalist.org/photos/66946657",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 6100954,
-  "dkTotal": 341838,
+  "dkTotal": 347579,
   "dkMonths": [
-   36429,
-   31657,
-   48433,
-   39786,
-   33897,
-   19911,
-   12525,
-   14733,
-   20751,
-   35418,
-   25686,
-   22483
+   36619,
+   31846,
+   48673,
+   40106,
+   34276,
+   20183,
+   12704,
+   14891,
+   21049,
+   38035,
+   26348,
+   22720
   ],
-  "worldTotal": 4857727,
+  "worldTotal": 5174897,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1113556
+    "count": 1282801
    },
    {
     "code": "SE",
-    "count": 859421
+    "count": 871202
    },
    {
     "code": "NL",
-    "count": 705388
+    "count": 730057
    },
    {
     "code": "DK",
-    "count": 341838
+    "count": 347579
    },
    {
     "code": "FR",
-    "count": 328857
+    "count": 338742
    },
    {
     "code": "BE",
-    "count": 222093
-   },
-   {
-    "code": "NO",
-    "count": 196221
-   },
-   {
-    "code": "ES",
-    "count": 186055
-   },
-   {
-    "code": "DE",
-    "count": 185623
+    "count": 230145
    },
    {
     "code": "FI",
-    "count": 182770
+    "count": 203866
+   },
+   {
+    "code": "NO",
+    "count": 199483
+   },
+   {
+    "code": "DE",
+    "count": 198825
+   },
+   {
+    "code": "ES",
+    "count": 182321
    },
    {
     "code": "IE",
-    "count": 65236
+    "count": 71520
    },
    {
-    "code": "RU",
-    "count": 64369
+    "code": "PL",
+    "count": 67169
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

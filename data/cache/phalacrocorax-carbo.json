@@ -2,7 +2,7 @@
  "key": "phalacrocorax-carbo",
  "name": "Phalacrocorax carbo",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:59:53.884Z",
+ "fetchedAt": "2026-11-13T11:06:56.108Z",
  "names": {
   "da": "Skarv",
   "en": "Great Cormorant",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4270,
-  "observations": 179723
+  "observations": 182885
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 249532095,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249532095/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249532095/large.jpeg",
-   "attribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
+   "id": 132916240,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132916240/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132916240/large.jpg",
+   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/145279941",
-   "place": "Κεντρική Μακεδονία, Ελλάδα",
-   "date": "2022-12-27"
+   "source": "https://www.inaturalist.org/photos/132916240",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481890,
-  "dkTotal": 580297,
+  "dkTotal": 586067,
   "dkMonths": [
-   55290,
-   42619,
-   58261,
-   58789,
-   46441,
-   31645,
-   42799,
-   58829,
-   57549,
-   54193,
-   38465,
-   35165
+   55454,
+   42787,
+   58449,
+   59036,
+   46655,
+   31971,
+   43160,
+   59069,
+   57962,
+   56862,
+   39019,
+   35391
   ],
-  "worldTotal": 6817105,
+  "worldTotal": 7004388,
   "topCountries": [
    {
-    "code": "SE",
-    "count": 830543
+    "code": "GB",
+    "count": 863671
    },
    {
-    "code": "GB",
-    "count": 753987
+    "code": "SE",
+    "count": 836839
    },
    {
     "code": "NL",
-    "count": 737094
+    "count": 760204
    },
    {
     "code": "DK",
-    "count": 580297
+    "count": 586067
    },
    {
     "code": "FR",
-    "count": 465745
+    "count": 480859
    },
    {
     "code": "NO",
-    "count": 463111
+    "count": 469497
    },
    {
     "code": "ES",
-    "count": 404553
+    "count": 403011
    },
    {
     "code": "AU",
-    "count": 381158
+    "count": 390339
    },
    {
     "code": "DE",
-    "count": 279603
+    "count": 297544
    },
    {
     "code": "BE",
-    "count": 276638
+    "count": 280279
    },
    {
     "code": "IN",
-    "count": 174117
+    "count": 145930
    },
    {
     "code": "US",
-    "count": 167768
+    "count": 138056
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

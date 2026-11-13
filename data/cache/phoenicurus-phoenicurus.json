@@ -2,7 +2,7 @@
  "key": "phoenicurus-phoenicurus",
  "name": "Phoenicurus phoenicurus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:49.975Z",
+ "fetchedAt": "2026-11-13T11:25:17.762Z",
  "names": {
   "da": "Rødstjert",
   "en": "Common Redstart",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12992,
-  "observations": 40555
+  "observations": 40729
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2025-05-05"
    },
    {
-    "id": 381217920,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381217920/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381217920/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/215610190",
-    "place": "87055 San Giovanni in Fiore CS, Italia",
-    "date": "2024-05-13"
-   },
-   {
     "id": 379574285,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379574285/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379574285/large.jpeg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/214728207",
     "place": "Куса, Челябинская обл., Россия",
     "date": "2024-05-10"
+   },
+   {
+    "id": 381217920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381217920/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381217920/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/215610190",
+    "place": "87055 San Giovanni in Fiore CS, Italia",
+    "date": "2024-05-13"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 212464778,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212464778/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212464778/large.jpg",
-   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+   "id": 125816384,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125816384/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125816384/large.jpg",
+   "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY), uploaded by Сергей Неклюдов",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/125291563",
-   "place": "07110 Vinezac, France",
-   "date": "2022-07-07"
+   "source": "https://www.inaturalist.org/photos/125816384",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5739317,
-  "dkTotal": 154037,
+  "dkTotal": 154488,
   "dkMonths": [
    4,
    0,
    10,
-   25464,
-   63408,
-   28800,
-   10108,
-   11504,
-   13421,
-   1220,
+   25595,
+   63601,
+   28916,
+   10157,
+   11437,
+   13442,
+   1228,
    28,
    4
   ],
-  "worldTotal": 1739009,
+  "worldTotal": 1783258,
   "topCountries": [
    {
     "code": "SE",
-    "count": 450661
+    "count": 452720
    },
    {
     "code": "FI",
-    "count": 201003
+    "count": 213737
    },
    {
     "code": "FR",
-    "count": 181401
+    "count": 184035
    },
    {
     "code": "NL",
-    "count": 159644
+    "count": 161823
    },
    {
     "code": "DK",
-    "count": 154037
+    "count": 154488
    },
    {
     "code": "DE",
-    "count": 97565
+    "count": 102172
    },
    {
     "code": "ES",
-    "count": 96508
+    "count": 96603
    },
    {
     "code": "NO",
-    "count": 72038
+    "count": 72543
    },
    {
     "code": "GB",
-    "count": 65302
+    "count": 71659
    },
    {
     "code": "BE",
-    "count": 27797
-   },
-   {
-    "code": "RU",
-    "count": 23817
+    "count": 29083
    },
    {
     "code": "PL",
-    "count": 23523
+    "count": 26905
+   },
+   {
+    "code": "RU",
+    "count": 24235
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

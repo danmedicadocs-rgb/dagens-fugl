@@ -2,7 +2,7 @@
  "key": "falco-peregrinus",
  "name": "Falco peregrinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:21.792Z",
+ "fetchedAt": "2026-11-13T11:09:43.964Z",
  "names": {
   "da": "Vandrefalk",
   "en": "Peregrine Falcon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4647,
-  "observations": 63649
+  "observations": 64551
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2025-04-01"
    },
    {
-    "id": 366575247,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366575247/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366575247/large.jpeg",
-    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/207256576",
-    "place": "Mount Hagen District, Western Highlands Province, Papua-Neuguinea",
-    "date": "2024-03-03"
+    "id": 285133910,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285133910/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285133910/large.jpeg",
+    "attribution": "(c) Elena A. Kizilova (Елена А. Кизилова), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/164768473",
+    "place": "Советский р-н, Новосибирск, Новосибирская обл., Россия",
+    "date": "2023-05-31"
    }
   ],
   "female": [
@@ -66,6 +66,16 @@
     "date": "2019-04-24"
    },
    {
+    "id": 742657755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/742657755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/742657755/large.jpg",
+    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/404404176",
+    "place": "Центральный р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-09-29"
+   },
+   {
     "id": 145446800,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145446800/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145446800/large.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/88173592",
     "place": "Atocha Ficoa, Ecuador",
     "date": "2021-07-22"
-   },
-   {
-    "id": 55981295,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55981295/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55981295/large.jpg",
-    "attribution": "(c) Mike Kerry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/35499744",
-    "place": "Seaford Head West, East Sussex, UK",
-    "date": "2015-04-28"
    }
   ],
   "juvenile": [
@@ -98,16 +98,6 @@
     "date": "2018-07-09"
    },
    {
-    "id": 143426653,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/143426653/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/143426653/large.jpg",
-    "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/87003265",
-    "place": "Каменск-Уральский, Свердловская обл., Россия",
-    "date": "2021-07-13"
-   },
-   {
     "id": 70194649,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70194649/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70194649/large.jpg",
@@ -116,87 +106,98 @@
     "source": "https://www.inaturalist.org/observations/44224637",
     "place": "Arica, Arica y Parinacota, Chile",
     "date": "2010-12-19"
+   },
+   {
+    "id": 143426653,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/143426653/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/143426653/large.jpg",
+    "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/87003265",
+    "place": "Каменск-Уральский, Свердловская обл., Россия",
+    "date": "2021-07-13"
    }
   ],
   "hero": {
-   "id": 414567658,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414567658/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414567658/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/233282981",
-   "place": "Сергиево-Посадский р-н, Московская обл., Россия",
-   "date": "2024-08-01"
+   "id": 226608554,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226608554/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226608554/large.jpg",
+   "attribution": "(c) Nicolás Villaseca Merino, some rights reserved (CC BY-SA), uploaded by Nicolás Villaseca Merino",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/226608554",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481047,
-  "dkTotal": 129274,
+  "dkTotal": 129802,
   "dkMonths": [
-   11223,
-   10417,
-   13525,
-   16688,
-   9455,
-   2797,
-   2887,
-   7276,
-   16549,
-   20147,
-   10273,
-   7817
+   11222,
+   10419,
+   13521,
+   16685,
+   9442,
+   2798,
+   2896,
+   7283,
+   16552,
+   20609,
+   10331,
+   7824
   ],
-  "worldTotal": 2919196,
+  "worldTotal": 2686624,
   "topCountries": [
    {
     "code": "US",
-    "count": 1179407
+    "count": 999719
    },
    {
     "code": "SE",
-    "count": 223561
+    "count": 224440
    },
    {
     "code": "NL",
-    "count": 205403
+    "count": 208706
    },
    {
     "code": "CA",
-    "count": 201285
+    "count": 176671
    },
    {
     "code": "DK",
-    "count": 129274
+    "count": 129802
    },
    {
     "code": "FR",
-    "count": 116138
+    "count": 117718
    },
    {
     "code": "GB",
-    "count": 106486
+    "count": 115133
    },
    {
     "code": "ES",
-    "count": 88229
+    "count": 86698
    },
    {
     "code": "NO",
-    "count": 81972
+    "count": 82593
    },
    {
     "code": "AU",
-    "count": 81803
+    "count": 81629
    },
    {
     "code": "BE",
-    "count": 72342
+    "count": 73953
    },
    {
-    "code": "MX",
-    "count": 40275
+    "code": "DE",
+    "count": 32585
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

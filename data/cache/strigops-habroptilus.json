@@ -2,7 +2,7 @@
  "key": "strigops-habroptilus",
  "name": "Strigops habroptilus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:38:20.130Z",
+ "fetchedAt": "2026-11-13T11:39:58.590Z",
  "names": {
   "da": null,
   "en": null,
@@ -30,14 +30,14 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 412477110,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412477110/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412477110/large.jpg",
-   "attribution": "(c) Oscar Dove, some rights reserved (CC BY)",
+   "id": 154022742,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154022742/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154022742/large.jpg",
+   "attribution": "(c) M Rutherford, some rights reserved (CC BY), uploaded by M Rutherford",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/232197898",
-   "place": "Auckland, NZ-AU, NZ",
-   "date": "2021-11-28"
+   "source": "https://www.inaturalist.org/photos/154022742",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -57,11 +57,11 @@
    0,
    0
   ],
-  "worldTotal": 578,
+  "worldTotal": 587,
   "topCountries": [
    {
     "code": "NZ",
-    "count": 508
+    "count": 517
    },
    {
     "code": "ZZ",
@@ -77,5 +77,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

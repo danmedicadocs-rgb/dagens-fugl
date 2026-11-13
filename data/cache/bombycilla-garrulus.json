@@ -2,7 +2,7 @@
  "key": "bombycilla-garrulus",
  "name": "Bombycilla garrulus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:46.130Z",
+ "fetchedAt": "2026-11-13T11:23:24.804Z",
  "names": {
   "da": "Silkehale",
   "en": "Bohemian Waxwing",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7429,
-  "observations": 41475
+  "observations": 42596
  },
  "photos": {
   "male": [
@@ -54,7 +54,18 @@
     "date": "2022-04-02"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 761668481,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761668481/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761668481/large.jpg",
+    "attribution": "(c) Adam Leigh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/413808807",
+    "place": "Snitter, Morpeth, UK",
+    "date": "2026-11-09"
+   }
+  ],
   "juvenile": [
    {
     "id": 744714006,
@@ -88,84 +99,85 @@
    }
   ],
   "hero": {
-   "id": 344298014,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344298014/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344298014/large.jpg",
-   "attribution": "(c) Paul Lewis, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/195672358",
-   "place": "Chorleywood Bottom, Chorleywood, Rickmansworth WD3, UK",
-   "date": "2024-01-03"
+   "id": 4836587,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4836587/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4836587/large.jpg",
+   "attribution": "(c) Fyn Kynd, some rights reserved (CC BY-SA), uploaded by Fyn Kynd",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/4836587",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2484605,
-  "dkTotal": 72976,
+  "dkTotal": 73426,
   "dkMonths": [
-   13866,
-   9567,
-   7229,
-   4139,
-   1024,
+   13865,
+   9573,
+   7235,
+   4135,
+   1021,
    2,
    9,
    2,
    0,
-   5999,
-   18614,
-   12479
+   6198,
+   18815,
+   12525
   ],
-  "worldTotal": 1158930,
+  "worldTotal": 1158272,
   "topCountries": [
    {
     "code": "SE",
-    "count": 413221
+    "count": 418639
    },
    {
     "code": "CA",
-    "count": 196403
+    "count": 184652
    },
    {
     "code": "FI",
-    "count": 160388
+    "count": 169291
    },
    {
     "code": "NO",
-    "count": 94674
+    "count": 96512
    },
    {
     "code": "US",
-    "count": 86827
+    "count": 77759
    },
    {
     "code": "DK",
-    "count": 72976
+    "count": 73426
    },
    {
     "code": "RU",
-    "count": 36596
+    "count": 38466
    },
    {
     "code": "NL",
-    "count": 31544
+    "count": 31781
    },
    {
     "code": "GB",
-    "count": 20590
+    "count": 20988
    },
    {
     "code": "EE",
-    "count": 10082
+    "count": 10426
    },
    {
     "code": "DE",
-    "count": 7010
+    "count": 7139
    },
    {
     "code": "BE",
-    "count": 3796
+    "count": 3827
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

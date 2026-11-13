@@ -2,7 +2,7 @@
  "key": "meleagris-gallopavo",
  "name": "Meleagris gallopavo",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:41:35.489Z",
+ "fetchedAt": "2026-11-13T11:42:46.027Z",
  "names": {
   "da": "Kalkun",
   "en": "Wild Turkey",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 906,
-  "observations": 204001
+  "observations": 206020
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 273311243,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273311243/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273311243/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/158122427",
-   "place": "Southcrest, London, ON, CA",
-   "date": "2023-04-30"
+   "id": 114655826,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114655826/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114655826/large.jpg",
+   "attribution": "(c) Judy Gallagher, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/114655826",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    30,
    0
   ],
-  "worldTotal": 2849158,
+  "worldTotal": 2756878,
   "topCountries": [
    {
     "code": "US",
-    "count": 2522132
+    "count": 2451176
    },
    {
     "code": "CA",
-    "count": 312017
+    "count": 291406
    },
    {
     "code": "NZ",
-    "count": 7210
+    "count": 6762
    },
    {
     "code": "MX",
-    "count": 3150
+    "count": 2821
    },
    {
     "code": "AU",
-    "count": 805
+    "count": 832
    },
    {
     "code": "NC",
-    "count": 305
-   },
-   {
-    "code": "CU",
-    "count": 224
+    "count": 285
    },
    {
     "code": "NL",
-    "count": 211
+    "count": 225
+   },
+   {
+    "code": "CU",
+    "count": 207
    },
    {
     "code": "CO",
-    "count": 198
+    "count": 189
    },
    {
     "code": "FR",
-    "count": 112
+    "count": 110
    },
    {
-    "code": "DO",
-    "count": 95
+    "code": "BR",
+    "count": 109
    },
    {
     "code": "DE",
-    "count": 86
+    "count": 91
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

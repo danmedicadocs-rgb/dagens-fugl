@@ -2,7 +2,7 @@
  "key": "larus-michahellis",
  "name": "Larus michahellis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:39.298Z",
+ "fetchedAt": "2026-11-13T11:15:01.661Z",
  "names": {
   "da": "Middelhavssølvmåge",
   "en": "Yellow-legged Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 59202,
-  "observations": 81750
+  "observations": 82853
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 9413670,
-  "dkTotal": 2126,
+  "dkTotal": 2127,
   "dkMonths": [
    192,
    172,
-   114,
+   115,
    45,
    38,
    78,
    242,
    289,
-   320,
-   326,
+   318,
+   327,
    152,
-   157
+   158
   ],
-  "worldTotal": 1834109,
+  "worldTotal": 1896307,
   "topCountries": [
    {
     "code": "ES",
-    "count": 706636
+    "count": 717078
    },
    {
     "code": "FR",
-    "count": 311916
+    "count": 322136
    },
    {
     "code": "PT",
-    "count": 260195
+    "count": 254899
    },
    {
     "code": "IT",
-    "count": 129401
-   },
-   {
-    "code": "TR",
-    "count": 59324
+    "count": 147499
    },
    {
     "code": "GR",
-    "count": 56522
+    "count": 61018
+   },
+   {
+    "code": "TR",
+    "count": 59854
    },
    {
     "code": "GB",
-    "count": 41401
+    "count": 45946
    },
    {
     "code": "CH",
-    "count": 39173
+    "count": 45876
    },
    {
     "code": "DE",
-    "count": 32401
+    "count": 35063
    },
    {
     "code": "BG",
-    "count": 26296
+    "count": 26337
    },
    {
     "code": "HR",
-    "count": 20236
+    "count": 22715
    },
    {
     "code": "GI",
-    "count": 19699
+    "count": 20793
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

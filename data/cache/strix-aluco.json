@@ -2,7 +2,7 @@
  "key": "strix-aluco",
  "name": "Strix aluco",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:41.765Z",
+ "fetchedAt": "2026-11-13T11:17:37.953Z",
  "names": {
   "da": "Natugle",
   "en": "Tawny owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19898,
-  "observations": 24545
+  "observations": 24908
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2023-05-18"
    },
    {
-    "id": 620298249,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/large.jpg",
-    "attribution": "(c) Susanne Primdahl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/340823102",
-    "place": "Ørregårdsvej 10, 8831 Løgstrup, Danmark",
-    "date": "2026-03-01"
-   },
-   {
     "id": 556670227,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670227/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670227/large.jpg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/308549310",
     "place": "Abbots Leigh Cricket Club, Bristol BS8 3QF, UK",
     "date": "2025-08-23"
+   },
+   {
+    "id": 620298249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/large.jpg",
+    "attribution": "(c) Susanne Primdahl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/340823102",
+    "place": "Ørregårdsvej 10, 8831 Løgstrup, Danmark",
+    "date": "2026-03-01"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 9282206,
-  "dkTotal": 65637,
+  "dkTotal": 66218,
   "dkMonths": [
-   7048,
-   6518,
-   7493,
-   6843,
-   7467,
-   4763,
-   2727,
-   3676,
-   4992,
-   4378,
-   4950,
-   4726
+   7074,
+   6550,
+   7517,
+   6858,
+   7515,
+   4770,
+   2737,
+   3694,
+   5030,
+   4640,
+   5032,
+   4744
   ],
-  "worldTotal": 1019206,
+  "worldTotal": 1049122,
   "topCountries": [
    {
     "code": "SE",
-    "count": 303208
+    "count": 304486
    },
    {
     "code": "FR",
-    "count": 149200
-   },
-   {
-    "code": "FI",
-    "count": 94229
+    "count": 151336
    },
    {
     "code": "GB",
-    "count": 92377
+    "count": 102043
+   },
+   {
+    "code": "FI",
+    "count": 97588
    },
    {
     "code": "DK",
-    "count": 65637
+    "count": 66218
    },
    {
     "code": "NO",
-    "count": 65057
+    "count": 65713
    },
    {
     "code": "NL",
-    "count": 55984
+    "count": 57859
    },
    {
     "code": "BE",
-    "count": 47773
+    "count": 49164
    },
    {
     "code": "ES",
-    "count": 44472
+    "count": 46597
    },
    {
     "code": "DE",
-    "count": 28329
+    "count": 30205
    },
    {
     "code": "PT",
-    "count": 16105
+    "count": 15891
    },
    {
     "code": "IT",
-    "count": 7879
+    "count": 8999
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

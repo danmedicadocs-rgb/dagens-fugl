@@ -2,7 +2,7 @@
  "key": "xema-sabini",
  "name": "Xema sabini",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:49.444Z",
+ "fetchedAt": "2026-11-13T11:14:28.244Z",
  "names": {
   "da": "Sabinemåge",
   "en": "Sabine's Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4571,
-  "observations": 3601
+  "observations": 3658
  },
  "photos": {
   "male": [],
@@ -78,14 +78,14 @@
     "date": "2015-04-08"
    },
    {
-    "id": 332925231,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332925231/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332925231/large.jpg",
-    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "id": 118831154,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118831154/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118831154/large.jpg",
+    "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/189975805",
-    "place": "Vendée, Pays de la Loire, France",
-    "date": "2023-11-04"
+    "source": "https://www.inaturalist.org/observations/72838161",
+    "place": "Enfield, UK",
+    "date": "2011-09-11"
    }
   ],
   "hero": {
@@ -101,7 +101,7 @@
  },
  "gbif": {
   "key": 2481221,
-  "dkTotal": 1242,
+  "dkTotal": 1263,
   "dkMonths": [
    7,
    0,
@@ -111,62 +111,63 @@
    0,
    1,
    39,
-   680,
-   469,
+   681,
+   489,
    36,
    7
   ],
-  "worldTotal": 147275,
+  "worldTotal": 92146,
   "topCountries": [
    {
     "code": "US",
-    "count": 108623
+    "count": 57376
    },
    {
     "code": "CA",
-    "count": 10459
+    "count": 8354
    },
    {
     "code": "NL",
-    "count": 4574
+    "count": 4932
    },
    {
     "code": "SE",
-    "count": 4347
-   },
-   {
-    "code": "ES",
-    "count": 2879
+    "count": 4359
    },
    {
     "code": "GB",
-    "count": 2854
+    "count": 3242
+   },
+   {
+    "code": "ES",
+    "count": 2252
    },
    {
     "code": "FR",
-    "count": 1653
+    "count": 1645
    },
    {
     "code": "DK",
-    "count": 1242
-   },
-   {
-    "code": "MX",
-    "count": 1193
+    "count": 1263
    },
    {
     "code": "ZA",
-    "count": 994
+    "count": 905
    },
    {
     "code": "NO",
-    "count": 861
+    "count": 877
    },
    {
-    "code": "CR",
-    "count": 819
+    "code": "BE",
+    "count": 767
+   },
+   {
+    "code": "SJ",
+    "count": 714
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

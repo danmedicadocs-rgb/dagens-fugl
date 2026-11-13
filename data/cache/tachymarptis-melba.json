@@ -2,7 +2,7 @@
  "key": "tachymarptis-melba",
  "name": "Tachymarptis melba",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:33.309Z",
+ "fetchedAt": "2026-11-13T11:18:12.313Z",
  "names": {
   "da": "Alpesejler",
   "en": "Alpine Swift",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 72516,
-  "observations": 7533
+  "observations": 7581
  },
  "photos": {
   "male": [],
@@ -89,19 +89,19 @@
    }
   ],
   "hero": {
-   "id": 78329760,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78329760/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78329760/large.jpeg",
-   "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/49344144",
-   "place": "La Medina, Constantine, Algérie",
-   "date": "2020-06-12"
+   "id": 189480813,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189480813/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189480813/large.jpg",
+   "attribution": "no rights reserved, uploaded by Paulo Caseirito",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/189480813",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2477411,
-  "dkTotal": 245,
+  "dkTotal": 246,
   "dkMonths": [
    0,
    0,
@@ -111,62 +111,63 @@
    15,
    4,
    3,
-   31,
+   32,
    21,
    49,
    0
   ],
-  "worldTotal": 270345,
+  "worldTotal": 274360,
   "topCountries": [
    {
     "code": "ES",
-    "count": 61605
+    "count": 62826
    },
    {
     "code": "ZA",
-    "count": 45875
+    "count": 45728
    },
    {
     "code": "FR",
-    "count": 37064
+    "count": 38032
    },
    {
     "code": "TR",
-    "count": 18723
-   },
-   {
-    "code": "IN",
-    "count": 16604
+    "count": 18298
    },
    {
     "code": "IL",
-    "count": 15062
+    "count": 15202
    },
    {
     "code": "GR",
-    "count": 13272
+    "count": 15093
+   },
+   {
+    "code": "IN",
+    "count": 12096
    },
    {
     "code": "IT",
-    "count": 7948
-   },
-   {
-    "code": "PT",
-    "count": 7388
+    "count": 10522
    },
    {
     "code": "BG",
-    "count": 7137
+    "count": 7681
+   },
+   {
+    "code": "PT",
+    "count": 7135
    },
    {
     "code": "CH",
-    "count": 4952
+    "count": 6009
    },
    {
-    "code": "NA",
-    "count": 2836
+    "code": "PS",
+    "count": 2837
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

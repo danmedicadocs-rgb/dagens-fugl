@@ -2,7 +2,7 @@
  "key": "emberiza-citrinella",
  "name": "Emberiza citrinella",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:25.001Z",
+ "fetchedAt": "2026-11-13T11:28:22.185Z",
  "names": {
   "da": "Gulspurv",
   "en": "Yellowhammer",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 9195,
-  "observations": 60014
+  "observations": 60538
  },
  "photos": {
   "male": [
-   {
-    "id": 203542182,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203542182/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203542182/large.jpg",
-    "attribution": "(c) Patrick Meurin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120350793",
-    "place": "Niederanven, Luxemburg",
-    "date": "2022-06-01"
-   },
    {
     "id": 470959834,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470959834/medium.jpeg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/262109792",
     "place": "4292 Dobri dol, Bulgaria",
     "date": "2025-02-18"
+   },
+   {
+    "id": 203542182,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203542182/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203542182/large.jpg",
+    "attribution": "(c) Patrick Meurin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120350793",
+    "place": "Niederanven, Luxemburg",
+    "date": "2022-06-01"
    },
    {
     "id": 350032411,
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2491534,
-  "dkTotal": 346429,
+  "dkTotal": 348453,
   "dkMonths": [
-   20683,
-   20604,
-   43176,
-   49859,
-   55123,
-   40664,
-   33897,
-   16199,
-   12925,
-   24104,
-   16110,
-   13004
+   20700,
+   20651,
+   43293,
+   50022,
+   55328,
+   40866,
+   34043,
+   16227,
+   12996,
+   24880,
+   16322,
+   13044
   ],
-  "worldTotal": 3445263,
+  "worldTotal": 3546867,
   "topCountries": [
    {
     "code": "SE",
-    "count": 853627
+    "count": 859733
    },
    {
     "code": "NO",
-    "count": 408651
+    "count": 413903
    },
    {
     "code": "DK",
-    "count": 346429
+    "count": 348453
    },
    {
     "code": "FI",
-    "count": 295415
+    "count": 321801
    },
    {
     "code": "FR",
-    "count": 290225
+    "count": 292426
    },
    {
     "code": "DE",
-    "count": 258204
+    "count": 267434
    },
    {
     "code": "NL",
-    "count": 257531
+    "count": 260174
    },
    {
     "code": "GB",
-    "count": 218792
+    "count": 239878
    },
    {
     "code": "NZ",
-    "count": 99074
-   },
-   {
-    "code": "BE",
-    "count": 62013
-   },
-   {
-    "code": "CZ",
-    "count": 61715
+    "count": 93206
    },
    {
     "code": "PL",
-    "count": 57714
+    "count": 73943
+   },
+   {
+    "code": "CZ",
+    "count": 66831
+   },
+   {
+    "code": "BE",
+    "count": 65225
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

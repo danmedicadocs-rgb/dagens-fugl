@@ -2,7 +2,7 @@
  "key": "crotophaga-ani",
  "name": "Crotophaga ani",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:15.006Z",
+ "fetchedAt": "2026-11-13T11:51:01.776Z",
  "names": {
   "da": "Ani",
   "en": "Smooth-billed Ani",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1971,
-  "observations": 18620
+  "observations": 18895
  },
  "photos": {
   "male": [
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 701399,
+  "worldTotal": 573780,
   "topCountries": [
    {
     "code": "CO",
-    "count": 188691
+    "count": 146866
    },
    {
     "code": "BR",
-    "count": 150499
+    "count": 137951
    },
    {
     "code": "EC",
-    "count": 57998
+    "count": 46870
    },
    {
     "code": "PA",
-    "count": 36212
+    "count": 26370
    },
    {
     "code": "PR",
-    "count": 34235
+    "count": 26143
    },
    {
     "code": "PE",
-    "count": 30635
+    "count": 24701
    },
    {
     "code": "CU",
-    "count": 25862
-   },
-   {
-    "code": "AR",
-    "count": 24028
+    "count": 20413
    },
    {
     "code": "VE",
-    "count": 22204
+    "count": 19028
+   },
+   {
+    "code": "AR",
+    "count": 18099
    },
    {
     "code": "CR",
-    "count": 19892
+    "count": 14889
    },
    {
     "code": "BS",
-    "count": 17709
+    "count": 13458
    },
    {
     "code": "TT",
-    "count": 12935
+    "count": 10572
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

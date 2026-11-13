@@ -2,7 +2,7 @@
  "key": "chordeiles-minor",
  "name": "Chordeiles minor",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:46:40.345Z",
+ "fetchedAt": "2026-11-13T11:46:36.992Z",
  "names": {
   "da": "Nathøg",
   "en": "Common Nighthawk",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19577,
-  "observations": 20632
+  "observations": 20692
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 140534674,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534674/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534674/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/85416365",
-   "place": "Jardim Veraneio, Campo Grande - MS, Brasil",
-   "date": "2020-11-08"
+   "id": 14987767,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14987767/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14987767/large.jpeg",
+   "attribution": "(c) Pete Diamond, some rights reserved (CC BY), uploaded by Pete Diamond",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/14987767",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 986330,
+  "worldTotal": 933585,
   "topCountries": [
    {
     "code": "US",
-    "count": 843870
+    "count": 800255
    },
    {
     "code": "CA",
-    "count": 122702
+    "count": 117956
    },
    {
     "code": "CO",
-    "count": 3901
+    "count": 2929
    },
    {
     "code": "PA",
-    "count": 3686
-   },
-   {
-    "code": "BZ",
-    "count": 2376
+    "count": 2575
    },
    {
     "code": "MX",
-    "count": 2198
+    "count": 1843
+   },
+   {
+    "code": "BZ",
+    "count": 1638
    },
    {
     "code": "CR",
-    "count": 1789
+    "count": 1292
    },
    {
     "code": "BR",
-    "count": 925
+    "count": 856
    },
    {
     "code": "HN",
-    "count": 662
-   },
-   {
-    "code": "PY",
     "count": 470
    },
    {
-    "code": "AR",
-    "count": 396
+    "code": "PY",
+    "count": 390
    },
    {
-    "code": "PE",
-    "count": 355
+    "code": "AR",
+    "count": 340
+   },
+   {
+    "code": "BM",
+    "count": 298
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

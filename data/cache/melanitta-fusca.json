@@ -2,7 +2,7 @@
  "key": "melanitta-fusca",
  "name": "Melanitta fusca",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:28.800Z",
+ "fetchedAt": "2026-11-13T11:04:58.653Z",
  "names": {
   "da": "Fløjlsand",
   "en": "Velvet Scoter",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 850858,
-  "observations": 2876
+  "observations": 3003
  },
  "photos": {
   "male": [
@@ -88,84 +88,85 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 618958368,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618958368/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618958368/large.jpg",
-   "attribution": "(c) R Clarke, some rights reserved (CC BY)",
+   "id": 254165134,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254165134/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254165134/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/340158660",
-   "place": "Scotland, GB",
-   "date": "2026-02-09"
+   "source": "https://www.inaturalist.org/photos/254165134",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498238,
-  "dkTotal": 86392,
+  "dkTotal": 87309,
   "dkMonths": [
-   9098,
-   7740,
-   8434,
-   8071,
-   5119,
-   1409,
-   3503,
-   4563,
-   9019,
-   13701,
-   9920,
-   5727
+   9129,
+   7766,
+   8455,
+   8090,
+   5129,
+   1405,
+   3497,
+   4584,
+   9053,
+   14300,
+   10080,
+   5734
   ],
-  "worldTotal": 626096,
+  "worldTotal": 640444,
   "topCountries": [
    {
     "code": "SE",
-    "count": 235045
+    "count": 236383
    },
    {
     "code": "NO",
-    "count": 167439
+    "count": 169414
    },
    {
     "code": "DK",
-    "count": 86392
+    "count": 87309
    },
    {
     "code": "US",
-    "count": 23263
+    "count": 26873
    },
    {
     "code": "NL",
-    "count": 19323
-   },
-   {
-    "code": "GB",
-    "count": 15042
+    "count": 19424
    },
    {
     "code": "FI",
-    "count": 13965
+    "count": 16856
+   },
+   {
+    "code": "GB",
+    "count": 16717
    },
    {
     "code": "EE",
-    "count": 13766
+    "count": 14185
    },
    {
     "code": "DE",
-    "count": 13140
+    "count": 13396
    },
    {
     "code": "FR",
-    "count": 8130
+    "count": 8347
    },
    {
     "code": "PL",
-    "count": 6632
+    "count": 7075
    },
    {
     "code": "LT",
-    "count": 3788
+    "count": 3864
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

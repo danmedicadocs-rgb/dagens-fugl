@@ -2,7 +2,7 @@
  "key": "rissa-tridactyla",
  "name": "Rissa tridactyla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:43.011Z",
+ "fetchedAt": "2026-11-13T11:14:22.225Z",
  "names": {
   "da": "Ride",
   "en": "Black-legged Kittiwake",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4494,
-  "observations": 17820
+  "observations": 17994
  },
  "photos": {
   "male": [],
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 177338326,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/large.jpeg",
-   "attribution": "(c) Iona M., some rights reserved (CC BY)",
+   "id": 150280970,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280970/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280970/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY), uploaded by Donald Davesne",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/105663578",
-   "place": "Oban PA34 5AD, UK",
-   "date": "2022-01-27"
+   "source": "https://www.inaturalist.org/photos/150280970",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481205,
-  "dkTotal": 62668,
+  "dkTotal": 63377,
   "dkMonths": [
    5849,
-   3857,
-   2621,
-   3383,
-   5551,
-   2426,
-   4043,
-   5977,
-   6216,
-   11376,
-   8423,
-   2908
+   3859,
+   2627,
+   3394,
+   5571,
+   2461,
+   4056,
+   6018,
+   6257,
+   11810,
+   8519,
+   2918
   ],
-  "worldTotal": 1114651,
+  "worldTotal": 1077837,
   "topCountries": [
    {
     "code": "GB",
-    "count": 358559
+    "count": 368955
    },
    {
     "code": "US",
-    "count": 177746
+    "count": 145174
    },
    {
     "code": "CA",
-    "count": 114210
+    "count": 97540
    },
    {
     "code": "NO",
-    "count": 81108
+    "count": 81584
    },
    {
     "code": "DK",
-    "count": 62668
+    "count": 63377
    },
    {
     "code": "SE",
-    "count": 53578
+    "count": 53897
    },
    {
     "code": "NL",
-    "count": 39551
+    "count": 39736
    },
    {
     "code": "BE",
-    "count": 37482
+    "count": 37589
    },
    {
     "code": "IE",
-    "count": 36427
+    "count": 36839
    },
    {
     "code": "FR",
-    "count": 31984
+    "count": 32376
    },
    {
     "code": "DE",
-    "count": 25957
+    "count": 26199
    },
    {
     "code": "IS",
-    "count": 25480
+    "count": 25792
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

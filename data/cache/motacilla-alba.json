@@ -2,7 +2,7 @@
  "key": "motacilla-alba",
  "name": "Motacilla alba",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:33.822Z",
+ "fetchedAt": "2026-11-13T11:26:43.845Z",
  "names": {
   "da": "Vipstjert",
   "en": "White Wagtail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13695,
-  "observations": 208867
+  "observations": 211109
  },
  "photos": {
   "male": [
@@ -88,6 +88,16 @@
   ],
   "juvenile": [
    {
+    "id": 347901401,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347901401/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347901401/large.jpg",
+    "attribution": "(c) Wolfgang Ahlmer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/197516393",
+    "place": "93 Wiesent, Deutschland",
+    "date": "2020-08-11"
+   },
+   {
     "id": 597181006,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597181006/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597181006/large.jpg",
@@ -106,97 +116,88 @@
     "source": "https://www.inaturalist.org/observations/286991725",
     "place": "中国云南省昆明市五华区",
     "date": "2025-06-05"
-   },
-   {
-    "id": 347901401,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347901401/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347901401/large.jpg",
-    "attribution": "(c) Wolfgang Ahlmer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/197516393",
-    "place": "93 Wiesent, Deutschland",
-    "date": "2020-08-11"
    }
   ],
   "hero": {
-   "id": 734909757,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734909757/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734909757/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/400477114",
-   "place": "Светлый, Оренбургская обл., Россия, 462740",
-   "date": "2026-09-15"
+   "id": 2653533,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2653533/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2653533/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/2653533",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9687165,
-  "dkTotal": 461779,
+  "dkTotal": 464025,
   "dkMonths": [
    373,
-   1054,
-   54442,
-   98753,
-   70131,
-   49308,
-   48217,
-   51841,
-   60497,
-   26678,
-   135,
+   1057,
+   54567,
+   99072,
+   70373,
+   49606,
+   48465,
+   51979,
+   60876,
+   27160,
+   147,
    283
   ],
-  "worldTotal": 6932635,
+  "worldTotal": 7195937,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1003206
-   },
-   {
-    "code": "ES",
-    "count": 722057
+    "count": 1010966
    },
    {
     "code": "GB",
-    "count": 710187
+    "count": 813268
+   },
+   {
+    "code": "ES",
+    "count": 738171
    },
    {
     "code": "FR",
-    "count": 569515
+    "count": 582471
    },
    {
     "code": "NO",
-    "count": 522437
+    "count": 529682
    },
    {
     "code": "NL",
-    "count": 474071
+    "count": 487709
    },
    {
     "code": "DK",
-    "count": 461779
+    "count": 464025
    },
    {
     "code": "DE",
-    "count": 310205
-   },
-   {
-    "code": "PT",
-    "count": 239139
+    "count": 326437
    },
    {
     "code": "FI",
-    "count": 210419
+    "count": 244098
+   },
+   {
+    "code": "PT",
+    "count": 233247
    },
    {
     "code": "TW",
-    "count": 177797
+    "count": 151881
    },
    {
-    "code": "IN",
-    "count": 131512
+    "code": "RU",
+    "count": 130933
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

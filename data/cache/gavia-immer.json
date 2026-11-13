@@ -2,7 +2,7 @@
  "key": "gavia-immer",
  "name": "Gavia immer",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:32.191Z",
+ "fetchedAt": "2026-11-13T11:05:48.344Z",
  "names": {
   "da": "Islom",
   "en": "Common loon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4626,
-  "observations": 70331
+  "observations": 71148
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2026-03-06"
    },
    {
-    "id": 652213142,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/652213142/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/652213142/large.jpg",
-    "attribution": "(c) Robbie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/357587231",
-    "place": "Biddeford, ME, USA",
-    "date": "2026-04-23"
-   },
-   {
     "id": 474375920,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474375920/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474375920/large.jpeg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/264005993",
     "place": "St. Augustine, FL, USA",
     "date": "2025-03-01"
+   },
+   {
+    "id": 652213142,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/652213142/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/652213142/large.jpg",
+    "attribution": "(c) Robbie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/357587231",
+    "place": "Biddeford, ME, USA",
+    "date": "2026-04-23"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 418281664,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418281664/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418281664/large.jpg",
-   "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
+   "id": 401884218,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401884218/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401884218/large.jpg",
+   "attribution": "(c) Matt Felperin, some rights reserved (CC BY), uploaded by Matt Felperin",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/235220977",
-   "place": "Estrie, QC, Canada",
-   "date": "2024-08-08"
+   "source": "https://www.inaturalist.org/photos/401884218",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481962,
-  "dkTotal": 8445,
+  "dkTotal": 8476,
   "dkMonths": [
    499,
-   254,
+   253,
    221,
-   487,
-   4604,
+   485,
+   4600,
    97,
-   9,
+   10,
    56,
    96,
-   847,
-   895,
+   871,
+   908,
    372
   ],
-  "worldTotal": 3220203,
+  "worldTotal": 2892895,
   "topCountries": [
    {
     "code": "US",
-    "count": 2197821
+    "count": 1934418
    },
    {
     "code": "CA",
-    "count": 825076
+    "count": 757989
    },
    {
     "code": "NO",
-    "count": 46819
+    "count": 47367
    },
    {
     "code": "GB",
-    "count": 38818
+    "count": 43917
    },
    {
     "code": "NL",
-    "count": 24198
+    "count": 24290
    },
    {
     "code": "IS",
-    "count": 16878
+    "count": 16496
    },
    {
     "code": "ES",
-    "count": 15303
+    "count": 12901
    },
    {
     "code": "FR",
-    "count": 9355
-   },
-   {
-    "code": "SE",
-    "count": 9227
+    "count": 9700
    },
    {
     "code": "IE",
-    "count": 8852
+    "count": 9487
+   },
+   {
+    "code": "SE",
+    "count": 9241
    },
    {
     "code": "DK",
-    "count": 8445
+    "count": 8476
    },
    {
     "code": "MX",
-    "count": 7926
+    "count": 6792
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

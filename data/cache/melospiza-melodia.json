@@ -2,7 +2,7 @@
  "key": "melospiza-melodia",
  "name": "Melospiza melodia",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:43:45.704Z",
+ "fetchedAt": "2026-11-13T11:44:30.070Z",
  "names": {
   "da": "Sangspurv",
   "en": "Song Sparrow",
@@ -19,19 +19,19 @@
  },
  "inat": {
   "id": 9100,
-  "observations": 276992
+  "observations": 279591
  },
  "photos": {
   "male": [
    {
-    "id": 395500069,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395500069/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395500069/large.jpg",
+    "id": 360431160,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360431160/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360431160/large.jpg",
     "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/223227598",
+    "source": "https://www.inaturalist.org/observations/203957061",
     "place": "Talbot, London, ON N6P, Canada",
-    "date": "2024-06-16"
+    "date": "2024-03-25"
    },
    {
     "id": 398411449,
@@ -98,16 +98,6 @@
     "date": "2024-09-14"
    },
    {
-    "id": 45998497,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998497/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998497/large.jpg",
-    "attribution": "(c) Garth Harwood, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/29473667",
-    "place": "San Mateo County, CA, USA",
-    "date": "2019-07-23"
-   },
-   {
     "id": 86438817,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86438817/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86438817/large.jpg",
@@ -116,17 +106,27 @@
     "source": "https://www.inaturalist.org/observations/54327790",
     "place": "San Mateo County, CA, USA",
     "date": "2020-07-25"
+   },
+   {
+    "id": 91958157,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91958157/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91958157/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/57641825",
+    "place": "Ottawa, ON, Canada",
+    "date": "2020-08-21"
    }
   ],
   "hero": {
-   "id": 395500069,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395500069/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395500069/large.jpg",
-   "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
+   "id": 355151027,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355151027/medium.png",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/355151027/large.png",
+   "attribution": "(c) Daniel Levitis, some rights reserved (CC BY), uploaded by Daniel Levitis",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/223227598",
-   "place": "Talbot, London, ON N6P, Canada",
-   "date": "2024-06-16"
+   "source": "https://www.inaturalist.org/photos/355151027",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,47 +146,47 @@
    0,
    0
   ],
-  "worldTotal": 22489850,
+  "worldTotal": 21883842,
   "topCountries": [
    {
     "code": "US",
-    "count": 18370005
+    "count": 17879678
    },
    {
     "code": "CA",
-    "count": 4072134
+    "count": 3962346
    },
    {
     "code": "MX",
-    "count": 44392
+    "count": 38259
    },
    {
     "code": "PM",
-    "count": 1010
+    "count": 1213
    },
    {
     "code": "NL",
-    "count": 918
+    "count": 922
    },
    {
     "code": "NO",
-    "count": 124
-   },
-   {
-    "code": "BE",
-    "count": 122
-   },
-   {
-    "code": "BM",
-    "count": 98
-   },
-   {
-    "code": "SE",
-    "count": 66
+    "count": 127
    },
    {
     "code": "GB",
-    "count": 58
+    "count": 112
+   },
+   {
+    "code": "BE",
+    "count": 94
+   },
+   {
+    "code": "BM",
+    "count": 93
+   },
+   {
+    "code": "SE",
+    "count": 65
    },
    {
     "code": "ZZ",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "grus-grus",
  "name": "Grus grus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:00.367Z",
+ "fetchedAt": "2026-11-13T11:10:25.657Z",
  "names": {
   "da": "Trane",
   "en": "Common Crane",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 41,
-  "observations": 42551
+  "observations": 43596
  },
  "photos": {
   "male": [
@@ -34,7 +34,18 @@
     "date": "2025-02-22"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 760107102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760107102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760107102/large.jpg",
+    "attribution": "(c) Rhys, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/413030428",
+    "place": "Gloucester GL2 7BT, UK",
+    "date": "2026-10-18"
+   }
+  ],
   "juvenile": [
    {
     "id": 208970875,
@@ -68,84 +79,85 @@
    }
   ],
   "hero": {
-   "id": 471791855,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/large.jpeg",
-   "attribution": "(c) Trixie Hürkamp, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/262701126",
-   "place": "49457 Drebber, Deutschland",
-   "date": "2025-02-22"
+   "id": 68002894,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68002894/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68002894/large.jpg",
+   "attribution": "(c) מינוזיג - MinoZig, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/68002894",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2474950,
-  "dkTotal": 220768,
+  "dkTotal": 222290,
   "dkMonths": [
-   4089,
-   10787,
-   53713,
-   47920,
-   36091,
-   11150,
-   10866,
-   13784,
-   13477,
-   12608,
-   3662,
-   2513
+   4088,
+   10811,
+   53839,
+   48017,
+   36133,
+   11189,
+   10893,
+   13811,
+   13551,
+   13500,
+   3821,
+   2529
   ],
-  "worldTotal": 2522264,
+  "worldTotal": 2566278,
   "topCountries": [
    {
     "code": "SE",
-    "count": 909607
+    "count": 913884
    },
    {
     "code": "DE",
-    "count": 254732
+    "count": 262861
    },
    {
     "code": "DK",
-    "count": 220768
+    "count": 222290
    },
    {
     "code": "NO",
-    "count": 158469
+    "count": 160040
    },
    {
     "code": "FR",
-    "count": 153152
+    "count": 154844
    },
    {
     "code": "EE",
-    "count": 120155
+    "count": 120846
    },
    {
     "code": "NL",
-    "count": 105343
+    "count": 109990
    },
    {
     "code": "ES",
-    "count": 101719
+    "count": 99540
    },
    {
     "code": "FI",
-    "count": 66597
+    "count": 86378
    },
    {
     "code": "PL",
-    "count": 65500
+    "count": 77762
    },
    {
     "code": "HU",
-    "count": 64682
+    "count": 64449
    },
    {
     "code": "ET",
-    "count": 31634
+    "count": 31583
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

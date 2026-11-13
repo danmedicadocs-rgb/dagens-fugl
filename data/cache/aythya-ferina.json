@@ -2,7 +2,7 @@
  "key": "aythya-ferina",
  "name": "Aythya ferina",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:42.832Z",
+ "fetchedAt": "2026-11-13T11:04:17.375Z",
  "names": {
   "da": "Taffeland",
   "en": "Common Pochard",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7045,
-  "observations": 46180
+  "observations": 46720
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498255,
-  "dkTotal": 191169,
+  "dkTotal": 192271,
   "dkMonths": [
-   20215,
-   18695,
-   26164,
-   24422,
-   20667,
-   13625,
-   10349,
-   10062,
-   10299,
-   12837,
-   12206,
-   11582
+   20257,
+   18741,
+   26242,
+   24459,
+   20698,
+   13645,
+   10382,
+   10102,
+   10346,
+   13347,
+   12357,
+   11649
   ],
-  "worldTotal": 1868174,
+  "worldTotal": 1922651,
   "topCountries": [
    {
     "code": "NL",
-    "count": 308873
-   },
-   {
-    "code": "SE",
-    "count": 263440
+    "count": 314714
    },
    {
     "code": "GB",
-    "count": 247667
+    "count": 278016
+   },
+   {
+    "code": "SE",
+    "count": 264675
    },
    {
     "code": "DK",
-    "count": 191169
+    "count": 192271
    },
    {
     "code": "FR",
-    "count": 168917
+    "count": 173047
    },
    {
     "code": "ES",
-    "count": 133476
+    "count": 129258
    },
    {
     "code": "BE",
-    "count": 123262
+    "count": 124781
    },
    {
     "code": "DE",
-    "count": 89671
+    "count": 93646
    },
    {
     "code": "JP",
-    "count": 39172
+    "count": 42841
    },
    {
     "code": "IN",
-    "count": 36791
+    "count": 30308
+   },
+   {
+    "code": "PL",
+    "count": 23707
    },
    {
     "code": "CZ",
-    "count": 21998
-   },
-   {
-    "code": "RU",
-    "count": 20702
+    "count": 22539
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "pelecanus-occidentalis",
  "name": "Pelecanus occidentalis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:16.251Z",
+ "fetchedAt": "2026-11-13T11:44:58.573Z",
  "names": {
   "da": "Brun Pelikan",
   "en": "Brown pelican",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4328,
-  "observations": 150217
+  "observations": 152166
  },
  "photos": {
   "male": [
@@ -98,35 +98,35 @@
     "date": "2022-01-07"
    },
    {
-    "id": 396173245,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/396173245/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/396173245/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/223581813",
-    "place": "Homestead, FL, US",
-    "date": "2024-06-18"
+    "id": 60368145,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60368145/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60368145/large.jpeg",
+    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/38021915",
+    "place": "Malaquite Visitor Center, Texas 78418, USA",
+    "date": "2018-08-02"
    },
    {
-    "id": 495401620,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/495401620/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/495401620/large.jpg",
+    "id": 180626255,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180626255/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180626255/large.jpeg",
     "attribution": "no rights reserved",
     "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/275431995",
-    "place": "17 Mile Dr, Pebble Beach, CA, US",
-    "date": "2025-04-27"
+    "source": "https://www.inaturalist.org/observations/107400455",
+    "place": "Windsor Forest, Savannah, GA, USA",
+    "date": "2022-02-24"
    }
   ],
   "hero": {
-   "id": 179753525,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179753525/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179753525/large.jpg",
-   "attribution": "(c) Henrik Kibak, some rights reserved (CC BY)",
+   "id": 172548873,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172548873/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172548873/large.jpg",
+   "attribution": "(c) Jay Pruett, some rights reserved (CC BY), uploaded by Jay Pruett",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/106936959",
-   "place": "Coast Blvd, San Diego, CA, US",
-   "date": "2022-02-15"
+   "source": "https://www.inaturalist.org/photos/172548873",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 2922631,
+  "worldTotal": 2507760,
   "topCountries": [
    {
     "code": "US",
-    "count": 2371497
+    "count": 2036787
    },
    {
     "code": "MX",
-    "count": 162295
+    "count": 142965
    },
    {
     "code": "CR",
-    "count": 68406
+    "count": 60180
    },
    {
     "code": "EC",
-    "count": 46274
+    "count": 40242
    },
    {
     "code": "PR",
-    "count": 41449
+    "count": 33375
    },
    {
     "code": "PA",
-    "count": 38148
+    "count": 30709
    },
    {
     "code": "CO",
-    "count": 29061
+    "count": 25555
    },
    {
     "code": "BZ",
-    "count": 28536
+    "count": 23298
    },
    {
     "code": "CU",
-    "count": 17666
+    "count": 12849
    },
    {
     "code": "VE",
-    "count": 11600
-   },
-   {
-    "code": "HN",
-    "count": 11203
+    "count": 8655
    },
    {
     "code": "AW",
-    "count": 9082
+    "count": 8355
+   },
+   {
+    "code": "VI",
+    "count": 7778
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

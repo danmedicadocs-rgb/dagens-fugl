@@ -2,7 +2,7 @@
  "key": "lymnocryptes-minimus",
  "name": "Lymnocryptes minimus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:15.471Z",
+ "fetchedAt": "2026-11-13T11:12:14.414Z",
  "names": {
   "da": "Enkeltbekkasin",
   "en": "Jack Snipe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3911,
-  "observations": 1670
+  "observations": 1709
  },
  "photos": {
   "male": [],
@@ -58,84 +58,85 @@
    }
   ],
   "hero": {
-   "id": 748827873,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748827873/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748827873/large.jpg",
-   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "id": 265042804,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265042804/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265042804/large.jpg",
+   "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA), uploaded by Kudaibergen Amirekul",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/407480991",
-   "place": "Rainham Marshes RSPB",
-   "date": "2026-10-10"
+   "source": "https://www.inaturalist.org/photos/265042804",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481835,
-  "dkTotal": 11145,
+  "dkTotal": 11269,
   "dkMonths": [
    1126,
-   885,
-   838,
-   1266,
-   165,
+   890,
+   841,
+   1268,
+   168,
    10,
    0,
    20,
-   913,
-   3714,
-   1491,
-   699
+   916,
+   3815,
+   1497,
+   700
   ],
-  "worldTotal": 179197,
+  "worldTotal": 184096,
   "topCountries": [
    {
     "code": "SE",
-    "count": 56247
+    "count": 56653
    },
    {
     "code": "GB",
-    "count": 21890
-   },
-   {
-    "code": "NO",
-    "count": 15260
+    "count": 23999
    },
    {
     "code": "NL",
-    "count": 15123
+    "count": 15594
+   },
+   {
+    "code": "NO",
+    "count": 15552
    },
    {
     "code": "FR",
-    "count": 12380
+    "count": 12619
    },
    {
     "code": "DK",
-    "count": 11145
-   },
-   {
-    "code": "BE",
-    "count": 7826
+    "count": 11269
    },
    {
     "code": "FI",
-    "count": 7755
+    "count": 9055
+   },
+   {
+    "code": "BE",
+    "count": 8017
    },
    {
     "code": "ES",
-    "count": 5911
+    "count": 5685
    },
    {
     "code": "PL",
-    "count": 3935
+    "count": 4281
    },
    {
     "code": "DE",
-    "count": 3928
+    "count": 4059
    },
    {
     "code": "IL",
-    "count": 2444
+    "count": 2189
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

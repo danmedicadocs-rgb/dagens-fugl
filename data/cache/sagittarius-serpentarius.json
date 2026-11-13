@@ -2,7 +2,7 @@
  "key": "sagittarius-serpentarius",
  "name": "Sagittarius serpentarius",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:38.949Z",
+ "fetchedAt": "2026-11-13T11:32:09.070Z",
  "names": {
   "da": "Sekretærfugl",
   "en": "Secretarybird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117214,
-  "observations": 5448
+  "observations": 5538
  },
  "photos": {
   "male": [
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 68009,
+  "worldTotal": 67269,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 39446
+    "count": 39328
    },
    {
     "code": "KE",
-    "count": 13117
+    "count": 12819
    },
    {
     "code": "TZ",
-    "count": 8045
+    "count": 7723
    },
    {
     "code": "NA",
-    "count": 2806
+    "count": 2680
    },
    {
     "code": "BW",
-    "count": 1823
+    "count": 1898
    },
    {
     "code": "ZW",
-    "count": 1070
-   },
-   {
-    "code": "ET",
-    "count": 363
+    "count": 1164
    },
    {
     "code": "ZM",
-    "count": 333
+    "count": 338
+   },
+   {
+    "code": "ET",
+    "count": 321
    },
    {
     "code": "UG",
-    "count": 222
+    "count": 206
    },
    {
     "code": "SZ",
-    "count": 197
+    "count": 200
    },
    {
     "code": "LS",
-    "count": 125
+    "count": 118
    },
    {
-    "code": "ZZ",
+    "code": "CM",
     "count": 28
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

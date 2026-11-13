@@ -2,7 +2,7 @@
  "key": "haematopus-ostralegus",
  "name": "Haematopus ostralegus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:07.174Z",
+ "fetchedAt": "2026-11-13T11:10:30.257Z",
  "names": {
   "da": "Strandskade",
   "en": "Eurasian Oystercatcher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4843,
-  "observations": 48950
+  "observations": 49417
  },
  "photos": {
   "male": [
@@ -58,14 +58,14 @@
     "date": "2026-07-08"
    },
    {
-    "id": 656179436,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656179436/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656179436/large.jpg",
-    "attribution": "(c) Maisie Henderson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/359633595",
-    "place": "North Ayrshire, Scotland, GB",
-    "date": "2026-05-08"
+    "id": 299113070,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299113070/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299113070/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/172310068",
+    "place": "Бардымский р-н, Пермский край, Россия",
+    "date": "2023-07-11"
    },
    {
     "id": 99571165,
@@ -91,72 +91,73 @@
  },
  "gbif": {
   "key": 7788295,
-  "dkTotal": 395330,
+  "dkTotal": 397127,
   "dkMonths": [
-   13718,
-   18928,
-   53980,
-   62643,
-   57430,
-   38303,
-   53423,
-   42080,
-   22281,
-   15547,
-   9127,
-   7787
+   13731,
+   18974,
+   54083,
+   62757,
+   57593,
+   38483,
+   53578,
+   42204,
+   22366,
+   16217,
+   9249,
+   7810
   ],
-  "worldTotal": 3955815,
+  "worldTotal": 4064943,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1551808
+    "count": 1563924
    },
    {
     "code": "GB",
-    "count": 520109
+    "count": 592246
    },
    {
     "code": "SE",
-    "count": 517329
+    "count": 520053
    },
    {
     "code": "NO",
-    "count": 445741
+    "count": 450073
    },
    {
     "code": "DK",
-    "count": 395330
+    "count": 397127
    },
    {
     "code": "BE",
-    "count": 125693
-   },
-   {
-    "code": "FR",
-    "count": 59828
+    "count": 127931
    },
    {
     "code": "DE",
-    "count": 59278
+    "count": 63083
    },
    {
-    "code": "IS",
-    "count": 39426
+    "code": "FR",
+    "count": 62307
    },
    {
     "code": "IE",
-    "count": 37780
+    "count": 41564
    },
    {
-    "code": "ES",
-    "count": 33107
+    "code": "IS",
+    "count": 38935
    },
    {
     "code": "FI",
-    "count": 29731
+    "count": 35663
+   },
+   {
+    "code": "ES",
+    "count": 31305
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

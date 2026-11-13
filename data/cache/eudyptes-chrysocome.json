@@ -2,7 +2,7 @@
  "key": "eudyptes-chrysocome",
  "name": "Eudyptes chrysocome",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:43.790Z",
+ "fetchedAt": "2026-11-13T11:41:12.482Z",
  "names": {
   "da": "Springpingvin",
   "en": "Southern Rockhopper Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3827,
-  "observations": 741
+  "observations": 764
  },
  "photos": {
   "male": [],
@@ -79,14 +79,14 @@
    }
   ],
   "hero": {
-   "id": 595298143,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595298143/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595298143/large.jpg",
-   "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/328509940",
-   "place": "Falkland Islands",
-   "date": "2025-11-27"
+   "id": 279147961,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279147961/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279147961/large.jpg",
+   "attribution": "no rights reserved, uploaded by Hugo Hulsberg",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/279147961",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -106,51 +106,51 @@
    0,
    0
   ],
-  "worldTotal": 7079,
+  "worldTotal": 5687,
   "topCountries": [
    {
     "code": "FK",
-    "count": 3407
+    "count": 3239
    },
    {
     "code": "AR",
-    "count": 774
-   },
-   {
-    "code": "NZ",
-    "count": 652
-   },
-   {
-    "code": "AU",
-    "count": 607
+    "count": 693
    },
    {
     "code": "CL",
-    "count": 520
+    "count": 476
    },
    {
     "code": "AQ",
-    "count": 258
+    "count": 260
    },
    {
-    "code": "TF",
-    "count": 237
+    "code": "AU",
+    "count": 219
+   },
+   {
+    "code": "NZ",
+    "count": 137
    },
    {
     "code": "HM",
-    "count": 116
+    "count": 108
    },
    {
-    "code": "ZZ",
-    "count": 93
+    "code": "TF",
+    "count": 102
    },
    {
     "code": "GB",
     "count": 82
    },
    {
+    "code": "ZZ",
+    "count": 68
+   },
+   {
     "code": "ZA",
-    "count": 78
+    "count": 48
    },
    {
     "code": "DE",
@@ -158,5 +158,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

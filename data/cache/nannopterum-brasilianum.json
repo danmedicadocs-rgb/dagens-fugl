@@ -2,7 +2,7 @@
  "key": "nannopterum-brasilianum",
  "name": "Nannopterum brasilianum",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:32.445Z",
+ "fetchedAt": "2026-11-13T11:51:17.698Z",
  "names": {
   "da": null,
   "en": "Neotropic cormorant",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1289601,
-  "observations": 70719
+  "observations": 71589
  },
  "photos": {
   "male": [
@@ -108,25 +108,25 @@
     "date": "2026-06-13"
    },
    {
-    "id": 676147532,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676147532/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676147532/large.jpg",
-    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
+    "id": 745767055,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745767055/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745767055/large.jpg",
+    "attribution": "(c) Naelin, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/370137488",
-    "place": "Kenner, LA, USA",
-    "date": "2026-06-09"
+    "source": "https://www.inaturalist.org/observations/405965342",
+    "place": "Palermo, Buenos Aires, Argentina",
+    "date": "2026-10-04"
    }
   ],
   "hero": {
-   "id": 478518433,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518433/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478518433/large.jpeg",
-   "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
+   "id": 13246373,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13246373/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13246373/large.jpg",
+   "attribution": "(c) Vladimir Rebellón Palmezano, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/204980163",
-   "place": "Brawley, CA 92227, USA",
-   "date": "2024-04-01"
+   "source": "https://www.inaturalist.org/photos/13246373",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 1541353,
+  "worldTotal": 1288444,
   "topCountries": [
    {
     "code": "US",
-    "count": 646537
-   },
-   {
-    "code": "CL",
-    "count": 135098
+    "count": 568150
    },
    {
     "code": "AR",
-    "count": 129315
+    "count": 110720
+   },
+   {
+    "code": "CL",
+    "count": 108835
    },
    {
     "code": "MX",
-    "count": 126246
+    "count": 101058
    },
    {
     "code": "BR",
-    "count": 104534
+    "count": 94213
    },
    {
     "code": "CO",
-    "count": 70580
+    "count": 52580
    },
    {
     "code": "CR",
-    "count": 59959
+    "count": 47429
    },
    {
     "code": "PE",
-    "count": 54506
+    "count": 43915
    },
    {
     "code": "PA",
-    "count": 35772
+    "count": 28081
    },
    {
     "code": "BZ",
-    "count": 29159
+    "count": 20562
    },
    {
     "code": "UY",
-    "count": 22612
+    "count": 19207
    },
    {
     "code": "EC",
-    "count": 21136
+    "count": 16945
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

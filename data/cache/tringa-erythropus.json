@@ -2,7 +2,7 @@
  "key": "tringa-erythropus",
  "name": "Tringa erythropus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:07:10.418Z",
+ "fetchedAt": "2026-11-13T11:12:57.499Z",
  "names": {
   "da": "Sortklire",
   "en": "Spotted Redshank",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3882,
-  "observations": 10791
+  "observations": 10929
  },
  "photos": {
   "male": [],
@@ -58,6 +58,16 @@
   ],
   "adult": [
    {
+    "id": 572612032,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/572612032/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/572612032/large.jpg",
+    "attribution": "(c) Dave Hernon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/316908763",
+    "place": "Gloucestershire, UK",
+    "date": "2025-09-26"
+   },
+   {
     "id": 236484262,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/large.jpg",
@@ -76,97 +86,88 @@
     "source": "https://www.inaturalist.org/observations/110397176",
     "place": "Newport, UK",
     "date": "2022-04-04"
-   },
-   {
-    "id": 66250742,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66250742/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66250742/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/41756814",
-    "place": "Provincia di Ravenna, Italia",
-    "date": "2020-04-08"
    }
   ],
   "hero": {
-   "id": 236484262,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236484262/large.jpg",
-   "attribution": "(c) Dave, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/138368837",
-   "place": "RSPB Saltholme, Seaton Carew Road, Stockton-on-Tees, Middlesbrough, UK",
-   "date": "2022-10-10"
+   "id": 347059580,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347059580/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347059580/large.jpg",
+   "attribution": "(c) Savi.odl, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/347059580",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481725,
-  "dkTotal": 73147,
+  "dkTotal": 73324,
   "dkMonths": [
    131,
    50,
-   297,
-   4616,
-   7173,
-   12139,
-   14755,
-   19592,
-   9427,
-   4649,
+   298,
+   4618,
+   7174,
+   12151,
+   14793,
+   19624,
+   9439,
+   4729,
    208,
-   101
+   100
   ],
-  "worldTotal": 657804,
+  "worldTotal": 665134,
   "topCountries": [
    {
     "code": "SE",
-    "count": 244763
+    "count": 245510
    },
    {
     "code": "DK",
-    "count": 73147
+    "count": 73324
    },
    {
     "code": "GB",
-    "count": 41663
+    "count": 46506
    },
    {
     "code": "FR",
-    "count": 37366
+    "count": 38226
    },
    {
     "code": "NL",
-    "count": 30916
-   },
-   {
-    "code": "ES",
-    "count": 26123
+    "count": 33111
    },
    {
     "code": "NO",
-    "count": 25141
+    "count": 25206
+   },
+   {
+    "code": "ES",
+    "count": 24801
    },
    {
     "code": "BE",
-    "count": 22481
+    "count": 22890
    },
    {
     "code": "IN",
-    "count": 19704
+    "count": 16004
    },
    {
     "code": "DE",
-    "count": 13467
+    "count": 14238
    },
    {
     "code": "FI",
-    "count": 10582
+    "count": 13550
    },
    {
-    "code": "IL",
-    "count": 9728
+    "code": "CN",
+    "count": 10373
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

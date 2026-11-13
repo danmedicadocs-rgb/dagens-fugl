@@ -2,7 +2,7 @@
  "key": "rhea-americana",
  "name": "Rhea americana",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:42.471Z",
+ "fetchedAt": "2026-11-13T11:48:09.907Z",
  "names": {
   "da": "Nandu",
   "en": "Greater rhea",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20512,
-  "observations": 5271
+  "observations": 5379
  },
  "photos": {
   "male": [
@@ -126,31 +126,31 @@
    1,
    0
   ],
-  "worldTotal": 46270,
+  "worldTotal": 38165,
   "topCountries": [
    {
     "code": "BR",
-    "count": 18304
+    "count": 14822
    },
    {
     "code": "AR",
-    "count": 17042
+    "count": 13350
    },
    {
     "code": "UY",
-    "count": 5129
+    "count": 4766
    },
    {
     "code": "BO",
-    "count": 2248
+    "count": 2022
    },
    {
     "code": "PY",
-    "count": 1590
+    "count": 1180
    },
    {
     "code": "DE",
-    "count": 816
+    "count": 882
    },
    {
     "code": "ZZ",
@@ -170,7 +170,7 @@
    },
    {
     "code": "BE",
-    "count": 28
+    "count": 30
    },
    {
     "code": "DK",
@@ -178,5 +178,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

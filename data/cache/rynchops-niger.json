@@ -2,7 +2,7 @@
  "key": "rynchops-niger",
  "name": "Rynchops niger",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:50.926Z",
+ "fetchedAt": "2026-11-13T11:49:57.529Z",
  "names": {
   "da": "Amerikansk Saksnæb",
   "en": "Black Skimmer",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4496,
-  "observations": 25843
+  "observations": 26152
  },
  "photos": {
   "male": [
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 644023,
+  "worldTotal": 547682,
   "topCountries": [
    {
     "code": "US",
-    "count": 523417
+    "count": 456281
    },
    {
     "code": "CL",
-    "count": 22923
+    "count": 16689
    },
    {
     "code": "BR",
-    "count": 16958
-   },
-   {
-    "code": "MX",
-    "count": 16869
+    "count": 13416
    },
    {
     "code": "PE",
-    "count": 16816
+    "count": 13406
+   },
+   {
+    "code": "MX",
+    "count": 12754
    },
    {
     "code": "CO",
-    "count": 10952
+    "count": 7519
    },
    {
     "code": "AR",
-    "count": 6699
+    "count": 5535
    },
    {
     "code": "UY",
-    "count": 4295
+    "count": 3178
    },
    {
     "code": "VE",
-    "count": 3599
+    "count": 2651
    },
    {
     "code": "CR",
-    "count": 3526
+    "count": 2503
    },
    {
     "code": "TT",
-    "count": 1662
+    "count": 1363
    },
    {
     "code": "PY",
-    "count": 1529
+    "count": 1168
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

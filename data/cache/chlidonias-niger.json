@@ -2,7 +2,7 @@
  "key": "chlidonias-niger",
  "name": "Chlidonias niger",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:10:55.117Z",
+ "fetchedAt": "2026-11-13T11:16:07.934Z",
  "names": {
   "da": "Sortterne",
   "en": "Black Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4512,
-  "observations": 20328
+  "observations": 20436
  },
  "photos": {
   "male": [
@@ -68,95 +68,96 @@
     "date": "2009-09-04"
    },
    {
-    "id": 567689515,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567689515/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567689515/large.jpg",
-    "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY)",
+    "id": 139597617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139597617/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139597617/large.jpg",
+    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/314306429",
-    "place": "Lisvane Reservoir, Cardiff, UK",
-    "date": "2025-09-15"
+    "source": "https://www.inaturalist.org/observations/84899388",
+    "place": "Высокогорский р-н, Респ. Татарстан, Россия",
+    "date": "2021-06-28"
    }
   ],
   "hero": {
-   "id": 59334224,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/large.jpg",
-   "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+   "id": 9058679,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9058679/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9058679/large.jpg",
+   "attribution": "(c) Ómar Runólfsson, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/37428884",
-   "place": "Глазов, республика Удмуртия, Россия",
-   "date": "2018-05-19"
+   "source": "https://www.inaturalist.org/photos/9058679",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481119,
-  "dkTotal": 26053,
+  "dkTotal": 26084,
   "dkMonths": [
    0,
    0,
    1,
-   810,
-   8427,
-   3421,
-   5485,
-   7335,
-   366,
+   814,
+   8443,
+   3423,
+   5495,
+   7328,
+   372,
    86,
    23,
    0
   ],
-  "worldTotal": 816720,
+  "worldTotal": 751022,
   "topCountries": [
    {
     "code": "US",
-    "count": 345394
+    "count": 294653
    },
    {
     "code": "CA",
-    "count": 107019
+    "count": 96450
    },
    {
     "code": "SE",
-    "count": 93179
+    "count": 93265
    },
    {
     "code": "NL",
-    "count": 64458
+    "count": 65339
    },
    {
     "code": "FR",
-    "count": 26366
+    "count": 26942
    },
    {
     "code": "DK",
-    "count": 26053
-   },
-   {
-    "code": "ES",
-    "count": 22823
+    "count": 26084
    },
    {
     "code": "GB",
-    "count": 19278
+    "count": 21303
+   },
+   {
+    "code": "ES",
+    "count": 20679
    },
    {
     "code": "BE",
-    "count": 14248
+    "count": 14370
    },
    {
     "code": "PL",
-    "count": 10748
+    "count": 12462
    },
    {
     "code": "DE",
-    "count": 9686
+    "count": 10449
    },
    {
     "code": "RU",
-    "count": 8944
+    "count": 8784
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

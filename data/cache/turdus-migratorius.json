@@ -2,7 +2,7 @@
  "key": "turdus-migratorius",
  "name": "Turdus migratorius",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:41:06.600Z",
+ "fetchedAt": "2026-11-13T11:42:18.373Z",
  "names": {
   "da": "Vandredrossel",
   "en": "American Robin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12727,
-  "observations": 473963
+  "observations": 477129
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 625520829,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625520829/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625520829/large.jpg",
-   "attribution": "(c) Ilona, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/343398699",
-   "place": "Cross Plains, WI 53528, USA",
-   "date": "2026-03-16"
+   "id": 111891996,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111891996/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111891996/large.jpg",
+   "attribution": "(c) Judy Gallagher, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/111891996",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,47 +146,47 @@
    0,
    0
   ],
-  "worldTotal": 29448295,
+  "worldTotal": 29077174,
   "topCountries": [
    {
     "code": "US",
-    "count": 24294749
+    "count": 24044434
    },
    {
     "code": "CA",
-    "count": 5089089
+    "count": 4978574
    },
    {
     "code": "MX",
-    "count": 59678
+    "count": 49067
    },
    {
     "code": "PM",
-    "count": 1793
+    "count": 2089
    },
    {
     "code": "GB",
-    "count": 444
+    "count": 454
    },
    {
     "code": "BM",
-    "count": 351
+    "count": 343
    },
    {
     "code": "NL",
-    "count": 290
+    "count": 289
    },
    {
     "code": "ZZ",
     "count": 53
    },
    {
-    "code": "BS",
-    "count": 34
+    "code": "IS",
+    "count": 29
    },
    {
-    "code": "IS",
-    "count": 33
+    "code": "BS",
+    "count": 28
    },
    {
     "code": "PT",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "turdus-torquatus",
  "name": "Turdus torquatus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:54.592Z",
+ "fetchedAt": "2026-11-13T11:24:28.207Z",
  "names": {
   "da": "Ringdrossel",
   "en": "Ring Ouzel",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12740,
-  "observations": 4710
+  "observations": 4765
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2025-05-18"
    },
    {
-    "id": 529428466,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529428466/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529428466/large.jpg",
-    "attribution": "(c) avocat, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/294149951",
-    "place": "Velingrad, Bulgaria",
-    "date": "2025-05-28"
-   },
-   {
     "id": 118467775,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118467775/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118467775/large.jpeg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/72640037",
     "place": "542 25 Janské Lázně, Czechia",
     "date": "2015-05-25"
+   },
+   {
+    "id": 529428466,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529428466/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529428466/large.jpg",
+    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/294149951",
+    "place": "Velingrad, Bulgaria",
+    "date": "2025-05-28"
    }
   ],
   "female": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 506968691,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506968691/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506968691/large.jpg",
-   "attribution": "(c) fernium, some rights reserved (CC BY)",
+   "id": 120423079,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120423079/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120423079/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/282191056",
-   "place": "Brecon Beacons Traverse, Llandeilo, Wales, GB",
-   "date": "2025-05-18"
+   "source": "https://www.inaturalist.org/photos/120423079",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 7865305,
-  "dkTotal": 32717,
+  "dkTotal": 32989,
   "dkMonths": [
    35,
    31,
-   147,
-   19697,
-   6495,
+   148,
+   19734,
+   6513,
    128,
    2,
    2,
-   808,
-   5093,
-   260,
+   812,
+   5303,
+   262,
    6
   ],
-  "worldTotal": 310850,
+  "worldTotal": 315313,
   "topCountries": [
    {
     "code": "SE",
-    "count": 72303
+    "count": 72448
    },
    {
     "code": "NO",
-    "count": 51476
+    "count": 51780
    },
    {
     "code": "NL",
-    "count": 39079
+    "count": 39408
    },
    {
     "code": "DK",
-    "count": 32717
+    "count": 32989
    },
    {
     "code": "FR",
-    "count": 30045
+    "count": 30487
    },
    {
     "code": "GB",
-    "count": 27403
-   },
-   {
-    "code": "ES",
-    "count": 11993
+    "count": 29169
    },
    {
     "code": "BE",
-    "count": 11537
+    "count": 11771
+   },
+   {
+    "code": "ES",
+    "count": 11262
    },
    {
     "code": "AT",
-    "count": 5665
+    "count": 5858
    },
    {
     "code": "DE",
-    "count": 5488
+    "count": 5723
    },
    {
     "code": "CH",
-    "count": 3704
+    "count": 4079
    },
    {
     "code": "GE",
-    "count": 2918
+    "count": 2691
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

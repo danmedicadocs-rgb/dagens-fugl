@@ -2,7 +2,7 @@
  "key": "nectarinia-famosa",
  "name": "Nectarinia famosa",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:19.092Z",
+ "fetchedAt": "2026-11-13T11:34:30.870Z",
  "names": {
   "da": "Malakitsolfugl",
   "en": "Malachite Sunbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13300,
-  "observations": 5108
+  "observations": 5211
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2024-04-29"
    },
    {
-    "id": 15767099,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15767099/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15767099/large.jpg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/11143980",
-    "place": "Coernie Station",
-    "date": "2015-11-19"
+    "id": 588525102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588525102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588525102/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/325086050",
+    "place": "75 Hoofweg, De Kelders, 7220, South Africa",
+    "date": "2025-10-30"
    }
   ],
   "female": [
@@ -146,43 +146,43 @@
    0,
    0
   ],
-  "worldTotal": 108237,
+  "worldTotal": 107989,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 103115
+    "count": 103056
    },
    {
     "code": "KE",
-    "count": 1566
+    "count": 1463
    },
    {
     "code": "LS",
-    "count": 1124
+    "count": 1100
    },
    {
     "code": "TZ",
-    "count": 847
+    "count": 817
    },
    {
     "code": "ZW",
-    "count": 440
+    "count": 446
    },
    {
     "code": "SZ",
-    "count": 303
+    "count": 295
    },
    {
     "code": "MW",
-    "count": 152
-   },
-   {
-    "code": "UG",
-    "count": 146
+    "count": 138
    },
    {
     "code": "ET",
-    "count": 140
+    "count": 136
+   },
+   {
+    "code": "UG",
+    "count": 133
    },
    {
     "code": "CD",
@@ -190,13 +190,14 @@
    },
    {
     "code": "RW",
-    "count": 55
+    "count": 59
    },
    {
     "code": "ZM",
-    "count": 43
+    "count": 47
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

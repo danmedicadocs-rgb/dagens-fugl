@@ -2,7 +2,7 @@
  "key": "tringa-totanus",
  "name": "Tringa totanus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:07:16.968Z",
+ "fetchedAt": "2026-11-13T11:13:03.572Z",
  "names": {
   "da": "Rødben",
   "en": "Common Redshank",
@@ -19,22 +19,12 @@
  },
  "inat": {
   "id": 3879,
-  "observations": 47016
+  "observations": 47635
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
-   {
-    "id": 727846028,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727846028/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727846028/large.jpg",
-    "attribution": "(c) ikelman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/396873415",
-    "place": "Inch Road, Newburgh, Ellon AB41 6BN, UK",
-    "date": "2026-09-02"
-   },
    {
     "id": 538018505,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538018505/medium.jpg",
@@ -44,6 +34,16 @@
     "source": "https://www.inaturalist.org/observations/298672274",
     "place": "Preston PR4 6XQ, UK",
     "date": "2025-07-05"
+   },
+   {
+    "id": 727846028,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727846028/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727846028/large.jpg",
+    "attribution": "(c) ikelman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/396873415",
+    "place": "Inch Road, Newburgh, Ellon AB41 6BN, UK",
+    "date": "2026-09-02"
    },
    {
     "id": 715975323,
@@ -78,95 +78,96 @@
     "date": "2022-03-28"
    },
    {
-    "id": 378270621,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378270621/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378270621/large.jpeg",
-    "attribution": "(c) Philip Schaffer, some rights reserved (CC BY)",
+    "id": 618957994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618957994/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618957994/large.jpg",
+    "attribution": "(c) Anne Thomson, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/214050129",
-    "place": "7100 Neusiedl am See, Österreich",
-    "date": "2024-05-05"
+    "source": "https://www.inaturalist.org/observations/340157062",
+    "place": "Quinta do Lago, Almancil, Algarve, PT",
+    "date": "2026-02-25"
    }
   ],
   "hero": {
-   "id": 479317316,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479317316/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479317316/large.jpg",
-   "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
+   "id": 347059863,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347059863/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347059863/large.jpg",
+   "attribution": "(c) Luiz Lapa, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/266765063",
-   "place": "Московский р-н, Тверь, Тверская обл., Россия",
-   "date": "2025-03-24"
+   "source": "https://www.inaturalist.org/photos/347059863",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481714,
-  "dkTotal": 280547,
+  "dkTotal": 281531,
   "dkMonths": [
-   13821,
-   9224,
-   16479,
-   48562,
-   45947,
-   26872,
-   37493,
-   39752,
-   16750,
-   9999,
-   7539,
-   7996
+   13845,
+   9240,
+   16514,
+   48652,
+   46024,
+   26949,
+   37585,
+   39879,
+   16815,
+   10311,
+   7593,
+   8011
   ],
-  "worldTotal": 2888848,
+  "worldTotal": 2928386,
   "topCountries": [
    {
     "code": "NL",
-    "count": 551670
+    "count": 560830
    },
    {
     "code": "SE",
-    "count": 519351
+    "count": 521258
    },
    {
     "code": "GB",
-    "count": 409705
+    "count": 461973
    },
    {
     "code": "DK",
-    "count": 280547
+    "count": 281531
    },
    {
     "code": "NO",
-    "count": 236877
+    "count": 238884
    },
    {
     "code": "ES",
-    "count": 130900
+    "count": 123683
    },
    {
     "code": "FR",
-    "count": 109916
-   },
-   {
-    "code": "IN",
-    "count": 70148
+    "count": 112817
    },
    {
     "code": "BE",
-    "count": 69048
+    "count": 70376
+   },
+   {
+    "code": "IN",
+    "count": 55330
    },
    {
     "code": "TW",
-    "count": 67193
+    "count": 54563
    },
    {
     "code": "PT",
-    "count": 57830
+    "count": 54527
    },
    {
     "code": "IS",
-    "count": 47917
+    "count": 47012
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

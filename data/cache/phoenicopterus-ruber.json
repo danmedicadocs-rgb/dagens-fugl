@@ -2,7 +2,7 @@
  "key": "phoenicopterus-ruber",
  "name": "Phoenicopterus ruber",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:35.179Z",
+ "fetchedAt": "2026-11-13T11:49:43.801Z",
  "names": {
   "da": "Cariberflamingo",
   "en": "American Flamingo",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4257,
-  "observations": 15408
+  "observations": 15634
  },
  "photos": {
   "male": [],
@@ -78,25 +78,25 @@
     "date": "2023-09-09"
    },
    {
-    "id": 411855421,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/411855421/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/411855421/large.jpeg",
-    "attribution": "(c) Tyler Ekholm, some rights reserved (CC BY)",
+    "id": 278987604,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278987604/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278987604/large.jpeg",
+    "attribution": "(c) Kathryn Curtis, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/231861488",
-    "place": "L COMPTON, RI 02837, USA",
-    "date": "2024-07-26"
+    "source": "https://www.inaturalist.org/observations/161407368",
+    "place": "Kralendijk, Caribbean Netherlands",
+    "date": "2023-05-11"
    }
   ],
   "hero": {
-   "id": 400069254,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/large.jpeg",
-   "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+   "id": 2440313,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2440313/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2440313/large.jpg",
+   "attribution": "(c) Katja Schulz, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/225637927",
-   "place": "Boca de Camarones, Riohacha, La Guajira, Colombia",
-   "date": "2021-10-02"
+   "source": "https://www.inaturalist.org/photos/2440313",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,47 +116,47 @@
    0,
    0
   ],
-  "worldTotal": 151682,
+  "worldTotal": 138018,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 33616
+    "count": 33619
    },
    {
     "code": "ES",
-    "count": 20787
+    "count": 20790
    },
    {
     "code": "US",
-    "count": 19064
+    "count": 17402
    },
    {
     "code": "MX",
-    "count": 18640
+    "count": 15145
    },
    {
     "code": "BQ",
-    "count": 10807
+    "count": 9869
    },
    {
     "code": "EC",
-    "count": 8605
-   },
-   {
-    "code": "CU",
-    "count": 7103
+    "count": 8136
    },
    {
     "code": "CW",
-    "count": 6124
+    "count": 5263
+   },
+   {
+    "code": "CU",
+    "count": 4931
    },
    {
     "code": "VE",
-    "count": 5532
+    "count": 3643
    },
    {
     "code": "CO",
-    "count": 3828
+    "count": 3105
    },
    {
     "code": "NA",
@@ -164,9 +164,10 @@
    },
    {
     "code": "FR",
-    "count": 2042
+    "count": 2045
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

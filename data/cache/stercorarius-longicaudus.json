@@ -2,7 +2,7 @@
  "key": "stercorarius-longicaudus",
  "name": "Stercorarius longicaudus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:30.509Z",
+ "fetchedAt": "2026-11-13T11:14:10.399Z",
  "names": {
   "da": "Lille kjove",
   "en": "Long-tailed Jaeger",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4481,
-  "observations": 2740
+  "observations": 2776
  },
  "photos": {
   "male": [],
@@ -79,19 +79,19 @@
    }
   ],
   "hero": {
-   "id": 571701770,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/large.jpg",
-   "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/316426950",
-   "place": "Clermont County, OH, USA",
-   "date": "2025-09-23"
+   "id": 10436872,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10436872/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10436872/large.jpg",
+   "attribution": "no rights reserved, uploaded by Kent P. McFarland",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/10436872",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481613,
-  "dkTotal": 2621,
+  "dkTotal": 2653,
   "dkMonths": [
    0,
    2,
@@ -100,63 +100,64 @@
    56,
    68,
    94,
-   350,
-   1600,
-   430,
+   349,
+   1632,
+   431,
    11,
    0
   ],
-  "worldTotal": 152449,
+  "worldTotal": 111797,
   "topCountries": [
    {
     "code": "US",
-    "count": 68312
+    "count": 32433
    },
    {
     "code": "SE",
-    "count": 27929
+    "count": 27924
    },
    {
     "code": "NO",
-    "count": 13395
+    "count": 13181
    },
    {
     "code": "CA",
-    "count": 12378
+    "count": 10601
    },
    {
     "code": "NL",
-    "count": 3627
+    "count": 3871
    },
    {
     "code": "GB",
-    "count": 3101
-   },
-   {
-    "code": "DK",
-    "count": 2621
-   },
-   {
-    "code": "AU",
-    "count": 2449
+    "count": 3433
    },
    {
     "code": "FI",
-    "count": 2256
+    "count": 2675
+   },
+   {
+    "code": "DK",
+    "count": 2653
+   },
+   {
+    "code": "AU",
+    "count": 1858
    },
    {
     "code": "ES",
-    "count": 1994
+    "count": 1669
    },
    {
     "code": "RU",
-    "count": 1842
+    "count": 1598
    },
    {
     "code": "SJ",
-    "count": 1420
+    "count": 1463
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

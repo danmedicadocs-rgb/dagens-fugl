@@ -2,7 +2,7 @@
  "key": "ficedula-narcissina",
  "name": "Ficedula narcissina",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:35:12.614Z",
+ "fetchedAt": "2026-11-13T11:37:06.609Z",
  "names": {
   "da": "Narcissusfluesnapper",
   "en": "Narcissus Flycatcher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13128,
-  "observations": 3770
+  "observations": 3845
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2023-10-01"
    },
    {
-    "id": 732449957,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732449957/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732449957/large.jpg",
+    "id": 734220960,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734220960/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734220960/large.jpg",
     "attribution": "no rights reserved",
     "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/399235345",
-    "place": "Azumi, Matsumoto, Nagano 390-1520, Japan",
-    "date": "2026-09-11"
+    "source": "https://www.inaturalist.org/observations/400139129",
+    "place": "Togakushi, Nagano, 381-4101, Japan",
+    "date": "2026-09-13"
    }
   ],
   "juvenile": [
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 27298,
+  "worldTotal": 28504,
   "topCountries": [
    {
     "code": "JP",
-    "count": 15110
+    "count": 17367
    },
    {
     "code": "TW",
-    "count": 6342
+    "count": 4745
    },
    {
     "code": "CN",
-    "count": 1802
+    "count": 2159
    },
    {
     "code": "KR",
-    "count": 892
+    "count": 1068
    },
    {
     "code": "HK",
-    "count": 774
+    "count": 878
    },
    {
     "code": "PH",
-    "count": 489
+    "count": 469
    },
    {
     "code": "TH",
-    "count": 464
+    "count": 454
    },
    {
     "code": "MY",
-    "count": 452
+    "count": 399
    },
    {
     "code": "RU",
-    "count": 346
+    "count": 354
    },
    {
     "code": "SG",
-    "count": 156
+    "count": 163
    },
    {
     "code": "MO",
-    "count": 144
+    "count": 117
    },
    {
     "code": "VN",
-    "count": 102
+    "count": 100
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

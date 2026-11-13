@@ -2,7 +2,7 @@
  "key": "mergellus-albellus",
  "name": "Mergellus albellus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:44.462Z",
+ "fetchedAt": "2026-11-13T11:05:12.189Z",
  "names": {
   "da": "Lille skallesluger",
   "en": "Smew",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7192,
-  "observations": 9118
+  "observations": 9277
  },
  "photos": {
   "male": [
@@ -99,84 +99,85 @@
    }
   ],
   "hero": {
-   "id": 614194644,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614194644/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614194644/large.jpg",
-   "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/337815791",
-   "place": "Provincia di Varese, Italia",
-   "date": "2026-02-08"
+   "id": 92260968,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92260968/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92260968/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/92260968",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498285,
-  "dkTotal": 98549,
+  "dkTotal": 98757,
   "dkMonths": [
-   25025,
-   23756,
-   21982,
-   5329,
-   338,
+   25066,
+   23789,
+   22009,
+   5336,
+   336,
    53,
-   74,
+   73,
    83,
    61,
-   1226,
-   6793,
-   13804
+   1261,
+   6818,
+   13847
   ],
-  "worldTotal": 732817,
+  "worldTotal": 745312,
   "topCountries": [
    {
     "code": "SE",
-    "count": 303458
+    "count": 304603
    },
    {
     "code": "NL",
-    "count": 152132
+    "count": 153155
    },
    {
     "code": "DK",
-    "count": 98549
+    "count": 98757
    },
    {
     "code": "NO",
-    "count": 28370
-   },
-   {
-    "code": "BE",
-    "count": 23331
+    "count": 28602
    },
    {
     "code": "FI",
-    "count": 23167
+    "count": 27127
+   },
+   {
+    "code": "BE",
+    "count": 23445
    },
    {
     "code": "GB",
-    "count": 20791
+    "count": 22570
    },
    {
     "code": "DE",
-    "count": 14017
+    "count": 14721
    },
    {
     "code": "EE",
-    "count": 12910
+    "count": 13336
    },
    {
     "code": "JP",
-    "count": 9711
+    "count": 10254
    },
    {
     "code": "FR",
-    "count": 9003
+    "count": 9193
    },
    {
     "code": "RU",
-    "count": 8129
+    "count": 8120
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

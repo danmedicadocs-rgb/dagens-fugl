@@ -2,7 +2,7 @@
  "key": "motacilla-flava",
  "name": "Motacilla flava",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:17.795Z",
+ "fetchedAt": "2026-11-13T11:26:30.271Z",
  "names": {
   "da": "Gul vipstjert",
   "en": "Western Yellow Wagtail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204545,
-  "observations": 51097
+  "observations": 51474
  },
  "photos": {
   "male": [
@@ -108,95 +108,96 @@
     "date": "2022-07-02"
    },
    {
-    "id": 547130013,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547130013/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547130013/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/303549786",
-    "place": "Sila",
-    "date": "2025-08-02"
+    "id": 546005855,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546005855/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546005855/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/302951570",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2025-08-01"
    }
   ],
   "hero": {
-   "id": 270787932,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270787932/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270787932/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "id": 349323284,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349323284/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349323284/large.jpeg",
+   "attribution": "(c) Andrew Simon, some rights reserved (CC BY), uploaded by Andrew Simon",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/156588654",
-   "place": "4292 Dobri Dol, Bulgaria",
-   "date": "2023-04-25"
+   "source": "https://www.inaturalist.org/photos/349323284",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9701857,
-  "dkTotal": 151354,
+  "dkTotal": 151536,
   "dkMonths": [
    0,
    0,
    6,
-   14695,
-   53998,
-   13691,
-   12726,
-   33850,
-   21913,
-   389,
+   14758,
+   54013,
+   13717,
+   12765,
+   33856,
+   21936,
+   399,
    4,
    3
   ],
-  "worldTotal": 2097306,
+  "worldTotal": 2102110,
   "topCountries": [
    {
     "code": "SE",
-    "count": 426447
+    "count": 427787
    },
    {
     "code": "ES",
-    "count": 261459
+    "count": 258259
    },
    {
     "code": "FR",
-    "count": 190202
+    "count": 192712
    },
    {
     "code": "DK",
-    "count": 151354
+    "count": 151536
    },
    {
     "code": "GB",
-    "count": 118431
-   },
-   {
-    "code": "IN",
-    "count": 118349
+    "count": 129566
    },
    {
     "code": "NL",
-    "count": 101673
-   },
-   {
-    "code": "NO",
-    "count": 90651
+    "count": 104403
    },
    {
     "code": "FI",
-    "count": 86710
+    "count": 95438
+   },
+   {
+    "code": "IN",
+    "count": 93472
+   },
+   {
+    "code": "NO",
+    "count": 91322
    },
    {
     "code": "BE",
-    "count": 81208
+    "count": 83786
    },
    {
     "code": "DE",
-    "count": 64862
+    "count": 69139
    },
    {
     "code": "PT",
-    "count": 48510
+    "count": 44713
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

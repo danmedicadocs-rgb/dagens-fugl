@@ -2,7 +2,7 @@
  "key": "terathopius-ecaudatus",
  "name": "Terathopius ecaudatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:39.981Z",
+ "fetchedAt": "2026-11-13T11:33:04.515Z",
  "names": {
   "da": "Gøglerørn",
   "en": "Bateleur",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5231,
-  "observations": 5723
+  "observations": 5835
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2025-07-19"
    },
    {
-    "id": 239011224,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239011224/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239011224/large.jpg",
-    "attribution": "(c) B Jaeger-Stanley, some rights reserved (CC BY)",
+    "id": 22615888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22615888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22615888/large.jpg",
+    "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/139710053",
-    "place": "Kruger National Park, LP, ZA",
-    "date": "2008-09-25"
+    "source": "https://www.inaturalist.org/observations/15132384",
+    "place": "Lusaka, ZM",
+    "date": "2018-07-27"
    }
   ],
   "juvenile": [
@@ -98,24 +98,24 @@
     "date": "2023-02-05"
    },
    {
-    "id": 637994494,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637994494/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637994494/large.jpg",
-    "attribution": "(c) linkie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/349718728",
-    "place": "Mjejane PNR",
-    "date": "2025-12-29"
+    "id": 573655664,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573655664/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573655664/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/317462481",
+    "place": "Tsavo N. Park, Kenya",
+    "date": "2025-09-25"
    },
    {
-    "id": 476714925,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476714925/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476714925/large.jpeg",
-    "attribution": "(c) scaup, some rights reserved (CC BY)",
+    "id": 678997535,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/678997535/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/678997535/large.jpg",
+    "attribution": "(c) Edmundas Greimas, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/265417075",
-    "place": "uMkhanyakude District Municipality, South Africa",
-    "date": "2014-11-28"
+    "source": "https://www.inaturalist.org/observations/371622454",
+    "place": "Babati Rural, Tanzania",
+    "date": "2026-02-16"
    }
   ],
   "hero": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 123365,
+  "worldTotal": 118359,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 59976
+    "count": 59053
    },
    {
     "code": "KE",
-    "count": 14584
+    "count": 13592
    },
    {
     "code": "TZ",
-    "count": 10458
-   },
-   {
-    "code": "UG",
-    "count": 7745
+    "count": 9466
    },
    {
     "code": "BW",
-    "count": 7258
+    "count": 7359
+   },
+   {
+    "code": "UG",
+    "count": 6204
    },
    {
     "code": "NA",
-    "count": 5837
+    "count": 5327
    },
    {
     "code": "ZW",
-    "count": 3988
+    "count": 4439
    },
    {
     "code": "ZM",
-    "count": 3369
+    "count": 3509
    },
    {
     "code": "MZ",
-    "count": 1880
+    "count": 1624
    },
    {
     "code": "GH",
-    "count": 1669
+    "count": 1461
    },
    {
     "code": "GM",
-    "count": 979
+    "count": 931
    },
    {
     "code": "ET",
-    "count": 923
+    "count": 859
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

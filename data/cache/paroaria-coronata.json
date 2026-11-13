@@ -2,7 +2,7 @@
  "key": "paroaria-coronata",
  "name": "Paroaria coronata",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:39.124Z",
+ "fetchedAt": "2026-11-13T11:50:31.899Z",
  "names": {
   "da": "Grå Kardinal",
   "en": "Red-crested Cardinal",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10254,
-  "observations": 20769
+  "observations": 21055
  },
  "photos": {
   "male": [
@@ -67,16 +67,6 @@
     "date": "2025-08-22"
    },
    {
-    "id": 236174948,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/138204679",
-    "place": "Las Colonias, Santa Fe, Argentina",
-    "date": "2008-12-31"
-   },
-   {
     "id": 96129248,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96129248/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96129248/large.jpeg",
@@ -85,17 +75,27 @@
     "source": "https://www.inaturalist.org/observations/60133406",
     "place": "Vicente López, Provincia de Buenos Aires, Argentina",
     "date": "2020-03-07"
+   },
+   {
+    "id": 236174948,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/138204679",
+    "place": "Las Colonias, Santa Fe, Argentina",
+    "date": "2008-12-31"
    }
   ],
   "hero": {
-   "id": 131265271,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/large.jpeg",
-   "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
+   "id": 445222630,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222630/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222630/large.jpeg",
+   "attribution": "(c) David F. Belmonte, some rights reserved (CC BY), uploaded by David F. Belmonte",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/80107699",
-   "place": "Puerto Madero, CABA, Argentina",
-   "date": "2021-05-16"
+   "source": "https://www.inaturalist.org/photos/445222630",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,47 +115,47 @@
    2,
    0
   ],
-  "worldTotal": 247115,
+  "worldTotal": 220826,
   "topCountries": [
    {
     "code": "AR",
-    "count": 94656
+    "count": 80418
    },
    {
     "code": "US",
-    "count": 84874
+    "count": 80058
    },
    {
     "code": "UY",
-    "count": 27113
+    "count": 23507
    },
    {
     "code": "BR",
-    "count": 20486
+    "count": 19698
    },
    {
     "code": "PY",
-    "count": 13833
+    "count": 11619
    },
    {
     "code": "BO",
-    "count": 4719
+    "count": 4183
    },
    {
     "code": "PE",
-    "count": 670
+    "count": 621
    },
    {
     "code": "EC",
-    "count": 251
-   },
-   {
-    "code": "TW",
-    "count": 104
+    "count": 222
    },
    {
     "code": "CL",
-    "count": 101
+    "count": 97
+   },
+   {
+    "code": "TW",
+    "count": 95
    },
    {
     "code": "ZZ",
@@ -167,5 +167,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

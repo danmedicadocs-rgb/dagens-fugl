@@ -2,7 +2,7 @@
  "key": "stercorarius-pomarinus",
  "name": "Stercorarius pomarinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:19.177Z",
+ "fetchedAt": "2026-11-13T11:13:59.830Z",
  "names": {
   "da": "Mellemkjove",
   "en": "Pomarine Skua",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4491,
-  "observations": 3773
+  "observations": 3824
  },
  "photos": {
   "male": [],
@@ -81,72 +81,73 @@
  },
  "gbif": {
   "key": 2481609,
-  "dkTotal": 3850,
+  "dkTotal": 3849,
   "dkMonths": [
    102,
    13,
    10,
    36,
-   300,
+   295,
    19,
-   79,
+   77,
    232,
-   883,
-   1420,
+   884,
+   1425,
    633,
    119
   ],
-  "worldTotal": 205542,
+  "worldTotal": 125577,
   "topCountries": [
    {
     "code": "US",
-    "count": 121618
+    "count": 50490
    },
    {
     "code": "SE",
-    "count": 16960
-   },
-   {
-    "code": "CA",
-    "count": 9590
+    "count": 16998
    },
    {
     "code": "GB",
-    "count": 8109
+    "count": 8813
    },
    {
-    "code": "AU",
-    "count": 5337
-   },
-   {
-    "code": "ES",
-    "count": 5234
+    "code": "CA",
+    "count": 7216
    },
    {
     "code": "NO",
-    "count": 4984
+    "count": 4977
+   },
+   {
+    "code": "AU",
+    "count": 4333
+   },
+   {
+    "code": "ES",
+    "count": 4224
    },
    {
     "code": "DK",
-    "count": 3850
+    "count": 3849
    },
    {
     "code": "NL",
-    "count": 2602
+    "count": 2676
    },
    {
     "code": "BE",
-    "count": 2031
-   },
-   {
-    "code": "PT",
-    "count": 2014
+    "count": 2073
    },
    {
     "code": "FR",
-    "count": 1842
+    "count": 1908
+   },
+   {
+    "code": "SJ",
+    "count": 1391
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

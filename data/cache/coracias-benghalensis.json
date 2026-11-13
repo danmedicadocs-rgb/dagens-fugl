@@ -2,7 +2,7 @@
  "key": "coracias-benghalensis",
  "name": "Coracias benghalensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:35:56.863Z",
+ "fetchedAt": "2026-11-13T11:37:47.777Z",
  "names": {
   "da": "Blåkronet Ellekrage",
   "en": "Indian Roller",
@@ -19,13 +19,23 @@
  },
  "inat": {
   "id": 979665,
-  "observations": 5964
+  "observations": 6139
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [],
   "adult": [
+   {
+    "id": 591298700,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591298700/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591298700/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326479882",
+    "place": "5C28+42V, Benap, Gujarat 385570, India",
+    "date": "2025-11-12"
+   },
    {
     "id": 307026799,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/medium.jpg",
@@ -35,16 +45,6 @@
     "source": "https://www.inaturalist.org/observations/176588715",
     "place": "Kachchh, IN-GJ, IN",
     "date": "2019-11-24"
-   },
-   {
-    "id": 351726456,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351726456/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351726456/large.jpeg",
-    "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199443980",
-    "place": "Punnamada, Finishing Point, Mullakkal, Kerala, India",
-    "date": "2024-02-06"
    },
    {
     "id": 194403575,
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 307026799,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/large.jpg",
-   "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+   "id": 91945434,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91945434/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91945434/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/176588715",
-   "place": "Kachchh, IN-GJ, IN",
-   "date": "2019-11-24"
+   "source": "https://www.inaturalist.org/photos/91945434",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 309391,
+  "worldTotal": 271481,
   "topCountries": [
    {
     "code": "IN",
-    "count": 268330
+    "count": 230085
    },
    {
     "code": "AE",
-    "count": 23040
+    "count": 23512
    },
    {
     "code": "LK",
-    "count": 5959
-   },
-   {
-    "code": "OM",
-    "count": 4131
+    "count": 5700
    },
    {
     "code": "NP",
-    "count": 3971
+    "count": 4450
+   },
+   {
+    "code": "OM",
+    "count": 4062
    },
    {
     "code": "IR",
-    "count": 1789
+    "count": 1455
    },
    {
     "code": "PK",
-    "count": 1212
+    "count": 1245
    },
    {
     "code": "BT",
-    "count": 360
+    "count": 336
    },
    {
     "code": "KW",
-    "count": 190
-   },
-   {
-    "code": "IQ",
-    "count": 81
+    "count": 181
    },
    {
     "code": "BD",
-    "count": 76
+    "count": 129
+   },
+   {
+    "code": "IQ",
+    "count": 91
    },
    {
     "code": "SA",
-    "count": 56
+    "count": 36
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

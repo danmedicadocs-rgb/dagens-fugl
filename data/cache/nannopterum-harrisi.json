@@ -2,7 +2,7 @@
  "key": "nannopterum-harrisi",
  "name": "Nannopterum harrisi",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:53:42.520Z",
+ "fetchedAt": "2026-11-13T11:52:12.530Z",
  "names": {
   "da": "Galapagosskarv",
   "en": "Flightless Cormorant",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1289603,
-  "observations": 841
+  "observations": 867
  },
  "photos": {
   "male": [],
@@ -75,11 +75,11 @@
    0,
    0
   ],
-  "worldTotal": 5826,
+  "worldTotal": 5151,
   "topCountries": [
    {
     "code": "EC",
-    "count": 5798
+    "count": 5123
    },
    {
     "code": "ZZ",
@@ -95,5 +95,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

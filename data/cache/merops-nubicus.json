@@ -2,7 +2,7 @@
  "key": "merops-nubicus",
  "name": "Merops nubicus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:56.824Z",
+ "fetchedAt": "2026-11-13T11:32:24.840Z",
  "names": {
   "da": "Bee-eater Karminbiæder",
   "en": "Northern Carmine Bee-eater",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2220,
-  "observations": 819
+  "observations": 825
  },
  "photos": {
   "male": [],
@@ -65,43 +65,43 @@
    1,
    1
   ],
-  "worldTotal": 12674,
+  "worldTotal": 12289,
   "topCountries": [
    {
     "code": "KE",
-    "count": 4270
+    "count": 4419
    },
    {
     "code": "ET",
-    "count": 2409
+    "count": 2098
    },
    {
     "code": "UG",
-    "count": 1650
+    "count": 1411
    },
    {
     "code": "TZ",
-    "count": 610
-   },
-   {
-    "code": "GH",
-    "count": 548
+    "count": 693
    },
    {
     "code": "NG",
-    "count": 537
+    "count": 544
+   },
+   {
+    "code": "GH",
+    "count": 476
    },
    {
     "code": "SN",
-    "count": 505
+    "count": 424
    },
    {
     "code": "GM",
-    "count": 370
+    "count": 365
    },
    {
     "code": "BJ",
-    "count": 244
+    "count": 246
    },
    {
     "code": "SE",
@@ -109,13 +109,14 @@
    },
    {
     "code": "TD",
-    "count": 155
+    "count": 185
    },
    {
     "code": "CM",
-    "count": 140
+    "count": 141
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

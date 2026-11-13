@@ -2,7 +2,7 @@
  "key": "circus-pygargus",
  "name": "Circus pygargus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:46.558Z",
+ "fetchedAt": "2026-11-13T11:08:31.316Z",
  "names": {
   "da": "Hedehøg",
   "en": "Montagu's Harrier",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5167,
-  "observations": 14329
+  "observations": 14416
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2480495,
-  "dkTotal": 24441,
+  "dkTotal": 24474,
   "dkMonths": [
    0,
    0,
    0,
    1267,
-   9914,
-   4187,
-   5199,
-   3547,
-   291,
+   9923,
+   4198,
+   5212,
+   3549,
+   289,
    18,
    3,
    0
   ],
-  "worldTotal": 538921,
+  "worldTotal": 531290,
   "topCountries": [
    {
     "code": "FR",
-    "count": 109380
+    "count": 110172
    },
    {
     "code": "ES",
-    "count": 89798
+    "count": 87532
    },
    {
     "code": "ML",
-    "count": 51382
+    "count": 51389
    },
    {
     "code": "SE",
-    "count": 47220
+    "count": 47238
    },
    {
     "code": "NL",
-    "count": 30048
+    "count": 31545
    },
    {
     "code": "GE",
-    "count": 25687
+    "count": 25575
    },
    {
     "code": "DK",
-    "count": 24441
+    "count": 24474
    },
    {
     "code": "BE",
-    "count": 20598
+    "count": 20656
    },
    {
     "code": "IN",
-    "count": 20153
-   },
-   {
-    "code": "PT",
-    "count": 13400
+    "count": 16536
    },
    {
     "code": "RU",
-    "count": 10531
+    "count": 10421
    },
    {
     "code": "MR",
-    "count": 9303
+    "count": 9296
+   },
+   {
+    "code": "PT",
+    "count": 9005
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

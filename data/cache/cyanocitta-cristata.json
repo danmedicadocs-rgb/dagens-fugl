@@ -2,7 +2,7 @@
  "key": "cyanocitta-cristata",
  "name": "Cyanocitta cristata",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:40:51.778Z",
+ "fetchedAt": "2026-11-13T11:42:09.300Z",
  "names": {
   "da": "Blå Skovskade",
   "en": "Blue Jay",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8229,
-  "observations": 209674
+  "observations": 212280
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2025-07-23"
    },
    {
-    "id": 16558790,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16558790/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16558790/large.jpg",
-    "attribution": "(c) pelican5, some rights reserved (CC BY)",
+    "id": 314395546,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314395546/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314395546/large.jpeg",
+    "attribution": "(c) Kelsey Champagne, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/11592191",
-    "place": null,
-    "date": "2018-04-27"
+    "source": "https://www.inaturalist.org/observations/180484626",
+    "place": "Québec, CA",
+    "date": "2023-08-26"
    }
   ],
   "female": [
@@ -146,23 +146,23 @@
    0,
    0
   ],
-  "worldTotal": 24115745,
+  "worldTotal": 24107366,
   "topCountries": [
    {
     "code": "US",
-    "count": 20645181
+    "count": 20731150
    },
    {
     "code": "CA",
-    "count": 3468521
+    "count": 3374058
    },
    {
     "code": "PM",
-    "count": 1023
+    "count": 1126
    },
    {
     "code": "ZZ",
-    "count": 26
+    "count": 30
    },
    {
     "code": "GB",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "phasianus-colchicus",
  "name": "Phasianus colchicus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:17.025Z",
+ "fetchedAt": "2026-11-13T11:05:34.692Z",
  "names": {
   "da": "Fasan",
   "en": "Common Pheasant",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 981,
-  "observations": 76427
+  "observations": 77492
  },
  "photos": {
   "male": [
@@ -122,81 +122,82 @@
    "id": 127255695,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/medium.jpeg",
    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/large.jpeg",
-   "attribution": "(c) John Krampl, some rights reserved (CC BY)",
+   "attribution": "(c) John Krampl, some rights reserved (CC BY), uploaded by John Krampl",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/77794790",
-   "place": "Division No. 2, Alberta, Canada",
-   "date": "2021-05-06"
+   "source": "https://www.inaturalist.org/photos/127255695",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9752149,
-  "dkTotal": 201424,
+  "dkTotal": 203390,
   "dkMonths": [
-   15823,
-   12012,
-   23624,
-   37851,
-   34349,
-   17783,
-   9578,
-   8341,
-   9271,
-   12019,
-   11126,
-   9526
+   15866,
+   12061,
+   23726,
+   38100,
+   34546,
+   17893,
+   9633,
+   8367,
+   9376,
+   12791,
+   11322,
+   9589
   ],
-  "worldTotal": 3459684,
+  "worldTotal": 3563617,
   "topCountries": [
    {
     "code": "US",
-    "count": 812869
+    "count": 780175
    },
    {
     "code": "GB",
-    "count": 541359
+    "count": 615851
    },
    {
     "code": "NL",
-    "count": 381816
+    "count": 391405
    },
    {
     "code": "SE",
-    "count": 297253
+    "count": 299526
    },
    {
     "code": "BE",
-    "count": 260506
+    "count": 266173
    },
    {
     "code": "FR",
-    "count": 215080
+    "count": 218654
    },
    {
     "code": "DK",
-    "count": 201424
+    "count": 203390
    },
    {
     "code": "CA",
-    "count": 182563
+    "count": 176577
    },
    {
     "code": "DE",
-    "count": 107520
+    "count": 115125
    },
    {
     "code": "FI",
-    "count": 68350
+    "count": 75945
    },
    {
-    "code": "TW",
-    "count": 36840
+    "code": "PL",
+    "count": 38149
    },
    {
-    "code": "NZ",
-    "count": 33583
+    "code": "CN",
+    "count": 35652
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

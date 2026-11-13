@@ -2,7 +2,7 @@
  "key": "corythaixoides-concolor",
  "name": "Corythaixoides concolor",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:31:07.483Z",
+ "fetchedAt": "2026-11-13T11:33:28.037Z",
  "names": {
   "da": "Grå Larmfugl",
   "en": "Grey Go-away-bird",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 71973536,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71973536/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71973536/large.jpg",
+   "attribution": "no rights reserved, uploaded by Klaus Wehrlin",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/71973536",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2475259,
@@ -46,51 +55,51 @@
    0,
    0
   ],
-  "worldTotal": 249934,
+  "worldTotal": 251756,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 188003
+    "count": 190027
    },
    {
     "code": "NA",
-    "count": 27946
-   },
-   {
-    "code": "BW",
-    "count": 13564
+    "count": 26163
    },
    {
     "code": "ZW",
-    "count": 12783
+    "count": 14202
+   },
+   {
+    "code": "BW",
+    "count": 13608
    },
    {
     "code": "ZM",
-    "count": 4687
+    "count": 4929
    },
    {
     "code": "MZ",
-    "count": 848
+    "count": 775
    },
    {
     "code": "SZ",
-    "count": 733
-   },
-   {
-    "code": "AO",
-    "count": 531
+    "count": 726
    },
    {
     "code": "MW",
-    "count": 524
+    "count": 531
+   },
+   {
+    "code": "AO",
+    "count": 494
    },
    {
     "code": "TZ",
-    "count": 90
+    "count": 76
    },
    {
     "code": "US",
-    "count": 18
+    "count": 17
    },
    {
     "code": "CD",
@@ -98,5 +107,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

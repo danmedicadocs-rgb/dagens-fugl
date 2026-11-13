@@ -2,7 +2,7 @@
  "key": "stercorarius-parasiticus",
  "name": "Stercorarius parasiticus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:23.693Z",
+ "fetchedAt": "2026-11-13T11:14:04.115Z",
  "names": {
   "da": "Almindelig kjove",
   "en": "Parasitic Jaeger",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4489,
-  "observations": 7827
+  "observations": 7946
  },
  "photos": {
   "male": [],
@@ -47,6 +47,16 @@
     "date": "2025-11-23"
    },
    {
+    "id": 757995021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/757995021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/757995021/large.jpg",
+    "attribution": "(c) James Heal, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/411991092",
+    "place": "Rainham, UK",
+    "date": "2026-10-31"
+   },
+   {
     "id": 431909718,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431909718/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431909718/large.jpeg",
@@ -55,16 +65,6 @@
     "source": "https://www.inaturalist.org/observations/242281197",
     "place": null,
     "date": "2024-09-08"
-   },
-   {
-    "id": 159879969,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159879969/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159879969/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/96253916",
-    "place": "Nanaimo, BC, Canada",
-    "date": "2021-09-25"
    }
   ],
   "hero": {
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2481621,
-  "dkTotal": 53839,
+  "dkTotal": 54024,
   "dkMonths": [
    13,
    5,
-   163,
-   5066,
-   8272,
-   1638,
-   4468,
-   12360,
-   16018,
-   5690,
+   164,
+   5067,
+   8286,
+   1649,
+   4455,
+   12381,
+   16066,
+   5792,
    103,
    32
   ],
-  "worldTotal": 538893,
+  "worldTotal": 468474,
   "topCountries": [
    {
-    "code": "US",
-    "count": 141538
+    "code": "SE",
+    "count": 96160
    },
    {
-    "code": "SE",
-    "count": 95922
+    "code": "US",
+    "count": 84020
    },
    {
     "code": "DK",
-    "count": 53839
+    "count": 54024
    },
    {
     "code": "NO",
-    "count": 45588
+    "count": 45078
    },
    {
     "code": "GB",
-    "count": 40806
+    "count": 45053
    },
    {
     "code": "CA",
-    "count": 31496
+    "count": 24390
    },
    {
     "code": "IS",
-    "count": 18662
-   },
-   {
-    "code": "SJ",
-    "count": 12208
+    "count": 18285
    },
    {
     "code": "FI",
-    "count": 10934
+    "count": 12268
    },
    {
-    "code": "AU",
-    "count": 9671
+    "code": "SJ",
+    "count": 12188
    },
    {
     "code": "NL",
-    "count": 9393
+    "count": 9908
+   },
+   {
+    "code": "AU",
+    "count": 8455
    },
    {
     "code": "ES",
-    "count": 9321
+    "count": 7724
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

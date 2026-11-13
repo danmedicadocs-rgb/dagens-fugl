@@ -2,7 +2,7 @@
  "key": "halcyon-senegalensis",
  "name": "Halcyon senegalensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:05.260Z",
+ "fetchedAt": "2026-11-13T11:35:14.063Z",
  "names": {
   "da": "Skovisfugl",
   "en": "Woodland Kingfisher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2337,
-  "observations": 3767
+  "observations": 3814
  },
  "photos": {
   "male": [],
@@ -47,14 +47,14 @@
     "date": "2023-11-22"
    },
    {
-    "id": 483082526,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483082526/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483082526/large.jpeg",
-    "attribution": "(c) scaup, some rights reserved (CC BY)",
+    "id": 337203619,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337203619/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337203619/large.jpeg",
+    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/268734084",
-    "place": "Ehlanzeni District Municipality, South Africa",
-    "date": "2014-12-02"
+    "source": "https://www.inaturalist.org/observations/192127445",
+    "place": "9HMJ+FR6, Franceville, Gabon",
+    "date": "2023-08-08"
    }
   ],
   "hero": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 114112,
+  "worldTotal": 112622,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 57727
+    "count": 58134
    },
    {
     "code": "UG",
-    "count": 14159
+    "count": 13116
    },
    {
     "code": "GH",
-    "count": 4841
-   },
-   {
-    "code": "KE",
-    "count": 4280
+    "count": 4415
    },
    {
     "code": "BW",
-    "count": 4184
+    "count": 4196
    },
    {
-    "code": "TZ",
-    "count": 3647
+    "code": "KE",
+    "count": 3835
    },
    {
     "code": "NG",
-    "count": 3323
+    "count": 3487
+   },
+   {
+    "code": "TZ",
+    "count": 3262
    },
    {
     "code": "NA",
-    "count": 2234
-   },
-   {
-    "code": "ET",
-    "count": 1987
+    "count": 2133
    },
    {
     "code": "GM",
-    "count": 1961
+    "count": 1814
+   },
+   {
+    "code": "ZW",
+    "count": 1774
+   },
+   {
+    "code": "ET",
+    "count": 1767
    },
    {
     "code": "ZM",
-    "count": 1637
-   },
-   {
-    "code": "RW",
-    "count": 1528
+    "count": 1658
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

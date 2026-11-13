@@ -2,7 +2,7 @@
  "key": "podargus-strigoides",
  "name": "Podargus strigoides",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:38:41.127Z",
+ "fetchedAt": "2026-11-13T11:40:18.046Z",
  "names": {
   "da": "Australsk Frømund",
   "en": "Tawny Frogmouth",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19721,
-  "observations": 29967
+  "observations": 30761
  },
  "photos": {
   "male": [
@@ -32,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/55554458",
     "place": "Wolfang QLD 4721, Australia",
     "date": "2008-05-20"
+   },
+   {
+    "id": 762546380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762546380/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762546380/large.jpg",
+    "attribution": "(c) Ian Rainbow, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/414240913",
+    "place": "Upwey VIC 3158, Australia",
+    "date": "2026-11-12"
    }
   ],
   "female": [
@@ -78,6 +88,16 @@
     "date": "2008-01-24"
    },
    {
+    "id": 762674288,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762674288/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762674288/large.jpg",
+    "attribution": "(c) Ian Rainbow, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/414303113",
+    "place": "Upwey VIC 3158, Australia",
+    "date": "2026-11-12"
+   },
+   {
     "id": 107804338,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107804338/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107804338/large.jpg",
@@ -86,16 +106,6 @@
     "source": "https://www.inaturalist.org/observations/66818403",
     "place": "Beavers Road, Northcote, VIC, AU",
     "date": "2020-12-12"
-   },
-   {
-    "id": 505167095,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/505167095/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/505167095/large.jpg",
-    "attribution": "(c) Karl Tattersall, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/281225938",
-    "place": "Nightcliff NT 0810, Australia",
-    "date": "2025-05-15"
    }
   ],
   "hero": {
@@ -126,15 +136,15 @@
    0,
    0
   ],
-  "worldTotal": 226389,
+  "worldTotal": 231762,
   "topCountries": [
    {
     "code": "AU",
-    "count": 225943
+    "count": 231306
    },
    {
     "code": "US",
-    "count": 21
+    "count": 22
    },
    {
     "code": "ZZ",
@@ -178,5 +188,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

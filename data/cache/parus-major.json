@@ -2,7 +2,7 @@
  "key": "parus-major",
  "name": "Parus major",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:13.990Z",
+ "fetchedAt": "2026-11-13T11:20:21.260Z",
  "names": {
   "da": "Musvit",
   "en": "Great tit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 203153,
-  "observations": 252526
+  "observations": 256196
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 118552511,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118552511/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118552511/large.jpeg",
-   "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/72686523",
-   "place": "32449 Casgutierre, Ourense, España",
-   "date": "2021-04-02"
+   "id": 452217076,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452217076/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452217076/large.jpg",
+   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/452217076",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9705453,
-  "dkTotal": 574672,
+  "dkTotal": 581865,
   "dkMonths": [
-   65051,
-   59915,
-   78116,
-   75559,
-   58737,
-   36044,
-   24215,
-   26632,
-   33919,
-   42756,
-   35796,
-   37858
+   65337,
+   60302,
+   78508,
+   76014,
+   59193,
+   36319,
+   24421,
+   26857,
+   34320,
+   45776,
+   36576,
+   38168
   ],
-  "worldTotal": 14107628,
+  "worldTotal": 14681578,
   "topCountries": [
    {
     "code": "SE",
-    "count": 2097784
+    "count": 2117608
    },
    {
     "code": "FI",
-    "count": 1947649
+    "count": 1999545
    },
    {
     "code": "FR",
-    "count": 1800183
+    "count": 1830357
    },
    {
     "code": "NL",
-    "count": 1399532
+    "count": 1428840
    },
    {
     "code": "GB",
-    "count": 1160742
+    "count": 1328877
    },
    {
     "code": "NO",
-    "count": 930710
-   },
-   {
-    "code": "ES",
-    "count": 877604
+    "count": 945820
    },
    {
     "code": "DE",
-    "count": 872611
+    "count": 926650
+   },
+   {
+    "code": "ES",
+    "count": 908161
    },
    {
     "code": "DK",
-    "count": 574672
+    "count": 581865
    },
    {
     "code": "PL",
-    "count": 490970
+    "count": 529760
    },
    {
     "code": "BE",
-    "count": 334205
+    "count": 345179
    },
    {
     "code": "RU",
-    "count": 232841
+    "count": 242377
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

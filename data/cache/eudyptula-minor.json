@@ -2,7 +2,7 @@
  "key": "eudyptula-minor",
  "name": "Eudyptula minor",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:05.852Z",
+ "fetchedAt": "2026-11-13T11:40:39.084Z",
  "names": {
   "da": "Dværgpingvin",
   "en": "Little Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3817,
-  "observations": 8107
+  "observations": 8235
  },
  "photos": {
   "male": [],
@@ -58,14 +58,24 @@
   ],
   "adult": [
    {
-    "id": 123582184,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/large.jpeg",
-    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/75531386",
-    "place": "Waitangi, NZ-CI, NZ",
-    "date": "2021-03-20"
+    "id": 2908154,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/large.jpg",
+    "attribution": "(c) Emily Roberts, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2603434",
+    "place": "New Plymouth",
+    "date": "2015-11-15"
+   },
+   {
+    "id": 761965912,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761965912/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761965912/large.jpg",
+    "attribution": "(c) eklemp, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/413953773",
+    "place": "Motueka, Tasman, NZ",
+    "date": "2026-11-10"
    },
    {
     "id": 64636889,
@@ -76,27 +86,17 @@
     "source": "https://www.inaturalist.org/observations/40775294",
     "place": "Auckland, NZ",
     "date": "2018-09-11"
-   },
-   {
-    "id": 2908154,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/large.jpg",
-    "attribution": "(c) Emily Roberts, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2603434",
-    "place": "New Plymouth",
-    "date": "2015-11-15"
    }
   ],
   "hero": {
-   "id": 123582184,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123582184/large.jpeg",
-   "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/75531386",
-   "place": "Waitangi, NZ-CI, NZ",
-   "date": "2021-03-20"
+   "id": 63612085,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63612085/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63612085/large.jpeg",
+   "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY), uploaded by Spencer McIntyre",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/63612085",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,27 +116,27 @@
    0,
    0
   ],
-  "worldTotal": 566972,
+  "worldTotal": 564660,
   "topCountries": [
    {
     "code": "AU",
-    "count": 545764
+    "count": 545487
    },
    {
     "code": "NZ",
-    "count": 20552
+    "count": 18490
    },
    {
     "code": "US",
-    "count": 21
+    "count": 23
    },
    {
     "code": "CL",
-    "count": 6
+    "count": 21
    },
    {
     "code": "FK",
-    "count": 3
+    "count": 11
    },
    {
     "code": "NA",
@@ -168,5 +168,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

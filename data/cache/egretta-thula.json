@@ -2,7 +2,7 @@
  "key": "egretta-thula",
  "name": "Egretta thula",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:31.174Z",
+ "fetchedAt": "2026-11-13T11:45:14.318Z",
  "names": {
   "da": "Snehejre",
   "en": "Snowy Egret",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4940,
-  "observations": 183771
+  "observations": 185829
  },
  "photos": {
   "male": [
@@ -67,16 +67,6 @@
     "date": "2024-07-04"
    },
    {
-    "id": 20954702,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/14141308",
-    "place": "33446, Delray Beach, FL, US",
-    "date": "2018-07-07"
-   },
-   {
     "id": 316931364,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316931364/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316931364/large.jpeg",
@@ -85,17 +75,27 @@
     "source": "https://www.inaturalist.org/observations/181839042",
     "place": "Northampton County, VA, USA",
     "date": "2023-09-04"
+   },
+   {
+    "id": 20954702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/14141308",
+    "place": "33446, Delray Beach, FL, US",
+    "date": "2018-07-07"
    }
   ],
   "hero": {
-   "id": 586152157,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/large.jpg",
-   "attribution": "(c) Wes Copas, some rights reserved (CC BY)",
+   "id": 330856993,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330856993/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330856993/large.jpeg",
+   "attribution": "(c) Bill Levine, some rights reserved (CC BY), uploaded by Bill Levine",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/323902381",
-   "place": "Olmos Park, TX 78212, USA",
-   "date": "2025-10-29"
+   "source": "https://www.inaturalist.org/photos/330856993",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 4766855,
+  "worldTotal": 4204120,
   "topCountries": [
    {
     "code": "US",
-    "count": 3845959
+    "count": 3463588
    },
    {
     "code": "MX",
-    "count": 179738
+    "count": 147552
    },
    {
     "code": "BR",
-    "count": 103539
+    "count": 94221
    },
    {
     "code": "AR",
-    "count": 83280
+    "count": 68744
    },
    {
     "code": "CR",
-    "count": 80281
+    "count": 63680
    },
    {
     "code": "CO",
-    "count": 70341
+    "count": 53585
    },
    {
     "code": "CL",
-    "count": 66874
+    "count": 52835
    },
    {
     "code": "PE",
-    "count": 48474
+    "count": 37222
    },
    {
     "code": "BZ",
-    "count": 29795
-   },
-   {
-    "code": "PA",
-    "count": 25211
+    "count": 21675
    },
    {
     "code": "EC",
-    "count": 25034
+    "count": 20246
+   },
+   {
+    "code": "PA",
+    "count": 18734
    },
    {
     "code": "PR",
-    "count": 22359
+    "count": 16824
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

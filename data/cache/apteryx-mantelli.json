@@ -2,7 +2,7 @@
  "key": "apteryx-mantelli",
  "name": "Apteryx mantelli",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:30.432Z",
+ "fetchedAt": "2026-11-13T11:39:10.152Z",
  "names": {
   "da": "Nordlig Kiwi",
   "en": "North Island Brown Kiwi",
@@ -14,12 +14,12 @@
  "wiki": {
   "lang": "en",
   "title": "North Island brown kiwi",
-  "extract": "The North Island brown kiwi is a nocturnal flightless bird and species of kiwi that is widespread in the northern two-thirds of the North Island of New Zealand and, with about 35,000 remaining, it is the most common kiwi species. The eggs laid by the North Island brown kiwi are among the largest eggs relative to its body size.",
+  "extract": "The North Island brown kiwi is a nocturnal flightless bird and species of kiwi that is widespread in the northern two-thirds of the North Island of New Zealand. Its population was estimated in 2015 to be 26,600 of which mature individuals numbered between 10,000 and 19,999. It is the most common kiwi species. The eggs laid by the North Island brown kiwi are among the largest eggs relative to its body size.",
   "url": "https://en.wikipedia.org/wiki/North_Island_brown_kiwi"
  },
  "inat": {
   "id": 20496,
-  "observations": 613
+  "observations": 634
  },
  "photos": {
   "male": [],
@@ -37,6 +37,16 @@
     "date": "2026-02-04"
    },
    {
+    "id": 66716663,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66716663/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66716663/large.jpeg",
+    "attribution": "(c) Chris Ecroyd, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/42036177",
+    "place": "Little Barrier Island 0920, New Zealand",
+    "date": "2015-04-13"
+   },
+   {
     "id": 145091988,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145091988/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145091988/large.jpeg",
@@ -48,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 613120002,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613120002/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613120002/large.jpg",
-   "attribution": "(c) Kelvin Perrie, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/337293208",
-   "place": "New Plymouth District, Taranaki Region, New Zealand",
-   "date": "2026-02-04"
+   "id": 212223422,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212223422/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212223422/large.jpg",
+   "attribution": "(c) Tomáš Divilek, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/212223422",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -75,11 +85,11 @@
    0,
    0
   ],
-  "worldTotal": 3438,
+  "worldTotal": 3318,
   "topCountries": [
    {
     "code": "NZ",
-    "count": 3408
+    "count": 3289
    },
    {
     "code": "AU",
@@ -91,5 +101,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

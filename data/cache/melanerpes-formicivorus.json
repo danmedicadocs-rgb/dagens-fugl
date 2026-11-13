@@ -2,7 +2,7 @@
  "key": "melanerpes-formicivorus",
  "name": "Melanerpes formicivorus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:42:17.611Z",
+ "fetchedAt": "2026-11-13T11:43:17.496Z",
  "names": {
   "da": "Agernspætte",
   "en": "Acorn Woodpecker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18209,
-  "observations": 70858
+  "observations": 71740
  },
  "photos": {
   "male": [
@@ -146,51 +146,51 @@
    0,
    0
   ],
-  "worldTotal": 1838061,
+  "worldTotal": 1664892,
   "topCountries": [
    {
     "code": "US",
-    "count": 1620297
+    "count": 1493379
    },
    {
     "code": "MX",
-    "count": 61565
+    "count": 50264
    },
    {
     "code": "CO",
-    "count": 55707
+    "count": 45271
    },
    {
     "code": "CR",
-    "count": 36419
+    "count": 27257
    },
    {
     "code": "GT",
-    "count": 22333
+    "count": 19348
    },
    {
     "code": "BZ",
-    "count": 18407
+    "count": 12281
    },
    {
     "code": "HN",
-    "count": 14983
+    "count": 10272
    },
    {
     "code": "PA",
-    "count": 5596
+    "count": 4544
    },
    {
     "code": "NI",
-    "count": 1485
-   },
-   {
-    "code": "SV",
-    "count": 619
+    "count": 1059
    },
    {
     "code": "CA",
-    "count": 314
+    "count": 448
+   },
+   {
+    "code": "SV",
+    "count": 432
    },
    {
     "code": "ZZ",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "cepphus-grylle",
  "name": "Cepphus grylle",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:23.537Z",
+ "fetchedAt": "2026-11-13T11:16:28.985Z",
  "names": {
   "da": "Tejst",
   "en": "Black Guillemot",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4418,
-  "observations": 11308
+  "observations": 11422
  },
  "photos": {
   "male": [],
@@ -78,14 +78,14 @@
     "date": "2018-06-18"
    },
    {
-    "id": 243036191,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243036191/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243036191/large.jpeg",
-    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
+    "id": 596513393,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596513393/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596513393/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/141832159",
-    "place": "Ballynamuddagh, Co. Wicklow, Ireland",
-    "date": "2022-07-26"
+    "source": "https://www.inaturalist.org/observations/329113885",
+    "place": "Novaya Zemlya, RU-AR, RU",
+    "date": "2025-11-04"
    }
   ],
   "hero": {
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 2481312,
-  "dkTotal": 33951,
+  "dkTotal": 34382,
   "dkMonths": [
-   1690,
-   1644,
-   2424,
-   3544,
-   5552,
-   2185,
-   2815,
-   3013,
-   2995,
-   3960,
-   2806,
-   1266
+   1697,
+   1649,
+   2436,
+   3556,
+   5566,
+   2218,
+   2828,
+   3023,
+   3014,
+   4207,
+   2864,
+   1268
   ],
-  "worldTotal": 697614,
+  "worldTotal": 660983,
   "topCountries": [
    {
-    "code": "CA",
-    "count": 157735
-   },
-   {
     "code": "SE",
-    "count": 137551
+    "count": 138309
    },
    {
-    "code": "US",
-    "count": 120754
+    "code": "CA",
+    "count": 136897
    },
    {
     "code": "NO",
-    "count": 95611
+    "count": 97126
    },
    {
-    "code": "FI",
-    "count": 36524
-   },
-   {
-    "code": "DK",
-    "count": 33951
+    "code": "US",
+    "count": 93153
    },
    {
     "code": "GB",
-    "count": 33942
+    "count": 37948
+   },
+   {
+    "code": "FI",
+    "count": 37669
+   },
+   {
+    "code": "DK",
+    "count": 34382
    },
    {
     "code": "IS",
-    "count": 24735
+    "count": 26086
    },
    {
     "code": "SJ",
-    "count": 14754
-   },
-   {
-    "code": "NL",
-    "count": 11531
+    "count": 14906
    },
    {
     "code": "IE",
-    "count": 10767
+    "count": 11726
+   },
+   {
+    "code": "NL",
+    "count": 11573
    },
    {
     "code": "IM",
-    "count": 3891
+    "count": 4043
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "limosa-limosa",
  "name": "Limosa limosa",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:39.458Z",
+ "fetchedAt": "2026-11-13T11:12:35.140Z",
  "names": {
   "da": "Stor kobbersneppe",
   "en": "Black-tailed Godwit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3947,
-  "observations": 30698
+  "observations": 31054
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2023-07-27"
    },
    {
-    "id": 389026057,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389026057/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389026057/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/219769153",
-    "place": "3861 Nijkerk, Nederland",
-    "date": "2024-06-01"
-   },
-   {
     "id": 727372762,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727372762/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727372762/large.jpg",
@@ -116,87 +106,98 @@
     "source": "https://www.inaturalist.org/observations/396631647",
     "place": "Nissan Way-Training Centre, Sunderland SR5 3QY, UK",
     "date": "2026-09-02"
+   },
+   {
+    "id": 389026057,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389026057/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389026057/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/219769153",
+    "place": "3861 Nijkerk, Nederland",
+    "date": "2024-06-01"
    }
   ],
   "hero": {
-   "id": 28109464,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28109464/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28109464/large.jpg",
-   "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+   "id": 271725102,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271725102/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/271725102/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/18391415",
-   "place": "Кстовский р-н, Нижегородская обл., Россия",
-   "date": "2016-05-19"
+   "source": "https://www.inaturalist.org/photos/271725102",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481685,
-  "dkTotal": 38747,
+  "dkTotal": 38853,
   "dkMonths": [
    60,
    43,
-   2555,
-   8792,
-   7997,
-   4755,
-   6089,
-   4166,
-   2474,
-   1262,
-   382,
+   2564,
+   8805,
+   8000,
+   4761,
+   6121,
+   4167,
+   2472,
+   1298,
+   387,
    31
   ],
-  "worldTotal": 1309633,
+  "worldTotal": 1318725,
   "topCountries": [
    {
     "code": "NL",
-    "count": 466340
+    "count": 471439
    },
    {
     "code": "GB",
-    "count": 197046
+    "count": 221662
    },
    {
     "code": "SE",
-    "count": 95166
-   },
-   {
-    "code": "ES",
-    "count": 62887
+    "count": 95294
    },
    {
     "code": "BE",
-    "count": 59986
+    "count": 61263
+   },
+   {
+    "code": "ES",
+    "count": 57948
    },
    {
     "code": "FR",
-    "count": 54381
+    "count": 56017
    },
    {
     "code": "IN",
-    "count": 52236
-   },
-   {
-    "code": "PT",
-    "count": 41129
+    "count": 40592
    },
    {
     "code": "DK",
-    "count": 38747
+    "count": 38853
+   },
+   {
+    "code": "PT",
+    "count": 37721
    },
    {
     "code": "AU",
-    "count": 29288
-   },
-   {
-    "code": "IS",
-    "count": 24120
+    "count": 27965
    },
    {
     "code": "NO",
-    "count": 23583
+    "count": 23776
+   },
+   {
+    "code": "IS",
+    "count": 23596
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

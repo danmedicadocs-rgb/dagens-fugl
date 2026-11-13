@@ -2,7 +2,7 @@
  "key": "phylloscopus-inornatus",
  "name": "Phylloscopus inornatus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:57.466Z",
+ "fetchedAt": "2026-11-13T11:21:52.192Z",
  "names": {
   "da": "Hvidbrynet løvsanger",
   "en": "Yellow-browed Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117028,
-  "observations": 5695
+  "observations": 5871
  },
  "photos": {
   "male": [],
@@ -58,19 +58,19 @@
    }
   ],
   "hero": {
-   "id": 542662167,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542662167/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542662167/large.jpg",
-   "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
+   "id": 2781613,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2781613/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2781613/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/301158360",
-   "place": "Assam, IN",
-   "date": "2025-02-28"
+   "source": "https://www.inaturalist.org/photos/2781613",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493095,
-  "dkTotal": 6384,
+  "dkTotal": 6605,
   "dkMonths": [
    1,
    0,
@@ -80,62 +80,63 @@
    0,
    0,
    0,
-   1489,
-   4684,
-   185,
+   1478,
+   4907,
+   194,
    1
   ],
-  "worldTotal": 300496,
+  "worldTotal": 293630,
   "topCountries": [
    {
-    "code": "TH",
-    "count": 41512
-   },
-   {
     "code": "NL",
-    "count": 38921
+    "count": 40393
    },
    {
-    "code": "TW",
-    "count": 38066
+    "code": "TH",
+    "count": 35923
    },
    {
     "code": "CN",
-    "count": 25739
+    "count": 30263
+   },
+   {
+    "code": "TW",
+    "count": 29151
    },
    {
     "code": "SE",
-    "count": 24372
+    "count": 24286
    },
    {
     "code": "HK",
-    "count": 20346
+    "count": 22140
    },
    {
     "code": "GB",
-    "count": 16609
+    "count": 18273
    },
    {
     "code": "IN",
-    "count": 16542
+    "count": 14336
    },
    {
     "code": "NO",
-    "count": 11008
+    "count": 11157
    },
    {
     "code": "VN",
-    "count": 7923
+    "count": 8059
    },
    {
     "code": "DK",
-    "count": 6384
+    "count": 6605
    },
    {
     "code": "FR",
-    "count": 6320
+    "count": 6474
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "lamprotornis-superbus",
  "name": "Lamprotornis superbus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:02.087Z",
+ "fetchedAt": "2026-11-13T11:32:29.006Z",
  "names": {
   "da": "Trefarvet Glansstær",
   "en": "Superb Starling",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14939,
-  "observations": 5092
+  "observations": 5178
  },
  "photos": {
   "male": [
@@ -88,14 +88,14 @@
    }
   ],
   "hero": {
-   "id": 607171759,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/large.jpg",
-   "attribution": "(c) olliesaunders, some rights reserved (CC BY-SA)",
+   "id": 345745020,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345745020/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345745020/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/334355393",
-   "place": "Kajiado South, KE-KJ, KE",
-   "date": "2026-01-11"
+   "source": "https://www.inaturalist.org/photos/345745020",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,31 +115,31 @@
    0,
    0
   ],
-  "worldTotal": 82897,
+  "worldTotal": 77294,
   "topCountries": [
    {
     "code": "KE",
-    "count": 53712
+    "count": 51286
    },
    {
     "code": "TZ",
-    "count": 22697
+    "count": 20450
    },
    {
     "code": "ET",
-    "count": 4463
+    "count": 3574
    },
    {
     "code": "UG",
-    "count": 1048
+    "count": 928
    },
    {
     "code": "AE",
-    "count": 397
+    "count": 462
    },
    {
     "code": "SO",
-    "count": 222
+    "count": 233
    },
    {
     "code": "NL",
@@ -151,7 +151,7 @@
    },
    {
     "code": "SS",
-    "count": 30
+    "count": 31
    },
    {
     "code": "BE",
@@ -159,13 +159,14 @@
    },
    {
     "code": "MY",
-    "count": 17
+    "count": 19
    },
    {
-    "code": "ZZ",
-    "count": 15
+    "code": "US",
+    "count": 17
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "acrocephalus-schoenobaenus",
  "name": "Acrocephalus schoenobaenus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:16.979Z",
+ "fetchedAt": "2026-11-13T11:22:57.667Z",
  "names": {
   "da": "Sivsanger",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116804,
-  "observations": 19100
+  "observations": 19154
  },
  "photos": {
   "male": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 666289511,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/large.jpg",
-   "attribution": "(c) oskar0710, some rights reserved (CC BY)",
+   "id": 65320,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65320/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65320/large.jpg",
+   "attribution": "(c) Billy Lindblom, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/364957446",
-   "place": "Świętokrzyskie, PL",
-   "date": "2026-05-24"
+   "source": "https://www.inaturalist.org/photos/65320",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493129,
-  "dkTotal": 62221,
+  "dkTotal": 62413,
   "dkMonths": [
    0,
    0,
    1,
-   6431,
-   30871,
-   12991,
-   7221,
-   3409,
-   1208,
+   6508,
+   30953,
+   13017,
+   7254,
+   3393,
+   1198,
    22,
    1,
    4
   ],
-  "worldTotal": 1929967,
+  "worldTotal": 1974580,
   "topCountries": [
    {
     "code": "FI",
-    "count": 469752
+    "count": 479142
    },
    {
     "code": "SE",
-    "count": 385696
+    "count": 387082
    },
    {
     "code": "NL",
-    "count": 350746
+    "count": 353589
    },
    {
     "code": "GB",
-    "count": 169964
+    "count": 191392
    },
    {
     "code": "FR",
-    "count": 114100
+    "count": 115386
    },
    {
     "code": "DK",
-    "count": 62221
-   },
-   {
-    "code": "ES",
-    "count": 56452
+    "count": 62413
    },
    {
     "code": "PL",
-    "count": 55228
+    "count": 59173
+   },
+   {
+    "code": "ES",
+    "count": 55717
    },
    {
     "code": "NO",
-    "count": 54140
+    "count": 54688
    },
    {
     "code": "BE",
-    "count": 42904
+    "count": 45088
    },
    {
     "code": "EE",
-    "count": 21076
+    "count": 21368
    },
    {
-    "code": "IL",
-    "count": 17800
+    "code": "DE",
+    "count": 16894
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

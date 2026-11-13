@@ -2,7 +2,7 @@
  "key": "anthus-hodgsoni",
  "name": "Anthus hodgsoni",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:22:38.745Z",
+ "fetchedAt": "2026-11-13T11:25:59.790Z",
  "names": {
   "da": "Tajgapiber",
   "en": "Olive-backed Pipit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13724,
-  "observations": 8765
+  "observations": 8893
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
   ],
   "adult": [
    {
-    "id": 57492665,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57492665/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57492665/large.jpg",
-    "attribution": "(c) Rohit, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/36374563",
-    "place": "Talle Valley 791120",
-    "date": "2019-03-19"
+    "id": 230588495,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230588495/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230588495/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/135213707",
+    "place": "Firangai Devi Cave Temple, Nanoli",
+    "date": "2020-11-14"
    },
    {
     "id": 504219022,
@@ -101,7 +101,7 @@
  },
  "gbif": {
   "key": 2490244,
-  "dkTotal": 345,
+  "dkTotal": 342,
   "dkMonths": [
    0,
    0,
@@ -111,62 +111,63 @@
    0,
    0,
    0,
-   56,
-   270,
+   55,
+   268,
    15,
    0
   ],
-  "worldTotal": 162202,
+  "worldTotal": 151315,
   "topCountries": [
    {
+    "code": "CN",
+    "count": 30271
+   },
+   {
     "code": "IN",
-    "count": 33602
+    "count": 26915
    },
    {
     "code": "TW",
-    "count": 31154
-   },
-   {
-    "code": "CN",
-    "count": 25804
+    "count": 23976
    },
    {
     "code": "HK",
-    "count": 13388
-   },
-   {
-    "code": "TH",
-    "count": 9560
+    "count": 14043
    },
    {
     "code": "NP",
-    "count": 8406
+    "count": 8324
+   },
+   {
+    "code": "TH",
+    "count": 7765
    },
    {
     "code": "KR",
-    "count": 6601
+    "count": 7633
    },
    {
     "code": "JP",
-    "count": 5113
+    "count": 5670
    },
    {
     "code": "BT",
-    "count": 4618
+    "count": 3507
    },
    {
     "code": "RU",
-    "count": 3587
+    "count": 3405
    },
    {
     "code": "NL",
-    "count": 2940
+    "count": 3203
    },
    {
-    "code": "MN",
-    "count": 2119
+    "code": "VN",
+    "count": 1696
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

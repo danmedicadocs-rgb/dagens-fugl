@@ -2,7 +2,7 @@
  "key": "larus-argentatus",
  "name": "Larus argentatus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:34.711Z",
+ "fetchedAt": "2026-11-13T11:14:57.017Z",
  "names": {
   "da": "Sølvmåge",
   "en": "European Herring Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204533,
-  "observations": 87985
+  "observations": 89207
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 224175911,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224175911/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224175911/large.jpeg",
-    "attribution": "(c) renaradelt, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/131706635",
-    "place": "Carlisle CA3, Vereinigtes Königreich",
-    "date": "2022-08-21"
-   },
-   {
     "id": 252919545,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919545/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919545/large.jpeg",
@@ -74,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/147027413",
     "place": "4005 Stavanger, Norwegen",
     "date": "2022-07-23"
+   },
+   {
+    "id": 224175911,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224175911/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224175911/large.jpeg",
+    "attribution": "(c) renaradelt, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/131706635",
+    "place": "Carlisle CA3, Vereinigtes Königreich",
+    "date": "2022-08-21"
    },
    {
     "id": 34439526,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 9456523,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9456523/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9456523/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/7306316",
-   "place": "Kristiansund, Norway",
-   "date": "2017-07-31"
+   "id": 308158217,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308158217/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308158217/large.jpeg",
+   "attribution": "(c) Stu's Images, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/308158217",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481139,
-  "dkTotal": 614813,
+  "dkTotal": 620517,
   "dkMonths": [
-   65713,
-   52227,
-   56355,
-   50290,
-   46513,
-   90441,
-   54447,
-   45888,
-   37534,
-   40135,
-   35312,
-   37053
+   65887,
+   52448,
+   56528,
+   50613,
+   46841,
+   90852,
+   54850,
+   46146,
+   37931,
+   42303,
+   35882,
+   37331
   ],
-  "worldTotal": 7757961,
+  "worldTotal": 8162213,
   "topCountries": [
    {
     "code": "BE",
-    "count": 1605774
+    "count": 1691641
    },
    {
     "code": "GB",
-    "count": 1141979
+    "count": 1299442
    },
    {
     "code": "NL",
-    "count": 863988
+    "count": 883677
    },
    {
     "code": "FR",
-    "count": 832137
+    "count": 853696
    },
    {
     "code": "SE",
-    "count": 826646
+    "count": 834289
    },
    {
     "code": "NO",
-    "count": 685091
+    "count": 694049
    },
    {
     "code": "DK",
-    "count": 614813
+    "count": 620517
    },
    {
     "code": "FI",
-    "count": 521630
+    "count": 538784
    },
    {
     "code": "DE",
-    "count": 166345
+    "count": 173219
    },
    {
     "code": "US",
-    "count": 106507
+    "count": 154810
    },
    {
     "code": "IE",
-    "count": 76445
+    "count": 84108
    },
    {
-    "code": "EE",
-    "count": 45406
+    "code": "PL",
+    "count": 47398
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

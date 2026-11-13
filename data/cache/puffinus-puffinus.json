@@ -2,7 +2,7 @@
  "key": "puffinus-puffinus",
  "name": "Puffinus puffinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:59:20.790Z",
+ "fetchedAt": "2026-11-13T11:06:28.073Z",
  "names": {
   "da": "Almindelig skråpe",
   "en": "Manx Shearwater",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4093,
-  "observations": 2659
+  "observations": 2687
  },
  "photos": {
   "male": [],
@@ -70,72 +70,73 @@
  },
  "gbif": {
   "key": 5229380,
-  "dkTotal": 1474,
+  "dkTotal": 1486,
   "dkMonths": [
    0,
    3,
    1,
    11,
    124,
-   148,
-   427,
-   287,
-   345,
-   107,
+   152,
+   429,
+   293,
+   344,
+   108,
    8,
    2
   ],
-  "worldTotal": 202299,
+  "worldTotal": 192251,
   "topCountries": [
    {
     "code": "GB",
-    "count": 78644
+    "count": 83425
    },
    {
     "code": "IE",
-    "count": 35263
+    "count": 35247
    },
    {
     "code": "US",
-    "count": 32263
+    "count": 21779
    },
    {
     "code": "ES",
-    "count": 9461
-   },
-   {
-    "code": "PT",
-    "count": 5772
+    "count": 8362
    },
    {
     "code": "IM",
-    "count": 5389
+    "count": 5402
    },
    {
     "code": "FR",
-    "count": 4969
+    "count": 5362
    },
    {
-    "code": "CA",
-    "count": 4790
+    "code": "PT",
+    "count": 4906
    },
    {
     "code": "SE",
-    "count": 4499
+    "count": 4511
+   },
+   {
+    "code": "CA",
+    "count": 3453
    },
    {
     "code": "NO",
-    "count": 3290
+    "count": 3329
    },
    {
     "code": "IS",
-    "count": 2399
+    "count": 2299
    },
    {
     "code": "BR",
-    "count": 2397
+    "count": 2281
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

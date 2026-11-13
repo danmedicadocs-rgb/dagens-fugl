@@ -2,7 +2,7 @@
  "key": "alopochen-aegyptiaca",
  "name": "Alopochen aegyptiaca",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:46.601Z",
+ "fetchedAt": "2026-11-13T11:03:30.820Z",
  "names": {
   "da": "Nilgås",
   "en": "Egyptian Goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 72486,
-  "observations": 93392
+  "observations": 94796
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2025-04-16"
    },
    {
-    "id": 281089536,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281089536/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281089536/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/162558588",
-    "place": "Duck Island Cottage, St James's Park, London SW1A 2BJ, UK",
-    "date": "2023-05-18"
-   },
-   {
     "id": 515880564,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515880564/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515880564/large.jpg",
@@ -116,87 +106,98 @@
     "source": "https://www.inaturalist.org/observations/286951272",
     "place": "Fullerton, CA, USA",
     "date": "2024-03-26"
+   },
+   {
+    "id": 281089536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281089536/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281089536/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/162558588",
+    "place": "Duck Island Cottage, St James's Park, London SW1A 2BJ, UK",
+    "date": "2023-05-18"
    }
   ],
   "hero": {
-   "id": 603133578,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603133578/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603133578/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/332351125",
-   "place": "Ben Fiorendino Park, Pembroke Pines, FL, US",
-   "date": "2025-12-27"
+   "id": 487078347,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487078347/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487078347/large.jpeg",
+   "attribution": "(c) Alex Press, some rights reserved (CC BY), uploaded by Alex Press",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/487078347",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498252,
-  "dkTotal": 19077,
+  "dkTotal": 19118,
   "dkMonths": [
-   834,
-   985,
-   1927,
-   3559,
-   4180,
-   2307,
-   1909,
-   1350,
-   705,
-   437,
-   405,
-   474
+   832,
+   988,
+   1928,
+   3566,
+   4187,
+   2312,
+   1910,
+   1356,
+   707,
+   443,
+   411,
+   473
   ],
-  "worldTotal": 2263035,
+  "worldTotal": 2328633,
   "topCountries": [
    {
     "code": "NL",
-    "count": 550813
+    "count": 564100
    },
    {
     "code": "ZA",
-    "count": 480033
+    "count": 482085
    },
    {
     "code": "BE",
-    "count": 378529
+    "count": 383435
    },
    {
     "code": "DE",
-    "count": 201478
-   },
-   {
-    "code": "US",
-    "count": 178607
+    "count": 212992
    },
    {
     "code": "GB",
-    "count": 173976
+    "count": 205040
+   },
+   {
+    "code": "US",
+    "count": 175954
    },
    {
     "code": "ES",
-    "count": 42954
+    "count": 45914
    },
    {
     "code": "KE",
-    "count": 41332
+    "count": 40533
    },
    {
     "code": "FR",
-    "count": 27594
-   },
-   {
-    "code": "DK",
-    "count": 19077
+    "count": 28528
    },
    {
     "code": "PT",
-    "count": 18888
+    "count": 19188
    },
    {
-    "code": "TZ",
-    "count": 15581
+    "code": "DK",
+    "count": 19118
+   },
+   {
+    "code": "AE",
+    "count": 14910
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

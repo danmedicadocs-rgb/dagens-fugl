@@ -2,7 +2,7 @@
  "key": "plectrophenax-nivalis",
  "name": "Plectrophenax nivalis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:14.970Z",
+ "fetchedAt": "2026-11-13T11:28:12.965Z",
  "names": {
   "da": "Snespurv",
   "en": "Snow Bunting",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117059,
-  "observations": 19471
+  "observations": 20099
  },
  "photos": {
   "male": [
@@ -88,6 +88,16 @@
   ],
   "juvenile": [
    {
+    "id": 605992664,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605992664/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605992664/large.jpg",
+    "attribution": "(c) Andrea Battisti, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/289374700",
+    "place": "Sveitarfélagið Hornafjörður, Islanda",
+    "date": "2025-06-13"
+   },
+   {
     "id": 257426249,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257426249/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257426249/large.jpeg",
@@ -98,105 +108,96 @@
     "date": "2016-07-31"
    },
    {
-    "id": 549076991,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549076991/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549076991/large.jpg",
-    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
+    "id": 23314518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23314518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23314518/large.jpeg",
+    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/304571898",
-    "place": "Qaanaaq, Avannaata, GL",
-    "date": "2025-08-07"
-   },
-   {
-    "id": 534251494,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534251494/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534251494/large.jpg",
-    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/296688636",
-    "place": "Ny-Ålesund 9173, Svalbard and Jan Mayen",
-    "date": "2025-07-09"
+    "source": "https://www.inaturalist.org/observations/15592720",
+    "place": "Eastern Region, Iceland",
+    "date": "2018-08-13"
    }
   ],
   "hero": {
-   "id": 67423123,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67423123/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67423123/large.jpg",
-   "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+   "id": 101706492,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101706492/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101706492/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/42462782",
-   "place": "Longyearbyen, Svalbard and Jan Mayen",
-   "date": "2017-07-26"
+   "source": "https://www.inaturalist.org/photos/101706492",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2491719,
-  "dkTotal": 45302,
+  "dkTotal": 45730,
   "dkMonths": [
-   8214,
-   6215,
-   6039,
-   756,
+   8224,
+   6235,
+   6061,
+   758,
    54,
    25,
    7,
    5,
-   654,
-   6115,
-   11237,
-   5951
+   658,
+   6316,
+   11386,
+   5971
   ],
-  "worldTotal": 936245,
+  "worldTotal": 888959,
   "topCountries": [
    {
     "code": "US",
-    "count": 292885
+    "count": 261596
    },
    {
     "code": "CA",
-    "count": 278901
+    "count": 257058
    },
    {
     "code": "SE",
-    "count": 133847
+    "count": 134604
    },
    {
     "code": "DK",
-    "count": 45302
+    "count": 45730
    },
    {
     "code": "NO",
-    "count": 44690
+    "count": 45124
    },
    {
     "code": "NL",
-    "count": 38728
+    "count": 39426
    },
    {
     "code": "GB",
-    "count": 21969
+    "count": 23879
    },
    {
     "code": "IS",
-    "count": 17379
+    "count": 16678
    },
    {
     "code": "FI",
-    "count": 12682
+    "count": 14056
    },
    {
     "code": "SJ",
-    "count": 11543
+    "count": 11627
    },
    {
     "code": "RU",
-    "count": 7103
+    "count": 6970
    },
    {
     "code": "FR",
-    "count": 5509
+    "count": 5617
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

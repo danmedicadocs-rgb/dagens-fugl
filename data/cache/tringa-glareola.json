@@ -2,7 +2,7 @@
  "key": "tringa-glareola",
  "name": "Tringa glareola",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:07:42.728Z",
+ "fetchedAt": "2026-11-13T11:13:27.375Z",
  "names": {
   "da": "Tinksmed",
   "en": "Wood Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3888,
-  "observations": 43174
+  "observations": 43705
  },
  "photos": {
   "male": [],
@@ -46,14 +46,14 @@
     "date": "2025-08-20"
    },
    {
-    "id": 556518052,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556518052/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556518052/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/308473707",
-    "place": "Grimsargh, Preston PR2, UK",
-    "date": "2025-08-23"
+    "id": 757682950,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/757682950/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/757682950/large.jpg",
+    "attribution": "(c) liam0066, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/411843245",
+    "place": "Gloucestershire, UK",
+    "date": "2026-10-10"
    }
   ],
   "adult": [
@@ -68,14 +68,14 @@
     "date": "2025-04-02"
    },
    {
-    "id": 654409976,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654409976/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654409976/large.jpg",
-    "attribution": "(c) Philip Schaffer, some rights reserved (CC BY)",
+    "id": 264238998,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264238998/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264238998/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/358723475",
-    "place": "Rovinj, Kroatien",
-    "date": "2026-05-03"
+    "source": "https://www.inaturalist.org/observations/153022158",
+    "place": "Saatpool Jetty, Devicha Pada, Dombivli, Maharashtra 421301, India",
+    "date": "2023-04-01"
    },
    {
     "id": 426346198,
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 482462782,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482462782/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482462782/large.jpeg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "id": 2691405,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2691405/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2691405/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/268410374",
-   "place": "Burgas Municipality, Bulgaria",
-   "date": "2025-04-02"
+   "source": "https://www.inaturalist.org/photos/2691405",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481713,
-  "dkTotal": 102695,
+  "dkTotal": 102926,
   "dkMonths": [
    3,
    1,
    2,
-   7400,
-   25451,
-   9831,
-   29674,
-   29259,
-   834,
+   7429,
+   25516,
+   9837,
+   29740,
+   29304,
+   854,
    78,
    4,
    1
   ],
-  "worldTotal": 1611107,
+  "worldTotal": 1573955,
   "topCountries": [
    {
     "code": "SE",
-    "count": 474846
+    "count": 476700
    },
    {
     "code": "IN",
-    "count": 195114
+    "count": 156407
    },
    {
     "code": "DK",
-    "count": 102695
+    "count": 102926
    },
    {
     "code": "TW",
-    "count": 98845
-   },
-   {
-    "code": "NO",
-    "count": 76474
+    "count": 85852
    },
    {
     "code": "FI",
-    "count": 72640
+    "count": 82447
+   },
+   {
+    "code": "NO",
+    "count": 76986
    },
    {
     "code": "ZA",
-    "count": 59516
+    "count": 58303
    },
    {
     "code": "FR",
-    "count": 45699
+    "count": 46633
    },
    {
     "code": "ES",
-    "count": 41894
+    "count": 40794
    },
    {
     "code": "NL",
-    "count": 30714
+    "count": 32698
    },
    {
-    "code": "IL",
-    "count": 23724
+    "code": "DE",
+    "count": 24696
    },
    {
-    "code": "AU",
-    "count": 23555
+    "code": "PL",
+    "count": 23521
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

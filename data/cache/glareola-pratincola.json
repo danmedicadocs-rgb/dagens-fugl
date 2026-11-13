@@ -2,7 +2,7 @@
  "key": "glareola-pratincola",
  "name": "Glareola pratincola",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:29.566Z",
+ "fetchedAt": "2026-11-13T11:30:17.078Z",
  "names": {
   "da": "Rødvinget Braksvale",
   "en": "Collared Pratincole",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4604,
-  "observations": 3944
+  "observations": 3992
  },
  "photos": {
   "male": [],
@@ -101,14 +101,14 @@
  },
  "gbif": {
   "key": 2480757,
-  "dkTotal": 553,
+  "dkTotal": 552,
   "dkMonths": [
    0,
    0,
    0,
    0,
    179,
-   330,
+   329,
    6,
    33,
    4,
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 98711,
+  "worldTotal": 94764,
   "topCountries": [
    {
     "code": "ES",
-    "count": 30930
+    "count": 30008
    },
    {
     "code": "ZA",
-    "count": 6100
-   },
-   {
-    "code": "IL",
-    "count": 6025
+    "count": 6019
    },
    {
     "code": "FR",
-    "count": 5784
+    "count": 5844
+   },
+   {
+    "code": "IL",
+    "count": 5633
    },
    {
     "code": "PT",
-    "count": 4025
+    "count": 3568
    },
    {
     "code": "BW",
-    "count": 3202
-   },
-   {
-    "code": "IN",
-    "count": 3154
+    "count": 2884
    },
    {
     "code": "GR",
-    "count": 2776
+    "count": 2784
+   },
+   {
+    "code": "IN",
+    "count": 2604
    },
    {
     "code": "TR",
-    "count": 2746
+    "count": 2569
    },
    {
     "code": "AE",
-    "count": 2558
+    "count": 2481
    },
    {
     "code": "KE",
-    "count": 2379
+    "count": 2303
    },
    {
     "code": "TZ",
-    "count": 2097
+    "count": 1870
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

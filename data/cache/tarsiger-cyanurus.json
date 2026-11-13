@@ -2,7 +2,7 @@
  "key": "tarsiger-cyanurus",
  "name": "Tarsiger cyanurus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:24.833Z",
+ "fetchedAt": "2026-11-13T11:24:54.946Z",
  "names": {
   "da": "Blåstjert",
   "en": "Red-flanked Bluetail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 210941,
-  "observations": 6343
+  "observations": 6441
  },
  "photos": {
   "male": [
@@ -109,19 +109,19 @@
    }
   ],
   "hero": {
-   "id": 29487020,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29487020/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29487020/large.jpg",
-   "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+   "id": 123564558,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123564558/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123564558/large.jpeg",
+   "attribution": "(c) Анна Васильченко, some rights reserved (CC BY), uploaded by Анна Васильченко",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/19198163",
-   "place": "Березовский р-н, Красноярский край, Россия",
-   "date": "2017-08-02"
+   "source": "https://www.inaturalist.org/photos/123564558",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492509,
-  "dkTotal": 426,
+  "dkTotal": 425,
   "dkMonths": [
    0,
    0,
@@ -131,62 +131,63 @@
    2,
    0,
    0,
-   35,
+   34,
    316,
    7,
    0
   ],
-  "worldTotal": 70136,
+  "worldTotal": 75381,
   "topCountries": [
    {
     "code": "CN",
-    "count": 16173
-   },
-   {
-    "code": "TW",
-    "count": 10331
+    "count": 22100
    },
    {
     "code": "JP",
-    "count": 8233
+    "count": 9329
    },
    {
-    "code": "SE",
-    "count": 5254
+    "code": "TW",
+    "count": 8345
    },
    {
     "code": "FI",
-    "count": 4767
+    "count": 5344
    },
    {
-    "code": "US",
-    "count": 4135
-   },
-   {
-    "code": "NL",
-    "count": 4127
+    "code": "SE",
+    "count": 5284
    },
    {
     "code": "KR",
-    "count": 3516
+    "count": 4298
+   },
+   {
+    "code": "NL",
+    "count": 4161
    },
    {
     "code": "HK",
-    "count": 3279
+    "count": 3270
+   },
+   {
+    "code": "US",
+    "count": 3250
    },
    {
     "code": "RU",
-    "count": 2936
+    "count": 2836
    },
    {
     "code": "GB",
-    "count": 1436
+    "count": 1472
    },
    {
     "code": "MN",
-    "count": 966
+    "count": 894
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

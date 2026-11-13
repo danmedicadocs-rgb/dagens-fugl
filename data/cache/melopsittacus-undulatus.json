@@ -2,7 +2,7 @@
  "key": "melopsittacus-undulatus",
  "name": "Melopsittacus undulatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:51.276Z",
+ "fetchedAt": "2026-11-13T11:39:30.441Z",
  "names": {
   "da": "Undulat",
   "en": "Budgerigar",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19339,
-  "observations": 12146
+  "observations": 12351
  },
  "photos": {
   "male": [
@@ -119,25 +119,25 @@
    }
   ],
   "hero": {
-   "id": 620019613,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620019613/large.jpg",
-   "attribution": "(c) Lawrence Hylton, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/340687411",
-   "place": "Petermann-Simpson, AU-NT, AU",
-   "date": "2026-02-27"
+   "id": 159057697,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159057697/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159057697/large.jpg",
+   "attribution": "(c) http://www.comebirdwatching.blogspot.com/, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/159057697",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2479798,
-  "dkTotal": 402,
+  "dkTotal": 403,
   "dkMonths": [
    9,
    11,
    14,
    21,
-   21,
+   22,
    41,
    73,
    83,
@@ -146,57 +146,58 @@
    9,
    4
   ],
-  "worldTotal": 117163,
+  "worldTotal": 115048,
   "topCountries": [
    {
     "code": "AU",
-    "count": 103769
+    "count": 101874
    },
    {
     "code": "US",
-    "count": 5527
+    "count": 5285
    },
    {
     "code": "BE",
-    "count": 775
+    "count": 790
    },
    {
     "code": "TW",
-    "count": 525
+    "count": 498
    },
    {
     "code": "CA",
-    "count": 469
+    "count": 470
    },
    {
     "code": "FR",
-    "count": 414
+    "count": 417
    },
    {
     "code": "DK",
-    "count": 402
+    "count": 403
    },
    {
     "code": "NL",
-    "count": 371
+    "count": 381
    },
    {
     "code": "ES",
-    "count": 352
+    "count": 350
    },
    {
     "code": "DE",
-    "count": 320
+    "count": 334
    },
    {
     "code": "MX",
-    "count": 310
+    "count": 281
    },
    {
     "code": "PT",
-    "count": 278
+    "count": 281
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "sylvia-atricapilla",
  "name": "Sylvia atricapilla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:27.227Z",
+ "fetchedAt": "2026-11-13T11:22:16.252Z",
  "names": {
   "da": "Munk",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 15282,
-  "observations": 74202
+  "observations": 74686
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2026-04-25"
    },
    {
-    "id": 697001928,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697001928/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697001928/large.jpg",
-    "attribution": "(c) Chaym Turak, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/380951151",
-    "place": "באר שבע, ישראל",
-    "date": "2026-05-01"
-   },
-   {
     "id": 54619872,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54619872/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54619872/large.jpeg",
@@ -84,19 +74,19 @@
     "source": "https://www.inaturalist.org/observations/34686141",
     "place": "Nottinghamshire, UK",
     "date": "2019-07-05"
+   },
+   {
+    "id": 697001928,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697001928/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697001928/large.jpg",
+    "attribution": "(c) Chaym Turak, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/380951151",
+    "place": "באר שבע, ישראל",
+    "date": "2026-05-01"
    }
   ],
   "juvenile": [
-   {
-    "id": 417282721,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417282721/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417282721/large.jpeg",
-    "attribution": "(c) E. A., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/234700095",
-    "place": "Seckau, 8732, Österreich ",
-    "date": "2024-08-09"
-   },
    {
     "id": 248716548,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248716548/medium.jpg",
@@ -116,87 +106,98 @@
     "source": "https://www.inaturalist.org/observations/237306450",
     "place": "León, España",
     "date": "2024-08-10"
+   },
+   {
+    "id": 417282721,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417282721/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417282721/large.jpeg",
+    "attribution": "(c) E. A., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/234700095",
+    "place": "Seckau, 8732, Österreich ",
+    "date": "2024-08-09"
    }
   ],
   "hero": {
-   "id": 485370186,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485370186/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485370186/large.jpg",
-   "attribution": "(c) E. A., some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/269814752",
-   "place": "Siedlungsweg Hart, Seckau, Steiermark, AT",
-   "date": "2025-04-11"
+   "id": 168292216,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168292216/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168292216/large.jpg",
+   "attribution": "(c) Juan Emilio, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/168292216",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492956,
-  "dkTotal": 292191,
+  "dkTotal": 293717,
   "dkMonths": [
-   1318,
-   1411,
-   1598,
-   52440,
-   99446,
-   59813,
-   37373,
-   12273,
-   13391,
-   10355,
-   1851,
-   853
+   1322,
+   1415,
+   1597,
+   52747,
+   99902,
+   60132,
+   37530,
+   12261,
+   13443,
+   10569,
+   1875,
+   855
   ],
-  "worldTotal": 6500124,
+  "worldTotal": 6737087,
   "topCountries": [
    {
     "code": "ES",
-    "count": 1272617
+    "count": 1294733
    },
    {
     "code": "FR",
-    "count": 1233589
+    "count": 1256150
    },
    {
     "code": "SE",
-    "count": 744185
+    "count": 749093
    },
    {
     "code": "NL",
-    "count": 657051
+    "count": 666695
    },
    {
     "code": "GB",
-    "count": 487745
+    "count": 557221
    },
    {
     "code": "DE",
-    "count": 294877
+    "count": 317676
    },
    {
     "code": "DK",
-    "count": 292191
+    "count": 293717
    },
    {
     "code": "PT",
-    "count": 272898
+    "count": 271862
    },
    {
     "code": "NO",
-    "count": 231850
+    "count": 235522
    },
    {
     "code": "BE",
-    "count": 212859
-   },
-   {
-    "code": "LU",
-    "count": 102805
+    "count": 218973
    },
    {
     "code": "PL",
-    "count": 94889
+    "count": 110651
+   },
+   {
+    "code": "LU",
+    "count": 103304
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

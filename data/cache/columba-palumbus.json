@@ -2,7 +2,7 @@
  "key": "columba-palumbus",
  "name": "Columba palumbus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:52.725Z",
+ "fetchedAt": "2026-11-13T11:16:56.271Z",
  "names": {
   "da": "Ringdue",
   "en": "Common Wood Pigeon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3048,
-  "observations": 190641
+  "observations": 191995
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2026-03-08"
    },
    {
-    "id": 626614768,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626614768/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626614768/large.jpg",
-    "attribution": "(c) mycoroco, some rights reserved (CC BY)",
+    "id": 140181831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140181831/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140181831/large.jpeg",
+    "attribution": "(c) Ricci Masero, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/343939677",
-    "place": "Trg Marka Marulića, Zagreb, Zagreb, HR",
-    "date": "2026-03-20"
+    "source": "https://www.inaturalist.org/observations/85220192",
+    "place": "Hove, UK",
+    "date": "2021-07-01"
    }
   ],
   "female": [
@@ -88,6 +88,16 @@
   ],
   "juvenile": [
    {
+    "id": 596554625,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596554625/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596554625/large.jpg",
+    "attribution": "(c) J. Brucker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329135120",
+    "place": "Cambridgeshire",
+    "date": "2025-07-19"
+   },
+   {
     "id": 531422173,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531422173/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531422173/large.jpg",
@@ -106,16 +116,6 @@
     "source": "https://www.inaturalist.org/observations/345474174",
     "place": "Cheshire, England, GB",
     "date": "2026-03-27"
-   },
-   {
-    "id": 237392862,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237392862/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237392862/large.jpeg",
-    "attribution": "(c) toby, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/138859922",
-    "place": "England, GB",
-    "date": "2022-10-15"
    }
   ],
   "hero": {
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2495455,
-  "dkTotal": 714672,
+  "dkTotal": 723292,
   "dkMonths": [
-   60125,
-   55616,
-   92479,
-   97619,
-   79447,
-   56372,
-   49709,
-   51968,
-   47873,
-   52261,
-   34456,
-   36681
+   60391,
+   55921,
+   92879,
+   98215,
+   80098,
+   56936,
+   50242,
+   52337,
+   48416,
+   55683,
+   35109,
+   36999
   ],
-  "worldTotal": 9550686,
+  "worldTotal": 10145695,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1867353
+    "count": 2131149
    },
    {
     "code": "FR",
-    "count": 1425243
+    "count": 1462208
    },
    {
     "code": "SE",
-    "count": 1143005
+    "count": 1154762
    },
    {
     "code": "NL",
-    "count": 964971
+    "count": 995852
    },
    {
     "code": "ES",
-    "count": 788072
-   },
-   {
-    "code": "DK",
-    "count": 714672
+    "count": 832627
    },
    {
     "code": "DE",
-    "count": 685847
+    "count": 734209
+   },
+   {
+    "code": "DK",
+    "count": 723292
    },
    {
     "code": "NO",
-    "count": 448478
+    "count": 456106
    },
    {
     "code": "BE",
-    "count": 426437
+    "count": 439688
    },
    {
     "code": "PT",
-    "count": 230472
+    "count": 232245
    },
    {
     "code": "FI",
-    "count": 120989
+    "count": 143742
    },
    {
     "code": "IT",
-    "count": 102315
+    "count": 123941
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

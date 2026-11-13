@@ -2,7 +2,7 @@
  "key": "curruca-communis",
  "name": "Curruca communis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:42.302Z",
+ "fetchedAt": "2026-11-13T11:22:29.382Z",
  "names": {
   "da": "Tornsanger",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1289470,
-  "observations": 40550
+  "observations": 40672
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 193151533,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151533/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151533/large.jpg",
-   "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+   "id": 20013536,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20013536/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20013536/large.jpg",
+   "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/114383403",
-   "place": "95130 Le Plessis-Bouchard, France",
-   "date": "2022-05-01"
+   "source": "https://www.inaturalist.org/photos/20013536",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492943,
-  "dkTotal": 235042,
+  "dkTotal": 235778,
   "dkMonths": [
    0,
    0,
    4,
-   4311,
-   97242,
-   67862,
-   36093,
-   22189,
-   7179,
-   78,
+   4360,
+   97597,
+   68150,
+   36200,
+   22105,
+   7198,
+   80,
    9,
    8
   ],
-  "worldTotal": 2390000,
+  "worldTotal": 2464477,
   "topCountries": [
    {
     "code": "SE",
-    "count": 460148
+    "count": 462166
    },
    {
     "code": "NL",
-    "count": 354798
-   },
-   {
-    "code": "FR",
-    "count": 284020
+    "count": 359542
    },
    {
     "code": "GB",
-    "count": 281917
+    "count": 317116
+   },
+   {
+    "code": "FR",
+    "count": 286819
    },
    {
     "code": "DK",
-    "count": 235042
+    "count": 235778
    },
    {
     "code": "BE",
-    "count": 115016
+    "count": 119498
    },
    {
     "code": "FI",
-    "count": 106654
+    "count": 116308
    },
    {
     "code": "NO",
-    "count": 103665
+    "count": 104599
    },
    {
     "code": "ES",
-    "count": 97319
+    "count": 96515
    },
    {
     "code": "DE",
-    "count": 79262
+    "count": 84513
    },
    {
     "code": "RU",
-    "count": 34735
+    "count": 35035
    },
    {
     "code": "PL",
-    "count": 27294
+    "count": 33286
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

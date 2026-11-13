@@ -2,7 +2,7 @@
  "key": "calonectris-diomedea",
  "name": "Calonectris diomedea",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:28:34.248Z",
+ "fetchedAt": "2026-11-13T11:31:14.466Z",
  "names": {
   "da": "Skopolis Skråpe",
   "en": "Scopoli's Shearwater",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 509656,
-  "observations": 2044
+  "observations": 2065
  },
  "photos": {
   "male": [],
@@ -37,14 +37,14 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 11230630,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11230630/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11230630/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/8432775",
-   "place": "Via Mannarazza, 92010 Lampedusa e Linosa AG, Italia",
-   "date": "2017-10-16"
+   "id": 121566757,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121566757/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121566757/large.jpeg",
+   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY), uploaded by Jan Ebr &amp; Ivana Ebrová",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/121566757",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -64,57 +64,58 @@
    0,
    0
   ],
-  "worldTotal": 308252,
+  "worldTotal": 311858,
   "topCountries": [
    {
     "code": "PT",
-    "count": 158748
+    "count": 159197
    },
    {
     "code": "ES",
-    "count": 72722
+    "count": 75146
    },
    {
     "code": "US",
-    "count": 42266
+    "count": 39422
    },
    {
     "code": "FR",
-    "count": 10665
+    "count": 10938
    },
    {
     "code": "IT",
-    "count": 3742
+    "count": 4613
    },
    {
     "code": "GR",
-    "count": 3531
+    "count": 3966
    },
    {
     "code": "MA",
-    "count": 2116
+    "count": 2173
    },
    {
     "code": "GB",
-    "count": 1658
+    "count": 2122
    },
    {
     "code": "BR",
-    "count": 1565
-   },
-   {
-    "code": "IL",
-    "count": 1217
+    "count": 1530
    },
    {
     "code": "CA",
-    "count": 1164
+    "count": 1501
    },
    {
-    "code": "HR",
-    "count": 953
+    "code": "ZA",
+    "count": 1350
+   },
+   {
+    "code": "IL",
+    "count": 1096
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

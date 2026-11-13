@@ -2,7 +2,7 @@
  "key": "porzana-porzana",
  "name": "Porzana porzana",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:40.738Z",
+ "fetchedAt": "2026-11-13T11:10:07.362Z",
  "names": {
   "da": "Plettet rørvagtel",
   "en": "Spotted Crake",
@@ -19,23 +19,13 @@
  },
  "inat": {
   "id": 178,
-  "observations": 2025
+  "observations": 2046
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [],
   "adult": [
-   {
-    "id": 740111106,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/large.jpg",
-    "attribution": "(c) Tim Aßmus, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/403120381",
-    "place": null,
-    "date": "2026-09-19"
-   },
    {
     "id": 591075689,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/medium.jpg",
@@ -45,6 +35,16 @@
     "source": "https://www.inaturalist.org/observations/326368739",
     "place": "KwaDukuza, South Africa",
     "date": "2016-03-27"
+   },
+   {
+    "id": 740111106,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/large.jpg",
+    "attribution": "(c) Tim Aßmus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/403120381",
+    "place": null,
+    "date": "2026-09-19"
    },
    {
     "id": 185899382,
@@ -58,84 +58,85 @@
    }
   ],
   "hero": {
-   "id": 740111106,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/large.jpg",
-   "attribution": "(c) Tim Aßmus, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/403120381",
-   "place": null,
-   "date": "2026-09-19"
+   "id": 591075689,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/large.jpg",
+   "attribution": "no rights reserved",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/observations/326368739",
+   "place": "KwaDukuza, South Africa",
+   "date": "2016-03-27"
   }
  },
  "gbif": {
   "key": 2474621,
-  "dkTotal": 5848,
+  "dkTotal": 5909,
   "dkMonths": [
    8,
    1,
    5,
-   954,
-   1532,
-   1882,
-   868,
-   198,
+   967,
+   1547,
+   1905,
+   877,
+   199,
    129,
    120,
    3,
    0
   ],
-  "worldTotal": 118001,
+  "worldTotal": 119680,
   "topCountries": [
    {
     "code": "SE",
-    "count": 45024
+    "count": 45071
    },
    {
     "code": "NL",
-    "count": 19343
+    "count": 19584
    },
    {
     "code": "FR",
-    "count": 6711
+    "count": 6782
    },
    {
     "code": "DK",
-    "count": 5848
+    "count": 5909
    },
    {
     "code": "NO",
-    "count": 4998
-   },
-   {
-    "code": "ES",
-    "count": 4772
+    "count": 5016
    },
    {
     "code": "BE",
-    "count": 4398
+    "count": 4459
    },
    {
-    "code": "GB",
-    "count": 2521
-   },
-   {
-    "code": "DE",
-    "count": 2340
-   },
-   {
-    "code": "EE",
-    "count": 2240
-   },
-   {
-    "code": "IL",
-    "count": 2239
+    "code": "ES",
+    "count": 4170
    },
    {
     "code": "FI",
-    "count": 2032
+    "count": 3447
+   },
+   {
+    "code": "GB",
+    "count": 2749
+   },
+   {
+    "code": "DE",
+    "count": 2425
+   },
+   {
+    "code": "EE",
+    "count": 2291
+   },
+   {
+    "code": "IL",
+    "count": 1992
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

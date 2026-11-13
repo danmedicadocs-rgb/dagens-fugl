@@ -2,7 +2,7 @@
  "key": "aptenodytes-patagonicus",
  "name": "Aptenodytes patagonicus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:18.990Z",
+ "fetchedAt": "2026-11-13T11:40:50.748Z",
  "names": {
   "da": "Kongepingvin",
   "en": "King Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3821,
-  "observations": 3076
+  "observations": 3174
  },
  "photos": {
   "male": [],
@@ -36,6 +36,16 @@
     "date": "2018-01-29"
    },
    {
+    "id": 619046526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/619046526/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/619046526/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/340201365",
+    "place": "Booth Island, Antarctica",
+    "date": "2026-02-25"
+   },
+   {
     "id": 278688711,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278688711/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278688711/large.jpg",
@@ -44,16 +54,6 @@
     "source": "https://www.inaturalist.org/observations/161240884",
     "place": "Unnamed Road,Johnson's Harbour, FIQQ 1ZZ, Islas Malvinas (Falkland Islands)",
     "date": "2016-03-10"
-   },
-   {
-    "id": 429404987,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/429404987/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/429404987/large.jpeg",
-    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/240975367",
-    "place": "Grande Terre, French Southern Territories, TF",
-    "date": "2024-09-01"
    }
   ],
   "adult": [
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 466892159,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/large.jpg",
-   "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+   "id": 102542,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102542/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102542/large.jpg",
+   "attribution": "(c) Brian Gratwicke, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/260030407",
-   "place": "South Georgia and the South Sandwich Islands",
-   "date": "2024-12-14"
+   "source": "https://www.inaturalist.org/photos/102542",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,51 +116,51 @@
    0,
    0
   ],
-  "worldTotal": 203934,
+  "worldTotal": 201812,
   "topCountries": [
    {
     "code": "HM",
-    "count": 26720
-   },
-   {
-    "code": "GS",
-    "count": 10034
+    "count": 26725
    },
    {
     "code": "AQ",
-    "count": 8654
+    "count": 8664
+   },
+   {
+    "code": "GS",
+    "count": 8481
    },
    {
     "code": "AU",
-    "count": 6178
+    "count": 5943
    },
    {
     "code": "ZA",
-    "count": 4382
+    "count": 4344
    },
    {
     "code": "TF",
-    "count": 4270
+    "count": 4277
    },
    {
     "code": "FK",
-    "count": 3654
+    "count": 3521
    },
    {
     "code": "AR",
-    "count": 2121
+    "count": 1984
    },
    {
     "code": "CL",
-    "count": 1859
+    "count": 1616
    },
    {
     "code": "ZZ",
-    "count": 148
+    "count": 339
    },
    {
     "code": "NZ",
-    "count": 61
+    "count": 65
    },
    {
     "code": "GB",
@@ -168,5 +168,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "perisoreus-infaustus",
  "name": "Perisoreus infaustus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:28:24.224Z",
+ "fetchedAt": "2026-11-13T11:31:05.897Z",
  "names": {
   "da": "Lavskrige",
   "en": "Siberian Jay",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8334,
-  "observations": 1515
+  "observations": 1543
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 86026265,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/large.jpg",
-   "attribution": "(c) Lars Falkdalen Lindahl, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/54076740",
-   "place": "Åsele SO, Sweden",
-   "date": "2019-10-20"
+   "id": 1629113,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1629113/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1629113/large.jpg",
+   "attribution": "(c) Ron Knight, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/1629113",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,35 +85,35 @@
    0,
    0
   ],
-  "worldTotal": 130677,
+  "worldTotal": 134457,
   "topCountries": [
    {
     "code": "SE",
-    "count": 61800
+    "count": 62138
    },
    {
     "code": "FI",
-    "count": 50173
+    "count": 53332
    },
    {
     "code": "NO",
-    "count": 16773
+    "count": 16979
    },
    {
     "code": "RU",
-    "count": 1540
-   },
-   {
-    "code": "MN",
-    "count": 106
+    "count": 1595
    },
    {
     "code": "CN",
-    "count": 97
+    "count": 95
+   },
+   {
+    "code": "MN",
+    "count": 93
    },
    {
     "code": "EE",
-    "count": 26
+    "count": 51
    },
    {
     "code": "MX",
@@ -132,10 +132,11 @@
     "count": 3
    },
    {
-    "code": "AX",
-    "count": 1
+    "code": "KZ",
+    "count": 3
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

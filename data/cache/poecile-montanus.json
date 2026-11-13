@@ -2,7 +2,7 @@
  "key": "poecile-montanus",
  "name": "Poecile montanus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:33.695Z",
+ "fetchedAt": "2026-11-13T11:20:39.904Z",
  "names": {
   "da": "Fyrremejse",
   "en": "Willow Tit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144812,
-  "observations": 35218
+  "observations": 35785
  },
  "photos": {
   "male": [
@@ -48,84 +48,85 @@
    }
   ],
   "hero": {
-   "id": 262086168,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086168/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262086168/large.jpg",
-   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "id": 106487485,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106487485/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106487485/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY), uploaded by Andrew Bazdyrev",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/151861370",
-   "place": "Томск, Томская обл., Россия",
-   "date": "2023-03-17"
+   "source": "https://www.inaturalist.org/photos/106487485",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2487866,
-  "dkTotal": 8760,
+  "dkTotal": 8857,
   "dkMonths": [
-   651,
-   773,
-   1251,
-   1678,
-   715,
-   316,
-   356,
-   505,
-   565,
-   1193,
-   451,
-   304
+   656,
+   772,
+   1253,
+   1684,
+   718,
+   319,
+   364,
+   508,
+   569,
+   1244,
+   460,
+   308
   ],
-  "worldTotal": 1327957,
+  "worldTotal": 1369709,
   "topCountries": [
    {
     "code": "FI",
-    "count": 392184
+    "count": 412228
    },
    {
     "code": "SE",
-    "count": 374640
+    "count": 377071
    },
    {
     "code": "NO",
-    "count": 241614
+    "count": 245193
    },
    {
     "code": "DE",
-    "count": 55346
+    "count": 56401
    },
    {
     "code": "RU",
-    "count": 52313
+    "count": 53987
    },
    {
     "code": "GB",
-    "count": 43398
+    "count": 46114
    },
    {
     "code": "FR",
-    "count": 39724
+    "count": 40206
    },
    {
     "code": "BE",
-    "count": 32625
+    "count": 34329
    },
    {
     "code": "PL",
-    "count": 14986
+    "count": 17436
    },
    {
     "code": "NL",
-    "count": 13307
+    "count": 13378
    },
    {
     "code": "EE",
-    "count": 9756
+    "count": 10088
    },
    {
     "code": "DK",
-    "count": 8760
+    "count": 8857
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

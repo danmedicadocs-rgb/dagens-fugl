@@ -2,7 +2,7 @@
  "key": "thryothorus-ludovicianus",
  "name": "Thryothorus ludovicianus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:46:51.296Z",
+ "fetchedAt": "2026-11-13T11:46:46.708Z",
  "names": {
   "da": "Carolinasmutte",
   "en": "Carolina Wren",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7513,
-  "observations": 109495
+  "observations": 110447
  },
  "photos": {
   "male": [
@@ -146,35 +146,35 @@
    0,
    0
   ],
-  "worldTotal": 12924496,
+  "worldTotal": 12905729,
   "topCountries": [
    {
     "code": "US",
-    "count": 12688954
+    "count": 12686129
    },
    {
     "code": "CA",
-    "count": 210789
+    "count": 201395
    },
    {
     "code": "MX",
-    "count": 17981
+    "count": 13834
    },
    {
     "code": "GT",
-    "count": 3234
+    "count": 1954
    },
    {
     "code": "BZ",
-    "count": 3015
+    "count": 1942
    },
    {
     "code": "HN",
-    "count": 138
+    "count": 89
    },
    {
     "code": "NI",
-    "count": 52
+    "count": 50
    },
    {
     "code": "ZZ",
@@ -190,5 +190,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

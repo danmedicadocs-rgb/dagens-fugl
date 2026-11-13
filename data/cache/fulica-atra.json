@@ -2,7 +2,7 @@
  "key": "fulica-atra",
  "name": "Fulica atra",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:54.810Z",
+ "fetchedAt": "2026-11-13T11:10:21.030Z",
  "names": {
   "da": "Blishøne",
   "en": "Common Coot",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 482,
-  "observations": 188890
+  "observations": 191243
  },
  "photos": {
   "male": [
+   {
+    "id": 598984557,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598984557/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598984557/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330335567",
+    "place": "Cádiz, España",
+    "date": "2025-12-04"
+   },
    {
     "id": 179957570,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/medium.jpeg",
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/18008804",
     "place": "Nottinghamshire, Nottingham, UK",
     "date": "2018-10-27"
-   },
-   {
-    "id": 279036406,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279036406/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279036406/large.jpeg",
-    "attribution": "(c) Andrey Polstianoi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/161435520",
-    "place": "Алексеевка, Харьков, Харьковская область, Украина, 61000",
-    "date": "2023-05-13"
    }
   ],
   "female": [
@@ -66,14 +66,14 @@
     "date": "2023-09-16"
    },
    {
-    "id": 135252982,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135252982/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135252982/large.jpg",
-    "attribution": "(c) ognevit, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/82409867",
-    "place": "Советский район, Минск, Беларусь",
-    "date": "2021-06-06"
+    "id": 196602732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196602732/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196602732/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/116468420",
+    "place": "(Büroanschrift) Eginostr. 15, 78479 Reichenau, Allemagne",
+    "date": "2022-05-08"
    },
    {
     "id": 481229702,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 179957570,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179957570/large.jpeg",
-   "attribution": "(c) AnimalObserverDeniz321, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/107045228",
-   "place": "Kuruçeşme, Motor Yolcu Durağı, 34345 Beşiktaş/İstanbul, Turkey",
-   "date": "2022-02-19"
+   "id": 50152632,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50152632/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50152632/large.jpg",
+   "attribution": "(c) Roger Culos, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/50152632",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2474377,
-  "dkTotal": 449881,
+  "dkTotal": 453145,
   "dkMonths": [
-   40754,
-   39298,
-   58620,
-   62495,
-   55886,
-   41217,
-   33542,
-   31285,
-   24228,
-   21834,
-   19487,
-   21144
+   40890,
+   39432,
+   58870,
+   62811,
+   56219,
+   41488,
+   33757,
+   31449,
+   24370,
+   22804,
+   19706,
+   21258
   ],
-  "worldTotal": 6010147,
+  "worldTotal": 6221567,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1110539
-   },
-   {
-    "code": "AU",
-    "count": 723585
+    "count": 1140474
    },
    {
     "code": "GB",
-    "count": 693864
+    "count": 790432
+   },
+   {
+    "code": "AU",
+    "count": 745887
    },
    {
     "code": "SE",
-    "count": 600623
+    "count": 604319
    },
    {
     "code": "DK",
-    "count": 449881
+    "count": 453145
    },
    {
     "code": "FR",
-    "count": 441129
+    "count": 453030
    },
    {
     "code": "ES",
-    "count": 326766
+    "count": 323764
    },
    {
     "code": "BE",
-    "count": 295170
+    "count": 300771
    },
    {
     "code": "DE",
-    "count": 259359
+    "count": 275448
    },
    {
     "code": "IN",
-    "count": 200568
+    "count": 168561
    },
    {
     "code": "NO",
-    "count": 91935
+    "count": 93073
    },
    {
-    "code": "PT",
-    "count": 64187
+    "code": "IT",
+    "count": 74281
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

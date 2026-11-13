@@ -2,7 +2,7 @@
  "key": "sarcoramphus-papa",
  "name": "Sarcoramphus papa",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:54.766Z",
+ "fetchedAt": "2026-11-13T11:50:45.563Z",
  "names": {
   "da": "Kongegrib",
   "en": "King Vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4763,
-  "observations": 4755
+  "observations": 4839
  },
  "photos": {
   "male": [
@@ -88,14 +88,14 @@
    }
   ],
   "hero": {
-   "id": 32209877,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/large.png",
-   "attribution": "(c) Karen (with occasional help from Mike), some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/20875984",
-   "place": "San José Province, Dota, Costa Rica",
-   "date": "2019-02-19"
+   "id": 291989003,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291989003/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291989003/large.jpg",
+   "attribution": "no rights reserved, uploaded by Paulo Mascaretti",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/291989003",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 114041,
+  "worldTotal": 85349,
   "topCountries": [
    {
     "code": "CR",
-    "count": 32735
+    "count": 25634
    },
    {
     "code": "BZ",
-    "count": 18742
-   },
-   {
-    "code": "CO",
-    "count": 11068
+    "count": 12654
    },
    {
     "code": "BR",
-    "count": 11004
+    "count": 9193
    },
    {
-    "code": "PA",
-    "count": 8591
+    "code": "CO",
+    "count": 7867
    },
    {
     "code": "PE",
-    "count": 7126
+    "count": 5928
+   },
+   {
+    "code": "PA",
+    "count": 5707
    },
    {
     "code": "EC",
-    "count": 4441
-   },
-   {
-    "code": "GT",
-    "count": 3996
+    "count": 3663
    },
    {
     "code": "MX",
-    "count": 3681
+    "count": 2740
+   },
+   {
+    "code": "GT",
+    "count": 2481
    },
    {
     "code": "AR",
-    "count": 2875
+    "count": 2070
    },
    {
     "code": "VE",
-    "count": 2347
+    "count": 1875
    },
    {
-    "code": "GY",
-    "count": 1734
+    "code": "BO",
+    "count": 1191
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "momotus-momota",
  "name": "Momotus momota",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:57.256Z",
+ "fetchedAt": "2026-11-13T11:50:03.545Z",
  "names": {
   "da": "Rubinmotmot",
   "en": "Blue-crowned Motmot",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204447,
-  "observations": 1429
+  "observations": 1458
  },
  "photos": {
   "male": [],
@@ -58,25 +58,25 @@
     "date": "2023-03-02"
    },
    {
-    "id": 579049550,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579049550/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579049550/large.jpg",
-    "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/320280510",
-    "place": "Jardin Botanico de Santa Cruz",
-    "date": "2025-09-26"
+    "id": 200746055,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/200746055/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/200746055/large.jpeg",
+    "attribution": "(c) Renato Moraes, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/118792411",
+    "place": "Taboca, São Félix do Xingu - PA, 68380-000, Brasil",
+    "date": "2022-05-23"
    }
   ],
   "hero": {
-   "id": 358895811,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/large.jpeg",
-   "attribution": "(c) Edwin Rivera Millán, some rights reserved (CC BY)",
+   "id": 586648885,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586648885/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586648885/large.jpg",
+   "attribution": "(c) Donald Davesne, some rights reserved (CC BY), uploaded by Donald Davesne",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/203157050",
-   "place": "Vereda Valle de Mesetas Sector 1, Villavicencio, Meta, Colombia",
-   "date": "2024-03-19"
+   "source": "https://www.inaturalist.org/photos/586648885",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -96,57 +96,58 @@
    0,
    0
   ],
-  "worldTotal": 62154,
+  "worldTotal": 52027,
   "topCountries": [
    {
     "code": "BR",
-    "count": 19884
+    "count": 18128
    },
    {
     "code": "CO",
-    "count": 19056
+    "count": 14214
    },
    {
     "code": "PE",
-    "count": 11139
+    "count": 9538
    },
    {
     "code": "EC",
-    "count": 4516
+    "count": 3535
    },
    {
     "code": "BO",
-    "count": 2813
+    "count": 2596
    },
    {
     "code": "AR",
-    "count": 918
+    "count": 672
    },
    {
     "code": "VE",
-    "count": 798
+    "count": 653
    },
    {
     "code": "GY",
-    "count": 757
-   },
-   {
-    "code": "SR",
-    "count": 523
+    "count": 562
    },
    {
     "code": "GF",
-    "count": 502
+    "count": 501
+   },
+   {
+    "code": "SR",
+    "count": 459
    },
    {
     "code": "MX",
-    "count": 425
+    "count": 430
    },
    {
     "code": "PY",
-    "count": 300
+    "count": 210
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

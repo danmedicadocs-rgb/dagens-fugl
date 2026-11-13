@@ -2,7 +2,7 @@
  "key": "creagrus-furcatus",
  "name": "Creagrus furcatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:54:15.181Z",
+ "fetchedAt": "2026-11-13T11:52:33.421Z",
  "names": {
   "da": "Svalehalemåge",
   "en": "Swallow-tailed Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4564,
-  "observations": 2893
+  "observations": 2922
  },
  "photos": {
   "male": [],
@@ -78,14 +78,14 @@
     "date": "2019-05-21"
    },
    {
-    "id": 287739988,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287739988/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287739988/large.jpeg",
-    "attribution": "(c) Tyler Vogel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/166175515",
-    "place": "Bellavista, Ecuador",
-    "date": "2023-06-07"
+    "id": 525112238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525112238/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525112238/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/291838284",
+    "place": "Pacific Ocean, Baltra, Galapagos, EC",
+    "date": "2025-06-06"
    }
   ],
   "hero": {
@@ -116,51 +116,51 @@
    0,
    0
   ],
-  "worldTotal": 18682,
+  "worldTotal": 15613,
   "topCountries": [
    {
     "code": "EC",
-    "count": 16368
-   },
-   {
-    "code": "PE",
-    "count": 971
+    "count": 14073
    },
    {
     "code": "US",
-    "count": 771
+    "count": 650
+   },
+   {
+    "code": "PE",
+    "count": 536
    },
    {
     "code": "CL",
-    "count": 355
-   },
-   {
-    "code": "CR",
-    "count": 77
+    "count": 168
    },
    {
     "code": "CO",
-    "count": 67
+    "count": 68
+   },
+   {
+    "code": "CR",
+    "count": 51
    },
    {
     "code": "ZZ",
-    "count": 19
-   },
-   {
-    "code": "MX",
-    "count": 11
+    "count": 20
    },
    {
     "code": "PA",
-    "count": 9
+    "count": 14
    },
    {
-    "code": "GT",
-    "count": 5
+    "code": "MX",
+    "count": 3
    },
    {
     "code": "AR",
     "count": 2
+   },
+   {
+    "code": "GT",
+    "count": 1
    },
    {
     "code": "NG",
@@ -168,5 +168,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

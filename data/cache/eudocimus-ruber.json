@@ -2,7 +2,7 @@
  "key": "eudocimus-ruber",
  "name": "Eudocimus ruber",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:24.574Z",
+ "fetchedAt": "2026-11-13T11:49:33.338Z",
  "names": {
   "da": "Rød Ibis",
   "en": "Scarlet Ibis",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3750,
-  "observations": 4442
+  "observations": 4556
  },
  "photos": {
   "male": [],
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 618676596,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618676596/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618676596/large.jpg",
-   "attribution": "(c) Davi Eduardo, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/340023433",
-   "place": "Sítio do Campo, Praia Grande - SP, Brasil",
-   "date": "2026-02-23"
+   "id": 236792213,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236792213/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236792213/large.jpg",
+   "attribution": "(c) Dick Daniels, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/236792213",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    1,
    0
   ],
-  "worldTotal": 40185,
+  "worldTotal": 33429,
   "topCountries": [
    {
     "code": "CO",
-    "count": 15582
-   },
-   {
-    "code": "VE",
-    "count": 6288
+    "count": 11472
    },
    {
     "code": "BR",
-    "count": 5090
+    "count": 5224
+   },
+   {
+    "code": "VE",
+    "count": 4676
    },
    {
     "code": "TT",
-    "count": 4304
-   },
-   {
-    "code": "GY",
-    "count": 2054
+    "count": 3565
    },
    {
     "code": "SR",
-    "count": 1687
+    "count": 1685
+   },
+   {
+    "code": "GY",
+    "count": 1667
    },
    {
     "code": "BE",
-    "count": 1415
+    "count": 1431
    },
    {
     "code": "GF",
-    "count": 1115
+    "count": 1228
    },
    {
     "code": "NL",
-    "count": 787
+    "count": 784
    },
    {
     "code": "PR",
-    "count": 268
+    "count": 192
    },
    {
     "code": "CW",
-    "count": 198
+    "count": 157
    },
    {
-    "code": "EC",
-    "count": 193
+    "code": "US",
+    "count": 138
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

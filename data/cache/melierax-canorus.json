@@ -2,7 +2,7 @@
  "key": "melierax-canorus",
  "name": "Melierax canorus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:58.400Z",
+ "fetchedAt": "2026-11-13T11:35:08.400Z",
  "names": {
   "da": "Lys sanghøg",
   "en": "Pale Chanting Goshawk",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 5338,
-  "observations": 4280
+  "observations": 4374
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 685595523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/685595523/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/685595523/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/375067735",
+    "place": "Oshikoto Region, Namibia",
+    "date": "1997-03-01"
+   },
    {
     "id": 241459317,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241459317/medium.jpeg",
@@ -44,29 +54,9 @@
     "source": "https://www.inaturalist.org/observations/253197410",
     "place": "Sarah Baartman District Municipality, South Africa",
     "date": "2024-11-25"
-   },
-   {
-    "id": 746419774,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746419774/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746419774/large.jpg",
-    "attribution": "(c) linkie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/406314656",
-    "place": "ZF Mgcawu District Municipality, South Africa",
-    "date": "2026-08-11"
    }
   ],
   "adult": [
-   {
-    "id": 407215169,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/229412885",
-    "place": "Chris Hani District Municipality, South Africa",
-    "date": "2024-07-14"
-   },
    {
     "id": 617147173,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617147173/medium.jpg",
@@ -76,6 +66,16 @@
     "source": "https://www.inaturalist.org/observations/339270774",
     "place": "Khomas Region, Namibia",
     "date": "2026-02-18"
+   },
+   {
+    "id": 407215169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/large.jpeg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/229412885",
+    "place": "Chris Hani District Municipality, South Africa",
+    "date": "2024-07-14"
    },
    {
     "id": 15763336,
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 407215169,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/large.jpeg",
-   "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/229412885",
-   "place": "Chris Hani District Municipality, South Africa",
-   "date": "2024-07-14"
+   "id": 8646,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8646/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8646/large.jpg",
+   "attribution": "(c) Alastair Rae, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/8646",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,19 +116,19 @@
    0,
    0
   ],
-  "worldTotal": 82592,
+  "worldTotal": 81534,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 61202
+    "count": 61037
    },
    {
     "code": "NA",
-    "count": 17908
+    "count": 17014
    },
    {
     "code": "BW",
-    "count": 2524
+    "count": 2498
    },
    {
     "code": "KE",
@@ -136,19 +136,19 @@
    },
    {
     "code": "ZW",
-    "count": 50
-   },
-   {
-    "code": "LS",
-    "count": 19
+    "count": 54
    },
    {
     "code": "AO",
-    "count": 15
+    "count": 46
    },
    {
     "code": "SO",
     "count": 12
+   },
+   {
+    "code": "LS",
+    "count": 11
    },
    {
     "code": "TZ",
@@ -168,5 +168,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

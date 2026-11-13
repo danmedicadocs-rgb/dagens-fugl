@@ -2,7 +2,7 @@
  "key": "recurvirostra-avosetta",
  "name": "Recurvirostra avosetta",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:12.410Z",
+ "fetchedAt": "2026-11-13T11:10:34.806Z",
  "names": {
   "da": "Klyde",
   "en": "Pied Avocet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4883,
-  "observations": 27526
+  "observations": 27857
  },
  "photos": {
   "male": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 196541036,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196541036/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196541036/large.jpeg",
-   "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/116433730",
-   "place": "Bogdanovichskiy rayon, RU-SV, RU",
-   "date": "2022-05-09"
+   "id": 125174204,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125174204/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125174204/large.jpg",
+   "attribution": "(c) Zinogre, some rights reserved (CC BY-SA), uploaded by Zinogre",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/125174204",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480259,
-  "dkTotal": 130345,
+  "dkTotal": 130747,
   "dkMonths": [
-   105,
+   103,
    261,
-   11546,
-   26908,
-   31156,
-   21286,
-   19597,
-   11653,
-   4299,
-   2368,
-   755,
-   78
+   11575,
+   26948,
+   31228,
+   21350,
+   19666,
+   11655,
+   4305,
+   2476,
+   767,
+   79
   ],
-  "worldTotal": 1278008,
+  "worldTotal": 1285661,
   "topCountries": [
    {
     "code": "NL",
-    "count": 361126
+    "count": 366886
    },
    {
     "code": "SE",
-    "count": 174867
-   },
-   {
-    "code": "DK",
-    "count": 130345
+    "count": 175471
    },
    {
     "code": "GB",
-    "count": 125756
+    "count": 142934
+   },
+   {
+    "code": "DK",
+    "count": 130747
    },
    {
     "code": "FR",
-    "count": 94472
+    "count": 96708
    },
    {
     "code": "ES",
-    "count": 85862
+    "count": 82718
    },
    {
     "code": "TW",
-    "count": 56014
+    "count": 43989
    },
    {
     "code": "ZA",
-    "count": 43478
+    "count": 42865
    },
    {
     "code": "BE",
-    "count": 38676
+    "count": 39271
    },
    {
     "code": "PT",
-    "count": 29468
+    "count": 27582
    },
    {
     "code": "IN",
-    "count": 19900
+    "count": 16270
    },
    {
     "code": "CN",
-    "count": 10928
+    "count": 12896
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

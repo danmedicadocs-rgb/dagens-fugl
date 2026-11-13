@@ -2,7 +2,7 @@
  "key": "larus-fuscus",
  "name": "Larus fuscus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:29.752Z",
+ "fetchedAt": "2026-11-13T11:14:52.464Z",
  "names": {
   "da": "Sildemåge",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4381,
-  "observations": 68565
+  "observations": 69391
  },
  "photos": {
   "male": [
@@ -88,95 +88,96 @@
     "date": "2026-05-13"
    },
    {
-    "id": 571200690,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571200690/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571200690/large.jpg",
-    "attribution": "(c) jamie-aa, some rights reserved (CC BY)",
+    "id": 318191831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318191831/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318191831/large.jpeg",
+    "attribution": "(c) Jorge Íñiguez, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/316167041",
-    "place": "Erith, UK",
-    "date": "2025-09-23"
+    "source": "https://www.inaturalist.org/observations/182490784",
+    "place": "8800 Tavira, Portugal",
+    "date": "2022-11-03"
    }
   ],
   "hero": {
-   "id": 379479760,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/large.jpeg",
-   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+   "id": 97967534,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97967534/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97967534/large.jpg",
+   "attribution": "(c) Cody Delano, some rights reserved (CC BY), uploaded by Cody Delano",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/214670277",
-   "place": "Far Sawrey, Ambleside LA22 0LR, UK",
-   "date": "2024-05-08"
+   "source": "https://www.inaturalist.org/photos/97967534",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481174,
-  "dkTotal": 119147,
+  "dkTotal": 119565,
   "dkMonths": [
-   279,
+   278,
    643,
-   8737,
-   23576,
-   19838,
-   12868,
-   21506,
-   14554,
-   10821,
-   5691,
-   246,
+   8748,
+   23577,
+   19876,
+   12932,
+   21582,
+   14615,
+   10862,
+   5814,
+   250,
    243
   ],
-  "worldTotal": 8793283,
+  "worldTotal": 8919463,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1463279
+    "count": 1475129
    },
    {
     "code": "GB",
-    "count": 1223734
-   },
-   {
-    "code": "FR",
-    "count": 1144902
+    "count": 1322856
    },
    {
     "code": "BE",
-    "count": 1106708
+    "count": 1176907
+   },
+   {
+    "code": "FR",
+    "count": 1154730
    },
    {
     "code": "ES",
-    "count": 957794
+    "count": 956183
    },
    {
     "code": "MA",
-    "count": 415752
+    "count": 416401
    },
    {
     "code": "PT",
-    "count": 407262
+    "count": 402228
    },
    {
     "code": "US",
-    "count": 397495
+    "count": 340077
    },
    {
     "code": "SE",
-    "count": 297620
+    "count": 297319
    },
    {
     "code": "NO",
-    "count": 242162
-   },
-   {
-    "code": "EH",
-    "count": 216310
+    "count": 244988
    },
    {
     "code": "FI",
-    "count": 208895
+    "count": 217176
+   },
+   {
+    "code": "EH",
+    "count": 216329
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

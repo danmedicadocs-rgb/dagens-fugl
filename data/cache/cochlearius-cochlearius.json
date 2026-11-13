@@ -2,7 +2,7 @@
  "key": "cochlearius-cochlearius",
  "name": "Cochlearius cochlearius",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:43.672Z",
+ "fetchedAt": "2026-11-13T11:49:01.729Z",
  "names": {
   "da": "Bådnæbshejre",
   "en": "Boat-billed Heron",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5036,
-  "observations": 5598
+  "observations": 5683
  },
  "photos": {
   "male": [
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 78676,
+  "worldTotal": 61506,
   "topCountries": [
    {
     "code": "CR",
-    "count": 31502
+    "count": 25843
    },
    {
     "code": "MX",
-    "count": 11226
+    "count": 8875
    },
    {
     "code": "BZ",
-    "count": 8115
+    "count": 5712
    },
    {
     "code": "BR",
-    "count": 6406
+    "count": 4962
    },
    {
     "code": "PA",
-    "count": 5948
-   },
-   {
-    "code": "CO",
-    "count": 2806
+    "count": 4140
    },
    {
     "code": "EC",
-    "count": 2655
+    "count": 2238
+   },
+   {
+    "code": "CO",
+    "count": 2144
    },
    {
     "code": "GT",
-    "count": 2389
-   },
-   {
-    "code": "HN",
-    "count": 1872
+    "count": 1681
    },
    {
     "code": "PE",
-    "count": 1638
+    "count": 1465
+   },
+   {
+    "code": "HN",
+    "count": 1082
    },
    {
     "code": "NI",
-    "count": 888
+    "count": 691
    },
    {
     "code": "VE",
-    "count": 746
+    "count": 617
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

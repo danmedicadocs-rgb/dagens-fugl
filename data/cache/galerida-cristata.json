@@ -2,7 +2,7 @@
  "key": "galerida-cristata",
  "name": "Galerida cristata",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:46.708Z",
+ "fetchedAt": "2026-11-13T11:20:51.242Z",
  "names": {
   "da": "Toplærke",
   "en": "Crested Lark",
@@ -27,76 +27,86 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 4947,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4947/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4947/large.jpg",
+   "attribution": "(c) hhhalberto, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/4947",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2490669,
-  "dkTotal": 4424,
+  "dkTotal": 4410,
   "dkMonths": [
-   397,
+   396,
    269,
-   284,
-   628,
-   1133,
-   368,
-   601,
-   166,
-   116,
-   136,
+   283,
+   626,
+   1125,
+   367,
+   602,
    165,
-   133
+   116,
+   140,
+   161,
+   132
   ],
-  "worldTotal": 990185,
+  "worldTotal": 982397,
   "topCountries": [
    {
     "code": "ES",
-    "count": 396449
+    "count": 395731
    },
    {
     "code": "PT",
-    "count": 122250
+    "count": 118691
    },
    {
     "code": "IL",
-    "count": 87194
+    "count": 83369
    },
    {
     "code": "FR",
-    "count": 63194
+    "count": 64362
    },
    {
     "code": "TR",
-    "count": 43843
+    "count": 42014
    },
    {
     "code": "GR",
-    "count": 35616
+    "count": 36851
    },
    {
     "code": "AE",
-    "count": 27958
+    "count": 27813
    },
    {
     "code": "IN",
-    "count": 27673
+    "count": 22652
    },
    {
     "code": "IT",
-    "count": 13633
-   },
-   {
-    "code": "BG",
-    "count": 11720
-   },
-   {
-    "code": "MA",
-    "count": 11555
+    "count": 16217
    },
    {
     "code": "CY",
-    "count": 11171
+    "count": 12312
+   },
+   {
+    "code": "BG",
+    "count": 11775
+   },
+   {
+    "code": "MA",
+    "count": 10574
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

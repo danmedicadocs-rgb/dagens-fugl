@@ -2,7 +2,7 @@
  "key": "haliaeetus-albicilla",
  "name": "Haliaeetus albicilla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:26.744Z",
+ "fetchedAt": "2026-11-13T11:08:13.073Z",
  "names": {
   "da": "Havørn",
   "en": "White-tailed Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5309,
-  "observations": 33040
+  "observations": 33622
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2025-01-04"
    },
    {
-    "id": 348853335,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/348853335/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/348853335/large.jpeg",
-    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+    "id": 752785850,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752785850/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752785850/large.jpg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/197988088",
-    "place": "Bayern, DE",
-    "date": "2023-10-14"
+    "source": "https://www.inaturalist.org/observations/409420946",
+    "place": "Lithuania",
+    "date": "2026-10-19"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 460678011,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460678011/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460678011/large.jpeg",
-   "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+   "id": 57394041,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57394041/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57394041/large.jpg",
+   "attribution": "(c) Алина Урусова, some rights reserved (CC BY), uploaded by Алина Урусова",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/256881290",
-   "place": "Bayern, DE",
-   "date": "2024-12-31"
+   "source": "https://www.inaturalist.org/photos/57394041",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480449,
-  "dkTotal": 379566,
+  "dkTotal": 382845,
   "dkMonths": [
-   34734,
-   35782,
-   44227,
-   44542,
-   35436,
-   19822,
-   21833,
-   31205,
-   34893,
-   32837,
-   22575,
-   21236
+   34785,
+   35840,
+   44303,
+   44635,
+   35545,
+   19886,
+   21901,
+   31271,
+   34993,
+   34998,
+   22960,
+   21283
   ],
-  "worldTotal": 2166952,
+  "worldTotal": 2207708,
   "topCountries": [
    {
     "code": "SE",
-    "count": 989791
+    "count": 996169
    },
    {
     "code": "DK",
-    "count": 379566
+    "count": 382845
    },
    {
     "code": "NO",
-    "count": 198968
+    "count": 201692
    },
    {
     "code": "NL",
-    "count": 160931
+    "count": 168568
    },
    {
     "code": "FI",
-    "count": 89660
+    "count": 96971
    },
    {
     "code": "RU",
-    "count": 55722
+    "count": 55873
    },
    {
     "code": "DE",
-    "count": 45652
+    "count": 49398
    },
    {
     "code": "EE",
-    "count": 44414
+    "count": 45246
    },
    {
     "code": "PL",
-    "count": 25019
+    "count": 31145
    },
    {
     "code": "GB",
-    "count": 17780
+    "count": 19035
    },
    {
     "code": "LV",
-    "count": 16479
+    "count": 16801
    },
    {
     "code": "CZ",
-    "count": 12734
+    "count": 13020
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

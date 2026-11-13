@@ -2,7 +2,7 @@
  "key": "larus-canus",
  "name": "Larus canus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:24.528Z",
+ "fetchedAt": "2026-11-13T11:14:47.881Z",
  "names": {
   "da": "Stormmåge",
   "en": "Common Gull",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 4356,
-  "observations": 47943
+  "observations": 48553
  },
  "photos": {
   "male": [
-   {
-    "id": 729672082,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/large.jpg",
-    "attribution": "(c) Vladimir Mishonov, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/397812924",
-    "place": "Pieršamajski rajon, Viciebsk, Viciebskaja voblasć, Belarus",
-    "date": "2026-09-06"
-   },
    {
     "id": 278960559,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278960559/medium.jpeg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/161390834",
     "place": "г. Карпинск, Свердловская обл., Россия",
     "date": "2023-05-13"
+   },
+   {
+    "id": 729672082,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/large.jpg",
+    "attribution": "(c) Vladimir Mishonov, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/397812924",
+    "place": "Pieršamajski rajon, Viciebsk, Viciebskaja voblasć, Belarus",
+    "date": "2026-09-06"
    },
    {
     "id": 523512549,
@@ -88,95 +88,96 @@
     "date": "2024-01-11"
    },
    {
-    "id": 673778379,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673778379/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673778379/large.jpg",
-    "attribution": "(c) Ксения Витвицкая, some rights reserved (CC BY)",
+    "id": 700365436,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700365436/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700365436/large.jpg",
+    "attribution": "(c) L. Westerlund, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/368879499",
-    "place": "Зеленоградский административный округ, Москва, Россия",
-    "date": "2026-05-31"
+    "source": "https://www.inaturalist.org/observations/382696510",
+    "place": "Solhöjdsgatan, Malmö, Skåne County, SE",
+    "date": "2026-07-18"
    }
   ],
   "hero": {
-   "id": 729672082,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729672082/large.jpg",
-   "attribution": "(c) Vladimir Mishonov, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/397812924",
-   "place": "Pieršamajski rajon, Viciebsk, Viciebskaja voblasć, Belarus",
-   "date": "2026-09-06"
+   "id": 11219296,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11219296/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11219296/large.jpg",
+   "attribution": "(c) Bengt Nyman, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/11219296",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 7982160,
-  "dkTotal": 444380,
+  "dkTotal": 447854,
   "dkMonths": [
-   53097,
-   43878,
-   52434,
-   42314,
-   32066,
-   39152,
-   30761,
-   28984,
-   27447,
-   30804,
-   27071,
-   33235
+   53165,
+   43970,
+   52541,
+   42497,
+   32209,
+   39383,
+   30984,
+   29055,
+   27627,
+   32471,
+   27421,
+   33394
   ],
-  "worldTotal": 3412765,
+  "worldTotal": 3545387,
   "topCountries": [
    {
     "code": "SE",
-    "count": 964735
+    "count": 975160
    },
    {
     "code": "NO",
-    "count": 625982
+    "count": 635624
    },
    {
     "code": "DK",
-    "count": 444380
+    "count": 447854
    },
    {
     "code": "GB",
-    "count": 387953
+    "count": 442615
    },
    {
     "code": "FI",
-    "count": 260809
+    "count": 288094
    },
    {
     "code": "NL",
-    "count": 205024
+    "count": 210616
    },
    {
     "code": "BE",
-    "count": 105934
+    "count": 107351
    },
    {
     "code": "DE",
-    "count": 90849
+    "count": 95546
    },
    {
     "code": "RU",
-    "count": 58725
+    "count": 59859
    },
    {
     "code": "EE",
-    "count": 44671
+    "count": 45686
    },
    {
     "code": "FR",
-    "count": 43908
+    "count": 45591
    },
    {
     "code": "PL",
-    "count": 26577
+    "count": 33606
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "steatornis-caripensis",
  "name": "Steatornis caripensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:57.849Z",
+ "fetchedAt": "2026-11-13T11:49:13.849Z",
  "names": {
   "da": "Fedtfugl",
   "en": "Oilbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19727,
-  "observations": 662
+  "observations": 671
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 230280566,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/large.jpg",
-   "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
+   "id": 104822451,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104822451/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104822451/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/135045414",
-   "place": "Sonsón, Antioquia, Colombia",
-   "date": "2022-05-19"
+   "source": "https://www.inaturalist.org/photos/104822451",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 12211,
+  "worldTotal": 10585,
   "topCountries": [
    {
     "code": "CO",
-    "count": 5611
+    "count": 5394
    },
    {
     "code": "EC",
-    "count": 2066
+    "count": 1526
    },
    {
     "code": "TT",
-    "count": 1803
+    "count": 1482
    },
    {
     "code": "PE",
-    "count": 1418
+    "count": 1061
    },
    {
     "code": "VE",
-    "count": 517
+    "count": 447
    },
    {
     "code": "CR",
-    "count": 351
+    "count": 282
    },
    {
     "code": "PA",
-    "count": 158
+    "count": 121
    },
    {
     "code": "BO",
-    "count": 134
+    "count": 119
    },
    {
     "code": "GY",
-    "count": 40
+    "count": 33
    },
    {
-    "code": "BQ",
-    "count": 13
+    "code": "BR",
+    "count": 10
    },
    {
     "code": "GF",
-    "count": 8
+    "count": 9
    },
    {
-    "code": "ZZ",
-    "count": 7
+    "code": "BQ",
+    "count": 8
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

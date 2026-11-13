@@ -2,7 +2,7 @@
  "key": "columba-livia",
  "name": "Columba livia",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:42.396Z",
+ "fetchedAt": "2026-11-13T11:16:46.907Z",
  "names": {
   "da": "Klippedue",
   "en": "Rock Dove",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3017,
-  "observations": 468022
+  "observations": 474540
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2495414,
-  "dkTotal": 46926,
+  "dkTotal": 47969,
   "dkMonths": [
-   5848,
-   3472,
-   4071,
-   4297,
-   4839,
-   3793,
-   4132,
-   4418,
-   3946,
-   3074,
-   2407,
-   2589
+   5889,
+   3518,
+   4137,
+   4394,
+   4888,
+   3852,
+   4252,
+   4468,
+   4011,
+   3379,
+   2490,
+   2651
   ],
-  "worldTotal": 15630316,
+  "worldTotal": 15316032,
   "topCountries": [
    {
     "code": "US",
-    "count": 7033254
+    "count": 6630827
    },
    {
     "code": "CA",
-    "count": 1676569
+    "count": 1599374
    },
    {
     "code": "IN",
-    "count": 1105330
+    "count": 1036237
    },
    {
     "code": "GB",
-    "count": 591788
+    "count": 677010
    },
    {
     "code": "ES",
-    "count": 534321
+    "count": 555447
    },
    {
     "code": "AU",
-    "count": 463846
+    "count": 489745
    },
    {
     "code": "SE",
-    "count": 350779
+    "count": 355174
    },
    {
     "code": "PT",
-    "count": 256977
+    "count": 255533
    },
    {
     "code": "FR",
-    "count": 238960
+    "count": 253026
    },
    {
     "code": "DE",
-    "count": 171198
+    "count": 186657
    },
    {
-    "code": "MX",
-    "count": 162310
+    "code": "AR",
+    "count": 151067
    },
    {
-    "code": "TW",
-    "count": 162080
+    "code": "BR",
+    "count": 149185
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "pternistis-swainsonii",
  "name": "Pternistis swainsonii",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:42.192Z",
+ "fetchedAt": "2026-11-13T11:34:52.685Z",
  "names": {
   "da": "Gråbrun Sporehøne",
   "en": null,
@@ -14,7 +14,7 @@
  "wiki": null,
  "inat": {
   "id": 495984,
-  "observations": 2358
+  "observations": 2405
  },
  "photos": {
   "male": [
@@ -90,31 +90,31 @@
    0,
    0
   ],
-  "worldTotal": 172828,
+  "worldTotal": 174003,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 149950
+    "count": 150051
    },
    {
     "code": "ZW",
-    "count": 8018
+    "count": 8784
    },
    {
     "code": "BW",
-    "count": 6472
+    "count": 6742
    },
    {
     "code": "ZM",
-    "count": 4419
+    "count": 4673
    },
    {
     "code": "NA",
-    "count": 3120
+    "count": 2906
    },
    {
     "code": "SZ",
-    "count": 499
+    "count": 497
    },
    {
     "code": "LS",
@@ -122,15 +122,15 @@
    },
    {
     "code": "MZ",
-    "count": 94
+    "count": 99
    },
    {
     "code": "MW",
-    "count": 20
+    "count": 21
    },
    {
     "code": "AO",
-    "count": 10
+    "count": 3
    },
    {
     "code": "KE",
@@ -142,5 +142,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

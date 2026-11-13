@@ -2,7 +2,7 @@
  "key": "mareca-penelope",
  "name": "Mareca penelope",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:56.924Z",
+ "fetchedAt": "2026-11-13T11:03:40.357Z",
  "names": {
   "da": "Pibeand",
   "en": "Eurasian Wigeon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 558441,
-  "observations": 50288
+  "observations": 51444
  },
  "photos": {
   "male": [
@@ -66,24 +66,24 @@
     "date": "2020-08-01"
    },
    {
-    "id": 671002114,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671002114/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671002114/large.jpg",
-    "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/367430117",
-    "place": "г. Петрозаводск, Респ. Карелия, Россия",
-    "date": "2026-05-11"
+    "id": 610151305,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610151305/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610151305/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335823406",
+    "place": "Chikhli, Gujarat, India",
+    "date": "2026-01-13"
    },
    {
-    "id": 111922780,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111922780/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111922780/large.jpeg",
-    "attribution": "(c) Heng Chian Li, some rights reserved (CC BY)",
+    "id": 244373954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244373954/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244373954/large.png",
+    "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69031357",
-    "place": "台灣台南市",
-    "date": "2021-02-02"
+    "source": "https://www.inaturalist.org/observations/142533490",
+    "place": "Pui O",
+    "date": "2022-11-21"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 611204029,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611204029/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611204029/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/336352575",
-   "place": "Topsham EX3, UK",
-   "date": "2026-01-27"
+   "id": 111780119,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111780119/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111780119/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/111780119",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 8000602,
-  "dkTotal": 371281,
+  "dkTotal": 375043,
   "dkMonths": [
-   36991,
-   33257,
-   52868,
-   44055,
-   12521,
-   8012,
-   6730,
-   14087,
-   47850,
-   55644,
-   33624,
-   25553
+   37088,
+   33368,
+   52999,
+   44112,
+   12538,
+   8024,
+   6755,
+   14110,
+   47971,
+   58235,
+   34099,
+   25655
   ],
-  "worldTotal": 2939941,
+  "worldTotal": 2990159,
   "topCountries": [
    {
     "code": "SE",
-    "count": 664094
-   },
-   {
-    "code": "NL",
-    "count": 384424
-   },
-   {
-    "code": "DK",
-    "count": 371281
+    "count": 669134
    },
    {
     "code": "GB",
-    "count": 354988
+    "count": 402053
+   },
+   {
+    "code": "NL",
+    "count": 393536
+   },
+   {
+    "code": "DK",
+    "count": 375043
    },
    {
     "code": "NO",
-    "count": 224137
+    "count": 227380
    },
    {
     "code": "US",
-    "count": 154127
+    "count": 130772
    },
    {
     "code": "BE",
-    "count": 99085
+    "count": 100089
    },
    {
     "code": "FR",
-    "count": 83653
+    "count": 85388
    },
    {
     "code": "JP",
-    "count": 66819
-   },
-   {
-    "code": "TW",
-    "count": 59210
+    "count": 73733
    },
    {
     "code": "DE",
-    "count": 56765
+    "count": 60185
    },
    {
     "code": "CA",
-    "count": 52563
+    "count": 48966
+   },
+   {
+    "code": "TW",
+    "count": 47931
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

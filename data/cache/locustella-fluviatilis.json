@@ -2,7 +2,7 @@
  "key": "locustella-fluviatilis",
  "name": "Locustella fluviatilis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:57.480Z",
+ "fetchedAt": "2026-11-13T11:22:42.979Z",
  "names": {
   "da": "Flodsanger",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116938,
-  "observations": 1956
+  "observations": 1960
  },
  "photos": {
   "male": [
@@ -37,26 +37,26 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 13487643,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/large.jpeg",
-   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "id": 1431037,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1431037/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1431037/large.jpg",
+   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/9846923",
-   "place": "Nord, Münster, Deutschland",
-   "date": "2010-05-20"
+   "source": "https://www.inaturalist.org/photos/1431037",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493549,
-  "dkTotal": 2387,
+  "dkTotal": 2383,
   "dkMonths": [
    1,
    0,
    0,
    0,
-   658,
-   1538,
+   656,
+   1536,
    161,
    8,
    6,
@@ -64,57 +64,58 @@
    0,
    0
   ],
-  "worldTotal": 78035,
+  "worldTotal": 80071,
   "topCountries": [
    {
     "code": "SE",
-    "count": 40881
+    "count": 40864
    },
    {
     "code": "NL",
-    "count": 5623
+    "count": 5643
    },
    {
     "code": "RU",
-    "count": 5576
-   },
-   {
-    "code": "EE",
-    "count": 3890
+    "count": 5503
    },
    {
     "code": "PL",
-    "count": 3690
+    "count": 4294
    },
    {
-    "code": "DK",
-    "count": 2387
+    "code": "EE",
+    "count": 4010
    },
    {
     "code": "FI",
-    "count": 2353
+    "count": 3516
    },
    {
-    "code": "NO",
-    "count": 2169
+    "code": "DK",
+    "count": 2383
    },
    {
     "code": "DE",
-    "count": 2130
+    "count": 2238
+   },
+   {
+    "code": "NO",
+    "count": 2192
    },
    {
     "code": "CZ",
-    "count": 1606
+    "count": 1610
    },
    {
     "code": "UA",
-    "count": 928
+    "count": 952
    },
    {
     "code": "AT",
-    "count": 754
+    "count": 796
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

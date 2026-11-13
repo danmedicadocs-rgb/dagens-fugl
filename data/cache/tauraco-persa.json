@@ -2,7 +2,7 @@
  "key": "tauraco-persa",
  "name": "Tauraco persa",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:26.235Z",
+ "fetchedAt": "2026-11-13T11:34:37.786Z",
  "names": {
   "da": "Grøntoppet Turako",
   "en": "Guinea Turaco",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7200,
-  "observations": 334
+  "observations": 340
  },
  "photos": {
   "male": [],
@@ -59,14 +59,14 @@
    }
   ],
   "hero": {
-   "id": 620248644,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620248644/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620248644/large.jpg",
-   "attribution": "(c) Antoine Thivolle, some rights reserved (CC BY)",
+   "id": 137041541,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137041541/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137041541/large.jpg",
+   "attribution": "(c) TANAKA Juuyoh (田中十洋), some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/340809439",
-   "place": "Twifo Hemang Lower Denkyira, Ghana",
-   "date": "2025-02-12"
+   "source": "https://www.inaturalist.org/photos/137041541",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -86,57 +86,58 @@
    0,
    0
   ],
-  "worldTotal": 7769,
+  "worldTotal": 7781,
   "topCountries": [
    {
     "code": "GH",
-    "count": 1993
+    "count": 1717
    },
    {
     "code": "NG",
-    "count": 1668
+    "count": 1693
    },
    {
     "code": "GM",
-    "count": 1536
+    "count": 1528
    },
    {
     "code": "CM",
-    "count": 373
+    "count": 363
    },
    {
     "code": "GN",
-    "count": 244
-   },
-   {
-    "code": "GW",
-    "count": 243
-   },
-   {
-    "code": "LR",
-    "count": 209
-   },
-   {
-    "code": "SN",
-    "count": 209
-   },
-   {
-    "code": "GA",
-    "count": 208
+    "count": 325
    },
    {
     "code": "CI",
-    "count": 174
+    "count": 291
    },
    {
     "code": "CG",
-    "count": 158
+    "count": 217
+   },
+   {
+    "code": "GA",
+    "count": 210
+   },
+   {
+    "code": "LR",
+    "count": 208
+   },
+   {
+    "code": "GW",
+    "count": 202
+   },
+   {
+    "code": "SN",
+    "count": 186
    },
    {
     "code": "AO",
-    "count": 145
+    "count": 137
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

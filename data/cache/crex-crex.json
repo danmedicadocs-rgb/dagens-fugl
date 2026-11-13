@@ -2,7 +2,7 @@
  "key": "crex-crex",
  "name": "Crex crex",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:45.118Z",
+ "fetchedAt": "2026-11-13T11:10:11.583Z",
  "names": {
   "da": "Engsnarre",
   "en": "Corn Crake",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 443,
-  "observations": 4575
+  "observations": 4592
  },
  "photos": {
   "male": [
@@ -90,72 +90,73 @@
  },
  "gbif": {
   "key": 4408498,
-  "dkTotal": 10460,
+  "dkTotal": 10487,
   "dkMonths": [
    4,
    0,
    0,
    7,
-   2158,
-   5682,
-   2293,
+   2162,
+   5702,
+   2296,
    189,
    66,
    22,
    2,
    0
   ],
-  "worldTotal": 286321,
+  "worldTotal": 292127,
   "topCountries": [
    {
     "code": "GB",
-    "count": 93250
+    "count": 93284
    },
    {
     "code": "SE",
-    "count": 89429
+    "count": 89533
    },
    {
     "code": "EE",
-    "count": 16344
-   },
-   {
-    "code": "NO",
-    "count": 11304
-   },
-   {
-    "code": "RU",
-    "count": 10963
-   },
-   {
-    "code": "DK",
-    "count": 10460
-   },
-   {
-    "code": "NL",
-    "count": 8690
+    "count": 16559
    },
    {
     "code": "FI",
-    "count": 7481
+    "count": 11493
    },
    {
-    "code": "FR",
-    "count": 6537
+    "code": "NO",
+    "count": 11369
+   },
+   {
+    "code": "RU",
+    "count": 10994
+   },
+   {
+    "code": "DK",
+    "count": 10487
+   },
+   {
+    "code": "NL",
+    "count": 8734
    },
    {
     "code": "PL",
-    "count": 6194
+    "count": 6681
+   },
+   {
+    "code": "FR",
+    "count": 6598
    },
    {
     "code": "BE",
-    "count": 5360
+    "count": 5379
    },
    {
     "code": "UA",
-    "count": 3711
+    "count": 3743
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

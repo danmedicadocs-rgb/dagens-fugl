@@ -2,7 +2,7 @@
  "key": "ardeola-ralloides",
  "name": "Ardeola ralloides",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:28:45.510Z",
+ "fetchedAt": "2026-11-13T11:31:23.398Z",
  "names": {
   "da": "Tophejre",
   "en": "Squacco Heron",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4994,
-  "observations": 13112
+  "observations": 13305
  },
  "photos": {
   "male": [
@@ -37,14 +37,14 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 90675169,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90675169/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90675169/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/56878792",
-   "place": "El Khroub, Algérie",
-   "date": "2020-08-06"
+   "id": 70670478,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70670478/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70670478/large.jpg",
+   "attribution": "(c) Charles J Sharp\n, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/70670478",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -64,57 +64,58 @@
    255,
    0
   ],
-  "worldTotal": 282930,
+  "worldTotal": 279075,
   "topCountries": [
    {
     "code": "ES",
-    "count": 40293
+    "count": 40576
    },
    {
     "code": "ZA",
-    "count": 36159
+    "count": 35720
    },
    {
     "code": "IL",
-    "count": 30088
+    "count": 28204
    },
    {
     "code": "FR",
-    "count": 19153
+    "count": 19398
    },
    {
     "code": "GR",
-    "count": 10285
+    "count": 10669
    },
    {
     "code": "TR",
-    "count": 9800
+    "count": 9014
    },
    {
     "code": "BW",
-    "count": 8586
+    "count": 8184
    },
    {
     "code": "KE",
-    "count": 8231
-   },
-   {
-    "code": "NL",
-    "count": 6856
+    "count": 7993
    },
    {
     "code": "AE",
-    "count": 6811
+    "count": 6999
+   },
+   {
+    "code": "NL",
+    "count": 6880
+   },
+   {
+    "code": "IT",
+    "count": 6838
    },
    {
     "code": "GM",
-    "count": 6599
-   },
-   {
-    "code": "EG",
-    "count": 6267
+    "count": 6190
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

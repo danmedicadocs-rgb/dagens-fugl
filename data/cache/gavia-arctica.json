@@ -2,7 +2,7 @@
  "key": "gavia-arctica",
  "name": "Gavia arctica",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:26.991Z",
+ "fetchedAt": "2026-11-13T11:05:43.600Z",
  "names": {
   "da": "Sortstrubet lom",
   "en": "Black-throated loon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4623,
-  "observations": 7737
+  "observations": 7933
  },
  "photos": {
   "male": [
@@ -90,72 +90,73 @@
  },
  "gbif": {
   "key": 2481959,
-  "dkTotal": 43385,
+  "dkTotal": 43690,
   "dkMonths": [
    2083,
-   1616,
-   2567,
-   6544,
-   7811,
-   1489,
-   1246,
-   2432,
-   5529,
-   6204,
-   3808,
-   2027
+   1619,
+   2569,
+   6557,
+   7807,
+   1485,
+   1235,
+   2433,
+   5549,
+   6420,
+   3872,
+   2032
   ],
-  "worldTotal": 688046,
+  "worldTotal": 701945,
   "topCountries": [
    {
     "code": "SE",
-    "count": 428797
+    "count": 430398
    },
    {
     "code": "NO",
-    "count": 97963
+    "count": 98750
    },
    {
     "code": "DK",
-    "count": 43385
+    "count": 43690
    },
    {
     "code": "FI",
-    "count": 23708
+    "count": 33463
    },
    {
     "code": "GB",
-    "count": 16160
+    "count": 17191
    },
    {
     "code": "NL",
-    "count": 14326
+    "count": 14461
    },
    {
     "code": "EE",
-    "count": 8849
+    "count": 9199
    },
    {
     "code": "FR",
-    "count": 7677
-   },
-   {
-    "code": "RU",
-    "count": 4984
+    "count": 7771
    },
    {
     "code": "DE",
-    "count": 4644
+    "count": 5124
+   },
+   {
+    "code": "RU",
+    "count": 5005
    },
    {
     "code": "US",
-    "count": 4623
+    "count": 3451
    },
    {
-    "code": "IT",
-    "count": 3171
+    "code": "PL",
+    "count": 3403
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

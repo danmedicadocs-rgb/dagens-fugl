@@ -2,7 +2,7 @@
  "key": "nestor-notabilis",
  "name": "Nestor notabilis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:38:25.143Z",
+ "fetchedAt": "2026-11-13T11:40:03.280Z",
  "names": {
   "da": "Kea",
   "en": "Kea",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18941,
-  "observations": 4577
+  "observations": 4648
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2022-12-09"
    },
    {
+    "id": 755341572,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755341572/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755341572/large.jpg",
+    "attribution": "(c) Archie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/410672650",
+    "place": "Westland, NZ-WC, NZ",
+    "date": "2026-10-23"
+   },
+   {
     "id": 707103195,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707103195/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707103195/large.jpg",
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/386204186",
     "place": "Whataroa 7886, New Zealand",
     "date": "2026-07-25"
-   },
-   {
-    "id": 662539483,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662539483/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662539483/large.jpg",
-    "attribution": "(c) Archie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/362974745",
-    "place": "West Coast Region 7886, New Zealand",
-    "date": "2026-05-17"
    }
   ],
   "female": [
@@ -64,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/362974759",
     "place": "West Coast Region 7886, New Zealand",
     "date": "2026-05-17"
+   },
+   {
+    "id": 113822995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113822995/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113822995/large.jpeg",
+    "attribution": "(c) Chris Ecroyd, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/70020946",
+    "place": "Lake Sumner Forest Park, Hurunui, Canterbury, New Zealand",
+    "date": "2021-02-18"
    }
   ],
   "juvenile": [
@@ -99,14 +109,14 @@
    }
   ],
   "hero": {
-   "id": 247035638,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247035638/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247035638/large.png",
-   "attribution": "(c) Genevieve Early, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/143986057",
-   "place": "Westland District, West Coast, New Zealand",
-   "date": "2022-12-09"
+   "id": 384672622,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384672622/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384672622/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Mark Fraser",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/384672622",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,11 +136,11 @@
    0,
    0
   ],
-  "worldTotal": 15694,
+  "worldTotal": 15609,
   "topCountries": [
    {
     "code": "NZ",
-    "count": 15493
+    "count": 15408
    },
    {
     "code": "ZZ",
@@ -170,5 +180,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

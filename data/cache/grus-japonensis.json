@@ -2,7 +2,7 @@
  "key": "grus-japonensis",
  "name": "Grus japonensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:43.831Z",
+ "fetchedAt": "2026-11-13T11:35:49.631Z",
  "names": {
   "da": "Japansk Trane",
   "en": "Red-crowned Crane",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 39,
-  "observations": 1778
+  "observations": 1806
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 2655507,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/large.jpg",
-   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY)",
+   "id": 267664057,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267664057/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267664057/large.jpg",
+   "attribution": "(c) \nNesnad, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/2382482",
-   "place": "Gangwon-do, KR",
-   "date": "2001-03-07"
+   "source": "https://www.inaturalist.org/photos/267664057",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,27 +85,27 @@
    12,
    20
   ],
-  "worldTotal": 7887,
+  "worldTotal": 8155,
   "topCountries": [
    {
     "code": "JP",
-    "count": 3584
+    "count": 3570
    },
    {
     "code": "KR",
-    "count": 1371
+    "count": 1559
    },
    {
     "code": "CN",
-    "count": 966
+    "count": 1180
    },
    {
     "code": "RU",
-    "count": 741
+    "count": 654
    },
    {
     "code": "TW",
-    "count": 261
+    "count": 228
    },
    {
     "code": "US",
@@ -113,23 +113,23 @@
    },
    {
     "code": "NL",
-    "count": 154
+    "count": 202
    },
    {
     "code": "ES",
-    "count": 135
+    "count": 105
    },
    {
     "code": "DK",
     "count": 87
    },
    {
-    "code": "MN",
-    "count": 44
+    "code": "DE",
+    "count": 36
    },
    {
-    "code": "DE",
-    "count": 35
+    "code": "MN",
+    "count": 24
    },
    {
     "code": "BE",
@@ -137,5 +137,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "pyrrhocorax-pyrrhocorax",
  "name": "Pyrrhocorax pyrrhocorax",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:43.477Z",
+ "fetchedAt": "2026-11-13T11:29:34.820Z",
  "names": {
   "da": "Alpekrage",
   "en": "Red-billed Chough",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8349,
-  "observations": 10898
+  "observations": 11024
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 746211360,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746211360/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746211360/large.jpg",
-   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/406181467",
-   "place": "Great Orme Head, Conwy Principal Area, UK",
-   "date": "2012-09-02"
+   "id": 1629591,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1629591/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1629591/large.jpg",
+   "attribution": "(c) Jean-Jacques Boujot, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/1629591",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 274733,
+  "worldTotal": 274537,
   "topCountries": [
    {
     "code": "ES",
-    "count": 117347
+    "count": 116306
    },
    {
     "code": "FR",
-    "count": 46247
+    "count": 47015
    },
    {
     "code": "GB",
-    "count": 21527
+    "count": 23917
    },
    {
     "code": "IM",
-    "count": 16183
-   },
-   {
-    "code": "IN",
-    "count": 11254
+    "count": 16425
    },
    {
     "code": "IE",
-    "count": 9105
+    "count": 9774
    },
    {
-    "code": "PT",
-    "count": 8711
+    "code": "IN",
+    "count": 9627
    },
    {
     "code": "CN",
-    "count": 8353
+    "count": 8979
+   },
+   {
+    "code": "PT",
+    "count": 7745
    },
    {
     "code": "MN",
-    "count": 6461
+    "count": 5733
    },
    {
     "code": "TR",
-    "count": 4397
-   },
-   {
-    "code": "BT",
-    "count": 4180
+    "count": 3886
    },
    {
     "code": "MA",
-    "count": 3862
+    "count": 3525
+   },
+   {
+    "code": "BT",
+    "count": 3374
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

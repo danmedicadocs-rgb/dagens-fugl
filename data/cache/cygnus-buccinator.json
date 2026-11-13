@@ -2,7 +2,7 @@
  "key": "cygnus-buccinator",
  "name": "Cygnus buccinator",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:11.339Z",
+ "fetchedAt": "2026-11-13T11:44:53.831Z",
  "names": {
   "da": "Trompetérsvane",
   "en": "Trumpeter Swan",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 6915,
-  "observations": 52259
+  "observations": 52807
  },
  "photos": {
   "male": [
+   {
+    "id": 164414520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164414520/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164414520/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/98713756",
+    "place": "Lanark County, ON, Canada",
+    "date": "2021-10-19"
+   },
    {
     "id": 13019785,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13019785/medium.jpeg",
@@ -42,29 +52,9 @@
     "source": "https://www.inaturalist.org/observations/93612214",
     "place": "Tommy Thompson Park, Toronto, ON, CA",
     "date": "2021-09-04"
-   },
-   {
-    "id": 164414520,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164414520/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164414520/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/98713756",
-    "place": "Lanark County, ON, Canada",
-    "date": "2021-10-19"
    }
   ],
   "female": [
-   {
-    "id": 6822065,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822065/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822065/large.jpeg",
-    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/5529010",
-    "place": "425 Leacock Lane Orillia, ON L3V 7T9",
-    "date": "2016-04-17"
-   },
    {
     "id": 116060298,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116060298/medium.jpeg",
@@ -76,14 +66,24 @@
     "date": "2021-03-14"
    },
    {
-    "id": 13905363,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13905363/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13905363/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/10092916",
-    "place": "Hamilton, ON, Canada",
-    "date": "2018-02-19"
+    "id": 6822065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822065/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822065/large.jpeg",
+    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/5529010",
+    "place": "425 Leacock Lane Orillia, ON L3V 7T9",
+    "date": "2016-04-17"
+   },
+   {
+    "id": 108443963,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108443963/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108443963/large.jpeg",
+    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67199082",
+    "place": "Orillia, ON, Canada",
+    "date": "2020-12-18"
    }
   ],
   "juvenile": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 13019785,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13019785/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13019785/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/9543816",
-   "place": "Cliffcrest, Toronto, ON, Canada",
-   "date": "2018-01-20"
+   "id": 116697018,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116697018/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116697018/large.jpg",
+   "attribution": "(c) brentnmoran, some rights reserved (CC BY-SA), uploaded by brentnmoran",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/116697018",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 1067781,
+  "worldTotal": 1038288,
   "topCountries": [
    {
     "code": "US",
-    "count": 764263
+    "count": 740462
    },
    {
     "code": "CA",
-    "count": 302549
+    "count": 296843
    },
    {
     "code": "NL",
@@ -162,15 +162,15 @@
    },
    {
     "code": "GB",
-    "count": 50
+    "count": 54
    },
    {
     "code": "DE",
-    "count": 30
+    "count": 32
    },
    {
     "code": "AE",
-    "count": 25
+    "count": 30
    },
    {
     "code": "ZZ",
@@ -189,14 +189,15 @@
     "count": 2
    },
    {
-    "code": "NG",
-    "count": 1
+    "code": "PL",
+    "count": 2
    },
    {
-    "code": "PL",
+    "code": "NG",
     "count": 1
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

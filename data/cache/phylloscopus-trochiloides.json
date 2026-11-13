@@ -2,7 +2,7 @@
  "key": "phylloscopus-trochiloides",
  "name": "Phylloscopus trochiloides",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:10.410Z",
+ "fetchedAt": "2026-11-13T11:22:00.856Z",
  "names": {
   "da": "Lundsanger",
   "en": "Greenish Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117054,
-  "observations": 4990
+  "observations": 5043
  },
  "photos": {
   "male": [
@@ -69,14 +69,14 @@
  },
  "gbif": {
   "key": 2493084,
-  "dkTotal": 2482,
+  "dkTotal": 2474,
   "dkMonths": [
    0,
    0,
    0,
    0,
-   623,
-   1578,
+   621,
+   1572,
    108,
    120,
    27,
@@ -84,15 +84,15 @@
    0,
    0
   ],
-  "worldTotal": 251771,
+  "worldTotal": 217942,
   "topCountries": [
    {
     "code": "IN",
-    "count": 184872
+    "count": 150048
    },
    {
     "code": "SE",
-    "count": 22161
+    "count": 22003
    },
    {
     "code": "RU",
@@ -100,41 +100,42 @@
    },
    {
     "code": "NP",
-    "count": 5607
-   },
-   {
-    "code": "CN",
-    "count": 3825
+    "count": 6040
    },
    {
     "code": "FI",
-    "count": 3667
+    "count": 5168
+   },
+   {
+    "code": "CN",
+    "count": 3979
    },
    {
     "code": "DK",
-    "count": 2482
+    "count": 2474
    },
    {
     "code": "NL",
-    "count": 2454
-   },
-   {
-    "code": "TH",
-    "count": 2399
+    "count": 2472
    },
    {
     "code": "BD",
-    "count": 2254
+    "count": 1975
    },
    {
     "code": "EE",
-    "count": 1921
+    "count": 1967
+   },
+   {
+    "code": "TH",
+    "count": 1699
    },
    {
     "code": "KZ",
-    "count": 1595
+    "count": 1692
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

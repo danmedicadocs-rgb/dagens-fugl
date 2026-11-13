@@ -2,7 +2,7 @@
  "key": "euplectes-orix",
  "name": "Euplectes orix",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:31:16.580Z",
+ "fetchedAt": "2026-11-13T11:33:36.598Z",
  "names": {
   "da": "Oryxvæver",
   "en": "Southern Red Bishop",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13962,
-  "observations": 7153
+  "observations": 7287
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2024-08-19"
    },
    {
-    "id": 168513952,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168513952/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168513952/large.jpg",
-    "attribution": "(c) Paapi, some rights reserved (CC BY)",
+    "id": 586658361,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586658361/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586658361/large.jpg",
+    "attribution": "(c) Daniela Orsmond, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/100934405",
-    "place": "R74 muden road, Weenen, 3325, South Africa",
-    "date": "2021-11-10"
+    "source": "https://www.inaturalist.org/observations/324154640",
+    "place": "President Ridge, Randburg, 2194, South Africa",
+    "date": "2025-10-26"
    }
   ],
   "female": [
@@ -88,14 +88,14 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 335916366,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335916366/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335916366/large.jpeg",
-   "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/191483889",
-   "place": "Durban Botanical Gardens",
-   "date": "2023-11-11"
+   "id": 56156134,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56156134/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56156134/large.jpg",
+   "attribution": "(c) Chris Vynbos, some rights reserved (CC BY-SA), uploaded by Chris Vynbos",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/56156134",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 389798,
+  "worldTotal": 389967,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 359585
+    "count": 360248
    },
    {
     "code": "ZW",
-    "count": 6984
+    "count": 7259
    },
    {
     "code": "NA",
-    "count": 4368
+    "count": 4367
    },
    {
     "code": "TZ",
-    "count": 2934
-   },
-   {
-    "code": "UG",
-    "count": 2456
+    "count": 2619
    },
    {
     "code": "ZM",
-    "count": 2156
+    "count": 2400
+   },
+   {
+    "code": "UG",
+    "count": 2087
    },
    {
     "code": "BW",
-    "count": 1998
-   },
-   {
-    "code": "MZ",
-    "count": 1547
+    "count": 2045
    },
    {
     "code": "SZ",
-    "count": 1544
+    "count": 1487
+   },
+   {
+    "code": "MZ",
+    "count": 1361
    },
    {
     "code": "KE",
-    "count": 1109
-   },
-   {
-    "code": "AE",
     "count": 1063
    },
    {
+    "code": "AE",
+    "count": 1038
+   },
+   {
     "code": "MW",
-    "count": 960
+    "count": 978
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

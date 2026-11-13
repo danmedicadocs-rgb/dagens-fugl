@@ -2,7 +2,7 @@
  "key": "scopus-umbretta",
  "name": "Scopus umbretta",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:08.591Z",
+ "fetchedAt": "2026-11-13T11:32:35.209Z",
  "names": {
   "da": "Hammerhoved",
   "en": "Hamerkop",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3834,
-  "observations": 7785
+  "observations": 7964
  },
  "photos": {
   "male": [],
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 231983,
+  "worldTotal": 227385,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 114925
+    "count": 115790
    },
    {
     "code": "KE",
-    "count": 25902
+    "count": 24738
    },
    {
     "code": "UG",
-    "count": 14886
+    "count": 13083
    },
    {
     "code": "TZ",
-    "count": 11859
+    "count": 11395
    },
    {
     "code": "ZW",
-    "count": 8058
+    "count": 8695
    },
    {
     "code": "BW",
-    "count": 7322
+    "count": 7032
    },
    {
     "code": "GM",
-    "count": 7212
+    "count": 6856
    },
    {
     "code": "ZM",
-    "count": 6290
+    "count": 6514
    },
    {
     "code": "ET",
-    "count": 4830
+    "count": 4142
    },
    {
     "code": "NA",
-    "count": 4327
-   },
-   {
-    "code": "RW",
-    "count": 3647
+    "count": 4096
    },
    {
     "code": "NG",
-    "count": 3510
+    "count": 3500
+   },
+   {
+    "code": "RW",
+    "count": 3360
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

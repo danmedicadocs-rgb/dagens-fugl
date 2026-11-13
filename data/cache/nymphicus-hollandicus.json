@@ -2,7 +2,7 @@
  "key": "nymphicus-hollandicus",
  "name": "Nymphicus hollandicus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:45.674Z",
+ "fetchedAt": "2026-11-13T11:39:25.878Z",
  "names": {
   "da": "Nymfeparakit",
   "en": "Cockatiel",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116993,
-  "observations": 6652
+  "observations": 6761
  },
  "photos": {
   "male": [
@@ -34,24 +34,24 @@
     "date": "2013-05-02"
    },
    {
-    "id": 609750986,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609750986/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609750986/large.jpg",
-    "attribution": "(c) Cecilia Fer Díaz, some rights reserved (CC BY)",
+    "id": 761011890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761011890/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761011890/large.jpg",
+    "attribution": "(c) David Gobbett, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/335627071",
-    "place": "Garupa, Misiones, Argentina",
-    "date": "2026-01-21"
+    "source": "https://www.inaturalist.org/observations/413479617",
+    "place": "Unincorp. Riverland, AU-SA, AU",
+    "date": "2026-11-07"
    },
    {
-    "id": 154998965,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154998965/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154998965/large.jpeg",
-    "attribution": "(c) Maureen Howard, some rights reserved (CC BY)",
+    "id": 755773377,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755773377/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755773377/large.jpg",
+    "attribution": "(c) Tom Field, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/93513154",
-    "place": "Dalmore Reserve, Dunedin 9010, New Zealand",
-    "date": "2021-09-04"
+    "source": "https://www.inaturalist.org/observations/410889264",
+    "place": "Australia",
+    "date": "2026-10-17"
    }
   ],
   "female": [
@@ -88,19 +88,19 @@
   ],
   "juvenile": [],
   "hero": {
-   "id": 245956877,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245956877/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245956877/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/143420244",
-   "place": "Ashford NSW 2361, Australia",
-   "date": "2013-05-02"
+   "id": 162198224,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162198224/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162198224/large.jpg",
+   "attribution": "(c) Rolf Lawrenz, some rights reserved (CC BY), uploaded by Rolf Lawrenz",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/162198224",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2479977,
-  "dkTotal": 166,
+  "dkTotal": 167,
   "dkMonths": [
    4,
    0,
@@ -111,61 +111,62 @@
    21,
    36,
    31,
-   10,
+   11,
    6,
    1
   ],
-  "worldTotal": 118419,
+  "worldTotal": 116405,
   "topCountries": [
    {
     "code": "AU",
-    "count": 111858
+    "count": 109827
    },
    {
     "code": "US",
-    "count": 1328
+    "count": 1178
    },
    {
     "code": "BE",
-    "count": 1069
+    "count": 1098
    },
    {
     "code": "FR",
-    "count": 632
+    "count": 644
    },
    {
     "code": "ES",
-    "count": 392
+    "count": 403
    },
    {
     "code": "NL",
-    "count": 339
+    "count": 352
    },
    {
     "code": "PT",
-    "count": 324
+    "count": 313
    },
    {
     "code": "DE",
-    "count": 205
+    "count": 212
    },
    {
     "code": "GB",
-    "count": 194
+    "count": 209
    },
    {
     "code": "DK",
-    "count": 166
+    "count": 167
    },
    {
     "code": "IL",
-    "count": 129
+    "count": 135
    },
    {
-    "code": "PR",
-    "count": 122
+    "code": "IT",
+    "count": 112
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

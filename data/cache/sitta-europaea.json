@@ -2,7 +2,7 @@
  "key": "sitta-europaea",
  "name": "Sitta europaea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:50.772Z",
+ "fetchedAt": "2026-11-13T11:23:31.075Z",
  "names": {
   "da": "Spætmejse",
   "en": "Eurasian Nuthatch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14824,
-  "observations": 93593
+  "observations": 95282
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2484916,
-  "dkTotal": 226528,
+  "dkTotal": 228618,
   "dkMonths": [
-   27281,
-   24668,
-   34168,
-   33426,
-   13362,
-   10530,
-   10092,
-   13325,
-   14239,
-   14292,
-   14753,
-   16337
+   27360,
+   24767,
+   34298,
+   33552,
+   13425,
+   10605,
+   10136,
+   13414,
+   14324,
+   15284,
+   15007,
+   16392
   ],
-  "worldTotal": 3756071,
+  "worldTotal": 3889065,
   "topCountries": [
    {
     "code": "SE",
-    "count": 937324
+    "count": 949017
    },
    {
     "code": "FR",
-    "count": 476184
+    "count": 484927
    },
    {
     "code": "NL",
-    "count": 399914
+    "count": 408445
    },
    {
     "code": "DE",
-    "count": 373296
+    "count": 390192
    },
    {
     "code": "NO",
-    "count": 371894
+    "count": 378584
    },
    {
     "code": "GB",
-    "count": 252274
+    "count": 285502
    },
    {
     "code": "DK",
-    "count": 226528
+    "count": 228618
    },
    {
     "code": "ES",
-    "count": 125260
+    "count": 127801
    },
    {
     "code": "BE",
-    "count": 99060
+    "count": 101799
    },
    {
     "code": "RU",
-    "count": 78305
+    "count": 81170
    },
    {
     "code": "CZ",
-    "count": 64175
+    "count": 69923
    },
    {
-    "code": "PT",
-    "count": 49599
+    "code": "PL",
+    "count": 49554
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

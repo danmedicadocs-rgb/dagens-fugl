@@ -2,7 +2,7 @@
  "key": "emberiza-rustica",
  "name": "Emberiza rustica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:48.232Z",
+ "fetchedAt": "2026-11-13T11:28:47.558Z",
  "names": {
   "da": "Pileværling",
   "en": "Rustic Bunting",
@@ -19,99 +19,28 @@
  },
  "inat": {
   "id": 9188,
-  "observations": 4674
+  "observations": 1
  },
  "photos": {
-  "male": [
-   {
-    "id": 122364816,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122364816/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122364816/large.jpeg",
-    "attribution": "(c) Юлия, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/74837378",
-    "place": "Irkutskiy rayon, RU-IK, RU",
-    "date": "2021-04-22"
-   },
-   {
-    "id": 121777356,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121777356/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121777356/large.jpeg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/74514734",
-    "place": "Tomskiy rayon, RU-TO, RU",
-    "date": "2021-04-17"
-   },
-   {
-    "id": 107544094,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107544094/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107544094/large.jpg",
-    "attribution": "(c) Timur Kalininsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66678873",
-    "place": "Район Аоба, Сендай, Мияги, Япония",
-    "date": "2020-12-17"
-   }
-  ],
-  "female": [
-   {
-    "id": 563492907,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563492907/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563492907/large.jpg",
-    "attribution": "(c) Markus Lampinen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/312119512",
-    "place": "Luvian Saaristo, Luvia, Satakunta, FI",
-    "date": "2025-09-07"
-   },
-   {
-    "id": 429653897,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/429653897/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/429653897/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/241101812",
-    "place": "Chelyabinsk, RU",
-    "date": "2024-09-11"
-   }
-  ],
-  "juvenile": [
-   {
-    "id": 738724547,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/738724547/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/738724547/large.jpg",
-    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/402404691",
-    "place": "Helsinki, Uusimaa, FI",
-    "date": "2026-09-22"
-   },
-   {
-    "id": 139133098,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139133098/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139133098/large.jpeg",
-    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/84640804",
-    "place": "Mil'kovskiy rayon, RU-KQ, RU",
-    "date": "2021-06-25"
-   }
-  ],
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
   "hero": {
-   "id": 122364816,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122364816/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122364816/large.jpeg",
-   "attribution": "(c) Юлия, some rights reserved (CC BY)",
+   "id": 2616822,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2616822/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2616822/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/74837378",
-   "place": "Irkutskiy rayon, RU-IK, RU",
-   "date": "2021-04-22"
+   "source": "https://www.inaturalist.org/photos/2616822",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2491582,
-  "dkTotal": 224,
+  "dkTotal": 223,
   "dkMonths": [
    0,
    1,
@@ -121,62 +50,63 @@
    7,
    0,
    0,
-   91,
+   90,
    44,
    0,
    0
   ],
-  "worldTotal": 113306,
+  "worldTotal": 119461,
   "topCountries": [
    {
     "code": "FI",
-    "count": 38399
+    "count": 41605
    },
    {
     "code": "SE",
-    "count": 37310
+    "count": 37349
    },
    {
     "code": "KR",
-    "count": 9502
+    "count": 10258
    },
    {
     "code": "JP",
-    "count": 8615
+    "count": 9537
    },
    {
     "code": "CN",
-    "count": 5179
+    "count": 7089
    },
    {
     "code": "RU",
-    "count": 3639
-   },
-   {
-    "code": "US",
-    "count": 2176
+    "count": 3565
    },
    {
     "code": "NL",
-    "count": 1910
+    "count": 1978
    },
    {
     "code": "TW",
-    "count": 1906
+    "count": 1701
+   },
+   {
+    "code": "US",
+    "count": 1655
    },
    {
     "code": "GB",
-    "count": 888
+    "count": 963
    },
    {
     "code": "NO",
-    "count": 792
+    "count": 789
    },
    {
     "code": "HK",
-    "count": 344
+    "count": 384
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

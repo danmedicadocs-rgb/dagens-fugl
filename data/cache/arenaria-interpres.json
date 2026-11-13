@@ -2,7 +2,7 @@
  "key": "arenaria-interpres",
  "name": "Arenaria interpres",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:00.911Z",
+ "fetchedAt": "2026-11-13T11:13:44.804Z",
  "names": {
   "da": "Stenvender",
   "en": "Ruddy Turnstone",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3938,
-  "observations": 75252
+  "observations": 76471
  },
  "photos": {
   "male": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 247333270,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247333270/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247333270/large.jpeg",
-   "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/144140509",
-   "place": "Sandy Hook, Middletown Township, NJ, USA",
-   "date": "2011-05-21"
+   "id": 105634647,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105634647/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105634647/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Henggang Cui",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/105634647",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481776,
-  "dkTotal": 58774,
+  "dkTotal": 59133,
   "dkMonths": [
-   4138,
-   2653,
-   2008,
-   1499,
-   6831,
-   908,
-   6868,
-   16073,
-   8386,
-   4334,
-   2556,
-   2461
+   4142,
+   2658,
+   2013,
+   1504,
+   6837,
+   912,
+   6870,
+   16113,
+   8426,
+   4538,
+   2587,
+   2475
   ],
-  "worldTotal": 2214155,
+  "worldTotal": 2051456,
   "topCountries": [
    {
     "code": "US",
-    "count": 883200
+    "count": 756891
    },
    {
     "code": "NL",
-    "count": 183096
+    "count": 189772
    },
    {
     "code": "GB",
-    "count": 156917
+    "count": 174352
    },
    {
     "code": "SE",
-    "count": 96428
+    "count": 96600
    },
    {
     "code": "CA",
-    "count": 94112
+    "count": 80613
    },
    {
     "code": "ES",
-    "count": 80099
-   },
-   {
-    "code": "PT",
-    "count": 67449
+    "count": 76615
    },
    {
     "code": "AU",
-    "count": 67137
+    "count": 66207
+   },
+   {
+    "code": "PT",
+    "count": 63601
    },
    {
     "code": "DK",
-    "count": 58774
+    "count": 59133
    },
    {
     "code": "FR",
-    "count": 50985
+    "count": 53393
    },
    {
     "code": "NO",
-    "count": 47347
+    "count": 47406
    },
    {
     "code": "TW",
-    "count": 30480
+    "count": 25718
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

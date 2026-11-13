@@ -2,7 +2,7 @@
  "key": "carpodacus-erythrinus",
  "name": "Carpodacus erythrinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:58.564Z",
+ "fetchedAt": "2026-11-13T11:27:06.405Z",
  "names": {
   "da": "Karmindompap",
   "en": "Common Rosefinch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9639,
-  "observations": 15235
+  "observations": 15299
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 78182968,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182968/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182968/large.jpeg",
-   "attribution": "no rights reserved",
+   "id": 78182979,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182979/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182979/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Лариса Артемьева",
    "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/49253323",
-   "place": "Пермский р-н, Пермский край, Россия",
-   "date": "2020-05-31"
+   "source": "https://www.inaturalist.org/photos/78182979",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494459,
-  "dkTotal": 19878,
+  "dkTotal": 19840,
   "dkMonths": [
    0,
    19,
    3,
    5,
-   9227,
-   8278,
-   1412,
-   750,
-   92,
+   9199,
+   8273,
+   1409,
+   747,
+   93,
    36,
    4,
    4
   ],
-  "worldTotal": 414043,
+  "worldTotal": 417769,
   "topCountries": [
    {
     "code": "SE",
-    "count": 162209
+    "count": 162517
    },
    {
     "code": "FI",
-    "count": 61224
+    "count": 69655
    },
    {
     "code": "IN",
-    "count": 40323
+    "count": 33079
    },
    {
     "code": "RU",
-    "count": 27411
+    "count": 27326
    },
    {
     "code": "NO",
-    "count": 22592
+    "count": 22679
    },
    {
     "code": "DK",
-    "count": 19878
+    "count": 19840
    },
    {
     "code": "EE",
-    "count": 14909
+    "count": 15213
    },
    {
     "code": "PL",
-    "count": 10217
+    "count": 11486
    },
    {
     "code": "NL",
-    "count": 9822
+    "count": 9967
    },
    {
     "code": "CN",
-    "count": 6020
+    "count": 6330
    },
    {
     "code": "TR",
-    "count": 3240
+    "count": 2780
    },
    {
-    "code": "MN",
-    "count": 2802
+    "code": "GB",
+    "count": 2703
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

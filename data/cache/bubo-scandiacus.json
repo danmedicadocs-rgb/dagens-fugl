@@ -2,7 +2,7 @@
  "key": "bubo-scandiacus",
  "name": "Bubo scandiacus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:31.880Z",
+ "fetchedAt": "2026-11-13T11:17:28.700Z",
  "names": {
   "da": "Sneugle",
   "en": "Snowy Owl",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 144594,
-  "observations": 12699
+  "observations": 12759
  },
  "photos": {
   "male": [
-   {
-    "id": 468935116,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/large.jpeg",
-    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261060345",
-    "place": "Drumheller, AB T0J 0Y0, Canada",
-    "date": "2025-02-08"
-   },
    {
     "id": 751438134,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751438134/medium.jpg",
@@ -44,14 +34,24 @@
     "date": "2024-02-09"
    },
    {
-    "id": 549005525,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549005525/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549005525/large.jpg",
-    "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
+    "id": 468935116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/large.jpeg",
+    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/304535292",
-    "place": "Gateway National Recreation Area, Queens County, US-NY, US",
-    "date": "2019-01-26"
+    "source": "https://www.inaturalist.org/observations/261060345",
+    "place": "Drumheller, AB T0J 0Y0, Canada",
+    "date": "2025-02-08"
+   },
+   {
+    "id": 636925064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636925064/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636925064/large.jpg",
+    "attribution": "(c) Eric Habisch, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/349173164",
+    "place": "Langley, BC, Canada",
+    "date": "2026-01-13"
    }
   ],
   "female": [
@@ -66,16 +66,6 @@
     "date": "2023-02-26"
    },
    {
-    "id": 571038499,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571038499/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571038499/large.jpg",
-    "attribution": "(c) Arlo Sitimans, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/316079370",
-    "place": "Sea Island, Georgia, USA",
-    "date": "2012-12-09"
-   },
-   {
     "id": 462564259,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462564259/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462564259/large.jpg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/257840271",
     "place": "Ontario, CA",
     "date": "2025-01-01"
+   },
+   {
+    "id": 107861843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107861843/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107861843/large.jpg",
+    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/66850311",
+    "place": "112 83rd St, Virginia Beach, VA 23451, USA",
+    "date": "2020-12-20"
    }
   ],
   "juvenile": [
@@ -119,21 +119,21 @@
    }
   ],
   "hero": {
-   "id": 468935116,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/large.jpeg",
-   "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/261060345",
-   "place": "Drumheller, AB T0J 0Y0, Canada",
-   "date": "2025-02-08"
+   "id": 263627380,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263627380/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263627380/large.jpg",
+   "attribution": "(c) Bill Bouton, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/263627380",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5959143,
-  "dkTotal": 844,
+  "dkTotal": 842,
   "dkMonths": [
-   108,
+   107,
    91,
    108,
    164,
@@ -144,53 +144,53 @@
    1,
    1,
    8,
-   275
+   274
   ],
-  "worldTotal": 302246,
+  "worldTotal": 267469,
   "topCountries": [
    {
     "code": "US",
-    "count": 159428
+    "count": 141108
    },
    {
     "code": "CA",
-    "count": 130366
+    "count": 113930
    },
    {
     "code": "SE",
-    "count": 2885
+    "count": 2887
    },
    {
     "code": "NL",
-    "count": 2327
+    "count": 2329
    },
    {
     "code": "RU",
-    "count": 1361
+    "count": 1286
    },
    {
     "code": "BE",
-    "count": 990
+    "count": 992
    },
    {
     "code": "DK",
-    "count": 844
-   },
-   {
-    "code": "GB",
-    "count": 583
+    "count": 842
    },
    {
     "code": "FI",
-    "count": 540
+    "count": 611
+   },
+   {
+    "code": "GB",
+    "count": 596
    },
    {
     "code": "NO",
-    "count": 526
+    "count": 530
    },
    {
     "code": "GL",
-    "count": 351
+    "count": 368
    },
    {
     "code": "PM",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

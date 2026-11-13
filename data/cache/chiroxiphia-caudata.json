@@ -2,7 +2,7 @@
  "key": "chiroxiphia-caudata",
  "name": "Chiroxiphia caudata",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:53:08.925Z",
+ "fetchedAt": "2026-11-13T11:51:42.809Z",
  "names": {
   "da": "Svalehalemanakin",
   "en": "Blue Manakin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14306,
-  "observations": 2441
+  "observations": 2492
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 339617446,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339617446/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339617446/large.jpeg",
-   "attribution": "no rights reserved",
+   "id": 105028774,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105028774/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105028774/large.jpg",
+   "attribution": "no rights reserved, uploaded by Jean-Paul Boerekamps",
    "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/193337179",
-   "place": "Santo Tomé, Corrientes, Argentina",
-   "date": "2021-12-30"
+   "source": "https://www.inaturalist.org/photos/105028774",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 88567,
+  "worldTotal": 80603,
   "topCountries": [
    {
     "code": "BR",
-    "count": 76910
+    "count": 71568
    },
    {
     "code": "AR",
-    "count": 9139
+    "count": 7181
    },
    {
     "code": "PY",
-    "count": 2395
+    "count": 1731
    },
    {
     "code": "DE",
@@ -182,5 +182,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "bubo-bubo",
  "name": "Bubo bubo",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:27.376Z",
+ "fetchedAt": "2026-11-13T11:17:23.790Z",
  "names": {
   "da": "Stor hornugle",
   "en": "Eurasian Eagle-owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20059,
-  "observations": 7856
+  "observations": 7999
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 174311426,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/large.jpeg",
-   "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
+   "id": 1513765,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1513765/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1513765/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/104059578",
-   "place": "Bayern, DE",
-   "date": "2021-12-31"
+   "source": "https://www.inaturalist.org/photos/1513765",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5959092,
-  "dkTotal": 4822,
+  "dkTotal": 4834,
   "dkMonths": [
-   555,
-   789,
+   554,
+   788,
    922,
    703,
-   596,
+   597,
    340,
    222,
-   130,
-   115,
-   128,
+   132,
+   117,
+   137,
    144,
    129
   ],
-  "worldTotal": 186658,
+  "worldTotal": 190256,
   "topCountries": [
    {
     "code": "FR",
-    "count": 39703
+    "count": 39721
    },
    {
     "code": "ES",
-    "count": 38135
+    "count": 37986
    },
    {
     "code": "FI",
-    "count": 27229
+    "count": 30299
    },
    {
     "code": "SE",
-    "count": 24130
+    "count": 24204
    },
    {
     "code": "NL",
-    "count": 14454
+    "count": 14770
    },
    {
     "code": "DE",
-    "count": 9040
+    "count": 9142
    },
    {
     "code": "DK",
-    "count": 4822
+    "count": 4834
    },
    {
     "code": "RU",
-    "count": 3433
+    "count": 3420
    },
    {
     "code": "AT",
-    "count": 3254
-   },
-   {
-    "code": "PT",
-    "count": 2862
+    "count": 3309
    },
    {
     "code": "IL",
-    "count": 2833
+    "count": 2897
+   },
+   {
+    "code": "PT",
+    "count": 2674
    },
    {
     "code": "NO",
-    "count": 1872
+    "count": 1822
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

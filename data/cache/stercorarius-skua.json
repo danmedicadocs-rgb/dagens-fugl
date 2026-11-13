@@ -2,7 +2,7 @@
  "key": "stercorarius-skua",
  "name": "Stercorarius skua",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:36.630Z",
+ "fetchedAt": "2026-11-13T11:14:16.313Z",
  "names": {
   "da": "Storkjove",
   "en": "Great Skua",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144297,
-  "observations": 2330
+  "observations": 2350
  },
  "photos": {
   "male": [],
@@ -58,84 +58,85 @@
    }
   ],
   "hero": {
-   "id": 569950002,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569950002/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569950002/large.jpg",
-   "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/315500111",
-   "place": "Deutschland",
-   "date": "2025-09-18"
+   "id": 19762,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19762/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19762/large.jpg",
+   "attribution": "(c) Ulrich Latzenhofer, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/19762",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481618,
-  "dkTotal": 14597,
+  "dkTotal": 14676,
   "dkMonths": [
    185,
    50,
    64,
-   367,
-   1419,
-   310,
-   989,
-   2357,
-   3973,
-   3772,
-   808,
-   295
+   368,
+   1418,
+   311,
+   985,
+   2367,
+   3986,
+   3826,
+   812,
+   296
   ],
-  "worldTotal": 180416,
+  "worldTotal": 177913,
   "topCountries": [
    {
     "code": "GB",
-    "count": 57723
+    "count": 61207
    },
    {
     "code": "NO",
-    "count": 17323
+    "count": 17471
    },
    {
     "code": "SE",
-    "count": 16559
-   },
-   {
-    "code": "ES",
-    "count": 16362
+    "count": 16601
    },
    {
     "code": "DK",
-    "count": 14597
+    "count": 14676
+   },
+   {
+    "code": "ES",
+    "count": 13684
    },
    {
     "code": "PT",
-    "count": 12286
+    "count": 9853
    },
    {
     "code": "FR",
-    "count": 9160
+    "count": 9344
    },
    {
     "code": "IS",
-    "count": 9105
+    "count": 8578
    },
    {
     "code": "NL",
-    "count": 5609
+    "count": 5749
    },
    {
     "code": "SJ",
-    "count": 4677
-   },
-   {
-    "code": "IE",
-    "count": 4257
+    "count": 4654
    },
    {
     "code": "BE",
-    "count": 4071
+    "count": 4131
+   },
+   {
+    "code": "IE",
+    "count": 3994
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

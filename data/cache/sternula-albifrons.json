@@ -2,7 +2,7 @@
  "key": "sternula-albifrons",
  "name": "Sternula albifrons",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:10:50.315Z",
+ "fetchedAt": "2026-11-13T11:16:03.629Z",
  "names": {
   "da": "Dværgterne",
   "en": "Little Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144529,
-  "observations": 12597
+  "observations": 12700
  },
  "photos": {
   "male": [],
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 5789279,
-  "dkTotal": 49946,
+  "dkTotal": 50106,
   "dkMonths": [
    9,
    0,
    0,
-   3875,
-   12980,
-   9850,
-   15478,
-   7174,
+   3883,
+   13027,
+   9887,
+   15535,
+   7183,
    241,
    7,
    0,
    1
   ],
-  "worldTotal": 535215,
+  "worldTotal": 524669,
   "topCountries": [
    {
     "code": "SE",
-    "count": 93740
+    "count": 94012
    },
    {
     "code": "AU",
-    "count": 67059
-   },
-   {
-    "code": "TW",
-    "count": 52405
+    "count": 65651
    },
    {
     "code": "DK",
-    "count": 49946
+    "count": 50106
+   },
+   {
+    "code": "TW",
+    "count": 44161
    },
    {
     "code": "ES",
-    "count": 42142
+    "count": 41036
    },
    {
     "code": "FR",
-    "count": 37617
+    "count": 38353
    },
    {
     "code": "GB",
-    "count": 28076
+    "count": 31368
    },
    {
     "code": "PT",
-    "count": 20157
+    "count": 19117
    },
    {
     "code": "IN",
-    "count": 18364
+    "count": 13982
    },
    {
     "code": "NL",
-    "count": 10303
+    "count": 10736
    },
    {
     "code": "TH",
-    "count": 9134
+    "count": 7379
    },
    {
-    "code": "IL",
-    "count": 6134
+    "code": "PL",
+    "count": 7065
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

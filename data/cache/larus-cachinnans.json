@@ -2,7 +2,7 @@
  "key": "larus-cachinnans",
  "name": "Larus cachinnans",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:45.484Z",
+ "fetchedAt": "2026-11-13T11:15:07.524Z",
  "names": {
   "da": "Kaspisk måge",
   "en": "Caspian Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4389,
-  "observations": 18535
+  "observations": 18857
  },
  "photos": {
   "male": [],
@@ -68,16 +68,6 @@
     "date": "2021-02-14"
    },
    {
-    "id": 554611565,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/554611565/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/554611565/large.jpg",
-    "attribution": "(c) Юрий Данилевский (Yuriy Danilevsky), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/307478328",
-    "place": "Юж. р-н, Новороссийск, Краснодарский край, Россия",
-    "date": "2025-08-18"
-   },
-   {
     "id": 333530978,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333530978/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333530978/large.jpg",
@@ -86,6 +76,16 @@
     "source": "https://www.inaturalist.org/observations/190285335",
     "place": "Skadovs'kyi, UA-KS, UA",
     "date": "2015-09-13"
+   },
+   {
+    "id": 253060695,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253060695/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253060695/large.jpeg",
+    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/147101290",
+    "place": "252 29 Dobřichovice, Česko",
+    "date": "2023-01-21"
    }
   ],
   "hero": {
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 2481181,
-  "dkTotal": 26403,
+  "dkTotal": 26636,
   "dkMonths": [
-   3311,
-   2094,
-   1413,
-   915,
-   664,
-   473,
-   1597,
-   2641,
-   3416,
-   4303,
-   3150,
-   2425
+   3323,
+   2102,
+   1419,
+   928,
+   647,
+   467,
+   1604,
+   2628,
+   3421,
+   4471,
+   3192,
+   2433
   ],
-  "worldTotal": 335746,
+  "worldTotal": 384086,
   "topCountries": [
    {
     "code": "SE",
-    "count": 52350
+    "count": 52828
    },
    {
     "code": "NL",
-    "count": 45967
+    "count": 48311
    },
    {
     "code": "PL",
-    "count": 31946
+    "count": 44673
    },
    {
     "code": "CZ",
-    "count": 30586
+    "count": 31885
+   },
+   {
+    "code": "ES",
+    "count": 29916
    },
    {
     "code": "DK",
-    "count": 26403
+    "count": 26636
    },
    {
     "code": "UA",
-    "count": 22173
+    "count": 23185
    },
    {
     "code": "DE",
-    "count": 15030
+    "count": 17044
    },
    {
     "code": "GB",
-    "count": 13926
+    "count": 16150
    },
    {
     "code": "RU",
-    "count": 11898
+    "count": 11791
    },
    {
     "code": "BE",
-    "count": 9676
+    "count": 9985
    },
    {
     "code": "FR",
-    "count": 8696
-   },
-   {
-    "code": "AT",
-    "count": 8132
+    "count": 9441
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

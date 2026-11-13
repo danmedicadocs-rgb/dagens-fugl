@@ -2,7 +2,7 @@
  "key": "turdus-rufiventris",
  "name": "Turdus rufiventris",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:53:18.915Z",
+ "fetchedAt": "2026-11-13T11:51:51.516Z",
  "names": {
   "da": "Orangegumpet Drossel",
   "en": "Rufous-bellied Thrush",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12738,
-  "observations": 18114
+  "observations": 18963
  },
  "photos": {
   "male": [
@@ -136,27 +136,27 @@
    0,
    0
   ],
-  "worldTotal": 487853,
+  "worldTotal": 473838,
   "topCountries": [
    {
     "code": "BR",
-    "count": 261400
+    "count": 266284
    },
    {
     "code": "AR",
-    "count": 183579
+    "count": 169424
    },
    {
     "code": "UY",
-    "count": 30265
+    "count": 27228
    },
    {
     "code": "PY",
-    "count": 9310
+    "count": 8025
    },
    {
     "code": "BO",
-    "count": 3166
+    "count": 2743
    },
    {
     "code": "PE",
@@ -180,5 +180,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "spheniscus-magellanicus",
  "name": "Spheniscus magellanicus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:30.997Z",
+ "fetchedAt": "2026-11-13T11:48:05.642Z",
  "names": {
   "da": "Magellanpingvin",
   "en": "Magellanic Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3812,
-  "observations": 9088
+  "observations": 9203
  },
  "photos": {
   "male": [
@@ -88,25 +88,25 @@
     "date": "2021-07-22"
    },
    {
-    "id": 145478915,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145478915/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145478915/large.jpeg",
+    "id": 422917258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422917258/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422917258/large.jpeg",
     "attribution": "no rights reserved",
     "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/88191423",
-    "place": "Buenos Aires, AR",
-    "date": "2021-07-22"
+    "source": "https://www.inaturalist.org/observations/237618241",
+    "place": "Argentina",
+    "date": "2024-08-22"
    }
   ],
   "hero": {
-   "id": 351299373,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351299373/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351299373/large.jpeg",
-   "attribution": "(c) Facu Lamela, some rights reserved (CC BY)",
+   "id": 4115244,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4115244/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4115244/large.jpg",
+   "attribution": "(c) John Barkla, some rights reserved (CC BY), uploaded by John Barkla",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/199222792",
-   "place": "Chubut, AR",
-   "date": "2024-02-13"
+   "source": "https://www.inaturalist.org/photos/4115244",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,35 +126,35 @@
    0,
    0
   ],
-  "worldTotal": 42186,
+  "worldTotal": 35961,
   "topCountries": [
    {
     "code": "AR",
-    "count": 15347
+    "count": 12642
    },
    {
     "code": "CL",
-    "count": 12836
+    "count": 10145
    },
    {
     "code": "FK",
-    "count": 6492
+    "count": 6118
    },
    {
     "code": "BR",
-    "count": 5991
+    "count": 5810
    },
    {
     "code": "UY",
-    "count": 1145
-   },
-   {
-    "code": "ZZ",
-    "count": 30
+    "count": 877
    },
    {
     "code": "GB",
     "count": 29
+   },
+   {
+    "code": "ZZ",
+    "count": 26
    },
    {
     "code": "US",
@@ -165,18 +165,19 @@
     "count": 8
    },
    {
-    "code": "PE",
-    "count": 8
-   },
-   {
     "code": "AQ",
-    "count": 5
+    "count": 6
    },
    {
     "code": "EC",
     "count": 5
+   },
+   {
+    "code": "CA",
+    "count": 4
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

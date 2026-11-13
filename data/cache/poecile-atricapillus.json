@@ -2,7 +2,7 @@
  "key": "poecile-atricapillus",
  "name": "Poecile atricapillus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:42:29.660Z",
+ "fetchedAt": "2026-11-13T11:43:26.786Z",
  "names": {
   "da": "Amerikansk Fyrremejse",
   "en": "Black-capped Chickadee",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144815,
-  "observations": 170129
+  "observations": 171929
  },
  "photos": {
   "male": [
@@ -109,14 +109,14 @@
    }
   ],
   "hero": {
-   "id": 462624139,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462624139/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462624139/large.jpeg",
-   "attribution": "(c) Indio Brown, some rights reserved (CC BY)",
+   "id": 155785914,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155785914/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155785914/large.jpg",
+   "attribution": "(c) Blake Ross, some rights reserved (CC BY), uploaded by Blake Ross",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/257884873",
-   "place": "Durango, CO, USA",
-   "date": "2025-01-08"
+   "source": "https://www.inaturalist.org/photos/155785914",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,23 +136,23 @@
    0,
    0
   ],
-  "worldTotal": 18793890,
+  "worldTotal": 18603589,
   "topCountries": [
    {
     "code": "US",
-    "count": 13261408
+    "count": 13179101
    },
    {
     "code": "CA",
-    "count": 5531104
+    "count": 5423212
    },
    {
     "code": "FR",
     "count": 189
    },
    {
-    "code": "BR",
-    "count": 114
+    "code": "PM",
+    "count": 75
    },
    {
     "code": "DE",
@@ -160,11 +160,7 @@
    },
    {
     "code": "RU",
-    "count": 64
-   },
-   {
-    "code": "PM",
-    "count": 60
+    "count": 65
    },
    {
     "code": "PL",
@@ -185,8 +181,13 @@
    {
     "code": "LT",
     "count": 21
+   },
+   {
+    "code": "JP",
+    "count": 18
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

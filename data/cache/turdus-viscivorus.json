@@ -2,7 +2,7 @@
  "key": "turdus-viscivorus",
  "name": "Turdus viscivorus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:29.160Z",
+ "fetchedAt": "2026-11-13T11:24:05.826Z",
  "names": {
   "da": "Misteldrossel",
   "en": "Mistle Thrush",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12735,
-  "observations": 27959
+  "observations": 28380
  },
  "photos": {
   "male": [
@@ -79,84 +79,85 @@
    }
   ],
   "hero": {
-   "id": 338267434,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/large.jpeg",
-   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
+   "id": 256398718,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256398718/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256398718/large.jpg",
+   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/192662067",
-   "place": "Dipton, UK",
-   "date": "2023-11-30"
+   "source": "https://www.inaturalist.org/photos/256398718",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490774,
-  "dkTotal": 106989,
+  "dkTotal": 107498,
   "dkMonths": [
-   3730,
-   6288,
-   26782,
-   23924,
-   11747,
-   5188,
-   2731,
-   1555,
-   4483,
-   14784,
-   3439,
-   2290
+   3737,
+   6297,
+   26790,
+   23938,
+   11755,
+   5195,
+   2748,
+   1561,
+   4495,
+   15179,
+   3462,
+   2293
   ],
-  "worldTotal": 1710891,
+  "worldTotal": 1775466,
   "topCountries": [
    {
     "code": "SE",
-    "count": 356523
+    "count": 359021
    },
    {
     "code": "FR",
-    "count": 343609
+    "count": 348474
    },
    {
     "code": "GB",
-    "count": 254354
+    "count": 282370
    },
    {
     "code": "ES",
-    "count": 130568
+    "count": 130207
    },
    {
     "code": "NL",
-    "count": 111700
+    "count": 113440
    },
    {
     "code": "DK",
-    "count": 106989
+    "count": 107498
    },
    {
     "code": "DE",
-    "count": 68144
+    "count": 71998
    },
    {
     "code": "NO",
-    "count": 59315
+    "count": 59951
    },
    {
     "code": "BE",
-    "count": 44188
+    "count": 46839
    },
    {
     "code": "FI",
-    "count": 31831
+    "count": 41399
    },
    {
     "code": "IE",
-    "count": 22928
+    "count": 24361
    },
    {
     "code": "PT",
-    "count": 21155
+    "count": 19960
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "corvus-corax",
  "name": "Corvus corax",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:38.712Z",
+ "fetchedAt": "2026-11-13T11:19:58.448Z",
  "names": {
   "da": "Ravn",
   "en": "Northern Raven",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8010,
-  "observations": 195342
+  "observations": 197918
  },
  "photos": {
   "male": [
@@ -99,84 +99,85 @@
    }
   ],
   "hero": {
-   "id": 72128898,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/large.jpeg",
-   "attribution": "(c) datadan, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/45485386",
-   "place": "Marin County, CA, USA",
-   "date": "2020-05-10"
+   "id": 119994014,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119994014/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/119994014/large.jpg",
+   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/119994014",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2482492,
-  "dkTotal": 290698,
+  "dkTotal": 293340,
   "dkMonths": [
-   27410,
-   28632,
-   41097,
-   38737,
-   25171,
-   13369,
-   14086,
-   18643,
-   22771,
-   23368,
-   19029,
-   18323
+   27466,
+   28694,
+   41214,
+   38862,
+   25251,
+   13413,
+   14119,
+   18710,
+   22868,
+   24953,
+   19366,
+   18363
   ],
-  "worldTotal": 12317660,
+  "worldTotal": 11768338,
   "topCountries": [
    {
     "code": "US",
-    "count": 6850415
+    "count": 6338951
    },
    {
     "code": "CA",
-    "count": 2502794
+    "count": 2360720
    },
    {
     "code": "SE",
-    "count": 804781
+    "count": 811906
    },
    {
     "code": "DK",
-    "count": 290698
+    "count": 293340
    },
    {
     "code": "ES",
-    "count": 278844
+    "count": 279324
    },
    {
     "code": "NO",
-    "count": 261221
+    "count": 264740
    },
    {
     "code": "GB",
-    "count": 206214
+    "count": 239650
    },
    {
     "code": "DE",
-    "count": 151663
+    "count": 160972
    },
    {
     "code": "FR",
-    "count": 150810
+    "count": 154449
    },
    {
     "code": "FI",
-    "count": 123480
+    "count": 144784
    },
    {
     "code": "RU",
-    "count": 89387
+    "count": 90695
    },
    {
     "code": "MX",
-    "count": 71130
+    "count": 59349
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

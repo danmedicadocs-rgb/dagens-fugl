@@ -2,7 +2,7 @@
  "key": "aegithalos-caudatus",
  "name": "Aegithalos caudatus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:21.762Z",
+ "fetchedAt": "2026-11-13T11:22:11.890Z",
  "names": {
   "da": "Halemejse",
   "en": "Long-tailed Tit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7278,
-  "observations": 83402
+  "observations": 84629
  },
  "photos": {
   "male": [
@@ -67,95 +67,96 @@
     "date": "2020-05-17"
    },
    {
-    "id": 215217423,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215217423/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215217423/large.jpeg",
-    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/126817256",
-    "place": "Камисояги, Ямато, Канагава 242-0029, Япония",
-    "date": "2022-07-18"
+    "id": 381390538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381390538/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381390538/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/215699700",
+    "place": "Wembdon, Bridgwater, UK",
+    "date": "2024-05-14"
    }
   ],
   "hero": {
-   "id": 745293577,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/405727161",
-   "place": "Светлый, Оренбургская обл., Россия, 462740",
-   "date": "2026-10-04"
+   "id": 340558404,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340558404/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340558404/large.jpg",
+   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/340558404",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2495000,
-  "dkTotal": 117416,
+  "dkTotal": 118610,
   "dkMonths": [
-   13762,
-   13973,
-   20650,
-   14336,
-   8716,
-   3850,
-   2252,
-   3456,
-   6150,
-   11772,
-   9345,
-   9103
+   13793,
+   14047,
+   20727,
+   14379,
+   8743,
+   3887,
+   2265,
+   3490,
+   6159,
+   12401,
+   9515,
+   9153
   ],
-  "worldTotal": 3298932,
+  "worldTotal": 3509607,
   "topCountries": [
    {
     "code": "GB",
-    "count": 642899
+    "count": 745927
    },
    {
     "code": "NL",
-    "count": 506955
+    "count": 521041
    },
    {
     "code": "FR",
-    "count": 390647
+    "count": 401216
    },
    {
     "code": "SE",
-    "count": 386811
+    "count": 390111
    },
    {
     "code": "ES",
-    "count": 314231
+    "count": 324414
    },
    {
     "code": "DE",
-    "count": 166512
+    "count": 176790
    },
    {
     "code": "FI",
-    "count": 144702
+    "count": 150482
    },
    {
     "code": "DK",
-    "count": 117416
+    "count": 118610
    },
    {
     "code": "BE",
-    "count": 113379
+    "count": 117920
    },
    {
     "code": "IT",
-    "count": 67997
+    "count": 78776
    },
    {
     "code": "PL",
-    "count": 58902
+    "count": 66119
    },
    {
     "code": "PT",
-    "count": 58672
+    "count": 58033
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

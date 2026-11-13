@@ -2,7 +2,7 @@
  "key": "fratercula-cirrhata",
  "name": "Fratercula cirrhata",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:45:28.462Z",
+ "fetchedAt": "2026-11-13T11:46:02.087Z",
  "names": {
   "da": "Toplunde",
   "en": "Tufted Puffin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4509,
-  "observations": 4646
+  "observations": 4693
  },
  "photos": {
   "male": [],
@@ -63,9 +63,9 @@
    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2812798/large.jpg",
    "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/2504980",
-   "place": "St. Paul Island, Alaska, United States",
-   "date": "2015-05-24"
+   "source": "https://www.inaturalist.org/photos/2812798",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,31 +85,35 @@
    0,
    0
   ],
-  "worldTotal": 83386,
+  "worldTotal": 55383,
   "topCountries": [
    {
     "code": "US",
-    "count": 77202
+    "count": 50372
    },
    {
     "code": "CA",
-    "count": 3159
+    "count": 2660
    },
    {
     "code": "RU",
-    "count": 2395
+    "count": 1685
    },
    {
     "code": "ZZ",
-    "count": 208
+    "count": 235
    },
    {
     "code": "JP",
-    "count": 158
+    "count": 165
    },
    {
     "code": "SE",
     "count": 4
+   },
+   {
+    "code": "GL",
+    "count": 3
    },
    {
     "code": "SJ",
@@ -117,10 +121,6 @@
    },
    {
     "code": "GB",
-    "count": 2
-   },
-   {
-    "code": "GL",
     "count": 2
    },
    {
@@ -137,5 +137,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

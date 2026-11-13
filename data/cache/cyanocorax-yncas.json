@@ -2,7 +2,7 @@
  "key": "cyanocorax-yncas",
  "name": "Cyanocorax yncas",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:11.995Z",
+ "fetchedAt": "2026-11-13T11:48:33.502Z",
  "names": {
   "da": "Grøn Skade",
   "en": null,
@@ -14,12 +14,12 @@
  "wiki": {
   "lang": "en",
   "title": "Inca jay",
-  "extract": "The Inca jay is a bird species of the New World jays, which is native to the Andes of South America. It is widely known as querrequerre in Spanish, an onomatopoeic name derived from the bird's call.",
+  "extract": "The Inca jay is a bird species of the New World jays, which is native to the Andes of South America. It is widely known as querrequerre in Spanish, an onomatopoeic name derived from the bird's call. The species has a discontinuous distribution, with one population in the southern Texas, Mexico, Belize, Guatemala, Honduras and Nicaragua, and another extending in a narrow band from Venezuela through Colombia, Ecuador and Peru to Bolivia. Its habitat includes forest, savanna and shrubland as well as human-inhabited areas, at altutudes from sea level to 3,500 metres (11,480 ft).",
   "url": "https://en.wikipedia.org/wiki/Inca_jay"
  },
  "inat": {
   "id": 8474,
-  "observations": 14815
+  "observations": 14978
  },
  "photos": {
   "male": [
@@ -37,14 +37,14 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 535027822,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/large.jpg",
-   "attribution": "(c) J Alejandro González Castillo, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/297098281",
-   "place": "Nicté-ha",
-   "date": "2025-05-19"
+   "id": 111061806,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111061806/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111061806/large.jpeg",
+   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/111061806",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -64,47 +64,47 @@
    0,
    0
   ],
-  "worldTotal": 465959,
+  "worldTotal": 371746,
   "topCountries": [
    {
     "code": "US",
-    "count": 260168
+    "count": 212859
    },
    {
     "code": "MX",
-    "count": 71832
+    "count": 57815
    },
    {
     "code": "CO",
-    "count": 61673
+    "count": 46317
    },
    {
     "code": "EC",
-    "count": 26886
+    "count": 20246
    },
    {
     "code": "BZ",
-    "count": 14480
+    "count": 10773
    },
    {
     "code": "VE",
-    "count": 13344
+    "count": 10300
    },
    {
     "code": "PE",
-    "count": 11104
+    "count": 8780
    },
    {
     "code": "GT",
-    "count": 3373
+    "count": 2303
    },
    {
     "code": "HN",
-    "count": 2356
+    "count": 1682
    },
    {
     "code": "BO",
-    "count": 452
+    "count": 380
    },
    {
     "code": "ZZ",
@@ -116,5 +116,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

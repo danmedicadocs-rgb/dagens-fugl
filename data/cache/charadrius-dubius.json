@@ -2,7 +2,7 @@
  "key": "charadrius-dubius",
  "name": "Charadrius dubius",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:28.830Z",
+ "fetchedAt": "2026-11-13T11:10:50.573Z",
  "names": {
   "da": "Lille præstekrave",
   "en": "Little Ringed Plover",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 70651798,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70651798/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70651798/large.jpg",
+   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA), uploaded by xulescu_g",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/70651798",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 7937336,
@@ -39,34 +48,34 @@
    8,
    48,
    38,
-   17,
+   18,
    11,
    4,
    3,
    0,
    1
   ],
-  "worldTotal": 252285,
+  "worldTotal": 252446,
   "topCountries": [
    {
     "code": "FR",
-    "count": 66540
+    "count": 66542
    },
    {
     "code": "BE",
-    "count": 45206
+    "count": 45057
    },
    {
     "code": "NO",
-    "count": 27238
+    "count": 27215
    },
    {
     "code": "TW",
-    "count": 22391
+    "count": 22389
    },
    {
     "code": "GB",
-    "count": 21668
+    "count": 21669
    },
    {
     "code": "DE",
@@ -90,13 +99,14 @@
    },
    {
     "code": "RU",
-    "count": 3152
+    "count": 3157
    },
    {
     "code": "SE",
-    "count": 2768
+    "count": 2769
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

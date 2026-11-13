@@ -2,7 +2,7 @@
  "key": "calidris-melanotos",
  "name": "Calidris melanotos",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:09.183Z",
+ "fetchedAt": "2026-11-13T11:12:08.578Z",
  "names": {
   "da": "Stribet ryle",
   "en": "Pectoral Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3865,
-  "observations": 18582
+  "observations": 18792
  },
  "photos": {
   "male": [
@@ -47,16 +47,6 @@
   "female": [],
   "juvenile": [
    {
-    "id": 95416023,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95416023/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95416023/large.jpeg",
-    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/59705926",
-    "place": "Putnam, ON N0L 2B0, Canada",
-    "date": "2020-09-15"
-   },
-   {
     "id": 614001685,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001685/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001685/large.jpg",
@@ -65,6 +55,16 @@
     "source": "https://www.inaturalist.org/observations/337734030",
     "place": "Tacumshin",
     "date": "2010-09-17"
+   },
+   {
+    "id": 95416023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95416023/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95416023/large.jpeg",
+    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/59705926",
+    "place": "Putnam, ON N0L 2B0, Canada",
+    "date": "2020-09-15"
    },
    {
     "id": 573348779,
@@ -78,84 +78,85 @@
    }
   ],
   "hero": {
-   "id": 701197454,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/701197454/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/701197454/large.jpg",
-   "attribution": "(c) Brandon Johnson, some rights reserved (CC BY)",
+   "id": 166627642,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166627642/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166627642/large.jpg",
+   "attribution": "(c) Andrew Cannizzaro, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/383129604",
-   "place": "St. Landry Parish, LA, USA",
-   "date": "2026-07-19"
+   "source": "https://www.inaturalist.org/photos/166627642",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481744,
-  "dkTotal": 1650,
+  "dkTotal": 1652,
   "dkMonths": [
    1,
    0,
    0,
    65,
-   334,
+   333,
    96,
-   556,
+   559,
    380,
    138,
    79,
    0,
    0
   ],
-  "worldTotal": 889983,
+  "worldTotal": 788760,
   "topCountries": [
    {
     "code": "US",
-    "count": 651889
+    "count": 580258
    },
    {
     "code": "CA",
-    "count": 125519
+    "count": 109294
    },
    {
     "code": "NL",
-    "count": 13295
-   },
-   {
-    "code": "AR",
-    "count": 11081
+    "count": 13885
    },
    {
     "code": "SE",
-    "count": 10661
+    "count": 10672
    },
    {
     "code": "AU",
-    "count": 8690
+    "count": 8521
+   },
+   {
+    "code": "AR",
+    "count": 8319
    },
    {
     "code": "GB",
-    "count": 6310
+    "count": 7147
    },
    {
     "code": "PE",
-    "count": 5733
+    "count": 4080
    },
    {
     "code": "BR",
-    "count": 3551
-   },
-   {
-    "code": "MX",
-    "count": 3503
-   },
-   {
-    "code": "CR",
-    "count": 3013
+    "count": 2733
    },
    {
     "code": "ES",
-    "count": 2396
+    "count": 2444
+   },
+   {
+    "code": "MX",
+    "count": 2422
+   },
+   {
+    "code": "CR",
+    "count": 2095
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

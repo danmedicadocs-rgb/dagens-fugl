@@ -2,7 +2,7 @@
  "key": "phylloscopus-fuscatus",
  "name": "Phylloscopus fuscatus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:16.384Z",
+ "fetchedAt": "2026-11-13T11:22:07.269Z",
  "names": {
   "da": "Brun Løvsanger",
   "en": "Dusky Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 117022,
-  "observations": 3213
+  "observations": 3280
  },
  "photos": {
   "male": [],
@@ -37,6 +37,16 @@
     "date": "2024-12-02"
    },
    {
+    "id": 760811853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760811853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760811853/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/413382125",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-04"
+   },
+   {
     "id": 30740337,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30740337/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30740337/large.jpg",
@@ -45,32 +55,22 @@
     "source": "https://www.inaturalist.org/observations/19926971",
     "place": "Karimganj, IN-AS, IN",
     "date": "2019-01-25"
-   },
-   {
-    "id": 445020582,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445020582/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445020582/large.jpg",
-    "attribution": "(c) Devin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/248996178",
-    "place": "Mawlai, Shillong",
-    "date": "2024-10-25"
    }
   ],
   "hero": {
-   "id": 465386913,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465386913/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465386913/large.jpg",
-   "attribution": "(c) Devin, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/259274256",
-   "place": "Mawlai, Shillong",
-   "date": "2024-12-02"
+   "id": 77156,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77156/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77156/large.jpg",
+   "attribution": "(c) Charles Lam, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/77156",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493075,
-  "dkTotal": 828,
+  "dkTotal": 839,
   "dkMonths": [
    5,
    1,
@@ -81,61 +81,62 @@
    0,
    0,
    12,
-   570,
-   195,
+   575,
+   201,
    44
   ],
-  "worldTotal": 135424,
+  "worldTotal": 126149,
   "topCountries": [
    {
-    "code": "TW",
-    "count": 21385
-   },
-   {
-    "code": "IN",
-    "count": 19871
-   },
-   {
-    "code": "TH",
-    "count": 18533
+    "code": "CN",
+    "count": 18339
    },
    {
     "code": "HK",
-    "count": 16703
+    "count": 17118
    },
    {
-    "code": "CN",
-    "count": 16051
+    "code": "IN",
+    "count": 16475
+   },
+   {
+    "code": "TH",
+    "count": 16301
+   },
+   {
+    "code": "TW",
+    "count": 15728
    },
    {
     "code": "NL",
-    "count": 7640
+    "count": 7721
    },
    {
     "code": "SE",
-    "count": 5087
+    "count": 5229
    },
    {
     "code": "KH",
-    "count": 4998
+    "count": 4524
    },
    {
     "code": "MN",
-    "count": 3205
+    "count": 2634
    },
    {
     "code": "RU",
-    "count": 2894
+    "count": 2632
    },
    {
     "code": "BD",
-    "count": 2488
+    "count": 2317
    },
    {
     "code": "LA",
-    "count": 2068
+    "count": 1911
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

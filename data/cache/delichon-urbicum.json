@@ -2,7 +2,7 @@
  "key": "delichon-urbicum",
  "name": "Delichon urbicum",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:36.484Z",
+ "fetchedAt": "2026-11-13T11:21:32.377Z",
  "names": {
   "da": "Bysvale",
   "en": "Common House Martin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 64705,
-  "observations": 39238
+  "observations": 39342
  },
  "photos": {
   "male": [],
@@ -68,84 +68,85 @@
    }
   ],
   "hero": {
-   "id": 266802618,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266802618/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266802618/large.jpeg",
-   "attribution": "(c) Aurèle Baretje, some rights reserved (CC BY)",
+   "id": 120619248,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120619248/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120619248/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/154410422",
-   "place": "25000 Besançon, France",
-   "date": "2018-05-17"
+   "source": "https://www.inaturalist.org/photos/120619248",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2489214,
-  "dkTotal": 198939,
+  "dkTotal": 199675,
   "dkMonths": [
    1,
    1,
    35,
-   13526,
-   49104,
-   38362,
-   34076,
-   41252,
-   22410,
-   50,
+   13568,
+   49178,
+   38552,
+   34277,
+   41364,
+   22522,
+   55,
    68,
    1
   ],
-  "worldTotal": 2590637,
+  "worldTotal": 2705803,
   "topCountries": [
    {
     "code": "ES",
-    "count": 412409
-   },
-   {
-    "code": "SE",
-    "count": 344343
+    "count": 421067
    },
    {
     "code": "GB",
-    "count": 321838
+    "count": 362982
+   },
+   {
+    "code": "SE",
+    "count": 345769
    },
    {
     "code": "FR",
-    "count": 273401
+    "count": 280122
    },
    {
     "code": "DK",
-    "count": 198939
+    "count": 199675
    },
    {
     "code": "DE",
-    "count": 183213
+    "count": 191678
    },
    {
     "code": "PT",
-    "count": 129258
+    "count": 128068
    },
    {
     "code": "NO",
-    "count": 114944
+    "count": 116112
    },
    {
     "code": "NL",
-    "count": 107224
+    "count": 110016
    },
    {
     "code": "FI",
-    "count": 56801
+    "count": 68125
    },
    {
     "code": "BE",
-    "count": 54624
+    "count": 56940
    },
    {
     "code": "PL",
-    "count": 36024
+    "count": 43653
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

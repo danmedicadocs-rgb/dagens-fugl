@@ -2,7 +2,7 @@
  "key": "calidris-pugnax",
  "name": "Calidris pugnax",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:53.470Z",
+ "fetchedAt": "2026-11-13T11:11:59.528Z",
  "names": {
   "da": "Brushane",
   "en": "Ruff",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 339593,
-  "observations": 35050
+  "observations": 35328
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2026-09-05"
    },
    {
-    "id": 433919935,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/243350604",
-    "place": "Карское море, Байдарацкая губа.",
-    "date": "2024-08-25"
-   },
-   {
     "id": 320359164,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320359164/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320359164/large.jpeg",
@@ -116,6 +106,16 @@
     "source": "https://www.inaturalist.org/observations/183610371",
     "place": "Bryan, TX 77807, USA",
     "date": "2023-09-16"
+   },
+   {
+    "id": 433919935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243350604",
+    "place": "Карское море, Байдарацкая губа.",
+    "date": "2024-08-25"
    }
   ],
   "hero": {
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 8250742,
-  "dkTotal": 130065,
+  "dkTotal": 130451,
   "dkMonths": [
    140,
    102,
-   3545,
-   18850,
-   19684,
-   12101,
-   23966,
-   28659,
-   17647,
-   4681,
-   390,
+   3560,
+   18876,
+   19701,
+   12119,
+   24039,
+   28729,
+   17692,
+   4800,
+   396,
    129
   ],
-  "worldTotal": 1586909,
+  "worldTotal": 1590826,
   "topCountries": [
    {
     "code": "SE",
-    "count": 417126
+    "count": 418476
    },
    {
     "code": "NL",
-    "count": 281562
+    "count": 288538
    },
    {
     "code": "DK",
-    "count": 130065
+    "count": 130451
    },
    {
     "code": "GB",
-    "count": 91014
+    "count": 101987
    },
    {
     "code": "NO",
-    "count": 87774
+    "count": 87936
    },
    {
     "code": "ES",
-    "count": 57296
+    "count": 53655
    },
    {
     "code": "FR",
-    "count": 47836
-   },
-   {
-    "code": "IN",
-    "count": 42749
+    "count": 48787
    },
    {
     "code": "FI",
-    "count": 42514
+    "count": 46411
    },
    {
     "code": "BE",
-    "count": 41109
+    "count": 41892
    },
    {
     "code": "ZA",
-    "count": 40724
+    "count": 40231
+   },
+   {
+    "code": "IN",
+    "count": 33975
    },
    {
     "code": "IL",
-    "count": 31652
+    "count": 28333
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

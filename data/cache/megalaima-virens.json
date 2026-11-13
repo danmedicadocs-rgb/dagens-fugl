@@ -2,7 +2,7 @@
  "key": "megalaima-virens",
  "name": "Megalaima virens",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:36:23.050Z",
+ "fetchedAt": "2026-11-13T11:38:20.351Z",
  "names": {
   "da": null,
   "en": null,
@@ -14,7 +14,7 @@
  "wiki": null,
  "inat": {
   "id": 367525,
-  "observations": 2223
+  "observations": 2246
  },
  "photos": {
   "male": [],
@@ -80,51 +80,51 @@
    0,
    0
   ],
-  "worldTotal": 113522,
+  "worldTotal": 105162,
   "topCountries": [
    {
     "code": "IN",
-    "count": 72421
+    "count": 64692
    },
    {
     "code": "NP",
-    "count": 11254
-   },
-   {
-    "code": "TH",
-    "count": 9284
+    "count": 12263
    },
    {
     "code": "CN",
-    "count": 7211
+    "count": 8532
+   },
+   {
+    "code": "TH",
+    "count": 7438
    },
    {
     "code": "BT",
-    "count": 7161
+    "count": 5505
    },
    {
     "code": "HK",
-    "count": 4074
+    "count": 4777
    },
    {
     "code": "MM",
-    "count": 760
+    "count": 665
    },
    {
     "code": "PK",
-    "count": 490
-   },
-   {
-    "code": "LA",
-    "count": 428
+    "count": 467
    },
    {
     "code": "VN",
-    "count": 320
+    "count": 369
+   },
+   {
+    "code": "LA",
+    "count": 347
    },
    {
     "code": "BD",
-    "count": 25
+    "count": 19
    },
    {
     "code": "ZZ",
@@ -132,5 +132,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

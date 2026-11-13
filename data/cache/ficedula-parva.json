@@ -2,7 +2,7 @@
  "key": "ficedula-parva",
  "name": "Ficedula parva",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:30.035Z",
+ "fetchedAt": "2026-11-13T11:24:59.575Z",
  "names": {
   "da": "Lille fluesnapper",
   "en": "Red-breasted Flycatcher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13113,
-  "observations": 5069
+  "observations": 5133
  },
  "photos": {
   "male": [
@@ -34,24 +34,24 @@
     "date": "2014-11-09"
    },
    {
-    "id": 169076730,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169076730/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169076730/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
+    "id": 259086968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259086968/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259086968/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101254786",
-    "place": "Советский р-н, Казань, Респ. Татарстан, Россия",
-    "date": "2016-05-05"
+    "source": "https://www.inaturalist.org/observations/150275036",
+    "place": "273J+QX4 Simson Tank, Matheran, Maharashtra 410102, India",
+    "date": "2019-12-23"
    },
    {
-    "id": 331257769,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331257769/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331257769/large.jpeg",
-    "attribution": "(c) Emad Tahaei, some rights reserved (CC BY)",
+    "id": 589736495,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589736495/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589736495/large.jpg",
+    "attribution": "(c) Alen Alex Pathisseril, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/189146606",
-    "place": "Gilan Province, Iran",
-    "date": "2023-10-21"
+    "source": "https://www.inaturalist.org/observations/325696291",
+    "place": "Bangalore Division, Karnataka, India",
+    "date": "2025-11-09"
    }
   ],
   "female": [
@@ -66,16 +66,6 @@
     "date": "2014-09-14"
    },
    {
-    "id": 598511147,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598511147/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598511147/large.jpg",
-    "attribution": "(c) Mitul and Vijul Singh, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/330102852",
-    "place": "Shreenagar Rural, Rajasthan, India",
-    "date": "2025-12-03"
-   },
-   {
     "id": 34005742,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34005742/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34005742/large.jpeg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/21942848",
     "place": "Россия, 452930",
     "date": "2016-08-19"
+   },
+   {
+    "id": 598511147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598511147/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598511147/large.jpg",
+    "attribution": "(c) Mitul and Vijul Singh, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/330102852",
+    "place": "Shreenagar Rural, Rajasthan, India",
+    "date": "2025-12-03"
    }
   ],
   "juvenile": [
@@ -111,72 +111,73 @@
  },
  "gbif": {
   "key": 2492605,
-  "dkTotal": 7903,
+  "dkTotal": 7805,
   "dkMonths": [
    0,
    0,
    0,
    3,
-   3992,
-   1617,
+   3925,
+   1604,
    55,
-   173,
-   1401,
-   633,
+   172,
+   1385,
+   632,
    12,
    1
   ],
-  "worldTotal": 215648,
+  "worldTotal": 206961,
   "topCountries": [
    {
-    "code": "IN",
-    "count": 68469
-   },
-   {
     "code": "SE",
-    "count": 65950
+    "count": 66040
    },
    {
-    "code": "DK",
-    "count": 7903
+    "code": "IN",
+    "count": 57410
    },
    {
     "code": "EE",
-    "count": 7666
+    "count": 7843
    },
    {
-    "code": "RU",
-    "count": 7323
+    "code": "DK",
+    "count": 7805
    },
    {
     "code": "FI",
-    "count": 5684
+    "count": 7524
+   },
+   {
+    "code": "RU",
+    "count": 7361
    },
    {
     "code": "NL",
-    "count": 5229
-   },
-   {
-    "code": "UA",
-    "count": 4538
+    "count": 5241
    },
    {
     "code": "PL",
-    "count": 4370
+    "count": 4680
+   },
+   {
+    "code": "UA",
+    "count": 4630
    },
    {
     "code": "GB",
-    "count": 3708
+    "count": 3996
    },
    {
     "code": "TR",
-    "count": 3668
+    "count": 3528
    },
    {
-    "code": "IR",
-    "count": 3188
+    "code": "NO",
+    "count": 3032
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "ramphocelus-carbo",
  "name": "Ramphocelus carbo",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:34.722Z",
+ "fetchedAt": "2026-11-13T11:50:27.539Z",
  "names": {
   "da": "Sølvnæbbet Fløjlstangar",
   "en": "Silver-beaked Tanager",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10056,
-  "observations": 5583
+  "observations": 5662
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 114358486,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114358486/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114358486/large.jpeg",
-   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+   "id": 121438781,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121438781/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121438781/large.jpeg",
+   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/70356134",
-   "place": "Rio Negro, Ecuador",
-   "date": "2021-02-28"
+   "source": "https://www.inaturalist.org/photos/121438781",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 258533,
+  "worldTotal": 205636,
   "topCountries": [
    {
-    "code": "CO",
-    "count": 60896
+    "code": "BR",
+    "count": 49809
    },
    {
-    "code": "BR",
-    "count": 60432
+    "code": "CO",
+    "count": 43103
    },
    {
     "code": "PE",
-    "count": 48524
+    "count": 40297
    },
    {
     "code": "EC",
-    "count": 35313
+    "count": 27909
    },
    {
     "code": "VE",
-    "count": 18100
+    "count": 14732
    },
    {
     "code": "TT",
-    "count": 11699
+    "count": 9341
    },
    {
     "code": "BO",
-    "count": 7440
-   },
-   {
-    "code": "GY",
-    "count": 6340
-   },
-   {
-    "code": "SR",
-    "count": 4882
+    "count": 6550
    },
    {
     "code": "GF",
-    "count": 4447
+    "count": 4567
+   },
+   {
+    "code": "SR",
+    "count": 4531
+   },
+   {
+    "code": "GY",
+    "count": 4429
    },
    {
     "code": "PY",
-    "count": 177
+    "count": 99
    },
    {
     "code": "US",
-    "count": 47
+    "count": 39
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

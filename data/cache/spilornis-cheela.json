@@ -2,7 +2,7 @@
  "key": "spilornis-cheela",
  "name": "Spilornis cheela",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:36:10.320Z",
+ "fetchedAt": "2026-11-13T11:38:07.635Z",
  "names": {
   "da": "Toppet Slangeørn",
   "en": "Crested Serpent Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5158,
-  "observations": 16259
+  "observations": 16618
  },
  "photos": {
   "male": [],
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 363249,
+  "worldTotal": 313773,
   "topCountries": [
    {
-    "code": "IN",
-    "count": 142857
+    "code": "TW",
+    "count": 120451
    },
    {
-    "code": "TW",
-    "count": 136808
+    "code": "IN",
+    "count": 113476
    },
    {
     "code": "MY",
-    "count": 23692
-   },
-   {
-    "code": "TH",
-    "count": 14952
+    "count": 21800
    },
    {
     "code": "LK",
-    "count": 13202
+    "count": 13550
+   },
+   {
+    "code": "TH",
+    "count": 12552
    },
    {
     "code": "HK",
-    "count": 5015
+    "count": 5476
    },
    {
     "code": "ID",
-    "count": 4877
+    "count": 5027
    },
    {
     "code": "NP",
-    "count": 4805
-   },
-   {
-    "code": "KH",
-    "count": 3790
+    "count": 4955
    },
    {
     "code": "CN",
-    "count": 3345
+    "count": 3889
+   },
+   {
+    "code": "KH",
+    "count": 3213
    },
    {
     "code": "VN",
-    "count": 2610
+    "count": 2459
    },
    {
     "code": "BT",
-    "count": 2021
+    "count": 1611
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

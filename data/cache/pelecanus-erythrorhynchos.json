@@ -2,7 +2,7 @@
  "key": "pelecanus-erythrorhynchos",
  "name": "Pelecanus erythrorhynchos",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:21.722Z",
+ "fetchedAt": "2026-11-13T11:45:03.152Z",
  "names": {
   "da": "Amerikansk Hvid Pelikan",
   "en": "American White Pelican",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 4334,
-  "observations": 88225
+  "observations": 89167
  },
  "photos": {
   "male": [
-   {
-    "id": 113661497,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/large.jpg",
-    "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69971389",
-    "place": "San Jerónimo Purenchécuaro, Mich., México",
-    "date": "2021-02-20"
-   },
    {
     "id": 230748458,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230748458/medium.jpg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/135302283",
     "place": "Lincoln County, NV, USA",
     "date": "2021-04-01"
+   },
+   {
+    "id": 113661497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/large.jpg",
+    "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69971389",
+    "place": "San Jerónimo Purenchécuaro, Mich., México",
+    "date": "2021-02-20"
    },
    {
     "id": 89911294,
@@ -88,14 +88,14 @@
    }
   ],
   "hero": {
-   "id": 113661497,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113661497/large.jpg",
-   "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/69971389",
-   "place": "San Jerónimo Purenchécuaro, Mich., México",
-   "date": "2021-02-20"
+   "id": 13245919,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13245919/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13245919/large.jpg",
+   "attribution": "(c) Frank Schulenburg, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/13245919",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 2176874,
+  "worldTotal": 1940222,
   "topCountries": [
    {
     "code": "US",
-    "count": 1982623
+    "count": 1770663
    },
    {
     "code": "CA",
-    "count": 130290
+    "count": 122938
    },
    {
     "code": "MX",
-    "count": 53799
+    "count": 40175
    },
    {
     "code": "CU",
-    "count": 3467
-   },
-   {
-    "code": "HN",
-    "count": 1367
+    "count": 2188
    },
    {
     "code": "SV",
-    "count": 1191
+    "count": 776
    },
    {
     "code": "GT",
-    "count": 1107
+    "count": 674
    },
    {
     "code": "BZ",
-    "count": 977
+    "count": 637
+   },
+   {
+    "code": "HN",
+    "count": 599
    },
    {
     "code": "NI",
-    "count": 656
+    "count": 419
    },
    {
     "code": "PA",
-    "count": 458
+    "count": 376
    },
    {
     "code": "CR",
-    "count": 238
+    "count": 147
    },
    {
     "code": "PR",
-    "count": 118
+    "count": 85
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

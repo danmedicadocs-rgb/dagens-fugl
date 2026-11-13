@@ -2,7 +2,7 @@
  "key": "anthus-spinoletta",
  "name": "Anthus spinoletta",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:22:50.046Z",
+ "fetchedAt": "2026-11-13T11:26:09.778Z",
  "names": {
   "da": "Bjergpiber",
   "en": "Water Pipit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13713,
-  "observations": 12855
+  "observations": 13078
  },
  "photos": {
   "male": [
@@ -48,84 +48,85 @@
    }
   ],
   "hero": {
-   "id": 13887750,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13887750/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13887750/large.jpeg",
-   "attribution": "(c) carnifex, some rights reserved (CC BY)",
+   "id": 2004898,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2004898/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2004898/large.jpg",
+   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/10082571",
-   "place": "5505 Mühlbach am Hochkönig, Österreich",
-   "date": "2013-05-04"
+   "source": "https://www.inaturalist.org/photos/2004898",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490255,
-  "dkTotal": 10873,
+  "dkTotal": 10994,
   "dkMonths": [
-   2768,
-   1868,
-   1080,
-   229,
+   2775,
+   1866,
+   1078,
+   227,
    9,
    4,
    2,
    2,
    6,
-   982,
-   2302,
-   1617
+   1041,
+   2350,
+   1630
   ],
-  "worldTotal": 422370,
+  "worldTotal": 431763,
   "topCountries": [
    {
     "code": "FR",
-    "count": 86653
+    "count": 88284
    },
    {
     "code": "ES",
-    "count": 71418
+    "count": 71752
    },
    {
     "code": "NL",
-    "count": 43988
+    "count": 44518
    },
    {
     "code": "BE",
-    "count": 24590
-   },
-   {
-    "code": "IL",
-    "count": 18178
-   },
-   {
-    "code": "GB",
-    "count": 16386
+    "count": 24989
    },
    {
     "code": "IT",
-    "count": 16316
+    "count": 19096
    },
    {
-    "code": "DE",
-    "count": 13301
+    "code": "GB",
+    "count": 18240
    },
    {
-    "code": "AT",
-    "count": 12958
-   },
-   {
-    "code": "SE",
-    "count": 12355
+    "code": "IL",
+    "count": 16781
    },
    {
     "code": "CH",
-    "count": 12164
+    "count": 14393
    },
    {
-    "code": "PT",
-    "count": 10979
+    "code": "DE",
+    "count": 14123
+   },
+   {
+    "code": "AT",
+    "count": 13423
+   },
+   {
+    "code": "SE",
+    "count": 12431
+   },
+   {
+    "code": "DK",
+    "count": 10994
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

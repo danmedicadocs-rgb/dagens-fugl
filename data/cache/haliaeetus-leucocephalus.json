@@ -2,7 +2,7 @@
  "key": "haliaeetus-leucocephalus",
  "name": "Haliaeetus leucocephalus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:40:41.914Z",
+ "fetchedAt": "2026-11-13T11:41:59.963Z",
  "names": {
   "da": "Hvidhovedet havørn",
   "en": "Bald eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5305,
-  "observations": 240567
+  "observations": 243500
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2023-02-03"
    },
    {
-    "id": 308314590,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308314590/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308314590/large.jpg",
-    "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/177282614",
-    "place": "Gastineau Channel, Juneau, AK, US",
-    "date": "2023-05-08"
-   },
-   {
     "id": 270915579,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270915579/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270915579/large.jpg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/156659387",
     "place": "Prescott National Forest, Prescott, AZ, US",
     "date": "2023-04-24"
+   },
+   {
+    "id": 308314590,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308314590/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308314590/large.jpg",
+    "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/177282614",
+    "place": "Gastineau Channel, Juneau, AK, US",
+    "date": "2023-05-08"
    }
   ],
   "female": [
@@ -146,31 +146,31 @@
    0,
    0
   ],
-  "worldTotal": 7829910,
+  "worldTotal": 7291688,
   "topCountries": [
    {
     "code": "US",
-    "count": 6371849
+    "count": 5930181
    },
    {
     "code": "CA",
-    "count": 1454712
+    "count": 1358290
    },
    {
     "code": "MX",
-    "count": 765
+    "count": 609
    },
    {
     "code": "PM",
-    "count": 481
+    "count": 501
    },
    {
     "code": "BE",
-    "count": 349
+    "count": 351
    },
    {
     "code": "BM",
-    "count": 106
+    "count": 101
    },
    {
     "code": "ZZ",
@@ -182,21 +182,22 @@
    },
    {
     "code": "DE",
-    "count": 22
+    "count": 24
    },
    {
     "code": "RU",
     "count": 9
    },
    {
-    "code": "BS",
-    "count": 8
+    "code": "FR",
+    "count": 7
    },
    {
-    "code": "SE",
-    "count": 8
+    "code": "GB",
+    "count": 7
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

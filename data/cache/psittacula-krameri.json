@@ -2,7 +2,7 @@
  "key": "psittacula-krameri",
  "name": "Psittacula krameri",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:34:22.285Z",
+ "fetchedAt": "2026-11-13T11:36:22.879Z",
  "names": {
   "da": "Alexanderparakit",
   "en": "Rose-ringed Parakeet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18911,
-  "observations": 48989
+  "observations": 49757
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2020-11-21"
    },
    {
-    "id": 92408087,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92408087/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92408087/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57908085",
-    "place": "Moneragala, Sri Lanka",
-    "date": "2011-01-20"
-   },
-   {
     "id": 92421709,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92421709/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92421709/large.jpeg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/57915508",
     "place": "Hambantota, Sri Lanka",
     "date": "2011-01-23"
+   },
+   {
+    "id": 92408087,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92408087/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92408087/large.jpeg",
+    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/57908085",
+    "place": "Moneragala, Sri Lanka",
+    "date": "2011-01-20"
    }
   ],
   "female": [
@@ -119,19 +119,19 @@
    }
   ],
   "hero": {
-   "id": 105189664,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105189664/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105189664/large.jpeg",
-   "attribution": "(c) Ben Machado, some rights reserved (CC BY)",
+   "id": 454937257,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454937257/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454937257/large.jpg",
+   "attribution": "(c) Cristian Hurtado Cusnir, some rights reserved (CC BY), uploaded by Cristian Hurtado Cusnir",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/65363712",
-   "place": "Unnamed Road, Coral Gables, FL 33156, USA",
-   "date": "2020-11-21"
+   "source": "https://www.inaturalist.org/photos/454937257",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2479226,
-  "dkTotal": 74,
+  "dkTotal": 82,
   "dkMonths": [
    2,
    4,
@@ -142,61 +142,62 @@
    6,
    10,
    8,
-   14,
-   1,
+   19,
+   4,
    4
   ],
-  "worldTotal": 1963080,
+  "worldTotal": 1959757,
   "topCountries": [
    {
     "code": "IN",
-    "count": 1024278
+    "count": 943163
    },
    {
     "code": "GB",
-    "count": 164181
+    "count": 192716
    },
    {
     "code": "BE",
-    "count": 124966
+    "count": 128004
    },
    {
     "code": "NL",
-    "count": 117446
+    "count": 122719
    },
    {
     "code": "IL",
-    "count": 86832
+    "count": 91704
    },
    {
     "code": "FR",
-    "count": 82603
+    "count": 89064
    },
    {
     "code": "ES",
-    "count": 52661
+    "count": 59819
    },
    {
     "code": "LK",
-    "count": 49001
+    "count": 50915
    },
    {
     "code": "DE",
-    "count": 31431
+    "count": 34775
    },
    {
     "code": "PT",
-    "count": 25936
+    "count": 28764
    },
    {
     "code": "ZA",
-    "count": 25565
+    "count": 27171
    },
    {
-    "code": "US",
-    "count": 25371
+    "code": "IT",
+    "count": 23955
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

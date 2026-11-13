@@ -2,7 +2,7 @@
  "key": "lyrurus-tetrix",
  "name": "Lyrurus tetrix",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:39.483Z",
+ "fetchedAt": "2026-11-13T11:30:26.648Z",
  "names": {
   "da": "Urfugl",
   "en": "Black Grouse",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1289697,
-  "observations": 11456
+  "observations": 11552
  },
  "photos": {
   "male": [
@@ -119,19 +119,19 @@
    }
   ],
   "hero": {
-   "id": 607931442,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607931442/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607931442/large.jpg",
-   "attribution": "(c) s_schizik, some rights reserved (CC BY)",
+   "id": 65472361,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65472361/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65472361/large.jpeg",
+   "attribution": "(c) Анна Васильченко, some rights reserved (CC BY), uploaded by Анна Васильченко",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/334730318",
-   "place": "Braslaw, BY-VI, BY",
-   "date": "2025-04-15"
+   "source": "https://www.inaturalist.org/photos/65472361",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2473682,
-  "dkTotal": 544,
+  "dkTotal": 545,
   "dkMonths": [
    8,
    11,
@@ -143,60 +143,61 @@
    25,
    26,
    47,
-   17,
+   18,
    13
   ],
-  "worldTotal": 388396,
+  "worldTotal": 401742,
   "topCountries": [
    {
     "code": "SE",
-    "count": 166887
+    "count": 167357
    },
    {
     "code": "FI",
-    "count": 60868
+    "count": 72729
    },
    {
     "code": "NO",
-    "count": 56543
+    "count": 57007
    },
    {
     "code": "FR",
-    "count": 35453
+    "count": 35607
    },
    {
     "code": "GB",
-    "count": 17386
+    "count": 17391
    },
    {
     "code": "EE",
-    "count": 12403
+    "count": 12544
    },
    {
     "code": "NL",
-    "count": 10615
+    "count": 10705
    },
    {
     "code": "RU",
-    "count": 9508
+    "count": 9541
    },
    {
     "code": "DE",
-    "count": 4562
+    "count": 4627
    },
    {
     "code": "AT",
-    "count": 3419
+    "count": 3200
    },
    {
     "code": "CH",
-    "count": 2039
+    "count": 2259
    },
    {
     "code": "BE",
-    "count": 1294
+    "count": 1382
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

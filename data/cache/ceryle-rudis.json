@@ -2,7 +2,7 @@
  "key": "ceryle-rudis",
  "name": "Ceryle rudis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:12.269Z",
+ "fetchedAt": "2026-11-13T11:35:18.173Z",
  "names": {
   "da": "Gråfisker",
   "en": "Pied Kingfisher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2662,
-  "observations": 15641
+  "observations": 15913
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2023-02-24"
    },
    {
-    "id": 147808165,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808165/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808165/large.jpeg",
-    "attribution": "(c) Matthew Fainman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89505653",
-    "place": "South Cape DC, South Africa",
-    "date": "2021-08-01"
-   },
-   {
     "id": 294836916,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/294836916/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/294836916/large.jpeg",
@@ -84,18 +74,28 @@
     "source": "https://www.inaturalist.org/observations/170026467",
     "place": "Inyoni Project, Richmond, Waterberg District Municipality, South Africa",
     "date": "2023-05-16"
+   },
+   {
+    "id": 147808165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808165/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147808165/large.jpeg",
+    "attribution": "(c) Matthew Fainman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89505653",
+    "place": "South Cape DC, South Africa",
+    "date": "2021-08-01"
    }
   ],
   "juvenile": [],
   "hero": {
-   "id": 237355442,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237355442/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237355442/large.jpg",
-   "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+   "id": 327195847,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327195847/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327195847/large.jpg",
+   "attribution": "(c) Parth Kansara, some rights reserved (CC BY), uploaded by Parth Kansara",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/138839983",
-   "place": "Kachchh, IN-GJ, IN",
-   "date": "2020-11-16"
+   "source": "https://www.inaturalist.org/photos/327195847",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 542332,
+  "worldTotal": 509661,
   "topCountries": [
    {
-    "code": "IN",
-    "count": 172890
+    "code": "ZA",
+    "count": 149095
    },
    {
-    "code": "ZA",
-    "count": 149049
+    "code": "IN",
+    "count": 146754
    },
    {
     "code": "IL",
-    "count": 42540
+    "count": 41259
    },
    {
     "code": "KE",
-    "count": 21918
+    "count": 21117
    },
    {
     "code": "UG",
-    "count": 15900
+    "count": 14410
    },
    {
     "code": "BW",
-    "count": 11347
+    "count": 10875
    },
    {
     "code": "GM",
-    "count": 9311
-   },
-   {
-    "code": "TW",
-    "count": 9281
+    "count": 8832
    },
    {
     "code": "LK",
-    "count": 8004
-   },
-   {
-    "code": "HK",
-    "count": 7849
+    "count": 7954
    },
    {
     "code": "ZM",
-    "count": 7603
+    "count": 7842
+   },
+   {
+    "code": "HK",
+    "count": 7759
    },
    {
     "code": "ZW",
-    "count": 7029
+    "count": 7557
+   },
+   {
+    "code": "TW",
+    "count": 7320
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "acanthis-hornemanni",
  "name": "Acanthis hornemanni",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:32.892Z",
+ "fetchedAt": "2026-11-13T11:27:37.244Z",
  "names": {
   "da": "Hvidsisken",
   "en": "Arctic Redpoll",
@@ -27,11 +27,20 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 179061621,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179061621/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179061621/large.jpeg",
+   "attribution": "(c) Syd Cannings, some rights reserved (CC BY), uploaded by Syd Cannings",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/179061621",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 5231646,
-  "dkTotal": 1313,
+  "dkTotal": 1320,
   "dkMonths": [
    397,
    223,
@@ -42,23 +51,23 @@
    0,
    0,
    0,
-   48,
-   235,
+   49,
+   241,
    274
   ],
-  "worldTotal": 80042,
+  "worldTotal": 80634,
   "topCountries": [
    {
     "code": "SE",
-    "count": 36015
+    "count": 36106
    },
    {
     "code": "FI",
-    "count": 22115
+    "count": 22505
    },
    {
     "code": "NO",
-    "count": 11584
+    "count": 11626
    },
    {
     "code": "CA",
@@ -66,27 +75,27 @@
    },
    {
     "code": "NL",
-    "count": 1936
+    "count": 1950
    },
    {
     "code": "US",
-    "count": 1905
+    "count": 1909
    },
    {
     "code": "DK",
-    "count": 1313
+    "count": 1320
    },
    {
     "code": "RU",
-    "count": 1145
+    "count": 1148
    },
    {
     "code": "EE",
-    "count": 588
+    "count": 625
    },
    {
     "code": "AX",
-    "count": 542
+    "count": 545
    },
    {
     "code": "GL",
@@ -98,5 +107,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

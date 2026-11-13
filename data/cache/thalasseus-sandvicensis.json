@@ -2,7 +2,7 @@
  "key": "thalasseus-sandvicensis",
  "name": "Thalasseus sandvicensis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:10:23.181Z",
+ "fetchedAt": "2026-11-13T11:15:40.504Z",
  "names": {
   "da": "Splitterne",
   "en": "Sandwich Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144541,
-  "observations": 27203
+  "observations": 27585
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2481240,
-  "dkTotal": 170511,
+  "dkTotal": 171198,
   "dkMonths": [
    54,
    49,
-   4939,
-   22517,
-   23693,
-   27708,
-   27655,
-   30842,
-   26095,
-   6630,
-   226,
+   4954,
+   22602,
+   23780,
+   27840,
+   27761,
+   30938,
+   26178,
+   6711,
+   230,
    24
   ],
-  "worldTotal": 1290701,
+  "worldTotal": 1240878,
   "topCountries": [
    {
     "code": "US",
-    "count": 289386
+    "count": 252808
    },
    {
     "code": "DK",
-    "count": 170511
+    "count": 171198
    },
    {
     "code": "SE",
-    "count": 150605
-   },
-   {
-    "code": "ES",
-    "count": 105071
+    "count": 151020
    },
    {
     "code": "GB",
-    "count": 102671
+    "count": 115415
+   },
+   {
+    "code": "ES",
+    "count": 100570
    },
    {
     "code": "NL",
-    "count": 81345
+    "count": 83443
    },
    {
     "code": "FR",
-    "count": 68298
+    "count": 70744
    },
    {
     "code": "PT",
-    "count": 43234
+    "count": 38815
    },
    {
     "code": "ZA",
-    "count": 27475
-   },
-   {
-    "code": "MX",
-    "count": 21925
+    "count": 27371
    },
    {
     "code": "DE",
-    "count": 17637
+    "count": 18259
+   },
+   {
+    "code": "MX",
+    "count": 16847
    },
    {
     "code": "BE",
-    "count": 14883
+    "count": 15095
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

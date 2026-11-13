@@ -2,7 +2,7 @@
  "key": "ardea-goliath",
  "name": "Ardea goliath",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:31:47.555Z",
+ "fetchedAt": "2026-11-13T11:34:05.831Z",
  "names": {
   "da": "Goliathejre",
   "en": "Goliath Heron",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4969,
-  "observations": 3931
+  "observations": 3987
  },
  "photos": {
   "male": [],
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 601031978,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601031978/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601031978/large.jpg",
-   "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/331326178",
-   "place": "Marievale, Nigel, South Africa",
-   "date": "2025-10-11"
+   "id": 67425,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67425/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67425/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/67425",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 83742,
+  "worldTotal": 82820,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 54886
+    "count": 55051
    },
    {
     "code": "KE",
-    "count": 6431
+    "count": 6306
    },
    {
     "code": "BW",
-    "count": 4304
+    "count": 4036
    },
    {
     "code": "UG",
-    "count": 3641
-   },
-   {
-    "code": "NA",
-    "count": 2374
+    "count": 3259
    },
    {
     "code": "ZW",
-    "count": 2256
+    "count": 2400
+   },
+   {
+    "code": "NA",
+    "count": 2117
    },
    {
     "code": "ZM",
-    "count": 1904
+    "count": 1929
    },
    {
     "code": "TZ",
-    "count": 1786
+    "count": 1756
    },
    {
     "code": "GM",
-    "count": 1109
+    "count": 1132
    },
    {
     "code": "ET",
-    "count": 1019
+    "count": 938
    },
    {
     "code": "SN",
-    "count": 831
+    "count": 824
    },
    {
     "code": "MZ",
-    "count": 631
+    "count": 529
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

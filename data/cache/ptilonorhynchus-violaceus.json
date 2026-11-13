@@ -2,7 +2,7 @@
  "key": "ptilonorhynchus-violaceus",
  "name": "Ptilonorhynchus violaceus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:38:10.817Z",
+ "fetchedAt": "2026-11-13T11:39:48.517Z",
  "names": {
   "da": "Atlaskløvhyttefugl",
   "en": "Satin Bowerbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14539,
-  "observations": 10783
+  "observations": 11122
  },
  "photos": {
   "male": [
@@ -66,6 +66,16 @@
     "date": "2025-05-01"
    },
    {
+    "id": 53260943,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53260943/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53260943/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/33880187",
+    "place": "Kiama NSW 2533, Australia",
+    "date": "2019-02-07"
+   },
+   {
     "id": 482256901,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482256901/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482256901/large.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/268302571",
     "place": "Upwey VIC 3158, Australia",
     "date": "2025-04-03"
-   },
-   {
-    "id": 261505520,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261505520/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261505520/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/151551845",
-    "place": "Queen Mary Falls Caravan Park, Killarney QLD 4373, Australia",
-    "date": "2012-07-20"
    }
   ],
   "juvenile": [
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 260423,
+  "worldTotal": 262258,
   "topCountries": [
    {
     "code": "AU",
-    "count": 260187
+    "count": 262022
    },
    {
     "code": "ZZ",
@@ -182,5 +182,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

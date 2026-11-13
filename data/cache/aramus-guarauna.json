@@ -2,7 +2,7 @@
  "key": "aramus-guarauna",
  "name": "Aramus guarauna",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:28.279Z",
+ "fetchedAt": "2026-11-13T11:48:48.540Z",
  "names": {
   "da": "Riksetrane",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7,
-  "observations": 30468
+  "observations": 30921
  },
  "photos": {
   "male": [
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 483508421,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483508421/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483508421/large.jpeg",
-   "attribution": "(c) mblake7, some rights reserved (CC BY)",
+   "id": 109296676,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109296676/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109296676/large.jpg",
+   "attribution": "(c) Court Harding, some rights reserved (CC BY), uploaded by Court Harding",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/268953594",
-   "place": "Orange County, US-FL, US",
-   "date": "2025-04-06"
+   "source": "https://www.inaturalist.org/photos/109296676",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 573125,
+  "worldTotal": 507632,
   "topCountries": [
    {
     "code": "US",
-    "count": 345138
+    "count": 329400
    },
    {
     "code": "AR",
-    "count": 45578
+    "count": 38936
    },
    {
     "code": "BR",
-    "count": 40222
+    "count": 34345
    },
    {
     "code": "MX",
-    "count": 20870
+    "count": 15338
    },
    {
     "code": "CO",
-    "count": 20618
+    "count": 15171
    },
    {
     "code": "BZ",
-    "count": 18165
+    "count": 12632
    },
    {
     "code": "CR",
-    "count": 11870
+    "count": 8711
    },
    {
     "code": "EC",
-    "count": 8020
+    "count": 6056
    },
    {
     "code": "PY",
-    "count": 7510
+    "count": 5626
    },
    {
     "code": "PE",
-    "count": 6742
+    "count": 5306
    },
    {
     "code": "CU",
-    "count": 6402
+    "count": 4977
    },
    {
     "code": "UY",
-    "count": 6214
+    "count": 4702
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "antigone-canadensis",
  "name": "Antigone canadensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:45:11.486Z",
+ "fetchedAt": "2026-11-13T11:45:46.091Z",
  "names": {
   "da": null,
   "en": null,
@@ -14,7 +14,7 @@
  "wiki": null,
  "inat": {
   "id": 508048,
-  "observations": 86471
+  "observations": 87438
  },
  "photos": {
   "male": [
@@ -106,10 +106,10 @@
  },
  "gbif": {
   "key": 2474953,
-  "dkTotal": 959,
+  "dkTotal": 956,
   "dkMonths": [
-   245,
-   109,
+   243,
+   108,
    57,
    167,
    200,
@@ -121,57 +121,58 @@
    0,
    1
   ],
-  "worldTotal": 2496181,
+  "worldTotal": 2362364,
   "topCountries": [
    {
     "code": "US",
-    "count": 2209691
+    "count": 2097353
    },
    {
     "code": "CA",
-    "count": 279322
+    "count": 258324
    },
    {
     "code": "MX",
-    "count": 1772
+    "count": 1401
    },
    {
     "code": "DK",
-    "count": 959
-   },
-   {
-    "code": "JP",
-    "count": 869
+    "count": 956
    },
    {
     "code": "SE",
-    "count": 782
+    "count": 783
+   },
+   {
+    "code": "JP",
+    "count": 724
    },
    {
     "code": "RU",
-    "count": 678
+    "count": 629
    },
    {
     "code": "DE",
-    "count": 410
+    "count": 439
    },
    {
     "code": "NO",
-    "count": 306
-   },
-   {
-    "code": "CU",
-    "count": 247
+    "count": 304
    },
    {
     "code": "KR",
-    "count": 212
+    "count": 220
    },
    {
-    "code": "GB",
-    "count": 109
+    "code": "CU",
+    "count": 171
+   },
+   {
+    "code": "CR",
+    "count": 156
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

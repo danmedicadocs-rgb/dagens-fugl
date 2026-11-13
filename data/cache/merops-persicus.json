@@ -2,7 +2,7 @@
  "key": "merops-persicus",
  "name": "Merops persicus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:24.287Z",
+ "fetchedAt": "2026-11-13T11:31:55.864Z",
  "names": {
   "da": "Grøn Biæder",
   "en": "Blue-cheeked Bee-eater",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2245,
-  "observations": 3652
+  "observations": 3729
  },
  "photos": {
   "male": [],
@@ -68,14 +68,14 @@
     "date": "2026-03-28"
    },
    {
-    "id": 177546406,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177546406/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177546406/large.jpeg",
-    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
+    "id": 577988243,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577988243/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577988243/large.jpg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105771734",
-    "place": "Forécariah Prefecture, Guinea",
-    "date": "2022-01-23"
+    "source": "https://www.inaturalist.org/observations/319725607",
+    "place": "W9VM+VXG, Kattampally, Kerala 670011, India",
+    "date": "2025-07-09"
    }
   ],
   "hero": {
@@ -106,57 +106,58 @@
    0,
    0
   ],
-  "worldTotal": 82720,
+  "worldTotal": 77652,
   "topCountries": [
    {
-    "code": "IN",
-    "count": 14432
+    "code": "ZA",
+    "count": 12366
    },
    {
-    "code": "ZA",
-    "count": 12167
+    "code": "IN",
+    "count": 11689
    },
    {
     "code": "AE",
-    "count": 8148
+    "count": 7969
    },
    {
     "code": "IL",
-    "count": 4880
+    "count": 4330
    },
    {
     "code": "GM",
-    "count": 3727
+    "count": 3589
    },
    {
     "code": "TZ",
-    "count": 2794
-   },
-   {
-    "code": "MA",
-    "count": 2519
+    "count": 2627
    },
    {
     "code": "KE",
-    "count": 2426
-   },
-   {
-    "code": "KW",
-    "count": 2324
+    "count": 2350
    },
    {
     "code": "SN",
-    "count": 2304
+    "count": 2225
    },
    {
-    "code": "OM",
-    "count": 2296
+    "code": "MA",
+    "count": 2183
    },
    {
     "code": "BW",
-    "count": 2267
+    "count": 2170
+   },
+   {
+    "code": "OM",
+    "count": 2147
+   },
+   {
+    "code": "KW",
+    "count": 1873
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "theristicus-caudatus",
  "name": "Theristicus caudatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:39.211Z",
+ "fetchedAt": "2026-11-13T11:51:23.481Z",
  "names": {
   "da": "Brunnakket Ibis",
   "en": "Buff-necked Ibis",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3766,
-  "observations": 7392
+  "observations": 7530
  },
  "photos": {
   "male": [],
@@ -78,14 +78,14 @@
     "date": "2024-07-03"
    },
    {
-    "id": 537238361,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537238361/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537238361/large.jpg",
+    "id": 507018494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507018494/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507018494/large.jpg",
     "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/298269388",
-    "place": "São Paulo, BR",
-    "date": "2025-07-15"
+    "source": "https://www.inaturalist.org/observations/282223066",
+    "place": "Itajubá - MG, Brasil",
+    "date": "2025-05-17"
    }
   ],
   "hero": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 140863,
+  "worldTotal": 127675,
   "topCountries": [
    {
     "code": "BR",
-    "count": 76027
+    "count": 75325
    },
    {
     "code": "CO",
-    "count": 35715
+    "count": 29617
    },
    {
     "code": "AR",
-    "count": 15813
+    "count": 12193
    },
    {
     "code": "BO",
-    "count": 4313
+    "count": 3689
    },
    {
     "code": "UY",
-    "count": 2942
+    "count": 2244
    },
    {
     "code": "VE",
-    "count": 2145
+    "count": 1918
    },
    {
     "code": "PY",
-    "count": 1956
+    "count": 1449
    },
    {
     "code": "GY",
-    "count": 1851
+    "count": 1127
    },
    {
     "code": "CL",
     "count": 25
    },
    {
+    "code": "GF",
+    "count": 23
+   },
+   {
     "code": "DE",
     "count": 11
    },
    {
-    "code": "GF",
-    "count": 10
-   },
-   {
     "code": "PE",
-    "count": 3
+    "count": 2
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

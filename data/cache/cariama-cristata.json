@@ -2,7 +2,7 @@
  "key": "cariama-cristata",
  "name": "Cariama cristata",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:24.989Z",
+ "fetchedAt": "2026-11-13T11:50:17.667Z",
  "names": {
   "da": "Rødbenet seriema",
   "en": "Red-legged Seriema",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14,
-  "observations": 4934
+  "observations": 5022
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 425922440,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922440/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425922440/large.jpeg",
-   "attribution": "(c) Filipi Miranda Soares, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/239172074",
-   "place": "São Bartolomeu, Ouro Preto - MG, 35400-000, Brasil",
-   "date": "2024-09-01"
+   "id": 141343017,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141343017/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141343017/large.jpg",
+   "attribution": "(c) Tsui, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/141343017",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,27 +85,27 @@
    0,
    0
   ],
-  "worldTotal": 65992,
+  "worldTotal": 60310,
   "topCountries": [
    {
     "code": "BR",
-    "count": 55751
+    "count": 52469
    },
    {
     "code": "AR",
-    "count": 6299
+    "count": 4632
    },
    {
     "code": "BO",
-    "count": 1482
-   },
-   {
-    "code": "PY",
-    "count": 1144
+    "count": 1241
    },
    {
     "code": "UY",
-    "count": 1136
+    "count": 928
+   },
+   {
+    "code": "PY",
+    "count": 862
    },
    {
     "code": "DE",
@@ -137,5 +137,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

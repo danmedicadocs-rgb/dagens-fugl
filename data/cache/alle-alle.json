@@ -2,7 +2,7 @@
  "key": "alle-alle",
  "name": "Alle alle",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:29.945Z",
+ "fetchedAt": "2026-11-13T11:16:35.057Z",
  "names": {
   "da": "Søkonge",
   "en": "Little Auk",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4524,
-  "observations": 2072
+  "observations": 2088
  },
  "photos": {
   "male": [],
@@ -37,6 +37,16 @@
     "date": "2023-12-31"
    },
    {
+    "id": 521401545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521401545/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521401545/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/289871602",
+    "place": "Spitsbergen, Longyearbyen, Svalbard, NO",
+    "date": "2025-06-15"
+   },
+   {
     "id": 110758403,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110758403/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110758403/large.jpeg",
@@ -45,16 +55,6 @@
     "source": "https://www.inaturalist.org/observations/68406860",
     "place": "Virginia Beach, VA, USA",
     "date": "2021-01-18"
-   },
-   {
-    "id": 412759622,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412759622/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412759622/large.jpeg",
-    "attribution": "(c) Valentin Moser, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/232351956",
-    "place": "Jan Mayen, SJ",
-    "date": "2024-06-01"
    }
   ],
   "hero": {
@@ -70,72 +70,73 @@
  },
  "gbif": {
   "key": 2481299,
-  "dkTotal": 10600,
+  "dkTotal": 10632,
   "dkMonths": [
    1063,
-   864,
-   289,
+   862,
+   288,
    32,
    13,
    14,
    27,
    4,
    38,
-   3013,
-   4135,
-   1094
+   3039,
+   4145,
+   1092
   ],
-  "worldTotal": 131121,
+  "worldTotal": 126373,
   "topCountries": [
    {
-    "code": "US",
-    "count": 27811
+    "code": "NO",
+    "count": 27859
    },
    {
-    "code": "NO",
-    "count": 27606
+    "code": "US",
+    "count": 22040
    },
    {
     "code": "SE",
-    "count": 16133
+    "count": 16150
    },
    {
     "code": "CA",
-    "count": 15480
+    "count": 15375
    },
    {
     "code": "DK",
-    "count": 10600
+    "count": 10632
    },
    {
     "code": "SJ",
-    "count": 8966
+    "count": 9181
    },
    {
     "code": "GB",
-    "count": 8108
+    "count": 8470
    },
    {
     "code": "NL",
-    "count": 6581
+    "count": 6605
    },
    {
     "code": "GL",
-    "count": 4231
-   },
-   {
-    "code": "IS",
-    "count": 663
+    "count": 4355
    },
    {
     "code": "BE",
-    "count": 632
+    "count": 648
    },
    {
     "code": "FR",
-    "count": 628
+    "count": 637
+   },
+   {
+    "code": "IS",
+    "count": 621
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

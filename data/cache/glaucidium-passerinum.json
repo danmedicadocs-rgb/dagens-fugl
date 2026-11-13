@@ -2,7 +2,7 @@
  "key": "glaucidium-passerinum",
  "name": "Glaucidium passerinum",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:14.656Z",
+ "fetchedAt": "2026-11-13T11:17:55.709Z",
  "names": {
   "da": "Spurveugle",
   "en": "Eurasian Pygmy Owlet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19848,
-  "observations": 3097
+  "observations": 3203
  },
  "photos": {
   "male": [
@@ -68,84 +68,85 @@
    }
   ],
   "hero": {
-   "id": 579412202,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579412202/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579412202/large.jpg",
-   "attribution": "(c) Andrejus Gaidamavičius, some rights reserved (CC BY)",
+   "id": 104477473,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104477473/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104477473/large.jpg",
+   "attribution": "(c) Mikhail Nevsky, some rights reserved (CC BY), uploaded by Mikhail Nevsky",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/320473640",
-   "place": "Labanoro regioninis parkas, Lakajų kraštovaizdžio draustinis, Ščiūrio rago pažintinis takas, Molėtų r. sav., Lietuva",
-   "date": "2025-10-11"
+   "source": "https://www.inaturalist.org/photos/104477473",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5232162,
-  "dkTotal": 1935,
+  "dkTotal": 1931,
   "dkMonths": [
    262,
    280,
-   567,
-   101,
+   563,
+   99,
    1,
    1,
    1,
    0,
    0,
    29,
-   494,
+   496,
    195
   ],
-  "worldTotal": 218485,
+  "worldTotal": 221947,
   "topCountries": [
    {
     "code": "SE",
-    "count": 87930
+    "count": 88453
    },
    {
     "code": "FI",
-    "count": 80682
+    "count": 83807
    },
    {
     "code": "NO",
-    "count": 16895
+    "count": 17138
    },
    {
     "code": "FR",
-    "count": 13563
+    "count": 13654
    },
    {
     "code": "EE",
-    "count": 4821
+    "count": 4866
    },
    {
     "code": "RU",
-    "count": 2719
+    "count": 2777
    },
    {
     "code": "DK",
-    "count": 1935
+    "count": 1931
    },
    {
     "code": "DE",
-    "count": 1620
+    "count": 1753
    },
    {
     "code": "AT",
-    "count": 1554
-   },
-   {
-    "code": "PL",
-    "count": 1260
+    "count": 1483
    },
    {
     "code": "NL",
-    "count": 1114
+    "count": 1121
    },
    {
     "code": "CZ",
-    "count": 832
+    "count": 814
+   },
+   {
+    "code": "CH",
+    "count": 650
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

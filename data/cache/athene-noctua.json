@@ -2,7 +2,7 @@
  "key": "athene-noctua",
  "name": "Athene noctua",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:22.781Z",
+ "fetchedAt": "2026-11-13T11:17:19.269Z",
  "names": {
   "da": "Kirkeugle",
   "en": "Little Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19998,
-  "observations": 20962
+  "observations": 21232
  },
  "photos": {
   "male": [
@@ -113,70 +113,71 @@
   "key": 2497266,
   "dkTotal": 1997,
   "dkMonths": [
-   145,
-   152,
-   269,
-   380,
+   144,
+   153,
+   267,
+   379,
    296,
-   226,
-   196,
-   66,
+   225,
+   201,
+   65,
    57,
    80,
    41,
    24
   ],
-  "worldTotal": 653608,
+  "worldTotal": 662497,
   "topCountries": [
    {
     "code": "NL",
-    "count": 177161
+    "count": 179516
    },
    {
     "code": "ES",
-    "count": 116680
+    "count": 116017
    },
    {
     "code": "FR",
-    "count": 105049
+    "count": 106072
    },
    {
     "code": "GB",
-    "count": 47680
+    "count": 51628
    },
    {
     "code": "BE",
-    "count": 41037
+    "count": 42234
    },
    {
     "code": "PT",
-    "count": 38639
+    "count": 36967
    },
    {
     "code": "IT",
-    "count": 18653
+    "count": 21179
    },
    {
     "code": "DE",
-    "count": 12942
+    "count": 13455
    },
    {
     "code": "TR",
-    "count": 12694
+    "count": 12299
    },
    {
     "code": "IL",
-    "count": 11245
+    "count": 10952
    },
    {
     "code": "GR",
-    "count": 9723
+    "count": 9696
    },
    {
-    "code": "MA",
-    "count": 5674
+    "code": "BG",
+    "count": 5490
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

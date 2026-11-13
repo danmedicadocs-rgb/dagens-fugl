@@ -2,7 +2,7 @@
  "key": "regulus-regulus",
  "name": "Regulus regulus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:43.206Z",
+ "fetchedAt": "2026-11-13T11:20:02.810Z",
  "names": {
   "da": "Fuglekonge",
   "en": "Goldcrest",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 793469,
-  "observations": 34783
+  "observations": 35345
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2022-04-10"
    },
    {
-    "id": 738761164,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/738761164/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/738761164/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "id": 168243293,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168243293/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168243293/large.jpeg",
+    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/402423633",
-    "place": "Šapnagiai, Akmenės r. sav., Lietuva",
-    "date": "2026-09-22"
+    "source": "https://www.inaturalist.org/observations/100487378",
+    "place": "Краснодарский край, Россия, 354393",
+    "date": "2021-11-07"
    }
   ],
   "female": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 337852492,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337852492/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337852492/large.jpeg",
-   "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/192455085",
-   "place": "Chester Zoo Nature Reserve",
-   "date": "2023-11-25"
+   "id": 339460964,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339460964/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339460964/large.jpg",
+   "attribution": "(c) Cliff Watkinson, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/339460964",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2484596,
-  "dkTotal": 172496,
+  "dkTotal": 174461,
   "dkMonths": [
-   16036,
-   11389,
-   18864,
-   18897,
-   9395,
-   5478,
-   3470,
-   4718,
-   15431,
-   38631,
-   17860,
-   12202
+   16122,
+   11477,
+   18937,
+   18885,
+   9379,
+   5507,
+   3510,
+   4808,
+   15593,
+   39684,
+   18144,
+   12290
   ],
-  "worldTotal": 4005515,
+  "worldTotal": 4158459,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1344348
+    "count": 1351758
    },
    {
     "code": "FI",
-    "count": 542022
+    "count": 560557
    },
    {
     "code": "GB",
-    "count": 397509
+    "count": 464656
    },
    {
     "code": "PL",
-    "count": 316588
+    "count": 322799
    },
    {
     "code": "NL",
-    "count": 273994
+    "count": 278236
    },
    {
     "code": "NO",
-    "count": 196495
+    "count": 200260
    },
    {
     "code": "DK",
-    "count": 172496
+    "count": 174461
    },
    {
     "code": "FR",
-    "count": 164022
+    "count": 169682
    },
    {
     "code": "AX",
-    "count": 155943
-   },
-   {
-    "code": "BE",
-    "count": 84889
+    "count": 156462
    },
    {
     "code": "DE",
-    "count": 80341
+    "count": 89284
+   },
+   {
+    "code": "BE",
+    "count": 88062
    },
    {
     "code": "IT",
-    "count": 32323
+    "count": 36367
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calidris-alpina",
  "name": "Calidris alpina",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:48.101Z",
+ "fetchedAt": "2026-11-13T11:11:54.676Z",
  "names": {
   "da": "Almindelig ryle",
   "en": "Dunlin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3857,
-  "observations": 57316
+  "observations": 58553
  },
  "photos": {
   "male": [
@@ -90,72 +90,73 @@
  },
  "gbif": {
   "key": 2481759,
-  "dkTotal": 268997,
+  "dkTotal": 270522,
   "dkMonths": [
-   10515,
-   8787,
-   13554,
-   12310,
-   19012,
-   6812,
-   49810,
-   55100,
-   43450,
-   30463,
-   11907,
-   7048
+   10530,
+   8801,
+   13564,
+   12323,
+   19024,
+   6852,
+   49902,
+   55204,
+   43572,
+   31437,
+   12024,
+   7057
   ],
-  "worldTotal": 3449240,
+  "worldTotal": 3280898,
   "topCountries": [
    {
     "code": "US",
-    "count": 1069319
+    "count": 903096
    },
    {
     "code": "SE",
-    "count": 617327
-   },
-   {
-    "code": "DK",
-    "count": 268997
+    "count": 618754
    },
    {
     "code": "GB",
-    "count": 254901
+    "count": 282219
    },
    {
-    "code": "CA",
-    "count": 181306
+    "code": "DK",
+    "count": 270522
    },
    {
     "code": "NO",
-    "count": 158566
+    "count": 159278
+   },
+   {
+    "code": "CA",
+    "count": 158608
    },
    {
     "code": "ES",
-    "count": 146986
+    "count": 138936
    },
    {
     "code": "NL",
-    "count": 102287
+    "count": 110276
    },
    {
     "code": "FR",
-    "count": 97908
+    "count": 100464
    },
    {
     "code": "FI",
-    "count": 76428
-   },
-   {
-    "code": "TW",
-    "count": 70097
+    "count": 78489
    },
    {
     "code": "PL",
-    "count": 67719
+    "count": 69509
+   },
+   {
+    "code": "TW",
+    "count": 58695
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

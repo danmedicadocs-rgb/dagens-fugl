@@ -2,7 +2,7 @@
  "key": "coccothraustes-coccothraustes",
  "name": "Coccothraustes coccothraustes",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:48.161Z",
+ "fetchedAt": "2026-11-13T11:26:57.261Z",
  "names": {
   "da": "Kernebider",
   "en": "Hawfinch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9801,
-  "observations": 33871
+  "observations": 34173
  },
  "photos": {
   "male": [
@@ -56,14 +56,14 @@
   ],
   "female": [
    {
-    "id": 61916133,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61916133/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61916133/large.jpeg",
-    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39019992",
-    "place": "Siebenhirten, 1230 Wien, Österreich",
-    "date": "2020-02-21"
+    "id": 358767531,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358767531/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358767531/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/203038387",
+    "place": "Михайловка, Нефтекамск, респ. Башкортостан, Россия",
+    "date": "2024-02-20"
    },
    {
     "id": 631482162,
@@ -76,14 +76,14 @@
     "date": "2026-03-29"
    },
    {
-    "id": 358767531,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358767531/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358767531/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/203038387",
-    "place": "Михайловка, Нефтекамск, респ. Башкортостан, Россия",
-    "date": "2024-02-20"
+    "id": 61916133,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61916133/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61916133/large.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/39019992",
+    "place": "Siebenhirten, 1230 Wien, Österreich",
+    "date": "2020-02-21"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 29844910,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29844910/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29844910/large.jpg",
-   "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
+   "id": 187021691,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187021691/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187021691/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/19404181",
-   "place": "Москва, Россия, 117593",
-   "date": "2018-04-15"
+   "source": "https://www.inaturalist.org/photos/187021691",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494329,
-  "dkTotal": 109861,
+  "dkTotal": 110353,
   "dkMonths": [
-   13430,
-   12862,
-   18109,
-   15915,
-   14850,
-   6760,
-   2849,
-   2143,
-   2589,
-   6579,
-   5763,
-   7950
+   13465,
+   12912,
+   18158,
+   15967,
+   14866,
+   6766,
+   2857,
+   2148,
+   2594,
+   6789,
+   5814,
+   7955
   ],
-  "worldTotal": 1397764,
+  "worldTotal": 1438995,
   "topCountries": [
    {
     "code": "SE",
-    "count": 414674
+    "count": 417451
    },
    {
     "code": "FR",
-    "count": 194784
+    "count": 198065
    },
    {
     "code": "DE",
-    "count": 139951
-   },
-   {
-    "code": "DK",
-    "count": 109861
+    "count": 147460
    },
    {
     "code": "NL",
-    "count": 109123
+    "count": 110470
+   },
+   {
+    "code": "DK",
+    "count": 110353
    },
    {
     "code": "NO",
-    "count": 98846
+    "count": 100000
    },
    {
     "code": "ES",
-    "count": 58321
+    "count": 59013
    },
    {
     "code": "PL",
-    "count": 27599
-   },
-   {
-    "code": "RU",
-    "count": 26744
+    "count": 34072
    },
    {
     "code": "CZ",
-    "count": 26260
+    "count": 29128
+   },
+   {
+    "code": "RU",
+    "count": 27053
    },
    {
     "code": "BE",
-    "count": 23690
+    "count": 25037
    },
    {
     "code": "GB",
-    "count": 14789
+    "count": 16604
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

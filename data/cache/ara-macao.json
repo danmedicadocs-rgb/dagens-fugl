@@ -2,7 +2,7 @@
  "key": "ara-macao",
  "name": "Ara macao",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:47:43.296Z",
+ "fetchedAt": "2026-11-13T11:47:28.635Z",
  "names": {
   "da": "Lyserød Ara",
   "en": "Scarlet macaw",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19022,
-  "observations": 14854
+  "observations": 15038
  },
  "photos": {
   "male": [],
@@ -48,16 +48,6 @@
     "date": "2025-10-29"
    },
    {
-    "id": 523869500,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/291177977",
-    "place": "Rio Branco, BR-AC, BR",
-    "date": "2025-06-13"
-   },
-   {
     "id": 456718272,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456718272/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456718272/large.jpg",
@@ -66,6 +56,16 @@
     "source": "https://www.inaturalist.org/observations/254918218",
     "place": "Antioquia, CO",
     "date": "2016-02-04"
+   },
+   {
+    "id": 523869500,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/291177977",
+    "place": "Rio Branco, BR-AC, BR",
+    "date": "2025-06-13"
    }
   ],
   "hero": {
@@ -96,57 +96,58 @@
    0,
    0
   ],
-  "worldTotal": 154581,
+  "worldTotal": 133270,
   "topCountries": [
    {
     "code": "CR",
-    "count": 102348
+    "count": 87991
    },
    {
     "code": "PE",
-    "count": 14487
+    "count": 12963
    },
    {
     "code": "CO",
-    "count": 11901
+    "count": 9496
    },
    {
     "code": "BR",
-    "count": 10645
+    "count": 9251
    },
    {
     "code": "EC",
-    "count": 6228
-   },
-   {
-    "code": "GY",
-    "count": 2101
+    "count": 5558
    },
    {
     "code": "VE",
-    "count": 2033
+    "count": 1703
+   },
+   {
+    "code": "GY",
+    "count": 1475
    },
    {
     "code": "GF",
-    "count": 802
+    "count": 817
    },
    {
     "code": "PA",
-    "count": 780
+    "count": 697
    },
    {
     "code": "SR",
-    "count": 598
+    "count": 607
    },
    {
     "code": "MX",
-    "count": 584
+    "count": 586
    },
    {
     "code": "BO",
-    "count": 459
+    "count": 491
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

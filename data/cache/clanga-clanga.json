@@ -2,7 +2,7 @@
  "key": "clanga-clanga",
  "name": "Clanga clanga",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:02:29.401Z",
+ "fetchedAt": "2026-11-13T11:09:06.354Z",
  "names": {
   "da": "Stor Skrigeørn",
   "en": "Greater Spotted Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 201035,
-  "observations": 5761
+  "observations": 5898
  },
  "photos": {
   "male": [],
@@ -36,6 +36,16 @@
     "date": "2019-12-13"
    },
    {
+    "id": 349111238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349111238/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349111238/large.jpeg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/198116137",
+    "place": "Perak, MY",
+    "date": "2024-01-08"
+   },
+   {
     "id": 92258109,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92258109/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92258109/large.jpeg",
@@ -44,69 +54,59 @@
     "source": "https://www.inaturalist.org/observations/57818238",
     "place": "Dhofar, OM",
     "date": "2010-10-30"
-   },
-   {
-    "id": 563603054,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563603054/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563603054/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/312179736",
-    "place": "Udmurt, RU",
-    "date": "2025-09-07"
    }
   ],
   "adult": [
    {
-    "id": 612686571,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612686571/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612686571/large.jpg",
-    "attribution": "(c) Swarochi Tathagath, some rights reserved (CC BY)",
+    "id": 259087816,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259087816/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259087816/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/337079090",
-    "place": "Pune, IN-MH, IN",
-    "date": "2026-02-01"
+    "source": "https://www.inaturalist.org/observations/150275380",
+    "place": "Maharashtra, IN",
+    "date": "2019-12-08"
    },
    {
-    "id": 286411943,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286411943/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286411943/large.jpg",
-    "attribution": "(c) avocat, some rights reserved (CC BY)",
+    "id": 462278591,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462278591/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462278591/large.jpeg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/165455811",
-    "place": "Rajasthan, IN",
-    "date": "2023-02-11"
+    "source": "https://www.inaturalist.org/observations/257675580",
+    "place": "Perak, MY",
+    "date": "2024-12-17"
    },
    {
-    "id": 231652932,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231652932/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231652932/large.jpeg",
-    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
+    "id": 610162593,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610162593/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610162593/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/135791229",
-    "place": "East Macedonia and Thrace, Macedonia and Thrace, GR",
-    "date": "2013-01-01"
+    "source": "https://www.inaturalist.org/observations/335829098",
+    "place": "Gujarat, IN",
+    "date": "2026-01-17"
    }
   ],
   "hero": {
-   "id": 612686571,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612686571/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612686571/large.jpg",
-   "attribution": "(c) Swarochi Tathagath, some rights reserved (CC BY)",
+   "id": 57957069,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57957069/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57957069/large.jpg",
+   "attribution": "(c) Koshy Koshy, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/337079090",
-   "place": "Pune, IN-MH, IN",
-   "date": "2026-02-01"
+   "source": "https://www.inaturalist.org/photos/57957069",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480509,
-  "dkTotal": 1653,
+  "dkTotal": 1643,
   "dkMonths": [
    44,
    25,
    41,
-   636,
+   626,
    363,
    8,
    0,
@@ -116,15 +116,15 @@
    78,
    30
   ],
-  "worldTotal": 248821,
+  "worldTotal": 238571,
   "topCountries": [
    {
     "code": "IN",
-    "count": 38682
+    "count": 30286
    },
    {
     "code": "GR",
-    "count": 25986
+    "count": 25638
    },
    {
     "code": "SD",
@@ -132,23 +132,23 @@
    },
    {
     "code": "TR",
-    "count": 19206
+    "count": 19002
    },
    {
     "code": "IL",
-    "count": 15164
+    "count": 14867
    },
    {
     "code": "EG",
-    "count": 12588
+    "count": 12583
    },
    {
     "code": "ES",
-    "count": 12448
+    "count": 12326
    },
    {
     "code": "ET",
-    "count": 8111
+    "count": 8093
    },
    {
     "code": "SS",
@@ -156,17 +156,18 @@
    },
    {
     "code": "UA",
-    "count": 7685
+    "count": 7796
    },
    {
     "code": "SE",
-    "count": 7615
+    "count": 7646
    },
    {
     "code": "AE",
-    "count": 7285
+    "count": 7315
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

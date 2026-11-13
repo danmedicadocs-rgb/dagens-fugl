@@ -2,7 +2,7 @@
  "key": "pyrrhocorax-graculus",
  "name": "Pyrrhocorax graculus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:50.030Z",
+ "fetchedAt": "2026-11-13T11:29:40.485Z",
  "names": {
   "da": "Alpeallike",
   "en": "Alpine Chough",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8350,
-  "observations": 12928
+  "observations": 13078
  },
  "photos": {
   "male": [],
@@ -68,25 +68,25 @@
     "date": "2023-10-06"
    },
    {
-    "id": 116968509,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116968509/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116968509/large.jpeg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
+    "id": 715431818,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715431818/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715431818/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/71806600",
-    "place": "55030 Вальи-Сотто, Лукка, Италия",
-    "date": "2018-06-26"
+    "source": "https://www.inaturalist.org/observations/390508230",
+    "place": "Kazbegi Municipality, Georgia",
+    "date": "2026-08-07"
    }
   ],
   "hero": {
-   "id": 111798407,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/large.jpg",
-   "attribution": "(c) rainerburkard, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/68963903",
-   "place": "Hungerberg, 6020 Innsbruck, Österreich",
-   "date": "2020-08-07"
+   "id": 147054199,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147054199/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147054199/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Dario Taraborelli",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/147054199",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -106,57 +106,58 @@
    0,
    0
   ],
-  "worldTotal": 110254,
+  "worldTotal": 114588,
   "topCountries": [
    {
     "code": "FR",
-    "count": 36012
+    "count": 36943
    },
    {
     "code": "ES",
-    "count": 15408
+    "count": 14636
    },
    {
     "code": "CH",
-    "count": 11412
+    "count": 12756
    },
    {
     "code": "AT",
-    "count": 11398
+    "count": 12113
    },
    {
     "code": "IT",
-    "count": 9132
+    "count": 10649
    },
    {
     "code": "IN",
-    "count": 6001
+    "count": 5833
    },
    {
     "code": "DE",
-    "count": 3773
+    "count": 4378
    },
    {
     "code": "MA",
-    "count": 2482
-   },
-   {
-    "code": "GE",
-    "count": 1843
-   },
-   {
-    "code": "TR",
-    "count": 1762
+    "count": 2306
    },
    {
     "code": "NP",
-    "count": 1563
+    "count": 1802
+   },
+   {
+    "code": "GE",
+    "count": 1753
+   },
+   {
+    "code": "TR",
+    "count": 1727
    },
    {
     "code": "CN",
-    "count": 1251
+    "count": 1184
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

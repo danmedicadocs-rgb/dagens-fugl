@@ -2,7 +2,7 @@
  "key": "opisthocomus-hoazin",
  "name": "Opisthocomus hoazin",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:19.520Z",
+ "fetchedAt": "2026-11-13T11:47:53.118Z",
  "names": {
   "da": "Hoatzin",
   "en": "Hoatzin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1626,
-  "observations": 4430
+  "observations": 4536
  },
  "photos": {
   "male": [],
@@ -75,43 +75,43 @@
    0,
    0
   ],
-  "worldTotal": 63521,
+  "worldTotal": 52338,
   "topCountries": [
    {
-    "code": "CO",
-    "count": 18782
-   },
-   {
     "code": "EC",
-    "count": 18053
+    "count": 15129
    },
    {
     "code": "PE",
-    "count": 15848
+    "count": 13952
+   },
+   {
+    "code": "CO",
+    "count": 13918
    },
    {
     "code": "BR",
-    "count": 5075
+    "count": 4426
    },
    {
     "code": "BO",
-    "count": 2416
+    "count": 2151
    },
    {
     "code": "VE",
-    "count": 2251
+    "count": 1848
    },
    {
     "code": "GY",
-    "count": 826
+    "count": 627
    },
    {
     "code": "GF",
-    "count": 113
+    "count": 121
    },
    {
     "code": "SR",
-    "count": 34
+    "count": 40
    },
    {
     "code": "ZZ",
@@ -127,5 +127,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

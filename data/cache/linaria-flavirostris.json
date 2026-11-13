@@ -2,7 +2,7 @@
  "key": "linaria-flavirostris",
  "name": "Linaria flavirostris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:19.669Z",
+ "fetchedAt": "2026-11-13T11:27:24.523Z",
  "names": {
   "da": "Bjergirisk",
   "en": "Twite",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 558633,
-  "observations": 2224
+  "observations": 2270
  },
  "photos": {
   "male": [],
@@ -49,72 +49,73 @@
  },
  "gbif": {
   "key": 7668711,
-  "dkTotal": 61060,
+  "dkTotal": 61840,
   "dkMonths": [
-   9329,
-   5998,
-   6081,
+   9345,
+   6015,
+   6088,
    4254,
-   328,
+   329,
    7,
    1,
    2,
    33,
-   15466,
-   12448,
-   7077
+   16066,
+   12579,
+   7085
   ],
-  "worldTotal": 317231,
+  "worldTotal": 323189,
   "topCountries": [
    {
     "code": "SE",
-    "count": 122595
+    "count": 124314
    },
    {
     "code": "NO",
-    "count": 69111
+    "count": 70113
    },
    {
     "code": "DK",
-    "count": 61060
+    "count": 61840
    },
    {
     "code": "GB",
-    "count": 27189
+    "count": 29002
    },
    {
     "code": "NL",
-    "count": 15596
-   },
-   {
-    "code": "IN",
-    "count": 3378
+    "count": 15925
    },
    {
     "code": "CN",
-    "count": 2915
+    "count": 2953
+   },
+   {
+    "code": "IN",
+    "count": 2724
    },
    {
     "code": "DE",
-    "count": 2281
+    "count": 2524
    },
    {
     "code": "BE",
-    "count": 1762
+    "count": 1785
    },
    {
     "code": "PL",
-    "count": 1454
-   },
-   {
-    "code": "GE",
-    "count": 1430
+    "count": 1700
    },
    {
     "code": "FI",
-    "count": 1210
+    "count": 1493
+   },
+   {
+    "code": "GE",
+    "count": 1298
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "thraupis-episcopus",
  "name": "Thraupis episcopus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:57.652Z",
+ "fetchedAt": "2026-11-13T11:48:23.429Z",
  "names": {
   "da": "Blågrå Tangar",
   "en": "Blue-grey Tanager",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10295,
-  "observations": 30215
+  "observations": 30589
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2019-05-15"
    },
    {
-    "id": 562469170,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/562469170/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/562469170/large.jpg",
-    "attribution": "(c) Abraham AV, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/311577130",
-    "place": "La Cruz, Provincia de Guanacaste, La Cruz, Costa Rica",
-    "date": "2025-09-04"
-   },
-   {
     "id": 347026423,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347026423/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347026423/large.jpeg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/197085311",
     "place": "Tobia, Nimaima, Cundinamarca, Colombia",
     "date": "2024-01-03"
+   },
+   {
+    "id": 562469170,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/562469170/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/562469170/large.jpg",
+    "attribution": "(c) Abraham AV, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/311577130",
+    "place": "La Cruz, Provincia de Guanacaste, La Cruz, Costa Rica",
+    "date": "2025-09-04"
    }
   ],
   "female": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 38997136,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38997136/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38997136/large.jpg",
-   "attribution": "(c) Aitor, some rights reserved (CC BY)",
+   "id": 129597018,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129597018/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/129597018/large.jpeg",
+   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/25192927",
-   "place": "Provincia de Panamá, , Provincia de Panamá, PA",
-   "date": "2019-05-15"
+   "source": "https://www.inaturalist.org/photos/129597018",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 1463670,
+  "worldTotal": 1231150,
   "topCountries": [
    {
     "code": "CO",
-    "count": 397010
+    "count": 326731
    },
    {
     "code": "CR",
-    "count": 366249
+    "count": 310139
    },
    {
     "code": "PA",
-    "count": 141842
+    "count": 119457
    },
    {
     "code": "EC",
-    "count": 133370
+    "count": 107925
    },
    {
     "code": "VE",
-    "count": 108622
+    "count": 102305
    },
    {
     "code": "PE",
-    "count": 77642
+    "count": 66116
    },
    {
     "code": "BZ",
-    "count": 45885
+    "count": 38283
    },
    {
     "code": "MX",
-    "count": 42062
+    "count": 31671
    },
    {
     "code": "GT",
-    "count": 28659
-   },
-   {
-    "code": "NI",
-    "count": 24925
+    "count": 23856
    },
    {
     "code": "BR",
-    "count": 24257
+    "count": 22199
+   },
+   {
+    "code": "NI",
+    "count": 20707
    },
    {
     "code": "HN",
-    "count": 23583
+    "count": 18127
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

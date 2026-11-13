@@ -2,7 +2,7 @@
  "key": "pygoscelis-papua",
  "name": "Pygoscelis papua",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:29.928Z",
+ "fetchedAt": "2026-11-13T11:41:01.018Z",
  "names": {
   "da": "Æselpingvin",
   "en": "Gentoo Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3808,
-  "observations": 5673
+  "observations": 5817
  },
  "photos": {
   "male": [],
@@ -36,6 +36,16 @@
     "date": "2004-01-12"
    },
    {
+    "id": 6414054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414054/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414054/large.jpeg",
+    "attribution": "(c) Alex Fergus, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/5197681",
+    "place": "Australia",
+    "date": "2017-01-21"
+   },
+   {
     "id": 6729477,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6729477/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6729477/large.jpg",
@@ -44,16 +54,6 @@
     "source": "https://www.inaturalist.org/observations/5389615",
     "place": "Antarctica",
     "date": "2017-02-09"
-   },
-   {
-    "id": 466892473,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892473/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892473/large.jpg",
-    "attribution": "(c) Ryan F. Mandelbaum, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/260030481",
-    "place": "South Georgia and the South Sandwich Islands",
-    "date": "2024-12-14"
    }
   ],
   "adult": [
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 601892981,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/331750763",
-   "place": "Neko Harbor, Antarctica",
-   "date": "2025-12-20"
+   "id": 6414042,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414042/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414042/large.jpeg",
+   "attribution": "(c) Alex Fergus, some rights reserved (CC BY), uploaded by Alex Fergus",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/6414042",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,39 +116,43 @@
    1,
    0
   ],
-  "worldTotal": 31629,
+  "worldTotal": 28973,
   "topCountries": [
    {
     "code": "AQ",
-    "count": 17872
-   },
-   {
-    "code": "GS",
-    "count": 5223
+    "count": 16748
    },
    {
     "code": "FK",
-    "count": 4989
+    "count": 4814
+   },
+   {
+    "code": "GS",
+    "count": 4010
    },
    {
     "code": "AR",
-    "count": 1190
+    "count": 1095
    },
    {
     "code": "AU",
-    "count": 748
+    "count": 680
    },
    {
     "code": "TF",
-    "count": 455
+    "count": 451
    },
    {
     "code": "CL",
-    "count": 418
+    "count": 399
    },
    {
     "code": "HM",
     "count": 123
+   },
+   {
+    "code": "ZZ",
+    "count": 86
    },
    {
     "code": "GB",
@@ -156,11 +160,7 @@
    },
    {
     "code": "ZA",
-    "count": 56
-   },
-   {
-    "code": "ZZ",
-    "count": 36
+    "count": 49
    },
    {
     "code": "US",
@@ -168,5 +168,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

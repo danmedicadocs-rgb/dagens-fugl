@@ -2,7 +2,7 @@
  "key": "rallus-aquaticus",
  "name": "Rallus aquaticus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:34.692Z",
+ "fetchedAt": "2026-11-13T11:10:01.654Z",
  "names": {
   "da": "Vandrikse",
   "en": "Brown-cheeked rail",
@@ -31,72 +31,73 @@
  },
  "gbif": {
   "key": 2474831,
-  "dkTotal": 118630,
+  "dkTotal": 119701,
   "dkMonths": [
-   6907,
-   5713,
-   11206,
-   19448,
-   17296,
-   8699,
-   7321,
-   10713,
-   10174,
-   9375,
-   6470,
-   5238
+   6923,
+   5740,
+   11271,
+   19595,
+   17401,
+   8749,
+   7352,
+   10770,
+   10244,
+   9734,
+   6590,
+   5262
   ],
-  "worldTotal": 1049149,
+  "worldTotal": 1086434,
   "topCountries": [
    {
     "code": "SE",
-    "count": 225427
+    "count": 226446
    },
    {
     "code": "NL",
-    "count": 148865
-   },
-   {
-    "code": "DK",
-    "count": 118630
+    "count": 152147
    },
    {
     "code": "GB",
-    "count": 111521
+    "count": 129437
+   },
+   {
+    "code": "DK",
+    "count": 119701
    },
    {
     "code": "FR",
-    "count": 102639
+    "count": 105133
    },
    {
     "code": "ES",
-    "count": 89428
+    "count": 88044
    },
    {
     "code": "BE",
-    "count": 59281
-   },
-   {
-    "code": "NO",
-    "count": 32780
+    "count": 60843
    },
    {
     "code": "DE",
-    "count": 31582
+    "count": 34368
+   },
+   {
+    "code": "NO",
+    "count": 33416
    },
    {
     "code": "IT",
-    "count": 17273
+    "count": 19619
    },
    {
     "code": "PT",
-    "count": 15174
+    "count": 13962
    },
    {
-    "code": "IL",
-    "count": 9307
+    "code": "CH",
+    "count": 11430
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

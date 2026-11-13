@@ -2,7 +2,7 @@
  "key": "ramphastos-sulfuratus",
  "name": "Ramphastos sulfuratus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:47:36.924Z",
+ "fetchedAt": "2026-11-13T11:47:22.764Z",
  "names": {
   "da": "Kølnæbbet tukan",
   "en": "Keel-billed Toucan",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 18796,
-  "observations": 12024
+  "observations": 12220
  },
  "photos": {
   "male": [
+   {
+    "id": 512095204,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/512095204/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/512095204/large.jpg",
+    "attribution": "(c) My-Lan Le, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/284920176",
+    "place": "FW2M+J4R, Heredia Province, Puerto Viejo de Sarapiqui, Costa Rica",
+    "date": "2025-05-26"
+   },
    {
     "id": 550144065,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/medium.jpg",
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/297085223",
     "place": "Pejibaye, Provincia de Cartago, Jiménez, Costa Rica",
     "date": "2025-07-11"
-   },
-   {
-    "id": 512095204,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/512095204/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/512095204/large.jpg",
-    "attribution": "(c) My-Lan Le, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/284920176",
-    "place": "FW2M+J4R, Heredia Province, Puerto Viejo de Sarapiqui, Costa Rica",
-    "date": "2025-05-26"
    }
   ],
   "female": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 550144065,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550144065/large.jpg",
-   "attribution": "(c) Amelia Tauber, some rights reserved (CC BY)",
+   "id": 113228,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113228/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113228/large.jpg",
+   "attribution": "(c) Brian Gratwicke, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/305138962",
-   "place": "Cayo District, Belize",
-   "date": "2025-08-01"
+   "source": "https://www.inaturalist.org/photos/113228",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,47 +126,47 @@
    0,
    0
   ],
-  "worldTotal": 366133,
+  "worldTotal": 293870,
   "topCountries": [
    {
     "code": "CR",
-    "count": 154341
+    "count": 131995
    },
    {
     "code": "PA",
-    "count": 76715
+    "count": 57385
    },
    {
     "code": "BZ",
-    "count": 52779
+    "count": 42915
    },
    {
     "code": "MX",
-    "count": 28708
+    "count": 22910
    },
    {
     "code": "GT",
-    "count": 17791
-   },
-   {
-    "code": "HN",
-    "count": 14783
+    "count": 12541
    },
    {
     "code": "CO",
-    "count": 14631
+    "count": 11717
+   },
+   {
+    "code": "HN",
+    "count": 10063
    },
    {
     "code": "NI",
-    "count": 5843
+    "count": 3814
    },
    {
     "code": "VE",
-    "count": 100
+    "count": 77
    },
    {
     "code": "US",
-    "count": 60
+    "count": 71
    },
    {
     "code": "ZZ",
@@ -178,5 +178,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

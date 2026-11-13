@@ -2,7 +2,7 @@
  "key": "lagopus-lagopus",
  "name": "Lagopus lagopus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:48.296Z",
+ "fetchedAt": "2026-11-13T11:30:35.404Z",
  "names": {
   "da": "Dalrype",
   "en": "Willow Grouse",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 931,
-  "observations": 5434
+  "observations": 5494
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2025-06-09"
    },
    {
-    "id": 637986365,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637986365/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637986365/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/349712263",
-    "place": "9103 Skulsfjord, Norway",
-    "date": "2026-04-14"
+    "id": 711610534,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711610534/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711610534/large.jpg",
+    "attribution": "(c) Timo Walcher, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/388536337",
+    "place": "Jokkmokk, SE-NB, SE",
+    "date": "2026-08-04"
    }
   ],
   "juvenile": [
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 274557,
+  "worldTotal": 274883,
   "topCountries": [
    {
     "code": "NO",
-    "count": 129883
+    "count": 130128
    },
    {
     "code": "GB",
-    "count": 33772
-   },
-   {
-    "code": "US",
-    "count": 33026
+    "count": 36348
    },
    {
     "code": "SE",
-    "count": 31703
+    "count": 31789
+   },
+   {
+    "code": "US",
+    "count": 28490
    },
    {
     "code": "CA",
-    "count": 21778
+    "count": 20704
    },
    {
     "code": "FI",
-    "count": 12908
+    "count": 15990
    },
    {
     "code": "RU",
-    "count": 4724
+    "count": 4625
    },
    {
     "code": "IE",
-    "count": 2778
+    "count": 2789
    },
    {
     "code": "PL",
-    "count": 1096
+    "count": 1097
    },
    {
     "code": "EE",
-    "count": 614
+    "count": 618
    },
    {
     "code": "FR",
     "count": 613
    },
    {
-    "code": "IM",
-    "count": 119
+    "code": "KZ",
+    "count": 131
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

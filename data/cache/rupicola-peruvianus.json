@@ -2,7 +2,7 @@
  "key": "rupicola-peruvianus",
  "name": "Rupicola peruvianus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:13.698Z",
+ "fetchedAt": "2026-11-13T11:47:48.796Z",
  "names": {
   "da": "Rød Klippehane",
   "en": "Andean Cock-of-the-rock",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8877,
-  "observations": 3220
+  "observations": 3286
  },
  "photos": {
   "male": [
@@ -66,24 +66,24 @@
     "date": "2024-10-09"
    },
    {
-    "id": 14850392,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14850392/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14850392/large.jpg",
-    "attribution": "(c) Michael Bakker Paiva, some rights reserved (CC BY)",
+    "id": 334179480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334179480/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334179480/large.jpeg",
+    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/10645496",
-    "place": "Pastaza Province, Ecuador",
-    "date": "2018-03-12"
+    "source": "https://www.inaturalist.org/observations/190606435",
+    "place": "Location: -1.424950, -78.036400",
+    "date": "2023-11-09"
    },
    {
-    "id": 188938992,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188938992/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188938992/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/111889900",
-    "place": "Metropolitan District of Quito, Ecuador",
-    "date": "2022-04-01"
+    "id": 444140941,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444140941/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444140941/large.jpeg",
+    "attribution": "(c) Leonel Roget, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/248557653",
+    "place": "Urubamba, Perú",
+    "date": "2024-09-14"
    }
   ],
   "juvenile": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 97111,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97111/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97111/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/63229",
-   "place": "jardin, colombia",
-   "date": "2012-04-04"
+   "id": 239709541,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239709541/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239709541/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/239709541",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,27 +126,27 @@
    0,
    0
   ],
-  "worldTotal": 56867,
+  "worldTotal": 44462,
   "topCountries": [
    {
     "code": "EC",
-    "count": 23420
+    "count": 18907
    },
    {
     "code": "CO",
-    "count": 20296
+    "count": 14705
    },
    {
     "code": "PE",
-    "count": 12026
+    "count": 9802
    },
    {
     "code": "BO",
-    "count": 512
+    "count": 478
    },
    {
     "code": "VE",
-    "count": 301
+    "count": 257
    },
    {
     "code": "US",
@@ -174,5 +174,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

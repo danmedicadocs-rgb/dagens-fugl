@@ -2,7 +2,7 @@
  "key": "zonotrichia-capensis",
  "name": "Zonotrichia capensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:53:23.993Z",
+ "fetchedAt": "2026-11-13T11:51:55.868Z",
  "names": {
   "da": "Morgenværling",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9183,
-  "observations": 47221
+  "observations": 47956
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2020-11-07"
    },
    {
-    "id": 112178894,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112178894/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112178894/large.jpeg",
-    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69169827",
-    "place": "Parroquia Celiano Monge, Ambato, Ecuador",
-    "date": "2021-02-06"
-   },
-   {
     "id": 110018533,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110018533/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110018533/large.jpeg",
@@ -116,6 +106,16 @@
     "source": "https://www.inaturalist.org/observations/68006847",
     "place": "Parroquia Celiano Monge, Ambato, Ecuador",
     "date": "2019-08-01"
+   },
+   {
+    "id": 112178894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112178894/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112178894/large.jpeg",
+    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69169827",
+    "place": "Parroquia Celiano Monge, Ambato, Ecuador",
+    "date": "2021-02-06"
    }
   ],
   "hero": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 1588812,
+  "worldTotal": 1378230,
   "topCountries": [
    {
     "code": "AR",
-    "count": 323741
+    "count": 278911
    },
    {
     "code": "CO",
-    "count": 307808
+    "count": 254705
    },
    {
     "code": "CL",
-    "count": 242895
+    "count": 213767
    },
    {
     "code": "BR",
-    "count": 172520
+    "count": 169079
    },
    {
     "code": "CR",
-    "count": 169329
+    "count": 142000
    },
    {
     "code": "EC",
-    "count": 116702
+    "count": 92265
    },
    {
     "code": "PE",
-    "count": 97989
+    "count": 88045
    },
    {
     "code": "UY",
-    "count": 43887
+    "count": 38420
    },
    {
     "code": "GT",
-    "count": 34589
+    "count": 31771
    },
    {
     "code": "VE",
-    "count": 16988
+    "count": 15918
    },
    {
     "code": "BO",
-    "count": 16620
+    "count": 14372
    },
    {
     "code": "PA",
-    "count": 13883
+    "count": 11543
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "monticola-saxatilis",
  "name": "Monticola saxatilis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:37.304Z",
+ "fetchedAt": "2026-11-13T11:29:28.972Z",
  "names": {
   "da": "Stendrossel",
   "en": "Common Rock Thrush",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13140,
-  "observations": 3051
+  "observations": 3075
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2021-04-16"
    },
    {
-    "id": 224677658,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224677658/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224677658/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
+    "id": 612006918,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612006918/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612006918/large.jpg",
+    "attribution": "(c) Tamás Kiss, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/131974996",
-    "place": "Lara de los Infantes, Burgos, España",
-    "date": "2022-08-15"
+    "source": "https://www.inaturalist.org/observations/336747457",
+    "place": "Shkodër, Albania",
+    "date": "2021-07-06"
    }
   ],
   "female": [
@@ -119,26 +119,26 @@
    }
   ],
   "hero": {
-   "id": 92119054,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92119054/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92119054/large.jpg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/57734428",
-   "place": "87561 Oberstdorf, Deutschland",
-   "date": "2010-07-03"
+   "id": 740387467,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740387467/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740387467/large.jpg",
+   "attribution": "(c) Emanuele Santarelli, some rights reserved (CC BY-SA), uploaded by Emanuele Santarelli",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/740387467",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490956,
-  "dkTotal": 401,
+  "dkTotal": 399,
   "dkMonths": [
    0,
    0,
    0,
-   40,
+   39,
    8,
-   344,
+   343,
    0,
    0,
    0,
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 55788,
+  "worldTotal": 55052,
   "topCountries": [
    {
     "code": "FR",
-    "count": 13521
+    "count": 13604
    },
    {
     "code": "ES",
-    "count": 12865
+    "count": 12184
    },
    {
     "code": "KE",
-    "count": 4097
-   },
-   {
-    "code": "TR",
-    "count": 2655
+    "count": 3928
    },
    {
     "code": "AE",
-    "count": 2547
+    "count": 2489
    },
    {
-    "code": "PT",
-    "count": 1189
+    "code": "TR",
+    "count": 2467
    },
    {
-    "code": "IL",
-    "count": 1115
-   },
-   {
-    "code": "MN",
-    "count": 1070
-   },
-   {
-    "code": "CH",
-    "count": 1060
-   },
-   {
-    "code": "NL",
-    "count": 1051
+    "code": "AM",
+    "count": 1602
    },
    {
     "code": "IT",
-    "count": 942
+    "count": 1252
    },
    {
-    "code": "GE",
-    "count": 940
+    "code": "CH",
+    "count": 1156
+   },
+   {
+    "code": "NL",
+    "count": 1054
+   },
+   {
+    "code": "IL",
+    "count": 1029
+   },
+   {
+    "code": "PT",
+    "count": 1028
+   },
+   {
+    "code": "MN",
+    "count": 917
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

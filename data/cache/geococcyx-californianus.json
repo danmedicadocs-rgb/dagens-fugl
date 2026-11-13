@@ -2,7 +2,7 @@
  "key": "geococcyx-californianus",
  "name": "Geococcyx californianus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:41:46.109Z",
+ "fetchedAt": "2026-11-13T11:42:54.899Z",
  "names": {
   "da": "Jordgøg",
   "en": "Greater Roadrunner",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1986,
-  "observations": 44581
+  "observations": 45029
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2023-07-26"
    },
    {
-    "id": 115784877,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115784877/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115784877/large.jpeg",
-    "attribution": "(c) Teresa Jegelewicz Mayfield-Meyer, some rights reserved (CC BY)",
+    "id": 199747746,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199747746/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199747746/large.jpg",
+    "attribution": "(c) Richard Peters, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/71145893",
-    "place": "Cougar Loop NE, Albuquerque, NM 87122, USA",
-    "date": "2021-03-13"
+    "source": "https://www.inaturalist.org/observations/118240683",
+    "place": "Marble Ave NE, Albuquerque, NM, US",
+    "date": "2022-05-22"
    }
   ],
   "female": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 8844788,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8844788/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8844788/large.jpeg",
-   "attribution": "(c) Jody Shugart, some rights reserved (CC BY)",
+   "id": 243403713,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243403713/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243403713/large.jpg",
+   "attribution": "(c) MarvalPhotography19, some rights reserved (CC BY), uploaded by MarvalPhotography19",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/6925315",
-   "place": "Claiborne Parish, LA, USA",
-   "date": "2017-07-04"
+   "source": "https://www.inaturalist.org/photos/243403713",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 576860,
+  "worldTotal": 517265,
   "topCountries": [
    {
     "code": "US",
-    "count": 556381
+    "count": 499633
    },
    {
     "code": "MX",
-    "count": 20118
+    "count": 17262
    },
    {
     "code": "ZZ",
-    "count": 13
+    "count": 14
    },
    {
     "code": "DE",
@@ -174,5 +174,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

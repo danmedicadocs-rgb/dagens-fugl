@@ -2,7 +2,7 @@
  "key": "tadorna-tadorna",
  "name": "Tadorna tadorna",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:41.470Z",
+ "fetchedAt": "2026-11-13T11:03:26.287Z",
  "names": {
   "da": "Gravand",
   "en": "Common Shelduck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7067,
-  "observations": 38760
+  "observations": 39093
  },
  "photos": {
   "male": [
@@ -66,16 +66,6 @@
     "date": "2021-03-03"
    },
    {
-    "id": 615090565,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615090565/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615090565/large.jpg",
-    "attribution": "(c) bogsuckers, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/338253863",
-    "place": "Finistère, Bretagne, FR",
-    "date": "2026-02-08"
-   },
-   {
     "id": 502204088,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502204088/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502204088/large.jpeg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/279654914",
     "place": "Apetlon, Rakousko",
     "date": "2025-05-02"
+   },
+   {
+    "id": 520934559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520934559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520934559/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/289623539",
+    "place": "London SE28 0GN, UK",
+    "date": "2025-06-14"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498009,
-  "dkTotal": 404596,
+  "dkTotal": 405585,
   "dkMonths": [
-   21484,
-   35594,
-   62310,
-   76555,
-   69503,
-   40621,
-   30331,
-   21449,
-   13320,
-   13675,
-   10106,
-   9584
+   21504,
+   35641,
+   62400,
+   76675,
+   69575,
+   40697,
+   30409,
+   21487,
+   13357,
+   14003,
+   10177,
+   9596
   ],
-  "worldTotal": 2580393,
+  "worldTotal": 2658195,
   "topCountries": [
    {
     "code": "NL",
-    "count": 511581
-   },
-   {
-    "code": "DK",
-    "count": 404596
+    "count": 523206
    },
    {
     "code": "GB",
-    "count": 374541
+    "count": 423048
+   },
+   {
+    "code": "DK",
+    "count": 405585
    },
    {
     "code": "SE",
-    "count": 351709
+    "count": 352881
    },
    {
     "code": "FR",
-    "count": 213842
+    "count": 218601
    },
    {
     "code": "NO",
-    "count": 187114
+    "count": 188276
    },
    {
     "code": "BE",
-    "count": 176511
+    "count": 178642
    },
    {
     "code": "ES",
-    "count": 112395
+    "count": 110998
    },
    {
     "code": "DE",
-    "count": 46919
-   },
-   {
-    "code": "PT",
-    "count": 18462
+    "count": 50291
    },
    {
     "code": "IT",
-    "count": 16773
+    "count": 19572
+   },
+   {
+    "code": "PT",
+    "count": 17942
    },
    {
     "code": "IE",
-    "count": 14039
+    "count": 15223
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

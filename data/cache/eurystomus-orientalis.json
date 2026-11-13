@@ -2,7 +2,7 @@
  "key": "eurystomus-orientalis",
  "name": "Eurystomus orientalis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:34:38.842Z",
+ "fetchedAt": "2026-11-13T11:36:37.828Z",
  "names": {
   "da": "Grøn Ellekrage",
   "en": "Oriental Dollarbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2293,
-  "observations": 8573
+  "observations": 8770
  },
  "photos": {
   "male": [],
@@ -68,16 +68,6 @@
     "date": "2021-02-13"
    },
    {
-    "id": 246152138,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/143523130",
-    "place": "Leyburn QLD 4365, Australia",
-    "date": "2013-10-26"
-   },
-   {
     "id": 117308147,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117308147/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117308147/large.jpeg",
@@ -86,6 +76,16 @@
     "source": "https://www.inaturalist.org/observations/71996317",
     "place": "Queenstown, Singapore",
     "date": "2021-03-25"
+   },
+   {
+    "id": 246152138,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/143523130",
+    "place": "Leyburn QLD 4365, Australia",
+    "date": "2013-10-26"
    }
   ],
   "hero": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 283557,
+  "worldTotal": 276487,
   "topCountries": [
    {
     "code": "AU",
-    "count": 185510
+    "count": 183749
    },
    {
     "code": "KR",
-    "count": 16165
-   },
-   {
-    "code": "MY",
-    "count": 15261
+    "count": 17182
    },
    {
     "code": "SG",
-    "count": 15166
+    "count": 15572
+   },
+   {
+    "code": "MY",
+    "count": 14069
    },
    {
     "code": "IN",
-    "count": 12810
+    "count": 9857
    },
    {
     "code": "TH",
-    "count": 9134
+    "count": 7858
    },
    {
     "code": "ID",
-    "count": 6214
-   },
-   {
-    "code": "TW",
-    "count": 3810
-   },
-   {
-    "code": "PH",
-    "count": 3722
+    "count": 5742
    },
    {
     "code": "CN",
-    "count": 3574
+    "count": 4565
+   },
+   {
+    "code": "PH",
+    "count": 3282
+   },
+   {
+    "code": "TW",
+    "count": 3078
    },
    {
     "code": "PG",
-    "count": 3438
+    "count": 2765
    },
    {
     "code": "VN",
-    "count": 2661
+    "count": 2511
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

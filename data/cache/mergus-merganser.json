@@ -2,7 +2,7 @@
  "key": "mergus-merganser",
  "name": "Mergus merganser",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:54.405Z",
+ "fetchedAt": "2026-11-13T11:05:21.522Z",
  "names": {
   "da": "Stor skallesluger",
   "en": "Common Merganser",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7004,
-  "observations": 133359
+  "observations": 134647
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2013-08-15"
    },
    {
-    "id": 350398654,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350398654/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350398654/large.jpg",
-    "attribution": "(c) Joss Carr, some rights reserved (CC BY)",
+    "id": 6176280,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6176280/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6176280/large.jpg",
+    "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/198766082",
-    "place": "The Towing Path, Oxford, England, GB",
-    "date": "2024-02-07"
+    "source": "https://www.inaturalist.org/observations/5041609",
+    "place": "Bowness-on-Windermere, England, United Kingdom",
+    "date": "2017-01-28"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 658872536,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658872536/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658872536/large.jpg",
-   "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
+   "id": 6176280,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6176280/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6176280/large.jpg",
+   "attribution": "(c) Nigel Voaden, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/361043761",
-   "place": "I-580 W, Pleasanton, CA, US",
-   "date": "2026-05-12"
+   "source": "https://www.inaturalist.org/photos/6176280",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9537647,
-  "dkTotal": 241494,
+  "dkTotal": 242069,
   "dkMonths": [
-   53045,
-   47684,
-   48533,
-   20596,
-   8756,
-   3635,
-   2496,
-   2587,
-   3272,
-   4922,
-   16177,
-   29587
+   53133,
+   47747,
+   48568,
+   20595,
+   8748,
+   3650,
+   2482,
+   2542,
+   3286,
+   5184,
+   16291,
+   29641
   ],
-  "worldTotal": 5704023,
+  "worldTotal": 5542284,
   "topCountries": [
    {
     "code": "US",
-    "count": 2493299
+    "count": 2347234
    },
    {
     "code": "CA",
-    "count": 1072066
+    "count": 991426
    },
    {
     "code": "SE",
-    "count": 858605
+    "count": 864108
    },
    {
     "code": "DK",
-    "count": 241494
+    "count": 242069
    },
    {
     "code": "NL",
-    "count": 226299
+    "count": 228085
    },
    {
     "code": "NO",
-    "count": 218172
+    "count": 219599
    },
    {
     "code": "GB",
-    "count": 138729
+    "count": 154838
    },
    {
     "code": "DE",
-    "count": 83156
+    "count": 88096
    },
    {
     "code": "FI",
-    "count": 70362
+    "count": 83986
    },
    {
     "code": "EE",
-    "count": 45612
+    "count": 46561
    },
    {
     "code": "FR",
-    "count": 42284
+    "count": 43227
    },
    {
-    "code": "BE",
-    "count": 30142
+    "code": "PL",
+    "count": 31323
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

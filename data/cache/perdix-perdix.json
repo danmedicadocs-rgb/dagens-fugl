@@ -2,7 +2,7 @@
  "key": "perdix-perdix",
  "name": "Perdix perdix",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:58.884Z",
+ "fetchedAt": "2026-11-13T11:05:25.855Z",
  "names": {
   "da": "Agerhøne",
   "en": "Grey Partridge",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 831,
-  "observations": 15979
+  "observations": 16185
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 338779728,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338779728/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338779728/large.png",
-   "attribution": "(c) tinyclayman, some rights reserved (CC BY)",
+   "id": 340760633,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340760633/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340760633/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/192918077",
-   "place": "Moskva, RU",
-   "date": "2023-11-05"
+   "source": "https://www.inaturalist.org/photos/340760633",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2473958,
-  "dkTotal": 67590,
+  "dkTotal": 67813,
   "dkMonths": [
-   5472,
-   5207,
-   6349,
-   9483,
-   11957,
-   6288,
-   3965,
-   3860,
-   3940,
-   4665,
-   3103,
-   3134
+   5473,
+   5210,
+   6360,
+   9502,
+   11967,
+   6298,
+   3977,
+   3874,
+   3947,
+   4783,
+   3120,
+   3135
   ],
-  "worldTotal": 684129,
+  "worldTotal": 696748,
   "topCountries": [
    {
     "code": "NL",
-    "count": 137097
+    "count": 138260
    },
    {
     "code": "GB",
-    "count": 89727
+    "count": 94598
    },
    {
     "code": "SE",
-    "count": 80328
+    "count": 80659
    },
    {
     "code": "DK",
-    "count": 67590
+    "count": 67813
    },
    {
     "code": "FR",
-    "count": 66592
+    "count": 67035
    },
    {
     "code": "CA",
-    "count": 53873
+    "count": 53790
    },
    {
     "code": "BE",
-    "count": 47139
+    "count": 49350
    },
    {
     "code": "US",
-    "count": 40899
+    "count": 38905
    },
    {
     "code": "DE",
-    "count": 17626
+    "count": 18295
    },
    {
     "code": "FI",
-    "count": 16339
-   },
-   {
-    "code": "RU",
-    "count": 10476
+    "count": 17826
    },
    {
     "code": "PL",
-    "count": 9246
+    "count": 10814
+   },
+   {
+    "code": "RU",
+    "count": 10740
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "megaceryle-alcyon",
  "name": "Megaceryle alcyon",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:45:21.947Z",
+ "fetchedAt": "2026-11-13T11:45:55.995Z",
  "names": {
   "da": "Bæltestødfisker",
   "en": "Belted Kingfisher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2548,
-  "observations": 90833
+  "observations": 92373
  },
  "photos": {
   "male": [
@@ -66,24 +66,24 @@
     "date": "2020-03-01"
    },
    {
-    "id": 247073804,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247073804/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247073804/large.jpg",
-    "attribution": "(c) William J. Deml, some rights reserved (CC BY)",
+    "id": 296281525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296281525/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296281525/large.jpeg",
+    "attribution": "(c) Gavin Slater, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/144007657",
-    "place": "Washington County, PA, USA",
-    "date": "2016-10-11"
+    "source": "https://www.inaturalist.org/observations/170791034",
+    "place": "Washington, US",
+    "date": "2023-07-02"
    },
    {
-    "id": 368758467,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/368758467/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/368758467/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/208418519",
-    "place": "Yolo County, CA, USA",
-    "date": "2024-04-15"
+    "id": 728795153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/728795153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/728795153/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/397359347",
+    "place": "Kitsap County, US-WA, US",
+    "date": "2026-09-04"
    }
   ],
   "juvenile": [
@@ -98,35 +98,35 @@
     "date": "2022-06-14"
    },
    {
-    "id": 408574091,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/408574091/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/408574091/large.jpeg",
-    "attribution": "(c) Lisa Wiencek Gerbec, some rights reserved (CC BY)",
+    "id": 83276922,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83276922/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83276922/large.jpeg",
+    "attribution": "(c) Juli Mallett, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/230128078",
-    "place": "Sandy Ridge Reservation, 6195 Otten Rd, North Ridgeville, OH 44039, USA",
-    "date": "2024-07-17"
+    "source": "https://www.inaturalist.org/observations/52389009",
+    "place": "Capital, BC, Canada",
+    "date": "2020-07-04"
    },
    {
-    "id": 715855760,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715855760/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715855760/large.jpg",
-    "attribution": "(c) Chris O'Donoghue, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/390723236",
-    "place": "Ritchot, MB, Canada",
+    "id": 715893876,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715893876/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715893876/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/390741210",
+    "place": "Seattle, WA, US",
     "date": "2026-08-12"
    }
   ],
   "hero": {
-   "id": 747510784,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/747510784/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/747510784/large.jpg",
-   "attribution": "(c) Brooke J., some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/406827904",
-   "place": "Concord, CA, USA",
-   "date": "2026-10-08"
+   "id": 104964567,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104964567/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104964567/large.jpeg",
+   "attribution": "(c) chloe ⋆˚꩜｡, some rights reserved (CC BY-SA), uploaded by chloe ⋆˚꩜｡",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/104964567",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 7053463,
+  "worldTotal": 6544150,
   "topCountries": [
    {
     "code": "US",
-    "count": 5942763
+    "count": 5530038
    },
    {
     "code": "CA",
-    "count": 942995
+    "count": 887821
    },
    {
     "code": "MX",
-    "count": 63481
+    "count": 48446
    },
    {
     "code": "BZ",
-    "count": 17315
-   },
-   {
-    "code": "CU",
-    "count": 11335
-   },
-   {
-    "code": "PR",
-    "count": 10089
-   },
-   {
-    "code": "CR",
-    "count": 9891
+    "count": 12063
    },
    {
     "code": "BM",
-    "count": 9441
+    "count": 9270
+   },
+   {
+    "code": "CU",
+    "count": 7341
+   },
+   {
+    "code": "CR",
+    "count": 7250
+   },
+   {
+    "code": "PR",
+    "count": 7189
    },
    {
     "code": "BS",
-    "count": 8219
+    "count": 5743
    },
    {
     "code": "GT",
-    "count": 5531
+    "count": 3496
    },
    {
     "code": "HN",
-    "count": 4834
+    "count": 2805
    },
    {
-    "code": "JM",
-    "count": 2838
+    "code": "KY",
+    "count": 2332
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

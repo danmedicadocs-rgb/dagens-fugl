@@ -2,10 +2,10 @@
  "key": "junco-hyemalis",
  "name": "Junco hyemalis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:43:35.392Z",
+ "fetchedAt": "2026-11-13T11:44:20.803Z",
  "names": {
   "da": "Mørkøjet junco",
-  "en": null,
+  "en": "Dark-eyed Junco",
   "accepted": "Junco hyemalis"
  },
  "wikidata": {
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10094,
-  "observations": 254488
+  "observations": 258729
  },
  "photos": {
   "male": [
@@ -34,14 +34,14 @@
     "date": "2018-10-27"
    },
    {
-    "id": 345065861,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345065861/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345065861/large.jpeg",
-    "attribution": "(c) Nick Chirico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/196053772",
-    "place": "Richland County, OH, USA",
-    "date": "2024-01-07"
+    "id": 8793471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8793471/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8793471/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/6892999",
+    "place": "Sierra Azul Open Space Preserve, CA, US",
+    "date": "2017-07-02"
    },
    {
     "id": 469944217,
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 52405060,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52405060/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52405060/large.jpg",
-   "attribution": "(c) Jimmy Dee, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/33368824",
-   "place": "Sunbury County, NB, Canada",
-   "date": "2018-10-27"
+   "id": 462900958,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462900958/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462900958/large.jpg",
+   "attribution": "(c) Becky Matsubara, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/462900958",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -149,5 +149,6 @@
   "worldTotal": 0,
   "topCountries": []
  },
+ "photoVersion": 2,
  "warnings": []
 }

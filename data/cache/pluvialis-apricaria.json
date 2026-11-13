@@ -2,7 +2,7 @@
  "key": "pluvialis-apricaria",
  "name": "Pluvialis apricaria",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:04:53.897Z",
+ "fetchedAt": "2026-11-13T11:11:08.794Z",
  "names": {
   "da": "Hjejle",
   "en": "European Golden Plover",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4889,
-  "observations": 10291
+  "observations": 10483
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2480332,
-  "dkTotal": 191531,
+  "dkTotal": 193175,
   "dkMonths": [
-   3437,
+   3443,
    4531,
-   11652,
-   19120,
-   9753,
-   1376,
-   14300,
-   41829,
-   33178,
-   32717,
-   14928,
-   4603
+   11659,
+   19171,
+   9764,
+   1379,
+   14322,
+   41936,
+   33305,
+   33878,
+   15068,
+   4612
   ],
-  "worldTotal": 1084760,
+  "worldTotal": 1112811,
   "topCountries": [
    {
     "code": "SE",
-    "count": 310114
+    "count": 311409
    },
    {
     "code": "DK",
-    "count": 191531
+    "count": 193175
    },
    {
     "code": "NO",
-    "count": 145538
+    "count": 146375
    },
    {
     "code": "GB",
-    "count": 122143
+    "count": 134928
    },
    {
     "code": "NL",
-    "count": 89169
+    "count": 95779
    },
    {
     "code": "FR",
-    "count": 49805
+    "count": 50546
    },
    {
     "code": "IS",
-    "count": 34487
+    "count": 33876
    },
    {
     "code": "ES",
-    "count": 29443
+    "count": 27434
    },
    {
     "code": "FI",
-    "count": 20272
+    "count": 25149
    },
    {
     "code": "BE",
-    "count": 19395
+    "count": 19635
    },
    {
     "code": "DE",
-    "count": 12163
+    "count": 12954
    },
    {
     "code": "EE",
-    "count": 11222
+    "count": 11441
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

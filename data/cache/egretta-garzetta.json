@@ -2,7 +2,7 @@
  "key": "egretta-garzetta",
  "name": "Egretta garzetta",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:28.872Z",
+ "fetchedAt": "2026-11-13T11:07:22.751Z",
  "names": {
   "da": "Silkehejre",
   "en": "Little Egret",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4943,
-  "observations": 139132
+  "observations": 141684
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2480876,
-  "dkTotal": 7101,
+  "dkTotal": 7128,
   "dkMonths": [
    262,
    236,
    344,
-   343,
-   1237,
-   1172,
+   342,
+   1236,
+   1170,
    1503,
-   723,
+   722,
    437,
-   376,
+   408,
    249,
    218
   ],
-  "worldTotal": 3889922,
+  "worldTotal": 3881844,
   "topCountries": [
    {
+    "code": "GB",
+    "count": 523521
+   },
+   {
     "code": "IN",
-    "count": 526269
+    "count": 456581
    },
    {
     "code": "TW",
-    "count": 524548
-   },
-   {
-    "code": "GB",
-    "count": 453598
+    "count": 451604
    },
    {
     "code": "ES",
-    "count": 376904
+    "count": 378411
    },
    {
     "code": "FR",
-    "count": 359659
+    "count": 371032
    },
    {
     "code": "NL",
-    "count": 227168
+    "count": 235177
    },
    {
     "code": "AU",
-    "count": 214860
+    "count": 217218
    },
    {
     "code": "PT",
-    "count": 141169
+    "count": 135697
    },
    {
     "code": "ZA",
-    "count": 129419
-   },
-   {
-    "code": "TH",
-    "count": 76018
-   },
-   {
-    "code": "IT",
-    "count": 74644
+    "count": 129643
    },
    {
     "code": "CN",
-    "count": 67377
+    "count": 88517
+   },
+   {
+    "code": "IT",
+    "count": 85880
+   },
+   {
+    "code": "TH",
+    "count": 72030
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

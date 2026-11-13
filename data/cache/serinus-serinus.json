@@ -2,7 +2,7 @@
  "key": "serinus-serinus",
  "name": "Serinus serinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:57.420Z",
+ "fetchedAt": "2026-11-13T11:27:59.158Z",
  "names": {
   "da": "Gulirisk",
   "en": "European Serin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9236,
-  "observations": 41235
+  "observations": 41420
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 204335479,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204335479/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204335479/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/120788700",
-    "place": "Parco Nazionale della Sila",
-    "date": "2022-05-30"
-   },
-   {
     "id": 151861759,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151861759/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151861759/large.jpeg",
@@ -74,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/91776966",
     "place": "00042 Anzio RM, Italia",
     "date": "2021-08-08"
+   },
+   {
+    "id": 204335479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204335479/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204335479/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/120788700",
+    "place": "Parco Nazionale della Sila",
+    "date": "2022-05-30"
    },
    {
     "id": 73962880,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 637136521,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637136521/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637136521/large.jpg",
-   "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/349283588",
-   "place": "Parainen, Jurmo, Suomi",
-   "date": "2026-04-12"
+   "id": 120307121,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120307121/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120307121/large.jpg",
+   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/120307121",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494200,
-  "dkTotal": 6632,
+  "dkTotal": 6633,
   "dkMonths": [
    18,
    14,
-   198,
-   1836,
-   2749,
-   957,
-   436,
+   195,
+   1845,
+   2733,
+   963,
+   437,
    126,
    88,
-   129,
-   68,
+   134,
+   67,
    1
   ],
-  "worldTotal": 1791015,
+  "worldTotal": 1847304,
   "topCountries": [
    {
     "code": "ES",
-    "count": 913293
+    "count": 938702
    },
    {
     "code": "FR",
-    "count": 317811
+    "count": 324329
    },
    {
     "code": "PT",
-    "count": 246938
+    "count": 245615
    },
    {
     "code": "DE",
-    "count": 75660
+    "count": 77943
    },
    {
     "code": "IT",
-    "count": 45792
+    "count": 55245
    },
    {
     "code": "SE",
-    "count": 23462
-   },
-   {
-    "code": "CZ",
-    "count": 16676
-   },
-   {
-    "code": "MA",
-    "count": 15598
-   },
-   {
-    "code": "NL",
-    "count": 14757
+    "count": 23525
    },
    {
     "code": "PL",
-    "count": 13106
+    "count": 18774
+   },
+   {
+    "code": "CZ",
+    "count": 18498
    },
    {
     "code": "CH",
-    "count": 11998
+    "count": 14857
+   },
+   {
+    "code": "NL",
+    "count": 14809
+   },
+   {
+    "code": "MA",
+    "count": 14742
    },
    {
     "code": "TR",
-    "count": 11801
+    "count": 11190
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

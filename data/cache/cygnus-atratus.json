@@ -2,7 +2,7 @@
  "key": "cygnus-atratus",
  "name": "Cygnus atratus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:38:30.404Z",
+ "fetchedAt": "2026-11-13T11:40:07.698Z",
  "names": {
   "da": "Sortsvane",
   "en": "Black Swan",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6914,
-  "observations": 40716
+  "observations": 41460
  },
  "photos": {
   "male": [
@@ -78,16 +78,6 @@
     "date": "2025-11-12"
    },
    {
-    "id": 101678828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101678828/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101678828/large.jpeg",
-    "attribution": "(c) Tim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/63364505",
-    "place": "Sydney NSW, Australia",
-    "date": "2020-10-12"
-   },
-   {
     "id": 464189178,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464189178/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464189178/large.jpeg",
@@ -96,6 +86,16 @@
     "source": "https://www.inaturalist.org/observations/258686206",
     "place": "Dawlish, UK",
     "date": "2025-01-05"
+   },
+   {
+    "id": 101678828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101678828/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101678828/large.jpeg",
+    "attribution": "(c) Tim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/63364505",
+    "place": "Sydney NSW, Australia",
+    "date": "2020-10-12"
    }
   ],
   "hero": {
@@ -111,72 +111,73 @@
  },
  "gbif": {
   "key": 2498344,
-  "dkTotal": 3528,
+  "dkTotal": 3533,
   "dkMonths": [
    300,
    254,
    402,
-   415,
+   416,
    398,
-   355,
-   303,
+   357,
+   304,
    220,
    290,
-   247,
+   248,
    195,
    148
   ],
-  "worldTotal": 869572,
+  "worldTotal": 882144,
   "topCountries": [
    {
     "code": "AU",
-    "count": 668989
+    "count": 678626
    },
    {
     "code": "NZ",
-    "count": 84487
+    "count": 81822
    },
    {
     "code": "NL",
-    "count": 45124
+    "count": 46158
    },
    {
     "code": "BE",
-    "count": 14949
-   },
-   {
-    "code": "FR",
-    "count": 12192
+    "count": 15070
    },
    {
     "code": "GB",
-    "count": 11272
+    "count": 13036
+   },
+   {
+    "code": "FR",
+    "count": 12600
    },
    {
     "code": "US",
-    "count": 6855
+    "count": 7024
    },
    {
     "code": "DE",
-    "count": 5404
-   },
-   {
-    "code": "DK",
-    "count": 3528
-   },
-   {
-    "code": "SE",
-    "count": 3383
-   },
-   {
-    "code": "ES",
-    "count": 2433
+    "count": 6087
    },
    {
     "code": "CN",
-    "count": 2419
+    "count": 3563
+   },
+   {
+    "code": "DK",
+    "count": 3533
+   },
+   {
+    "code": "SE",
+    "count": 3392
+   },
+   {
+    "code": "SG",
+    "count": 1874
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

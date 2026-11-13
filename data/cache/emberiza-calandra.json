@@ -2,7 +2,7 @@
  "key": "emberiza-calandra",
  "name": "Emberiza calandra",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:19.830Z",
+ "fetchedAt": "2026-11-13T11:28:17.834Z",
  "names": {
   "da": "Bomlærke",
   "en": "Corn Bunting",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 145291,
-  "observations": 25608
+  "observations": 25809
  },
  "photos": {
   "male": [
@@ -100,72 +100,73 @@
  },
  "gbif": {
   "key": 7634625,
-  "dkTotal": 83086,
+  "dkTotal": 83361,
   "dkMonths": [
-   5668,
-   5096,
+   5665,
+   5102,
    7148,
-   13038,
-   18113,
-   11266,
-   10047,
+   13061,
+   18129,
+   11288,
+   10093,
    2856,
-   1056,
-   2204,
-   3233,
-   3288
+   1058,
+   2332,
+   3267,
+   3289
   ],
-  "worldTotal": 1149781,
+  "worldTotal": 1163104,
   "topCountries": [
    {
     "code": "ES",
-    "count": 369907
+    "count": 369155
    },
    {
     "code": "FR",
-    "count": 204426
+    "count": 206181
    },
    {
     "code": "PT",
-    "count": 135207
+    "count": 129744
    },
    {
     "code": "DK",
-    "count": 83086
+    "count": 83361
    },
    {
     "code": "GB",
-    "count": 63650
+    "count": 68784
    },
    {
     "code": "BG",
-    "count": 30791
-   },
-   {
-    "code": "TR",
-    "count": 30316
+    "count": 30645
    },
    {
     "code": "DE",
-    "count": 26394
+    "count": 28385
+   },
+   {
+    "code": "TR",
+    "count": 27695
    },
    {
     "code": "GR",
-    "count": 24924
-   },
-   {
-    "code": "SE",
-    "count": 20962
-   },
-   {
-    "code": "IL",
-    "count": 20831
+    "count": 25315
    },
    {
     "code": "PL",
-    "count": 15891
+    "count": 23589
+   },
+   {
+    "code": "SE",
+    "count": 21137
+   },
+   {
+    "code": "IL",
+    "count": 20130
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

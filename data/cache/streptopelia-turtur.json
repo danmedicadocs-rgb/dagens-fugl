@@ -2,7 +2,7 @@
  "key": "streptopelia-turtur",
  "name": "Streptopelia turtur",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:08.248Z",
+ "fetchedAt": "2026-11-13T11:17:05.682Z",
  "names": {
   "da": "Turteldue",
   "en": "European turtle dove",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2938,
-  "observations": 12961
+  "observations": 12998
  },
  "photos": {
   "male": [
@@ -88,84 +88,85 @@
    }
   ],
   "hero": {
-   "id": 71200683,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71200683/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71200683/large.jpeg",
-   "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+   "id": 130528188,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/130528188/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/130528188/large.jpeg",
+   "attribution": "(c) Mourad Harzallah, some rights reserved (CC BY), uploaded by Mourad Harzallah",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/44915224",
-   "place": "Ásotthalom, 6783 Hungary",
-   "date": "2020-05-04"
+   "source": "https://www.inaturalist.org/photos/130528188",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2495708,
-  "dkTotal": 2339,
+  "dkTotal": 2356,
   "dkMonths": [
    2,
    3,
    16,
-   303,
-   987,
+   301,
+   983,
    514,
-   178,
+   177,
    66,
    75,
-   143,
-   42,
+   168,
+   41,
    3
   ],
-  "worldTotal": 668340,
+  "worldTotal": 676868,
   "topCountries": [
    {
     "code": "FR",
-    "count": 247664
+    "count": 250309
    },
    {
     "code": "ES",
-    "count": 109898
+    "count": 112291
    },
    {
     "code": "GB",
-    "count": 43964
+    "count": 45820
    },
    {
     "code": "IL",
-    "count": 35571
+    "count": 35544
    },
    {
     "code": "NL",
-    "count": 33559
-   },
-   {
-    "code": "PT",
-    "count": 26772
+    "count": 33941
    },
    {
     "code": "BE",
-    "count": 22683
+    "count": 25060
+   },
+   {
+    "code": "PT",
+    "count": 20777
    },
    {
     "code": "DE",
-    "count": 14275
+    "count": 14738
+   },
+   {
+    "code": "IT",
+    "count": 13338
    },
    {
     "code": "SE",
-    "count": 12637
-   },
-   {
-    "code": "TR",
-    "count": 12213
+    "count": 12678
    },
    {
     "code": "GR",
-    "count": 11561
+    "count": 11676
    },
    {
-    "code": "BG",
-    "count": 11186
+    "code": "TR",
+    "count": 11287
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

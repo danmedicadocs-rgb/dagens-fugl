@@ -2,7 +2,7 @@
  "key": "pygoscelis-antarcticus",
  "name": "Pygoscelis antarcticus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:36.585Z",
+ "fetchedAt": "2026-11-13T11:41:06.795Z",
  "names": {
   "da": "Rempingvin",
   "en": "Chinstrap Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 54549,
-  "observations": 2118
+  "observations": 2147
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 617204755,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/339298367",
-   "place": "Orne Harbour, Antarctica",
-   "date": "2026-02-16"
+   "id": 248704,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248704/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248704/large.jpg",
+   "attribution": "(c) Sterling Sheehy, some rights reserved (CC BY), uploaded by Sterling Sheehy",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/248704",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,23 +85,23 @@
    0,
    0
   ],
-  "worldTotal": 17159,
+  "worldTotal": 15430,
   "topCountries": [
    {
     "code": "AQ",
-    "count": 15294
+    "count": 13759
    },
    {
     "code": "GS",
-    "count": 1298
+    "count": 1110
    },
    {
     "code": "ZZ",
-    "count": 58
+    "count": 50
    },
    {
     "code": "AR",
-    "count": 41
+    "count": 47
    },
    {
     "code": "GB",
@@ -109,11 +109,11 @@
    },
    {
     "code": "AU",
-    "count": 36
+    "count": 29
    },
    {
     "code": "FK",
-    "count": 19
+    "count": 21
    },
    {
     "code": "BV",
@@ -132,10 +132,11 @@
     "count": 10
    },
    {
-    "code": "CA",
+    "code": "CL",
     "count": 7
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

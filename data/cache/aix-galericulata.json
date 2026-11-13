@@ -2,7 +2,7 @@
  "key": "aix-galericulata",
  "name": "Aix galericulata",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:51.832Z",
+ "fetchedAt": "2026-11-13T11:03:35.420Z",
  "names": {
   "da": "Mandarinand",
   "en": "Mandarin Duck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7106,
-  "observations": 27907
+  "observations": 28391
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2021-11-30"
    },
    {
-    "id": 361382505,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361382505/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361382505/large.jpeg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/204451732",
-    "place": "Cedeira, La Coruña, España",
-    "date": "2024-03-29"
-   },
-   {
     "id": 344426994,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344426994/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344426994/large.jpg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/195735333",
     "place": "Berliner Innenstadt, Berlin, Germany",
     "date": "2024-01-03"
+   },
+   {
+    "id": 361382505,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361382505/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361382505/large.jpeg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204451732",
+    "place": "Cedeira, La Coruña, España",
+    "date": "2024-03-29"
    }
   ],
   "female": [
@@ -76,14 +76,14 @@
     "date": "2026-08-17"
    },
    {
-    "id": 63415921,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63415921/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63415921/large.jpeg",
-    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "id": 699007963,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699007963/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699007963/large.jpg",
+    "attribution": "(c) jirki88, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39938956",
-    "place": "District 7, Zürich, Switzerland",
-    "date": "2020-02-09"
+    "source": "https://www.inaturalist.org/observations/381987574",
+    "place": "Stockholms län",
+    "date": "2026-07-16"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498388,
-  "dkTotal": 3858,
+  "dkTotal": 3891,
   "dkMonths": [
-   1114,
+   1113,
    614,
    381,
    287,
    202,
-   117,
-   50,
+   119,
+   51,
    65,
    88,
-   222,
-   239,
-   473
+   247,
+   242,
+   476
   ],
-  "worldTotal": 272367,
+  "worldTotal": 288605,
   "topCountries": [
    {
     "code": "GB",
-    "count": 58643
+    "count": 66318
    },
    {
     "code": "BE",
-    "count": 33300
+    "count": 33696
    },
    {
     "code": "NL",
-    "count": 31794
+    "count": 32360
    },
    {
     "code": "DE",
-    "count": 25168
+    "count": 27139
    },
    {
     "code": "SE",
-    "count": 22288
+    "count": 22570
    },
    {
     "code": "JP",
-    "count": 17069
+    "count": 17765
    },
    {
     "code": "KR",
-    "count": 13239
-   },
-   {
-    "code": "US",
-    "count": 11613
+    "count": 13977
    },
    {
     "code": "CN",
-    "count": 10646
+    "count": 13546
+   },
+   {
+    "code": "US",
+    "count": 10463
    },
    {
     "code": "FR",
-    "count": 7465
+    "count": 7699
    },
    {
     "code": "NO",
-    "count": 7374
+    "count": 7479
    },
    {
-    "code": "TW",
-    "count": 4217
+    "code": "DK",
+    "count": 3891
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

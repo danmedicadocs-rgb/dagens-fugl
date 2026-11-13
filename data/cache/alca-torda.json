@@ -2,7 +2,7 @@
  "key": "alca-torda",
  "name": "Alca torda",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:17.064Z",
+ "fetchedAt": "2026-11-13T11:16:22.706Z",
  "names": {
   "da": "Alk",
   "en": "Razorbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4501,
-  "observations": 12402
+  "observations": 12542
  },
  "photos": {
   "male": [],
@@ -79,84 +79,85 @@
    }
   ],
   "hero": {
-   "id": 498925677,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/large.jpg",
-   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+   "id": 4166476,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4166476/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4166476/large.jpg",
+   "attribution": "(c) Melissa McMasters, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/277865541",
+   "source": "https://www.inaturalist.org/photos/4166476",
    "place": null,
-   "date": "2025-04-15"
+   "date": null
   }
  },
  "gbif": {
   "key": 8277073,
-  "dkTotal": 58754,
+  "dkTotal": 60087,
   "dkMonths": [
    5303,
-   3209,
-   3037,
-   3134,
-   3383,
-   2184,
-   2467,
-   2442,
-   3693,
-   12107,
-   11266,
-   6423
+   3216,
+   3017,
+   3070,
+   3267,
+   2151,
+   2464,
+   2455,
+   3714,
+   13235,
+   11655,
+   6434
   ],
-  "worldTotal": 749215,
+  "worldTotal": 717510,
   "topCountries": [
    {
     "code": "GB",
-    "count": 137373
+    "count": 145598
    },
    {
     "code": "SE",
-    "count": 131261
+    "count": 132253
    },
    {
     "code": "US",
-    "count": 128440
-   },
-   {
-    "code": "CA",
-    "count": 65729
+    "count": 98882
    },
    {
     "code": "NO",
-    "count": 64909
+    "count": 65989
    },
    {
     "code": "DK",
-    "count": 58754
+    "count": 60087
+   },
+   {
+    "code": "CA",
+    "count": 53045
    },
    {
     "code": "FI",
-    "count": 32180
+    "count": 32796
    },
    {
     "code": "NL",
-    "count": 23741
+    "count": 24467
    },
    {
     "code": "FR",
-    "count": 16704
-   },
-   {
-    "code": "ES",
-    "count": 16044
+    "count": 16944
    },
    {
     "code": "IE",
-    "count": 14558
+    "count": 14718
+   },
+   {
+    "code": "ES",
+    "count": 13766
    },
    {
     "code": "BE",
-    "count": 13627
+    "count": 13762
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

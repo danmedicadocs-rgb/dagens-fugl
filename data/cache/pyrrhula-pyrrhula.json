@@ -2,7 +2,7 @@
  "key": "pyrrhula-pyrrhula",
  "name": "Pyrrhula pyrrhula",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:53.031Z",
+ "fetchedAt": "2026-11-13T11:27:02.163Z",
  "names": {
   "da": "Dompap",
   "en": "Eurasian Bullfinch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9462,
-  "observations": 86408
+  "observations": 87456
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 599453180,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599453180/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599453180/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/330562004",
-    "place": "Florești, Cluj, RO",
-    "date": "2025-12-13"
-   },
-   {
     "id": 477052590,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477052590/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477052590/large.jpg",
@@ -74,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/265578163",
     "place": "RSPB Old Moor, Wombwell, Bolton upon Dearne, Barnsley S73 0YF, UK",
     "date": "2025-03-14"
+   },
+   {
+    "id": 599453180,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599453180/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599453180/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/330562004",
+    "place": "Florești, Cluj, RO",
+    "date": "2025-12-13"
    },
    {
     "id": 611981346,
@@ -98,14 +98,14 @@
     "date": "2023-05-29"
    },
    {
-    "id": 409705916,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409705916/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409705916/large.jpeg",
-    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "id": 710935747,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710935747/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710935747/large.jpg",
+    "attribution": "(c) Albert Rainbow, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/230725515",
-    "place": "Isle of Mull PA75, UK",
-    "date": "2024-07-12"
+    "source": "https://www.inaturalist.org/observations/388192618",
+    "place": "Hampshire, England, United Kingdom",
+    "date": "2026-08-04"
    },
    {
     "id": 549280332,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 116210075,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116210075/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116210075/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "id": 112027404,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112027404/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112027404/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY), uploaded by Andrew Bazdyrev",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/71381107",
-   "place": "г. Кыштым, Челябинская обл., Россия",
-   "date": "2021-03-15"
+   "source": "https://www.inaturalist.org/photos/112027404",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494543,
-  "dkTotal": 263400,
+  "dkTotal": 265961,
   "dkMonths": [
-   35014,
-   32522,
-   37961,
-   27788,
-   18456,
-   11823,
-   9904,
-   10976,
-   9172,
-   21463,
-   23971,
-   24264
+   35101,
+   32681,
+   38059,
+   27875,
+   18576,
+   11895,
+   9954,
+   11061,
+   9258,
+   22649,
+   24385,
+   24381
   ],
-  "worldTotal": 2963343,
+  "worldTotal": 3051904,
   "topCountries": [
    {
     "code": "SE",
-    "count": 813379
+    "count": 821546
    },
    {
     "code": "FI",
-    "count": 378816
+    "count": 398991
    },
    {
     "code": "NO",
-    "count": 369729
+    "count": 374789
    },
    {
     "code": "GB",
-    "count": 263726
+    "count": 289880
    },
    {
     "code": "DK",
-    "count": 263400
+    "count": 265961
    },
    {
     "code": "DE",
-    "count": 187547
+    "count": 193824
    },
    {
     "code": "FR",
-    "count": 184648
+    "count": 186732
    },
    {
     "code": "NL",
-    "count": 146211
+    "count": 147446
    },
    {
     "code": "RU",
-    "count": 100068
+    "count": 102377
    },
    {
     "code": "ES",
-    "count": 41703
+    "count": 42101
    },
    {
     "code": "EE",
-    "count": 29795
+    "count": 30370
    },
    {
-    "code": "IE",
-    "count": 21506
+    "code": "PL",
+    "count": 25569
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

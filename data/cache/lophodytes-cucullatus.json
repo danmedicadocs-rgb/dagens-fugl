@@ -2,7 +2,7 @@
  "key": "lophodytes-cucullatus",
  "name": "Lophodytes cucullatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:45:57.719Z",
+ "fetchedAt": "2026-11-13T11:46:28.347Z",
  "names": {
   "da": "Hjelmskallesluger",
   "en": "Hooded Merganser",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7109,
-  "observations": 82271
+  "observations": 83279
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 243821460,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/large.jpg",
-   "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
+   "id": 365544882,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/large.jpg",
+   "attribution": "(c) Chris O'Donoghue, some rights reserved (CC BY), uploaded by Chris O'Donoghue",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/142235980",
-   "place": "Centennial Dr, Chilliwack, BC, CA",
-   "date": "2022-11-15"
+   "source": "https://www.inaturalist.org/photos/365544882",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    112,
    175
   ],
-  "worldTotal": 3341103,
+  "worldTotal": 3119299,
   "topCountries": [
    {
     "code": "US",
-    "count": 2658839
+    "count": 2488530
    },
    {
     "code": "CA",
-    "count": 668973
+    "count": 617657
    },
    {
     "code": "NL",
-    "count": 5905
+    "count": 5969
    },
    {
     "code": "BE",
-    "count": 1039
-   },
-   {
-    "code": "BM",
-    "count": 1003
+    "count": 1053
    },
    {
     "code": "SE",
-    "count": 979
+    "count": 996
    },
    {
     "code": "DK",
     "count": 973
    },
    {
+    "code": "BM",
+    "count": 971
+   },
+   {
     "code": "MX",
-    "count": 948
+    "count": 660
    },
    {
     "code": "GB",
-    "count": 610
+    "count": 648
    },
    {
     "code": "DE",
-    "count": 319
+    "count": 330
    },
    {
-    "code": "BS",
-    "count": 163
+    "code": "NO",
+    "count": 133
    },
    {
     "code": "PT",
-    "count": 141
+    "count": 127
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

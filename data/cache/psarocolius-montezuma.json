@@ -2,7 +2,7 @@
  "key": "psarocolius-montezuma",
  "name": "Psarocolius montezuma",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:16.877Z",
+ "fetchedAt": "2026-11-13T11:48:37.635Z",
  "names": {
   "da": "Montezuma Oropendola",
   "en": "Montezuma Oropendola",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 68047,
-  "observations": 8655
+  "observations": 8752
  },
  "photos": {
   "male": [
@@ -48,14 +48,14 @@
    }
   ],
   "hero": {
-   "id": 460883153,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/large.jpg",
-   "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+   "id": 24513,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24513/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24513/large.jpg",
+   "attribution": "(c) Paulo Philippidis, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/256981772",
-   "place": "Belize District, Belize",
-   "date": "2024-04-23"
+   "source": "https://www.inaturalist.org/photos/24513",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -75,35 +75,35 @@
    0,
    0
   ],
-  "worldTotal": 342755,
+  "worldTotal": 272015,
   "topCountries": [
    {
     "code": "CR",
-    "count": 221230
+    "count": 185103
    },
    {
     "code": "MX",
-    "count": 32407
-   },
-   {
-    "code": "HN",
-    "count": 23582
+    "count": 24718
    },
    {
     "code": "BZ",
-    "count": 21188
+    "count": 15696
+   },
+   {
+    "code": "HN",
+    "count": 15568
    },
    {
     "code": "NI",
-    "count": 17464
+    "count": 12202
    },
    {
     "code": "GT",
-    "count": 14368
+    "count": 10139
    },
    {
     "code": "PA",
-    "count": 12338
+    "count": 8411
    },
    {
     "code": "ZZ",
@@ -127,5 +127,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

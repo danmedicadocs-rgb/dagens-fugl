@@ -2,7 +2,7 @@
  "key": "struthio-camelus",
  "name": "Struthio camelus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:29.509Z",
+ "fetchedAt": "2026-11-13T11:32:00.108Z",
  "names": {
   "da": "Struds",
   "en": "Common ostrich",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20526,
-  "observations": 16069
+  "observations": 16348
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2020-09-23"
    },
    {
+    "id": 757832035,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/757832035/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/757832035/large.jpg",
+    "attribution": "(c) Alan Manson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/411906742",
+    "place": "Kruger National Park, Mopani District Municipality, South Africa",
+    "date": "2026-10-11"
+   },
+   {
     "id": 333711376,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333711376/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333711376/large.jpeg",
@@ -42,29 +52,9 @@
     "source": "https://www.inaturalist.org/observations/190372900",
     "place": "Rietvlei Nature Reserve, Pretoria, South Africa.",
     "date": "2023-08-18"
-   },
-   {
-    "id": 299256538,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299256538/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299256538/large.jpeg",
-    "attribution": "(c) Thom Doeleman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/172388549",
-    "place": "Taita Hills Wildlife Sanctuary",
-    "date": "2023-06-07"
    }
   ],
   "female": [
-   {
-    "id": 48811902,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811902/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811902/large.jpg",
-    "attribution": "(c) Seig, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/31202412",
-    "place": "Ngorongoro, Arusha, Tanzania",
-    "date": "2017-09-21"
-   },
    {
     "id": 265070810,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265070810/medium.jpg",
@@ -76,14 +66,24 @@
     "date": "2023-04-04"
    },
    {
-    "id": 514776904,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514776904/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514776904/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
+    "id": 48811902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811902/large.jpg",
+    "attribution": "(c) Seig, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286358145",
-    "place": "Mara, Tanzania",
-    "date": "2017-07-14"
+    "source": "https://www.inaturalist.org/observations/31202412",
+    "place": "Ngorongoro, Arusha, Tanzania",
+    "date": "2017-09-21"
+   },
+   {
+    "id": 488862605,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488862605/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488862605/large.jpeg",
+    "attribution": "(c) Robin Fokker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271760252",
+    "place": "Kruger Park, South Africa",
+    "date": "2025-04-19"
    }
   ],
   "juvenile": [
@@ -98,6 +98,16 @@
     "date": "2009-09-09"
    },
    {
+    "id": 203812894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203812894/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203812894/large.jpeg",
+    "attribution": "(c) Jacobus Retief, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/120497776",
+    "place": "West Coast DC, South Africa",
+    "date": "2022-05-09"
+   },
+   {
     "id": 48811891,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811891/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48811891/large.jpg",
@@ -106,16 +116,6 @@
     "source": "https://www.inaturalist.org/observations/31202411",
     "place": "Serengeti, Tanzania",
     "date": "2017-09-19"
-   },
-   {
-    "id": 567466910,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567466910/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567466910/large.jpg",
-    "attribution": "(c) Darren Obbard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/314194282",
-    "place": "Kavango East Region, Namibia",
-    "date": "2025-08-25"
    }
   ],
   "hero": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 144553,
+  "worldTotal": 142264,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 89813
+    "count": 89366
    },
    {
     "code": "KE",
-    "count": 18591
+    "count": 18061
    },
    {
     "code": "NA",
-    "count": 14221
+    "count": 13432
    },
    {
     "code": "TZ",
-    "count": 12544
+    "count": 11845
    },
    {
     "code": "BW",
-    "count": 4989
+    "count": 5047
    },
    {
     "code": "ZW",
-    "count": 754
+    "count": 887
    },
    {
     "code": "AU",
-    "count": 500
+    "count": 454
    },
    {
     "code": "UG",
-    "count": 326
+    "count": 305
    },
    {
     "code": "MA",
-    "count": 222
+    "count": 238
    },
    {
     "code": "SZ",
-    "count": 154
+    "count": 150
    },
    {
     "code": "US",
-    "count": 140
+    "count": 143
    },
    {
     "code": "IL",
-    "count": 125
+    "count": 126
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

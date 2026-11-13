@@ -2,7 +2,7 @@
  "key": "muscicapa-striata",
  "name": "Muscicapa striata",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:59.321Z",
+ "fetchedAt": "2026-11-13T11:24:32.640Z",
  "names": {
   "da": "Grå fluesnapper",
   "en": "Spotted Flycatcher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12971,
-  "observations": 45441
+  "observations": 44626
  },
  "photos": {
   "male": [
@@ -56,6 +56,16 @@
   ],
   "female": [
    {
+    "id": 756767892,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/756767892/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/756767892/large.jpg",
+    "attribution": "(c) Pantazi Katerina, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/411376173",
+    "place": "Paralio Astros, Greece",
+    "date": "2026-10-28"
+   },
+   {
     "id": 132957747,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132957747/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132957747/large.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/236756134",
     "place": "Челябинская обл., Россия, 456143",
     "date": "2024-08-19"
-   },
-   {
-    "id": 303773973,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303773973/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303773973/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/174829582",
-    "place": "Jezero Ponivke, Krk, Croatia",
-    "date": "2023-07-25"
    }
   ],
   "juvenile": [
@@ -108,95 +108,96 @@
     "date": "2018-07-02"
    },
    {
-    "id": 542749280,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542749280/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542749280/large.jpg",
-    "attribution": "(c) Roman, some rights reserved (CC BY)",
+    "id": 413868461,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/413868461/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/413868461/large.jpg",
+    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/301203728",
-    "place": "Novoodes'kyi district, Mykolaiv Oblast, Ukraine",
-    "date": "2025-07-26"
+    "source": "https://www.inaturalist.org/observations/232917953",
+    "place": "Респ. Башкортостан, Россия, 450044",
+    "date": "2024-07-23"
    }
   ],
   "hero": {
-   "id": 428566874,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/428566874/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/428566874/large.jpeg",
-   "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/240541292",
-   "place": "Карабаш, Челябинская обл., Россия",
-   "date": "2024-09-08"
+   "id": 110513095,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110513095/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110513095/large.jpeg",
+   "attribution": "(c) Marton Berntsen, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/110513095",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492576,
-  "dkTotal": 50813,
+  "dkTotal": 50808,
   "dkMonths": [
    1,
    0,
    1,
-   166,
-   19157,
-   8181,
-   5079,
-   10290,
-   7750,
-   111,
+   168,
+   19118,
+   8192,
+   5101,
+   10288,
+   7756,
+   106,
    25,
    2
   ],
-  "worldTotal": 1365187,
+  "worldTotal": 1411858,
   "topCountries": [
    {
     "code": "SE",
-    "count": 277364
+    "count": 278632
    },
    {
     "code": "FI",
-    "count": 148169
+    "count": 161003
    },
    {
     "code": "ES",
-    "count": 139957
+    "count": 144713
    },
    {
     "code": "GB",
-    "count": 97997
+    "count": 106081
    },
    {
     "code": "FR",
-    "count": 88358
+    "count": 90923
    },
    {
     "code": "NO",
-    "count": 77714
+    "count": 78698
    },
    {
     "code": "NL",
-    "count": 74642
+    "count": 75908
    },
    {
     "code": "ZA",
-    "count": 53084
+    "count": 52906
    },
    {
     "code": "DK",
-    "count": 50813
+    "count": 50808
    },
    {
     "code": "DE",
-    "count": 40669
+    "count": 44060
    },
    {
     "code": "RU",
-    "count": 23735
+    "count": 24083
    },
    {
     "code": "PT",
-    "count": 21157
+    "count": 20426
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

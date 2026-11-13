@@ -2,7 +2,7 @@
  "key": "hydrobates-leucorhous",
  "name": "Hydrobates leucorhous",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:59:41.453Z",
+ "fetchedAt": "2026-11-13T11:06:46.610Z",
  "names": {
   "da": "Stor stormsvale",
   "en": "Leach’s Storm Petrel",
@@ -31,7 +31,7 @@
  },
  "gbif": {
   "key": 2482012,
-  "dkTotal": 2153,
+  "dkTotal": 2174,
   "dkMonths": [
    21,
    3,
@@ -39,64 +39,65 @@
    3,
    4,
    4,
-   4,
+   5,
    6,
-   951,
-   873,
+   959,
+   885,
    205,
    75
   ],
-  "worldTotal": 120919,
+  "worldTotal": 86681,
   "topCountries": [
    {
     "code": "US",
-    "count": 71167
+    "count": 37590
    },
    {
     "code": "CA",
-    "count": 18425
+    "count": 17777
    },
    {
     "code": "GB",
-    "count": 5275
+    "count": 5554
    },
    {
     "code": "SE",
-    "count": 4759
+    "count": 4752
    },
    {
     "code": "MX",
-    "count": 2985
+    "count": 2906
    },
    {
     "code": "DK",
-    "count": 2153
+    "count": 2174
    },
    {
     "code": "ES",
-    "count": 1806
+    "count": 1732
    },
    {
     "code": "BE",
-    "count": 1435
+    "count": 1479
    },
    {
     "code": "NL",
-    "count": 1176
-   },
-   {
-    "code": "PT",
-    "count": 1176
-   },
-   {
-    "code": "ZZ",
-    "count": 1072
+    "count": 1389
    },
    {
     "code": "FR",
-    "count": 1064
+    "count": 1124
+   },
+   {
+    "code": "ZZ",
+    "count": 1039
+   },
+   {
+    "code": "PT",
+    "count": 1019
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

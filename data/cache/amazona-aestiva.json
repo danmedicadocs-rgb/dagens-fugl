@@ -2,7 +2,7 @@
  "key": "amazona-aestiva",
  "name": "Amazona aestiva",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:44.337Z",
+ "fetchedAt": "2026-11-13T11:50:36.081Z",
  "names": {
   "da": "Blåpandet Amazone",
   "en": "Blue-fronted Parrot",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18978,
-  "observations": 4484
+  "observations": 4583
  },
  "photos": {
   "male": [],
@@ -64,35 +64,35 @@
    0,
    0
   ],
-  "worldTotal": 90663,
+  "worldTotal": 85337,
   "topCountries": [
    {
     "code": "BR",
-    "count": 65594
+    "count": 63542
    },
    {
     "code": "AR",
-    "count": 13466
+    "count": 11653
    },
    {
     "code": "PY",
-    "count": 6223
+    "count": 5533
    },
    {
     "code": "BO",
-    "count": 4020
-   },
-   {
-    "code": "PR",
-    "count": 323
+    "count": 3379
    },
    {
     "code": "US",
-    "count": 292
+    "count": 234
+   },
+   {
+    "code": "PR",
+    "count": 211
    },
    {
     "code": "IT",
-    "count": 69
+    "count": 103
    },
    {
     "code": "ZZ",
@@ -100,15 +100,15 @@
    },
    {
     "code": "UY",
-    "count": 48
+    "count": 39
    },
    {
     "code": "ES",
-    "count": 28
+    "count": 30
    },
    {
     "code": "DE",
-    "count": 20
+    "count": 25
    },
    {
     "code": "MX",
@@ -116,5 +116,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

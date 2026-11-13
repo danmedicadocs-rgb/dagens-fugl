@@ -2,7 +2,7 @@
  "key": "ictinaetus-malaiensis",
  "name": "Ictinaetus malaiensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:36:17.175Z",
+ "fetchedAt": "2026-11-13T11:38:13.561Z",
  "names": {
   "da": "Indisk Sortørn",
   "en": "Black Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 367472,
-  "observations": 3358
+  "observations": 3463
  },
  "photos": {
   "male": [],
@@ -68,6 +68,16 @@
     "date": "2020-03-07"
    },
    {
+    "id": 327634816,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327634816/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327634816/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/187358070",
+    "place": "Madugundi, Karnataka, India",
+    "date": "2023-10-13"
+   },
+   {
     "id": 706037026,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/706037026/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/706037026/large.jpg",
@@ -76,16 +86,6 @@
     "source": "https://www.inaturalist.org/observations/385656098",
     "place": "Kongadai, Tamil Nadu 638501, India",
     "date": "2026-07-26"
-   },
-   {
-    "id": 479191615,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191615/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191615/large.jpg",
-    "attribution": "(c) vrxz, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/266699056",
-    "place": "Taiwan",
-    "date": "2025-01-06"
    }
   ],
   "hero": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 72546,
+  "worldTotal": 59056,
   "topCountries": [
    {
     "code": "IN",
-    "count": 33806
+    "count": 24851
    },
    {
     "code": "TW",
-    "count": 17724
-   },
-   {
-    "code": "LK",
-    "count": 3828
-   },
-   {
-    "code": "ID",
-    "count": 3501
+    "count": 14103
    },
    {
     "code": "CN",
-    "count": 3151
+    "count": 3958
+   },
+   {
+    "code": "LK",
+    "count": 3825
+   },
+   {
+    "code": "ID",
+    "count": 3214
    },
    {
     "code": "MY",
-    "count": 2916
+    "count": 2564
    },
    {
     "code": "BT",
-    "count": 2417
+    "count": 1837
    },
    {
     "code": "NP",
-    "count": 1668
+    "count": 1637
    },
    {
     "code": "TH",
-    "count": 1554
+    "count": 1196
    },
    {
     "code": "VN",
-    "count": 1193
+    "count": 1139
    },
    {
     "code": "MM",
-    "count": 343
+    "count": 340
    },
    {
     "code": "KH",
-    "count": 281
+    "count": 200
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "turdus-merula",
  "name": "Turdus merula",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:44.591Z",
+ "fetchedAt": "2026-11-13T11:24:19.523Z",
  "names": {
   "da": "Solsort",
   "en": "Common Blackbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12716,
-  "observations": 268094
+  "observations": 270452
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2490719,
-  "dkTotal": 689298,
+  "dkTotal": 696686,
   "dkMonths": [
-   76612,
-   57302,
-   73554,
-   83650,
-   89040,
-   67437,
-   49623,
-   29211,
-   24778,
-   43949,
-   45504,
-   48478
+   76913,
+   57653,
+   73843,
+   84173,
+   89640,
+   68014,
+   50052,
+   29320,
+   24939,
+   46827,
+   46352,
+   48800
   ],
-  "worldTotal": 13581301,
+  "worldTotal": 14181963,
   "topCountries": [
    {
     "code": "FR",
-    "count": 2061160
+    "count": 2093444
    },
    {
     "code": "GB",
-    "count": 1627634
+    "count": 1837369
    },
    {
     "code": "SE",
-    "count": 1418337
+    "count": 1436281
    },
    {
     "code": "NL",
-    "count": 1366559
+    "count": 1390294
    },
    {
     "code": "ES",
-    "count": 1210410
+    "count": 1256658
    },
    {
     "code": "DE",
-    "count": 913653
-   },
-   {
-    "code": "NO",
-    "count": 722240
+    "count": 962897
    },
    {
     "code": "AU",
-    "count": 715214
+    "count": 738196
+   },
+   {
+    "code": "NO",
+    "count": 733359
    },
    {
     "code": "DK",
-    "count": 689298
+    "count": 696686
    },
    {
     "code": "PT",
-    "count": 464075
+    "count": 464927
    },
    {
     "code": "BE",
-    "count": 408347
+    "count": 419169
    },
    {
     "code": "NZ",
-    "count": 388859
+    "count": 385437
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

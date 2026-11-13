@@ -2,7 +2,7 @@
  "key": "anser-albifrons",
  "name": "Anser albifrons",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:07.295Z",
+ "fetchedAt": "2026-11-13T11:02:54.393Z",
  "names": {
   "da": "Blisgås",
   "en": "Greater white-fronted goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7019,
-  "observations": 39939
+  "observations": 40746
  },
  "photos": {
   "male": [
@@ -68,95 +68,96 @@
     "date": "2021-09-16"
    },
    {
-    "id": 526221542,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/526221542/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/526221542/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/292419420",
-    "place": "Inuvik, NT X0E 0T0, Canada",
-    "date": "2025-06-14"
+    "id": 753174788,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/753174788/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/753174788/large.jpg",
+    "attribution": "(c) blueheronpronouns, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/409608736",
+    "place": "Nagle Pl, Seattle, WA, US",
+    "date": "2026-10-19"
    }
   ],
   "hero": {
-   "id": 473556852,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/large.jpeg",
-   "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+   "id": 162867233,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162867233/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162867233/large.jpeg",
+   "attribution": "(c) Bill Levine, some rights reserved (CC BY), uploaded by Bill Levine",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/263587905",
-   "place": "Юж. административный округ, Москва, Россия",
-   "date": "2025-02-09"
+   "source": "https://www.inaturalist.org/photos/162867233",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498017,
-  "dkTotal": 121213,
+  "dkTotal": 122316,
   "dkMonths": [
-   20621,
-   24558,
-   30817,
-   5505,
-   1649,
-   320,
-   288,
-   220,
-   1914,
-   16720,
-   8727,
-   9866
+   20632,
+   24602,
+   30874,
+   5506,
+   1647,
+   324,
+   287,
+   221,
+   1918,
+   17545,
+   8863,
+   9889
   ],
-  "worldTotal": 1736128,
+  "worldTotal": 1692999,
   "topCountries": [
    {
     "code": "US",
-    "count": 768960
+    "count": 705979
    },
    {
     "code": "SE",
-    "count": 244430
+    "count": 246898
    },
    {
     "code": "NL",
-    "count": 238133
+    "count": 242934
    },
    {
     "code": "DK",
-    "count": 121213
+    "count": 122316
    },
    {
     "code": "CA",
-    "count": 69767
+    "count": 65845
    },
    {
     "code": "BE",
-    "count": 52127
+    "count": 53154
    },
    {
     "code": "DE",
-    "count": 47356
+    "count": 51173
    },
    {
     "code": "RU",
-    "count": 28627
+    "count": 28689
    },
    {
     "code": "GB",
-    "count": 22991
+    "count": 25907
    },
    {
     "code": "NO",
-    "count": 22177
+    "count": 22405
    },
    {
     "code": "EE",
-    "count": 18564
+    "count": 19239
    },
    {
-    "code": "KR",
-    "count": 12179
+    "code": "PL",
+    "count": 15370
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

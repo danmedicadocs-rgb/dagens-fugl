@@ -2,7 +2,7 @@
  "key": "dryobates-minor",
  "name": "Dryobates minor",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:14:27.162Z",
+ "fetchedAt": "2026-11-13T11:18:57.026Z",
  "names": {
   "da": "Lille flagspætte",
   "en": "Lesser Spotted Woodpecker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 792977,
-  "observations": 17507
+  "observations": 17762
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 9015784,
-  "dkTotal": 12566,
+  "dkTotal": 12666,
   "dkMonths": [
-   408,
-   1084,
-   3488,
-   3393,
-   1141,
+   407,
+   1093,
+   3502,
+   3409,
+   1146,
    501,
    384,
-   521,
-   577,
-   488,
-   317,
-   248
+   525,
+   581,
+   529,
+   326,
+   247
   ],
-  "worldTotal": 720173,
+  "worldTotal": 733019,
   "topCountries": [
    {
     "code": "SE",
-    "count": 301804
+    "count": 303294
    },
    {
     "code": "FR",
-    "count": 92290
+    "count": 94166
    },
    {
     "code": "NO",
-    "count": 53219
+    "count": 53885
    },
    {
     "code": "NL",
-    "count": 45645
+    "count": 46302
    },
    {
     "code": "ES",
-    "count": 30710
+    "count": 31361
    },
    {
     "code": "BE",
-    "count": 25986
-   },
-   {
-    "code": "GB",
-    "count": 21525
-   },
-   {
-    "code": "DE",
-    "count": 20076
+    "count": 27037
    },
    {
     "code": "FI",
-    "count": 19148
+    "count": 25479
+   },
+   {
+    "code": "DE",
+    "count": 21383
    },
    {
     "code": "RU",
-    "count": 18340
+    "count": 18732
+   },
+   {
+    "code": "GB",
+    "count": 15044
    },
    {
     "code": "DK",
-    "count": 12566
+    "count": 12666
    },
    {
     "code": "EE",
-    "count": 11918
+    "count": 12227
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

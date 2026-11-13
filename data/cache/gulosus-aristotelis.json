@@ -2,7 +2,7 @@
  "key": "gulosus-aristotelis",
  "name": "Gulosus aristotelis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:00.021Z",
+ "fetchedAt": "2026-11-13T11:07:00.761Z",
  "names": {
   "da": "Topskarv",
   "en": "European shag",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1289604,
-  "observations": 18449
+  "observations": 18761
  },
  "photos": {
   "male": [],
@@ -57,14 +57,14 @@
     "date": "2025-02-09"
    },
    {
-    "id": 459884131,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459884131/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459884131/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/256489066",
-    "place": "Northumberland, UK",
-    "date": "2021-07-10"
+    "id": 571989522,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571989522/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571989522/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/316580527",
+    "place": "Sunderland - Inner harbour",
+    "date": "2025-09-25"
    }
   ],
   "hero": {
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2481861,
-  "dkTotal": 2973,
+  "dkTotal": 2990,
   "dkMonths": [
-   239,
+   237,
    220,
    325,
    405,
-   574,
-   93,
+   572,
+   94,
    34,
-   59,
+   61,
    267,
-   378,
+   396,
    247,
    127
   ],
-  "worldTotal": 533101,
+  "worldTotal": 554129,
   "topCountries": [
    {
     "code": "GB",
-    "count": 127752
+    "count": 143303
    },
    {
     "code": "NO",
-    "count": 121706
+    "count": 122886
    },
    {
     "code": "ES",
-    "count": 62075
+    "count": 61453
    },
    {
     "code": "SE",
-    "count": 60463
-   },
-   {
-    "code": "NL",
-    "count": 27540
+    "count": 61196
    },
    {
     "code": "FR",
-    "count": 27251
+    "count": 28604
+   },
+   {
+    "code": "NL",
+    "count": 28162
    },
    {
     "code": "IE",
-    "count": 20684
+    "count": 22182
    },
    {
     "code": "IM",
-    "count": 19338
+    "count": 19505
    },
    {
     "code": "PT",
-    "count": 14027
+    "count": 11740
    },
    {
     "code": "GR",
-    "count": 8521
+    "count": 9240
    },
    {
     "code": "TR",
-    "count": 8210
+    "count": 8159
    },
    {
     "code": "IS",
-    "count": 7284
+    "count": 7129
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

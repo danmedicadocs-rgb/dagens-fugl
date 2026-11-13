@@ -2,7 +2,7 @@
  "key": "tetrao-urogallus",
  "name": "Tetrao urogallus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:34.493Z",
+ "fetchedAt": "2026-11-13T11:30:21.644Z",
  "names": {
   "da": "Tjur",
   "en": "Western capercaillie",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1026,
-  "observations": 4926
+  "observations": 4979
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2022-08-11"
    },
    {
-    "id": 225770927,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/225770927/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/225770927/large.jpeg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/132580190",
-    "place": "республика Удмуртия, Россия, 427622",
-    "date": "2022-08-28"
-   },
-   {
     "id": 241453016,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241453016/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241453016/large.jpeg",
@@ -116,6 +106,16 @@
     "source": "https://www.inaturalist.org/observations/141001996",
     "place": "North Ostrobothnia, FI-OU, FI",
     "date": "2022-09-11"
+   },
+   {
+    "id": 225770927,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/225770927/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/225770927/large.jpeg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/132580190",
+    "place": "республика Удмуртия, Россия, 427622",
+    "date": "2022-08-28"
    }
   ],
   "hero": {
@@ -146,39 +146,39 @@
    0,
    0
   ],
-  "worldTotal": 232810,
+  "worldTotal": 240575,
   "topCountries": [
    {
     "code": "SE",
-    "count": 123025
-   },
-   {
-    "code": "NO",
-    "count": 27343
+    "count": 123723
    },
    {
     "code": "FI",
-    "count": 23969
+    "count": 30679
+   },
+   {
+    "code": "NO",
+    "count": 27575
    },
    {
     "code": "GB",
-    "count": 23233
+    "count": 23234
    },
    {
     "code": "FR",
-    "count": 11205
+    "count": 11223
    },
    {
     "code": "EE",
-    "count": 6092
+    "count": 6149
    },
    {
     "code": "AT",
-    "count": 5557
+    "count": 5474
    },
    {
     "code": "RU",
-    "count": 4766
+    "count": 4869
    },
    {
     "code": "ES",
@@ -186,11 +186,11 @@
    },
    {
     "code": "DE",
-    "count": 1182
+    "count": 1185
    },
    {
     "code": "UA",
-    "count": 1151
+    "count": 1155
    },
    {
     "code": "CH",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

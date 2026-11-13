@@ -2,7 +2,7 @@
  "key": "jabiru-mycteria",
  "name": "Jabiru mycteria",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:38.241Z",
+ "fetchedAt": "2026-11-13T11:48:57.263Z",
  "names": {
   "da": "Jabiru",
   "en": "Jabiru",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4773,
-  "observations": 5246
+  "observations": 5317
  },
  "photos": {
   "male": [
@@ -68,14 +68,14 @@
    }
   ],
   "hero": {
-   "id": 112882473,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/large.jpeg",
-   "attribution": "(c) Vincent A. Vos, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/69555689",
-   "place": "Vaca Diez, Bolivia",
-   "date": "2021-02-13"
+   "id": 263745861,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263745861/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263745861/large.jpg",
+   "attribution": "(c) Alastair Rae, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/263745861",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 66262,
+  "worldTotal": 49008,
   "topCountries": [
    {
     "code": "BR",
-    "count": 26599
+    "count": 19188
    },
    {
     "code": "CR",
-    "count": 8577
-   },
-   {
-    "code": "BZ",
-    "count": 7489
+    "count": 6400
    },
    {
     "code": "AR",
-    "count": 7206
+    "count": 5360
+   },
+   {
+    "code": "BZ",
+    "count": 5039
    },
    {
     "code": "CO",
-    "count": 3808
+    "count": 2939
    },
    {
     "code": "BO",
-    "count": 2822
-   },
-   {
-    "code": "GY",
-    "count": 2063
-   },
-   {
-    "code": "PY",
-    "count": 1758
+    "count": 2527
    },
    {
     "code": "PE",
-    "count": 1711
+    "count": 1484
+   },
+   {
+    "code": "GY",
+    "count": 1420
+   },
+   {
+    "code": "PY",
+    "count": 1364
    },
    {
     "code": "VE",
-    "count": 1620
+    "count": 1323
    },
    {
     "code": "MX",
-    "count": 947
+    "count": 698
    },
    {
-    "code": "HN",
-    "count": 333
+    "code": "GT",
+    "count": 277
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

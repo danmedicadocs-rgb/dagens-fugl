@@ -2,7 +2,7 @@
  "key": "lophophorus-impejanus",
  "name": "Lophophorus impejanus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:37.804Z",
+ "fetchedAt": "2026-11-13T11:35:41.409Z",
  "names": {
   "da": "Glansfasan",
   "en": "Himalayan Monal",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1175,
-  "observations": 759
+  "observations": 771
  },
  "photos": {
   "male": [
@@ -76,26 +76,26 @@
     "date": "2022-10-02"
    },
    {
-    "id": 170839862,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170839862/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170839862/large.jpeg",
-    "attribution": "(c) Hopeland, some rights reserved (CC BY)",
+    "id": 257250489,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257250489/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257250489/large.jpg",
+    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/102227794",
-    "place": "Pithoragarh, IN-UT, IN",
-    "date": "2021-09-21"
+    "source": "https://www.inaturalist.org/observations/149302509",
+    "place": "Kumaon Division, Uttarakhand, India",
+    "date": "2023-02-20"
    }
   ],
   "juvenile": [],
   "hero": {
-   "id": 483766041,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/269085693",
-   "place": "Гуил, Уттаракханд 246173, Индия",
-   "date": "2025-03-23"
+   "id": 150510992,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150510992/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150510992/large.jpg",
+   "attribution": "(c) Jörg Hempel, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/150510992",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,27 +115,27 @@
    0,
    1
   ],
-  "worldTotal": 11076,
+  "worldTotal": 9596,
   "topCountries": [
    {
     "code": "IN",
-    "count": 7092
+    "count": 5741
    },
    {
     "code": "BT",
-    "count": 1845
+    "count": 1544
    },
    {
     "code": "NP",
-    "count": 1159
+    "count": 1316
    },
    {
     "code": "PK",
-    "count": 196
+    "count": 197
    },
    {
     "code": "CN",
-    "count": 172
+    "count": 183
    },
    {
     "code": "ZZ",
@@ -167,5 +167,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

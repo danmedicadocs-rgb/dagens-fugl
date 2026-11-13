@@ -2,7 +2,7 @@
  "key": "polemaetus-bellicosus",
  "name": "Polemaetus bellicosus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:52.581Z",
+ "fetchedAt": "2026-11-13T11:33:17.061Z",
  "names": {
   "da": "Kampørn",
   "en": "Martial Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5344,
-  "observations": 4604
+  "observations": 4680
  },
  "photos": {
   "male": [],
@@ -36,6 +36,16 @@
     "date": "2024-02-26"
    },
    {
+    "id": 568759921,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/568759921/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/568759921/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/314882622",
+    "place": "Tanzania",
+    "date": "2025-08-24"
+   },
+   {
     "id": 393740193,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393740193/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393740193/large.jpg",
@@ -44,16 +54,6 @@
     "source": "https://www.inaturalist.org/observations/222295898",
     "place": "Queen Elizabeth, UG",
     "date": "2024-02-01"
-   },
-   {
-    "id": 257875968,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257875968/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257875968/large.jpeg",
-    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149634734",
-    "place": "Uganda",
-    "date": "2023-02-05"
    }
   ],
   "adult": [
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 59262,
+  "worldTotal": 58144,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 31965
+    "count": 31925
    },
    {
     "code": "KE",
-    "count": 9941
+    "count": 9504
    },
    {
     "code": "TZ",
-    "count": 4662
-   },
-   {
-    "code": "UG",
-    "count": 2421
+    "count": 4402
    },
    {
     "code": "NA",
-    "count": 2378
+    "count": 2220
+   },
+   {
+    "code": "UG",
+    "count": 2063
    },
    {
     "code": "BW",
-    "count": 2015
+    "count": 2043
    },
    {
     "code": "ZW",
-    "count": 1606
+    "count": 1768
    },
    {
     "code": "ZM",
-    "count": 1312
+    "count": 1413
    },
    {
     "code": "MW",
-    "count": 472
+    "count": 469
    },
    {
     "code": "GM",
-    "count": 456
+    "count": 437
    },
    {
     "code": "MZ",
-    "count": 434
+    "count": 397
    },
    {
     "code": "ET",
-    "count": 341
+    "count": 275
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

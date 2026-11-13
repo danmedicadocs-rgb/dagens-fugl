@@ -2,7 +2,7 @@
  "key": "spheniscus-mendiculus",
  "name": "Spheniscus mendiculus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:53:36.411Z",
+ "fetchedAt": "2026-11-13T11:52:06.934Z",
  "names": {
   "da": "Galapagospingvin",
   "en": "Galápagos Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3815,
-  "observations": 2404
+  "observations": 2447
  },
  "photos": {
   "male": [],
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 600778145,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/large.jpg",
-   "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
+   "id": 192483579,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/192483579/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/192483579/large.jpg",
+   "attribution": "(c) Morten Ross, some rights reserved (CC BY), uploaded by Morten Ross",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/331204844",
-   "place": ", Provincia de Galápagos, Ecuador",
-   "date": "2023-02-14"
+   "source": "https://www.inaturalist.org/photos/192483579",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,11 +116,11 @@
    0,
    0
   ],
-  "worldTotal": 11020,
+  "worldTotal": 9930,
   "topCountries": [
    {
     "code": "EC",
-    "count": 10973
+    "count": 9883
    },
    {
     "code": "US",
@@ -144,5 +144,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

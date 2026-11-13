@@ -2,7 +2,7 @@
  "key": "emberiza-schoeniclus",
  "name": "Emberiza schoeniclus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:34.897Z",
+ "fetchedAt": "2026-11-13T11:28:33.567Z",
  "names": {
   "da": "Rørspurv",
   "en": "Reed Bunting",
@@ -19,184 +19,85 @@
  },
  "inat": {
   "id": 9201,
-  "observations": 48978
+  "observations": 0
  },
  "photos": {
-  "male": [
-   {
-    "id": 163170798,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163170798/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163170798/large.jpeg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98050667",
-    "place": "Spain",
-    "date": "2005-09-19"
-   },
-   {
-    "id": 518997128,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518997128/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518997128/large.jpg",
-    "attribution": "(c) Sophie Hale, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/288588815",
-    "place": "Shapwick Heath, Somerset, UK",
-    "date": "2025-05-29"
-   },
-   {
-    "id": 177350869,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177350869/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177350869/large.jpeg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105670327",
-    "place": "Newport, UK",
-    "date": "2022-01-27"
-   }
-  ],
-  "female": [
-   {
-    "id": 125817015,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125817015/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125817015/large.jpeg",
-    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/76933530",
-    "place": "Район Ідзумі, Иокогама, Канагава, Япония",
-    "date": "2021-05-03"
-   },
-   {
-    "id": 170999120,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170999120/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170999120/large.jpeg",
-    "attribution": "(c) Roland Godon, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/102312374",
-    "place": "34970 Lattes, France",
-    "date": "2021-11-26"
-   },
-   {
-    "id": 176070809,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176070809/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176070809/large.jpeg",
-    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105001845",
-    "place": "Ferrybank, Arklow, Co. Wicklow, Ireland",
-    "date": "2022-01-15"
-   }
-  ],
-  "juvenile": [
-   {
-    "id": 210338086,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210338086/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210338086/large.jpeg",
-    "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124115398",
-    "place": "Эльмаш, Екатеринбург, Свердловская обл., Россия",
-    "date": "2022-06-30"
-   },
-   {
-    "id": 432659840,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432659840/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432659840/large.jpg",
-    "attribution": "(c) Richard Nuttall, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242685590",
-    "place": "Hindley, UK",
-    "date": "2024-09-17"
-   },
-   {
-    "id": 339727579,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339727579/medium.gif",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339727579/large.gif",
-    "attribution": "(c) Golfopolikayak, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/193393435",
-    "place": "Provincia di Potenza, Italia",
-    "date": "2023-12-08"
-   }
-  ],
-  "hero": {
-   "id": 163170798,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163170798/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163170798/large.jpeg",
-   "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/98050667",
-   "place": "Spain",
-   "date": "2005-09-19"
-  }
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
+  "hero": null
  },
  "gbif": {
   "key": 2491557,
-  "dkTotal": 289097,
+  "dkTotal": 290758,
   "dkMonths": [
-   4239,
-   4230,
-   36780,
-   57396,
-   55767,
-   36743,
-   23496,
-   12831,
-   21577,
-   27054,
-   5896,
-   3006
+   4229,
+   4240,
+   36895,
+   57572,
+   55974,
+   36924,
+   23563,
+   12901,
+   21690,
+   27724,
+   5950,
+   3014
   ],
-  "worldTotal": 3654621,
+  "worldTotal": 3767989,
   "topCountries": [
    {
     "code": "SE",
-    "count": 819504
+    "count": 823003
    },
    {
     "code": "NL",
-    "count": 550572
+    "count": 558621
    },
    {
     "code": "GB",
-    "count": 416899
+    "count": 471086
    },
    {
     "code": "ES",
-    "count": 319761
+    "count": 318028
    },
    {
     "code": "DK",
-    "count": 289097
+    "count": 290758
    },
    {
     "code": "FI",
-    "count": 261441
+    "count": 276924
    },
    {
     "code": "FR",
-    "count": 254950
+    "count": 257964
    },
    {
     "code": "NO",
-    "count": 238105
+    "count": 240679
    },
    {
     "code": "BE",
-    "count": 112109
+    "count": 115224
    },
    {
     "code": "DE",
-    "count": 89305
+    "count": 94719
    },
    {
     "code": "PL",
-    "count": 44626
+    "count": 53574
    },
    {
     "code": "RU",
-    "count": 35492
+    "count": 35443
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

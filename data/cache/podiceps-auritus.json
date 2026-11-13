@@ -2,7 +2,7 @@
  "key": "podiceps-auritus",
  "name": "Podiceps auritus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:58.439Z",
+ "fetchedAt": "2026-11-13T11:06:10.520Z",
  "names": {
   "da": "Nordisk lappedykker",
   "en": "Horned Grebe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4209,
-  "observations": 34511
+  "observations": 34958
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2023-02-27"
    },
    {
-    "id": 85628925,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85628925/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85628925/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/53829493",
-    "place": "г. Карпинск, Свердловская обл., Россия",
-    "date": "2020-07-21"
-   },
-   {
     "id": 219640289,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219640289/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219640289/large.jpeg",
@@ -116,87 +106,98 @@
     "source": "https://www.inaturalist.org/observations/129258369",
     "place": "Paimio, Suomi",
     "date": "2022-08-03"
+   },
+   {
+    "id": 85628925,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85628925/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85628925/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/53829493",
+    "place": "г. Карпинск, Свердловская обл., Россия",
+    "date": "2020-07-21"
    }
   ],
   "hero": {
-   "id": 16065549,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16065549/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16065549/large.jpeg",
-   "attribution": "(c) Lisa Wiencek Gerbec, some rights reserved (CC BY)",
+   "id": 112463916,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112463916/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112463916/large.jpg",
+   "attribution": "(c) Andrew Hrycyna, some rights reserved (CC BY), uploaded by Andrew Hrycyna",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/11293632",
-   "place": "Mayfield, OH, USA",
-   "date": "2018-04-21"
+   "source": "https://www.inaturalist.org/photos/112463916",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2482059,
-  "dkTotal": 13066,
+  "dkTotal": 13119,
   "dkMonths": [
-   1814,
-   1279,
-   1492,
-   1882,
-   513,
-   489,
+   1820,
+   1278,
+   1493,
+   1886,
+   512,
+   486,
    245,
    247,
    536,
-   1862,
-   1658,
-   1043
+   1899,
+   1667,
+   1044
   ],
-  "worldTotal": 1892050,
+  "worldTotal": 1737300,
   "topCountries": [
    {
     "code": "US",
-    "count": 1154376
-   },
-   {
-    "code": "CA",
-    "count": 274948
+    "count": 1015870
    },
    {
     "code": "SE",
-    "count": 251262
+    "count": 252195
+   },
+   {
+    "code": "CA",
+    "count": 250215
    },
    {
     "code": "NO",
-    "count": 105639
+    "count": 107151
    },
    {
     "code": "GB",
-    "count": 18956
+    "count": 21076
    },
    {
     "code": "NL",
-    "count": 13597
+    "count": 13921
    },
    {
     "code": "DK",
-    "count": 13066
+    "count": 13119
    },
    {
     "code": "IS",
-    "count": 12441
-   },
-   {
-    "code": "FR",
-    "count": 7879
+    "count": 12057
    },
    {
     "code": "FI",
-    "count": 6213
+    "count": 9276
+   },
+   {
+    "code": "FR",
+    "count": 8001
    },
    {
     "code": "RU",
-    "count": 5534
+    "count": 5701
    },
    {
     "code": "EE",
-    "count": 3894
+    "count": 4018
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

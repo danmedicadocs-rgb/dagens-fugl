@@ -2,7 +2,7 @@
  "key": "cyanopica-cooki",
  "name": "Cyanopica cooki",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:56.449Z",
+ "fetchedAt": "2026-11-13T11:29:46.456Z",
  "names": {
   "da": "Ibererblåskade",
   "en": "Iberian Magpie",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 339684,
-  "observations": 6916
+  "observations": 7003
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
   ],
   "adult": [
    {
-    "id": 245148563,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "id": 205121000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/large.jpg",
+    "attribution": "(c) poblado_verde_en_acción, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/142951880",
-    "place": "Loulé, Portugal",
-    "date": "2022-11-22"
+    "source": "https://www.inaturalist.org/observations/121227937",
+    "place": "Calle de la Tejera, Moralzarzal, Madrid, ES",
+    "date": "2022-06-11"
    },
    {
     "id": 7203452,
@@ -78,25 +78,25 @@
     "date": "2017-04-17"
    },
    {
-    "id": 205121000,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/large.jpg",
-    "attribution": "(c) poblado_verde_en_acción, some rights reserved (CC BY)",
+    "id": 79443686,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79443686/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79443686/large.jpeg",
+    "attribution": "(c) Duarte Frade, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/121227937",
-    "place": "Calle de la Tejera, Moralzarzal, Madrid, ES",
-    "date": "2022-06-11"
+    "source": "https://www.inaturalist.org/observations/50032641",
+    "place": "Faro, Faro, Portugal",
+    "date": "2020-06-16"
    }
   ],
   "hero": {
-   "id": 245148563,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245148563/large.jpeg",
-   "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+   "id": 205121000,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205121000/large.jpg",
+   "attribution": "(c) poblado_verde_en_acción, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/142951880",
-   "place": "Loulé, Portugal",
-   "date": "2022-11-22"
+   "source": "https://www.inaturalist.org/observations/121227937",
+   "place": "Calle de la Tejera, Moralzarzal, Madrid, ES",
+   "date": "2022-06-11"
   }
  },
  "gbif": {
@@ -116,15 +116,15 @@
    1,
    0
   ],
-  "worldTotal": 212215,
+  "worldTotal": 209505,
   "topCountries": [
    {
     "code": "ES",
-    "count": 114628
+    "count": 113688
    },
    {
     "code": "PT",
-    "count": 97507
+    "count": 95737
    },
    {
     "code": "BE",
@@ -147,10 +147,15 @@
     "count": 5
    },
    {
+    "code": "CN",
+    "count": 1
+   },
+   {
     "code": "FR",
-    "count": 2
+    "count": 1
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

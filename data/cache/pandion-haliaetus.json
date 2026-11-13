@@ -2,7 +2,7 @@
  "key": "pandion-haliaetus",
  "name": "Pandion haliaetus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:02:47.404Z",
+ "fetchedAt": "2026-11-13T11:09:20.271Z",
  "names": {
   "da": "Fiskeørn",
   "en": "Osprey",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116999,
-  "observations": 227306
+  "observations": 229533
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 96683942,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96683942/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96683942/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/60463387",
-   "place": "100 Humber Bay Park Rd W, Toronto, ON M8V 3X7, Canada",
-   "date": "2020-09-22"
+   "id": 451322170,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451322170/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451322170/large.jpg",
+   "attribution": "(c) Lawrence Hylton, some rights reserved (CC BY), uploaded by Lawrence Hylton",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/451322170",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480726,
-  "dkTotal": 136731,
+  "dkTotal": 136905,
   "dkMonths": [
    3,
    3,
-   2869,
-   42818,
-   22654,
-   5409,
-   6341,
-   27753,
-   27618,
-   977,
+   2872,
+   42858,
+   22657,
+   5423,
+   6361,
+   27784,
+   27651,
+   1005,
    220,
    6
   ],
-  "worldTotal": 7908420,
+  "worldTotal": 7396444,
   "topCountries": [
    {
     "code": "US",
-    "count": 5563008
+    "count": 5174772
    },
    {
     "code": "CA",
-    "count": 529200
+    "count": 492861
    },
    {
     "code": "SE",
-    "count": 416238
+    "count": 417358
    },
    {
     "code": "DK",
-    "count": 136731
-   },
-   {
-    "code": "MX",
-    "count": 106229
+    "count": 136905
    },
    {
     "code": "AU",
-    "count": 101148
+    "count": 105583
    },
    {
     "code": "FI",
-    "count": 83762
+    "count": 91317
+   },
+   {
+    "code": "MX",
+    "count": 85740
    },
    {
     "code": "NL",
-    "count": 75250
+    "count": 78986
    },
    {
     "code": "TW",
-    "count": 73839
+    "count": 59529
    },
    {
     "code": "ES",
-    "count": 59776
+    "count": 57572
    },
    {
     "code": "NO",
-    "count": 54016
+    "count": 54494
    },
    {
     "code": "FR",
-    "count": 49592
+    "count": 50592
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

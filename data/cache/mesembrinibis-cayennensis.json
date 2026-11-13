@@ -2,7 +2,7 @@
  "key": "mesembrinibis-cayennensis",
  "name": "Mesembrinibis cayennensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:46.118Z",
+ "fetchedAt": "2026-11-13T11:51:29.198Z",
  "names": {
   "da": "Grøn Ibis",
   "en": "Green ibis",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3770,
-  "observations": 4196
+  "observations": 4281
  },
  "photos": {
   "male": [],
@@ -58,14 +58,14 @@
    }
   ],
   "hero": {
-   "id": 422469837,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/large.jpeg",
-   "attribution": "(c) Carlos Alexandre Mattos Raposo, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/237386777",
-   "place": "Campos do Jordão - SP, 12460-000, Brasil",
-   "date": "2024-08-19"
+   "id": 106922022,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106922022/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106922022/large.jpeg",
+   "attribution": "(c) Daniel Cavallari, some rights reserved (CC BY-SA), uploaded by Daniel Cavallari",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/106922022",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 144264,
+  "worldTotal": 121462,
   "topCountries": [
    {
     "code": "BR",
-    "count": 54626
+    "count": 49164
    },
    {
     "code": "CR",
-    "count": 36487
+    "count": 29887
    },
    {
     "code": "CO",
-    "count": 30925
-   },
-   {
-    "code": "PA",
-    "count": 5282
+    "count": 24614
    },
    {
     "code": "PE",
-    "count": 5268
+    "count": 4507
+   },
+   {
+    "code": "PA",
+    "count": 3267
    },
    {
     "code": "BO",
-    "count": 2591
+    "count": 2193
    },
    {
     "code": "VE",
-    "count": 2147
+    "count": 2003
    },
    {
     "code": "AR",
-    "count": 2141
-   },
-   {
-    "code": "GY",
-    "count": 1448
+    "count": 1709
    },
    {
     "code": "EC",
-    "count": 1337
+    "count": 1232
    },
    {
-    "code": "NI",
-    "count": 636
+    "code": "GY",
+    "count": 1071
    },
    {
     "code": "SR",
-    "count": 516
+    "count": 534
+   },
+   {
+    "code": "NI",
+    "count": 443
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

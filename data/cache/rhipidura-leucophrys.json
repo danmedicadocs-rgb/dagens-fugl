@@ -2,7 +2,7 @@
  "key": "rhipidura-leucophrys",
  "name": "Rhipidura leucophrys",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:38:51.143Z",
+ "fetchedAt": "2026-11-13T11:40:27.092Z",
  "names": {
   "da": "Sorthvid Viftehale",
   "en": "Willie Wagtail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8143,
-  "observations": 29986
+  "observations": 30541
  },
  "photos": {
   "male": [
@@ -47,16 +47,6 @@
     "date": "2021-11-17"
    },
    {
-    "id": 2921156,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/medium.JPG",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/large.JPG",
-    "attribution": "(c) gsmith03, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2612319",
-    "place": "Point Malcolm, South Australia",
-    "date": "2016-01-24"
-   },
-   {
     "id": 259481099,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259481099/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259481099/large.jpeg",
@@ -65,6 +55,16 @@
     "source": "https://www.inaturalist.org/observations/150477019",
     "place": "Jan Hammond Reserve, Bartram Rd & Baningan Ave, Success WA 6164, Australia",
     "date": "2023-01-12"
+   },
+   {
+    "id": 2921156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/large.JPG",
+    "attribution": "(c) gsmith03, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2612319",
+    "place": "Point Malcolm, South Australia",
+    "date": "2016-01-24"
    }
   ],
   "hero": {
@@ -95,23 +95,23 @@
    0,
    0
   ],
-  "worldTotal": 1819819,
+  "worldTotal": 1837584,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1801354
+    "count": 1821335
    },
    {
     "code": "PG",
-    "count": 9057
+    "count": 7536
    },
    {
     "code": "ID",
-    "count": 7624
+    "count": 6884
    },
    {
     "code": "SB",
-    "count": 1265
+    "count": 1310
    },
    {
     "code": "ZZ",
@@ -139,5 +139,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

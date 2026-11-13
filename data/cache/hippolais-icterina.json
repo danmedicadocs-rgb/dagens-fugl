@@ -2,7 +2,7 @@
  "key": "hippolais-icterina",
  "name": "Hippolais icterina",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:41.466Z",
+ "fetchedAt": "2026-11-13T11:23:20.615Z",
  "names": {
   "da": "Gulbug",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116918,
-  "observations": 5799
+  "observations": 5824
  },
  "photos": {
   "male": [
@@ -57,84 +57,85 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 135677348,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/large.jpg",
-   "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
+   "id": 1966661,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1966661/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1966661/large.jpg",
+   "attribution": "(c) Ron Knight, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/82652328",
-   "place": "Парк Лесотехнической академии, Санкт-Петербург, Россия",
-   "date": "2021-06-11"
+   "source": "https://www.inaturalist.org/photos/1966661",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2493220,
-  "dkTotal": 74381,
+  "dkTotal": 74377,
   "dkMonths": [
    0,
    0,
    0,
    4,
-   31192,
-   28733,
+   31221,
+   28822,
    9058,
-   5012,
-   317,
+   4893,
+   314,
    1,
    0,
    2
   ],
-  "worldTotal": 524913,
+  "worldTotal": 536896,
   "topCountries": [
    {
     "code": "SE",
-    "count": 229552
+    "count": 230275
    },
    {
     "code": "DK",
-    "count": 74381
+    "count": 74377
    },
    {
     "code": "NL",
-    "count": 47360
+    "count": 47847
    },
    {
     "code": "NO",
-    "count": 44076
+    "count": 44396
    },
    {
     "code": "BE",
-    "count": 23788
+    "count": 25671
    },
    {
     "code": "DE",
-    "count": 18377
+    "count": 19891
    },
    {
     "code": "FI",
-    "count": 14148
+    "count": 16816
    },
    {
     "code": "PL",
-    "count": 12097
+    "count": 13953
    },
    {
     "code": "EE",
-    "count": 9707
+    "count": 9962
    },
    {
     "code": "RU",
-    "count": 8741
+    "count": 8864
    },
    {
     "code": "FR",
-    "count": 7621
+    "count": 7630
    },
    {
     "code": "CZ",
-    "count": 5460
+    "count": 6109
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

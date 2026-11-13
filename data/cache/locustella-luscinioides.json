@@ -2,7 +2,7 @@
  "key": "locustella-luscinioides",
  "name": "Locustella luscinioides",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:05.868Z",
+ "fetchedAt": "2026-11-13T11:22:47.413Z",
  "names": {
   "da": "Savisanger",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116940,
-  "observations": 3162
+  "observations": 3174
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2493551,
-  "dkTotal": 4745,
+  "dkTotal": 4743,
   "dkMonths": [
    1,
    0,
    0,
-   831,
-   1944,
-   1256,
-   587,
+   830,
+   1942,
+   1254,
+   590,
    60,
    5,
    6,
    0,
    0
   ],
-  "worldTotal": 184672,
+  "worldTotal": 189912,
   "topCountries": [
    {
     "code": "ES",
-    "count": 28492
+    "count": 27456
    },
    {
     "code": "SE",
-    "count": 25209
+    "count": 25323
    },
    {
     "code": "NL",
-    "count": 20121
+    "count": 20884
    },
    {
     "code": "FR",
-    "count": 19176
+    "count": 19458
    },
    {
     "code": "PL",
-    "count": 13563
-   },
-   {
-    "code": "IL",
-    "count": 12263
+    "count": 16388
    },
    {
     "code": "DE",
-    "count": 9978
+    "count": 11119
    },
    {
-    "code": "PT",
-    "count": 6481
+    "code": "IL",
+    "count": 11107
    },
    {
     "code": "BE",
-    "count": 6407
+    "count": 6751
+   },
+   {
+    "code": "PT",
+    "count": 6179
    },
    {
     "code": "CZ",
-    "count": 4857
+    "count": 4885
    },
    {
     "code": "DK",
-    "count": 4745
+    "count": 4743
    },
    {
     "code": "HU",
-    "count": 4313
+    "count": 4110
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

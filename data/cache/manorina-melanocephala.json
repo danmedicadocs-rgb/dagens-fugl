@@ -2,7 +2,7 @@
  "key": "manorina-melanocephala",
  "name": "Manorina melanocephala",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:40:25.971Z",
+ "fetchedAt": "2026-11-13T11:41:44.521Z",
  "names": {
   "da": "Hvidpandet Bjældefugl",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12231,
-  "observations": 33443
+  "observations": 34141
  },
  "photos": {
   "male": [
@@ -57,14 +57,14 @@
     "date": "2023-10-07"
    },
    {
-    "id": 113845557,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113845557/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113845557/large.jpeg",
-    "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
+    "id": 63924664,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63924664/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63924664/large.jpeg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70072220",
+    "source": "https://www.inaturalist.org/observations/40239920",
     "place": "Brisbane QLD, Australia",
-    "date": "2021-02-24"
+    "date": "2017-07-23"
    }
   ],
   "hero": {
@@ -95,11 +95,11 @@
    0,
    0
   ],
-  "worldTotal": 1398721,
+  "worldTotal": 1472453,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1398370
+    "count": 1472101
    },
    {
     "code": "US",
@@ -123,5 +123,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

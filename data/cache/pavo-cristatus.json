@@ -2,7 +2,7 @@
  "key": "pavo-cristatus",
  "name": "Pavo cristatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:21.987Z",
+ "fetchedAt": "2026-11-13T11:35:27.644Z",
  "names": {
   "da": "Påfugl",
   "en": "Indian Peafowl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1204,
-  "observations": 57788
+  "observations": 58947
  },
  "photos": {
   "male": [
@@ -108,95 +108,96 @@
     "date": "2023-10-14"
    },
    {
-    "id": 498870892,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498870892/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498870892/large.jpeg",
-    "attribution": "(c) Liren Varghese, some rights reserved (CC BY)",
+    "id": 221945325,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/221945325/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/221945325/large.jpeg",
+    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/277835744",
-    "place": "Tule Springs, Las Vegas, NV, USA",
-    "date": "2025-04-27"
+    "source": "https://www.inaturalist.org/observations/130501140",
+    "place": "Kattampally",
+    "date": "2020-05-20"
    }
   ],
   "hero": {
-   "id": 307026691,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026691/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026691/large.jpg",
-   "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
+   "id": 407381945,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407381945/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407381945/large.jpg",
+   "attribution": "(c) Sarah Stierch, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/176588709",
-   "place": "Kachchh, IN-GJ, IN",
-   "date": "2019-02-24"
+   "source": "https://www.inaturalist.org/photos/407381945",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9451184,
-  "dkTotal": 1038,
+  "dkTotal": 1044,
   "dkMonths": [
    49,
    38,
    99,
    122,
-   227,
-   216,
+   228,
+   219,
    88,
    74,
-   50,
-   28,
+   51,
+   29,
    23,
    22
   ],
-  "worldTotal": 669794,
+  "worldTotal": 619925,
   "topCountries": [
    {
     "code": "IN",
-    "count": 525408
+    "count": 474626
    },
    {
     "code": "US",
-    "count": 66441
+    "count": 63656
    },
    {
     "code": "LK",
-    "count": 27296
+    "count": 28369
    },
    {
     "code": "AU",
-    "count": 8710
+    "count": 9682
    },
    {
     "code": "ZA",
-    "count": 7644
-   },
-   {
-    "code": "TW",
-    "count": 5089
-   },
-   {
-    "code": "NZ",
-    "count": 5087
+    "count": 7678
    },
    {
     "code": "NP",
-    "count": 4512
+    "count": 5207
+   },
+   {
+    "code": "NZ",
+    "count": 4835
+   },
+   {
+    "code": "TW",
+    "count": 4379
    },
    {
     "code": "CA",
-    "count": 2412
+    "count": 2912
    },
    {
     "code": "ES",
-    "count": 1630
-   },
-   {
-    "code": "BE",
-    "count": 1400
+    "count": 1726
    },
    {
     "code": "GB",
-    "count": 1228
+    "count": 1423
+   },
+   {
+    "code": "BE",
+    "count": 1420
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

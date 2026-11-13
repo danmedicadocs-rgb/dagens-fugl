@@ -2,7 +2,7 @@
  "key": "columba-oenas",
  "name": "Columba oenas",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:47.535Z",
+ "fetchedAt": "2026-11-13T11:16:51.439Z",
  "names": {
   "da": "Huldue",
   "en": "Stock Dove",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3033,
-  "observations": 15898
+  "observations": 16024
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2495471,
-  "dkTotal": 108548,
+  "dkTotal": 109144,
   "dkMonths": [
-   2840,
-   6398,
-   22055,
-   19562,
-   14202,
-   7950,
-   6593,
-   6858,
-   7862,
-   10915,
-   2057,
-   1209
+   2844,
+   6414,
+   22076,
+   19591,
+   14218,
+   7957,
+   6610,
+   6876,
+   7883,
+   11307,
+   2108,
+   1213
   ],
-  "worldTotal": 1523415,
+  "worldTotal": 1623614,
   "topCountries": [
    {
     "code": "GB",
-    "count": 372392
+    "count": 440241
    },
    {
     "code": "SE",
-    "count": 365791
+    "count": 367635
    },
    {
     "code": "NL",
-    "count": 250224
+    "count": 256964
    },
    {
     "code": "DK",
-    "count": 108548
+    "count": 109144
    },
    {
     "code": "BE",
-    "count": 90488
+    "count": 93834
    },
    {
     "code": "FR",
-    "count": 89689
+    "count": 92861
    },
    {
     "code": "DE",
-    "count": 52390
+    "count": 56728
    },
    {
     "code": "NO",
-    "count": 44269
+    "count": 44801
    },
    {
     "code": "ES",
-    "count": 42126
+    "count": 42414
    },
    {
     "code": "FI",
-    "count": 33692
+    "count": 38596
+   },
+   {
+    "code": "PL",
+    "count": 10260
    },
    {
     "code": "CZ",
-    "count": 9193
-   },
-   {
-    "code": "EE",
-    "count": 8559
+    "count": 9944
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

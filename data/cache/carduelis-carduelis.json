@@ -2,7 +2,7 @@
  "key": "carduelis-carduelis",
  "name": "Carduelis carduelis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:52.335Z",
+ "fetchedAt": "2026-11-13T11:27:54.885Z",
  "names": {
   "da": "Stillids",
   "en": "European Goldfinch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9398,
-  "observations": 130462
+  "observations": 131695
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2494686,
-  "dkTotal": 257262,
+  "dkTotal": 259563,
   "dkMonths": [
-   18118,
-   14893,
-   25698,
-   37212,
-   30582,
-   19824,
-   20228,
-   18990,
-   18764,
-   25184,
-   15384,
-   12331
+   18156,
+   14984,
+   25820,
+   37351,
+   30714,
+   19930,
+   20369,
+   19018,
+   18857,
+   26266,
+   15671,
+   12373
   ],
-  "worldTotal": 6507641,
+  "worldTotal": 6816919,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1098902
+    "count": 1254506
    },
    {
     "code": "ES",
-    "count": 1023255
+    "count": 1051678
    },
    {
     "code": "FR",
-    "count": 797651
+    "count": 810096
    },
    {
     "code": "SE",
-    "count": 725481
+    "count": 734125
    },
    {
     "code": "NL",
-    "count": 556689
+    "count": 568047
    },
    {
     "code": "DE",
-    "count": 330539
+    "count": 353520
    },
    {
     "code": "DK",
-    "count": 257262
+    "count": 259563
    },
    {
     "code": "PT",
-    "count": 254163
+    "count": 249879
    },
    {
     "code": "AU",
-    "count": 244051
+    "count": 243433
    },
    {
     "code": "NO",
-    "count": 197051
+    "count": 201248
    },
    {
     "code": "NZ",
-    "count": 179005
+    "count": 174040
    },
    {
     "code": "BE",
-    "count": 94064
+    "count": 97412
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

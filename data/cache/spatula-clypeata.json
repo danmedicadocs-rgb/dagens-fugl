@@ -2,7 +2,7 @@
  "key": "spatula-clypeata",
  "name": "Spatula clypeata",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:33.378Z",
+ "fetchedAt": "2026-11-13T11:04:07.934Z",
  "names": {
   "da": "Skeand",
   "en": "Northern Shoveler",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 558438,
-  "observations": 141768
+  "observations": 143826
  },
  "photos": {
   "male": [
+   {
+    "id": 760981783,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760981783/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760981783/large.jpg",
+    "attribution": "(c) Hal, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/413466451",
+    "place": "Plymouth, MN, USA",
+    "date": "2026-11-07"
+   },
    {
     "id": 617380629,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617380629/medium.jpg",
@@ -32,16 +42,6 @@
     "source": "https://www.inaturalist.org/observations/339385176",
     "place": "Flowing Wells, Tucson, AZ, USA",
     "date": "2026-02-15"
-   },
-   {
-    "id": 64166030,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64166030/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64166030/large.jpeg",
-    "attribution": "(c) Mary Krieger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/40423400",
-    "place": "Comox Valley, BC, Canada",
-    "date": "2020-03-20"
    },
    {
     "id": 513735586,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 617380629,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617380629/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617380629/large.jpg",
-   "attribution": "(c) Ron Bondy, some rights reserved (CC BY-SA)",
+   "id": 760981783,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760981783/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760981783/large.jpg",
+   "attribution": "(c) Hal, some rights reserved (CC BY-SA)",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/339385176",
-   "place": "Flowing Wells, Tucson, AZ, USA",
-   "date": "2026-02-15"
+   "source": "https://www.inaturalist.org/observations/413466451",
+   "place": "Plymouth, MN, USA",
+   "date": "2026-11-07"
   }
  },
  "gbif": {
   "key": 8332393,
-  "dkTotal": 207379,
+  "dkTotal": 208761,
   "dkMonths": [
-   3673,
-   3374,
-   19496,
-   50398,
-   31626,
-   17985,
-   9451,
-   17849,
-   20130,
-   18772,
-   10325,
-   4192
+   3687,
+   3389,
+   19550,
+   50472,
+   31648,
+   18025,
+   9469,
+   17850,
+   20192,
+   19659,
+   10496,
+   4216
   ],
-  "worldTotal": 6531261,
+  "worldTotal": 6139649,
   "topCountries": [
    {
     "code": "US",
-    "count": 3405422
+    "count": 3033318
    },
    {
     "code": "CA",
-    "count": 520042
+    "count": 472515
    },
    {
     "code": "NL",
-    "count": 453038
+    "count": 463824
    },
    {
     "code": "SE",
-    "count": 436212
+    "count": 438234
    },
    {
     "code": "GB",
-    "count": 349978
+    "count": 399347
    },
    {
     "code": "DK",
-    "count": 207379
+    "count": 208761
    },
    {
     "code": "ES",
-    "count": 185497
+    "count": 179486
    },
    {
     "code": "FR",
-    "count": 154623
+    "count": 158562
    },
    {
     "code": "BE",
-    "count": 138520
+    "count": 140510
    },
    {
     "code": "IN",
-    "count": 101902
+    "count": 81486
    },
    {
     "code": "TW",
-    "count": 82818
+    "count": 67400
    },
    {
     "code": "DE",
-    "count": 60514
+    "count": 63915
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

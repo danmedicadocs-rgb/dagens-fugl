@@ -2,7 +2,7 @@
  "key": "icterus-galbula",
  "name": "Icterus galbula",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:42:59.088Z",
+ "fetchedAt": "2026-11-13T11:43:53.938Z",
  "names": {
   "da": "Baltimoretrupial",
   "en": "Baltimore Oriole",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 9346,
-  "observations": 77370
+  "observations": 77630
  },
  "photos": {
   "male": [
-   {
-    "id": 510927863,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/284311444",
-    "place": "1PVille",
-    "date": "2025-05-21"
-   },
    {
     "id": 511623350,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511623350/medium.jpg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/284673231",
     "place": "Restricted Access: Camp Edwards, Bourne, MA, USA",
     "date": "2025-05-27"
+   },
+   {
+    "id": 510927863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/large.jpg",
+    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/284311444",
+    "place": "1PVille",
+    "date": "2025-05-21"
    },
    {
     "id": 659502655,
@@ -66,16 +66,6 @@
     "date": "2023-05-18"
    },
    {
-    "id": 246868092,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246868092/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246868092/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/143898034",
-    "place": "Villa de Leyva, Boyacá, Colombia",
-    "date": "2022-12-06"
-   },
-   {
     "id": 545571421,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571421/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571421/large.jpg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/302728743",
     "place": "Floracliff Trails End Lodge pinpointed",
     "date": "2025-07-15"
+   },
+   {
+    "id": 658198561,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658198561/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658198561/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/360700254",
+    "place": "Oklahoma, US",
+    "date": "2026-05-10"
    }
   ],
   "juvenile": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 510927863,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/large.jpg",
-   "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/284311444",
-   "place": "1PVille",
-   "date": "2025-05-21"
+   "id": 145445553,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145445553/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145445553/large.jpg",
+   "attribution": "no rights reserved, uploaded by Chrissy McClarren and Andy Reago",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/145445553",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 4306538,
+  "worldTotal": 4143117,
   "topCountries": [
    {
     "code": "US",
-    "count": 3305079
+    "count": 3254435
    },
    {
     "code": "CA",
-    "count": 633741
+    "count": 603760
    },
    {
     "code": "CR",
-    "count": 181022
+    "count": 143816
    },
    {
     "code": "GT",
-    "count": 37420
+    "count": 28617
    },
    {
     "code": "MX",
-    "count": 36125
+    "count": 26927
    },
    {
     "code": "BZ",
-    "count": 34933
+    "count": 25631
    },
    {
     "code": "PA",
-    "count": 22537
+    "count": 17074
    },
    {
     "code": "HN",
-    "count": 17155
+    "count": 11286
    },
    {
     "code": "NI",
-    "count": 12435
-   },
-   {
-    "code": "CO",
-    "count": 9761
+    "count": 8987
    },
    {
     "code": "SV",
-    "count": 8877
+    "count": 8108
+   },
+   {
+    "code": "CO",
+    "count": 7446
    },
    {
     "code": "SE",
-    "count": 1909
+    "count": 1899
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

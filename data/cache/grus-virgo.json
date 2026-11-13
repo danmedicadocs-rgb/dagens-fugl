@@ -2,7 +2,7 @@
  "key": "grus-virgo",
  "name": "Grus virgo",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:50.281Z",
+ "fetchedAt": "2026-11-13T11:35:56.302Z",
  "names": {
   "da": "Jomfrutrane",
   "en": "Demoiselle Crane",
@@ -14,7 +14,7 @@
  "wiki": null,
  "inat": {
   "id": 48,
-  "observations": 4056
+  "observations": 4111
  },
  "photos": {
   "male": [],
@@ -53,30 +53,30 @@
     "date": "2020-06-09"
    },
    {
-    "id": 705226226,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/705226226/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/705226226/large.jpg",
-    "attribution": "(c) Надежда Костюкова, some rights reserved (CC BY)",
+    "id": 636443717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636443717/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636443717/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384240302",
-    "place": "Респ. Алтай, Россия, 649446",
-    "date": "2026-07-23"
+    "source": "https://www.inaturalist.org/observations/348926278",
+    "place": "4CQ7+RFV, Khichan, Rajasthan 342308, India",
+    "date": "2026-04-08"
    }
   ],
   "hero": {
-   "id": 197802886,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197802886/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197802886/large.jpeg",
-   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
+   "id": 129040627,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129040627/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/129040627/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/117144085",
-   "place": "Томский р-н, Томская обл., Россия",
-   "date": "2022-05-14"
+   "source": "https://www.inaturalist.org/photos/129040627",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2474936,
-  "dkTotal": 155,
+  "dkTotal": 154,
   "dkMonths": [
    0,
    3,
@@ -85,63 +85,64 @@
    2,
    6,
    93,
-   50,
+   49,
    0,
    0,
    0,
    0
   ],
-  "worldTotal": 25525,
+  "worldTotal": 23047,
   "topCountries": [
    {
     "code": "IN",
-    "count": 8971
+    "count": 7317
    },
    {
     "code": "MN",
-    "count": 5373
+    "count": 4590
    },
    {
     "code": "RU",
-    "count": 2897
+    "count": 2863
    },
    {
     "code": "KZ",
-    "count": 1665
+    "count": 1575
    },
    {
     "code": "NL",
-    "count": 1242
+    "count": 1355
    },
    {
     "code": "UA",
-    "count": 846
+    "count": 870
    },
    {
     "code": "SE",
-    "count": 749
+    "count": 752
    },
    {
     "code": "CN",
-    "count": 533
+    "count": 532
    },
    {
     "code": "TR",
-    "count": 265
+    "count": 260
    },
    {
     "code": "NO",
-    "count": 231
+    "count": 236
    },
    {
-    "code": "GE",
+    "code": "BE",
     "count": 219
    },
    {
-    "code": "IL",
-    "count": 208
+    "code": "GE",
+    "count": 187
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

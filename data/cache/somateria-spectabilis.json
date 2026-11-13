@@ -2,7 +2,7 @@
  "key": "somateria-spectabilis",
  "name": "Somateria spectabilis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:14.713Z",
+ "fetchedAt": "2026-11-13T11:04:40.147Z",
  "names": {
   "da": "Kongeedderfugl",
   "en": "King Eider",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7030,
-  "observations": 2877
+  "observations": 2894
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2026-03-10"
    },
    {
-    "id": 58148685,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58148685/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58148685/large.jpeg",
-    "attribution": "(c) Jake McCumber, some rights reserved (CC BY)",
+    "id": 208240483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208240483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208240483/large.jpg",
+    "attribution": "(c) Pål A. Olsvik, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36754226",
-    "place": "Cape Cod Canal, Bourne, MA, USA",
-    "date": "2017-03-26"
+    "source": "https://www.inaturalist.org/observations/122956185",
+    "place": "Vardo, Norway",
+    "date": "1996-03-24"
    }
   ],
   "female": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498350,
-  "dkTotal": 2542,
+  "dkTotal": 2545,
   "dkMonths": [
    530,
    323,
-   514,
+   512,
    260,
    139,
    22,
-   5,
+   6,
    32,
    26,
-   162,
+   165,
    288,
    237
   ],
-  "worldTotal": 157131,
+  "worldTotal": 144091,
   "topCountries": [
    {
     "code": "US",
-    "count": 76269
+    "count": 65477
    },
    {
     "code": "CA",
-    "count": 21110
+    "count": 18680
    },
    {
     "code": "NO",
-    "count": 16998
+    "count": 16957
    },
    {
     "code": "SE",
-    "count": 14878
+    "count": 14940
    },
    {
     "code": "RU",
-    "count": 8142
+    "count": 8096
    },
    {
     "code": "SJ",
-    "count": 7849
+    "count": 7906
    },
    {
     "code": "NL",
-    "count": 2812
+    "count": 2814
    },
    {
     "code": "DK",
-    "count": 2542
+    "count": 2545
    },
    {
     "code": "IS",
-    "count": 2118
+    "count": 2020
    },
    {
     "code": "GB",
-    "count": 1701
+    "count": 1720
    },
    {
     "code": "GL",
-    "count": 1030
+    "count": 1059
    },
    {
     "code": "FI",
-    "count": 389
+    "count": 540
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

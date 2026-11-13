@@ -2,7 +2,7 @@
  "key": "sula-granti",
  "name": "Sula granti",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:53:58.851Z",
+ "fetchedAt": "2026-11-13T11:52:22.969Z",
  "names": {
   "da": "Nazcasule",
   "en": "Nazca Booby",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 56768,
-  "observations": 3807
+  "observations": 3872
  },
  "photos": {
   "male": [
@@ -68,14 +68,14 @@
    }
   ],
   "hero": {
-   "id": 132017347,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132017347/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132017347/large.jpeg",
-   "attribution": "(c) Judith Kerman, some rights reserved (CC BY)",
+   "id": 126198670,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126198670/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126198670/large.jpeg",
+   "attribution": "(c) Juan Carlos Caicedo Hernández, some rights reserved (CC BY), uploaded by Juan Carlos Caicedo Hernández",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/80540633",
-   "place": "Genovesa Island, Ecuador",
-   "date": "2005-06-13"
+   "source": "https://www.inaturalist.org/photos/126198670",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 31645,
+  "worldTotal": 22932,
   "topCountries": [
    {
     "code": "EC",
-    "count": 22623
+    "count": 18569
    },
    {
     "code": "US",
-    "count": 4819
+    "count": 1688
    },
    {
     "code": "MX",
-    "count": 1175
+    "count": 771
    },
    {
     "code": "CR",
-    "count": 1044
+    "count": 540
    },
    {
     "code": "CO",
-    "count": 639
-   },
-   {
-    "code": "GT",
     "count": 395
    },
    {
     "code": "PA",
-    "count": 352
+    "count": 258
+   },
+   {
+    "code": "GT",
+    "count": 221
    },
    {
     "code": "SV",
-    "count": 219
+    "count": 130
    },
    {
     "code": "PE",
-    "count": 138
-   },
-   {
-    "code": "FR",
-    "count": 50
+    "count": 75
    },
    {
     "code": "UM",
-    "count": 43
+    "count": 59
    },
    {
-    "code": "CL",
-    "count": 29
+    "code": "FR",
+    "count": 54
+   },
+   {
+    "code": "NI",
+    "count": 40
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

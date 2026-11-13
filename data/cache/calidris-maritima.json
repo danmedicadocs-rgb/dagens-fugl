@@ -2,7 +2,7 @@
  "key": "calidris-maritima",
  "name": "Calidris maritima",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:42.446Z",
+ "fetchedAt": "2026-11-13T11:11:49.268Z",
  "names": {
   "da": "Sortgrå ryle",
   "en": "Purple Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3856,
-  "observations": 7404
+  "observations": 7518
  },
  "photos": {
   "male": [
@@ -58,84 +58,85 @@
    }
   ],
   "hero": {
-   "id": 347080847,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/large.jpeg",
-   "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
+   "id": 92934185,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92934185/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92934185/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/197111085",
-   "place": "Brantley Lake, Eddy County, NM, USA",
-   "date": "2024-01-19"
+   "source": "https://www.inaturalist.org/photos/92934185",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481743,
-  "dkTotal": 20891,
+  "dkTotal": 21225,
   "dkMonths": [
-   4335,
-   3182,
-   1622,
-   596,
-   352,
-   15,
+   4339,
+   3195,
+   1620,
+   595,
+   354,
+   16,
    12,
-   243,
-   1121,
-   4733,
-   2721,
-   1950
+   241,
+   1124,
+   4995,
+   2767,
+   1958
   ],
-  "worldTotal": 409178,
+  "worldTotal": 395978,
   "topCountries": [
    {
     "code": "US",
-    "count": 99948
+    "count": 82428
    },
    {
     "code": "NL",
-    "count": 69490
+    "count": 71075
    },
    {
     "code": "SE",
-    "count": 66697
+    "count": 67338
    },
    {
     "code": "NO",
-    "count": 48237
+    "count": 48665
    },
    {
     "code": "GB",
-    "count": 24746
+    "count": 28215
    },
    {
     "code": "DK",
-    "count": 20891
+    "count": 21225
    },
    {
     "code": "CA",
-    "count": 20762
+    "count": 18585
    },
    {
     "code": "SJ",
-    "count": 14031
+    "count": 14182
    },
    {
     "code": "IS",
-    "count": 12950
+    "count": 12424
    },
    {
     "code": "FR",
-    "count": 6331
+    "count": 6452
+   },
+   {
+    "code": "DE",
+    "count": 4281
    },
    {
     "code": "BE",
-    "count": 4063
-   },
-   {
-    "code": "ES",
-    "count": 4055
+    "count": 4111
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

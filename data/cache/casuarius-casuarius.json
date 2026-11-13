@@ -2,10 +2,10 @@
  "key": "casuarius-casuarius",
  "name": "Casuarius casuarius",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:23.982Z",
+ "fetchedAt": "2026-11-13T11:39:04.152Z",
  "names": {
   "da": "Hjelmkasuar",
-  "en": "Southern Cassowary",
+  "en": "Southern cassowary",
   "accepted": "Casuarius casuarius"
  },
  "wikidata": {
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20500,
-  "observations": 3686
+  "observations": 3777
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 559082050,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559082050/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559082050/large.jpg",
-   "attribution": "(c) Romain Boisseau, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/309806702",
-   "place": "Cow Bay QLD, Australie",
-   "date": "2024-10-29"
+   "id": 32203941,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32203941/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32203941/large.jpeg",
+   "attribution": "(c) coenobita, some rights reserved (CC BY), uploaded by coenobita",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/32203941",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 12809,
+  "worldTotal": 13393,
   "topCountries": [
    {
     "code": "AU",
-    "count": 11925
+    "count": 12530
    },
    {
     "code": "ID",
-    "count": 154
+    "count": 156
    },
    {
     "code": "PG",
-    "count": 146
+    "count": 126
    },
    {
     "code": "ZZ",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "gelochelidon-nilotica",
  "name": "Gelochelidon nilotica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:10:11.418Z",
+ "fetchedAt": "2026-11-13T11:15:30.166Z",
  "names": {
   "da": "Sandterne",
   "en": "Gull-billed Tern",
@@ -19,13 +19,44 @@
  },
  "inat": {
   "id": 144536,
-  "observations": 11213
+  "observations": 11341
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 710967288,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710967288/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710967288/large.jpg",
+    "attribution": "(c) SIA, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/388208461",
+    "place": "Опукский заповедник,Крым",
+    "date": "2026-08-03"
+   },
+   {
+    "id": 312647779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312647779/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312647779/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/179572390",
+    "place": "Portugal",
+    "date": "2023-08-19"
+   }
+  ],
   "adult": [
+   {
+    "id": 456344791,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456344791/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456344791/large.jpeg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254734609",
+    "place": "Pantai, kampung sungai kajang baru, 45500 Tanjung Karang, Selangor, Malaysia",
+    "date": "2024-12-05"
+   },
    {
     "id": 342060675,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/medium.jpeg",
@@ -37,46 +68,36 @@
     "date": "2023-11-28"
    },
    {
-    "id": 303269368,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303269368/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303269368/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
+    "id": 689988212,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689988212/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689988212/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/174561519",
-    "place": "Chambers County, TX, USA",
-    "date": "2023-07-22"
-   },
-   {
-    "id": 202700796,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202700796/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202700796/large.jpg",
-    "attribution": "(c) CK2AZ, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/119879506",
-    "place": "Texas City Channel, Bolivar Peninsula, TX, US",
-    "date": "2022-05-25"
+    "source": "https://www.inaturalist.org/observations/377323711",
+    "place": "PR97+F4V, Gujarat 362720, India",
+    "date": "2026-06-30"
    }
   ],
   "hero": {
-   "id": 342060675,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/large.jpeg",
-   "attribution": "(c) Tristan Jobin, some rights reserved (CC BY)",
+   "id": 479191344,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191344/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191344/large.jpeg",
+   "attribution": "(c) Amber M. King, some rights reserved (CC BY), uploaded by Amber M. King",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/194575834",
-   "place": "Pak Tale, Ban Laem District, Phetchaburi, Thailand",
-   "date": "2023-11-28"
+   "source": "https://www.inaturalist.org/photos/479191344",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481263,
-  "dkTotal": 1576,
+  "dkTotal": 1572,
   "dkMonths": [
    0,
    0,
    1,
    23,
-   595,
+   592,
    500,
    250,
    89,
@@ -85,57 +106,58 @@
    0,
    1
   ],
-  "worldTotal": 418449,
+  "worldTotal": 363973,
   "topCountries": [
    {
     "code": "US",
-    "count": 140875
+    "count": 112855
    },
    {
     "code": "ES",
-    "count": 49058
+    "count": 47687
    },
    {
     "code": "IN",
-    "count": 37918
+    "count": 29183
    },
    {
     "code": "FR",
-    "count": 19558
+    "count": 20175
    },
    {
     "code": "AU",
-    "count": 18253
-   },
-   {
-    "code": "MX",
-    "count": 10250
+    "count": 18243
    },
    {
     "code": "NL",
-    "count": 9552
+    "count": 10157
    },
    {
-    "code": "TW",
-    "count": 7378
+    "code": "MX",
+    "count": 7125
    },
    {
     "code": "AE",
-    "count": 6968
+    "count": 7018
    },
    {
     "code": "KE",
-    "count": 6966
-   },
-   {
-    "code": "LK",
-    "count": 6880
+    "count": 6507
    },
    {
     "code": "CN",
-    "count": 6001
+    "count": 6408
+   },
+   {
+    "code": "LK",
+    "count": 6373
+   },
+   {
+    "code": "TW",
+    "count": 6312
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

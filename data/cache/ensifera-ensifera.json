@@ -2,7 +2,7 @@
  "key": "ensifera-ensifera",
  "name": "Ensifera ensifera",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:08.549Z",
+ "fetchedAt": "2026-11-13T11:49:17.980Z",
  "names": {
   "da": "Sværdkolibri",
   "en": "Sword-billed hummingbird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6458,
-  "observations": 1271
+  "observations": 1284
  },
  "photos": {
   "male": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 60752374,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60752374/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60752374/large.jpg",
-   "attribution": "(c) Laura Gaudette, some rights reserved (CC BY)",
+   "id": 105990339,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105990339/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105990339/large.jpeg",
+   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/38241997",
-   "place": "El Cerrito, La Calera, Cundinamarca, Colombia",
-   "date": "2020-01-13"
+   "source": "https://www.inaturalist.org/photos/105990339",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,27 +126,27 @@
    0,
    0
   ],
-  "worldTotal": 34312,
+  "worldTotal": 24589,
   "topCountries": [
    {
     "code": "CO",
-    "count": 15530
+    "count": 10517
    },
    {
     "code": "EC",
-    "count": 13355
+    "count": 9625
    },
    {
     "code": "PE",
-    "count": 5010
+    "count": 4045
    },
    {
     "code": "VE",
-    "count": 151
+    "count": 147
    },
    {
     "code": "BO",
-    "count": 55
+    "count": 44
    },
    {
     "code": "US",
@@ -166,5 +166,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

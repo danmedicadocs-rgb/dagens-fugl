@@ -2,7 +2,7 @@
  "key": "brotogeris-jugularis",
  "name": "Brotogeris jugularis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:49.561Z",
+ "fetchedAt": "2026-11-13T11:50:40.986Z",
  "names": {
   "da": "Toviparakit",
   "en": "Orange-chinned Parakeet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19211,
-  "observations": 8230
+  "observations": 8327
  },
  "photos": {
   "male": [
@@ -85,43 +85,43 @@
    0,
    0
   ],
-  "worldTotal": 426124,
+  "worldTotal": 367190,
   "topCountries": [
    {
     "code": "CR",
-    "count": 182948
+    "count": 156835
    },
    {
     "code": "PA",
-    "count": 97214
+    "count": 81592
    },
    {
     "code": "CO",
-    "count": 79052
+    "count": 68754
    },
    {
     "code": "SV",
-    "count": 18124
-   },
-   {
-    "code": "NI",
-    "count": 15268
+    "count": 17700
    },
    {
     "code": "VE",
-    "count": 13515
+    "count": 13106
+   },
+   {
+    "code": "NI",
+    "count": 12649
    },
    {
     "code": "HN",
-    "count": 8250
+    "count": 7958
    },
    {
     "code": "GT",
-    "count": 7682
+    "count": 5456
    },
    {
     "code": "MX",
-    "count": 3866
+    "count": 2934
    },
    {
     "code": "ZZ",
@@ -137,5 +137,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

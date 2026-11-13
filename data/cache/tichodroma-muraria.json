@@ -2,7 +2,7 @@
  "key": "tichodroma-muraria",
  "name": "Tichodroma muraria",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:27.791Z",
+ "fetchedAt": "2026-11-13T11:29:20.355Z",
  "names": {
   "da": "Murløber",
   "en": "Wallcreeper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14840,
-  "observations": 2297
+  "observations": 2338
  },
  "photos": {
   "male": [
@@ -136,57 +136,58 @@
    0,
    0
   ],
-  "worldTotal": 49288,
+  "worldTotal": 48595,
   "topCountries": [
    {
     "code": "FR",
-    "count": 22528
-   },
-   {
-    "code": "IN",
-    "count": 5715
+    "count": 22691
    },
    {
     "code": "ES",
-    "count": 5395
+    "count": 5110
+   },
+   {
+    "code": "IN",
+    "count": 4791
    },
    {
     "code": "IT",
-    "count": 2021
+    "count": 2301
    },
    {
     "code": "CH",
-    "count": 1597
+    "count": 1732
    },
    {
     "code": "AT",
-    "count": 1437
+    "count": 1493
    },
    {
     "code": "CN",
-    "count": 1215
-   },
-   {
-    "code": "BT",
-    "count": 1063
+    "count": 1249
    },
    {
     "code": "NP",
-    "count": 1025
+    "count": 1098
    },
    {
     "code": "GE",
-    "count": 952
+    "count": 923
+   },
+   {
+    "code": "BT",
+    "count": 791
+   },
+   {
+    "code": "DE",
+    "count": 702
    },
    {
     "code": "NL",
-    "count": 701
-   },
-   {
-    "code": "TR",
-    "count": 675
+    "count": 702
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "pteroglossus-castanotis",
  "name": "Pteroglossus castanotis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:52.040Z",
+ "fetchedAt": "2026-11-13T11:51:33.591Z",
  "names": {
   "da": "Brunøret Arasari",
   "en": "Chestnut-eared Aracari",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18581,
-  "observations": 3725
+  "observations": 3790
  },
  "photos": {
   "male": [
@@ -146,35 +146,35 @@
    0,
    0
   ],
-  "worldTotal": 85759,
+  "worldTotal": 68411,
   "topCountries": [
    {
     "code": "CO",
-    "count": 26263
+    "count": 18729
    },
    {
     "code": "BR",
-    "count": 19565
+    "count": 16850
    },
    {
     "code": "PE",
-    "count": 16547
+    "count": 13761
    },
    {
     "code": "EC",
-    "count": 9970
+    "count": 8054
    },
    {
     "code": "AR",
-    "count": 7014
+    "count": 5740
    },
    {
     "code": "BO",
-    "count": 4175
+    "count": 3592
    },
    {
     "code": "PY",
-    "count": 2126
+    "count": 1586
    },
    {
     "code": "US",
@@ -194,5 +194,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

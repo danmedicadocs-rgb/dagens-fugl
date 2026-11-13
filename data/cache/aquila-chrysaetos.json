@@ -2,7 +2,7 @@
  "key": "aquila-chrysaetos",
  "name": "Aquila chrysaetos",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:02:42.048Z",
+ "fetchedAt": "2026-11-13T11:09:15.834Z",
  "names": {
   "da": "Kongeørn",
   "en": "Golden Eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5074,
-  "observations": 28872
+  "observations": 29279
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2480506,
-  "dkTotal": 18460,
+  "dkTotal": 18556,
   "dkMonths": [
-   1724,
-   1789,
-   2205,
-   3083,
-   2825,
-   1025,
-   826,
-   993,
-   1051,
-   1233,
-   838,
-   848
+   1728,
+   1795,
+   2211,
+   3080,
+   2840,
+   1027,
+   828,
+   992,
+   1054,
+   1292,
+   840,
+   849
   ],
-  "worldTotal": 864545,
+  "worldTotal": 799809,
   "topCountries": [
    {
     "code": "US",
-    "count": 427064
+    "count": 366678
    },
    {
     "code": "SE",
-    "count": 117132
+    "count": 117375
    },
    {
     "code": "FR",
-    "count": 68125
+    "count": 68926
    },
    {
     "code": "ES",
-    "count": 54068
+    "count": 52257
    },
    {
     "code": "CA",
-    "count": 53787
+    "count": 47647
    },
    {
     "code": "NO",
-    "count": 30171
-   },
-   {
-    "code": "DK",
-    "count": 18460
+    "count": 30478
    },
    {
     "code": "FI",
-    "count": 17634
+    "count": 19690
+   },
+   {
+    "code": "DK",
+    "count": 18556
    },
    {
     "code": "AT",
-    "count": 8260
+    "count": 8473
    },
    {
     "code": "IT",
-    "count": 6904
+    "count": 7503
    },
    {
     "code": "CH",
-    "count": 5135
+    "count": 5921
    },
    {
     "code": "PT",
-    "count": 4758
+    "count": 4407
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "bucephala-clangula",
  "name": "Bucephala clangula",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:39.083Z",
+ "fetchedAt": "2026-11-13T11:05:07.654Z",
  "names": {
   "da": "Hvinand",
   "en": "Common Goldeneye",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 6990,
-  "observations": 103781
+  "observations": 104718
  },
  "photos": {
   "male": [
-   {
-    "id": 471178354,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471178354/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471178354/large.jpeg",
-    "attribution": "(c) frangp, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/262264168",
-    "place": "Rådmansvången, Lund, Suecia",
-    "date": "2025-02-17"
-   },
    {
     "id": 163158225,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163158225/medium.jpg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/98043821",
     "place": "Bath and North East Somerset, UK",
     "date": "2016-01-20"
+   },
+   {
+    "id": 471178354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471178354/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471178354/large.jpeg",
+    "attribution": "(c) frangp, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/262264168",
+    "place": "Rådmansvången, Lund, Suecia",
+    "date": "2025-02-17"
    },
    {
     "id": 509946151,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 471178354,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471178354/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471178354/large.jpeg",
-   "attribution": "(c) frangp, some rights reserved (CC BY)",
+   "id": 54718402,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54718402/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54718402/large.jpg",
+   "attribution": "(c) Виктор, some rights reserved (CC BY), uploaded by Виктор",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/262264168",
-   "place": "Rådmansvången, Lund, Suecia",
-   "date": "2025-02-17"
+   "source": "https://www.inaturalist.org/photos/54718402",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498326,
-  "dkTotal": 324915,
+  "dkTotal": 326490,
   "dkMonths": [
-   55817,
-   48638,
-   53785,
-   32337,
-   11556,
-   7928,
-   9862,
-   8867,
-   8981,
-   20306,
-   32715,
-   34005
+   55897,
+   48726,
+   53870,
+   32382,
+   11588,
+   7944,
+   9898,
+   8896,
+   9016,
+   21035,
+   33049,
+   34071
   ],
-  "worldTotal": 5979533,
+  "worldTotal": 5776830,
   "topCountries": [
    {
     "code": "US",
-    "count": 2023444
+    "count": 1847028
    },
    {
     "code": "SE",
-    "count": 1193735
+    "count": 1201455
    },
    {
     "code": "CA",
-    "count": 1058330
+    "count": 961355
    },
    {
     "code": "NO",
-    "count": 579228
+    "count": 585788
    },
    {
     "code": "DK",
-    "count": 324915
+    "count": 326490
    },
    {
     "code": "NL",
-    "count": 206410
-   },
-   {
-    "code": "GB",
-    "count": 146148
+    "count": 208320
    },
    {
     "code": "FI",
-    "count": 138972
+    "count": 163049
+   },
+   {
+    "code": "GB",
+    "count": 162051
    },
    {
     "code": "DE",
-    "count": 57136
+    "count": 60208
    },
    {
     "code": "EE",
-    "count": 53241
+    "count": 54329
    },
    {
     "code": "BE",
-    "count": 36916
+    "count": 37041
    },
    {
     "code": "RU",
-    "count": 35682
+    "count": 36124
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "falco-rusticolus",
  "name": "Falco rusticolus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:26.934Z",
+ "fetchedAt": "2026-11-13T11:09:54.727Z",
  "names": {
   "da": "Jagtfalk",
   "en": "Gyrfalcon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4657,
-  "observations": 1231
+  "observations": 1253
  },
  "photos": {
   "male": [
@@ -68,24 +68,24 @@
    }
   ],
   "hero": {
-   "id": 483058592,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483058592/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483058592/large.jpeg",
-   "attribution": "(c) Nodnarb Nedloh, some rights reserved (CC BY-SA)",
+   "id": 113978450,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113978450/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113978450/large.jpg",
+   "attribution": "(c) psweet, some rights reserved (CC BY-SA), uploaded by psweet",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/268718830",
-   "place": "Division No. 9, CA-NF, CA",
-   "date": "2010-02-20"
+   "source": "https://www.inaturalist.org/photos/113978450",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 8069880,
-  "dkTotal": 1908,
+  "dkTotal": 1909,
   "dkMonths": [
    225,
    225,
    189,
-   116,
+   117,
    71,
    45,
    20,
@@ -95,27 +95,27 @@
    283,
    177
   ],
-  "worldTotal": 27051,
+  "worldTotal": 27300,
   "topCountries": [
    {
     "code": "SE",
-    "count": 10724
+    "count": 10748
    },
    {
     "code": "NO",
-    "count": 5890
+    "count": 5938
    },
    {
     "code": "NL",
-    "count": 2603
+    "count": 2607
    },
    {
     "code": "DK",
-    "count": 1908
+    "count": 1909
    },
    {
     "code": "US",
-    "count": 1755
+    "count": 1756
    },
    {
     "code": "GL",
@@ -123,23 +123,23 @@
    },
    {
     "code": "FI",
-    "count": 745
+    "count": 876
    },
    {
     "code": "CA",
-    "count": 664
+    "count": 666
    },
    {
     "code": "IS",
-    "count": 627
+    "count": 639
    },
    {
     "code": "RU",
-    "count": 254
+    "count": 262
    },
    {
     "code": "BE",
-    "count": 164
+    "count": 165
    },
    {
     "code": "GB",
@@ -147,5 +147,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

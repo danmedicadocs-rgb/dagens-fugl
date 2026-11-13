@@ -2,7 +2,7 @@
  "key": "ramphastos-toco",
  "name": "Ramphastos toco",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:47:32.136Z",
+ "fetchedAt": "2026-11-13T11:47:18.260Z",
  "names": {
   "da": "Kæmpetukan",
   "en": "Toco Toucan",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18793,
-  "observations": 9094
+  "observations": 9259
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2025-11-14"
    },
    {
-    "id": 589358817,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589358817/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589358817/large.jpg",
-    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
+    "id": 757495750,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/757495750/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/757495750/large.jpg",
+    "attribution": "(c) André Ambrozio, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/325506208",
-    "place": "Centro, Itajubá - MG, 37500, Brasil",
-    "date": "2025-11-08"
+    "source": "https://www.inaturalist.org/observations/411737427",
+    "place": "SQDN 415/416, Brasília, DF, BR",
+    "date": "2026-10-30"
    }
   ],
   "female": [
@@ -146,35 +146,35 @@
    0,
    0
   ],
-  "worldTotal": 105420,
+  "worldTotal": 94700,
   "topCountries": [
    {
     "code": "BR",
-    "count": 77992
+    "count": 72712
    },
    {
     "code": "AR",
-    "count": 20244
+    "count": 15832
    },
    {
     "code": "BO",
-    "count": 3777
+    "count": 3443
    },
    {
     "code": "PY",
-    "count": 2120
+    "count": 1610
    },
    {
     "code": "GY",
-    "count": 744
+    "count": 541
    },
    {
     "code": "GF",
-    "count": 80
+    "count": 89
    },
    {
     "code": "SR",
-    "count": 57
+    "count": 72
    },
    {
     "code": "ZZ",
@@ -186,7 +186,7 @@
    },
    {
     "code": "UY",
-    "count": 30
+    "count": 25
    },
    {
     "code": "DE",
@@ -194,9 +194,10 @@
    },
    {
     "code": "PE",
-    "count": 11
+    "count": 10
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

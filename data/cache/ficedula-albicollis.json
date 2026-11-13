@@ -2,7 +2,7 @@
  "key": "ficedula-albicollis",
  "name": "Ficedula albicollis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:39.775Z",
+ "fetchedAt": "2026-11-13T11:25:08.683Z",
  "names": {
   "da": "Hvidhalset fluesnapper",
   "en": "Collared Flycatcher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13133,
-  "observations": 4599
+  "observations": 4613
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2022-04-13"
    },
    {
-    "id": 384885155,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384885155/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384885155/large.jpeg",
+    "id": 285605331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285605331/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285605331/large.jpeg",
     "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
     "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/217557160",
-    "place": "San Giovanni",
-    "date": "2024-05-20"
+    "source": "https://www.inaturalist.org/observations/165025236",
+    "place": "San Giovanni in Fiore",
+    "date": "2023-05-31"
    }
   ],
   "female": [
@@ -66,14 +66,14 @@
     "date": "2026-04-21"
    },
    {
-    "id": 646665559,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/646665559/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/646665559/large.jpg",
-    "attribution": "(c) Mykola Borysenko, some rights reserved (CC BY)",
+    "id": 69159065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69159065/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/69159065/large.jpg",
+    "attribution": "(c) talum, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/354490195",
-    "place": "Канівський район, Черкаська область, Україна",
-    "date": "2026-04-26"
+    "source": "https://www.inaturalist.org/observations/43593236",
+    "place": "Krems an der Donau, Österreich",
+    "date": "2020-04-25"
    },
    {
     "id": 508715385,
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 121159924,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/large.jpeg",
-   "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+   "id": 225952,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/225952/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/225952/large.jpg",
+   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/74153011",
-   "place": "Djebel El Ouahch, Constantine, Algérie",
-   "date": "2021-04-16"
+   "source": "https://www.inaturalist.org/photos/225952",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492601,
-  "dkTotal": 628,
+  "dkTotal": 621,
   "dkMonths": [
    0,
    0,
    0,
    106,
-   473,
+   467,
    28,
    0,
    5,
-   13,
+   12,
    0,
    0,
    0
   ],
-  "worldTotal": 203881,
+  "worldTotal": 206011,
   "topCountries": [
    {
     "code": "SE",
-    "count": 147991
+    "count": 148176
    },
    {
     "code": "PL",
-    "count": 6842
+    "count": 7369
    },
    {
     "code": "UA",
-    "count": 6199
+    "count": 6377
    },
    {
     "code": "CZ",
-    "count": 4619
+    "count": 4743
    },
    {
     "code": "IL",
-    "count": 4100
+    "count": 3816
    },
    {
     "code": "FR",
-    "count": 3662
+    "count": 3663
    },
    {
     "code": "TR",
-    "count": 3407
-   },
-   {
-    "code": "GR",
-    "count": 3174
+    "count": 3418
    },
    {
     "code": "DE",
-    "count": 3145
+    "count": 3262
+   },
+   {
+    "code": "GR",
+    "count": 3191
    },
    {
     "code": "RU",
-    "count": 2750
+    "count": 2805
    },
    {
     "code": "HU",
-    "count": 2229
+    "count": 2206
    },
    {
     "code": "AT",
-    "count": 1641
+    "count": 1767
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

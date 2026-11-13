@@ -2,7 +2,7 @@
  "key": "haliaeetus-vocifer",
  "name": "Haliaeetus vocifer",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:35.212Z",
+ "fetchedAt": "2026-11-13T11:33:00.062Z",
  "names": {
   "da": "Afrikansk Flodørn",
   "en": "African Fish Eagle",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 190286350,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190286350/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190286350/large.jpeg",
+   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY), uploaded by Jan Ebr &amp; Ivana Ebrová",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/190286350",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2480454,
@@ -46,57 +55,58 @@
    0,
    0
   ],
-  "worldTotal": 254330,
+  "worldTotal": 251825,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 152670
+    "count": 153012
    },
    {
     "code": "KE",
-    "count": 25553
+    "count": 25112
    },
    {
     "code": "BW",
-    "count": 13828
+    "count": 13566
    },
    {
     "code": "UG",
-    "count": 12744
+    "count": 11395
    },
    {
     "code": "ZW",
-    "count": 8223
-   },
-   {
-    "code": "TZ",
-    "count": 8113
+    "count": 8816
    },
    {
     "code": "ZM",
-    "count": 7967
+    "count": 8385
+   },
+   {
+    "code": "TZ",
+    "count": 7571
    },
    {
     "code": "NA",
-    "count": 6290
+    "count": 5897
    },
    {
     "code": "ET",
-    "count": 4246
+    "count": 3718
    },
    {
     "code": "SN",
-    "count": 2760
+    "count": 2510
    },
    {
     "code": "RW",
-    "count": 1932
+    "count": 1840
    },
    {
-    "code": "MZ",
-    "count": 1858
+    "code": "MW",
+    "count": 1687
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

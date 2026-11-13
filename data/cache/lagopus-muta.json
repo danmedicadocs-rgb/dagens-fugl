@@ -2,7 +2,7 @@
  "key": "lagopus-muta",
  "name": "Lagopus muta",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:43.863Z",
+ "fetchedAt": "2026-11-13T11:30:31.229Z",
  "names": {
   "da": "Fjeldrype",
   "en": "Rock Ptarmigan",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 949,
-  "observations": 6719
+  "observations": 6782
  },
  "photos": {
   "male": [
@@ -108,25 +108,25 @@
     "date": "2011-07-02"
    },
    {
-    "id": 598357855,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598357855/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598357855/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/330030260",
-    "place": "Cairn Gorm",
-    "date": "2018-07-07"
+    "id": 543635636,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/543635636/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/543635636/large.jpg",
+    "attribution": "(c) 岸本年郎, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/301677344",
+    "place": "Ina, Nagano, JP",
+    "date": "2025-07-23"
    }
   ],
   "hero": {
-   "id": 319445693,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/319445693/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/319445693/large.jpeg",
-   "attribution": "(c) Justine, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/183133619",
-   "place": "Bláskógabyggð, Islande",
-   "date": "2023-09-04"
+   "id": 165788873,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165788873/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165788873/large.jpg",
+   "attribution": "(c) 孫鋒 林, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/165788873",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 120710,
+  "worldTotal": 118783,
   "topCountries": [
    {
     "code": "FR",
-    "count": 21680
+    "count": 21762
    },
    {
     "code": "NO",
-    "count": 19821
+    "count": 19882
    },
    {
     "code": "IS",
-    "count": 19030
-   },
-   {
-    "code": "US",
-    "count": 16310
+    "count": 19618
    },
    {
     "code": "SE",
-    "count": 14554
+    "count": 14607
+   },
+   {
+    "code": "US",
+    "count": 13188
    },
    {
     "code": "CA",
-    "count": 7789
+    "count": 7108
    },
    {
     "code": "GB",
-    "count": 4115
+    "count": 4261
    },
    {
     "code": "SJ",
-    "count": 3461
+    "count": 3578
    },
    {
     "code": "AT",
-    "count": 3245
+    "count": 3307
    },
    {
     "code": "CH",
-    "count": 1866
+    "count": 2001
    },
    {
     "code": "GL",
-    "count": 1713
+    "count": 1759
    },
    {
     "code": "RU",
-    "count": 1609
+    "count": 1640
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

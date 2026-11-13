@@ -2,7 +2,7 @@
  "key": "ciconia-ciconia",
  "name": "Ciconia ciconia",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:00:51.767Z",
+ "fetchedAt": "2026-11-13T11:07:43.184Z",
  "names": {
   "da": "Hvid stork",
   "en": "White stork",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4733,
-  "observations": 85504
+  "observations": 86411
  },
  "photos": {
   "male": [
@@ -121,72 +121,73 @@
  },
  "gbif": {
   "key": 2481912,
-  "dkTotal": 25111,
+  "dkTotal": 25166,
   "dkMonths": [
-   187,
+   186,
    459,
-   2126,
-   7067,
-   7292,
-   2891,
-   1890,
-   1706,
-   847,
-   286,
+   2127,
+   7066,
+   7311,
+   2902,
+   1897,
+   1717,
+   849,
+   291,
    166,
    96
   ],
-  "worldTotal": 1986818,
+  "worldTotal": 2019598,
   "topCountries": [
    {
     "code": "NL",
-    "count": 565951
+    "count": 578472
    },
    {
     "code": "ES",
-    "count": 428567
-   },
-   {
-    "code": "FR",
-    "count": 164485
+    "count": 427486
    },
    {
     "code": "DE",
-    "count": 162711
+    "count": 170373
+   },
+   {
+    "code": "FR",
+    "count": 167154
    },
    {
     "code": "PT",
-    "count": 141247
+    "count": 135589
    },
    {
     "code": "PL",
-    "count": 75926
+    "count": 84087
    },
    {
     "code": "SE",
-    "count": 54798
+    "count": 54865
    },
    {
     "code": "BE",
-    "count": 46436
+    "count": 47974
    },
    {
     "code": "BG",
-    "count": 32305
+    "count": 32239
    },
    {
     "code": "ZA",
-    "count": 30473
-   },
-   {
-    "code": "TR",
-    "count": 30039
+    "count": 30320
    },
    {
     "code": "IL",
-    "count": 29690
+    "count": 28457
+   },
+   {
+    "code": "TR",
+    "count": 28212
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

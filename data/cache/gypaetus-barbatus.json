@@ -2,7 +2,7 @@
  "key": "gypaetus-barbatus",
  "name": "Gypaetus barbatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:25:53.837Z",
+ "fetchedAt": "2026-11-13T11:28:52.010Z",
  "names": {
   "da": "Lammegrib",
   "en": "Bearded vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5379,
-  "observations": 8263
+  "observations": 8362
  },
  "photos": {
   "male": [
@@ -95,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 105817,
+  "worldTotal": 105250,
   "topCountries": [
    {
     "code": "FR",
-    "count": 30099
+    "count": 30761
    },
    {
     "code": "AT",
-    "count": 18291
+    "count": 18396
    },
    {
     "code": "ES",
-    "count": 18126
+    "count": 17346
    },
    {
     "code": "IN",
-    "count": 8286
-   },
-   {
-    "code": "CN",
-    "count": 2807
-   },
-   {
-    "code": "ZA",
-    "count": 2706
+    "count": 6947
    },
    {
     "code": "IT",
-    "count": 2640
+    "count": 2991
    },
    {
     "code": "CH",
-    "count": 2535
+    "count": 2837
    },
    {
-    "code": "GE",
-    "count": 2103
+    "code": "CN",
+    "count": 2794
+   },
+   {
+    "code": "ZA",
+    "count": 2655
    },
    {
     "code": "NL",
-    "count": 2099
+    "count": 2145
+   },
+   {
+    "code": "GE",
+    "count": 2035
    },
    {
     "code": "NP",
-    "count": 1864
+    "count": 2031
    },
    {
     "code": "MN",
-    "count": 1805
+    "count": 1653
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

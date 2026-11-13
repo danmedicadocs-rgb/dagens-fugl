@@ -2,7 +2,7 @@
  "key": "sylvia-borin",
  "name": "Sylvia borin",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:33.291Z",
+ "fetchedAt": "2026-11-13T11:22:20.620Z",
  "names": {
   "da": "Havesanger",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 15302,
-  "observations": 10725
+  "observations": 10773
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2026-05-08"
    },
    {
-    "id": 198801354,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198801354/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198801354/large.jpeg",
-    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
+    "id": 662077172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662077172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662077172/large.jpg",
+    "attribution": "(c) Merlin Renz, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/117688649",
-    "place": "Свердловская обл., Россия, 620908",
-    "date": "2022-05-19"
+    "source": "https://www.inaturalist.org/observations/362738088",
+    "place": "92555 Trausnitz, Deutschland",
+    "date": "2026-05-17"
    }
   ],
   "female": [
@@ -99,84 +99,85 @@
    }
   ],
   "hero": {
-   "id": 275969993,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/159720988",
-   "place": "Brockholes LWT, Preston, Lancashire, UK",
-   "date": "2023-05-04"
+   "id": 3608435,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3608435/medium.JPG",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3608435/large.JPG",
+   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/3608435",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492942,
-  "dkTotal": 119367,
+  "dkTotal": 119433,
   "dkMonths": [
    1,
    0,
    3,
-   432,
-   53877,
-   37455,
-   17223,
-   6184,
-   4051,
-   66,
+   433,
+   53950,
+   37530,
+   17253,
+   6081,
+   4044,
+   63,
    13,
    10
   ],
-  "worldTotal": 1759633,
+  "worldTotal": 1798704,
   "topCountries": [
    {
     "code": "SE",
-    "count": 463487
+    "count": 465247
    },
    {
     "code": "NL",
-    "count": 224631
+    "count": 226419
    },
    {
     "code": "ES",
-    "count": 186517
+    "count": 185446
    },
    {
     "code": "FI",
-    "count": 170887
+    "count": 183346
    },
    {
     "code": "FR",
-    "count": 151156
+    "count": 153154
    },
    {
     "code": "DK",
-    "count": 119367
+    "count": 119433
    },
    {
     "code": "NO",
-    "count": 101881
+    "count": 102933
    },
    {
     "code": "GB",
-    "count": 79992
+    "count": 90447
    },
    {
     "code": "DE",
-    "count": 63859
+    "count": 67613
    },
    {
     "code": "BE",
-    "count": 50997
+    "count": 54085
    },
    {
     "code": "PL",
-    "count": 20268
+    "count": 21814
    },
    {
     "code": "EE",
-    "count": 15977
+    "count": 16212
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

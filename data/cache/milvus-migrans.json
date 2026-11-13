@@ -2,7 +2,7 @@
  "key": "milvus-migrans",
  "name": "Milvus migrans",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:01:16.339Z",
+ "fetchedAt": "2026-11-13T11:08:03.630Z",
  "names": {
   "da": "Sort Glente",
   "en": "Black Kite",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5268,
-  "observations": 130969
+  "observations": 132507
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 81536459,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81536459/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81536459/large.jpg",
-   "attribution": "(c) saydelah, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/51330030",
-   "place": "Sunder Nursery, Nizamuddin, adjoining Humayun's Tomb. ",
-   "date": "2020-06-28"
+   "id": 158802479,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158802479/large.jpg",
+   "attribution": "no rights reserved, uploaded by Joshua S. Martin",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/158802479",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5229167,
-  "dkTotal": 22505,
+  "dkTotal": 22615,
   "dkMonths": [
    139,
    100,
-   211,
-   6224,
-   10066,
-   1575,
-   308,
-   1224,
-   2254,
-   318,
-   62,
+   212,
+   6273,
+   10086,
+   1578,
+   313,
+   1221,
+   2278,
+   328,
+   63,
    22
   ],
-  "worldTotal": 2803779,
+  "worldTotal": 2736521,
   "topCountries": [
    {
     "code": "IN",
-    "count": 843148
+    "count": 768010
    },
    {
     "code": "FR",
-    "count": 357587
+    "count": 364577
    },
    {
     "code": "ES",
-    "count": 321262
+    "count": 318271
    },
    {
     "code": "AU",
-    "count": 299440
-   },
-   {
-    "code": "GE",
-    "count": 76343
-   },
-   {
-    "code": "RU",
-    "count": 71759
-   },
-   {
-    "code": "TW",
-    "count": 66640
+    "count": 295487
    },
    {
     "code": "JP",
-    "count": 64973
+    "count": 76415
+   },
+   {
+    "code": "GE",
+    "count": 76111
+   },
+   {
+    "code": "RU",
+    "count": 71872
    },
    {
     "code": "DE",
-    "count": 61018
+    "count": 64033
+   },
+   {
+    "code": "TW",
+    "count": 58704
    },
    {
     "code": "ZA",
-    "count": 56344
+    "count": 55279
+   },
+   {
+    "code": "SE",
+    "count": 52229
    },
    {
     "code": "IL",
-    "count": 53566
-   },
-   {
-    "code": "PT",
-    "count": 52731
+    "count": 51529
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

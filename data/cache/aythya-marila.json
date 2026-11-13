@@ -2,7 +2,7 @@
  "key": "aythya-marila",
  "name": "Aythya marila",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:53.304Z",
+ "fetchedAt": "2026-11-13T11:04:26.191Z",
  "names": {
   "da": "Bjergand",
   "en": "Greater Scaup",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7047,
-  "observations": 32728
+  "observations": 33219
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2024-12-21"
    },
    {
-    "id": 251285706,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251285706/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251285706/large.jpeg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "id": 486774772,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/486774772/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/486774772/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146191102",
-    "place": "Tajiri, Ichikawa, Chiba 272-0014, Japan",
-    "date": "2023-01-09"
+    "source": "https://www.inaturalist.org/observations/270655435",
+    "place": "Area 2/MIT, Cambridge, MA, USA",
+    "date": "2025-02-24"
    }
   ],
   "female": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498265,
-  "dkTotal": 46778,
+  "dkTotal": 47029,
   "dkMonths": [
-   8372,
-   7135,
-   6250,
-   5189,
-   2427,
-   395,
+   8386,
+   7140,
+   6246,
+   5201,
+   2433,
+   396,
    442,
-   541,
-   1204,
-   4537,
-   5397,
-   4874
+   546,
+   1207,
+   4682,
+   5447,
+   4888
   ],
-  "worldTotal": 1584080,
+  "worldTotal": 1468316,
   "topCountries": [
    {
     "code": "US",
-    "count": 861107
+    "count": 769294
    },
    {
     "code": "CA",
-    "count": 327971
+    "count": 294910
    },
    {
     "code": "SE",
-    "count": 144384
+    "count": 145645
    },
    {
     "code": "NO",
-    "count": 47841
+    "count": 48378
    },
    {
     "code": "DK",
-    "count": 46778
+    "count": 47029
    },
    {
     "code": "GB",
-    "count": 34060
+    "count": 37201
    },
    {
     "code": "JP",
-    "count": 19148
+    "count": 20452
    },
    {
     "code": "NL",
-    "count": 14452
+    "count": 14994
    },
    {
     "code": "EE",
-    "count": 12660
+    "count": 13012
    },
    {
     "code": "IS",
-    "count": 10804
-   },
-   {
-    "code": "RU",
-    "count": 7398
+    "count": 10182
    },
    {
     "code": "FR",
-    "count": 7215
+    "count": 7419
+   },
+   {
+    "code": "RU",
+    "count": 7381
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calcarius-lapponicus",
  "name": "Calcarius lapponicus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:10.225Z",
+ "fetchedAt": "2026-11-13T11:28:07.968Z",
  "names": {
   "da": "Lapværling",
   "en": "Lapland Longspur",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116840,
-  "observations": 8015
+  "observations": 8176
  },
  "photos": {
   "male": [
@@ -88,6 +88,16 @@
   ],
   "juvenile": [
    {
+    "id": 760456617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760456617/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760456617/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/413204317",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-03"
+   },
+   {
     "id": 538714890,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538714890/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538714890/large.jpg",
@@ -96,16 +106,6 @@
     "source": "https://www.inaturalist.org/observations/299038143",
     "place": "Sermermiut Aqq, Avannaata, GL",
     "date": "2025-07-18"
-   },
-   {
-    "id": 405180293,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405180293/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405180293/large.jpg",
-    "attribution": "(c) Paweł Zuzelski, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/228337171",
-    "place": "Qeqqata, GL",
-    "date": "2024-07-07"
    },
    {
     "id": 10204115,
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2491678,
-  "dkTotal": 9201,
+  "dkTotal": 9296,
   "dkMonths": [
    428,
-   387,
+   390,
    429,
-   1036,
-   267,
+   1037,
+   268,
    17,
-   1,
+   2,
    12,
    1704,
-   3654,
-   982,
+   3736,
+   989,
    280
   ],
-  "worldTotal": 455924,
+  "worldTotal": 414849,
   "topCountries": [
    {
     "code": "US",
-    "count": 240880
+    "count": 207193
    },
    {
     "code": "CA",
-    "count": 79805
+    "count": 70709
    },
    {
     "code": "SE",
-    "count": 60949
+    "count": 60904
    },
    {
     "code": "NO",
-    "count": 26846
-   },
-   {
-    "code": "DK",
-    "count": 9201
+    "count": 26812
    },
    {
     "code": "FI",
-    "count": 8857
+    "count": 9868
+   },
+   {
+    "code": "DK",
+    "count": 9296
    },
    {
     "code": "GB",
-    "count": 7008
+    "count": 7523
    },
    {
     "code": "NL",
-    "count": 5999
+    "count": 6181
    },
    {
     "code": "RU",
-    "count": 3367
+    "count": 3132
    },
    {
     "code": "BE",
-    "count": 2374
+    "count": 2401
    },
    {
     "code": "FR",
-    "count": 2077
+    "count": 2152
    },
    {
     "code": "GL",
-    "count": 1860
+    "count": 1885
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "coragyps-atratus",
  "name": "Coragyps atratus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:40.522Z",
+ "fetchedAt": "2026-11-13T11:45:23.623Z",
  "names": {
   "da": "Ravnegrib",
   "en": "Black Vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4765,
-  "observations": 135325
+  "observations": 137002
  },
  "photos": {
   "male": [
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 6474814,
+  "worldTotal": 5651202,
   "topCountries": [
    {
     "code": "US",
-    "count": 3912406
+    "count": 3568616
    },
    {
     "code": "CR",
-    "count": 433161
-   },
-   {
-    "code": "CO",
-    "count": 417271
+    "count": 348811
    },
    {
     "code": "BR",
-    "count": 349959
+    "count": 334558
+   },
+   {
+    "code": "CO",
+    "count": 325674
    },
    {
     "code": "MX",
-    "count": 278309
+    "count": 216738
    },
    {
     "code": "PA",
-    "count": 178359
+    "count": 139349
    },
    {
     "code": "EC",
-    "count": 129094
+    "count": 98565
    },
    {
     "code": "VE",
-    "count": 102726
+    "count": 89653
    },
    {
     "code": "PE",
-    "count": 99781
-   },
-   {
-    "code": "AR",
-    "count": 93769
-   },
-   {
-    "code": "BZ",
-    "count": 93590
+    "count": 80844
    },
    {
     "code": "CL",
-    "count": 91058
+    "count": 78747
+   },
+   {
+    "code": "AR",
+    "count": 75294
+   },
+   {
+    "code": "BZ",
+    "count": 68238
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

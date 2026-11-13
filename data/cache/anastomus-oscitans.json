@@ -2,7 +2,7 @@
  "key": "anastomus-oscitans",
  "name": "Anastomus oscitans",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:00.226Z",
+ "fetchedAt": "2026-11-13T11:38:49.350Z",
  "names": {
   "da": "Asiatisk Gabenæb",
   "en": "Asian Open-bill Stork",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4775,
-  "observations": 15198
+  "observations": 15467
  },
  "photos": {
   "male": [],
@@ -36,16 +36,6 @@
     "date": "2026-04-10"
    },
    {
-    "id": 60017633,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60017633/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60017633/large.jpg",
-    "attribution": "(c) Aravinth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37811404",
-    "place": "Erlalai South, Sri Lanka",
-    "date": "2020-01-21"
-   },
-   {
     "id": 628479230,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628479230/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628479230/large.jpg",
@@ -54,6 +44,16 @@
     "source": "https://www.inaturalist.org/observations/344913314",
     "place": "Lim Chu Kang, Singapore",
     "date": "2026-03-24"
+   },
+   {
+    "id": 60017633,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60017633/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60017633/large.jpg",
+    "attribution": "(c) Aravinth, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/37811404",
+    "place": "Erlalai South, Sri Lanka",
+    "date": "2020-01-21"
    }
   ],
   "adult": [
@@ -78,14 +78,14 @@
     "date": "2026-02-24"
    },
    {
-    "id": 430297844,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/430297844/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/430297844/large.jpeg",
-    "attribution": "(c) renaradelt, some rights reserved (CC BY)",
+    "id": 462658681,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462658681/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462658681/large.jpeg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/241435111",
-    "place": "Khlong Toey, TH-BM, TH",
-    "date": "2024-09-13"
+    "source": "https://www.inaturalist.org/observations/257902140",
+    "place": "FELCRA Plantation Services Sdn Bhd Seberang Perak, 36800, 36110, Perak, Malaysia",
+    "date": "2024-12-18"
    }
   ],
   "hero": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 348992,
+  "worldTotal": 318810,
   "topCountries": [
    {
     "code": "IN",
-    "count": 246964
+    "count": 213168
    },
    {
     "code": "TH",
-    "count": 60397
+    "count": 60836
    },
    {
     "code": "LK",
-    "count": 18336
+    "count": 18533
    },
    {
     "code": "NP",
-    "count": 4999
-   },
-   {
-    "code": "KH",
-    "count": 4079
-   },
-   {
-    "code": "MY",
-    "count": 3556
-   },
-   {
-    "code": "BD",
-    "count": 3417
+    "count": 5825
    },
    {
     "code": "SG",
-    "count": 2911
+    "count": 4498
+   },
+   {
+    "code": "MY",
+    "count": 4159
+   },
+   {
+    "code": "BD",
+    "count": 3627
+   },
+   {
+    "code": "KH",
+    "count": 3469
    },
    {
     "code": "VN",
-    "count": 1280
+    "count": 1508
    },
    {
     "code": "MM",
-    "count": 1222
+    "count": 1250
    },
    {
     "code": "LA",
-    "count": 1151
+    "count": 1034
    },
    {
     "code": "CN",
-    "count": 552
+    "count": 786
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "loxia-curvirostra",
  "name": "Loxia curvirostra",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:38.240Z",
+ "fetchedAt": "2026-11-13T11:27:41.530Z",
  "names": {
   "da": "Lille korsnæb",
   "en": "Red Crossbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10411,
-  "observations": 30381
+  "observations": 30936
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2022-08-06"
    },
    {
-    "id": 741427370,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/741427370/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/741427370/large.jpg",
-    "attribution": "(c) Алина Урусова, some rights reserved (CC BY)",
+    "id": 594990708,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594990708/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594990708/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/403784710",
-    "place": "Кировский р-н, Волгоград, Волгоградская обл., Россия",
-    "date": "2026-09-27"
+    "source": "https://www.inaturalist.org/observations/328363071",
+    "place": "Bakuriani, Georgia",
+    "date": "2025-11-23"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 113332162,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113332162/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113332162/large.jpeg",
-   "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
+   "id": 303309597,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303309597/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303309597/large.jpg",
+   "attribution": "(c) Stanley Davis, some rights reserved (CC BY), uploaded by Stanley Davis",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/69792375",
-   "place": "Cherán",
-   "date": "2021-02-17"
+   "source": "https://www.inaturalist.org/photos/303309597",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 9629160,
-  "dkTotal": 100453,
+  "dkTotal": 101081,
   "dkMonths": [
-   7440,
-   7944,
-   9898,
-   8101,
-   7024,
-   4895,
-   6095,
-   7505,
-   8829,
-   18314,
-   8975,
-   5370
+   7452,
+   7960,
+   9890,
+   8120,
+   7026,
+   4882,
+   6099,
+   7529,
+   8836,
+   18775,
+   9074,
+   5375
   ],
-  "worldTotal": 1535222,
+  "worldTotal": 1502636,
   "topCountries": [
    {
     "code": "US",
-    "count": 503211
+    "count": 460306
    },
    {
     "code": "SE",
-    "count": 287419
+    "count": 289453
    },
    {
     "code": "CA",
-    "count": 180727
+    "count": 170095
    },
    {
     "code": "DK",
-    "count": 100453
+    "count": 101081
    },
    {
     "code": "NO",
-    "count": 90536
+    "count": 91814
    },
    {
     "code": "ES",
-    "count": 79052
+    "count": 79137
    },
    {
     "code": "FI",
-    "count": 59674
+    "count": 68150
    },
    {
     "code": "FR",
-    "count": 53798
+    "count": 54507
    },
    {
     "code": "GB",
-    "count": 34312
+    "count": 40269
    },
    {
     "code": "BE",
-    "count": 18784
+    "count": 19146
    },
    {
     "code": "DE",
-    "count": 16567
+    "count": 17424
    },
    {
     "code": "RU",
-    "count": 14420
+    "count": 14404
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

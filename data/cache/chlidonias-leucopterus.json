@@ -2,7 +2,7 @@
  "key": "chlidonias-leucopterus",
  "name": "Chlidonias leucopterus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:00.035Z",
+ "fetchedAt": "2026-11-13T11:16:12.409Z",
  "names": {
   "da": "Hvidvinget terne",
   "en": "White-winged Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4514,
-  "observations": 6027
+  "observations": 6093
  },
  "photos": {
   "male": [
@@ -79,19 +79,19 @@
    }
   ],
   "hero": {
-   "id": 387571246,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571246/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571246/large.jpeg",
-   "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
+   "id": 2694783,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2694783/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2694783/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/218993141",
-   "place": "Zicklacke, Illmitz, BL, Österreich",
-   "date": "2024-05-13"
+   "source": "https://www.inaturalist.org/photos/2694783",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481120,
-  "dkTotal": 2815,
+  "dkTotal": 2814,
   "dkMonths": [
    0,
    0,
@@ -99,64 +99,65 @@
    4,
    1575,
    327,
-   319,
+   318,
    478,
    68,
    37,
    4,
    0
   ],
-  "worldTotal": 179404,
+  "worldTotal": 170483,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 22321
+    "count": 22304
    },
    {
     "code": "AU",
-    "count": 19634
-   },
-   {
-    "code": "TW",
-    "count": 11858
+    "count": 18144
    },
    {
     "code": "NL",
-    "count": 11314
+    "count": 11545
    },
    {
-    "code": "IL",
-    "count": 9542
+    "code": "TW",
+    "count": 10124
    },
    {
     "code": "SE",
-    "count": 8873
+    "count": 8977
    },
    {
-    "code": "TR",
-    "count": 5364
-   },
-   {
-    "code": "KE",
-    "count": 4553
+    "code": "IL",
+    "count": 8759
    },
    {
     "code": "CN",
-    "count": 4518
+    "count": 4826
    },
    {
-    "code": "TH",
-    "count": 4291
-   },
-   {
-    "code": "RU",
-    "count": 4259
+    "code": "TR",
+    "count": 4497
    },
    {
     "code": "PL",
-    "count": 4194
+    "count": 4187
+   },
+   {
+    "code": "KE",
+    "count": 4156
+   },
+   {
+    "code": "RU",
+    "count": 3934
+   },
+   {
+    "code": "TH",
+    "count": 3465
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

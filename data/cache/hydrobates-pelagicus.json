@@ -2,7 +2,7 @@
  "key": "hydrobates-pelagicus",
  "name": "Hydrobates pelagicus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:59:34.158Z",
+ "fetchedAt": "2026-11-13T11:06:39.753Z",
  "names": {
   "da": "Lille stormsvale",
   "en": "European Storm Petrel",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4170,
-  "observations": 840
+  "observations": 853
  },
  "photos": {
   "male": [],
@@ -37,16 +37,6 @@
     "date": "2026-08-12"
    },
    {
-    "id": 325589417,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325589417/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325589417/large.jpeg",
-    "attribution": "(c) Duarte Frade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/186323319",
-    "place": "Vila do Bispo, Faro, Portugal",
-    "date": "2023-10-05"
-   },
-   {
     "id": 353158449,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353158449/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353158449/large.jpeg",
@@ -55,22 +45,32 @@
     "source": "https://www.inaturalist.org/observations/200194490",
     "place": "Delta du Saloum, SN-FK-FD, SN-FK, SN",
     "date": "2024-02-12"
+   },
+   {
+    "id": 325589417,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325589417/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325589417/large.jpeg",
+    "attribution": "(c) Duarte Frade, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/186323319",
+    "place": "Vila do Bispo, Faro, Portugal",
+    "date": "2023-10-05"
    }
   ],
   "hero": {
-   "id": 720848988,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/720848988/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/720848988/large.jpg",
-   "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/393285790",
-   "place": "Provincia di Vibo Valentia",
-   "date": "2026-08-12"
+   "id": 9765046,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9765046/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9765046/large.jpg",
+   "attribution": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/9765046",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 4408455,
-  "dkTotal": 502,
+  "dkTotal": 504,
   "dkMonths": [
    7,
    1,
@@ -78,64 +78,65 @@
    1,
    4,
    6,
-   39,
-   137,
+   40,
+   138,
    88,
    153,
    41,
    12
   ],
-  "worldTotal": 114209,
+  "worldTotal": 112459,
   "topCountries": [
    {
     "code": "ES",
-    "count": 41285
+    "count": 39899
    },
    {
     "code": "GB",
-    "count": 30474
+    "count": 31365
    },
    {
     "code": "IE",
-    "count": 14601
-   },
-   {
-    "code": "PT",
-    "count": 7071
+    "count": 14358
    },
    {
     "code": "FR",
-    "count": 6615
+    "count": 6553
+   },
+   {
+    "code": "PT",
+    "count": 6236
    },
    {
     "code": "NO",
-    "count": 5612
+    "count": 5635
    },
    {
     "code": "FO",
-    "count": 3412
+    "count": 3500
    },
    {
     "code": "IM",
-    "count": 760
+    "count": 750
    },
    {
     "code": "SE",
-    "count": 655
+    "count": 663
    },
    {
     "code": "ZA",
-    "count": 630
+    "count": 587
    },
    {
     "code": "DK",
-    "count": 502
+    "count": 504
    },
    {
-    "code": "IS",
-    "count": 456
+    "code": "NL",
+    "count": 441
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

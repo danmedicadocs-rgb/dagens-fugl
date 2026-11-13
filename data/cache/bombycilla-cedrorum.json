@@ -2,7 +2,7 @@
  "key": "bombycilla-cedrorum",
  "name": "Bombycilla cedrorum",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:43:50.439Z",
+ "fetchedAt": "2026-11-13T11:44:35.275Z",
  "names": {
   "da": "Amerikansk silkehale",
   "en": "Cedar Waxwing",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7428,
-  "observations": 125410
+  "observations": 126477
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2026-06-18"
    },
    {
-    "id": 211033439,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211033439/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211033439/large.jpg",
-    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124431403",
-    "place": "Regina, SK, Canada",
-    "date": "2022-07-02"
-   },
-   {
     "id": 177172987,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177172987/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177172987/large.jpg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/105576753",
     "place": "Regina, SK, Canada",
     "date": "2020-08-26"
+   },
+   {
+    "id": 211033439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211033439/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211033439/large.jpg",
+    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/124431403",
+    "place": "Regina, SK, Canada",
+    "date": "2022-07-02"
    }
   ],
   "female": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 707842271,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707842271/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707842271/large.jpg",
-   "attribution": "(c) Steven J. Røste, some rights reserved (CC BY)",
+   "id": 170848062,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170848062/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170848062/large.jpg",
+   "attribution": "(c) Christian Back, some rights reserved (CC BY), uploaded by Christian Back",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/386589553",
-   "place": "Forestville Township, MN, USA",
-   "date": "2026-06-18"
+   "source": "https://www.inaturalist.org/photos/170848062",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 7265280,
+  "worldTotal": 6970911,
   "topCountries": [
    {
     "code": "US",
-    "count": 5881798
+    "count": 5642447
    },
    {
     "code": "CA",
-    "count": 1355254
+    "count": 1306267
    },
    {
     "code": "MX",
-    "count": 21367
+    "count": 16678
    },
    {
     "code": "GT",
-    "count": 1976
+    "count": 1329
    },
    {
     "code": "CR",
-    "count": 1020
+    "count": 735
    },
    {
     "code": "BM",
-    "count": 678
-   },
-   {
-    "code": "BZ",
-    "count": 544
-   },
-   {
-    "code": "HN",
-    "count": 463
+    "count": 663
    },
    {
     "code": "PM",
-    "count": 417
+    "count": 486
+   },
+   {
+    "code": "BZ",
+    "count": 441
+   },
+   {
+    "code": "HN",
+    "count": 322
    },
    {
     "code": "SV",
-    "count": 288
+    "count": 210
    },
    {
     "code": "CU",
-    "count": 173
+    "count": 106
    },
    {
-    "code": "PA",
-    "count": 127
+    "code": "GB",
+    "count": 99
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "callipepla-californica",
  "name": "Callipepla californica",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:47:25.824Z",
+ "fetchedAt": "2026-11-13T11:47:13.931Z",
  "names": {
   "da": "Californisk Topvagtel",
   "en": "California Quail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1409,
-  "observations": 53297
+  "observations": 53737
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 148825399,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825399/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825399/large.jpg",
-   "attribution": "(c) Barry Langdon-Lassagne, some rights reserved (CC BY)",
+   "id": 148825462,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825462/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825462/large.jpg",
+   "attribution": "(c) Barry Langdon-Lassagne, some rights reserved (CC BY), uploaded by Barry Langdon-Lassagne",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/90078474",
-   "place": "Skyline Ridge Open Space Preserve, La Honda, CA, US",
-   "date": "2021-08-04"
+   "source": "https://www.inaturalist.org/photos/148825462",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,51 +146,51 @@
    0,
    0
   ],
-  "worldTotal": 1490046,
+  "worldTotal": 1394388,
   "topCountries": [
    {
     "code": "US",
-    "count": 1244594
+    "count": 1158760
    },
    {
     "code": "CA",
-    "count": 134582
+    "count": 132067
    },
    {
     "code": "CL",
-    "count": 46500
+    "count": 41679
    },
    {
     "code": "NZ",
-    "count": 37509
+    "count": 37804
    },
    {
     "code": "MX",
-    "count": 17094
+    "count": 15135
    },
    {
     "code": "AR",
-    "count": 7491
+    "count": 6637
    },
    {
     "code": "NF",
-    "count": 1097
+    "count": 1128
    },
    {
     "code": "AU",
-    "count": 198
+    "count": 189
    },
    {
     "code": "FR",
-    "count": 170
+    "count": 169
    },
    {
     "code": "BE",
-    "count": 56
+    "count": 55
    },
    {
     "code": "NL",
-    "count": 39
+    "count": 40
    },
    {
     "code": "ZZ",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

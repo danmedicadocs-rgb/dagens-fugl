@@ -2,7 +2,7 @@
  "key": "aix-sponsa",
  "name": "Aix sponsa",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:44:06.730Z",
+ "fetchedAt": "2026-11-13T11:44:49.296Z",
  "names": {
   "da": "Brudeand",
   "en": "Wood duck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7107,
-  "observations": 126377
+  "observations": 127532
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 533231648,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533231648/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533231648/large.jpg",
-    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/296160867",
-    "place": "York County, PA, USA",
-    "date": "2025-07-06"
-   },
-   {
     "id": 283094194,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283094194/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283094194/large.jpeg",
@@ -84,6 +74,16 @@
     "source": "https://www.inaturalist.org/observations/205930249",
     "place": "Praha-Suchdol, Česko",
     "date": "2024-04-07"
+   },
+   {
+    "id": 533231648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533231648/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533231648/large.jpg",
+    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/296160867",
+    "place": "York County, PA, USA",
+    "date": "2025-07-06"
    }
   ],
   "juvenile": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498387,
-  "dkTotal": 649,
+  "dkTotal": 687,
   "dkMonths": [
    76,
    60,
-   126,
+   125,
    54,
    68,
    18,
    7,
    8,
    8,
-   27,
-   55,
+   65,
+   56,
    142
   ],
-  "worldTotal": 6518513,
+  "worldTotal": 6244713,
   "topCountries": [
    {
     "code": "US",
-    "count": 5713659
+    "count": 5485067
    },
    {
     "code": "CA",
-    "count": 777563
+    "count": 732119
    },
    {
     "code": "NL",
-    "count": 5439
+    "count": 5552
    },
    {
     "code": "BE",
-    "count": 4975
-   },
-   {
-    "code": "MX",
-    "count": 2542
+    "count": 5026
    },
    {
     "code": "DE",
-    "count": 2362
+    "count": 2564
+   },
+   {
+    "code": "MX",
+    "count": 1934
    },
    {
     "code": "FR",
-    "count": 1818
+    "count": 1868
+   },
+   {
+    "code": "GB",
+    "count": 1213
    },
    {
     "code": "SE",
     "count": 1157
    },
    {
-    "code": "GB",
-    "count": 1078
-   },
-   {
     "code": "ES",
-    "count": 943
+    "count": 931
    },
    {
     "code": "BM",
-    "count": 844
+    "count": 792
    },
    {
     "code": "DK",
-    "count": 649
+    "count": 687
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

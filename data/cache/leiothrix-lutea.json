@@ -2,7 +2,7 @@
  "key": "leiothrix-lutea",
  "name": "Leiothrix lutea",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:35:40.181Z",
+ "fetchedAt": "2026-11-13T11:37:32.879Z",
  "names": {
   "da": "Kinesisk nattergal",
   "en": "Red-billed Leiothrix",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 15560,
-  "observations": 4055
+  "observations": 4117
  },
  "photos": {
   "male": [],
@@ -85,57 +85,58 @@
    1,
    0
   ],
-  "worldTotal": 87290,
+  "worldTotal": 83583,
   "topCountries": [
    {
     "code": "US",
-    "count": 33317
+    "count": 29110
    },
    {
     "code": "IN",
-    "count": 21891
-   },
-   {
-    "code": "ES",
-    "count": 7870
+    "count": 19548
    },
    {
     "code": "CN",
-    "count": 7730
+    "count": 8811
+   },
+   {
+    "code": "ES",
+    "count": 8376
    },
    {
     "code": "FR",
-    "count": 5461
+    "count": 5574
    },
    {
     "code": "JP",
-    "count": 3460
-   },
-   {
-    "code": "NP",
-    "count": 1644
+    "count": 4565
    },
    {
     "code": "IT",
-    "count": 1544
+    "count": 1885
+   },
+   {
+    "code": "NP",
+    "count": 1577
    },
    {
     "code": "HK",
-    "count": 1287
+    "count": 1259
    },
    {
     "code": "BT",
-    "count": 1264
+    "count": 1074
    },
    {
     "code": "PK",
-    "count": 314
+    "count": 273
    },
    {
     "code": "PT",
-    "count": 282
+    "count": 265
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

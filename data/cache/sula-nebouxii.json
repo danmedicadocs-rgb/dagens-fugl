@@ -2,7 +2,7 @@
  "key": "sula-nebouxii",
  "name": "Sula nebouxii",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:45.687Z",
+ "fetchedAt": "2026-11-13T11:49:53.009Z",
  "names": {
   "da": "Blåfodet Sule",
   "en": "Blue-footed Booby",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3786,
-  "observations": 10171
+  "observations": 10376
  },
  "photos": {
   "male": [
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 76983,
+  "worldTotal": 64168,
   "topCountries": [
    {
     "code": "EC",
-    "count": 43162
+    "count": 37183
    },
    {
     "code": "MX",
-    "count": 19246
-   },
-   {
-    "code": "US",
-    "count": 4824
+    "count": 17202
    },
    {
     "code": "PE",
-    "count": 3695
+    "count": 2700
+   },
+   {
+    "code": "US",
+    "count": 2334
    },
    {
     "code": "CO",
-    "count": 2445
+    "count": 2177
    },
    {
     "code": "PA",
-    "count": 2216
+    "count": 1612
    },
    {
     "code": "CR",
-    "count": 883
+    "count": 632
    },
    {
     "code": "CL",
-    "count": 168
+    "count": 85
    },
    {
     "code": "HN",
-    "count": 104
+    "count": 39
    },
    {
     "code": "NI",
-    "count": 64
+    "count": 39
    },
    {
     "code": "SV",
-    "count": 31
+    "count": 24
    },
    {
     "code": "GT",
-    "count": 11
+    "count": 6
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

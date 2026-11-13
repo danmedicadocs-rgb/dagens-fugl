@@ -2,7 +2,7 @@
  "key": "branta-ruficollis",
  "name": "Branta ruficollis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:36.449Z",
+ "fetchedAt": "2026-11-13T11:03:21.565Z",
  "names": {
   "da": "Rødhalset gås",
   "en": "Red-breasted Goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7102,
-  "observations": 2496
+  "observations": 2527
  },
  "photos": {
   "male": [],
@@ -47,14 +47,14 @@
     "date": "2023-05-01"
    },
    {
-    "id": 198668581,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198668581/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198668581/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/117624387",
-    "place": null,
-    "date": "2022-05-16"
+    "id": 755032405,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755032405/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755032405/large.jpg",
+    "attribution": "(c) Barry Stewart, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/410550477",
+    "place": "England, GB",
+    "date": "1983-11-17"
    }
   ],
   "hero": {
@@ -70,72 +70,73 @@
  },
  "gbif": {
   "key": 5232451,
-  "dkTotal": 3821,
+  "dkTotal": 3839,
   "dkMonths": [
-   328,
+   327,
    585,
-   705,
-   656,
-   281,
+   702,
+   658,
+   280,
    46,
    89,
-   70,
+   69,
    48,
-   514,
-   254,
-   244
+   529,
+   263,
+   242
   ],
-  "worldTotal": 76737,
+  "worldTotal": 77851,
   "topCountries": [
    {
     "code": "NL",
-    "count": 38129
+    "count": 38611
    },
    {
     "code": "SE",
-    "count": 17009
+    "count": 17193
    },
    {
     "code": "DK",
-    "count": 3821
+    "count": 3839
    },
    {
     "code": "GB",
-    "count": 2969
+    "count": 3031
    },
    {
     "code": "BE",
-    "count": 2781
+    "count": 2843
    },
    {
     "code": "DE",
-    "count": 1474
+    "count": 1541
    },
    {
     "code": "RU",
-    "count": 1303
-   },
-   {
-    "code": "BG",
-    "count": 1033
+    "count": 1330
    },
    {
     "code": "NO",
-    "count": 1018
+    "count": 1039
    },
    {
-    "code": "HU",
-    "count": 852
+    "code": "BG",
+    "count": 930
    },
    {
     "code": "EE",
-    "count": 717
+    "count": 807
+   },
+   {
+    "code": "HU",
+    "count": 699
    },
    {
     "code": "RO",
-    "count": 702
+    "count": 699
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "anas-crecca",
  "name": "Anas crecca",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:12.197Z",
+ "fetchedAt": "2026-11-13T11:03:48.980Z",
  "names": {
   "da": "Krikand",
   "en": "Eurasian Teal",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 6937,
-  "observations": 130483
+  "observations": 132961
  },
  "photos": {
   "male": [
+   {
+    "id": 762119969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762119969/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762119969/large.jpg",
+    "attribution": "(c) Ирина Хохрякова, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/414031398",
+    "place": "Мостовая улица, Perm, Perm Krai, RU",
+    "date": "2026-11-10"
+   },
    {
     "id": 608709086,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608709086/medium.jpg",
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/256131663",
     "place": "San Diego River, San Diego, CA, US",
     "date": "2024-12-23"
-   },
-   {
-    "id": 482360195,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482360195/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482360195/large.jpg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/268355184",
-    "place": "RSPB St Aidan's, West Yorkshire, UK",
-    "date": "2025-04-01"
    }
   ],
   "female": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 608709086,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608709086/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608709086/large.jpg",
-   "attribution": "(c) wweellll, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/335108472",
-   "place": "Deer Lagoon",
-   "date": "2026-01-17"
+   "id": 77632197,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77632197/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77632197/large.jpg",
+   "attribution": "(c) Smudge 9000, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/77632197",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 8214667,
-  "dkTotal": 386936,
+  "dkTotal": 389570,
   "dkMonths": [
-   22884,
-   21499,
-   51989,
-   72544,
-   22288,
-   19452,
-   19810,
-   37713,
-   41828,
-   36760,
-   23408,
-   16634
+   22932,
+   21552,
+   52098,
+   72684,
+   22316,
+   19487,
+   19845,
+   37793,
+   41952,
+   38370,
+   23704,
+   16709
   ],
-  "worldTotal": 7814903,
+  "worldTotal": 7535707,
   "topCountries": [
    {
     "code": "US",
-    "count": 3127700
+    "count": 2812817
    },
    {
     "code": "SE",
-    "count": 880176
+    "count": 885189
    },
    {
     "code": "CA",
-    "count": 772886
+    "count": 706007
    },
    {
     "code": "GB",
-    "count": 485820
+    "count": 555548
    },
    {
     "code": "NL",
-    "count": 443085
+    "count": 453819
    },
    {
     "code": "DK",
-    "count": 386936
+    "count": 389570
    },
    {
     "code": "NO",
-    "count": 302454
+    "count": 305695
    },
    {
     "code": "FR",
-    "count": 213451
+    "count": 218231
    },
    {
     "code": "BE",
-    "count": 173230
+    "count": 175489
    },
    {
     "code": "ES",
-    "count": 145122
-   },
-   {
-    "code": "TW",
-    "count": 112631
+    "count": 138573
    },
    {
     "code": "DE",
-    "count": 104587
+    "count": 110683
+   },
+   {
+    "code": "JP",
+    "count": 100315
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

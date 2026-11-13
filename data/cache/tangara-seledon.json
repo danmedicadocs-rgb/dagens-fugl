@@ -2,7 +2,7 @@
  "key": "tangara-seledon",
  "name": "Tangara seledon",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:51:29.918Z",
+ "fetchedAt": "2026-11-13T11:50:22.088Z",
  "names": {
   "da": "Trefarvet Tangar",
   "en": "Green-headed Tanager",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 9557,
-  "observations": 3534
+  "observations": 3650
  },
  "photos": {
   "male": [
@@ -109,14 +109,14 @@
    }
   ],
   "hero": {
-   "id": 236828100,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236828100/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236828100/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/138548051",
-   "place": "Gral Manuel Belgrano, Misiones, Argentina",
-   "date": "2013-10-15"
+   "id": 366557,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366557/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366557/large.jpg",
+   "attribution": "(c) Dario Sanches, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/366557",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,15 +136,15 @@
    0,
    0
   ],
-  "worldTotal": 60981,
+  "worldTotal": 55552,
   "topCountries": [
    {
     "code": "BR",
-    "count": 57042
+    "count": 52259
    },
    {
     "code": "AR",
-    "count": 3662
+    "count": 3016
    },
    {
     "code": "PY",
@@ -184,5 +184,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "buteo-lagopus",
  "name": "Buteo lagopus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:02:17.023Z",
+ "fetchedAt": "2026-11-13T11:08:56.208Z",
  "names": {
   "da": "Fjeldvåge",
   "en": "Rough-legged Buzzard",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5200,
-  "observations": 22945
+  "observations": 23421
  },
  "photos": {
   "male": [
@@ -56,6 +56,26 @@
   ],
   "female": [
    {
+    "id": 754504471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754504471/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754504471/large.jpg",
+    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/410267041",
+    "place": "Глазовский р-н, республика Удмуртия, Россия",
+    "date": "2026-10-23"
+   },
+   {
+    "id": 755396161,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755396161/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755396161/large.jpg",
+    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/410698964",
+    "place": "Šapnagiai, Akmenės r. sav., Lietuva",
+    "date": "2026-10-25"
+   },
+   {
     "id": 167460554,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167460554/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167460554/large.jpeg",
@@ -64,26 +84,6 @@
     "source": "https://www.inaturalist.org/observations/100352421",
     "place": "Lake County, US-OR, US",
     "date": "2021-11-05"
-   },
-   {
-    "id": 182312940,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182312940/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182312940/large.jpeg",
-    "attribution": "(c) Chelsea Carroll, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/108305187",
-    "place": "Shoreham, VT, USA",
-    "date": "2022-03-09"
-   },
-   {
-    "id": 349453182,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349453182/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349453182/large.jpg",
-    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/198287825",
-    "place": "Lorain County Regional Airport",
-    "date": "2024-02-02"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 609822816,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609822816/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609822816/large.jpg",
-   "attribution": "(c) Martin Tremblay, some rights reserved (CC BY)",
+   "id": 171806471,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171806471/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171806471/large.jpg",
+   "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY), uploaded by Jonathan Eisen",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/335669361",
-   "place": "Saint-Esprit - Rond-point 158",
-   "date": "2026-01-21"
+   "source": "https://www.inaturalist.org/photos/171806471",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480524,
-  "dkTotal": 113289,
+  "dkTotal": 113800,
   "dkMonths": [
-   13002,
-   11082,
-   12432,
-   21901,
-   9884,
-   143,
+   12995,
+   11093,
+   12448,
+   21928,
+   9897,
+   148,
    3,
-   127,
-   3521,
-   19688,
-   12155,
-   9335
+   130,
+   3536,
+   20031,
+   12230,
+   9347
   ],
-  "worldTotal": 1294957,
+  "worldTotal": 1220995,
   "topCountries": [
    {
     "code": "US",
-    "count": 450820
+    "count": 394851
    },
    {
     "code": "SE",
-    "count": 371894
+    "count": 373692
    },
    {
     "code": "CA",
-    "count": 193012
+    "count": 167855
    },
    {
     "code": "DK",
-    "count": 113289
+    "count": 113800
    },
    {
     "code": "NO",
-    "count": 61440
+    "count": 61454
    },
    {
     "code": "NL",
-    "count": 38340
-   },
-   {
-    "code": "RU",
-    "count": 13352
+    "count": 38388
    },
    {
     "code": "FI",
-    "count": 12389
+    "count": 14898
    },
    {
-    "code": "EE",
-    "count": 5732
+    "code": "RU",
+    "count": 13640
    },
    {
     "code": "PL",
-    "count": 5401
+    "count": 6631
+   },
+   {
+    "code": "EE",
+    "count": 5903
    },
    {
     "code": "DE",
-    "count": 5221
+    "count": 5427
    },
    {
     "code": "BE",
-    "count": 3912
+    "count": 3919
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

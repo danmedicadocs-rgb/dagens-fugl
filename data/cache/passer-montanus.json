@@ -2,7 +2,7 @@
  "key": "passer-montanus",
  "name": "Passer montanus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:22:22.025Z",
+ "fetchedAt": "2026-11-13T11:25:44.934Z",
  "names": {
   "da": "Skovspurv",
   "en": "Eurasian Tree Sparrow",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 13851,
-  "observations": 160794
+  "observations": 163084
  },
  "photos": {
   "male": [
-   {
-    "id": 247722077,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247722077/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247722077/large.jpeg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/144345478",
-    "place": "Higashisumida, Sumida City, Tokyo 131-0042, Japan",
-    "date": "2022-12-14"
-   },
    {
     "id": 66145301,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66145301/medium.jpeg",
@@ -44,14 +34,24 @@
     "date": "2020-04-07"
    },
    {
-    "id": 692811099,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/692811099/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/692811099/large.jpg",
-    "attribution": "(c) Lehmann, some rights reserved (CC BY)",
+    "id": 247722077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247722077/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247722077/large.jpeg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/378789513",
-    "place": "Minsheng Green Garden, West Central District, Tainan City, Taiwan 700",
-    "date": "2026-07-06"
+    "source": "https://www.inaturalist.org/observations/144345478",
+    "place": "Higashisumida, Sumida City, Tokyo 131-0042, Japan",
+    "date": "2022-12-14"
+   },
+   {
+    "id": 135944575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135944575/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135944575/large.jpeg",
+    "attribution": "(c) Марина, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82807237",
+    "place": "Самарская обл., Россия, 446001",
+    "date": "2019-06-22"
    }
   ],
   "female": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 247722077,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247722077/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247722077/large.jpeg",
-   "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/144345478",
-   "place": "Higashisumida, Sumida City, Tokyo 131-0042, Japan",
-   "date": "2022-12-14"
+   "id": 341117755,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341117755/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341117755/large.jpg",
+   "attribution": "(c) Yiwenyiwen, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/341117755",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5231198,
-  "dkTotal": 219588,
+  "dkTotal": 221525,
   "dkMonths": [
-   26176,
-   18921,
-   21279,
-   20313,
-   20428,
-   16954,
-   16018,
-   16280,
-   15048,
-   18554,
-   14367,
-   15185
+   26272,
+   19011,
+   21352,
+   20426,
+   20556,
+   17058,
+   16094,
+   16290,
+   15142,
+   19469,
+   14549,
+   15241
   ],
-  "worldTotal": 4326664,
+  "worldTotal": 4439651,
   "topCountries": [
    {
     "code": "SE",
-    "count": 685732
+    "count": 692864
    },
    {
     "code": "TW",
-    "count": 612400
+    "count": 555733
    },
    {
     "code": "NO",
-    "count": 329935
+    "count": 335257
    },
    {
     "code": "DE",
-    "count": 289370
+    "count": 293075
    },
    {
     "code": "ES",
-    "count": 278692
+    "count": 284066
    },
    {
     "code": "DK",
-    "count": 219588
+    "count": 221525
    },
    {
     "code": "FI",
-    "count": 147913
-   },
-   {
-    "code": "NL",
-    "count": 145572
-   },
-   {
-    "code": "GB",
-    "count": 127859
+    "count": 162142
    },
    {
     "code": "JP",
-    "count": 127134
+    "count": 154317
+   },
+   {
+    "code": "NL",
+    "count": 146684
+   },
+   {
+    "code": "GB",
+    "count": 136493
    },
    {
     "code": "RU",
-    "count": 125092
+    "count": 128500
    },
    {
-    "code": "FR",
-    "count": 119495
+    "code": "CN",
+    "count": 127788
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

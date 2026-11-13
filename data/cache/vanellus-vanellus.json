@@ -2,7 +2,7 @@
  "key": "vanellus-vanellus",
  "name": "Vanellus vanellus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:08.639Z",
+ "fetchedAt": "2026-11-13T11:11:18.387Z",
  "names": {
   "da": "Vibe",
   "en": "Northern Lapwing",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4857,
-  "observations": 70183
+  "observations": 70841
  },
  "photos": {
   "male": [
@@ -98,16 +98,6 @@
     "date": "2024-05-30"
    },
    {
-    "id": 506188172,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506188172/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506188172/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/281717710",
-    "place": "Statzendorf, 3125, Österreich",
-    "date": "2025-05-17"
-   },
-   {
     "id": 529175556,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529175556/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529175556/large.jpg",
@@ -116,87 +106,98 @@
     "source": "https://www.inaturalist.org/observations/294017469",
     "place": "Wageningen, Nederland",
     "date": "2025-06-30"
+   },
+   {
+    "id": 506188172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506188172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506188172/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/281717710",
+    "place": "Statzendorf, 3125, Österreich",
+    "date": "2025-05-17"
    }
   ],
   "hero": {
-   "id": 503422320,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503422320/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503422320/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/280305942",
-   "place": "6709 PG Wageningen, Nederland",
-   "date": "2025-05-11"
+   "id": 82657913,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82657913/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82657913/large.jpeg",
+   "attribution": "(c) Roy Lowry, some rights reserved (CC BY), uploaded by Roy Lowry",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/82657913",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480242,
-  "dkTotal": 531797,
+  "dkTotal": 534944,
   "dkMonths": [
-   10634,
-   27265,
-   78724,
-   77574,
-   73636,
-   48157,
-   50328,
-   48950,
-   42282,
-   40393,
-   23351,
-   10380
+   10649,
+   27310,
+   78871,
+   77768,
+   73820,
+   48326,
+   50510,
+   49139,
+   42419,
+   41954,
+   23637,
+   10418
   ],
-  "worldTotal": 4485411,
+  "worldTotal": 4628829,
   "topCountries": [
    {
     "code": "SE",
-    "count": 914812
+    "count": 920250
    },
    {
     "code": "NL",
-    "count": 804497
+    "count": 822540
    },
    {
     "code": "GB",
-    "count": 629524
+    "count": 703670
    },
    {
     "code": "DK",
-    "count": 531797
+    "count": 534944
    },
    {
     "code": "NO",
-    "count": 290496
+    "count": 292379
    },
    {
     "code": "FR",
-    "count": 273975
+    "count": 279201
    },
    {
     "code": "BE",
-    "count": 237252
+    "count": 243190
    },
    {
     "code": "ES",
-    "count": 149903
+    "count": 143178
    },
    {
     "code": "DE",
-    "count": 128089
+    "count": 134891
    },
    {
     "code": "FI",
-    "count": 110947
+    "count": 130639
    },
    {
     "code": "EE",
-    "count": 49967
+    "count": 50539
    },
    {
-    "code": "PT",
-    "count": 40898
+    "code": "PL",
+    "count": 49616
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

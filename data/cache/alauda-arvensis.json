@@ -2,7 +2,7 @@
  "key": "alauda-arvensis",
  "name": "Alauda arvensis",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:09.526Z",
+ "fetchedAt": "2026-11-13T11:21:07.443Z",
  "names": {
   "da": "Sanglærke",
   "en": "Eurasian Skylark",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7347,
-  "observations": 38904
+  "observations": 39221
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2021-06-08"
    },
    {
-    "id": 277929315,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/277929315/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/277929315/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/160821629",
-    "place": "Farrington Moss, Lancashire, UK",
-    "date": "2023-05-09"
+    "id": 513065446,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513065446/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513065446/large.jpg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/285442747",
+    "place": "87053 Celico CS, Italia",
+    "date": "2025-05-23"
    }
   ],
   "female": [],
@@ -100,72 +100,73 @@
  },
  "gbif": {
   "key": 8077224,
-  "dkTotal": 385428,
+  "dkTotal": 387679,
   "dkMonths": [
-   7385,
-   43952,
-   75237,
-   62687,
-   52532,
-   37459,
-   27563,
-   11412,
-   18262,
-   37585,
-   7600,
+   7392,
+   44006,
+   75411,
+   62872,
+   52741,
+   37726,
+   27698,
+   11411,
+   18328,
+   38663,
+   7678,
    3506
   ],
-  "worldTotal": 3690858,
+  "worldTotal": 3811807,
   "topCountries": [
    {
     "code": "SE",
-    "count": 657236
-   },
-   {
-    "code": "FR",
-    "count": 516624
+    "count": 661648
    },
    {
     "code": "GB",
-    "count": 457703
+    "count": 522799
+   },
+   {
+    "code": "FR",
+    "count": 522385
    },
    {
     "code": "DK",
-    "count": 385428
+    "count": 387679
    },
    {
     "code": "NL",
-    "count": 322932
+    "count": 327489
    },
    {
     "code": "NO",
-    "count": 209098
+    "count": 211183
    },
    {
     "code": "DE",
-    "count": 141843
+    "count": 149931
    },
    {
     "code": "BE",
-    "count": 136465
+    "count": 141752
    },
    {
     "code": "ES",
-    "count": 135967
+    "count": 134533
    },
    {
     "code": "AU",
-    "count": 112434
+    "count": 109925
    },
    {
     "code": "NZ",
-    "count": 110060
+    "count": 102061
    },
    {
     "code": "FI",
-    "count": 61750
+    "count": 76293
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

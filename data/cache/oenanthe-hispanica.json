@@ -2,7 +2,7 @@
  "key": "oenanthe-hispanica",
  "name": "Oenanthe hispanica",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:10.957Z",
+ "fetchedAt": "2026-11-13T11:31:43.524Z",
  "names": {
   "da": "Middelhavsstenpikker",
   "en": "Western Black-eared Wheatear",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12825,
-  "observations": 2224
+  "observations": 2234
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 64425003,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64425003/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64425003/large.jpeg",
-   "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+   "id": 358322720,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358322720/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358322720/large.jpeg",
+   "attribution": "(c) Karsten Ste, some rights reserved (CC BY), uploaded by Karsten Ste",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/40644044",
-   "place": "Aïn Smara, Algérie",
-   "date": "2016-08-02"
+   "source": "https://www.inaturalist.org/photos/358322720",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    149,
    194
   ],
-  "worldTotal": 113877,
+  "worldTotal": 111509,
   "topCountries": [
    {
     "code": "ES",
-    "count": 37506
+    "count": 36470
    },
    {
     "code": "GR",
-    "count": 15073
+    "count": 15821
    },
    {
     "code": "IL",
-    "count": 13785
+    "count": 12449
    },
    {
     "code": "TR",
-    "count": 11077
+    "count": 10424
    },
    {
     "code": "PT",
-    "count": 5664
+    "count": 5259
    },
    {
     "code": "FR",
-    "count": 4935
+    "count": 4950
    },
    {
     "code": "MA",
-    "count": 3732
+    "count": 3346
    },
    {
     "code": "CY",
-    "count": 2620
+    "count": 2810
+   },
+   {
+    "code": "AM",
+    "count": 2071
    },
    {
     "code": "BG",
-    "count": 1496
-   },
-   {
-    "code": "GE",
-    "count": 1478
+    "count": 1429
    },
    {
     "code": "PS",
-    "count": 1293
+    "count": 1376
    },
    {
-    "code": "HR",
-    "count": 1214
+    "code": "GE",
+    "count": 1300
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

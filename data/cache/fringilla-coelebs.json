@@ -2,7 +2,7 @@
  "key": "fringilla-coelebs",
  "name": "Fringilla coelebs",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:38.329Z",
+ "fetchedAt": "2026-11-13T11:26:48.272Z",
  "names": {
   "da": "Bogfinke",
   "en": "Eurasian Chaffinch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10070,
-  "observations": 211713
+  "observations": 213446
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 136408520,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/large.jpg",
-   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+   "id": 112941859,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/83075710",
-   "place": "20170 Levie, France",
-   "date": "2021-06-06"
+   "source": "https://www.inaturalist.org/photos/112941859",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494422,
-  "dkTotal": 535399,
+  "dkTotal": 540813,
   "dkMonths": [
-   44841,
-   37839,
-   77292,
-   82329,
-   73308,
-   49981,
-   24878,
-   14178,
-   30710,
-   42349,
-   28868,
-   28734
+   44980,
+   38037,
+   77559,
+   82660,
+   73706,
+   50294,
+   25038,
+   14308,
+   30912,
+   44918,
+   29415,
+   28894
   ],
-  "worldTotal": 10360017,
+  "worldTotal": 10744308,
   "topCountries": [
    {
     "code": "FR",
-    "count": 1791173
+    "count": 1818972
    },
    {
     "code": "SE",
-    "count": 1313322
+    "count": 1324703
    },
    {
     "code": "NL",
-    "count": 1130766
+    "count": 1149475
    },
    {
     "code": "GB",
-    "count": 970920
+    "count": 1095851
    },
    {
     "code": "ES",
-    "count": 821644
+    "count": 838518
    },
    {
     "code": "DE",
-    "count": 636724
+    "count": 668917
    },
    {
     "code": "FI",
-    "count": 585499
+    "count": 626928
    },
    {
     "code": "NO",
-    "count": 555800
+    "count": 564039
    },
    {
     "code": "DK",
-    "count": 535399
+    "count": 540813
    },
    {
     "code": "BE",
-    "count": 354726
+    "count": 364803
    },
    {
     "code": "NZ",
-    "count": 270282
+    "count": 258150
    },
    {
     "code": "PT",
-    "count": 188980
+    "count": 187258
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

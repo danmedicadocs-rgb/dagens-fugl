@@ -2,7 +2,7 @@
  "key": "coracias-garrulus",
  "name": "Coracias garrulus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:13:48.078Z",
+ "fetchedAt": "2026-11-13T11:18:25.851Z",
  "names": {
   "da": "Ellekrage",
   "en": "European Roller",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2266,
-  "observations": 12292
+  "observations": 12433
  },
  "photos": {
   "male": [
@@ -68,19 +68,19 @@
    }
   ],
   "hero": {
-   "id": 686559553,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686559553/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686559553/large.jpg",
-   "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/375547211",
-   "place": "Tulcea, Romania",
-   "date": "2026-06-26"
+   "id": 100389616,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389616/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/100389616/large.jpg",
+   "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/100389616",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2475365,
-  "dkTotal": 510,
+  "dkTotal": 511,
   "dkMonths": [
    0,
    0,
@@ -90,62 +90,63 @@
    84,
    2,
    51,
-   2,
+   3,
    315,
    0,
    1
   ],
-  "worldTotal": 249986,
+  "worldTotal": 246336,
   "topCountries": [
    {
     "code": "FR",
-    "count": 68039
-   },
-   {
-    "code": "ES",
-    "count": 33075
+    "count": 68755
    },
    {
     "code": "ZA",
-    "count": 32703
+    "count": 33173
+   },
+   {
+    "code": "ES",
+    "count": 32427
    },
    {
     "code": "IN",
-    "count": 15732
+    "count": 11843
    },
    {
     "code": "IL",
-    "count": 9523
+    "count": 9505
    },
    {
     "code": "TR",
-    "count": 8076
+    "count": 7392
    },
    {
     "code": "KE",
-    "count": 6218
+    "count": 6083
    },
    {
     "code": "HU",
-    "count": 6037
-   },
-   {
-    "code": "GE",
-    "count": 5578
+    "count": 5982
    },
    {
     "code": "RO",
-    "count": 5259
+    "count": 5455
+   },
+   {
+    "code": "GE",
+    "count": 5393
    },
    {
     "code": "BG",
-    "count": 4452
+    "count": 4398
    },
    {
     "code": "TZ",
-    "count": 4256
+    "count": 3726
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

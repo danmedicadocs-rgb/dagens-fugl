@@ -2,7 +2,7 @@
  "key": "anas-platyrhynchos",
  "name": "Anas platyrhynchos",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:17.063Z",
+ "fetchedAt": "2026-11-13T11:03:53.793Z",
  "names": {
   "da": "Gråand",
   "en": "Mallard",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6930,
-  "observations": 978245
+  "observations": 989459
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 9761484,
-  "dkTotal": 782515,
+  "dkTotal": 788650,
   "dkMonths": [
-   84512,
-   70411,
-   92382,
-   92381,
-   85000,
-   58683,
-   46774,
-   50422,
-   46737,
-   54391,
-   49500,
-   50954
+   84719,
+   70655,
+   92691,
+   92734,
+   85345,
+   59003,
+   47087,
+   50684,
+   47007,
+   57036,
+   50138,
+   51182
   ],
-  "worldTotal": 33396863,
+  "worldTotal": 32874478,
   "topCountries": [
    {
     "code": "US",
-    "count": 19690474
+    "count": 18946185
    },
    {
     "code": "CA",
-    "count": 3864218
+    "count": 3661720
    },
    {
     "code": "SE",
-    "count": 1486988
+    "count": 1499715
    },
    {
     "code": "GB",
-    "count": 1217404
+    "count": 1384760
    },
    {
     "code": "NL",
-    "count": 1116525
+    "count": 1152108
    },
    {
     "code": "NO",
-    "count": 786695
+    "count": 797158
    },
    {
     "code": "DK",
-    "count": 782515
+    "count": 788650
    },
    {
     "code": "FR",
-    "count": 745558
+    "count": 764953
    },
    {
     "code": "ES",
-    "count": 690890
+    "count": 696374
    },
    {
     "code": "DE",
-    "count": 498328
+    "count": 531579
    },
    {
     "code": "BE",
-    "count": 433145
+    "count": 440129
    },
    {
     "code": "RU",
-    "count": 187616
+    "count": 192701
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

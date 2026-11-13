@@ -2,7 +2,7 @@
  "key": "certhia-familiaris",
  "name": "Certhia familiaris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:19:55.640Z",
+ "fetchedAt": "2026-11-13T11:23:35.899Z",
  "names": {
   "da": "Træløber",
   "en": "Eurasian Treecreeper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7450,
-  "observations": 29755
+  "observations": 30177
  },
  "photos": {
   "male": [
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2487603,
-  "dkTotal": 90173,
+  "dkTotal": 90954,
   "dkMonths": [
-   9160,
-   9508,
-   16053,
-   13485,
-   8657,
-   4728,
-   3295,
-   3323,
-   4187,
-   7143,
-   5252,
-   5324
+   9180,
+   9548,
+   16114,
+   13514,
+   8708,
+   4753,
+   3319,
+   3357,
+   4233,
+   7491,
+   5343,
+   5336
   ],
-  "worldTotal": 1200362,
+  "worldTotal": 1263998,
   "topCountries": [
    {
     "code": "SE",
-    "count": 430035
+    "count": 434393
    },
    {
     "code": "GB",
-    "count": 179354
+    "count": 204056
    },
    {
     "code": "FI",
-    "count": 160827
+    "count": 174182
    },
    {
     "code": "NO",
-    "count": 96434
+    "count": 98374
    },
    {
     "code": "DK",
-    "count": 90173
-   },
-   {
-    "code": "FR",
-    "count": 37190
+    "count": 90954
    },
    {
     "code": "RU",
-    "count": 36017
+    "count": 37538
+   },
+   {
+    "code": "FR",
+    "count": 37502
    },
    {
     "code": "DE",
-    "count": 31767
+    "count": 35016
    },
    {
     "code": "PL",
-    "count": 18962
+    "count": 22904
    },
    {
     "code": "EE",
-    "count": 16740
-   },
-   {
-    "code": "AX",
-    "count": 13664
+    "count": 17094
    },
    {
     "code": "CZ",
-    "count": 12920
+    "count": 14089
+   },
+   {
+    "code": "AX",
+    "count": 13821
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

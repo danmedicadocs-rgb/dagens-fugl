@@ -2,7 +2,7 @@
  "key": "leucogeranus-leucogeranus",
  "name": "Leucogeranus leucogeranus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:56.295Z",
+ "fetchedAt": "2026-11-13T11:36:01.936Z",
  "names": {
   "da": "Snetrane",
   "en": "Siberian Crane",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144289,
-  "observations": 606
+  "observations": 611
  },
  "photos": {
   "male": [],
@@ -96,31 +96,35 @@
    0,
    0
   ],
-  "worldTotal": 4104,
+  "worldTotal": 4242,
   "topCountries": [
    {
     "code": "CN",
-    "count": 1937
+    "count": 2374
    },
    {
     "code": "TW",
-    "count": 804
-   },
-   {
-    "code": "JP",
-    "count": 405
+    "count": 641
    },
    {
     "code": "IN",
-    "count": 360
+    "count": 365
+   },
+   {
+    "code": "JP",
+    "count": 316
    },
    {
     "code": "IR",
-    "count": 155
+    "count": 96
    },
    {
     "code": "HK",
-    "count": 95
+    "count": 93
+   },
+   {
+    "code": "KR",
+    "count": 74
    },
    {
     "code": "US",
@@ -128,15 +132,11 @@
    },
    {
     "code": "RU",
-    "count": 62
-   },
-   {
-    "code": "KR",
-    "count": 61
+    "count": 59
    },
    {
     "code": "MN",
-    "count": 52
+    "count": 54
    },
    {
     "code": "ZZ",
@@ -148,5 +148,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

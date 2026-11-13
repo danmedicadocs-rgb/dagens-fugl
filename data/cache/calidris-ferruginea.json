@@ -2,7 +2,7 @@
  "key": "calidris-ferruginea",
  "name": "Calidris ferruginea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:37.977Z",
+ "fetchedAt": "2026-11-13T11:11:44.982Z",
  "names": {
   "da": "Krumnæbbet ryle",
   "en": "Curlew Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3863,
-  "observations": 11074
+  "observations": 11193
  },
  "photos": {
   "male": [],
@@ -80,72 +80,73 @@
  },
  "gbif": {
   "key": 2481741,
-  "dkTotal": 46004,
+  "dkTotal": 46092,
   "dkMonths": [
    2,
    0,
    0,
    18,
-   2327,
-   651,
-   19757,
-   17144,
-   6052,
-   43,
+   2334,
+   653,
+   19783,
+   17165,
+   6082,
+   45,
    2,
    1
   ],
-  "worldTotal": 605036,
+  "worldTotal": 594437,
   "topCountries": [
    {
     "code": "SE",
-    "count": 125091
+    "count": 125315
    },
    {
     "code": "AU",
-    "count": 77693
+    "count": 75138
    },
    {
     "code": "DK",
-    "count": 46004
+    "count": 46092
    },
    {
     "code": "ZA",
-    "count": 44647
+    "count": 44178
    },
    {
     "code": "ES",
-    "count": 43002
+    "count": 41483
    },
    {
     "code": "NL",
-    "count": 35681
+    "count": 36874
    },
    {
     "code": "GB",
-    "count": 26073
+    "count": 29662
    },
    {
     "code": "NO",
-    "count": 19763
-   },
-   {
-    "code": "TW",
-    "count": 18847
+    "count": 19867
    },
    {
     "code": "FR",
-    "count": 18152
+    "count": 18614
    },
    {
-    "code": "IN",
-    "count": 14540
+    "code": "TW",
+    "count": 16235
    },
    {
     "code": "PT",
-    "count": 12552
+    "count": 11593
+   },
+   {
+    "code": "IN",
+    "count": 10561
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

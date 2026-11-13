@@ -2,10 +2,10 @@
  "key": "branta-bernicla",
  "name": "Branta bernicla",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:55:30.015Z",
+ "fetchedAt": "2026-11-13T11:03:15.448Z",
  "names": {
   "da": "Knortegås",
-  "en": "Brant Goose",
+  "en": "Ensis (bird)",
   "accepted": "Branta bernicla"
  },
  "wikidata": {
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7087,
-  "observations": 26473
+  "observations": 26928
  },
  "photos": {
   "male": [],
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 6822790,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/large.jpg",
-   "attribution": "(c) Donald Hobern, some rights reserved (CC BY)",
+   "id": 184003261,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184003261/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184003261/large.jpeg",
+   "attribution": "(c) Liam Steele, some rights reserved (CC BY), uploaded by Liam Steele",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/5529591",
-   "place": "Tendring District, England, United Kingdom",
-   "date": "2017-04-01"
+   "source": "https://www.inaturalist.org/photos/184003261",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5232446,
-  "dkTotal": 127832,
+  "dkTotal": 128825,
   "dkMonths": [
-   8955,
-   7230,
-   11593,
-   15545,
-   16361,
-   2931,
-   1027,
-   898,
-   15597,
-   30397,
-   11930,
-   5349
+   8970,
+   7243,
+   11604,
+   15556,
+   16388,
+   2934,
+   1030,
+   907,
+   15621,
+   31118,
+   12077,
+   5358
   ],
-  "worldTotal": 1495801,
+  "worldTotal": 1437661,
   "topCountries": [
    {
     "code": "US",
-    "count": 754995
+    "count": 685256
    },
    {
     "code": "NL",
-    "count": 191528
+    "count": 194987
    },
    {
     "code": "DK",
-    "count": 127832
+    "count": 128825
    },
    {
     "code": "SE",
-    "count": 123030
+    "count": 124317
    },
    {
     "code": "GB",
-    "count": 102583
+    "count": 113972
    },
    {
     "code": "CA",
-    "count": 74095
+    "count": 66487
    },
    {
     "code": "FR",
-    "count": 39363
-   },
-   {
-    "code": "NO",
-    "count": 13378
+    "count": 40788
    },
    {
     "code": "IE",
-    "count": 12902
+    "count": 13931
+   },
+   {
+    "code": "NO",
+    "count": 13451
    },
    {
     "code": "DE",
-    "count": 9251
+    "count": 9799
    },
    {
     "code": "BE",
-    "count": 8636
+    "count": 8807
    },
    {
     "code": "ES",
-    "count": 6959
+    "count": 5494
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

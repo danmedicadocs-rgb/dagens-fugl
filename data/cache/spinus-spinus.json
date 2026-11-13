@@ -2,7 +2,7 @@
  "key": "spinus-spinus",
  "name": "Spinus spinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:25:05.779Z",
+ "fetchedAt": "2026-11-13T11:28:03.588Z",
  "names": {
   "da": "Grønsisken",
   "en": null,
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 145303,
-  "observations": 42210
+  "observations": 42705
  },
  "photos": {
   "male": [
+   {
+    "id": 248610060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248610060/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248610060/large.jpeg",
+    "attribution": "(c) Andrew Simon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/144803267",
+    "place": "Ivankivs'kyi district, Kyiv Oblast, Ukraine",
+    "date": "2022-12-20"
+   },
    {
     "id": 215588636,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215588636/medium.jpeg",
@@ -42,19 +52,19 @@
     "source": "https://www.inaturalist.org/observations/70007189",
     "place": "Siebenhirten, 1230 Wien, Österreich",
     "date": "2021-01-18"
-   },
-   {
-    "id": 171424625,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171424625/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171424625/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/102536889",
-    "place": "Высокогорский р-н, Респ. Татарстан, Россия",
-    "date": "2019-03-19"
    }
   ],
   "female": [
+   {
+    "id": 358550190,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358550190/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358550190/large.jpeg",
+    "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/202973368",
+    "place": "Νεάπολη Βοιών, Ελλάδα",
+    "date": "2024-03-18"
+   },
    {
     "id": 263009651,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263009651/medium.jpeg",
@@ -74,29 +84,9 @@
     "source": "https://www.inaturalist.org/observations/153806982",
     "place": "Uppsala, SE",
     "date": "2023-04-07"
-   },
-   {
-    "id": 266884520,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266884520/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266884520/large.jpeg",
-    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/154457449",
-    "place": "Jablonec nad Nisou, Česko",
-    "date": "2023-04-07"
    }
   ],
   "juvenile": [
-   {
-    "id": 215261720,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215261720/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215261720/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/126841838",
-    "place": "Nannerth Fawr",
-    "date": "2022-07-13"
-   },
    {
     "id": 221495602,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/221495602/medium.jpeg",
@@ -106,6 +96,16 @@
     "source": "https://www.inaturalist.org/observations/130259953",
     "place": "906 52 Umeå, Sweden",
     "date": "2022-08-10"
+   },
+   {
+    "id": 215261720,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215261720/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215261720/large.jpeg",
+    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/126841838",
+    "place": "Nannerth Fawr",
+    "date": "2022-07-13"
    },
    {
     "id": 644699924,
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 6092830,
-  "dkTotal": 213375,
+  "dkTotal": 215559,
   "dkMonths": [
-   23158,
-   23359,
-   35712,
-   23406,
-   8312,
-   2604,
-   2125,
-   2194,
-   23343,
-   35967,
-   17930,
-   15210
+   23224,
+   23465,
+   35824,
+   23413,
+   8276,
+   2616,
+   2126,
+   2191,
+   23428,
+   37432,
+   18249,
+   15260
   ],
-  "worldTotal": 3189715,
+  "worldTotal": 3276309,
   "topCountries": [
    {
     "code": "SE",
-    "count": 977034
+    "count": 984950
    },
    {
     "code": "FI",
-    "count": 394039
+    "count": 418879
    },
    {
     "code": "NO",
-    "count": 369348
+    "count": 375500
    },
    {
     "code": "GB",
-    "count": 214563
+    "count": 240365
    },
    {
     "code": "DK",
-    "count": 213375
+    "count": 215559
    },
    {
     "code": "FR",
-    "count": 192321
-   },
-   {
-    "code": "NL",
-    "count": 136162
-   },
-   {
-    "code": "ES",
-    "count": 135898
+    "count": 195184
    },
    {
     "code": "DE",
-    "count": 135333
+    "count": 140219
    },
    {
-    "code": "BE",
-    "count": 67530
+    "code": "NL",
+    "count": 137893
+   },
+   {
+    "code": "ES",
+    "count": 132415
    },
    {
     "code": "PL",
-    "count": 63036
+    "count": 69218
+   },
+   {
+    "code": "BE",
+    "count": 68895
    },
    {
     "code": "RU",
-    "count": 38053
+    "count": 39311
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

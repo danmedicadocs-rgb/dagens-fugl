@@ -2,7 +2,7 @@
  "key": "bucorvus-leadbeateri",
  "name": "Bucorvus leadbeateri",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:43.688Z",
+ "fetchedAt": "2026-11-13T11:32:13.201Z",
  "names": {
   "da": "Sydlig Hornravn",
   "en": "Southern Ground Hornbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144281,
-  "observations": 4966
+  "observations": 5063
  },
  "photos": {
   "male": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 750054803,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054803/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750054803/large.jpg",
-   "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
+   "id": 27610557,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27610557/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27610557/large.jpg",
+   "attribution": "(c) Wynand Uys, some rights reserved (CC BY), uploaded by Wynand Uys",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/408087505",
-   "place": "Mopani, ZA-NP, ZA",
-   "date": "2025-11-29"
+   "source": "https://www.inaturalist.org/photos/27610557",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,51 +126,51 @@
    0,
    0
   ],
-  "worldTotal": 51397,
+  "worldTotal": 51727,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 28709
+    "count": 28876
    },
    {
     "code": "TZ",
-    "count": 5970
+    "count": 5690
    },
    {
     "code": "KE",
-    "count": 4768
+    "count": 4532
    },
    {
     "code": "BW",
-    "count": 3880
+    "count": 3950
    },
    {
     "code": "ZW",
-    "count": 3180
+    "count": 3595
    },
    {
     "code": "ZM",
-    "count": 2788
+    "count": 3035
    },
    {
     "code": "MZ",
-    "count": 785
+    "count": 729
    },
    {
     "code": "MW",
-    "count": 536
+    "count": 548
    },
    {
     "code": "NA",
-    "count": 477
-   },
-   {
-    "code": "AO",
-    "count": 52
+    "count": 465
    },
    {
     "code": "SZ",
-    "count": 48
+    "count": 52
+   },
+   {
+    "code": "AO",
+    "count": 49
    },
    {
     "code": "CD",
@@ -178,5 +178,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

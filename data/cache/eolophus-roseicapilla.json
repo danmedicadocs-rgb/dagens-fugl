@@ -2,7 +2,7 @@
  "key": "eolophus-roseicapilla",
  "name": "Eolophus roseicapilla",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:41.120Z",
+ "fetchedAt": "2026-11-13T11:39:21.613Z",
  "names": {
   "da": "Rosa kakadue",
   "en": "Galah",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144560,
-  "observations": 33032
+  "observations": 33706
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2025-12-24"
    },
    {
-    "id": 344795709,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344795709/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344795709/large.jpg",
-    "attribution": "(c) Thomas Jaeger, some rights reserved (CC BY)",
+    "id": 550778576,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550778576/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550778576/large.jpg",
+    "attribution": "(c) Patrick Connolly, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195918949",
-    "place": "Berwick VIC 3806, Australia",
-    "date": "2023-12-07"
+    "source": "https://www.inaturalist.org/observations/305506285",
+    "place": "Dunwich QLD, Australia",
+    "date": "2025-08-09"
    }
   ],
   "female": [
@@ -76,14 +76,14 @@
     "date": "2022-12-11"
    },
    {
-    "id": 231472870,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231472870/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231472870/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/135692328",
-    "place": "Apollo Bay Foreshore, Apollo Bay, VIC, AU",
-    "date": "2017-10-30"
+    "id": 246358377,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246358377/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246358377/large.jpg",
+    "attribution": "(c) Proteros, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/143624653",
+    "place": "New South Wales, AU",
+    "date": "2022-12-04"
    }
   ],
   "juvenile": [
@@ -146,43 +146,43 @@
    0,
    0
   ],
-  "worldTotal": 1564073,
+  "worldTotal": 1598575,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1563466
+    "count": 1597954
    },
    {
     "code": "NZ",
-    "count": 93
+    "count": 92
    },
    {
     "code": "BE",
-    "count": 37
+    "count": 38
+   },
+   {
+    "code": "NL",
+    "count": 35
+   },
+   {
+    "code": "US",
+    "count": 30
    },
    {
     "code": "ZZ",
     "count": 30
    },
    {
-    "code": "NL",
-    "count": 28
-   },
-   {
-    "code": "US",
-    "count": 28
-   },
-   {
     "code": "DE",
-    "count": 8
-   },
-   {
-    "code": "GB",
-    "count": 2
+    "count": 9
    },
    {
     "code": "IE",
-    "count": 2
+    "count": 4
+   },
+   {
+    "code": "GB",
+    "count": 3
    },
    {
     "code": "JP",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

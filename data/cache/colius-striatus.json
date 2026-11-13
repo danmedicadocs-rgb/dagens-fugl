@@ -2,7 +2,7 @@
  "key": "colius-striatus",
  "name": "Colius striatus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:31:27.422Z",
+ "fetchedAt": "2026-11-13T11:33:46.971Z",
  "names": {
   "da": "Brun Musefugl",
   "en": "Speckled Mousebird",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3704,
-  "observations": 8600
+  "observations": 8766
  },
  "photos": {
   "male": [],
@@ -37,6 +37,16 @@
     "date": "2025-11-22"
    },
    {
+    "id": 519246383,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519246383/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/519246383/large.jpg",
+    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/288720020",
+    "place": "Mossel Bay Central, Mossel Bay, 6506, South Africa",
+    "date": "2025-06-11"
+   },
+   {
     "id": 181535507,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181535507/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181535507/large.jpeg",
@@ -45,27 +55,17 @@
     "source": "https://www.inaturalist.org/observations/107884788",
     "place": "Keurboomstrand, South Africa",
     "date": "2022-03-04"
-   },
-   {
-    "id": 159574405,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159574405/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159574405/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/96079714",
-    "place": "Riversdale, 6670, South Africa",
-    "date": "2021-09-23"
    }
   ],
   "hero": {
-   "id": 593618434,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/large.jpg",
-   "attribution": "(c) Nicole Kearney, some rights reserved (CC BY)",
+   "id": 35258692,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35258692/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35258692/large.jpg",
+   "attribution": "(c) Henry de Lange, some rights reserved (CC BY), uploaded by Henry de Lange",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/327643359",
-   "place": "Arusha, Arusha Urban, TZ",
-   "date": "2025-11-22"
+   "source": "https://www.inaturalist.org/photos/35258692",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,57 +85,58 @@
    1,
    0
   ],
-  "worldTotal": 423091,
+  "worldTotal": 419072,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 289681
+    "count": 291883
    },
    {
     "code": "KE",
-    "count": 53091
+    "count": 51927
    },
    {
     "code": "UG",
-    "count": 23548
+    "count": 20485
    },
    {
     "code": "TZ",
-    "count": 18952
+    "count": 17890
    },
    {
     "code": "ET",
-    "count": 7391
+    "count": 6691
    },
    {
     "code": "RW",
-    "count": 6751
+    "count": 6287
    },
    {
     "code": "ZW",
-    "count": 4786
+    "count": 5004
    },
    {
     "code": "NG",
-    "count": 3723
+    "count": 3655
    },
    {
     "code": "SZ",
-    "count": 3527
+    "count": 3513
    },
    {
     "code": "MZ",
-    "count": 2690
+    "count": 2516
    },
    {
     "code": "CD",
-    "count": 2329
+    "count": 2383
    },
    {
     "code": "MW",
-    "count": 1640
+    "count": 1683
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

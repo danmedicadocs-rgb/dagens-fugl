@@ -2,7 +2,7 @@
  "key": "oenanthe-oenanthe",
  "name": "Oenanthe oenanthe",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:22:06.902Z",
+ "fetchedAt": "2026-11-13T11:25:31.488Z",
  "names": {
   "da": "Stenpikker",
   "en": "Northern Wheatear",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12822,
-  "observations": 52810
+  "observations": 53162
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2025-09-10"
    },
    {
+    "id": 341586806,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341586806/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341586806/large.jpeg",
+    "attribution": "(c) Andrew Simon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/194341408",
+    "place": "Лиманський район, Одеська область, Україна",
+    "date": "2021-04-07"
+   },
+   {
     "id": 658174859,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658174859/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658174859/large.jpg",
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/360692774",
     "place": "Sachsen, DE",
     "date": "2026-05-10"
-   },
-   {
-    "id": 189219619,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189219619/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189219619/large.jpg",
-    "attribution": "(c) Jonas Kraft, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/112042065",
-    "place": "Leymen, Elsass, FR",
-    "date": "2022-04-03"
    }
   ],
   "female": [
@@ -66,14 +66,14 @@
     "date": "2020-04-22"
    },
    {
-    "id": 396624818,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/396624818/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/396624818/large.jpeg",
-    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
+    "id": 544812167,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/544812167/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/544812167/large.jpg",
+    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/223821198",
-    "place": "Dunnet Head, Thurso KW14 8XS, UK",
-    "date": "2024-06-19"
+    "source": "https://www.inaturalist.org/observations/302305753",
+    "place": "Карабаш, Челябинская обл., Россия",
+    "date": "2025-07-30"
    },
    {
     "id": 130539321,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 565757163,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565757163/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565757163/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "id": 188138096,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188138096/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188138096/large.jpg",
+   "attribution": "(c) Paul Lewis, some rights reserved (CC BY), uploaded by Paul Lewis",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/313294120",
-   "place": "Pomorie, Bulgaria",
-   "date": "2025-09-10"
+   "source": "https://www.inaturalist.org/photos/188138096",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5231240,
-  "dkTotal": 112172,
+  "dkTotal": 112456,
   "dkMonths": [
    0,
-   20,
+   18,
    615,
-   16855,
-   36377,
-   2562,
-   2523,
-   19489,
-   26359,
-   7264,
-   47,
+   16863,
+   36409,
+   2557,
+   2537,
+   19509,
+   26458,
+   7381,
+   48,
    3
   ],
-  "worldTotal": 1802795,
+  "worldTotal": 1836353,
   "topCountries": [
    {
     "code": "SE",
-    "count": 426182
+    "count": 427596
    },
    {
     "code": "NL",
-    "count": 225358
+    "count": 235232
    },
    {
     "code": "NO",
-    "count": 212387
+    "count": 213828
    },
    {
     "code": "GB",
-    "count": 163399
+    "count": 178039
    },
    {
     "code": "FR",
-    "count": 128836
+    "count": 131175
    },
    {
     "code": "ES",
-    "count": 123497
+    "count": 119496
    },
    {
     "code": "DK",
-    "count": 112172
+    "count": 112456
    },
    {
     "code": "FI",
-    "count": 46358
+    "count": 55457
    },
    {
     "code": "BE",
-    "count": 45041
+    "count": 45839
    },
    {
     "code": "DE",
-    "count": 28061
+    "count": 29665
    },
    {
     "code": "PT",
-    "count": 27249
+    "count": 24313
    },
    {
     "code": "RU",
-    "count": 23643
+    "count": 23618
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

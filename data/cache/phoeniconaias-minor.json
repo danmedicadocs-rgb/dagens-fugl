@@ -2,7 +2,7 @@
  "key": "phoeniconaias-minor",
  "name": "Phoeniconaias minor",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:30:27.994Z",
+ "fetchedAt": "2026-11-13T11:32:53.530Z",
  "names": {
   "da": "Lille Flamingo",
   "en": "Lesser Flamingo",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 4259,
-  "observations": 4849
+  "observations": 4896
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 242955827,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242955827/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242955827/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/141773970",
+    "place": "Maharashtra, IN",
+    "date": "2022-03-01"
+   },
    {
     "id": 179914113,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179914113/medium.jpeg",
@@ -44,16 +54,6 @@
     "source": "https://www.inaturalist.org/observations/39194503",
     "place": "West Coast DC, South Africa",
     "date": "2019-11-02"
-   },
-   {
-    "id": 62147656,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147656/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147656/large.jpeg",
-    "attribution": "(c) Nathan Earley, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39194508",
-    "place": "West Coast DC, South Africa",
-    "date": "2019-11-02"
    }
   ],
   "adult": [
@@ -68,35 +68,35 @@
     "date": "2015-05-09"
    },
    {
-    "id": 162683474,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162683474/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162683474/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
+    "id": 716013023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716013023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716013023/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/97785261",
-    "place": "Diamandveld, South Africa",
-    "date": "2021-10-07"
+    "source": "https://www.inaturalist.org/observations/390802607",
+    "place": "Maharashtra, IN",
+    "date": "2018-05-20"
    },
    {
-    "id": 723036027,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723036027/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723036027/large.jpg",
-    "attribution": "(c) Fionn Ó Marcaigh, some rights reserved (CC BY)",
+    "id": 490546707,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490546707/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490546707/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/394411891",
-    "place": "Baringo, KE",
-    "date": "2015-11-11"
+    "source": "https://www.inaturalist.org/observations/272660901",
+    "place": "Maharashtra, IN",
+    "date": "2025-04-22"
    }
   ],
   "hero": {
-   "id": 381289372,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/large.jpeg",
-   "attribution": "(c) Nishant Purushottam Berde, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/215645891",
-   "place": "Maharashtra, IN",
-   "date": "2015-05-09"
+   "id": 120790062,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120790062/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120790062/large.jpg",
+   "attribution": "(c) russellstreet, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/120790062",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    1,
    0
   ],
-  "worldTotal": 67046,
+  "worldTotal": 61799,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 27058
+    "count": 25855
    },
    {
     "code": "IN",
-    "count": 12934
+    "count": 11198
    },
    {
     "code": "KE",
-    "count": 7696
+    "count": 7282
    },
    {
     "code": "TZ",
-    "count": 5844
+    "count": 5469
    },
    {
     "code": "NA",
-    "count": 5545
+    "count": 4756
    },
    {
     "code": "ES",
-    "count": 1500
-   },
-   {
-    "code": "UG",
-    "count": 882
+    "count": 1327
    },
    {
     "code": "FR",
-    "count": 750
+    "count": 764
    },
    {
-    "code": "MG",
-    "count": 707
-   },
-   {
-    "code": "SN",
-    "count": 645
+    "code": "UG",
+    "count": 758
    },
    {
     "code": "ET",
-    "count": 615
+    "count": 602
    },
    {
-    "code": "MZ",
-    "count": 332
+    "code": "MG",
+    "count": 594
+   },
+   {
+    "code": "SN",
+    "count": 574
+   },
+   {
+    "code": "BW",
+    "count": 334
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

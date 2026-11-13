@@ -2,7 +2,7 @@
  "key": "garrulus-glandarius",
  "name": "Garrulus glandarius",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:00.742Z",
+ "fetchedAt": "2026-11-13T11:19:26.063Z",
  "names": {
   "da": "Skovskade",
   "en": "Eurasian Jay",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 8088,
-  "observations": 110315
+  "observations": 112262
  },
  "photos": {
   "male": [
-   {
-    "id": 671652000,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/large.jpg",
-    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/367772511",
-    "place": "Nordrhein-Westfalen, DE",
-    "date": "2026-06-02"
-   },
    {
     "id": 183687990,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183687990/medium.jpg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/109031582",
     "place": "Потсдам Норд, Потсдам, Германия",
     "date": "2022-03-19"
+   },
+   {
+    "id": 671652000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/large.jpg",
+    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/367772511",
+    "place": "Nordrhein-Westfalen, DE",
+    "date": "2026-06-02"
    },
    {
     "id": 265660218,
@@ -88,24 +88,24 @@
     "date": "2026-07-15"
    },
    {
-    "id": 516499277,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/516499277/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/516499277/large.jpg",
-    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
+    "id": 143595287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/143595287/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/143595287/large.jpg",
+    "attribution": "(c) Evgenij Samarin, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/287258061",
-    "place": "93192 Wald, Germany",
-    "date": "2025-06-06"
+    "source": "https://www.inaturalist.org/observations/87120085",
+    "place": "Республика Башкортостан, RU",
+    "date": "2021-07-15"
    },
    {
-    "id": 482851677,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482851677/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482851677/large.jpg",
-    "attribution": "(c) Asrın Akıncıoğlu, some rights reserved (CC BY)",
+    "id": 169131318,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169131318/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169131318/large.jpeg",
+    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/268613912",
-    "place": "Kartepe/Kocaeli, Türkiye",
-    "date": "2025-04-04"
+    "source": "https://www.inaturalist.org/observations/101281913",
+    "place": "Zorilor, Cluj-Napoca, Romania",
+    "date": "2021-06-30"
    }
   ],
   "hero": {
@@ -121,72 +121,73 @@
  },
  "gbif": {
   "key": 5229493,
-  "dkTotal": 236814,
+  "dkTotal": 239956,
   "dkMonths": [
-   23391,
-   17760,
-   22881,
-   26920,
-   20582,
-   12746,
-   8773,
-   11304,
-   25357,
-   30810,
-   19412,
-   16818
+   23492,
+   17866,
+   22968,
+   27035,
+   20690,
+   12829,
+   8840,
+   11381,
+   25511,
+   32606,
+   19796,
+   16882
   ],
-  "worldTotal": 4322250,
+  "worldTotal": 4518801,
   "topCountries": [
    {
     "code": "FR",
-    "count": 672590
+    "count": 685666
    },
    {
     "code": "NL",
-    "count": 604169
+    "count": 624514
    },
    {
     "code": "SE",
-    "count": 542453
-   },
-   {
-    "code": "DE",
-    "count": 393046
+    "count": 548446
    },
    {
     "code": "GB",
-    "count": 378967
+    "count": 425135
+   },
+   {
+    "code": "DE",
+    "count": 410390
    },
    {
     "code": "DK",
-    "count": 236814
+    "count": 239956
    },
    {
     "code": "ES",
-    "count": 192586
+    "count": 198889
    },
    {
     "code": "NO",
-    "count": 178007
+    "count": 180892
    },
    {
     "code": "FI",
-    "count": 156842
+    "count": 173405
    },
    {
     "code": "BE",
-    "count": 146834
+    "count": 151891
    },
    {
     "code": "PT",
-    "count": 112032
+    "count": 111364
    },
    {
     "code": "IT",
-    "count": 85803
+    "count": 98477
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

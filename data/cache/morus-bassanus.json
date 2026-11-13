@@ -2,7 +2,7 @@
  "key": "morus-bassanus",
  "name": "Morus bassanus",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:59:48.988Z",
+ "fetchedAt": "2026-11-13T11:06:51.203Z",
  "names": {
   "da": "Sule",
   "en": "Northern Gannet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3802,
-  "observations": 25773
+  "observations": 26157
  },
  "photos": {
   "male": [
@@ -91,72 +91,73 @@
  },
  "gbif": {
   "key": 2480964,
-  "dkTotal": 133997,
+  "dkTotal": 136232,
   "dkMonths": [
-   4947,
-   3136,
-   8722,
-   12920,
-   11850,
-   3574,
-   10330,
-   13775,
-   22554,
-   25979,
-   11380,
-   4802
+   4956,
+   3144,
+   8742,
+   12982,
+   11920,
+   3633,
+   10357,
+   13830,
+   22622,
+   27542,
+   11655,
+   4821
   ],
-  "worldTotal": 2170769,
+  "worldTotal": 2140173,
   "topCountries": [
    {
     "code": "CA",
-    "count": 521895
+    "count": 503510
    },
    {
     "code": "US",
-    "count": 463517
+    "count": 432657
    },
    {
     "code": "GB",
-    "count": 410160
+    "count": 427801
    },
    {
     "code": "DK",
-    "count": 133997
+    "count": 136232
    },
    {
     "code": "FR",
-    "count": 104106
+    "count": 106207
    },
    {
     "code": "NO",
-    "count": 83155
-   },
-   {
-    "code": "PT",
-    "count": 79165
-   },
-   {
-    "code": "ES",
-    "count": 76489
+    "count": 84038
    },
    {
     "code": "SE",
-    "count": 73554
+    "count": 74302
+   },
+   {
+    "code": "PT",
+    "count": 73967
    },
    {
     "code": "IE",
-    "count": 72292
+    "count": 73471
+   },
+   {
+    "code": "ES",
+    "count": 72801
    },
    {
     "code": "NL",
-    "count": 58042
+    "count": 59775
    },
    {
     "code": "BE",
-    "count": 32011
+    "count": 32237
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "anas-acuta",
  "name": "Anas acuta",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:22.811Z",
+ "fetchedAt": "2026-11-13T11:03:58.648Z",
  "names": {
   "da": "Spidsand",
   "en": "Northern Pintail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6933,
-  "observations": 69534
+  "observations": 70768
  },
  "photos": {
   "male": [
@@ -88,6 +88,16 @@
   ],
   "juvenile": [
    {
+    "id": 760807227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760807227/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760807227/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/413379375",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-04"
+   },
+   {
     "id": 590731475,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590731475/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590731475/large.jpg",
@@ -106,16 +116,6 @@
     "source": "https://www.inaturalist.org/observations/30251860",
     "place": "Renchinlkhumbe, Mongolia",
     "date": "2019-07-08"
-   },
-   {
-    "id": 57722903,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57722903/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57722903/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36510405",
-    "place": "Юж. административный округ, Москва, Россия",
-    "date": "2019-12-09"
    }
   ],
   "hero": {
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498112,
-  "dkTotal": 132005,
+  "dkTotal": 133014,
   "dkMonths": [
-   8909,
-   9798,
-   22900,
-   20059,
-   4638,
-   1639,
-   1387,
-   7559,
-   20726,
-   19004,
-   9325,
-   5923
+   8912,
+   9822,
+   22922,
+   20064,
+   4646,
+   1643,
+   1395,
+   7571,
+   20777,
+   19742,
+   9444,
+   5938
   ],
-  "worldTotal": 4216769,
+  "worldTotal": 3913530,
   "topCountries": [
    {
     "code": "US",
-    "count": 2396074
+    "count": 2148075
    },
    {
     "code": "CA",
-    "count": 478566
+    "count": 429286
    },
    {
     "code": "SE",
-    "count": 284732
+    "count": 286056
    },
    {
     "code": "NL",
-    "count": 183980
+    "count": 188477
    },
    {
     "code": "DK",
-    "count": 132005
+    "count": 133014
    },
    {
     "code": "GB",
-    "count": 113504
+    "count": 126880
    },
    {
     "code": "IN",
-    "count": 92931
+    "count": 75150
    },
    {
     "code": "FR",
-    "count": 63409
+    "count": 64661
    },
    {
     "code": "BE",
-    "count": 61281
+    "count": 61965
    },
    {
     "code": "NO",
-    "count": 58667
-   },
-   {
-    "code": "TW",
-    "count": 47693
+    "count": 59206
    },
    {
     "code": "ES",
-    "count": 46973
+    "count": 42915
+   },
+   {
+    "code": "JP",
+    "count": 42484
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

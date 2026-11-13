@@ -2,7 +2,7 @@
  "key": "calypte-anna",
  "name": "Calypte anna",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:41:20.819Z",
+ "fetchedAt": "2026-11-13T11:42:32.733Z",
  "names": {
   "da": "Annas Kolibri",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 6317,
-  "observations": 131603
+  "observations": 132946
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2017-02-18"
    },
    {
-    "id": 470122485,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470122485/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470122485/large.jpg",
-    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261658421",
-    "place": "Ocean Beach Estuary, San Diego, CA, USA",
-    "date": "2025-01-29"
+    "id": 334170560,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334170560/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334170560/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/190601885",
+    "place": "Country Park Rd, Salinas, CA, US",
+    "date": "2023-11-09"
    }
   ],
   "female": [
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 4800309,
+  "worldTotal": 4621789,
   "topCountries": [
    {
     "code": "US",
-    "count": 4315827
+    "count": 4144766
    },
    {
     "code": "CA",
-    "count": 464640
+    "count": 460252
    },
    {
     "code": "MX",
-    "count": 19562
+    "count": 16489
    },
    {
     "code": "ZZ",
@@ -170,5 +170,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

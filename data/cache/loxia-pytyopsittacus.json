@@ -2,7 +2,7 @@
  "key": "loxia-pytyopsittacus",
  "name": "Loxia pytyopsittacus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:42.568Z",
+ "fetchedAt": "2026-11-13T11:27:45.778Z",
  "names": {
   "da": "Stor korsnæb",
   "en": "Parrot Crossbill",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10420,
-  "observations": 621
+  "observations": 628
  },
  "photos": {
   "male": [
@@ -101,38 +101,38 @@
  },
  "gbif": {
   "key": 2494154,
-  "dkTotal": 9560,
+  "dkTotal": 9588,
   "dkMonths": [
-   886,
-   835,
-   700,
-   435,
+   888,
+   836,
+   703,
+   433,
    96,
    11,
    13,
    23,
-   203,
-   3612,
-   2076,
-   662
+   199,
+   3628,
+   2089,
+   661
   ],
-  "worldTotal": 140485,
+  "worldTotal": 144165,
   "topCountries": [
    {
     "code": "SE",
-    "count": 85291
+    "count": 85940
    },
    {
     "code": "NO",
-    "count": 22014
+    "count": 22279
    },
    {
     "code": "FI",
-    "count": 11545
+    "count": 14159
    },
    {
     "code": "DK",
-    "count": 9560
+    "count": 9588
    },
    {
     "code": "NL",
@@ -140,33 +140,34 @@
    },
    {
     "code": "EE",
-    "count": 1050
+    "count": 1072
    },
    {
     "code": "BE",
-    "count": 969
+    "count": 983
    },
    {
     "code": "GB",
-    "count": 904
+    "count": 908
    },
    {
     "code": "AX",
-    "count": 420
+    "count": 452
    },
    {
     "code": "RU",
-    "count": 397
+    "count": 407
    },
    {
     "code": "DE",
-    "count": 328
+    "count": 340
    },
    {
     "code": "PL",
-    "count": 114
+    "count": 113
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

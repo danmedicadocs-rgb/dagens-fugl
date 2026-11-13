@@ -2,7 +2,7 @@
  "key": "aegypius-monachus",
  "name": "Aegypius monachus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:26:07.678Z",
+ "fetchedAt": "2026-11-13T11:29:02.343Z",
  "names": {
   "da": "Munkegrib",
   "en": "Cinereous Vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5382,
-  "observations": 11870
+  "observations": 12055
  },
  "photos": {
   "male": [],
@@ -46,14 +46,14 @@
     "date": "2025-11-20"
    },
    {
-    "id": 589205973,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589205973/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589205973/large.jpg",
-    "attribution": "(c) Антон Лабачоў, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/325432311",
-    "place": "Dagestan, RU",
-    "date": "2025-09-09"
+    "id": 252919275,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919275/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919275/large.jpg",
+    "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/147028161",
+    "place": "South Kazakhstan, KZ",
+    "date": "2023-01-21"
    }
   ],
   "adult": [
@@ -68,14 +68,14 @@
     "date": "2026-09-05"
    },
    {
-    "id": 605698033,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605698033/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605698033/large.jpg",
-    "attribution": "(c) Cristina Villaverde, some rights reserved (CC BY)",
+    "id": 601491258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601491258/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601491258/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/333633262",
-    "place": "Comunidad de Madrid, ES-MD-MD, ES",
-    "date": "2026-01-01"
+    "source": "https://www.inaturalist.org/observations/331551167",
+    "place": "Jaisalmer, IN-RJ, IN",
+    "date": "2025-12-20"
    },
    {
     "id": 480387698,
@@ -101,7 +101,7 @@
  },
  "gbif": {
   "key": 5229165,
-  "dkTotal": 671,
+  "dkTotal": 673,
   "dkMonths": [
    0,
    1,
@@ -109,64 +109,65 @@
    27,
    3,
    53,
-   577,
+   579,
    1,
    2,
    4,
    0,
    0
   ],
-  "worldTotal": 371546,
+  "worldTotal": 365630,
   "topCountries": [
    {
     "code": "MN",
-    "count": 146722
+    "count": 145875
    },
    {
     "code": "ES",
-    "count": 104262
+    "count": 100367
    },
    {
     "code": "KR",
-    "count": 48135
+    "count": 48578
    },
    {
     "code": "CN",
-    "count": 21952
+    "count": 21976
    },
    {
     "code": "FR",
-    "count": 10560
+    "count": 10735
    },
    {
     "code": "PT",
-    "count": 9912
+    "count": 9019
    },
    {
     "code": "IN",
-    "count": 6213
+    "count": 5214
    },
    {
     "code": "KP",
-    "count": 3236
+    "count": 3239
    },
    {
     "code": "RU",
-    "count": 3003
+    "count": 3007
    },
    {
     "code": "TR",
-    "count": 2733
+    "count": 2565
    },
    {
     "code": "IR",
-    "count": 2078
+    "count": 1978
    },
    {
     "code": "GE",
-    "count": 1755
+    "count": 1667
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

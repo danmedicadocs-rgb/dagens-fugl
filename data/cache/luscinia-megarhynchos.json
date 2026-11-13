@@ -2,7 +2,7 @@
  "key": "luscinia-megarhynchos",
  "name": "Luscinia megarhynchos",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:14.328Z",
+ "fetchedAt": "2026-11-13T11:24:46.283Z",
  "names": {
   "da": "Sydlig nattergal",
   "en": "Common Nightingale",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13079,
-  "observations": 18075
+  "observations": 18105
  },
  "photos": {
   "male": [
@@ -115,57 +115,58 @@
    1,
    0
   ],
-  "worldTotal": 1211377,
+  "worldTotal": 1239386,
   "topCountries": [
    {
     "code": "FR",
-    "count": 418324
+    "count": 423223
    },
    {
     "code": "ES",
-    "count": 326899
+    "count": 333094
    },
    {
     "code": "NL",
-    "count": 118142
+    "count": 119087
    },
    {
     "code": "DE",
-    "count": 74738
+    "count": 78966
    },
    {
     "code": "PT",
-    "count": 62033
+    "count": 59498
    },
    {
     "code": "BE",
-    "count": 25878
-   },
-   {
-    "code": "BG",
-    "count": 23494
+    "count": 27318
    },
    {
     "code": "GB",
-    "count": 22414
+    "count": 24523
    },
    {
-    "code": "TR",
-    "count": 14413
-   },
-   {
-    "code": "GR",
-    "count": 13465
+    "code": "BG",
+    "count": 23677
    },
    {
     "code": "IT",
-    "count": 12907
+    "count": 17727
+   },
+   {
+    "code": "GR",
+    "count": 13765
+   },
+   {
+    "code": "TR",
+    "count": 13237
    },
    {
     "code": "CZ",
-    "count": 12153
+    "count": 13085
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

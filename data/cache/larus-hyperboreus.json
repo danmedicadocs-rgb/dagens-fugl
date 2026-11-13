@@ -2,7 +2,7 @@
  "key": "larus-hyperboreus",
  "name": "Larus hyperboreus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:09:59.082Z",
+ "fetchedAt": "2026-11-13T11:15:19.339Z",
  "names": {
   "da": "Gråmåge",
   "en": "Glaucous Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4349,
-  "observations": 8986
+  "observations": 9078
  },
  "photos": {
   "male": [],
@@ -68,16 +68,6 @@
     "date": "2022-02-23"
    },
    {
-    "id": 531932786,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/large.jpg",
-    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/295477822",
-    "place": "Amutsivimmut Aqqut, Avannaata, GL",
-    "date": "2025-07-05"
-   },
-   {
     "id": 597770414,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597770414/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597770414/large.jpg",
@@ -86,87 +76,98 @@
     "source": "https://www.inaturalist.org/observations/329738719",
     "place": "Barents Sea",
     "date": "2025-11-24"
+   },
+   {
+    "id": 531932786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/large.jpg",
+    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/295477822",
+    "place": "Amutsivimmut Aqqut, Avannaata, GL",
+    "date": "2025-07-05"
    }
   ],
   "hero": {
-   "id": 180757863,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/large.jpg",
-   "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+   "id": 168808686,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168808686/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168808686/large.jpg",
+   "attribution": "(c) Alastair Rae, some rights reserved (CC BY-SA)",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/107469094",
-   "place": "Lorain, OH, USA",
-   "date": "2022-02-23"
+   "source": "https://www.inaturalist.org/photos/168808686",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481127,
-  "dkTotal": 5281,
+  "dkTotal": 5259,
   "dkMonths": [
-   1318,
-   905,
-   738,
-   831,
+   1311,
+   901,
+   733,
+   825,
    494,
-   51,
+   52,
    78,
    43,
    97,
    145,
    159,
-   417
+   416
   ],
-  "worldTotal": 430291,
+  "worldTotal": 385956,
   "topCountries": [
    {
     "code": "US",
-    "count": 174005
+    "count": 142897
    },
    {
     "code": "CA",
-    "count": 118931
+    "count": 105629
    },
    {
     "code": "IS",
-    "count": 28353
+    "count": 27882
    },
    {
     "code": "SJ",
-    "count": 22094
+    "count": 22295
    },
    {
     "code": "NO",
-    "count": 17903
-   },
-   {
-    "code": "SE",
-    "count": 15603
+    "count": 17871
    },
    {
     "code": "NL",
-    "count": 15318
+    "count": 15398
+   },
+   {
+    "code": "SE",
+    "count": 15398
    },
    {
     "code": "GB",
-    "count": 10642
+    "count": 11569
    },
    {
     "code": "GL",
-    "count": 5707
+    "count": 6105
    },
    {
     "code": "DK",
-    "count": 5281
+    "count": 5259
    },
    {
     "code": "JP",
-    "count": 3428
+    "count": 3100
    },
    {
     "code": "RU",
-    "count": 3134
+    "count": 2672
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

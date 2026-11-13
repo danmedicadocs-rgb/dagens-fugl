@@ -2,7 +2,7 @@
  "key": "luscinia-svecica",
  "name": "Luscinia svecica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:21:19.566Z",
+ "fetchedAt": "2026-11-13T11:24:50.664Z",
  "names": {
   "da": "Blåhals",
   "en": "Bluethroat",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13071,
-  "observations": 33074
+  "observations": 33264
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 4408732,
-  "dkTotal": 38160,
+  "dkTotal": 38264,
   "dkMonths": [
    1,
    0,
-   1441,
-   18422,
-   10950,
-   4678,
-   1500,
-   878,
-   228,
+   1448,
+   18497,
+   10944,
+   4698,
+   1507,
+   881,
+   226,
    39,
    2,
    6
   ],
-  "worldTotal": 1092884,
+  "worldTotal": 1086331,
   "topCountries": [
    {
     "code": "NL",
-    "count": 304511
+    "count": 306641
    },
    {
     "code": "SE",
-    "count": 162453
+    "count": 162642
    },
    {
     "code": "FR",
-    "count": 84476
+    "count": 85438
    },
    {
     "code": "ES",
-    "count": 84197
-   },
-   {
-    "code": "NO",
-    "count": 63532
+    "count": 82158
    },
    {
     "code": "BE",
-    "count": 63324
+    "count": 64878
+   },
+   {
+    "code": "NO",
+    "count": 63808
    },
    {
     "code": "FI",
-    "count": 60725
+    "count": 62532
    },
    {
     "code": "IN",
-    "count": 46678
+    "count": 39236
    },
    {
     "code": "DK",
-    "count": 38160
+    "count": 38264
    },
    {
     "code": "RU",
-    "count": 35963
+    "count": 35873
    },
    {
     "code": "IL",
-    "count": 35390
+    "count": 33278
    },
    {
     "code": "DE",
-    "count": 20736
+    "count": 21903
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

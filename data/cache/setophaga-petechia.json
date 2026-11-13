@@ -2,7 +2,7 @@
  "key": "setophaga-petechia",
  "name": "Setophaga petechia",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:42:34.622Z",
+ "fetchedAt": "2026-11-13T11:43:31.431Z",
  "names": {
   "da": "Gylden Sanger",
   "en": "Mangrove Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 145238,
-  "observations": 7849
+  "observations": 7968
  },
  "photos": {
   "male": [
@@ -109,19 +109,19 @@
    }
   ],
   "hero": {
-   "id": 531404410,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531404410/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531404410/large.jpg",
-   "attribution": "(c) Dan Schofield, some rights reserved (CC BY)",
+   "id": 241265435,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241265435/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241265435/large.jpg",
+   "attribution": "(c) Aitor, some rights reserved (CC BY), uploaded by Aitor",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/295199402",
-   "place": "George Town, Cayman Islands",
-   "date": "2025-06-20"
+   "source": "https://www.inaturalist.org/photos/241265435",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 7341834,
-  "dkTotal": 17,
+  "dkTotal": 0,
   "dkMonths": [
    0,
    0,
@@ -132,61 +132,62 @@
    0,
    0,
    0,
-   17,
+   0,
    0,
    0
   ],
-  "worldTotal": 7065877,
+  "worldTotal": 196380,
   "topCountries": [
    {
     "code": "US",
-    "count": 4936494
-   },
-   {
-    "code": "CA",
-    "count": 1362913
-   },
-   {
-    "code": "CR",
-    "count": 165683
-   },
-   {
-    "code": "MX",
-    "count": 153886
-   },
-   {
-    "code": "CO",
-    "count": 61330
-   },
-   {
-    "code": "BZ",
-    "count": 56967
-   },
-   {
-    "code": "PA",
-    "count": 51117
+    "count": 49576
    },
    {
     "code": "EC",
-    "count": 38140
-   },
-   {
-    "code": "HN",
-    "count": 36670
-   },
-   {
-    "code": "GT",
-    "count": 32576
-   },
-   {
-    "code": "NI",
-    "count": 27674
+    "count": 29919
    },
    {
     "code": "GP",
-    "count": 21248
+    "count": 21108
+   },
+   {
+    "code": "MX",
+    "count": 19522
+   },
+   {
+    "code": "CO",
+    "count": 8384
+   },
+   {
+    "code": "KY",
+    "count": 7365
+   },
+   {
+    "code": "CA",
+    "count": 7322
+   },
+   {
+    "code": "CR",
+    "count": 6618
+   },
+   {
+    "code": "BZ",
+    "count": 5434
+   },
+   {
+    "code": "BQ",
+    "count": 4069
+   },
+   {
+    "code": "VI",
+    "count": 4035
+   },
+   {
+    "code": "PA",
+    "count": 3960
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

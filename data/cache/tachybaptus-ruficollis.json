@@ -2,7 +2,7 @@
  "key": "tachybaptus-ruficollis",
  "name": "Tachybaptus ruficollis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:42.395Z",
+ "fetchedAt": "2026-11-13T11:05:57.338Z",
  "names": {
   "da": "Lille lappedykker",
   "en": "Little Grebe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4237,
-  "observations": 65749
+  "observations": 66944
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2021-05-02"
    },
    {
+    "id": 453280197,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453280197/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453280197/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253177898",
+    "place": "823G+J33, Lawaran, Jodhpur, Rajasthan 342001, India",
+    "date": "2024-11-25"
+   },
+   {
     "id": 637628245,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637628245/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637628245/large.jpg",
@@ -42,19 +52,19 @@
     "source": "https://www.inaturalist.org/observations/349530837",
     "place": "Králova Lhota, Česko",
     "date": "2026-03-18"
-   },
-   {
-    "id": 117392940,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117392940/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117392940/large.jpeg",
-    "attribution": "(c) Mohammad Amin Ghaffari, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72043305",
-    "place": "استان کردستان، ایران",
-    "date": "2018-03-27"
    }
   ],
   "female": [
+   {
+    "id": 453280092,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453280092/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453280092/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/253177872",
+    "place": "823G+P3W, Lawaran, Jodhpur, Rajasthan 342001, India",
+    "date": "2024-11-25"
+   },
    {
     "id": 86860421,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86860421/medium.jpeg",
@@ -67,6 +77,16 @@
    }
   ],
   "juvenile": [
+   {
+    "id": 90486173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90486173/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90486173/large.jpg",
+    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/56767250",
+    "place": "Seedorf, Svájc",
+    "date": "2020-08-13"
+   },
    {
     "id": 302673298,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/302673298/medium.jpeg",
@@ -86,97 +106,88 @@
     "source": "https://www.inaturalist.org/observations/91372275",
     "place": "中国河南省郑州市中牟县",
     "date": "2021-08-15"
-   },
-   {
-    "id": 90486173,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90486173/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90486173/large.jpg",
-    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/56767250",
-    "place": "Seedorf, Svájc",
-    "date": "2020-08-13"
    }
   ],
   "hero": {
-   "id": 128081942,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081942/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081942/large.jpeg",
-   "attribution": "(c) rober025, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/78276262",
-   "place": "Remerschen",
-   "date": "2021-05-02"
+   "id": 189572311,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189572311/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189572311/large.jpg",
+   "attribution": "(c) Zinogre, some rights reserved (CC BY-SA), uploaded by Zinogre",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/189572311",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2482048,
-  "dkTotal": 200960,
+  "dkTotal": 202590,
   "dkMonths": [
-   24762,
-   17240,
-   18086,
-   17527,
-   12621,
-   9304,
-   13190,
-   20630,
-   20068,
-   18715,
-   14266,
-   14498
+   24834,
+   17311,
+   18170,
+   17584,
+   12692,
+   9360,
+   13246,
+   20731,
+   20143,
+   19479,
+   14436,
+   14550
   ],
-  "worldTotal": 3102725,
+  "worldTotal": 3143960,
   "topCountries": [
    {
-    "code": "NL",
-    "count": 357834
+    "code": "GB",
+    "count": 396529
    },
    {
-    "code": "GB",
-    "count": 347204
+    "code": "NL",
+    "count": 365355
    },
    {
     "code": "ES",
-    "count": 269068
+    "count": 266381
    },
    {
     "code": "SE",
-    "count": 247295
-   },
-   {
-    "code": "IN",
-    "count": 237221
+    "count": 248514
    },
    {
     "code": "FR",
-    "count": 218212
+    "count": 223909
    },
    {
     "code": "DK",
-    "count": 200960
+    "count": 202590
+   },
+   {
+    "code": "IN",
+    "count": 197493
    },
    {
     "code": "ZA",
-    "count": 186179
-   },
-   {
-    "code": "TW",
-    "count": 151990
+    "count": 185907
    },
    {
     "code": "BE",
-    "count": 143980
+    "count": 146383
+   },
+   {
+    "code": "TW",
+    "count": 123552
    },
    {
     "code": "DE",
-    "count": 110503
+    "count": 116294
    },
    {
-    "code": "PT",
-    "count": 62717
+    "code": "CN",
+    "count": 79235
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

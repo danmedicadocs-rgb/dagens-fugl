@@ -2,7 +2,7 @@
  "key": "surnia-ulula",
  "name": "Surnia ulula",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:36.394Z",
+ "fetchedAt": "2026-11-13T11:17:33.264Z",
  "names": {
   "da": "Høgeugle",
   "en": "Hawk Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20372,
-  "observations": 4558
+  "observations": 4615
  },
  "photos": {
   "male": [
@@ -68,14 +68,14 @@
    }
   ],
   "hero": {
-   "id": 110643712,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110643712/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110643712/large.jpeg",
-   "attribution": "(c) Ali Campbell, some rights reserved (CC BY)",
+   "id": 112012199,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112012199/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112012199/large.jpeg",
+   "attribution": "(c) Syd Cannings, some rights reserved (CC BY), uploaded by Syd Cannings",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/68346338",
-   "place": "Pennsylvania, US",
-   "date": "1991-02-26"
+   "source": "https://www.inaturalist.org/photos/112012199",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -83,7 +83,7 @@
   "dkTotal": 4132,
   "dkMonths": [
    1008,
-   718,
+   717,
    331,
    272,
    32,
@@ -93,21 +93,21 @@
    24,
    217,
    736,
-   770
+   771
   ],
-  "worldTotal": 96793,
+  "worldTotal": 98137,
   "topCountries": [
    {
     "code": "SE",
-    "count": 48474
+    "count": 48540
    },
    {
     "code": "NO",
-    "count": 24810
+    "count": 24888
    },
    {
     "code": "FI",
-    "count": 8652
+    "count": 9771
    },
    {
     "code": "DK",
@@ -115,23 +115,23 @@
    },
    {
     "code": "NL",
-    "count": 3631
+    "count": 3639
    },
    {
     "code": "CA",
-    "count": 2046
+    "count": 2068
    },
    {
     "code": "RU",
-    "count": 1811
+    "count": 1826
    },
    {
     "code": "US",
-    "count": 1628
+    "count": 1633
    },
    {
     "code": "EE",
-    "count": 841
+    "count": 871
    },
    {
     "code": "DE",
@@ -139,13 +139,14 @@
    },
    {
     "code": "AX",
-    "count": 71
+    "count": 73
    },
    {
     "code": "CN",
-    "count": 30
+    "count": 31
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

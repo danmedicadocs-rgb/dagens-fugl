@@ -2,7 +2,7 @@
  "key": "melanitta-nigra",
  "name": "Melanitta nigra",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:24.259Z",
+ "fetchedAt": "2026-11-13T11:04:49.097Z",
  "names": {
   "da": "Sortand",
   "en": "Common Scoter",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144221,
-  "observations": 3773
+  "observations": 3965
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2016-11-13"
    },
    {
-    "id": 630525242,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630525242/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630525242/large.jpg",
-    "attribution": "(c) Sheelagh Halsey, some rights reserved (CC BY)",
+    "id": 28682073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28682073/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28682073/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/345942145",
-    "place": "Cheshire West and Chester, UK",
-    "date": "2026-03-29"
+    "source": "https://www.inaturalist.org/observations/18731797",
+    "place": "Donaustadt, 1220 Wien, Österreich",
+    "date": "2016-12-10"
    }
   ],
   "juvenile": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 264301774,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264301774/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264301774/large.jpg",
-   "attribution": "(c) Paolo Zucca, some rights reserved (CC BY)",
+   "id": 208675342,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208675342/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208675342/large.jpg",
+   "attribution": "(c) Griha Hasanov, some rights reserved (CC BY), uploaded by Griha Hasanov",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/153056214",
-   "place": "Provincia autonoma di Trento, Italia",
-   "date": "2023-04-01"
+   "source": "https://www.inaturalist.org/photos/208675342",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498247,
-  "dkTotal": 196406,
+  "dkTotal": 198067,
   "dkMonths": [
-   18646,
-   18230,
-   20729,
-   21075,
-   13493,
-   5394,
-   13747,
-   17133,
-   21145,
-   21853,
-   15373,
-   9566
+   18685,
+   18281,
+   20742,
+   21103,
+   13544,
+   5425,
+   13748,
+   17161,
+   21195,
+   22951,
+   15627,
+   9585
   ],
-  "worldTotal": 957303,
+  "worldTotal": 988460,
   "topCountries": [
    {
     "code": "SE",
-    "count": 306635
+    "count": 308780
    },
    {
     "code": "DK",
-    "count": 196406
+    "count": 198067
    },
    {
     "code": "NO",
-    "count": 162142
+    "count": 164183
    },
    {
     "code": "GB",
-    "count": 74139
+    "count": 80885
    },
    {
     "code": "NL",
-    "count": 61159
-   },
-   {
-    "code": "DE",
-    "count": 33659
+    "count": 63014
    },
    {
     "code": "US",
-    "count": 22038
+    "count": 37331
+   },
+   {
+    "code": "DE",
+    "count": 34294
    },
    {
     "code": "EE",
-    "count": 18973
-   },
-   {
-    "code": "ES",
-    "count": 15142
+    "count": 19572
    },
    {
     "code": "FR",
-    "count": 14131
+    "count": 14902
+   },
+   {
+    "code": "ES",
+    "count": 13081
    },
    {
     "code": "FI",
-    "count": 10317
+    "count": 12318
    },
    {
     "code": "BE",
-    "count": 9750
+    "count": 9895
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

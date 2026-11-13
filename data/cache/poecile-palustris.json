@@ -2,7 +2,7 @@
  "key": "poecile-palustris",
  "name": "Poecile palustris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:16:28.644Z",
+ "fetchedAt": "2026-11-13T11:20:35.664Z",
  "names": {
   "da": "Sumpmejse",
   "en": "Marsh Tit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144809,
-  "observations": 27990
+  "observations": 28435
  },
  "photos": {
   "male": [
@@ -90,72 +90,73 @@
  },
  "gbif": {
   "key": 2487843,
-  "dkTotal": 162585,
+  "dkTotal": 164372,
   "dkMonths": [
-   23241,
-   19675,
-   24330,
-   19217,
-   9338,
-   5630,
-   5747,
-   8382,
-   9449,
-   10907,
-   12340,
-   14282
+   23307,
+   19757,
+   24420,
+   19272,
+   9381,
+   5681,
+   5772,
+   8442,
+   9535,
+   11819,
+   12583,
+   14356
   ],
-  "worldTotal": 1531292,
+  "worldTotal": 1592572,
   "topCountries": [
    {
     "code": "SE",
-    "count": 451720
+    "count": 455221
    },
    {
     "code": "FR",
-    "count": 290922
+    "count": 295687
    },
    {
     "code": "DE",
-    "count": 165645
+    "count": 175318
    },
    {
     "code": "DK",
-    "count": 162585
+    "count": 164372
    },
    {
     "code": "NO",
-    "count": 94921
+    "count": 96056
    },
    {
     "code": "GB",
-    "count": 77345
+    "count": 83874
    },
    {
     "code": "KR",
-    "count": 34665
+    "count": 39206
    },
    {
     "code": "NL",
-    "count": 24708
+    "count": 26402
    },
    {
     "code": "IT",
-    "count": 23376
+    "count": 26278
    },
    {
     "code": "PL",
-    "count": 19735
+    "count": 24819
    },
    {
-    "code": "EE",
-    "count": 18773
+    "code": "CN",
+    "count": 21081
    },
    {
     "code": "BE",
-    "count": 18265
+    "count": 19356
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "aythya-nyroca",
  "name": "Aythya nyroca",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:56:57.773Z",
+ "fetchedAt": "2026-11-13T11:04:30.768Z",
  "names": {
   "da": "Hvidøjet And",
   "en": "Ferruginous Duck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7055,
-  "observations": 6828
+  "observations": 6937
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2018-04-18"
    },
    {
-    "id": 249766287,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249766287/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249766287/large.jpeg",
-    "attribution": "(c) Michael Bakker Paiva, some rights reserved (CC BY)",
+    "id": 654632862,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654632862/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654632862/large.jpg",
+    "attribution": "(c) Anne Heckmann, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145414254",
-    "place": "Portugal",
-    "date": "2022-12-18"
+    "source": "https://www.inaturalist.org/observations/358826456",
+    "place": "Romania",
+    "date": "2026-05-05"
    }
   ],
   "female": [
@@ -59,7 +59,7 @@
     "id": 688003899,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/688003899/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/688003899/large.jpg",
-    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "attribution": "(c) liam0066, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/376314643",
     "place": "Oxfordshire, England, GB",
@@ -100,14 +100,14 @@
  },
  "gbif": {
   "key": 2498259,
-  "dkTotal": 2489,
+  "dkTotal": 2487,
   "dkMonths": [
-   203,
+   202,
    133,
-   103,
+   102,
    58,
-   222,
-   336,
+   221,
+   337,
    568,
    215,
    100,
@@ -115,57 +115,58 @@
    262,
    31
   ],
-  "worldTotal": 164393,
+  "worldTotal": 163455,
   "topCountries": [
    {
-    "code": "IN",
-    "count": 20299
+    "code": "NL",
+    "count": 18861
    },
    {
-    "code": "NL",
-    "count": 18465
+    "code": "IN",
+    "count": 15983
    },
    {
     "code": "ES",
-    "count": 16102
+    "count": 15925
    },
    {
     "code": "IL",
-    "count": 11394
-   },
-   {
-    "code": "FR",
-    "count": 6813
+    "count": 11128
    },
    {
     "code": "CN",
-    "count": 6021
+    "count": 7482
    },
    {
-    "code": "BE",
-    "count": 5505
+    "code": "FR",
+    "count": 7102
    },
    {
     "code": "IT",
-    "count": 5282
+    "count": 6279
+   },
+   {
+    "code": "BE",
+    "count": 5539
    },
    {
     "code": "HU",
-    "count": 4499
-   },
-   {
-    "code": "TR",
-    "count": 4388
-   },
-   {
-    "code": "GR",
-    "count": 4285
+    "count": 4103
    },
    {
     "code": "SE",
-    "count": 4054
+    "count": 4087
+   },
+   {
+    "code": "GR",
+    "count": 4010
+   },
+   {
+    "code": "TR",
+    "count": 3840
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

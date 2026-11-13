@@ -2,7 +2,7 @@
  "key": "sitta-carolinensis",
  "name": "Sitta carolinensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:42:22.411Z",
+ "fetchedAt": "2026-11-13T11:43:21.893Z",
  "names": {
   "da": "Hvidbrystet Spætmejse",
   "en": "White-breasted Nuthatch",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14801,
-  "observations": 119050
+  "observations": 120541
  },
  "photos": {
   "male": [
@@ -56,16 +56,6 @@
   ],
   "female": [
    {
-    "id": 344487968,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344487968/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344487968/large.jpeg",
-    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195765844",
-    "place": "Severn, MD, USA",
-    "date": "2024-01-04"
-   },
-   {
     "id": 601079664,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601079664/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601079664/large.jpg",
@@ -76,14 +66,24 @@
     "date": "2025-12-15"
    },
    {
-    "id": 249593145,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249593145/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249593145/large.jpg",
-    "attribution": "(c) Tovin, some rights reserved (CC BY)",
+    "id": 344487968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344487968/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344487968/large.jpeg",
+    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145311610",
-    "place": "Becker County, MN, USA",
-    "date": "2022-12-28"
+    "source": "https://www.inaturalist.org/observations/195765844",
+    "place": "Severn, MD, USA",
+    "date": "2024-01-04"
+   },
+   {
+    "id": 170140025,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170140025/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170140025/large.jpeg",
+    "attribution": "(c) Mila C., some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/101848570",
+    "place": "Indiana, US",
+    "date": "2021-11-24"
    }
   ],
   "juvenile": [
@@ -108,25 +108,25 @@
     "date": "2022-07-14"
    },
    {
-    "id": 215866946,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215866946/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215866946/large.jpg",
-    "attribution": "(c) Renee MacQuarrie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/127168025",
-    "place": "Acadia Divinity College, Wolfville, NS, CA",
-    "date": "2022-07-20"
+    "id": 665465594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665465594/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665465594/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/364529655",
+    "place": "Brea, CA, USA",
+    "date": "2026-05-23"
    }
   ],
   "hero": {
-   "id": 680074615,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680074615/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680074615/large.jpg",
-   "attribution": "(c) froggymum, some rights reserved (CC BY)",
+   "id": 169033925,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169033925/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169033925/large.jpg",
+   "attribution": "(c) Judy Gallagher, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/372179746",
-   "place": "Clarksville",
-   "date": "2026-06-15"
+   "source": "https://www.inaturalist.org/photos/169033925",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 14339064,
+  "worldTotal": 14204763,
   "topCountries": [
    {
     "code": "US",
-    "count": 12486804
+    "count": 12422343
    },
    {
     "code": "CA",
-    "count": 1832203
+    "count": 1767092
    },
    {
     "code": "MX",
-    "count": 19510
+    "count": 14779
    },
    {
     "code": "ZZ",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

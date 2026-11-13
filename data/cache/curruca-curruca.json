@@ -2,7 +2,7 @@
  "key": "curruca-curruca",
  "name": "Curruca curruca",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:18:37.740Z",
+ "fetchedAt": "2026-11-13T11:22:25.018Z",
  "names": {
   "da": "Gærdesanger",
   "en": null,
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 1289484,
-  "observations": 18599
+  "observations": 18720
  },
  "photos": {
   "male": [
-   {
-    "id": 676651777,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/large.jpg",
-    "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/370398354",
-    "place": "Петрозаводск, Респ. Карелия, Россия",
-    "date": "2026-05-23"
-   },
    {
     "id": 515542685,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515542685/medium.jpg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/286751069",
     "place": "Provincia di Biella, Italia",
     "date": "2025-06-03"
+   },
+   {
+    "id": 676651777,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/large.jpg",
+    "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/370398354",
+    "place": "Петрозаводск, Респ. Карелия, Россия",
+    "date": "2026-05-23"
    },
    {
     "id": 266054974,
@@ -88,84 +88,85 @@
    }
   ],
   "hero": {
-   "id": 676651777,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676651777/large.jpg",
-   "attribution": "(c) avsdov, some rights reserved (CC BY-SA)",
+   "id": 165317380,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165317380/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165317380/large.jpg",
+   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/370398354",
-   "place": "Петрозаводск, Респ. Карелия, Россия",
-   "date": "2026-05-23"
+   "source": "https://www.inaturalist.org/photos/165317380",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2492960,
-  "dkTotal": 164126,
+  "dkTotal": 164295,
   "dkMonths": [
    4,
    1,
    0,
-   28852,
-   70659,
-   30701,
+   28959,
+   70748,
+   30767,
    11492,
-   14516,
-   7161,
-   515,
-   92,
+   14407,
+   7152,
+   541,
+   91,
    28
   ],
-  "worldTotal": 1392732,
+  "worldTotal": 1407574,
   "topCountries": [
    {
     "code": "SE",
-    "count": 444348
+    "count": 445906
    },
    {
     "code": "DK",
-    "count": 164126
+    "count": 164295
    },
    {
     "code": "FI",
-    "count": 119431
-   },
-   {
-    "code": "IN",
-    "count": 92948
+    "count": 129631
    },
    {
     "code": "GB",
-    "count": 82617
+    "count": 91413
    },
    {
     "code": "NO",
-    "count": 76834
+    "count": 77470
+   },
+   {
+    "code": "IN",
+    "count": 76263
    },
    {
     "code": "IL",
-    "count": 58251
+    "count": 54993
    },
    {
     "code": "DE",
-    "count": 49867
+    "count": 52644
    },
    {
     "code": "NL",
-    "count": 48189
+    "count": 49269
    },
    {
     "code": "FR",
-    "count": 45227
+    "count": 45595
    },
    {
     "code": "PL",
-    "count": 27448
+    "count": 32059
    },
    {
     "code": "BE",
-    "count": 16994
+    "count": 18169
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

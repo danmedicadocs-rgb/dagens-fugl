@@ -2,7 +2,7 @@
  "key": "lanius-collurio",
  "name": "Lanius collurio",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:14:32.621Z",
+ "fetchedAt": "2026-11-13T11:19:01.793Z",
  "names": {
   "da": "Rødrygget tornskade",
   "en": "Red-backed Shrike",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12038,
-  "observations": 55229
+  "observations": 55480
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 7745240,
-  "dkTotal": 100699,
+  "dkTotal": 100788,
   "dkMonths": [
-   9,
+   8,
    4,
    3,
    57,
-   28767,
-   24267,
-   23199,
-   19312,
-   4270,
-   181,
+   28764,
+   24317,
+   23288,
+   19262,
+   4276,
+   182,
    13,
    35
   ],
-  "worldTotal": 1297617,
+  "worldTotal": 1329522,
   "topCountries": [
    {
     "code": "SE",
-    "count": 294865
+    "count": 295552
    },
    {
     "code": "FR",
-    "count": 197705
+    "count": 199468
    },
    {
     "code": "DK",
-    "count": 100699
+    "count": 100788
    },
    {
     "code": "NL",
-    "count": 81704
+    "count": 87147
    },
    {
     "code": "DE",
-    "count": 73981
+    "count": 78016
    },
    {
     "code": "ZA",
-    "count": 67006
+    "count": 66778
    },
    {
     "code": "FI",
-    "count": 53013
+    "count": 58802
    },
    {
     "code": "NO",
-    "count": 40301
-   },
-   {
-    "code": "ES",
-    "count": 36115
+    "count": 40573
    },
    {
     "code": "PL",
-    "count": 30537
+    "count": 35992
+   },
+   {
+    "code": "ES",
+    "count": 35934
    },
    {
     "code": "TR",
-    "count": 28700
+    "count": 26792
    },
    {
     "code": "RU",
-    "count": 25435
+    "count": 25511
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

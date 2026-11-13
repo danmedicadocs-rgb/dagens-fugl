@@ -2,7 +2,7 @@
  "key": "vanellus-chilensis",
  "name": "Vanellus chilensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:52:27.354Z",
+ "fetchedAt": "2026-11-13T11:51:12.901Z",
  "names": {
   "da": "Sydvibe",
   "en": "Southern Lapwing",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4867,
-  "observations": 41153
+  "observations": 41793
  },
  "photos": {
   "male": [
@@ -109,14 +109,14 @@
    }
   ],
   "hero": {
-   "id": 278828289,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278828289/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278828289/large.jpeg",
-   "attribution": "no rights reserved",
+   "id": 247882653,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247882653/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247882653/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Sebastián Gómez Barboza Silveira",
    "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/161319165",
-   "place": "La Tebaida-Armenia, Armenia, Quindío, Colombia",
-   "date": "2023-02-27"
+   "source": "https://www.inaturalist.org/photos/247882653",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,57 +136,58 @@
    0,
    0
   ],
-  "worldTotal": 1242472,
+  "worldTotal": 1088068,
   "topCountries": [
    {
-    "code": "AR",
-    "count": 288222
+    "code": "BR",
+    "count": 270138
    },
    {
-    "code": "BR",
-    "count": 273725
+    "code": "AR",
+    "count": 249446
    },
    {
     "code": "CL",
-    "count": 220630
+    "count": 192413
    },
    {
     "code": "CO",
-    "count": 219162
+    "count": 177701
    },
    {
     "code": "CR",
-    "count": 48577
-   },
-   {
-    "code": "PA",
-    "count": 45953
+    "count": 39472
    },
    {
     "code": "UY",
-    "count": 44636
+    "count": 38148
+   },
+   {
+    "code": "PA",
+    "count": 36659
    },
    {
     "code": "VE",
-    "count": 26589
+    "count": 22732
    },
    {
     "code": "PY",
-    "count": 18147
+    "count": 14503
    },
    {
     "code": "EC",
-    "count": 16281
+    "count": 13329
    },
    {
     "code": "BO",
-    "count": 11551
+    "count": 10175
    },
    {
     "code": "TT",
-    "count": 9796
+    "count": 8010
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

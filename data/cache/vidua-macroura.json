@@ -2,7 +2,7 @@
  "key": "vidua-macroura",
  "name": "Vidua macroura",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:33:17.181Z",
+ "fetchedAt": "2026-11-13T11:35:23.193Z",
  "names": {
   "da": "Dominikanerenke",
   "en": "Pin-tailed Whydah",
@@ -19,20 +19,10 @@
  },
  "inat": {
   "id": 14011,
-  "observations": 8946
+  "observations": 9091
  },
  "photos": {
   "male": [
-   {
-    "id": 626736046,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626736046/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626736046/large.jpg",
-    "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/344002801",
-    "place": "Avenida Zedequias Manganhela, Maputo, Maputo City, MZ",
-    "date": "2026-03-20"
-   },
    {
     "id": 15884262,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15884262/medium.jpg",
@@ -42,6 +32,16 @@
     "source": "https://www.inaturalist.org/observations/11204025",
     "place": "Springfontein",
     "date": "2016-03-05"
+   },
+   {
+    "id": 626736046,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626736046/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626736046/large.jpg",
+    "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/344002801",
+    "place": "Avenida Zedequias Manganhela, Maputo, Maputo City, MZ",
+    "date": "2026-03-20"
    },
    {
     "id": 102863219,
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 278488,
+  "worldTotal": 274449,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 170370
+    "count": 171159
    },
    {
     "code": "US",
-    "count": 35675
+    "count": 34705
    },
    {
     "code": "KE",
-    "count": 16026
+    "count": 15424
    },
    {
     "code": "UG",
-    "count": 10465
+    "count": 9105
    },
    {
     "code": "TZ",
-    "count": 5895
-   },
-   {
-    "code": "PR",
-    "count": 5546
+    "count": 5424
    },
    {
     "code": "ZW",
-    "count": 4714
+    "count": 4940
+   },
+   {
+    "code": "PR",
+    "count": 4384
    },
    {
     "code": "NG",
-    "count": 3900
+    "count": 3956
    },
    {
     "code": "GH",
-    "count": 2716
+    "count": 2455
    },
    {
     "code": "SZ",
-    "count": 2480
+    "count": 2443
    },
    {
     "code": "RW",
-    "count": 2119
+    "count": 1959
    },
    {
-    "code": "MZ",
-    "count": 1878
+    "code": "ZM",
+    "count": 1784
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "balearica-regulorum",
  "name": "Balearica regulorum",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:29:34.452Z",
+ "fetchedAt": "2026-11-13T11:32:04.407Z",
  "names": {
   "da": "Grå krontrane",
   "en": "Grey Crowned Crane",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 53,
-  "observations": 6435
+  "observations": 6534
  },
  "photos": {
   "male": [
@@ -48,14 +48,14 @@
    }
   ],
   "hero": {
-   "id": 174128742,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/large.jpeg",
-   "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+   "id": 130851540,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/130851540/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/130851540/large.jpg",
+   "attribution": "(c) Ronald van der Graaf, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/103964275",
-   "place": "Loitokitok, Kenya",
-   "date": "2008-07-15"
+   "source": "https://www.inaturalist.org/photos/130851540",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -75,57 +75,58 @@
    0,
    0
   ],
-  "worldTotal": 78921,
+  "worldTotal": 76948,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 33525
+    "count": 33146
    },
    {
     "code": "KE",
-    "count": 21071
+    "count": 20423
    },
    {
     "code": "UG",
-    "count": 9450
+    "count": 8685
    },
    {
     "code": "TZ",
-    "count": 7689
-   },
-   {
-    "code": "RW",
-    "count": 1824
+    "count": 7230
    },
    {
     "code": "ZM",
-    "count": 1777
+    "count": 1890
+   },
+   {
+    "code": "RW",
+    "count": 1671
    },
    {
     "code": "ZW",
-    "count": 1029
+    "count": 1227
    },
    {
     "code": "AE",
-    "count": 612
-   },
-   {
-    "code": "MZ",
-    "count": 375
+    "count": 662
    },
    {
     "code": "CD",
-    "count": 325
+    "count": 449
+   },
+   {
+    "code": "MZ",
+    "count": 307
    },
    {
     "code": "NL",
-    "count": 271
+    "count": 275
    },
    {
     "code": "BW",
-    "count": 208
+    "count": 210
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

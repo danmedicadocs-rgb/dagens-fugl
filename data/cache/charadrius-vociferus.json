@@ -2,7 +2,7 @@
  "key": "charadrius-vociferus",
  "name": "Charadrius vociferus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:45:17.231Z",
+ "fetchedAt": "2026-11-13T11:45:51.109Z",
  "names": {
   "da": "Kildire",
   "en": "Killdeer",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4793,
-  "observations": 156786
+  "observations": 158032
  },
  "photos": {
   "male": [
@@ -66,6 +66,16 @@
     "date": "2026-02-23"
    },
    {
+    "id": 477409870,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477409870/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477409870/large.jpeg",
+    "attribution": "(c) Lexie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/265758487",
+    "place": "United States",
+    "date": "2025-03-17"
+   },
+   {
     "id": 394377649,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394377649/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394377649/large.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/222625560",
     "place": "Churchill County, NV, USA",
     "date": "2024-06-07"
-   },
-   {
-    "id": 654040320,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654040320/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654040320/large.jpg",
-    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/358519924",
-    "place": "Laguna Creek Ln, Pleasanton, CA, US",
-    "date": "2026-05-04"
    }
   ],
   "juvenile": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 351424221,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/large.jpeg",
-   "attribution": "(c) Mordecai-Mark Mac Low, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/199285549",
-   "place": "Isla Vista, CA 93117, USA",
-   "date": "2024-02-13"
+   "id": 275634261,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275634261/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275634261/large.jpg",
+   "attribution": "(c) Eugene Zelenko, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/275634261",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,57 +146,58 @@
    0,
    0
   ],
-  "worldTotal": 9900304,
+  "worldTotal": 9282667,
   "topCountries": [
    {
     "code": "US",
-    "count": 8510706
+    "count": 7998043
    },
    {
     "code": "CA",
-    "count": 1190422
+    "count": 1128261
    },
    {
     "code": "MX",
-    "count": 85890
+    "count": 68775
    },
    {
     "code": "CU",
-    "count": 20409
+    "count": 16042
    },
    {
     "code": "PR",
-    "count": 17649
+    "count": 13397
    },
    {
     "code": "PE",
-    "count": 14134
+    "count": 10308
    },
    {
     "code": "BZ",
-    "count": 8887
+    "count": 6391
    },
    {
     "code": "BS",
-    "count": 8511
+    "count": 5939
    },
    {
     "code": "CR",
-    "count": 6253
+    "count": 4978
    },
    {
     "code": "DO",
-    "count": 5674
+    "count": 4831
    },
    {
     "code": "BM",
-    "count": 4416
+    "count": 4534
    },
    {
     "code": "AW",
-    "count": 4105
+    "count": 3469
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

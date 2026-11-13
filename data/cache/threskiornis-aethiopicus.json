@@ -2,7 +2,7 @@
  "key": "threskiornis-aethiopicus",
  "name": "Threskiornis aethiopicus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:32:37.412Z",
+ "fetchedAt": "2026-11-13T11:34:48.133Z",
  "names": {
   "da": "Hellig ibis",
   "en": "African Sacred Ibis",
@@ -19,22 +19,12 @@
  },
  "inat": {
   "id": 3739,
-  "observations": 17049
+  "observations": 17326
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
-   {
-    "id": 723558011,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723558011/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723558011/large.jpg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/394666272",
-    "place": "Province of Pavia, Italy",
-    "date": "2026-08-26"
-   },
    {
     "id": 65619807,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65619807/medium.jpg",
@@ -44,6 +34,16 @@
     "source": "https://www.inaturalist.org/observations/41367400",
     "place": "Harare, Zimbabwe",
     "date": "2020-04-04"
+   },
+   {
+    "id": 723558011,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723558011/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723558011/large.jpg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/394666272",
+    "place": "Province of Pavia, Italy",
+    "date": "2026-08-26"
    },
    {
     "id": 636196053,
@@ -68,24 +68,24 @@
     "date": "2020-12-04"
    },
    {
-    "id": 440686360,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/440686360/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/440686360/large.jpeg",
+    "id": 312252208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312252208/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312252208/large.jpeg",
     "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/246827735",
-    "place": "Umzinyathi, KwaZulu-Natal, South Africa",
-    "date": "2024-10-11"
+    "source": "https://www.inaturalist.org/observations/179384247",
+    "place": "Namakwa, Northern Cape, South Africa",
+    "date": "2023-08-19"
    },
    {
-    "id": 448425171,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448425171/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448425171/large.jpeg",
+    "id": 597254766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597254766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597254766/large.jpg",
     "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/250700009",
-    "place": "Wilderness, South Africa",
-    "date": "2024-11-06"
+    "source": "https://www.inaturalist.org/observations/329482922",
+    "place": "Klein Brak River, 6503, South Africa",
+    "date": "2025-12-04"
    }
   ],
   "hero": {
@@ -116,57 +116,58 @@
    5,
    66
   ],
-  "worldTotal": 444139,
+  "worldTotal": 439132,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 266159
+    "count": 267081
    },
    {
     "code": "TW",
-    "count": 47660
+    "count": 39960
    },
    {
     "code": "KE",
-    "count": 34753
+    "count": 34268
    },
    {
     "code": "IT",
-    "count": 20035
+    "count": 24048
    },
    {
     "code": "TZ",
-    "count": 9648
-   },
-   {
-    "code": "BW",
-    "count": 7605
+    "count": 9423
    },
    {
     "code": "FR",
-    "count": 6986
+    "count": 7366
+   },
+   {
+    "code": "BW",
+    "count": 7305
    },
    {
     "code": "ZW",
-    "count": 6732
+    "count": 7058
    },
    {
     "code": "UG",
-    "count": 6597
+    "count": 5697
    },
    {
     "code": "ET",
-    "count": 6007
+    "count": 5324
    },
    {
     "code": "AE",
-    "count": 4881
+    "count": 5066
    },
    {
     "code": "ZM",
-    "count": 4163
+    "count": 4247
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

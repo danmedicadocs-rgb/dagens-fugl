@@ -2,7 +2,7 @@
  "key": "dumetella-carolinensis",
  "name": "Dumetella carolinensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:43:25.759Z",
+ "fetchedAt": "2026-11-13T11:44:11.765Z",
  "names": {
   "da": "Kattedrossel",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14995,
-  "observations": 113302
+  "observations": 113739
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2021-05-06"
    },
    {
-    "id": 214806108,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/214806108/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/214806108/large.jpeg",
-    "attribution": "(c) stephen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/126590265",
-    "place": "Henrico County, VA, USA",
-    "date": "2022-07-16"
+    "id": 279863594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279863594/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279863594/large.jpeg",
+    "attribution": "(c) Chris, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/161889751",
+    "place": "Schaumburg, IL 60193, USA",
+    "date": "2023-05-15"
    }
   ],
   "female": [
@@ -88,35 +88,35 @@
     "date": "2020-07-03"
    },
    {
-    "id": 569596759,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569596759/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569596759/large.jpg",
-    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
+    "id": 227426395,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227426395/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227426395/large.jpg",
+    "attribution": "(c) Marilynn Miller, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/315312755",
-    "place": "Old Dominion University, Norfolk, VA, US",
-    "date": "2025-09-20"
+    "source": "https://www.inaturalist.org/observations/133514130",
+    "place": "Lake Hiawatha Park, Minneapolis, MN, USA",
+    "date": "2022-09-03"
    },
    {
-    "id": 559323405,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559323405/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559323405/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "id": 412748178,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412748178/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412748178/large.jpg",
+    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309926336",
-    "place": "Bucks County, PA, USA",
-    "date": "2025-08-28"
+    "source": "https://www.inaturalist.org/observations/232334270",
+    "place": "Talbot, London, ON N6P, Canada",
+    "date": "2024-07-27"
    }
   ],
   "hero": {
-   "id": 294089150,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/294089150/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/294089150/large.png",
-   "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
+   "id": 129956324,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129956324/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/129956324/large.jpg",
+   "attribution": "(c) kirk gardner, some rights reserved (CC BY), uploaded by kirk gardner",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/169618202",
-   "place": "Regina, SK, Canada",
-   "date": "2023-06-24"
+   "source": "https://www.inaturalist.org/photos/129956324",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,57 +136,58 @@
    0,
    0
   ],
-  "worldTotal": 9428981,
+  "worldTotal": 9163152,
   "topCountries": [
    {
     "code": "US",
-    "count": 8338067
+    "count": 8158546
    },
    {
     "code": "CA",
-    "count": 889625
+    "count": 852090
    },
    {
     "code": "BZ",
-    "count": 68493
+    "count": 53376
    },
    {
     "code": "MX",
-    "count": 51574
+    "count": 40182
    },
    {
     "code": "GT",
-    "count": 21625
-   },
-   {
-    "code": "CU",
-    "count": 14121
-   },
-   {
-    "code": "HN",
-    "count": 13210
-   },
-   {
-    "code": "BS",
-    "count": 12514
+    "count": 14601
    },
    {
     "code": "BM",
-    "count": 11171
+    "count": 10554
+   },
+   {
+    "code": "BS",
+    "count": 9521
+   },
+   {
+    "code": "CU",
+    "count": 9150
+   },
+   {
+    "code": "HN",
+    "count": 8124
    },
    {
     "code": "CR",
-    "count": 2703
+    "count": 2248
    },
    {
     "code": "KY",
-    "count": 1868
+    "count": 1517
    },
    {
     "code": "PA",
-    "count": 1691
+    "count": 1175
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "uria-aalge",
  "name": "Uria aalge",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:11:10.066Z",
+ "fetchedAt": "2026-11-13T11:16:16.775Z",
  "names": {
   "da": "Lomvie",
   "en": "Common Murre",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4519,
-  "observations": 28265
+  "observations": 29338
  },
  "photos": {
   "male": [],
@@ -88,84 +88,85 @@
    }
   ],
   "hero": {
-   "id": 448019690,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448019690/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448019690/large.jpeg",
-   "attribution": "(c) Sean Vanderluit, some rights reserved (CC BY)",
+   "id": 498922599,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498922599/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498922599/large.jpg",
+   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY), uploaded by Diego González Dopico",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/250497883",
-   "place": "Chesterman Beach, Alberni-Clayoquot, BC, CA",
-   "date": "2024-11-04"
+   "source": "https://www.inaturalist.org/photos/498922599",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481342,
-  "dkTotal": 59552,
+  "dkTotal": 57069,
   "dkMonths": [
-   5478,
-   5171,
-   3114,
-   4109,
-   3736,
-   1902,
-   2921,
-   3308,
-   5701,
-   12130,
-   8929,
-   2996
+   4492,
+   3786,
+   3021,
+   4049,
+   3630,
+   1857,
+   2871,
+   3133,
+   5761,
+   12481,
+   8991,
+   2940
   ],
-  "worldTotal": 1636138,
+  "worldTotal": 1459186,
   "topCountries": [
    {
     "code": "GB",
-    "count": 510068
+    "count": 520736
    },
    {
     "code": "US",
-    "count": 438219
+    "count": 277252
    },
    {
     "code": "SE",
-    "count": 179566
+    "count": 165970
    },
    {
     "code": "NL",
-    "count": 107912
+    "count": 109227
    },
    {
     "code": "NO",
-    "count": 83834
+    "count": 84638
    },
    {
     "code": "CA",
-    "count": 82321
+    "count": 69604
    },
    {
     "code": "DK",
-    "count": 59552
+    "count": 57069
    },
    {
     "code": "IE",
-    "count": 41673
+    "count": 42349
    },
    {
     "code": "BE",
-    "count": 36829
+    "count": 36925
    },
    {
     "code": "FR",
-    "count": 30290
+    "count": 30628
    },
    {
     "code": "DE",
-    "count": 23282
+    "count": 23717
    },
    {
     "code": "IS",
-    "count": 9630
+    "count": 9588
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

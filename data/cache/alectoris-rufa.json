@@ -2,7 +2,7 @@
  "key": "alectoris-rufa",
  "name": "Alectoris rufa",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:28:28.799Z",
+ "fetchedAt": "2026-11-13T11:31:10.270Z",
  "names": {
   "da": "Rødhøne",
   "en": "Red-legged Partridge",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 867,
-  "observations": 11372
+  "observations": 11529
  },
  "photos": {
   "male": [
@@ -68,6 +68,16 @@
   ],
   "juvenile": [
    {
+    "id": 600582393,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600582393/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600582393/large.jpg",
+    "attribution": "(c) J. Brucker, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331109568",
+    "place": "Cambridgeshire, England, GB",
+    "date": "2025-06-29"
+   },
+   {
     "id": 476396819,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476396819/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476396819/large.jpeg",
@@ -86,16 +96,6 @@
     "source": "https://www.inaturalist.org/observations/233652814",
     "place": "Cuevas de San Clemente, Burgos, España",
     "date": "2024-07-27"
-   },
-   {
-    "id": 212757006,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212757006/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212757006/large.jpg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/125457013",
-    "place": "Yorkshire Dales National Park, Leyburn, England, GB",
-    "date": "2022-07-09"
    }
   ],
   "hero": {
@@ -111,7 +111,7 @@
  },
  "gbif": {
   "key": 2474051,
-  "dkTotal": 143,
+  "dkTotal": 146,
   "dkMonths": [
    11,
    11,
@@ -122,35 +122,35 @@
    3,
    2,
    7,
-   17,
+   20,
    9,
    7
   ],
-  "worldTotal": 452534,
+  "worldTotal": 462684,
   "topCountries": [
    {
     "code": "ES",
-    "count": 189219
-   },
-   {
-    "code": "FR",
-    "count": 98875
+    "count": 189321
    },
    {
     "code": "GB",
-    "count": 97371
+    "count": 108254
+   },
+   {
+    "code": "FR",
+    "count": 99938
    },
    {
     "code": "PT",
-    "count": 63168
+    "count": 61129
    },
    {
     "code": "IT",
-    "count": 1835
+    "count": 1975
    },
    {
     "code": "BE",
-    "count": 358
+    "count": 364
    },
    {
     "code": "SE",
@@ -158,25 +158,26 @@
    },
    {
     "code": "US",
-    "count": 211
+    "count": 183
    },
    {
     "code": "IE",
-    "count": 147
+    "count": 150
    },
    {
     "code": "DK",
-    "count": 143
+    "count": 146
+   },
+   {
+    "code": "AD",
+    "count": 102
    },
    {
     "code": "NL",
     "count": 100
-   },
-   {
-    "code": "AD",
-    "count": 99
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

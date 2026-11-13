@@ -2,7 +2,7 @@
  "key": "pitta-moluccensis",
  "name": "Pitta moluccensis",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:35:07.454Z",
+ "fetchedAt": "2026-11-13T11:37:01.274Z",
  "names": {
   "da": "Blåvinget Pitta",
   "en": "Blue-winged Pitta",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14415,
-  "observations": 1091
+  "observations": 1106
  },
  "photos": {
   "male": [],
@@ -37,24 +37,24 @@
     "date": "2011-05-07"
    },
    {
-    "id": 341738380,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341738380/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341738380/large.jpeg",
-    "attribution": "(c) Chris Oldnall, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/194417113",
-    "place": "PR36+JGM, Khao Pu, Si Banphot District, Phatthalung 93190, Thailand",
-    "date": "2023-12-19"
+    "id": 199590165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199590165/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199590165/large.jpeg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/118148260",
+    "place": "Unnamed Road, Kampung Labuk Banting, 13310 Kubang Semang, Penang, Malaysia",
+    "date": "2022-04-17"
    },
    {
-    "id": 639966944,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639966944/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639966944/large.jpg",
-    "attribution": "(c) Apichart Nakarungutti, some rights reserved (CC BY)",
+    "id": 516057507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/516057507/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/516057507/large.jpg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/350725736",
-    "place": "C5RH+W6X, Bang Mak, Mueang Chumphon District, Chumphon 86000, Thailand",
-    "date": "2026-04-11"
+    "source": "https://www.inaturalist.org/observations/287023209",
+    "place": "Linggi River, Malaysia",
+    "date": "2025-05-28"
    }
   ],
   "hero": {
@@ -85,57 +85,58 @@
    0,
    0
   ],
-  "worldTotal": 11399,
+  "worldTotal": 10769,
   "topCountries": [
    {
     "code": "TH",
-    "count": 5716
+    "count": 4990
    },
    {
     "code": "SG",
-    "count": 2181
+    "count": 2337
    },
    {
     "code": "MY",
-    "count": 1756
+    "count": 1761
    },
    {
     "code": "VN",
-    "count": 555
+    "count": 571
    },
    {
     "code": "KH",
-    "count": 508
+    "count": 473
    },
    {
     "code": "TW",
-    "count": 208
+    "count": 158
    },
    {
     "code": "MM",
-    "count": 114
+    "count": 122
    },
    {
     "code": "ID",
-    "count": 105
+    "count": 107
    },
    {
     "code": "LA",
-    "count": 52
+    "count": 58
    },
    {
     "code": "CN",
-    "count": 31
+    "count": 21
    },
    {
     "code": "PH",
-    "count": 11
+    "count": 10
    },
    {
     "code": "BN",
-    "count": 10
+    "count": 9
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "furnarius-rufus",
  "name": "Furnarius rufus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:48:47.563Z",
+ "fetchedAt": "2026-11-13T11:48:14.632Z",
  "names": {
   "da": "Brun Ovnfugl",
   "en": "Rufous Hornero",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 11275,
-  "observations": 25979
+  "observations": 26369
  },
  "photos": {
   "male": [
@@ -34,16 +34,6 @@
     "date": "2020-04-30"
    },
    {
-    "id": 332113470,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332113470/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332113470/large.jpeg",
-    "attribution": "(c) Rodrigo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/189563563",
-    "place": "Perú y El Parral (Capital, Mendoza), Mendoza, Argentina",
-    "date": "2023-10-31"
-   },
-   {
     "id": 227764661,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227764661/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227764661/large.jpeg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/133694809",
     "place": "Sao Jose dos Campos - State of São Paulo, Brazil",
     "date": "2022-09-04"
+   },
+   {
+    "id": 332113470,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332113470/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332113470/large.jpeg",
+    "attribution": "(c) Rodrigo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/189563563",
+    "place": "Perú y El Parral (Capital, Mendoza), Mendoza, Argentina",
+    "date": "2023-10-31"
    }
   ],
   "female": [
@@ -126,27 +126,27 @@
    0,
    0
   ],
-  "worldTotal": 651295,
+  "worldTotal": 633606,
   "topCountries": [
    {
-    "code": "AR",
-    "count": 291522
+    "code": "BR",
+    "count": 280279
    },
    {
-    "code": "BR",
-    "count": 269284
+    "code": "AR",
+    "count": 272957
    },
    {
     "code": "UY",
-    "count": 53087
+    "count": 47272
    },
    {
     "code": "PY",
-    "count": 21601
+    "count": 19077
    },
    {
     "code": "BO",
-    "count": 15658
+    "count": 13877
    },
    {
     "code": "ZZ",
@@ -166,5 +166,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "falco-subbuteo",
  "name": "Falco subbuteo",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:03:16.634Z",
+ "fetchedAt": "2026-11-13T11:09:39.270Z",
  "names": {
   "da": "Lærkefalk",
   "en": "Eurasian Hobby",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4643,
-  "observations": 18939
+  "observations": 19054
  },
  "photos": {
   "male": [
@@ -79,84 +79,85 @@
    }
   ],
   "hero": {
-   "id": 314672668,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314672668/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314672668/large.jpg",
-   "attribution": "(c) Sheelagh Halsey, some rights reserved (CC BY)",
+   "id": 8362810,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8362810/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8362810/large.jpeg",
+   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/180627074",
-   "place": "Cheshire West and Chester, UK",
-   "date": "2023-08-28"
+   "source": "https://www.inaturalist.org/photos/8362810",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481035,
-  "dkTotal": 52709,
+  "dkTotal": 52526,
   "dkMonths": [
    1,
    0,
    0,
-   4280,
-   23895,
-   6004,
-   1841,
-   3972,
-   12214,
-   424,
+   4283,
+   23920,
+   6013,
+   1845,
+   3984,
+   12233,
+   169,
    0,
    0
   ],
-  "worldTotal": 883432,
+  "worldTotal": 908488,
   "topCountries": [
    {
     "code": "SE",
-    "count": 268660
+    "count": 269404
    },
    {
     "code": "FR",
-    "count": 97907
+    "count": 99737
    },
    {
     "code": "NL",
-    "count": 92411
+    "count": 94903
    },
    {
     "code": "GB",
-    "count": 83899
+    "count": 93218
    },
    {
     "code": "BE",
-    "count": 60258
+    "count": 61310
    },
    {
     "code": "DK",
-    "count": 52709
+    "count": 52526
    },
    {
     "code": "ES",
-    "count": 29524
-   },
-   {
-    "code": "DE",
-    "count": 20722
-   },
-   {
-    "code": "NO",
-    "count": 18839
+    "count": 28891
    },
    {
     "code": "FI",
-    "count": 17670
+    "count": 24470
+   },
+   {
+    "code": "DE",
+    "count": 21791
+   },
+   {
+    "code": "NO",
+    "count": 19008
    },
    {
     "code": "RU",
-    "count": 13465
+    "count": 13186
    },
    {
     "code": "EE",
-    "count": 9041
+    "count": 9263
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

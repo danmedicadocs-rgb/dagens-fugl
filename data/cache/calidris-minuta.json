@@ -2,7 +2,7 @@
  "key": "calidris-minuta",
  "name": "Calidris minuta",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:26.767Z",
+ "fetchedAt": "2026-11-13T11:11:34.719Z",
  "names": {
   "da": "Dværgryle",
   "en": "Little Stint",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3838,
-  "observations": 14640
+  "observations": 14810
  },
  "photos": {
   "male": [],
@@ -68,84 +68,85 @@
    }
   ],
   "hero": {
-   "id": 578962694,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/578962694/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/578962694/large.jpg",
-   "attribution": "(c) Juan Rodríguez, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/320236027",
-   "place": "Toledo, España",
-   "date": "2025-10-11"
+   "id": 61212026,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61212026/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61212026/large.jpg",
+   "attribution": "(c) Imran Shah, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/61212026",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481749,
-  "dkTotal": 34268,
+  "dkTotal": 34341,
   "dkMonths": [
    3,
    1,
    0,
    48,
-   3418,
-   587,
-   6616,
-   13095,
-   10376,
-   83,
+   3421,
+   588,
+   6634,
+   13115,
+   10405,
+   85,
    25,
    0
   ],
-  "worldTotal": 617813,
+  "worldTotal": 595270,
   "topCountries": [
    {
     "code": "SE",
-    "count": 98942
-   },
-   {
-    "code": "IN",
-    "count": 62675
+    "count": 99036
    },
    {
     "code": "ES",
-    "count": 56149
+    "count": 52992
    },
    {
     "code": "ZA",
-    "count": 49427
+    "count": 48862
+   },
+   {
+    "code": "IN",
+    "count": 48114
    },
    {
     "code": "DK",
-    "count": 34268
-   },
-   {
-    "code": "NO",
-    "count": 33570
+    "count": 34341
    },
    {
     "code": "FR",
-    "count": 33436
+    "count": 33942
    },
    {
-    "code": "IL",
-    "count": 30118
+    "code": "NO",
+    "count": 33725
    },
    {
     "code": "GB",
-    "count": 26471
+    "count": 29459
+   },
+   {
+    "code": "IL",
+    "count": 27186
    },
    {
     "code": "AE",
-    "count": 17909
+    "count": 17520
    },
    {
     "code": "PT",
-    "count": 16155
+    "count": 14352
    },
    {
     "code": "FI",
-    "count": 13135
+    "count": 13672
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

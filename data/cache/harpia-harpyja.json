@@ -2,7 +2,7 @@
  "key": "harpia-harpyja",
  "name": "Harpia harpyja",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:50:18.397Z",
+ "fetchedAt": "2026-11-13T11:49:27.609Z",
  "names": {
   "da": "Harpy",
   "en": "Harpy eagle",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5321,
-  "observations": 1673
+  "observations": 1701
  },
  "photos": {
   "male": [],
@@ -115,57 +115,58 @@
    0,
    0
   ],
-  "worldTotal": 7863,
+  "worldTotal": 6249,
   "topCountries": [
    {
-    "code": "PA",
-    "count": 2065
+    "code": "BR",
+    "count": 1680
    },
    {
-    "code": "BR",
-    "count": 1964
+    "code": "PA",
+    "count": 1370
    },
    {
     "code": "EC",
-    "count": 935
-   },
-   {
-    "code": "CO",
-    "count": 750
+    "count": 802
    },
    {
     "code": "PE",
-    "count": 692
+    "count": 641
+   },
+   {
+    "code": "CO",
+    "count": 502
    },
    {
     "code": "GY",
-    "count": 436
+    "count": 323
    },
    {
     "code": "VE",
-    "count": 313
+    "count": 264
    },
    {
     "code": "GF",
-    "count": 162
-   },
-   {
-    "code": "AR",
-    "count": 116
+    "count": 171
    },
    {
     "code": "SR",
-    "count": 100
+    "count": 120
+   },
+   {
+    "code": "AR",
+    "count": 80
    },
    {
     "code": "BO",
-    "count": 88
+    "count": 68
    },
    {
     "code": "BZ",
-    "count": 26
+    "count": 23
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

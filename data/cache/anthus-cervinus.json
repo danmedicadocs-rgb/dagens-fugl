@@ -2,7 +2,7 @@
  "key": "anthus-cervinus",
  "name": "Anthus cervinus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:06.917Z",
+ "fetchedAt": "2026-11-13T11:26:20.345Z",
  "names": {
   "da": "Rødstrubet piber",
   "en": "Red-throated Pipit",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13721,
-  "observations": 5452
+  "observations": 5548
  },
  "photos": {
   "male": [],
@@ -47,30 +47,30 @@
     "date": "2025-04-15"
    },
    {
-    "id": 574741888,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/574741888/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/574741888/large.jpg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "id": 347011103,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347011103/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347011103/large.jpeg",
+    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/318030937",
-    "place": "Западный административный округ, Москва, Россия",
-    "date": "2025-09-28"
+    "source": "https://www.inaturalist.org/observations/197075549",
+    "place": "Sungai Rambai, Malacca, Malaysia",
+    "date": "2023-12-30"
    }
   ],
   "hero": {
-   "id": 506370966,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506370966/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506370966/large.jpg",
-   "attribution": "(c) Katerina Kalogerini, some rights reserved (CC BY)",
+   "id": 126450720,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126450720/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126450720/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/281871660",
-   "place": "Περιφέρεια Πελοποννήσου, Ελλάδα",
-   "date": "2025-04-15"
+   "source": "https://www.inaturalist.org/photos/126450720",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490283,
-  "dkTotal": 1836,
+  "dkTotal": 1841,
   "dkMonths": [
    1,
    0,
@@ -80,62 +80,63 @@
    17,
    0,
    37,
-   1071,
-   326,
+   1073,
+   329,
    5,
    0
   ],
-  "worldTotal": 177826,
+  "worldTotal": 171536,
   "topCountries": [
    {
     "code": "SE",
-    "count": 44215
+    "count": 44210
    },
    {
     "code": "IL",
-    "count": 22602
+    "count": 20785
    },
    {
     "code": "TW",
-    "count": 21747
+    "count": 18352
    },
    {
     "code": "NO",
-    "count": 10148
+    "count": 9967
    },
    {
     "code": "RU",
-    "count": 5331
-   },
-   {
-    "code": "US",
-    "count": 5168
+    "count": 5241
    },
    {
     "code": "AE",
-    "count": 5058
-   },
-   {
-    "code": "TH",
-    "count": 4139
+    "count": 4981
    },
    {
     "code": "FI",
-    "count": 3967
+    "count": 4506
    },
    {
     "code": "HK",
-    "count": 3894
+    "count": 4278
    },
    {
     "code": "CN",
-    "count": 3635
+    "count": 4122
+   },
+   {
+    "code": "US",
+    "count": 3716
+   },
+   {
+    "code": "TH",
+    "count": 3430
    },
    {
     "code": "NL",
-    "count": 3308
+    "count": 3372
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

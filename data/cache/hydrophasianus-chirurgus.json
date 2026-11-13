@@ -2,7 +2,7 @@
  "key": "hydrophasianus-chirurgus",
  "name": "Hydrophasianus chirurgus",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:09.917Z",
+ "fetchedAt": "2026-11-13T11:38:55.112Z",
  "names": {
   "da": "Fasanbladhøne",
   "en": "Pheasant-tailed Jacana",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4589,
-  "observations": 6214
+  "observations": 6281
  },
  "photos": {
   "male": [
@@ -126,57 +126,58 @@
    0,
    0
   ],
-  "worldTotal": 143210,
+  "worldTotal": 124849,
   "topCountries": [
    {
     "code": "IN",
-    "count": 86910
+    "count": 70636
    },
    {
     "code": "TW",
-    "count": 25207
+    "count": 23583
    },
    {
     "code": "LK",
-    "count": 10034
+    "count": 10006
    },
    {
     "code": "TH",
-    "count": 8478
+    "count": 7611
    },
    {
     "code": "CN",
-    "count": 2495
+    "count": 3452
    },
    {
     "code": "KH",
-    "count": 2487
-   },
-   {
-    "code": "PH",
-    "count": 1415
+    "count": 2130
    },
    {
     "code": "OM",
-    "count": 1368
+    "count": 1191
+   },
+   {
+    "code": "PH",
+    "count": 1141
    },
    {
     "code": "BD",
+    "count": 893
+   },
+   {
+    "code": "NP",
     "count": 841
    },
    {
     "code": "HK",
-    "count": 747
-   },
-   {
-    "code": "NP",
-    "count": 668
+    "count": 760
    },
    {
     "code": "MM",
-    "count": 643
+    "count": 722
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

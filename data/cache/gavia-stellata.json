@@ -2,7 +2,7 @@
  "key": "gavia-stellata",
  "name": "Gavia stellata",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:58:22.281Z",
+ "fetchedAt": "2026-11-13T11:05:39.110Z",
  "names": {
   "da": "Rødstrubet lom",
   "en": "Red-throated Diver",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4627,
-  "observations": 16083
+  "observations": 16414
  },
  "photos": {
   "male": [
@@ -89,84 +89,85 @@
    }
   ],
   "hero": {
-   "id": 281068221,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281068221/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281068221/large.jpg",
-   "attribution": "(c) Elizabeth Axley, some rights reserved (CC BY)",
+   "id": 347053651,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347053651/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347053651/large.jpg",
+   "attribution": "(c) Matt Felperin, some rights reserved (CC BY), uploaded by Matt Felperin",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/162547257",
-   "place": "Chatham, MA, US",
-   "date": "2023-05-19"
+   "source": "https://www.inaturalist.org/photos/347053651",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481958,
-  "dkTotal": 121119,
+  "dkTotal": 122238,
   "dkMonths": [
-   6941,
+   6939,
    5339,
-   10152,
-   14665,
-   13882,
-   2929,
-   4452,
-   4905,
-   16296,
-   21809,
-   13175,
-   6528
+   10153,
+   14690,
+   13900,
+   2947,
+   4443,
+   4941,
+   16347,
+   22603,
+   13349,
+   6541
   ],
-  "worldTotal": 1441448,
+  "worldTotal": 1340736,
   "topCountries": [
    {
     "code": "US",
-    "count": 611890
+    "count": 509057
    },
    {
     "code": "SE",
-    "count": 224560
+    "count": 225840
    },
    {
     "code": "NO",
-    "count": 135049
+    "count": 136711
    },
    {
     "code": "DK",
-    "count": 121119
+    "count": 122238
    },
    {
     "code": "CA",
-    "count": 111590
+    "count": 95477
    },
    {
     "code": "GB",
-    "count": 76037
+    "count": 83427
    },
    {
     "code": "NL",
-    "count": 59952
-   },
-   {
-    "code": "IS",
-    "count": 17329
+    "count": 61363
    },
    {
     "code": "FI",
-    "count": 13903
+    "count": 18812
+   },
+   {
+    "code": "IS",
+    "count": 16665
    },
    {
     "code": "FR",
-    "count": 10751
+    "count": 11146
    },
    {
     "code": "DE",
-    "count": 9793
+    "count": 10144
    },
    {
     "code": "EE",
-    "count": 8831
+    "count": 9245
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "strix-nebulosa",
  "name": "Strix nebulosa",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:57.940Z",
+ "fetchedAt": "2026-11-13T11:30:45.567Z",
  "names": {
   "da": "Lapugle",
   "en": "Great Grey Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19890,
-  "observations": 7603
+  "observations": 7681
  },
  "photos": {
   "male": [
@@ -119,14 +119,14 @@
    }
   ],
   "hero": {
-   "id": 258497614,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497614/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258497614/large.jpg",
-   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/149963349",
-   "place": "Chulymskiy rayon, RU-NS, RU",
-   "date": "2023-02-26"
+   "id": 6542744,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6542744/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6542744/large.jpg",
+   "attribution": "(c) Fyn Kynd, some rights reserved (CC BY-SA), uploaded by Fyn Kynd",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/6542744",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,39 +146,39 @@
    0,
    0
   ],
-  "worldTotal": 39809,
+  "worldTotal": 40795,
   "topCountries": [
    {
     "code": "SE",
-    "count": 22880
+    "count": 22973
    },
    {
     "code": "FI",
-    "count": 6738
+    "count": 7486
    },
    {
     "code": "US",
-    "count": 3242
+    "count": 3272
    },
    {
     "code": "CA",
-    "count": 2695
+    "count": 2711
    },
    {
     "code": "RU",
-    "count": 2307
+    "count": 2321
    },
    {
     "code": "NO",
-    "count": 931
+    "count": 945
    },
    {
     "code": "UA",
-    "count": 237
+    "count": 241
    },
    {
     "code": "EE",
-    "count": 153
+    "count": 217
    },
    {
     "code": "BY",
@@ -190,7 +190,7 @@
    },
    {
     "code": "CN",
-    "count": 29
+    "count": 31
    },
    {
     "code": "NL",
@@ -198,5 +198,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

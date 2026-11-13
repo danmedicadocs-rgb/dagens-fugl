@@ -2,7 +2,7 @@
  "key": "anser-fabalis",
  "name": "Anser fabalis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:54:47.502Z",
+ "fetchedAt": "2026-11-13T11:02:38.305Z",
  "names": {
   "da": "Sædgås",
   "en": "Taiga bean goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7009,
-  "observations": 4734
+  "observations": 4804
  },
  "photos": {
   "male": [],
@@ -81,72 +81,73 @@
  },
  "gbif": {
   "key": 2498027,
-  "dkTotal": 14200,
+  "dkTotal": 14260,
   "dkMonths": [
    5010,
-   3421,
-   1346,
-   278,
+   3439,
+   1352,
+   279,
    35,
    10,
    11,
    7,
-   86,
-   656,
-   1178,
-   2144
+   87,
+   682,
+   1181,
+   2149
   ],
-  "worldTotal": 149030,
+  "worldTotal": 154736,
   "topCountries": [
    {
     "code": "SE",
-    "count": 45605
+    "count": 46724
    },
    {
     "code": "RU",
-    "count": 17815
+    "count": 17670
    },
    {
     "code": "NO",
-    "count": 17190
+    "count": 17182
    },
    {
     "code": "DK",
-    "count": 14200
-   },
-   {
-    "code": "EE",
-    "count": 10096
+    "count": 14260
    },
    {
     "code": "FI",
-    "count": 9166
+    "count": 10600
+   },
+   {
+    "code": "EE",
+    "count": 10113
    },
    {
     "code": "KR",
-    "count": 7991
+    "count": 8597
    },
    {
     "code": "DE",
-    "count": 6118
+    "count": 6220
    },
    {
     "code": "CN",
-    "count": 3833
+    "count": 5081
+   },
+   {
+    "code": "NL",
+    "count": 2887
    },
    {
     "code": "JP",
-    "count": 2539
-   },
-   {
-    "code": "TW",
-    "count": 2321
+    "count": 2533
    },
    {
     "code": "FR",
-    "count": 2262
+    "count": 2246
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

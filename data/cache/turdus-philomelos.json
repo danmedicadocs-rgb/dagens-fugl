@@ -2,7 +2,7 @@
  "key": "turdus-philomelos",
  "name": "Turdus philomelos",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:34.359Z",
+ "fetchedAt": "2026-11-13T11:24:10.154Z",
  "names": {
   "da": "Sangdrossel",
   "en": "Song Thrush",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12748,
-  "observations": 82358
+  "observations": 83075
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 359553825,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359553825/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359553825/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+   "id": 61267400,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267400/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61267400/large.jpg",
+   "attribution": "(c) Sid Mosdell, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/203498306",
-   "place": "4292 Dobri Dol, Bulgaria",
-   "date": "2024-03-21"
+   "source": "https://www.inaturalist.org/photos/61267400",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 7901064,
-  "dkTotal": 238483,
+  "dkTotal": 239520,
   "dkMonths": [
-   1278,
-   1421,
-   38509,
-   65879,
-   41619,
-   27325,
-   14313,
-   4117,
-   14118,
-   25981,
-   2947,
+   1279,
+   1431,
+   38569,
+   66022,
+   41711,
+   27407,
+   14354,
+   4116,
+   14164,
+   26531,
+   2960,
    892
   ],
-  "worldTotal": 4605204,
+  "worldTotal": 4792093,
   "topCountries": [
    {
+    "code": "GB",
+    "count": 694915
+   },
+   {
     "code": "SE",
-    "count": 634365
+    "count": 638444
    },
    {
     "code": "FR",
-    "count": 622282
+    "count": 632543
    },
    {
     "code": "NL",
-    "count": 621777
-   },
-   {
-    "code": "GB",
-    "count": 606046
+    "count": 631606
    },
    {
     "code": "ES",
-    "count": 330335
+    "count": 333591
    },
    {
     "code": "NO",
-    "count": 242224
+    "count": 245522
    },
    {
     "code": "DK",
-    "count": 238483
-   },
-   {
-    "code": "NZ",
-    "count": 210309
+    "count": 239520
    },
    {
     "code": "DE",
-    "count": 208370
+    "count": 220763
    },
    {
     "code": "FI",
-    "count": 196110
+    "count": 214148
+   },
+   {
+    "code": "NZ",
+    "count": 207553
    },
    {
     "code": "BE",
-    "count": 148303
+    "count": 153831
    },
    {
     "code": "PL",
-    "count": 70717
+    "count": 80657
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

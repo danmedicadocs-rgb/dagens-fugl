@@ -2,7 +2,7 @@
  "key": "pica-pica",
  "name": "Pica pica",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:08.159Z",
+ "fetchedAt": "2026-11-13T11:19:30.870Z",
  "names": {
   "da": "Husskade",
   "en": "Eurasian Magpie",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 891696,
-  "observations": 185771
+  "observations": 188350
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 5229490,
-  "dkTotal": 363253,
+  "dkTotal": 368656,
   "dkMonths": [
-   44352,
-   35183,
-   42566,
-   38935,
-   33515,
-   24082,
-   18977,
-   19624,
-   23393,
-   27998,
-   26459,
-   28096
+   44563,
+   35412,
+   42879,
+   39287,
+   33849,
+   24377,
+   19218,
+   19802,
+   23691,
+   30096,
+   27017,
+   28392
   ],
-  "worldTotal": 8260952,
+  "worldTotal": 8748475,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1402392
+    "count": 1604984
    },
    {
     "code": "FR",
-    "count": 1078031
+    "count": 1102983
    },
    {
     "code": "SE",
-    "count": 969204
+    "count": 983554
    },
    {
     "code": "NL",
-    "count": 906976
+    "count": 937860
    },
    {
     "code": "ES",
-    "count": 697874
+    "count": 730090
    },
    {
     "code": "NO",
-    "count": 667675
+    "count": 679708
    },
    {
     "code": "DE",
-    "count": 572145
+    "count": 599010
    },
    {
     "code": "DK",
-    "count": 363253
+    "count": 368656
    },
    {
     "code": "FI",
-    "count": 256163
+    "count": 289243
    },
    {
     "code": "BE",
-    "count": 228272
+    "count": 237082
    },
    {
     "code": "IT",
-    "count": 142463
+    "count": 163170
    },
    {
-    "code": "PT",
-    "count": 116090
+    "code": "RU",
+    "count": 118194
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

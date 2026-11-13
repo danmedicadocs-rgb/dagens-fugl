@@ -2,7 +2,7 @@
  "key": "diomedea-exulans",
  "name": "Diomedea exulans",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:39:49.747Z",
+ "fetchedAt": "2026-11-13T11:41:18.499Z",
  "names": {
   "da": "Vandrealbatros",
   "en": "Wandering Albatross",
@@ -19,21 +19,21 @@
  },
  "inat": {
   "id": 4117,
-  "observations": 1247
+  "observations": 1275
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
    {
-    "id": 628179975,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/large.jpg",
-    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/344746401",
-    "place": "Grande Terre, TF",
-    "date": "2024-09-03"
+    "id": 276622166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/160089618",
+    "place": "Isla Prión, SIQQ 1ZZ, Islas Georgias del Sur y Sandwich del Sur",
+    "date": "2017-11-01"
    },
    {
     "id": 628162060,
@@ -46,14 +46,14 @@
     "date": "2023-11-06"
    },
    {
-    "id": 276622166,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/160089618",
-    "place": "Isla Prión, SIQQ 1ZZ, Islas Georgias del Sur y Sandwich del Sur",
-    "date": "2017-11-01"
+    "id": 628179975,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/large.jpg",
+    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/344746401",
+    "place": "Grande Terre, TF",
+    "date": "2024-09-03"
    }
   ],
   "adult": [
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 229775488,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/large.jpg",
-   "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/134771621",
-   "place": "Bay of Isles, South Georgia and the South Sandwich Islands",
-   "date": "2020-03-03"
+   "id": 455287454,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455287454/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455287454/large.jpeg",
+   "attribution": "(c) eloise kerroux, some rights reserved (CC BY), uploaded by eloise kerroux",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/455287454",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    0,
    0
   ],
-  "worldTotal": 173719,
+  "worldTotal": 172034,
   "topCountries": [
    {
     "code": "AU",
-    "count": 22368
+    "count": 21138
    },
    {
     "code": "AQ",
-    "count": 15357
+    "count": 15164
    },
    {
     "code": "GS",
-    "count": 10465
+    "count": 10101
    },
    {
     "code": "ZA",
-    "count": 9292
+    "count": 9155
    },
    {
     "code": "NZ",
-    "count": 8388
+    "count": 8204
    },
    {
     "code": "TF",
-    "count": 8184
+    "count": 8166
    },
    {
     "code": "CL",
-    "count": 5842
+    "count": 5493
    },
    {
     "code": "FK",
-    "count": 3187
+    "count": 3105
    },
    {
     "code": "HM",
-    "count": 2346
+    "count": 2347
    },
    {
     "code": "AR",
-    "count": 2323
+    "count": 2288
    },
    {
     "code": "ZZ",
-    "count": 1242
+    "count": 2126
    },
    {
     "code": "BR",
-    "count": 450
+    "count": 453
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

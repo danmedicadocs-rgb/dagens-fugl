@@ -2,7 +2,7 @@
  "key": "anthus-campestris",
  "name": "Anthus campestris",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:22:56.520Z",
+ "fetchedAt": "2026-11-13T11:26:14.621Z",
  "names": {
   "da": "Markpiber",
   "en": "Tawny Pipit",
@@ -19,10 +19,21 @@
  },
  "inat": {
   "id": 13712,
-  "observations": 5647
+  "observations": 5695
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 577284023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577284023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577284023/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/319360524",
+    "place": "64H8+57V Mahadev Hills, Kachore Gaon, Dombivli, Maharashtra 421201, India",
+    "date": "2025-10-06"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
@@ -56,38 +67,6 @@
     "date": "2021-06-16"
    }
   ],
-  "adult": [
-   {
-    "id": 613362993,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613362993/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613362993/large.jpg",
-    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/337409461",
-    "place": "W9VM+VXG, Kattampally, Kerala 670011, India",
-    "date": "2025-10-18"
-   },
-   {
-    "id": 403217698,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403217698/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403217698/large.jpg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/227299756",
-    "place": "Algeria",
-    "date": "2024-05-21"
-   },
-   {
-    "id": 583155329,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583155329/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583155329/large.jpg",
-    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/322364205",
-    "place": "Madayipara",
-    "date": "2025-10-05"
-   }
-  ],
   "hero": {
    "id": 650037342,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/650037342/medium.jpg",
@@ -116,57 +95,58 @@
    0,
    0
   ],
-  "worldTotal": 198442,
+  "worldTotal": 191889,
   "topCountries": [
    {
     "code": "FR",
-    "count": 46026
+    "count": 46492
    },
    {
     "code": "ES",
-    "count": 33671
+    "count": 32765
    },
    {
     "code": "IN",
-    "count": 24067
+    "count": 19124
    },
    {
     "code": "SE",
-    "count": 13768
+    "count": 13780
    },
    {
     "code": "AE",
-    "count": 9216
+    "count": 9182
    },
    {
     "code": "PT",
-    "count": 7845
+    "count": 7031
    },
    {
     "code": "IL",
-    "count": 7698
-   },
-   {
-    "code": "TR",
-    "count": 6101
+    "count": 6825
    },
    {
     "code": "NL",
-    "count": 5553
+    "count": 5654
+   },
+   {
+    "code": "TR",
+    "count": 5533
    },
    {
     "code": "GR",
-    "count": 3743
+    "count": 3698
    },
    {
     "code": "BE",
-    "count": 3040
+    "count": 3081
    },
    {
     "code": "UA",
-    "count": 2795
+    "count": 2931
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

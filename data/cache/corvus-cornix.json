@@ -2,7 +2,7 @@
  "key": "corvus-cornix",
  "name": "Corvus cornix",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:15:34.121Z",
+ "fetchedAt": "2026-11-13T11:19:53.864Z",
  "names": {
   "da": "Gråkrage",
   "en": "Hooded Crow",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144757,
-  "observations": 149520
+  "observations": 151922
  },
  "photos": {
   "male": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2482515,
-  "dkTotal": 640507,
+  "dkTotal": 648763,
   "dkMonths": [
-   68933,
-   59302,
-   77111,
-   72606,
-   63428,
-   44610,
-   37851,
-   38021,
-   40493,
-   50192,
-   43820,
-   43767
+   69197,
+   59638,
+   77482,
+   73068,
+   63991,
+   45148,
+   38314,
+   38379,
+   40978,
+   53393,
+   44657,
+   44147
   ],
-  "worldTotal": 4287859,
+  "worldTotal": 4498529,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1177496
+    "count": 1193353
    },
    {
     "code": "NO",
-    "count": 794567
+    "count": 804014
    },
    {
     "code": "DK",
-    "count": 640507
+    "count": 648763
    },
    {
     "code": "FI",
-    "count": 223642
+    "count": 253290
    },
    {
     "code": "IT",
-    "count": 189414
+    "count": 215712
    },
    {
     "code": "RU",
-    "count": 187773
+    "count": 195440
    },
    {
     "code": "IL",
-    "count": 123079
+    "count": 140128
    },
    {
     "code": "DE",
-    "count": 112585
-   },
-   {
-    "code": "TR",
-    "count": 87154
+    "count": 123054
    },
    {
     "code": "IE",
-    "count": 80191
+    "count": 88855
+   },
+   {
+    "code": "TR",
+    "count": 86740
    },
    {
     "code": "PL",
-    "count": 62599
+    "count": 86062
    },
    {
     "code": "GB",
-    "count": 55945
+    "count": 64792
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

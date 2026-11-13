@@ -2,7 +2,7 @@
  "key": "anser-serrirostris",
  "name": "Anser serrirostris",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:54:54.354Z",
+ "fetchedAt": "2026-11-13T11:02:44.138Z",
  "names": {
   "da": "Tundrasædgås",
   "en": "Tundra bean goose",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144423,
-  "observations": 6343
+  "observations": 6628
  },
  "photos": {
   "male": [],
@@ -81,7 +81,7 @@
     "id": 613657678,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613657678/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613657678/large.jpg",
-    "attribution": "(c) killerrexy1, some rights reserved (CC BY)",
+    "attribution": "(c) liam0066, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/337567778",
     "place": "Gloucestershire, UK",
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 7340170,
-  "dkTotal": 10450,
+  "dkTotal": 10517,
   "dkMonths": [
-   2574,
-   1781,
-   1244,
-   535,
+   2579,
+   1784,
+   1241,
+   538,
    55,
    6,
    34,
    41,
-   140,
-   1216,
-   1248,
-   1576
+   137,
+   1259,
+   1265,
+   1578
   ],
-  "worldTotal": 159764,
+  "worldTotal": 168443,
   "topCountries": [
    {
     "code": "NL",
-    "count": 32528
+    "count": 33016
    },
    {
     "code": "SE",
-    "count": 25988
+    "count": 26441
    },
    {
     "code": "DE",
-    "count": 16754
+    "count": 17969
    },
    {
     "code": "BE",
-    "count": 15434
-   },
-   {
-    "code": "DK",
-    "count": 10450
+    "count": 15016
    },
    {
     "code": "PL",
-    "count": 9914
+    "count": 12876
+   },
+   {
+    "code": "DK",
+    "count": 10517
    },
    {
     "code": "NO",
-    "count": 8803
+    "count": 8729
    },
    {
     "code": "KR",
-    "count": 6745
+    "count": 8231
    },
    {
     "code": "GB",
-    "count": 3971
-   },
-   {
-    "code": "US",
-    "count": 3809
-   },
-   {
-    "code": "EE",
-    "count": 3605
+    "count": 4716
    },
    {
     "code": "CN",
-    "count": 3441
+    "count": 4368
+   },
+   {
+    "code": "FI",
+    "count": 3911
+   },
+   {
+    "code": "US",
+    "count": 3678
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

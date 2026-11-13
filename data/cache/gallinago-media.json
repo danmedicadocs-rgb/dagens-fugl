@@ -2,7 +2,7 @@
  "key": "gallinago-media",
  "name": "Gallinago media",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:06:27.466Z",
+ "fetchedAt": "2026-11-13T11:12:24.634Z",
  "names": {
   "da": "Tredækker",
   "en": "Great Snipe",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3919,
-  "observations": 808
+  "observations": 812
  },
  "photos": {
   "male": [],
@@ -60,72 +60,73 @@
  },
  "gbif": {
   "key": 2481831,
-  "dkTotal": 1588,
+  "dkTotal": 1586,
   "dkMonths": [
    0,
    0,
    0,
    18,
-   621,
+   620,
    17,
    9,
    553,
-   281,
+   280,
    45,
    4,
    1
   ],
-  "worldTotal": 40143,
+  "worldTotal": 40640,
   "topCountries": [
    {
     "code": "SE",
-    "count": 25007
+    "count": 25052
    },
    {
     "code": "NO",
-    "count": 3948
+    "count": 3977
    },
    {
     "code": "DK",
-    "count": 1588
-   },
-   {
-    "code": "RU",
-    "count": 1204
+    "count": 1586
    },
    {
     "code": "NL",
-    "count": 1177
+    "count": 1313
+   },
+   {
+    "code": "RU",
+    "count": 1143
    },
    {
     "code": "EE",
-    "count": 1052
+    "count": 1091
    },
    {
     "code": "FI",
-    "count": 827
+    "count": 1091
    },
    {
     "code": "FR",
-    "count": 547
+    "count": 549
    },
    {
     "code": "UA",
-    "count": 398
-   },
-   {
-    "code": "TR",
-    "count": 375
+    "count": 399
    },
    {
     "code": "PL",
-    "count": 354
+    "count": 396
    },
    {
     "code": "BE",
-    "count": 344
+    "count": 345
+   },
+   {
+    "code": "GR",
+    "count": 308
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

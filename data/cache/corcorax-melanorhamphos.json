@@ -2,7 +2,7 @@
  "key": "corcorax-melanorhamphos",
  "name": "Corcorax melanorhamphos",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:40:32.441Z",
+ "fetchedAt": "2026-11-13T11:41:50.197Z",
  "names": {
   "da": "Hvidvinget Fløjteskade",
   "en": "White-winged chough",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8658,
-  "observations": 6416
+  "observations": 6559
  },
  "photos": {
   "male": [],
@@ -48,6 +48,16 @@
     "date": "2019-07-11"
    },
    {
+    "id": 570893121,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/570893121/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/570893121/large.jpg",
+    "attribution": "(c) Vicki Archer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/315994246",
+    "place": "Khancoban NSW 2642, Australia",
+    "date": "2025-09-23"
+   },
+   {
     "id": 442134684,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442134684/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442134684/large.jpg",
@@ -56,27 +66,17 @@
     "source": "https://www.inaturalist.org/observations/247543171",
     "place": "Canberra Central, ACT, Australia",
     "date": "2024-10-15"
-   },
-   {
-    "id": 664886690,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664886690/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664886690/large.jpg",
-    "attribution": "(c) James K. Douch, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/364211495",
-    "place": "Armidale Dumaresq Bal, AU-NS, AU",
-    "date": "2026-05-20"
    }
   ],
   "hero": {
-   "id": 127957758,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/large.jpg",
-   "attribution": "(c) Third Silence, some rights reserved (CC BY-SA)",
+   "id": 21036,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21036/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21036/large.jpg",
+   "attribution": "(c) Lip Kee Yap, some rights reserved (CC BY-SA)",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/78205833",
-   "place": "Australia",
-   "date": "2019-07-11"
+   "source": "https://www.inaturalist.org/photos/21036",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -96,11 +96,15 @@
    0,
    0
   ],
-  "worldTotal": 297460,
+  "worldTotal": 299812,
   "topCountries": [
    {
     "code": "AU",
-    "count": 297398
+    "count": 299749
+   },
+   {
+    "code": "FI",
+    "count": 1
    },
    {
     "code": "ZZ",
@@ -108,5 +112,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

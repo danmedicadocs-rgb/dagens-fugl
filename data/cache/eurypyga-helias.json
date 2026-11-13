@@ -2,7 +2,7 @@
  "key": "eurypyga-helias",
  "name": "Eurypyga helias",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:49:23.245Z",
+ "fetchedAt": "2026-11-13T11:48:43.934Z",
  "names": {
   "da": "Solrikse",
   "en": "Sunbittern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19,
-  "observations": 2528
+  "observations": 2570
  },
  "photos": {
   "male": [],
@@ -69,14 +69,14 @@
    }
   ],
   "hero": {
-   "id": 468741127,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/large.jpg",
-   "attribution": "(c) Dan Vickers, some rights reserved (CC BY)",
+   "id": 468741304,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741304/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741304/large.jpg",
+   "attribution": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/260961654",
-   "place": "6826G4X2+WR",
-   "date": "2019-09-04"
+   "source": "https://www.inaturalist.org/photos/468741304",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -96,51 +96,51 @@
    0,
    0
   ],
-  "worldTotal": 49052,
+  "worldTotal": 39041,
   "topCountries": [
    {
     "code": "CR",
-    "count": 12052
+    "count": 9800
    },
    {
     "code": "BR",
-    "count": 11853
+    "count": 8481
    },
    {
     "code": "CO",
-    "count": 9121
+    "count": 6902
    },
    {
     "code": "PE",
-    "count": 6050
+    "count": 5410
    },
    {
     "code": "EC",
-    "count": 3925
+    "count": 3371
    },
    {
     "code": "VE",
-    "count": 1819
+    "count": 1540
    },
    {
     "code": "PA",
-    "count": 1681
+    "count": 1393
    },
    {
     "code": "BO",
-    "count": 1192
+    "count": 1053
    },
    {
     "code": "GY",
-    "count": 730
+    "count": 512
    },
    {
     "code": "HN",
-    "count": 171
+    "count": 134
    },
    {
     "code": "SR",
-    "count": 116
+    "count": 122
    },
    {
     "code": "GF",
@@ -148,5 +148,6 @@
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

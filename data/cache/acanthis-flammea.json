@@ -2,7 +2,7 @@
  "key": "acanthis-flammea",
  "name": "Acanthis flammea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:24:24.784Z",
+ "fetchedAt": "2026-11-13T11:27:29.059Z",
  "names": {
   "da": "Gråsisken",
   "en": "Redpoll",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 145300,
-  "observations": 46362
+  "observations": 46945
  },
  "photos": {
   "male": [
@@ -76,14 +76,14 @@
     "date": "2024-01-04"
    },
    {
-    "id": 605637750,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605637750/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605637750/large.jpg",
-    "attribution": "(c) Вячеслав Шуплецов, some rights reserved (CC BY)",
+    "id": 30166285,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30166285/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30166285/large.jpeg",
+    "attribution": "(c) Михаил Малышев, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/333577665",
-    "place": "Первомайский р-н, Киров, Кировская обл., Россия",
-    "date": "2026-01-05"
+    "source": "https://www.inaturalist.org/observations/19595320",
+    "place": "Ленинский р-н, Владимир, Владимирская обл., Россия",
+    "date": "2019-01-06"
    }
   ],
   "juvenile": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 112107662,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112107662/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112107662/large.jpg",
-   "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
+   "id": 446599304,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/446599304/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/446599304/large.jpg",
+   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/69131230",
-   "place": "г. Каменск-Уральский, Свердловская обл., Россия",
-   "date": "2021-01-31"
+   "source": "https://www.inaturalist.org/photos/446599304",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5231630,
-  "dkTotal": 123529,
+  "dkTotal": 124626,
   "dkMonths": [
-   11153,
-   8224,
-   12504,
-   17144,
-   13885,
-   7354,
-   6380,
-   3013,
-   4482,
-   14976,
-   14603,
-   9754
+   11145,
+   8229,
+   12508,
+   17161,
+   13896,
+   7361,
+   6386,
+   3048,
+   4504,
+   15752,
+   14827,
+   9752
   ],
-  "worldTotal": 3321973,
+  "worldTotal": 3272568,
   "topCountries": [
    {
     "code": "SE",
-    "count": 887040
+    "count": 892009
    },
    {
     "code": "FI",
-    "count": 584508
+    "count": 597788
    },
    {
     "code": "CA",
-    "count": 548923
+    "count": 504743
    },
    {
     "code": "US",
-    "count": 437467
+    "count": 395386
    },
    {
     "code": "NO",
-    "count": 303694
-   },
-   {
-    "code": "DK",
-    "count": 123529
+    "count": 307921
    },
    {
     "code": "GB",
-    "count": 118633
+    "count": 131446
+   },
+   {
+    "code": "DK",
+    "count": 124626
    },
    {
     "code": "NZ",
-    "count": 63494
+    "count": 57466
    },
    {
     "code": "AX",
-    "count": 41736
+    "count": 41998
    },
    {
     "code": "NL",
-    "count": 37913
-   },
-   {
-    "code": "RU",
-    "count": 35616
+    "count": 38327
    },
    {
     "code": "IS",
-    "count": 34789
+    "count": 36832
+   },
+   {
+    "code": "RU",
+    "count": 35718
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

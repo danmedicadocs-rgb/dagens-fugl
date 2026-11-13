@@ -2,7 +2,7 @@
  "key": "fringilla-montifringilla",
  "name": "Fringilla montifringilla",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:43.326Z",
+ "fetchedAt": "2026-11-13T11:26:52.753Z",
  "names": {
   "da": "Kvækerfinke",
   "en": "Brambling",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10069,
-  "observations": 28586
+  "observations": 29040
  },
  "photos": {
   "male": [
@@ -66,24 +66,24 @@
     "date": "2024-02-06"
    },
    {
-    "id": 632621319,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/632621319/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/632621319/large.jpg",
-    "attribution": "(c) Alexander Pohle, some rights reserved (CC BY)",
+    "id": 461696616,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/461696616/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/461696616/large.jpeg",
+    "attribution": "(c) Philip Schaffer, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/347001359",
-    "place": "34, 8184 Anger, Österreich",
-    "date": "2026-04-03"
+    "source": "https://www.inaturalist.org/observations/257381513",
+    "place": "Lobau, Wien, Österreich",
+    "date": "2025-01-04"
    },
    {
-    "id": 614541242,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614541242/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614541242/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/337989995",
-    "place": "Cabinteely Park",
-    "date": "2010-12-28"
+    "id": 454894856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454894856/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454894856/large.jpeg",
+    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/254010179",
+    "place": "66424 Homburg, Germany",
+    "date": "2024-12-03"
    }
   ],
   "juvenile": [
@@ -109,84 +109,85 @@
    }
   ],
   "hero": {
-   "id": 463533305,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463533305/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463533305/large.jpeg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/258366166",
-   "place": "4292 Dobri dol, Bulgaria",
-   "date": "2025-01-13"
+   "id": 6096063,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6096063/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6096063/large.jpeg",
+   "attribution": "no rights reserved, uploaded by Francesco Cecere",
+   "license": "cc0",
+   "source": "https://www.inaturalist.org/photos/6096063",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494441,
-  "dkTotal": 119243,
+  "dkTotal": 120364,
   "dkMonths": [
-   19159,
-   15321,
-   16191,
-   15265,
-   2925,
-   393,
+   19228,
+   15404,
+   16241,
+   15236,
+   2897,
+   390,
    20,
-   105,
-   7154,
-   21090,
-   10856,
-   10723
+   106,
+   7172,
+   21859,
+   11031,
+   10739
   ],
-  "worldTotal": 1774165,
+  "worldTotal": 1811403,
   "topCountries": [
    {
     "code": "SE",
-    "count": 584416
+    "count": 587276
    },
    {
     "code": "NO",
-    "count": 254793
+    "count": 258110
    },
    {
     "code": "FI",
-    "count": 191143
+    "count": 201339
    },
    {
     "code": "FR",
-    "count": 142247
+    "count": 143886
    },
    {
     "code": "DK",
-    "count": 119243
+    "count": 120364
    },
    {
     "code": "NL",
-    "count": 102201
+    "count": 104187
    },
    {
     "code": "DE",
-    "count": 65684
+    "count": 68524
    },
    {
     "code": "GB",
-    "count": 55985
+    "count": 59693
    },
    {
     "code": "BE",
-    "count": 53739
+    "count": 55423
+   },
+   {
+    "code": "CN",
+    "count": 21196
    },
    {
     "code": "ES",
-    "count": 21534
+    "count": 21175
    },
    {
     "code": "RU",
-    "count": 19032
-   },
-   {
-    "code": "AX",
-    "count": 18907
+    "count": 19532
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

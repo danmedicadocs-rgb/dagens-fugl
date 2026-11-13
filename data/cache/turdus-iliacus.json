@@ -2,7 +2,7 @@
  "key": "turdus-iliacus",
  "name": "Turdus iliacus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:20:39.859Z",
+ "fetchedAt": "2026-11-13T11:24:14.890Z",
  "names": {
   "da": "Vindrossel",
   "en": "Redwing",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12749,
-  "observations": 29409
+  "observations": 29831
  },
  "photos": {
   "male": [
@@ -88,16 +88,6 @@
     "date": "2018-05-31"
    },
    {
-    "id": 23312375,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23312375/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23312375/large.jpeg",
-    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/15591057",
-    "place": "Stöðvarfjörður, Iceland",
-    "date": "2018-08-12"
-   },
-   {
     "id": 153304118,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153304118/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153304118/large.jpeg",
@@ -106,6 +96,16 @@
     "source": "https://www.inaturalist.org/observations/92575640",
     "place": "Priozerskiy rayon, RU-LN, RU",
     "date": "2021-08-26"
+   },
+   {
+    "id": 23312375,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23312375/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23312375/large.jpeg",
+    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/15591057",
+    "place": "Stöðvarfjörður, Iceland",
+    "date": "2018-08-12"
    }
   ],
   "hero": {
@@ -121,72 +121,73 @@
  },
  "gbif": {
   "key": 2490781,
-  "dkTotal": 127281,
+  "dkTotal": 129536,
   "dkMonths": [
-   15861,
-   7013,
-   12620,
-   17794,
-   1421,
-   158,
+   15917,
+   7060,
+   12643,
+   17800,
+   1400,
+   157,
    10,
    12,
-   2017,
-   35636,
-   21229,
-   13499
+   2023,
+   37348,
+   21589,
+   13566
   ],
-  "worldTotal": 2167333,
+  "worldTotal": 2262134,
   "topCountries": [
    {
     "code": "SE",
-    "count": 488518
+    "count": 493704
    },
    {
     "code": "NO",
-    "count": 333347
-   },
-   {
-    "code": "FI",
-    "count": 311412
+    "count": 338832
    },
    {
     "code": "GB",
-    "count": 302709
+    "count": 338152
+   },
+   {
+    "code": "FI",
+    "count": 337356
    },
    {
     "code": "NL",
-    "count": 170659
+    "count": 177325
    },
    {
     "code": "DK",
-    "count": 127281
+    "count": 129536
    },
    {
     "code": "FR",
-    "count": 106460
+    "count": 108947
    },
    {
     "code": "IS",
-    "count": 71130
+    "count": 72951
    },
    {
     "code": "BE",
-    "count": 64375
+    "count": 66185
    },
    {
     "code": "DE",
-    "count": 39117
+    "count": 43023
    },
    {
     "code": "ES",
-    "count": 35321
+    "count": 34677
    },
    {
     "code": "RU",
-    "count": 25979
+    "count": 26342
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

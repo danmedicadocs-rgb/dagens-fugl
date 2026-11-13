@@ -2,7 +2,7 @@
  "key": "asio-flammeus",
  "name": "Asio flammeus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:12:51.957Z",
+ "fetchedAt": "2026-11-13T11:17:46.932Z",
  "names": {
   "da": "Mosehornugle",
   "en": "Short-eared Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20315,
-  "observations": 18227
+  "observations": 18505
  },
  "photos": {
   "male": [
@@ -121,72 +121,73 @@
  },
  "gbif": {
   "key": 2497295,
-  "dkTotal": 27447,
+  "dkTotal": 27639,
   "dkMonths": [
    2227,
-   2804,
-   3440,
-   5227,
-   4608,
-   882,
-   378,
-   179,
+   2807,
+   3447,
+   5237,
+   4601,
    883,
-   3893,
-   1654,
-   1161
+   379,
+   183,
+   882,
+   4016,
+   1699,
+   1167
   ],
-  "worldTotal": 526707,
+  "worldTotal": 508496,
   "topCountries": [
    {
     "code": "US",
-    "count": 185180
+    "count": 165720
    },
    {
     "code": "SE",
-    "count": 68939
-   },
-   {
-    "code": "CA",
-    "count": 43245
+    "count": 69216
    },
    {
     "code": "GB",
-    "count": 41105
+    "count": 44228
+   },
+   {
+    "code": "CA",
+    "count": 40317
    },
    {
     "code": "NL",
-    "count": 31107
+    "count": 32620
    },
    {
     "code": "DK",
-    "count": 27447
+    "count": 27639
    },
    {
     "code": "NO",
-    "count": 22049
+    "count": 21943
    },
    {
     "code": "BE",
-    "count": 19266
+    "count": 19537
    },
    {
     "code": "FI",
-    "count": 13870
+    "count": 16489
    },
    {
     "code": "FR",
-    "count": 11949
+    "count": 12122
    },
    {
     "code": "ES",
-    "count": 8740
+    "count": 8279
    },
    {
     "code": "RU",
-    "count": 6055
+    "count": 5953
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

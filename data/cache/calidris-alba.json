@@ -2,7 +2,7 @@
  "key": "calidris-alba",
  "name": "Calidris alba",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:05:21.484Z",
+ "fetchedAt": "2026-11-13T11:11:30.154Z",
  "names": {
   "da": "Sandløber",
   "en": "Sanderling",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3849,
-  "observations": 87683
+  "observations": 89051
  },
  "photos": {
   "male": [],
@@ -46,14 +46,14 @@
     "date": "2018-08-21"
    },
    {
-    "id": 434978828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434978828/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434978828/large.jpg",
-    "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+    "id": 73860838,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73860838/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73860838/large.jpg",
+    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/243902253",
-    "place": "Klaeng, Rayong, Thailand",
-    "date": "2024-09-22"
+    "source": "https://www.inaturalist.org/observations/46568428",
+    "place": "Ocean City Boardwalk, MD 21842, USA",
+    "date": "2018-04-08"
    }
   ],
   "adult": [
@@ -68,16 +68,6 @@
     "date": "2019-04-30"
    },
    {
-    "id": 147766728,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/large.jpeg",
-    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89477944",
-    "place": "Québec, Canada",
-    "date": "2021-07-19"
-   },
-   {
     "id": 664249204,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664249204/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664249204/large.jpg",
@@ -86,6 +76,16 @@
     "source": "https://www.inaturalist.org/observations/363874277",
     "place": "Pas-de-Calais, Nord-Pas-de-Calais, FR",
     "date": "2026-05-06"
+   },
+   {
+    "id": 147766728,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/large.jpeg",
+    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/89477944",
+    "place": "Québec, Canada",
+    "date": "2021-07-19"
    }
   ],
   "hero": {
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 2481748,
-  "dkTotal": 74081,
+  "dkTotal": 74655,
   "dkMonths": [
-   4607,
-   4024,
-   4095,
-   3705,
-   5694,
-   1072,
-   6889,
-   14977,
-   12355,
-   8701,
-   4718,
-   3229
+   4609,
+   4035,
+   4092,
+   3706,
+   5703,
+   1080,
+   6898,
+   15015,
+   12420,
+   9048,
+   4784,
+   3250
   ],
-  "worldTotal": 2145490,
+  "worldTotal": 1937669,
   "topCountries": [
    {
     "code": "US",
-    "count": 1290221
+    "count": 1120169
    },
    {
     "code": "CA",
-    "count": 136301
-   },
-   {
-    "code": "DK",
-    "count": 74081
+    "count": 118876
    },
    {
     "code": "GB",
-    "count": 69942
+    "count": 78583
+   },
+   {
+    "code": "DK",
+    "count": 74655
    },
    {
     "code": "ES",
-    "count": 69310
-   },
-   {
-    "code": "SE",
-    "count": 60876
+    "count": 67694
    },
    {
     "code": "NL",
-    "count": 59908
+    "count": 65425
+   },
+   {
+    "code": "SE",
+    "count": 61036
    },
    {
     "code": "PT",
-    "count": 50918
+    "count": 48048
    },
    {
     "code": "FR",
-    "count": 34093
-   },
-   {
-    "code": "MX",
-    "count": 29658
+    "count": 35545
    },
    {
     "code": "NO",
-    "count": 27612
+    "count": 27690
+   },
+   {
+    "code": "MX",
+    "count": 23607
    },
    {
     "code": "AU",
-    "count": 17527
+    "count": 17127
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

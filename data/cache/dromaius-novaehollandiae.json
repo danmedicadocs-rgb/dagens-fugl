@@ -2,7 +2,7 @@
  "key": "dromaius-novaehollandiae",
  "name": "Dromaius novaehollandiae",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:37:18.379Z",
+ "fetchedAt": "2026-11-13T11:38:59.802Z",
  "names": {
   "da": "Emu",
   "en": "Emu",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20504,
-  "observations": 13347
+  "observations": 13676
  },
  "photos": {
   "male": [
@@ -27,7 +27,7 @@
     "id": 587229233,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/large.jpg",
-    "attribution": "(c) SatNavSaysStraightOn, some rights reserved (CC BY)",
+    "attribution": "(c) SNSSO, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/324443387",
     "place": "Goulburn Mulwaree Bal, AU-NS, AU",
@@ -39,7 +39,7 @@
     "id": 587229232,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229232/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229232/large.jpg",
-    "attribution": "(c) SatNavSaysStraightOn, some rights reserved (CC BY)",
+    "attribution": "(c) SNSSO, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/324443378",
     "place": "Goulburn Mulwaree Bal, AU-NS, AU",
@@ -79,14 +79,14 @@
    }
   ],
   "hero": {
-   "id": 587229233,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/large.jpg",
-   "attribution": "(c) SatNavSaysStraightOn, some rights reserved (CC BY)",
+   "id": 187562031,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562031/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562031/large.jpg",
+   "attribution": "(c) patrickkavanagh, some rights reserved (CC BY)",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/324443387",
-   "place": "Goulburn Mulwaree Bal, AU-NS, AU",
-   "date": "2025-11-01"
+   "source": "https://www.inaturalist.org/photos/187562031",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -106,19 +106,19 @@
    0,
    0
   ],
-  "worldTotal": 168734,
+  "worldTotal": 168445,
   "topCountries": [
    {
     "code": "AU",
-    "count": 167259
+    "count": 166999
    },
    {
     "code": "NZ",
-    "count": 207
+    "count": 171
    },
    {
     "code": "US",
-    "count": 164
+    "count": 166
    },
    {
     "code": "ZZ",
@@ -137,12 +137,8 @@
     "count": 31
    },
    {
-    "code": "IN",
-    "count": 18
-   },
-   {
     "code": "ZA",
-    "count": 16
+    "count": 20
    },
    {
     "code": "AE",
@@ -153,10 +149,15 @@
     "count": 15
    },
    {
+    "code": "BE",
+    "count": 12
+   },
+   {
     "code": "BR",
     "count": 12
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

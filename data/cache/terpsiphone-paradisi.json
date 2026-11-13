@@ -2,7 +2,7 @@
  "key": "terpsiphone-paradisi",
  "name": "Terpsiphone paradisi",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:34:51.560Z",
+ "fetchedAt": "2026-11-13T11:36:49.256Z",
  "names": {
   "da": "Asiatisk Paradismonark",
   "en": "Indian paradise flycatcher",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 48478,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48478/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48478/large.jpg",
+   "attribution": "(c) Steve Garvie, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/48478",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2486687,
@@ -46,57 +55,58 @@
    0,
    0
   ],
-  "worldTotal": 230398,
+  "worldTotal": 196881,
   "topCountries": [
    {
     "code": "IN",
-    "count": 185707
+    "count": 152505
    },
    {
     "code": "LK",
-    "count": 16433
+    "count": 16885
    },
    {
     "code": "TH",
-    "count": 7915
+    "count": 7056
    },
    {
     "code": "MY",
-    "count": 6361
-   },
-   {
-    "code": "SG",
-    "count": 2643
+    "count": 5963
    },
    {
     "code": "CN",
-    "count": 2347
+    "count": 2887
+   },
+   {
+    "code": "SG",
+    "count": 2881
    },
    {
     "code": "NP",
-    "count": 1627
+    "count": 1804
    },
    {
     "code": "KH",
-    "count": 1064
+    "count": 926
    },
    {
     "code": "ID",
-    "count": 938
-   },
-   {
-    "code": "TW",
-    "count": 917
+    "count": 911
    },
    {
     "code": "HK",
-    "count": 841
+    "count": 860
    },
    {
     "code": "VN",
-    "count": 795
+    "count": 785
+   },
+   {
+    "code": "TW",
+    "count": 720
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

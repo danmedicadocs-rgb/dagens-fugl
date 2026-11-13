@@ -2,7 +2,7 @@
  "key": "dendrocitta-vagabunda",
  "name": "Dendrocitta vagabunda",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:35:50.123Z",
+ "fetchedAt": "2026-11-13T11:37:41.677Z",
  "names": {
   "da": "Træskade",
   "en": "Rufous Treepie",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8305,
-  "observations": 6068
+  "observations": 6217
  },
  "photos": {
   "male": [
@@ -47,14 +47,14 @@
   "female": [],
   "juvenile": [],
   "hero": {
-   "id": 29900778,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29900778/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29900778/large.jpg",
-   "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/19436261",
-   "place": "Bazaricherra, Karimganj, Assam 788727, India",
-   "date": "2018-10-15"
+   "id": 52189,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52189/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52189/large.jpg",
+   "attribution": "(c) Manjith Kainickara, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/52189",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -74,57 +74,58 @@
    0,
    0
   ],
-  "worldTotal": 606892,
+  "worldTotal": 538271,
   "topCountries": [
    {
     "code": "IN",
-    "count": 577601
+    "count": 509196
    },
    {
     "code": "NP",
-    "count": 11353
+    "count": 12278
    },
    {
     "code": "BD",
-    "count": 5770
+    "count": 5773
    },
    {
     "code": "TH",
-    "count": 5323
+    "count": 4947
    },
    {
     "code": "PK",
-    "count": 2868
+    "count": 2657
    },
    {
     "code": "KH",
-    "count": 2073
+    "count": 1593
    },
    {
     "code": "MM",
-    "count": 801
+    "count": 850
    },
    {
     "code": "BT",
-    "count": 640
+    "count": 551
    },
    {
     "code": "VN",
-    "count": 306
+    "count": 263
    },
    {
     "code": "LA",
     "count": 25
    },
    {
-    "code": "ZZ",
+    "code": "CN",
     "count": 10
    },
    {
-    "code": "SG",
-    "count": 9
+    "code": "ZZ",
+    "count": 10
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

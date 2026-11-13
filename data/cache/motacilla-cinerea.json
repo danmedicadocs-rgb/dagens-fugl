@@ -2,7 +2,7 @@
  "key": "motacilla-cinerea",
  "name": "Motacilla cinerea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:23:28.544Z",
+ "fetchedAt": "2026-11-13T11:26:39.510Z",
  "names": {
   "da": "Bjergvipstjert",
   "en": "Grey Wagtail",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13688,
-  "observations": 53676
+  "observations": 54563
  },
  "photos": {
   "male": [
@@ -34,14 +34,14 @@
     "date": "2022-04-14"
    },
    {
-    "id": 407454466,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407454466/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407454466/large.jpeg",
-    "attribution": "(c) Julia Kondratowicz, some rights reserved (CC BY)",
+    "id": 364374575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364374575/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364374575/large.jpg",
+    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/229538092",
-    "place": "Kudowa-Zdrój",
-    "date": "2024-06-12"
+    "source": "https://www.inaturalist.org/observations/206033306",
+    "place": "Burgos, España",
+    "date": "2024-04-06"
    },
    {
     "id": 138396165,
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 188092531,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188092531/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188092531/large.jpeg",
-   "attribution": "(c) Dave Hernon, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/111422694",
-   "place": "Blaenau Gwent, UK",
-   "date": "2022-04-14"
+   "id": 59571206,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59571206/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59571206/large.jpg",
+   "attribution": "(c) Juan Emilio, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/59571206",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2490310,
-  "dkTotal": 78946,
+  "dkTotal": 79899,
   "dkMonths": [
-   4113,
-   3099,
-   11476,
-   8131,
-   6666,
-   2962,
-   1628,
-   1812,
-   12979,
-   18640,
-   4607,
-   2809
+   4125,
+   3113,
+   11490,
+   8174,
+   6679,
+   2968,
+   1632,
+   1817,
+   13012,
+   19360,
+   4684,
+   2821
   ],
-  "worldTotal": 2114981,
+  "worldTotal": 2138281,
   "topCountries": [
    {
     "code": "GB",
-    "count": 260414
+    "count": 296570
    },
    {
     "code": "SE",
-    "count": 251962
+    "count": 253244
    },
    {
     "code": "ES",
-    "count": 203838
+    "count": 208728
    },
    {
     "code": "FR",
-    "count": 199200
+    "count": 204480
    },
    {
     "code": "IN",
-    "count": 178963
+    "count": 146818
    },
    {
     "code": "TW",
-    "count": 160116
+    "count": 139382
    },
    {
     "code": "PT",
-    "count": 106283
+    "count": 102472
    },
    {
     "code": "NL",
-    "count": 96688
+    "count": 98564
    },
    {
     "code": "NO",
-    "count": 89867
+    "count": 91226
    },
    {
     "code": "DK",
-    "count": 78946
+    "count": 79899
    },
    {
     "code": "BE",
-    "count": 71108
+    "count": 72949
    },
    {
     "code": "DE",
-    "count": 60748
+    "count": 65074
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

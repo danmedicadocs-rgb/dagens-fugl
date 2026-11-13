@@ -2,7 +2,7 @@
  "key": "porphyrio-porphyrio",
  "name": "Porphyrio porphyrio",
  "region": "verden",
- "fetchedAt": "2026-10-21T09:27:18.316Z",
+ "fetchedAt": "2026-11-13T11:30:06.677Z",
  "names": {
   "da": "Sultanhøne",
   "en": "Western Swamphen",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 475028,
-  "observations": 3917
+  "observations": 3957
  },
  "photos": {
   "male": [],
@@ -89,14 +89,14 @@
    }
   ],
   "hero": {
-   "id": 597461751,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/large.jpg",
-   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+   "id": 5693868,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5693868/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5693868/large.jpeg",
+   "attribution": "(c) Carles Pastor, some rights reserved (CC BY-SA), uploaded by Carles Pastor",
    "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/329586128",
-   "place": "Minsmere RSPB",
-   "date": "2016-08-03"
+   "source": "https://www.inaturalist.org/photos/5693868",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,57 +116,58 @@
    2,
    1
   ],
-  "worldTotal": 803221,
+  "worldTotal": 759261,
   "topCountries": [
    {
     "code": "AU",
-    "count": 256686
+    "count": 259797
    },
    {
     "code": "IN",
-    "count": 244215
+    "count": 206883
    },
    {
     "code": "ES",
-    "count": 91608
+    "count": 87766
    },
    {
     "code": "US",
-    "count": 57208
+    "count": 53527
    },
    {
     "code": "ZA",
-    "count": 49863
+    "count": 49351
    },
    {
     "code": "FR",
-    "count": 17256
+    "count": 17552
    },
    {
     "code": "PT",
-    "count": 16312
+    "count": 15288
    },
    {
     "code": "LK",
-    "count": 14058
+    "count": 14150
    },
    {
     "code": "TH",
-    "count": 10732
+    "count": 9618
    },
    {
     "code": "NL",
-    "count": 4957
-   },
-   {
-    "code": "KH",
-    "count": 2354
+    "count": 5070
    },
    {
     "code": "AE",
-    "count": 2349
+    "count": 2525
+   },
+   {
+    "code": "EG",
+    "count": 2348
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

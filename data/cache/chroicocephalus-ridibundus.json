@@ -2,7 +2,7 @@
  "key": "chroicocephalus-ridibundus",
  "name": "Chroicocephalus ridibundus",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:08:54.220Z",
+ "fetchedAt": "2026-11-13T11:14:32.624Z",
  "names": {
   "da": "Hættemåge",
   "en": "Black-headed Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 144510,
-  "observations": 189984
+  "observations": 192314
  },
  "photos": {
   "male": [
@@ -119,84 +119,85 @@
    }
   ],
   "hero": {
-   "id": 255981132,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255981132/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255981132/large.jpeg",
-   "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
+   "id": 372060792,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/372060792/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/372060792/large.jpg",
+   "attribution": "(c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/148627466",
-   "place": "Smíchov, Praha 5, Česko",
-   "date": "2023-02-11"
+   "source": "https://www.inaturalist.org/photos/372060792",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 6065824,
-  "dkTotal": 741066,
+  "dkTotal": 746933,
   "dkMonths": [
-   64092,
-   52088,
-   96588,
-   71810,
-   61605,
-   80757,
-   59666,
-   57806,
-   48414,
-   50093,
-   43165,
-   46405
+   64272,
+   52283,
+   96879,
+   72083,
+   61893,
+   81156,
+   60065,
+   58063,
+   48801,
+   52468,
+   43730,
+   46663
   ],
-  "worldTotal": 6896857,
+  "worldTotal": 7176878,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1131792
+    "count": 1295073
    },
    {
     "code": "SE",
-    "count": 974757
+    "count": 982305
    },
    {
     "code": "NL",
-    "count": 873918
+    "count": 898376
    },
    {
     "code": "DK",
-    "count": 741066
+    "count": 746933
    },
    {
     "code": "FI",
-    "count": 475595
+    "count": 496855
    },
    {
     "code": "FR",
-    "count": 456824
+    "count": 472130
    },
    {
     "code": "ES",
-    "count": 362821
+    "count": 354155
    },
    {
     "code": "NO",
-    "count": 299207
+    "count": 302800
    },
    {
     "code": "BE",
-    "count": 232317
+    "count": 236652
    },
    {
     "code": "DE",
-    "count": 217050
+    "count": 229296
    },
    {
     "code": "PL",
-    "count": 135300
+    "count": 157124
    },
    {
     "code": "PT",
-    "count": 118312
+    "count": 111576
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

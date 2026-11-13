@@ -2,7 +2,7 @@
  "key": "clangula-hyemalis",
  "name": "Clangula hyemalis",
  "region": "dk",
- "fetchedAt": "2026-10-21T08:57:33.983Z",
+ "fetchedAt": "2026-11-13T11:05:03.192Z",
  "names": {
   "da": "Havlit",
   "en": "Long-tailed Duck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7170,
-  "observations": 26510
+  "observations": 26841
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2025-04-16"
    },
    {
-    "id": 716453775,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716453775/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716453775/large.jpg",
-    "attribution": "(c) Johnathan Campbell, some rights reserved (CC BY)",
+    "id": 469432268,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469432268/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469432268/large.jpeg",
+    "attribution": "(c) Elizabeth Green, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/391031096",
-    "place": "Kivalliq Region, NU, Canada",
-    "date": "2020-06-30"
+    "source": "https://www.inaturalist.org/observations/261310266",
+    "place": "Sussex County, DE, USA",
+    "date": "2025-02-10"
    }
   ],
   "female": [
@@ -131,72 +131,73 @@
  },
  "gbif": {
   "key": 2498273,
-  "dkTotal": 59824,
+  "dkTotal": 60057,
   "dkMonths": [
-   10043,
-   8509,
-   9939,
-   9143,
-   1774,
-   147,
-   101,
-   69,
-   321,
-   5504,
-   8369,
-   5879
+   10068,
+   8511,
+   9929,
+   9134,
+   1760,
+   148,
+   102,
+   70,
+   324,
+   5639,
+   8458,
+   5889
   ],
-  "worldTotal": 1593361,
+  "worldTotal": 1498731,
   "topCountries": [
    {
     "code": "US",
-    "count": 650069
+    "count": 580782
    },
    {
     "code": "CA",
-    "count": 338662
+    "count": 302139
    },
    {
     "code": "SE",
-    "count": 192054
+    "count": 193261
    },
    {
     "code": "NO",
-    "count": 141245
+    "count": 142547
    },
    {
     "code": "DK",
-    "count": 59824
-   },
-   {
-    "code": "DE",
-    "count": 31484
-   },
-   {
-    "code": "NL",
-    "count": 31455
-   },
-   {
-    "code": "EE",
-    "count": 29509
+    "count": 60057
    },
    {
     "code": "GB",
-    "count": 29394
+    "count": 32515
+   },
+   {
+    "code": "DE",
+    "count": 32066
+   },
+   {
+    "code": "NL",
+    "count": 31735
+   },
+   {
+    "code": "EE",
+    "count": 30194
    },
    {
     "code": "IS",
-    "count": 24337
+    "count": 24398
    },
    {
     "code": "FI",
-    "count": 16818
+    "count": 19394
    },
    {
-    "code": "RU",
-    "count": 8808
+    "code": "PL",
+    "count": 9568
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

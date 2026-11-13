@@ -2,7 +2,7 @@
  "key": "sterna-paradisaea",
  "name": "Sterna paradisaea",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:10:43.786Z",
+ "fetchedAt": "2026-11-13T11:15:57.719Z",
  "names": {
   "da": "Havterne",
   "en": "Arctic Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4449,
-  "observations": 11996
+  "observations": 12109
  },
  "photos": {
   "male": [],
@@ -78,14 +78,14 @@
     "date": "2024-08-09"
    },
    {
-    "id": 164292729,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164292729/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164292729/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/98658677",
-    "place": "Cemlyn Bay NWWT, Isle of Anglesey, UK",
-    "date": "2021-07-11"
+    "id": 207740184,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207740184/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207740184/large.jpg",
+    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/122682510",
+    "place": "Kökar, Ahvenanmaa",
+    "date": "2022-06-19"
    }
   ],
   "hero": {
@@ -101,72 +101,73 @@
  },
  "gbif": {
   "key": 5229230,
-  "dkTotal": 79616,
+  "dkTotal": 79766,
   "dkMonths": [
    21,
    3,
    50,
-   10728,
-   19468,
-   12986,
-   21327,
-   11165,
-   2828,
-   485,
-   173,
+   10738,
+   19489,
+   13028,
+   21367,
+   11176,
+   2826,
+   507,
+   179,
    8
   ],
-  "worldTotal": 840279,
+  "worldTotal": 802368,
   "topCountries": [
    {
     "code": "SE",
-    "count": 217920
-   },
-   {
-    "code": "US",
-    "count": 153549
+    "count": 218693
    },
    {
     "code": "FI",
-    "count": 128666
+    "count": 133821
+   },
+   {
+    "code": "US",
+    "count": 112990
    },
    {
     "code": "DK",
-    "count": 79616
+    "count": 79766
    },
    {
     "code": "NO",
-    "count": 55819
-   },
-   {
-    "code": "IS",
-    "count": 48611
+    "count": 56014
    },
    {
     "code": "GB",
-    "count": 46049
+    "count": 50989
+   },
+   {
+    "code": "IS",
+    "count": 47575
    },
    {
     "code": "CA",
-    "count": 38634
+    "count": 31198
    },
    {
     "code": "SJ",
-    "count": 11729
+    "count": 11826
    },
    {
     "code": "EE",
-    "count": 10259
+    "count": 10405
    },
    {
     "code": "NL",
-    "count": 7282
+    "count": 7496
    },
    {
     "code": "DE",
-    "count": 6391
+    "count": 6650
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }

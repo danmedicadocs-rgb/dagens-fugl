@@ -2,7 +2,7 @@
  "key": "riparia-riparia",
  "name": "Riparia riparia",
  "region": "dk",
- "fetchedAt": "2026-10-21T09:17:20.243Z",
+ "fetchedAt": "2026-11-13T11:21:16.132Z",
  "names": {
   "da": "Digesvale",
   "en": "Sand Martin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 11941,
-  "observations": 28062
+  "observations": 28203
  },
  "photos": {
   "male": [
@@ -68,84 +68,85 @@
    }
   ],
   "hero": {
-   "id": 146477715,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146477715/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146477715/large.jpg",
-   "attribution": "(c) tlaloc27, some rights reserved (CC BY)",
+   "id": 28082067,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28082067/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28082067/large.jpg",
+   "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY), uploaded by Вячеслав Юсупов",
    "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/88753211",
-   "place": "Corinne, UT, US",
-   "date": "2021-07-17"
+   "source": "https://www.inaturalist.org/photos/28082067",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2489160,
-  "dkTotal": 116651,
+  "dkTotal": 116982,
   "dkMonths": [
    0,
    0,
-   110,
-   14043,
-   29772,
-   17014,
-   18523,
-   24463,
-   12559,
-   60,
+   109,
+   14104,
+   29823,
+   17078,
+   18598,
+   24494,
+   12604,
+   65,
    9,
    0
   ],
-  "worldTotal": 2497229,
+  "worldTotal": 2412863,
   "topCountries": [
    {
     "code": "US",
-    "count": 728885
-   },
-   {
-    "code": "CA",
-    "count": 237055
-   },
-   {
-    "code": "ES",
-    "count": 218871
+    "count": 649265
    },
    {
     "code": "GB",
-    "count": 201632
+    "count": 230241
+   },
+   {
+    "code": "ES",
+    "count": 215490
+   },
+   {
+    "code": "CA",
+    "count": 215035
    },
    {
     "code": "SE",
-    "count": 195617
+    "count": 196244
    },
    {
     "code": "NL",
-    "count": 150841
+    "count": 152859
    },
    {
     "code": "FI",
-    "count": 123739
+    "count": 128278
    },
    {
     "code": "DK",
-    "count": 116651
-   },
-   {
-    "code": "NO",
-    "count": 83861
+    "count": 116982
    },
    {
     "code": "FR",
-    "count": 83595
+    "count": 85696
+   },
+   {
+    "code": "NO",
+    "count": 84625
    },
    {
     "code": "PL",
-    "count": 32322
+    "count": 35698
    },
    {
     "code": "PT",
-    "count": 30957
+    "count": 28989
    }
   ]
  },
+ "photoVersion": 2,
  "warnings": []
 }
