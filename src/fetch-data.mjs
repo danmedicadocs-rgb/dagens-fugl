@@ -199,7 +199,13 @@ async function fetchSpecies(sp, old) {
   if (taxon?.id) {
     const seen = new Set();
     photos = await step('inaturalist fotos', () => inatPhotos(taxon.id, seen));
-    const hero = cleanPhoto(taxon.default_photo, null);
+    // iNaturalists egne udvalgte artsfotos (taxon_photos) er som regel de skarpeste og bedste.
+    let full = taxon;
+    if (!Array.isArray(taxon.taxon_photos)) {
+      full = (await step('inaturalist artsfotos', () => getJson(`https://api.inaturalist.org/v1/taxa/${taxon.id}?locale=da`, { allow404: true })))?.results?.[0] || taxon;
+    }
+    const curated = [taxon.default_photo, ...(full.taxon_photos || []).map((tp) => tp.photo)];
+    const hero = curated.map((p) => cleanPhoto(p, null)).find(Boolean) || null;
     if (photos) photos.hero = hero || photos.male?.[0] || photos.adult?.[0] || photos.general?.[0] || photos.female?.[0] || null;
   }
 
@@ -218,9 +224,13 @@ async function fetchSpecies(sp, old) {
     inat: taxon ? { id: taxon.id, observations: taxon.observations_count || 0 } : old?.inat || null,
     photos: keep(photos, old?.photos),
     gbif: gbif ? { key: gKey, ...gbif } : old?.gbif || null,
+    photoVersion: PHOTO_VERSION,
     warnings: warn,
   };
 }
+
+// Hæves når måden at vælge billeder på ændres – så hentes alle arter igen ved næste fulde kørsel.
+const PHOTO_VERSION = 2;
 
 // ---------- Hovedløkke ----------
 async function main() {
@@ -230,8 +240,10 @@ async function main() {
   const now = Date.now();
   const due = list
     .map((sp) => ({ sp, old: readCache(sp.key) }))
-    .filter(({ old }) => !old || now - Date.parse(old.fetchedAt) > REFRESH_DAYS * 864e5)
+    .filter(({ old }) => !old || old.photoVersion !== PHOTO_VERSION || now - Date.parse(old.fetchedAt) > REFRESH_DAYS * 864e5)
     .sort((a, b) => (a.old ? Date.parse(a.old.fetchedAt) : 0) - (b.old ? Date.parse(b.old.fetchedAt) : 0))
+    // arter der først og fremmest skal have nye billeder, kommer før almindelig opdatering
+    .sort((a, b) => Number(a.old?.photoVersion === PHOTO_VERSION) - Number(b.old?.photoVersion === PHOTO_VERSION))
     .slice(0, MAX_FETCH);
 
   console.log(`${list.length} arter i listen. Henter ${due.length} nu (højst ${MAX_FETCH}).`);

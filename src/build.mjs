@@ -91,6 +91,12 @@ function thumb(photo) {
   return photo?.medium ? photo.medium.replace('/medium.', '/small.') : null;
 }
 
+// iNaturalist har fotos i flere størrelser: small 240, medium 500, large 1024, original op til 2048 px.
+const size = (photo, s) => photo.medium.replace('/medium.', `/${s}.`);
+function srcset(photo, sizes) {
+  return sizes.map(([s, w]) => `${esc(size(photo, s))} ${w}w`).join(', ');
+}
+
 function credit(photo) {
   const lic = LICENSES[photo.license] || { label: photo.license.toUpperCase(), url: '#' };
   const who = photo.attribution ? esc(photo.attribution.replace(/\s*\(c\)\s*/i, '© ').replace(/, (some|no) rights reserved.*$/i, '').replace(/\s*uploaded by.*$/i, '')) : 'Ukendt fotograf';
@@ -99,7 +105,11 @@ function credit(photo) {
 }
 
 function figure(photo, alt, cls = '', eager = false) {
-  return `<figure class="${cls}"><img src="${esc(photo.medium)}" alt="${esc(alt)}" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"><figcaption>${credit(photo)}</figcaption></figure>`;
+  const hero = cls.includes('hero');
+  const set = hero
+    ? `src="${esc(size(photo, 'large'))}" srcset="${srcset(photo, [['medium', 500], ['large', 1024], ['original', 2048]])}" sizes="(min-width: 1100px) 1000px, 100vw"`
+    : `src="${esc(photo.medium)}" srcset="${srcset(photo, [['medium', 500], ['large', 1024]])}" sizes="(min-width: 900px) 320px, 50vw"`;
+  return `<figure class="${cls}"><img ${set} alt="${esc(alt)}" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"><figcaption>${credit(photo)}</figcaption></figure>`;
 }
 
 const PLUMAGE = [
@@ -467,7 +477,7 @@ function main() {
 
   function card(d, label) {
     const t = thumb(d.photos?.hero);
-    return `<li class="card" data-region="${d.region}" data-name="${esc(`${displayName(d)} ${d.names.accepted} ${d.names.en || ''}`.toLowerCase())}"><a href="${url(speciesUrl(d))}">${t ? `<img src="${esc(t)}" alt="" loading="lazy" decoding="async">` : '<span class="noimg" aria-hidden="true"></span>'}<span class="card-text">${label ? `<span class="card-label">${esc(label)}</span>` : ''}<span class="card-name">${esc(displayName(d))}</span><i>${esc(d.names.accepted)}</i></span></a></li>`;
+    return `<li class="card" data-region="${d.region}" data-name="${esc(`${displayName(d)} ${d.names.accepted} ${d.names.en || ''}`.toLowerCase())}"><a href="${url(speciesUrl(d))}">${t ? `<img src="${esc(t)}" srcset="${srcset(d.photos.hero, [['small', 240], ['medium', 500]])}" sizes="(min-width: 900px) 220px, 45vw" alt="" loading="lazy" decoding="async">` : '<span class="noimg" aria-hidden="true"></span>'}<span class="card-text">${label ? `<span class="card-label">${esc(label)}</span>` : ''}<span class="card-name">${esc(displayName(d))}</span><i>${esc(d.names.accepted)}</i></span></a></li>`;
   }
 
   // --- alle fugle ---
