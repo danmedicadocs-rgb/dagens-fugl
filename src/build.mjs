@@ -648,6 +648,36 @@ function main() {
     ...species.map((d) => ({ loc: abs(speciesUrl(d)), freq: 'monthly', lastmod: d.fetchedAt.slice(0, 10) })),
   ];
   write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${esc(u.loc)}</loc>${u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : ''}<changefreq>${u.freq}</changefreq></url>`).join('\n')}\n</urlset>\n`);
+  // --- llms.txt: kort oversigt til AI-værktøjer (https://llmstxt.org) ---
+  const line = (d) => `- [${displayName(d)} (${d.names.accepted})](${abs(speciesUrl(d))})`;
+  write('llms.txt', `# ${SITE_NAME}
+
+> ${SITE_NAME} er en dansk hjemmeside, der hver dag viser en ny fugl. Hver art har sin egen side med beskrivelse (fra Wikipedia), billeder af han, hun og ungfugl (fra iNaturalist, frie licenser), hvornår på året den ses i Danmark og kort over udbredelsen (fra GBIF). Siden dækker ${species.length} arter: ${dkCount} der ses i Danmark og ${species.length - dkCount} udenlandske.
+
+Alt indhold er på dansk. Kilde og licens står ved hver tekst og hvert billede.
+
+## Oversigter
+
+- [Dagens fugl](${abs('')}): forsiden skifter fugl hver dag ved midnat (dansk tid)
+- [Danske fugle](${abs('fugle/danske/')}): alle arter, der ses i Danmark
+- [Udenlandske fugle](${abs('fugle/udenlandske/')}): arter fra resten af verden
+- [Fugle måned for måned](${abs('maaned/')}): hvilke fugle der ses i Danmark i hver måned
+${MONTH_SLUGS.map((m, i) => `- [Fugle i ${MONTHS[i]}](${abs(`maaned/${m}/`)})`).join('\n')}
+
+## Danske fugle
+
+${sorted.filter((d) => d.region === 'dk').map(line).join('\n')}
+
+## Udenlandske fugle
+
+${sorted.filter((d) => d.region !== 'dk').map(line).join('\n')}
+
+## Optional
+
+- [Kilder og licenser](${abs('kilder/')})
+- [Privatliv](${abs('privatliv/')})
+`);
+
   write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${abs('sitemap.xml')}\n`);
   write('.nojekyll', '');
 
