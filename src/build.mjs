@@ -10,6 +10,10 @@ import {
   SITE_NAME, SITE_URL, BASE_PATH, TIMEZONE, SCHEDULE_START, SCHEDULE_SEED, ALLOW_NONCOMMERCIAL,
 } from './config.mjs';
 
+// Hvem står bag siden (vises på privatlivssiden). Sættes som repository variables i GitHub.
+const OWNER_NAME = process.env.OWNER_NAME || '';
+const CONTACT_EMAIL = process.env.CONTACT_EMAIL || '';
+
 // ---------------- Hjælpere ----------------
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const url = (p) => `${BASE_PATH}/${p.replace(/^\//, '')}`;
@@ -17,6 +21,7 @@ const abs = (p) => `${SITE_URL}/${p.replace(/^\//, '')}`;
 const nf = new Intl.NumberFormat('da-DK');
 const regionNames = new Intl.DisplayNames(['da'], { type: 'region' });
 const MONTHS = ['januar', 'februar', 'marts', 'april', 'maj', 'juni', 'juli', 'august', 'september', 'oktober', 'november', 'december'];
+const MONTH_SLUGS = ['januar', 'februar', 'marts', 'april', 'maj', 'juni', 'juli', 'august', 'september', 'oktober', 'november', 'december'];
 const MONTHS_SHORT = ['jan', 'feb', 'mar', 'apr', 'maj', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'dec'];
 
 const LICENSES = {
@@ -269,7 +274,13 @@ function metaDescription(d) {
   const base = `${name} (${d.names.accepted})`;
   const tail = bits.length ? `: ${bits.join(', ')}.` : '.';
   const extra = d.wiki?.extract ? ` ${d.wiki.extract.split(/(?<=\.)\s/)[0]}` : '';
-  return (base + tail + extra).slice(0, 300);
+  return clip(base + tail + extra, 158);
+}
+
+function clip(text, max) {
+  if (text.length <= max) return text;
+  const cut = text.slice(0, max - 1);
+  return cut.slice(0, cut.lastIndexOf(' ')).replace(/[,;:–-]$/, '') + '…';
 }
 
 // ---------------- Sideskabelon ----------------
@@ -307,7 +318,8 @@ ${body}
 </main>
 <footer class="site">
   <p>${esc(SITE_NAME)} viser en ny fugl hver dag. Tekster, billeder og kort hentes fra åbne kilder og krediteres på hver side.</p>
-  <p><a href="${url('kilder/')}">Kilder og licenser</a> · <a href="${url('fugle/')}">Alle fugle</a></p>
+  <p><a href="${url('fugle/danske/')}">Danske fugle</a> · <a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a> · <a href="${url('maaned/')}">Fugle måned for måned</a></p>
+  <p><a href="${url('kilder/')}">Kilder og licenser</a> · <a href="${url('privatliv/')}">Privatliv</a></p>
 </footer>
 <script>window.DF_BASE=${JSON.stringify(BASE_PATH)};</script>
 <script src="${url('vendor/leaflet.js')}" defer></script>
@@ -316,16 +328,37 @@ ${body}
 </html>`;
 }
 
-function speciesJsonLd(d, canonical) {
+function imageLd(ph) {
+  const lic = LICENSES[ph.license];
+  const who = ph.attribution ? ph.attribution.replace(/\s*\(c\)\s*/i, '').replace(/, (some|no) rights reserved.*$/i, '').replace(/\s*uploaded by.*$/i, '').trim() : '';
   return {
+    '@type': 'ImageObject',
+    contentUrl: ph.large || ph.medium,
+    ...(lic ? { license: lic.url } : {}),
+    acquireLicensePage: ph.source,
+    ...(who ? { creditText: who, creator: { '@type': 'Person', name: who }, copyrightNotice: `© ${who}` } : {}),
+  };
+}
+
+function speciesJsonLd(d, canonical) {
+  return [{
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    name: displayName(d),
+    name: `${displayName(d)} (${d.names.accepted})`,
     url: canonical,
     inLanguage: 'da',
+    isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: abs('') },
     about: { '@type': 'Taxon', name: d.names.accepted, alternateName: [d.names.da, d.names.en].filter(Boolean), taxonRank: 'species' },
-    ...(d.photos?.hero ? { primaryImageOfPage: { '@type': 'ImageObject', contentUrl: d.photos.hero.large || d.photos.hero.medium, creditText: d.photos.hero.attribution, license: LICENSES[d.photos.hero.license]?.url } } : {}),
-  };
+    ...(d.photos?.hero ? { primaryImageOfPage: imageLd(d.photos.hero) } : {}),
+  }, {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: SITE_NAME, item: abs('') },
+      { '@type': 'ListItem', position: 2, name: d.region === 'dk' ? 'Danske fugle' : 'Udenlandske fugle', item: abs(d.region === 'dk' ? 'fugle/danske/' : 'fugle/udenlandske/') },
+      { '@type': 'ListItem', position: 3, name: displayName(d), item: canonical },
+    ],
+  }];
 }
 
 // ---------------- Byg ----------------
@@ -352,6 +385,13 @@ function main() {
   const today = todayISO(process.env.BUILD_DATE ? new Date(`${process.env.BUILD_DATE}T12:00:00Z`) : new Date());
   const speciesUrl = (d) => `fugle/${d.slug}/`;
 
+  const byGenus = new Map();
+  for (const d of species) {
+    const g = d.names.accepted.split(' ')[0];
+    if (!byGenus.has(g)) byGenus.set(g, []);
+    byGenus.get(g).push(d);
+  }
+
   // --- artssider ---
   for (const d of species) {
     const canonical = abs(speciesUrl(d));
@@ -363,8 +403,21 @@ function main() {
       image: d.photos?.hero?.large || d.photos?.hero?.medium,
       type: 'article',
       jsonld: speciesJsonLd(d, canonical),
-      body: speciesBody(d) + moreLinks(d),
+      body: crumbs(d) + speciesBody(d) + related(d) + moreLinks(d),
     }));
+  }
+
+  function crumbs(d) {
+    const sec = d.region === 'dk' ? ['fugle/danske/', 'Danske fugle'] : ['fugle/udenlandske/', 'Udenlandske fugle'];
+    return `<nav class="crumbs muted" aria-label="Brødkrumme"><a href="${url('')}">${esc(SITE_NAME)}</a> › <a href="${url(sec[0])}">${sec[1]}</a> › ${esc(displayName(d))}</nav>`;
+  }
+
+  // Andre arter i samme slægt (eller samme område) – giver Google og læseren noget at gå videre til
+  function related(d) {
+    const g = d.names.accepted.split(' ')[0];
+    const same = (byGenus.get(g) || []).filter((x) => x.key !== d.key).slice(0, 6);
+    if (!same.length) return '';
+    return `<section class="block" id="beslaegtede"><h2>Beslægtede fugle</h2><p class="lede">Andre arter i slægten <i>${esc(g)}</i>.</p><ul class="cards">${same.map((x) => card(x)).join('')}</ul></section>`;
   }
 
   function moreLinks(d) {
@@ -396,7 +449,15 @@ function main() {
       : 'Hver dag en ny fugl – danske og udenlandske – med billeder, kort og sæson.',
     canonical: abs(''),
     image: todayBird?.photos?.hero?.large,
-    body: homeBody,
+    jsonld: {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: SITE_NAME,
+      url: abs(''),
+      inLanguage: 'da',
+      description: 'Hver dag en ny fugl – danske og udenlandske arter med billeder af fjerdragt, sæson og kort.',
+    },
+    body: homeBody + `<section class="block small" id="om-siden"><h2>Om Dagens Fugl</h2><p>Hver dag ved midnat skifter siden til en ny fugl. Du får billeder af han, hun og ungfugl, en beskrivelse, hvornår på året den ses i Danmark, og kort over hvor i verden den lever. Der er ${species.length} arter i alt – <a href="${url('fugle/danske/')}">${species.filter((d) => d.region === 'dk').length} danske fugle</a> og <a href="${url('fugle/udenlandske/')}">${species.filter((d) => d.region !== 'dk').length} udenlandske</a>. Vil du vide, hvad du kan møde derude lige nu, så se <a href="${url(`maaned/${MONTH_SLUGS[Number(today.slice(5, 7)) - 1]}/`)}">fugle i ${MONTHS[Number(today.slice(5, 7)) - 1]}</a>.</p></section>`,
   }));
 
   function recentStrip(items) {
@@ -418,7 +479,7 @@ function main() {
     canonical: abs('fugle/'),
     body: `<section class="listing">
   <h1>Alle fugle</h1>
-  <p class="lede">${species.length} arter – ${dkCount} der ses i Danmark og ${species.length - dkCount} fra resten af verden.</p>
+  <p class="lede">${species.length} arter – <a href="${url('fugle/danske/')}">${dkCount} der ses i Danmark</a> og <a href="${url('fugle/udenlandske/')}">${species.length - dkCount} fra resten af verden</a>. Se også <a href="${url('maaned/')}">hvilke fugle der ses måned for måned</a>.</p>
   <div class="filters" role="search">
     <input type="search" id="q" placeholder="Søg på dansk, engelsk eller latinsk navn" aria-label="Søg efter fugl">
     <div class="seg" role="group" aria-label="Vis">
@@ -445,6 +506,102 @@ function main() {
     canonical: abs('arkiv/'),
     body: `<section class="listing"><h1>Tidligere dagens fugle</h1><p class="lede">De seneste 60 dage.</p><ul class="cards">${arch.join('')}</ul></section>`,
   }));
+
+
+  // --- danske og udenlandske fugle (egne sider, så Google kan finde dem) ---
+  const extraUrls = [];
+  for (const [slug, region, h1, intro] of [
+    ['danske', 'dk', 'Danske fugle', `Oversigt over ${dkCount} fuglearter, der kan ses i Danmark – fra almindelige havefugle til sjældne gæster. Klik på en fugl for billeder af fjerdragten, hvornår den ses, og kort over udbredelsen.`],
+    ['udenlandske', 'verden', 'Udenlandske fugle', `${species.length - dkCount} fugle fra resten af verden – fra Afrikas savanner til Sydamerikas regnskove og Antarktis. Klik på en fugl for billeder, beskrivelse og kort over hvor den lever.`],
+  ]) {
+    const items = sorted.filter((d) => (region === 'dk' ? d.region === 'dk' : d.region !== 'dk'));
+    write(`fugle/${slug}/index.html`, page({
+      title: `${h1} – ${items.length} arter med billeder og kort | ${SITE_NAME}`,
+      description: clip(intro, 158),
+      canonical: abs(`fugle/${slug}/`),
+      jsonld: listLd(h1, items),
+      body: `<section class="listing"><h1>${h1}</h1><p class="lede">${esc(intro)}</p><ul class="cards">${items.map((d) => card(d)).join('')}</ul></section>`,
+    }));
+    extraUrls.push({ loc: abs(`fugle/${slug}/`), freq: 'weekly' });
+  }
+
+  function listLd(name, items) {
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name,
+      numberOfItems: items.length,
+      itemListElement: items.slice(0, 100).map((d, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(speciesUrl(d)), name: displayName(d) })),
+    };
+  }
+
+  // --- fugle måned for måned ---
+  const seasonal = species.filter((d) => d.region === 'dk' && d.gbif?.dkTotal >= 20 && Array.isArray(d.gbif.dkMonths));
+  const monthLinks = [];
+  for (let m = 0; m < 12; m++) {
+    const items = seasonal
+      .map((d) => { const mx = Math.max(...d.gbif.dkMonths); return { d, share: mx ? d.gbif.dkMonths[m] / mx : 0, count: d.gbif.dkMonths[m] }; })
+      .filter((x) => x.share >= 0.4)
+      .sort((a, b) => b.count - a.count)
+      .map((x) => x.d);
+    const peak = seasonal.filter((d) => {
+      const mo = d.gbif.dkMonths; const mx = Math.max(...mo); const mn = Math.min(...mo);
+      return mo[m] === mx && mn < 0.3 * mx; // trækfugle/gæster med top netop denne måned
+    });
+    const name = MONTHS[m];
+    const intro = `${items.length} fugle, der ofte ses i Danmark i ${name}, baseret på registrerede fund fra GBIF. De mest almindelige står først.`;
+    monthLinks.push(`<li><a href="${url(`maaned/${MONTH_SLUGS[m]}/`)}">${capFirst(name)}</a> <span class="muted">(${items.length} arter)</span></li>`);
+    write(`maaned/${MONTH_SLUGS[m]}/index.html`, page({
+      title: `Fugle i ${name} – hvilke fugle kan man se i Danmark? | ${SITE_NAME}`,
+      description: clip(`Hvilke fugle kan du se i Danmark i ${name}? ${items.length} arter med billeder, og hvilke trækfugle og gæster der topper netop nu.`, 158),
+      canonical: abs(`maaned/${MONTH_SLUGS[m]}/`),
+      jsonld: listLd(`Fugle i Danmark i ${name}`, items),
+      body: `<section class="listing">
+  <nav class="crumbs muted" aria-label="Brødkrumme"><a href="${url('')}">${esc(SITE_NAME)}</a> › <a href="${url('maaned/')}">Måned for måned</a> › ${capFirst(name)}</nav>
+  <h1>Fugle i Danmark i ${name}</h1>
+  <p class="lede">${esc(intro)}</p>
+  ${peak.length ? `<h2>Topper i ${name}</h2><p class="muted">Fugle, der især ses netop nu – ofte trækfugle eller vintergæster.</p><ul class="cards">${peak.map((d) => card(d)).join('')}</ul><h2>Alle fugle i ${name}</h2>` : ''}
+  <ul class="cards">${items.map((d) => card(d)).join('')}</ul>
+  <p><a href="${url(`maaned/${MONTH_SLUGS[(m + 11) % 12]}/`)}">← ${capFirst(MONTHS[(m + 11) % 12])}</a> · <a href="${url(`maaned/${MONTH_SLUGS[(m + 1) % 12]}/`)}">${capFirst(MONTHS[(m + 1) % 12])} →</a></p>
+</section>`,
+    }));
+    extraUrls.push({ loc: abs(`maaned/${MONTH_SLUGS[m]}/`), freq: 'monthly' });
+  }
+  write('maaned/index.html', page({
+    title: `Fugle måned for måned – hvornår ses fuglene i Danmark? | ${SITE_NAME}`,
+    description: 'Se hvilke fugle der kan ses i Danmark i hver måned af året – fra vintergæster i januar til trækfugle i maj og september.',
+    canonical: abs('maaned/'),
+    body: `<article class="prose-page"><h1>Fugle måned for måned</h1><p>Fuglelivet i Danmark skifter hen over året. Om vinteren kommer gæster fra nord, om foråret vender trækfuglene hjem, og i sensommeren trækker mange sydpå igen. Vælg en måned og se, hvilke fugle der er gode chancer for at møde.</p><ul class="links">${monthLinks.join('')}</ul></article>`,
+  }));
+  extraUrls.push({ loc: abs('maaned/'), freq: 'yearly' });
+
+  // --- privatliv ---
+  const who = OWNER_NAME ? esc(OWNER_NAME) : `ejeren af ${esc(new URL(SITE_URL).hostname)}`;
+  write('privatliv/index.html', page({
+    title: `Privatliv og cookies | ${SITE_NAME}`,
+    description: 'Dagens Fugl bruger ingen cookies og ingen sporing. Her kan du læse, hvilke tjenester din browser kontakter, når du besøger siden.',
+    canonical: abs('privatliv/'),
+    body: `<article class="prose-page">
+<h1>Privatliv og cookies</h1>
+<p><strong>Kort fortalt:</strong> ${esc(SITE_NAME)} sætter ingen cookies, bruger ingen statistik- eller reklameværktøjer og beder dig ikke om nogen oplysninger. Vi gemmer intet om dig.</p>
+<h2>Hvem står bag siden?</h2>
+<p>Siden drives af ${who}${CONTACT_EMAIL ? `. Har du spørgsmål om privatliv, kan du skrive til <a href="mailto:${esc(CONTACT_EMAIL)}">${esc(CONTACT_EMAIL)}</a>` : ''}.</p>
+<h2>Cookies</h2>
+<p>Siden bruger ingen cookies. Derfor er der heller ikke noget cookie-banner. Knappen »Tilfældig« henter blot listen over fugle fra siden selv.</p>
+<h2>Hvad sker der, når du besøger siden?</h2>
+<p>Som på alle hjemmesider sender din browser din IP-adresse og oplysninger om browsertype, når den henter sidens indhold. Det sker hos disse tjenester:</p>
+<ul>
+<li><strong>GitHub Pages</strong> (GitHub Inc., USA) er sidens webhotel. GitHub registrerer IP-adresser af hensyn til sikkerhed og drift. Se <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener" target="_blank">GitHubs privatlivserklæring</a>.</li>
+<li><strong>iNaturalist</strong> (billederne ligger hos Amazon Web Services) leverer fotografierne. Se <a href="https://www.inaturalist.org/pages/privacy" rel="noopener" target="_blank">iNaturalists privatlivspolitik</a>.</li>
+<li><strong>GBIF</strong> (Global Biodiversity Information Facility, København) leverer kortene. Se <a href="https://www.gbif.org/terms/privacy-policy" rel="noopener" target="_blank">GBIFs privatlivspolitik</a>.</li>
+</ul>
+<p>Oplysningerne bruges kun til at levere indholdet til din skærm. Overførsel til USA sker under EU-USA-rammen for databeskyttelse (Data Privacy Framework), som GitHub og Amazon er tilsluttet.</p>
+<h2>Dine rettigheder</h2>
+<p>Da siden ikke selv gemmer oplysninger om dig, er der ikke noget at indsigte, rette eller slette her. Vil du klage over behandling af personoplysninger, kan du kontakte <a href="https://www.datatilsynet.dk" rel="noopener" target="_blank">Datatilsynet</a>.</p>
+<p class="muted">Senest opdateret ${esc(new Intl.DateTimeFormat('da-DK', { dateStyle: 'long' }).format(new Date('2026-11-13T12:00:00Z')))}.</p>
+</article>`,
+  }));
+  extraUrls.push({ loc: abs('privatliv/'), freq: 'yearly' });
 
   // --- kilder ---
   write('kilder/index.html', page({
@@ -487,6 +644,7 @@ function main() {
     { loc: abs('fugle/'), freq: 'weekly' },
     { loc: abs('arkiv/'), freq: 'daily', lastmod: today },
     { loc: abs('kilder/'), freq: 'yearly' },
+    ...extraUrls,
     ...species.map((d) => ({ loc: abs(speciesUrl(d)), freq: 'monthly', lastmod: d.fetchedAt.slice(0, 10) })),
   ];
   write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${esc(u.loc)}</loc>${u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : ''}<changefreq>${u.freq}</changefreq></url>`).join('\n')}\n</urlset>\n`);
