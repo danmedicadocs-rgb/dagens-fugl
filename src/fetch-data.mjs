@@ -327,7 +327,7 @@ async function fetchSpecies(sp, old) {
 }
 
 // Hæves når måden at vælge billeder på ændres – så hentes alle arter igen ved næste fulde kørsel.
-const PHOTO_VERSION = 2;
+const PHOTO_VERSION = 3; // 3: også billeder med ikke-kommerciel licens
 
 // ---------- Hovedløkke ----------
 async function main() {

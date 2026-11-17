@@ -12,7 +12,8 @@ export const TIMEZONE = 'Europe/Copenhagen';
 // Billedlicenser der må bruges. Standard er licenser der også tillader kommerciel brug,
 // så der aldrig er tvivl. Sæt ALLOW_NONCOMMERCIAL=true hvis siden er helt ikke-kommerciel
 // (ingen reklamer, intet salg) – så kommer der markant flere billeder med.
-export const ALLOW_NONCOMMERCIAL = process.env.ALLOW_NONCOMMERCIAL === 'true';
+// Siden har aldrig reklamer eller salg, så som standard bruges også ikke-kommercielle licenser.
+export const ALLOW_NONCOMMERCIAL = (process.env.ALLOW_NONCOMMERCIAL ?? 'true') === 'true';
 export const PHOTO_LICENSES = ALLOW_NONCOMMERCIAL
   ? ['cc0', 'cc-by', 'cc-by-sa', 'cc-by-nc', 'cc-by-nc-sa']
   : ['cc0', 'cc-by', 'cc-by-sa'];

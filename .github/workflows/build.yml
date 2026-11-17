@@ -45,7 +45,7 @@ jobs:
       - name: Hent data fra kilderne
         env:
           MAX_FETCH: ${{ github.event_name == 'push' && '0' || inputs.max_fetch || '60' }}
-          ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'false' }}
+          ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'true' }}
           CONTACT: ${{ vars.CONTACT }}
           XC_KEY: ${{ secrets.XC_KEY }}
         run: node src/fetch-data.mjs
@@ -61,7 +61,7 @@ jobs:
 
       - name: Byg siden
         env:
-          ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'false' }}
+          ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'true' }}
           OWNER_NAME: ${{ vars.OWNER_NAME }}
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
         run: node src/build.mjs
