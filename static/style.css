@@ -138,6 +138,36 @@ figcaption a { color: var(--muted); }
 .card { position: relative; }
 .card.seen::after { content: "✓"; position: absolute; top: 8px; right: 8px; width: 26px; height: 26px; border-radius: 99px; background: var(--accent); color: var(--bg); font-size: 15px; font-weight: 700; display: grid; place-items: center; pointer-events: none; }
 
+/* --- Kan du se den nu? --- */
+.now { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; margin: 16px 0 0; font-size: 0.95rem; color: var(--muted); }
+.now strong { color: var(--text); }
+.now-dot { width: 10px; height: 10px; border-radius: 99px; background: var(--line); align-self: center; }
+.now-god .now-dot { background: var(--accent); }
+.now-mulig .now-dot { background: var(--accent); opacity: 0.5; }
+
+/* --- Gæt fuglen --- */
+.quiz { max-width: 640px; }
+.quiz h1 { font-size: clamp(2rem, 5vw, 2.8rem); margin-top: 8px; }
+.quiz .kicker { margin-top: 36px; }
+.quiz-frame { aspect-ratio: 4 / 3; overflow: hidden; border-radius: var(--radius); background: var(--line); }
+.quiz-frame img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s ease; }
+.quiz-opts { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; }
+.quiz-opt { font: inherit; font-weight: 600; padding: 14px 12px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--surface); color: var(--text); cursor: pointer; }
+.quiz-opt:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.quiz-opt:disabled { cursor: default; }
+.quiz-opt.wrong { opacity: 0.45; text-decoration: line-through; }
+.quiz-opt.right { background: var(--accent); border-color: var(--accent); color: var(--bg); opacity: 1; }
+.quiz-result { margin: 8px 0 24px; }
+.quiz-result .more { margin-top: 16px; }
+.quiz-squares { font-size: 1.6rem; letter-spacing: 4px; margin: 0; }
+.quiz-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; border-top: 1px solid var(--line); padding-top: 18px; }
+.stat { display: flex; flex-direction: column; text-align: center; }
+.stat strong { font-family: var(--serif); font-size: 1.6rem; }
+.stat span { font-size: 0.8rem; color: var(--muted); }
+.quiz-teaser { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 20px; padding: 14px 18px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.quiz-teaser div { display: flex; flex-direction: column; line-height: 1.4; }
+.quiz-teaser span { color: var(--muted); font-size: 0.92rem; }
+
 @media (max-width: 700px) {
   body { font-size: 16px; }
   .maps.two { grid-template-columns: 1fr; }

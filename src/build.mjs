@@ -188,7 +188,7 @@ function whenSection(d) {
   if (g.dkTotal >= 20) {
     return `<section class="block" id="hvornaar">
   <h2>Hvornår ses den i Danmark?</h2>
-  <p class="big">${esc(seasonText(g.dkMonths))}</p>
+  <p class="big">${esc(seasonText(relMonths(g.dkMonths)))}</p>
   ${monthChart(g.dkMonths)}
   <p class="muted">Baseret på ${nf.format(g.dkTotal)} registrerede fund i Danmark.</p>
   ${src}
@@ -249,6 +249,53 @@ function sourcesSection(d) {
 </section>`;
 }
 
+// Hvor mange fugle der i alt registreres i Danmark pr. måned (alle arter samlet).
+// Bruges til at rette for, at folk er mere ude og kigge om foråret end om vinteren.
+let EFFORT = Array(12).fill(1);
+function relMonths(mo) {
+  const r = mo.map((v, i) => v / (EFFORT[i] || 1));
+  const mx = Math.max(...r);
+  return mx ? r.map((v) => v / mx) : r;
+}
+
+// Sættes i main() ud fra byggedatoen (siden bygges hver nat).
+let NOW_MONTH = new Date().getMonth();
+
+function seasonNow(d) {
+  const g = d.gbif;
+  const m = NOW_MONTH;
+  const name = MONTHS[m];
+  if (!g) return null;
+  if (g.dkTotal >= 20 && Array.isArray(g.dkMonths)) {
+    const mo = relMonths(g.dkMonths); const mx = 1;
+    const share = mo[m];
+    if (Math.min(...mo) >= 0.45) return { level: 'god', text: `Ses hele året – også i ${name}`, more: '' };
+    const best = mo.map((v, i) => [v, i]).filter(([v]) => v >= 0.6 * mx).map(([, i]) => i);
+    const bestTxt = best.length && best.length < 12 ? ` Bedst i ${rangeText(best)}.` : '';
+    if (share >= 0.6) return { level: 'god', text: `Gode chancer i ${name}`, more: share === 1 ? 'Det er den måned, den ses mest.' : '' };
+    if (share >= 0.25) return { level: 'mulig', text: `Kan ses i ${name}`, more: `Men ikke så ofte som på andre tider af året.${bestTxt}` };
+    if (share > 0) return { level: 'svag', text: `Sjælden i ${name}`, more: bestTxt.trim() };
+    return { level: 'ingen', text: `Ses normalt ikke i ${name}`, more: bestTxt.trim() };
+  }
+  if (d.region !== 'dk') return { level: 'ingen', text: g.dkTotal > 0 ? 'Ikke en dansk fugl – kun ganske få fund her' : 'Lever ikke i Danmark', more: '' };
+  if (g.dkTotal > 0) return { level: 'svag', text: 'Sjælden gæst i Danmark', more: '' };
+  return null;
+}
+
+function rangeText(idx) {
+  // sammenhængende måneder → "april–august", flere perioder adskilles med "og"
+  const set = new Set(idx); const out = [];
+  let start = idx.find((i) => !set.has((i + 11) % 12));
+  if (start === undefined) return 'hele året';
+  for (let k = 0; k < 12; k++) {
+    const i = (start + k) % 12;
+    if (set.has(i) && !set.has((i + 11) % 12)) out.push([i, i]);
+    else if (set.has(i)) out[out.length - 1][1] = i;
+  }
+  const t = out.map(([a, b]) => (a === b ? MONTHS[a] : `${MONTHS[a]}–${MONTHS[b]}`));
+  return t.length > 1 ? `${t.slice(0, -1).join(', ')} og ${t.at(-1)}` : t[0];
+}
+
 function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
   const name = displayName(d);
   const alt = d.names.da && d.names.en ? `<span class="alt">${esc(d.names.en)}</span>` : '';
@@ -259,6 +306,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     ${kicker}
     <${headingTag}>${esc(name)}</${headingTag}>
     <p class="sci"><i>${esc(d.names.accepted)}</i>${alt}${tag}</p>
+    ${(() => { const n = seasonNow(d); return n ? `<p class="now now-${n.level}"><span class="now-dot" aria-hidden="true"></span><strong>${esc(n.text)}</strong>${n.more ? ` <span>${esc(n.more)}</span>` : ''}</p>` : ''; })()}
     <div class="seen-box" hidden>
       <button type="button" class="seen-btn" aria-pressed="false"><span class="seen-icon" aria-hidden="true"></span><span class="seen-label">Jeg har set den</span></button>
       <a class="seen-count muted" href="${url('mine/')}"></a>
@@ -325,7 +373,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 <body>
 <header class="site">
   <a class="brand" href="${url('')}">${esc(SITE_NAME)}</a>
-  <nav><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
+  <nav><a href="${url('gaet/')}">Gæt fuglen</a><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
 </header>
 <main>
 ${body}
@@ -399,6 +447,9 @@ function main() {
 
   const today = todayISO(process.env.BUILD_DATE ? new Date(`${process.env.BUILD_DATE}T12:00:00Z`) : new Date());
   const speciesUrl = (d) => `fugle/${d.slug}/`;
+  NOW_MONTH = Number(today.slice(5, 7)) - 1;
+  EFFORT = Array(12).fill(0);
+  for (const d of species) if (d.region === 'dk' && Array.isArray(d.gbif?.dkMonths)) d.gbif.dkMonths.forEach((v, i) => { EFFORT[i] += v; });
 
   const byGenus = new Map();
   for (const d of species) {
@@ -451,7 +502,8 @@ function main() {
   const todayBird = todayKey ? byKey.get(todayKey) : null;
   if (todayBird) {
     const kicker = `<p class="kicker">Dagens fugl · <time datetime="${today}">${esc(capFirst(longDate(today)))}</time></p>`;
-    homeBody = speciesBody(todayBird, { kicker })
+    homeBody = `<aside class="quiz-teaser"><div><strong>Gæt fuglen</strong><span id="teaser-status">Dagens quiz er klar – kan du gætte den på tre forsøg?</span></div><a class="button" href="${url('gaet/')}">Spil</a></aside>`
+      + speciesBody(todayBird, { kicker })
       + `<aside class="more"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
       + recentStrip(recent);
   } else {
@@ -523,8 +575,63 @@ function main() {
   }));
 
 
-  // --- danske og udenlandske fugle (egne sider, så Google kan finde dem) ---
+
   const extraUrls = [];
+  // --- Gæt fuglen (daglig gætteleg) ---
+  // Egen rækkefølge, så det ikke er dagens fugl. Kun danske fugle med billede.
+  const quizPool = species.filter((d) => d.region === 'dk' && d.photos?.hero?.medium).map((d) => d.key);
+  const quizKeys = [...quizPool].sort();
+  const quizDays = {};
+  for (let i = -1; i <= 8; i++) {
+    const iso = addDays(today, i);
+    const dayNo = Math.round((Date.parse(`${iso}T12:00:00Z`) - Date.parse(`${SCHEDULE_START}T12:00:00Z`)) / 864e5);
+    const n = quizKeys.length;
+    const perm = permutation(quizKeys, `quiz-${Math.floor(dayNo / n)}`);
+    const d = byKey.get(perm[((dayNo % n) + n) % n]);
+    // tre forkerte svar: helst samme slægt, ellers tilfældige danske fugle (fast pr. dag)
+    const rnd = mulberry32(hashStr(`quiz-opts:${iso}`));
+    const genus = d.names.accepted.split(' ')[0];
+    const same = (byGenus.get(genus) || []).filter((x) => x.key !== d.key && x.region === 'dk' && x.photos?.hero);
+    const others = quizPool.filter((k) => k !== d.key).map((k) => byKey.get(k));
+    const wrong = [];
+    for (const x of [...same].sort(() => rnd() - 0.5)) if (wrong.length < 2) wrong.push(x);
+    while (wrong.length < 3) { const x = others[Math.floor(rnd() * others.length)]; if (!wrong.includes(x)) wrong.push(x); }
+    const opts = [d, ...wrong].sort(() => rnd() - 0.5);
+    const ph = d.photos.hero;
+    // lidt tilfældigt udsnit, men tæt på midten, hvor fuglen som regel er
+    const fx = 35 + Math.floor(rnd() * 30); const fy = 35 + Math.floor(rnd() * 30);
+    quizDays[iso] = {
+      no: dayNo + 1,
+      img: ph.medium.replace('/medium.', '/large.'),
+      fx, fy,
+      credit: credit(ph),
+      opts: opts.map((x) => ({ k: x.key, n: displayName(x) })),
+      a: Buffer.from(d.key).toString('base64'), // ikke hemmeligt, men ikke synligt med det samme
+      u: url(speciesUrl(d)),
+      name: displayName(d),
+      sci: d.names.accepted,
+    };
+  }
+  write('gaet/dage.json', JSON.stringify(quizDays));
+  write('gaet/index.html', page({
+    title: `Gæt fuglen – dagens fuglequiz | ${SITE_NAME}`,
+    description: 'Hver dag en ny fugl at gætte. Du ser et lille udsnit af et billede og har tre forsøg. Hold din stime i gang og del dit resultat.',
+    canonical: abs('gaet/'),
+    body: `<section class="quiz" id="quiz">
+  <p class="kicker">Gæt fuglen · <span id="quiz-no"></span></p>
+  <h1>Hvilken fugl er det?</h1>
+  <p class="lede">Du har tre forsøg. For hvert forkert gæt ser du lidt mere af billedet.</p>
+  <div class="quiz-frame"><img id="quiz-img" alt="Udsnit af dagens quizfugl"></div>
+  <div class="quiz-opts" id="quiz-opts" role="group" aria-label="Svarmuligheder"></div>
+  <div class="quiz-result" id="quiz-result" hidden></div>
+  <div class="quiz-stats" id="quiz-stats"></div>
+  <noscript><p>Gættelegen kræver JavaScript.</p></noscript>
+</section>
+<section class="block small"><h2>Sådan virker det</h2><p>Hver dag ved midnat kommer en ny fugl – den samme for alle. Gætter du rigtigt, vokser din stime. Dine resultater gemmes kun i din egen browser. Fuglene er danske arter med billeder fra <a href="https://www.inaturalist.org" rel="noopener" target="_blank">iNaturalist</a>.</p></section>`,
+  }));
+  extraUrls.push({ loc: abs('gaet/'), freq: 'daily', lastmod: today });
+
+  // --- danske og udenlandske fugle (egne sider, så Google kan finde dem) ---
   for (const [slug, region, h1, intro] of [
     ['danske', 'dk', 'Danske fugle', `Oversigt over ${dkCount} fuglearter, der kan ses i Danmark – fra almindelige havefugle til sjældne gæster. Klik på en fugl for billeder af fjerdragten, hvornår den ses, og kort over udbredelsen.`],
     ['udenlandske', 'verden', 'Udenlandske fugle', `${species.length - dkCount} fugle fra resten af verden – fra Afrikas savanner til Sydamerikas regnskove og Antarktis. Klik på en fugl for billeder, beskrivelse og kort over hvor den lever.`],
@@ -555,12 +662,12 @@ function main() {
   const monthLinks = [];
   for (let m = 0; m < 12; m++) {
     const items = seasonal
-      .map((d) => { const mx = Math.max(...d.gbif.dkMonths); return { d, share: mx ? d.gbif.dkMonths[m] / mx : 0, count: d.gbif.dkMonths[m] }; })
+      .map((d) => ({ d, share: relMonths(d.gbif.dkMonths)[m], count: d.gbif.dkMonths[m] }))
       .filter((x) => x.share >= 0.4)
       .sort((a, b) => b.count - a.count)
       .map((x) => x.d);
     const peak = seasonal.filter((d) => {
-      const mo = d.gbif.dkMonths; const mx = Math.max(...mo); const mn = Math.min(...mo);
+      const mo = relMonths(d.gbif.dkMonths); const mx = 1; const mn = Math.min(...mo);
       return mo[m] === mx && mn < 0.3 * mx; // trækfugle/gæster med top netop denne måned
     });
     const name = MONTHS[m];
@@ -604,7 +711,7 @@ function main() {
 <h2>Cookies</h2>
 <p>Siden bruger ingen cookies. Derfor er der heller ikke noget cookie-banner. Knappen »Tilfældig« henter blot listen over fugle fra siden selv.</p>
 <h2>»Jeg har set den« og Mine fugle</h2>
-<p>Når du markerer en fugl som set, gemmes det kun i din egen browser (såkaldt local storage) – det sendes ikke til os eller andre, og vi kan ikke se det. Det bruges kun til at vise din egen liste, fordi du selv har bedt om det. Du kan slette listen ved at rydde browserdata for dagensfugl.dk.</p>
+<p>Når du markerer en fugl som set, gemmes det kun i din egen browser (såkaldt local storage) – det sendes ikke til os eller andre, og vi kan ikke se det. Det bruges kun til at vise din egen liste, fordi du selv har bedt om det. Det samme gælder dine resultater og din stime i »Gæt fuglen«. Du kan slette det hele ved at rydde browserdata for dagensfugl.dk.</p>
 <h2>Hvad sker der, når du besøger siden?</h2>
 <p>Som på alle hjemmesider sender din browser din IP-adresse og oplysninger om browsertype, når den henter sidens indhold. Det sker hos disse tjenester:</p>
 <ul>
