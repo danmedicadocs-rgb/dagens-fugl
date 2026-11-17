@@ -363,6 +363,7 @@ function page({ title, description, canonical, body, image, type = 'website', no
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add('js')</script>
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${esc(canonical)}">
@@ -384,7 +385,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 <body>
 <header class="site">
   <a class="brand" href="${url('')}">${esc(SITE_NAME)}</a>
-  <nav><a href="${url('gaet/')}">Gæt fuglen</a><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
+  <nav><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
 </header>
 <main>
 ${body}
@@ -513,21 +514,76 @@ function main() {
   let homeBody;
   const todayBird = todayKey ? byKey.get(todayKey) : null;
   if (todayBird) {
+    const dayNo = Math.round((Date.parse(`${today}T12:00:00Z`) - Date.parse(`${SCHEDULE_START}T12:00:00Z`)) / 864e5) + 1;
     const kicker = `<p class="kicker">Dagens fugl · <time datetime="${today}">${esc(capFirst(longDate(today)))}</time></p>`;
-    homeBody = `<aside class="quiz-teaser"><div><strong>Gæt fuglen</strong><span id="teaser-status">Dagens quiz er klar – kan du gætte den på tre forsøg?</span></div><a class="button" href="${url('gaet/')}">Spil</a></aside>`
-      + speciesBody(todayBird, { kicker })
+    homeBody = quizSection(todayBird, today, dayNo)
+      + `<div id="reveal" data-locked>`
+      + speciesBody(todayBird, { kicker, headingTag: 'h2' })
       + `<aside class="more"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
+      + `</div>`
       + recentStrip(recent);
   } else {
     homeBody = '<article class="species"><h1>Dagens fugl er på vej</h1><p class="big">Data hentes stadig. Kig forbi igen senere.</p></article>';
   }
+
+  // Dagens gætteleg: lyd → lille udsnit → ledetråd → hele billedet
+  function quizSection(d, iso, no) {
+    const rnd = mulberry32(hashStr(`quiz-opts:${iso}`));
+    const pool = species.filter((x) => x.key !== d.key && x.photos?.hero && (d.region === 'dk' ? x.region === 'dk' : x.region !== 'dk'));
+    const genus = d.names.accepted.split(' ')[0];
+    const same = pool.filter((x) => x.names.accepted.split(' ')[0] === genus);
+    const wrong = [];
+    for (const x of [...same].sort(() => rnd() - 0.5)) if (wrong.length < 2) wrong.push(x);
+    let guard = 0;
+    while (wrong.length < 5 && guard++ < 200) { const x = pool[Math.floor(rnd() * pool.length)]; if (!wrong.includes(x)) wrong.push(x); }
+    const opts = [d, ...wrong].sort(() => rnd() - 0.5).map((x) => ({ k: x.key, n: displayName(x) }));
+    const ph = d.photos?.hero;
+    const now = seasonNow(d);
+    const hints = [];
+    if (d.tekst?.levested) hints.push(`Den lever her: ${d.tekst.levested}`);
+    if (d.region === 'dk') {
+      hints.push(now ? `I Danmark: ${now.text.charAt(0).toLowerCase()}${now.text.slice(1)}.` : 'Den kan ses i Danmark.');
+    } else {
+      const lands = (d.gbif?.topCountries || []).filter((c) => c.code && c.code.length === 2).slice(0, 3)
+        .map((c) => { try { return regionNames.of(c.code); } catch { return null; } }).filter(Boolean);
+      hints.push(lands.length ? `Det er en udenlandsk fugl. Flest fund i ${lands.length > 1 ? `${lands.slice(0, -1).join(', ')} og ${lands.at(-1)}` : lands[0]}.` : 'Det er en udenlandsk fugl.');
+    }
+    const steps = [];
+    if (d.sound?.src?.length) steps.push({ t: 'lyd', label: 'Lyt' });
+    if (ph) steps.push({ t: 'udsnit', label: 'Lille udsnit', z: 3.4 });
+    steps.push({ t: 'ledetraad', label: 'Ledetråd', z: 1.9 });
+    if (ph) steps.push({ t: 'hele', label: 'Hele billedet', z: 1 });
+    const data = {
+      date: iso, no, steps, opts,
+      a: Buffer.from(d.key).toString('base64'),
+      img: ph ? ph.medium.replace('/medium.', '/large.') : null,
+      fx: 35 + Math.floor(rnd() * 30), fy: 35 + Math.floor(rnd() * 30),
+      hint: hints.join(' '),
+      sound: d.sound ? { src: d.sound.src, credit: `Lyd: ${d.sound.artist || 'ukendt'} · ${d.sound.license} · Wikimedia Commons`, page: d.sound.page } : null,
+      name: displayName(d),
+    };
+    return `<section class="quiz" id="quiz">
+  <p class="kicker">Dagens fugl #${no} · <time datetime="${iso}">${esc(capFirst(longDate(iso)))}</time></p>
+  <h1>Hvilken fugl er det?</h1>
+  <p class="lede">Gæt dagens fugl. For hvert forkert gæt får du en ny ledetråd – når du er færdig, kan du læse alt om den.</p>
+  <ol class="quiz-steps" id="quiz-steps"></ol>
+  <div class="quiz-stage">
+    <div class="quiz-listen" id="quiz-listen" hidden><span class="quiz-listen-icon" aria-hidden="true">🔊</span><audio id="quiz-audio" controls preload="none"></audio><p class="source" id="quiz-audio-credit"></p></div>
+    <div class="quiz-frame" id="quiz-frame" hidden><img id="quiz-img" alt="Udsnit af dagens fugl"></div>
+    <p class="quiz-hint" id="quiz-hint" hidden></p>
+  </div>
+  <div class="quiz-opts" id="quiz-opts" role="group" aria-label="Svarmuligheder"></div>
+  <p class="quiz-actions"><button type="button" class="linkbtn" id="quiz-skip">Jeg ved det ikke – giv mig næste ledetråd</button></p>
+  <div class="quiz-result" id="quiz-result" hidden></div>
+  <div class="quiz-stats" id="quiz-stats"></div>
+  <script type="application/json" id="quiz-data">${JSON.stringify(data).replace(/</g, '\\u003c')}</script>
+</section>`;
+  }
+
   write('index.html', page({
-    title: todayBird ? `Dagens fugl: ${displayName(todayBird)} | ${SITE_NAME}` : SITE_NAME,
-    description: todayBird
-      ? `Dagens fugl er ${displayName(todayBird)}. Hver dag en ny fugl med billeder af fjerdragt, hvornår og hvor du kan se den, og kort over udbredelsen.`
-      : 'Hver dag en ny fugl – danske og udenlandske – med billeder, kort og sæson.',
+    title: `${SITE_NAME} – gæt dagens fugl`,
+    description: 'Hver dag en ny fugl at gætte: lyt til stemmen, se et udsnit af billedet og få ledetråde. Bagefter kan du læse om fjerdragt, sæson og udbredelse.',
     canonical: abs(''),
-    image: todayBird?.photos?.hero?.large,
     jsonld: {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
@@ -589,59 +645,8 @@ function main() {
 
 
   const extraUrls = [];
-  // --- Gæt fuglen (daglig gætteleg) ---
-  // Egen rækkefølge, så det ikke er dagens fugl. Kun danske fugle med billede.
-  const quizPool = species.filter((d) => d.region === 'dk' && d.photos?.hero?.medium).map((d) => d.key);
-  const quizKeys = [...quizPool].sort();
-  const quizDays = {};
-  for (let i = -1; i <= 8; i++) {
-    const iso = addDays(today, i);
-    const dayNo = Math.round((Date.parse(`${iso}T12:00:00Z`) - Date.parse(`${SCHEDULE_START}T12:00:00Z`)) / 864e5);
-    const n = quizKeys.length;
-    const perm = permutation(quizKeys, `quiz-${Math.floor(dayNo / n)}`);
-    const d = byKey.get(perm[((dayNo % n) + n) % n]);
-    // tre forkerte svar: helst samme slægt, ellers tilfældige danske fugle (fast pr. dag)
-    const rnd = mulberry32(hashStr(`quiz-opts:${iso}`));
-    const genus = d.names.accepted.split(' ')[0];
-    const same = (byGenus.get(genus) || []).filter((x) => x.key !== d.key && x.region === 'dk' && x.photos?.hero);
-    const others = quizPool.filter((k) => k !== d.key).map((k) => byKey.get(k));
-    const wrong = [];
-    for (const x of [...same].sort(() => rnd() - 0.5)) if (wrong.length < 2) wrong.push(x);
-    while (wrong.length < 3) { const x = others[Math.floor(rnd() * others.length)]; if (!wrong.includes(x)) wrong.push(x); }
-    const opts = [d, ...wrong].sort(() => rnd() - 0.5);
-    const ph = d.photos.hero;
-    // lidt tilfældigt udsnit, men tæt på midten, hvor fuglen som regel er
-    const fx = 35 + Math.floor(rnd() * 30); const fy = 35 + Math.floor(rnd() * 30);
-    quizDays[iso] = {
-      no: dayNo + 1,
-      img: ph.medium.replace('/medium.', '/large.'),
-      fx, fy,
-      credit: credit(ph),
-      opts: opts.map((x) => ({ k: x.key, n: displayName(x) })),
-      a: Buffer.from(d.key).toString('base64'), // ikke hemmeligt, men ikke synligt med det samme
-      u: url(speciesUrl(d)),
-      name: displayName(d),
-      sci: d.names.accepted,
-    };
-  }
-  write('gaet/dage.json', JSON.stringify(quizDays));
-  write('gaet/index.html', page({
-    title: `Gæt fuglen – dagens fuglequiz | ${SITE_NAME}`,
-    description: 'Hver dag en ny fugl at gætte. Du ser et lille udsnit af et billede og har tre forsøg. Hold din stime i gang og del dit resultat.',
-    canonical: abs('gaet/'),
-    body: `<section class="quiz" id="quiz">
-  <p class="kicker">Gæt fuglen · <span id="quiz-no"></span></p>
-  <h1>Hvilken fugl er det?</h1>
-  <p class="lede">Du har tre forsøg. For hvert forkert gæt ser du lidt mere af billedet.</p>
-  <div class="quiz-frame"><img id="quiz-img" alt="Udsnit af dagens quizfugl"></div>
-  <div class="quiz-opts" id="quiz-opts" role="group" aria-label="Svarmuligheder"></div>
-  <div class="quiz-result" id="quiz-result" hidden></div>
-  <div class="quiz-stats" id="quiz-stats"></div>
-  <noscript><p>Gættelegen kræver JavaScript.</p></noscript>
-</section>
-<section class="block small"><h2>Sådan virker det</h2><p>Hver dag ved midnat kommer en ny fugl – den samme for alle. Gætter du rigtigt, vokser din stime. Dine resultater gemmes kun i din egen browser. Fuglene er danske arter med billeder fra <a href="https://www.inaturalist.org" rel="noopener" target="_blank">iNaturalist</a>.</p></section>`,
-  }));
-  extraUrls.push({ loc: abs('gaet/'), freq: 'daily', lastmod: today });
+  // Gammel adresse for gættelegen – sender videre til forsiden
+  write('gaet/index.html', `<!doctype html><html lang="da"><head><meta charset="utf-8"><title>${esc(SITE_NAME)}</title><link rel="canonical" href="${abs('')}"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=${url('')}"></head><body><a href="${url('')}">Gå til Dagens Fugl</a></body></html>`);
 
   // --- danske og udenlandske fugle (egne sider, så Google kan finde dem) ---
   for (const [slug, region, h1, intro] of [

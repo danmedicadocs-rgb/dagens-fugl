@@ -142,6 +142,46 @@ async function inatPhotos(taxonId, seen) {
   return out;
 }
 
+// ---------- Lyd fra Wikimedia Commons ----------
+// Mange fuglestemmer fra xeno-canto er lagt på Commons under frie licenser (ingen API-nøgle nødvendig).
+const SOUND_LICENSE = /^(cc0|public domain|cc by(-sa)? [0-9.]+)$/i;
+const stripHtml = (h) => String(h || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+
+async function commonsSound(sciName) {
+  const search = `"${sciName}" filetype:audio`;
+  const d = await getJson(`https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=search&gsrnamespace=6&gsrlimit=10&gsrsearch=${q(search)}&prop=videoinfo&viprop=url|mime|extmetadata|derivatives`);
+  const pages = (d?.query?.pages || []).sort((a, b) => (a.index || 0) - (b.index || 0));
+  const name = sciName.toLowerCase();
+  const scored = [];
+  for (const pg of pages) {
+    const info = pg.videoinfo?.[0];
+    if (!info) continue;
+    const title = (pg.title || '').toLowerCase();
+    if (!title.includes(name)) continue; // skal handle om netop denne art
+    const meta = info.extmetadata || {};
+    const lic = stripHtml(meta.LicenseShortName?.value);
+    if (!SOUND_LICENSE.test(lic)) continue;
+    const src = [];
+    for (const dv of info.derivatives || []) {
+      if (/mpeg|mp3/i.test(dv.type || '') && dv.src) src.push({ u: dv.src, type: 'audio/mpeg' });
+    }
+    if (info.url) src.push({ u: info.url, type: info.mime || '' });
+    if (!src.length) continue;
+    // sang foretrækkes frem for kald
+    const score = (/song|sang/.test(title) ? 2 : 0) + (/call|kald|alarm/.test(title) ? 0 : 1);
+    scored.push({ score, s: {
+      src,
+      license: lic,
+      licenseUrl: stripHtml(meta.LicenseUrl?.value) || null,
+      artist: stripHtml(meta.Artist?.value).slice(0, 120) || null,
+      page: info.descriptionurl || `https://commons.wikimedia.org/wiki/${q(pg.title)}`,
+    } });
+  }
+  scored.sort((a, b) => b.score - a.score);
+  return scored[0]?.s || null;
+}
+const SOUND_VERSION = 1;
+
 // ---------- GBIF ----------
 async function gbifKey(sciName, fromWikidata) {
   if (fromWikidata) {
@@ -210,6 +250,7 @@ async function fetchSpecies(sp, old) {
   }
 
   const gbif = gKey ? await step('gbif statistik', () => gbifStats(gKey)) : undefined;
+  const sound = await step('commons lyd', () => commonsSound(taxon?.name || sp.name));
 
   // Hvis et trin fejlede, behold de gamle data for netop det felt.
   const keep = (val, oldVal) => (val === undefined ? (oldVal ?? null) : val);
@@ -224,6 +265,8 @@ async function fetchSpecies(sp, old) {
     inat: taxon ? { id: taxon.id, observations: taxon.observations_count || 0 } : old?.inat || null,
     photos: keep(photos, old?.photos),
     gbif: gbif ? { key: gKey, ...gbif } : old?.gbif || null,
+    sound: sound === undefined ? (old?.sound ?? null) : sound,
+    soundVersion: SOUND_VERSION,
     photoVersion: PHOTO_VERSION,
     warnings: warn,
   };
@@ -263,6 +306,20 @@ async function main() {
     writeJson(SLUGS_FILE, slugs); // gem løbende, hvis kørslen afbrydes
   }
   console.log(`Færdig: ${ok}/${due.length} uden advarsler.`);
+
+  // Hent lyd til arter, der endnu ikke har været tjekket (let – kun ét kald pr. art).
+  const SOUND_FETCH = Number(process.env.SOUND_FETCH || 700);
+  const noSound = list.map((sp) => ({ sp, d: readCache(sp.key) })).filter(({ d }) => d && d.soundVersion !== SOUND_VERSION).slice(0, SOUND_FETCH);
+  let found = 0;
+  for (const { sp, d } of noSound) {
+    try {
+      d.sound = await commonsSound(d.names?.accepted || sp.name);
+      d.soundVersion = SOUND_VERSION;
+      if (d.sound) found++;
+      writeJson(cachePath(sp.key), d);
+    } catch (e) { console.log(`    lyd ${sp.name}: ${e.message}`); }
+  }
+  if (noSound.length) console.log(`Lyd: tjekket ${noSound.length} arter, fundet lyd til ${found}.`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

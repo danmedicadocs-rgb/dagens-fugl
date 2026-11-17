@@ -102,120 +102,147 @@
   }
 
 
-  // ---- Gæt fuglen ----
+  // ---- Dagens gætteleg ----
   var QKEY = 'dagensfugl-quiz';
-  function qLoad() { try { return JSON.parse(localStorage.getItem(QKEY) || 'null') || { days: {}, streak: 0, best: 0, lastWin: null }; } catch (e) { return { days: {}, streak: 0, best: 0, lastWin: null, noStore: true }; } }
+  function qLoad() { try { return JSON.parse(localStorage.getItem(QKEY) || 'null') || { days: {}, streak: 0, best: 0, lastWin: null }; } catch (e) { return { days: {}, streak: 0, best: 0, lastWin: null }; } }
   function qSave(s) { try { localStorage.setItem(QKEY, JSON.stringify(s)); } catch (e) {} }
-  function dkToday(offset) {
-    var d = new Date(Date.now() + (offset || 0) * 864e5);
-    return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Copenhagen' }).format(d);
-  }
-  function streakNow(s) {
-    // stimen gælder kun, hvis sidste sejr var i dag eller i går
-    return (s.lastWin === dkToday(0) || s.lastWin === dkToday(-1)) ? s.streak : 0;
-  }
+  function addDay(iso, n) { var d = new Date(iso + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
 
-  var teaser = document.getElementById('teaser-status');
-  if (teaser) {
-    var ts = qLoad(); var t = ts.days[dkToday(0)];
-    var st = streakNow(ts);
-    if (t && t.done) teaser.textContent = (t.won ? 'Du gættede dagens fugl' : 'Dagens quiz er spillet') + (st ? ' – stime: ' + st + ' 🔥' : '') + '. Ny fugl i morgen.';
-    else if (st) teaser.textContent = 'Din stime er på ' + st + ' 🔥 – hold den i gang med dagens fugl.';
-  }
+  var dataEl = document.getElementById('quiz-data');
+  var reveal = document.getElementById('reveal');
+  if (dataEl) {
+    var qd = JSON.parse(dataEl.textContent);
+    var answer = atob(qd.a);
+    var iso = qd.date;
+    var s = qLoad();
+    var day = s.days[iso] || (s.days[iso] = { guesses: [], won: false, done: false });
+    if (!day.guesses) day.guesses = [];
+    var steps = qd.steps;
+    var MAX = steps.length;
 
-  var quiz = document.getElementById('quiz');
-  if (quiz) {
-    var ZOOM = [3.4, 2, 1];
+    var stepsEl = document.getElementById('quiz-steps');
+    var listen = document.getElementById('quiz-listen');
+    var audio = document.getElementById('quiz-audio');
+    var frame = document.getElementById('quiz-frame');
     var img = document.getElementById('quiz-img');
+    var hintEl = document.getElementById('quiz-hint');
     var optsEl = document.getElementById('quiz-opts');
+    var skip = document.getElementById('quiz-skip');
     var resEl = document.getElementById('quiz-result');
     var statsEl = document.getElementById('quiz-stats');
-    var iso = dkToday(0);
-    fetch(BASE + '/gaet/dage.json').then(function (r) { return r.json(); }).then(function (days) {
-      var q = days[iso];
-      if (!q) { optsEl.textContent = 'Dagens quiz er ikke klar endnu. Prøv igen om lidt.'; return; }
-      var answer = atob(q.a);
-      var s = qLoad();
-      var day = s.days[iso] || (s.days[iso] = { guesses: [], won: false, done: false });
-      document.getElementById('quiz-no').textContent = '#' + q.no;
-      img.src = q.img;
-      img.style.transformOrigin = q.fx + '% ' + q.fy + '%';
 
-      function zoom() {
-        var z = day.done ? 1 : ZOOM[Math.min(day.guesses.length, ZOOM.length - 1)];
-        img.style.transform = 'scale(' + z + ')';
-      }
-      function squares() {
-        return day.guesses.map(function (g) { return g === answer ? '🟩' : '🟥'; }).join('');
-      }
-      function shareText() {
-        return 'Dagens Fugl #' + q.no + ' ' + squares() + ' ' + (day.won ? day.guesses.length : 'X') + '/3\n' + location.origin + BASE + '/gaet/';
-      }
-      function countdown() {
-        var now = new Date();
-        var parts = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Copenhagen', hour: '2-digit', minute: '2-digit', hour12: false }).format(now).split(':');
-        var left = 24 * 60 - (Number(parts[0]) * 60 + Number(parts[1]));
-        return Math.floor(left / 60) + ' t ' + (left % 60) + ' min';
-      }
-      function renderStats() {
-        var played = 0, won = 0;
-        Object.keys(s.days).forEach(function (k) { if (s.days[k].done) { played++; if (s.days[k].won) won++; } });
-        var cells = [['Spillet', played], ['Gættet', played ? Math.round(100 * won / played) + ' %' : '–'], ['Stime', streakNow(s) + (streakNow(s) ? ' 🔥' : '')], ['Bedste stime', s.best || 0]];
-        statsEl.innerHTML = '';
-        cells.forEach(function (c) {
-          var d = document.createElement('div'); d.className = 'stat';
-          var b = document.createElement('strong'); b.textContent = c[1];
-          var l = document.createElement('span'); l.textContent = c[0];
-          d.appendChild(b); d.appendChild(l); statsEl.appendChild(d);
-        });
-      }
-      function renderOpts() {
-        optsEl.innerHTML = '';
-        q.opts.forEach(function (o) {
-          var b = document.createElement('button'); b.type = 'button'; b.className = 'quiz-opt'; b.textContent = o.n;
-          var guessed = day.guesses.indexOf(o.k) !== -1;
-          if (guessed) b.classList.add(o.k === answer ? 'right' : 'wrong');
-          if (day.done && o.k === answer) b.classList.add('right');
-          b.disabled = day.done || guessed;
-          b.addEventListener('click', function () { guess(o.k); });
-          optsEl.appendChild(b);
-        });
-      }
-      function renderResult() {
-        if (!day.done) { resEl.hidden = true; return; }
-        resEl.hidden = false; resEl.innerHTML = '';
-        var h = document.createElement('p'); h.className = 'big';
-        h.textContent = day.won ? (day.guesses.length === 1 ? 'Første forsøg – flot! ' : 'Rigtigt! ') + 'Det er ' + q.name.toLowerCase() + '.' : 'Desværre – det var ' + q.name.toLowerCase() + '.';
-        var line = document.createElement('p'); line.className = 'quiz-squares'; line.textContent = squares();
-        var cred = document.createElement('p'); cred.className = 'source'; cred.innerHTML = q.credit;
-        var row = document.createElement('div'); row.className = 'more';
-        var share = document.createElement('button'); share.type = 'button'; share.className = 'button'; share.textContent = 'Del resultat';
-        share.addEventListener('click', function () {
-          var txt = shareText();
-          if (navigator.share) { navigator.share({ text: txt }).catch(function () {}); return; }
-          (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(function () { share.textContent = 'Kopieret ✓'; }, function () { window.prompt('Kopiér dit resultat:', txt); });
-        });
-        var read = document.createElement('a'); read.className = 'button ghost'; read.href = q.u; read.textContent = 'Læs om ' + q.name.toLowerCase();
-        row.appendChild(share); row.appendChild(read);
-        var next = document.createElement('p'); next.className = 'muted'; next.textContent = 'Ny fugl om ' + countdown() + '.';
-        resEl.appendChild(h); resEl.appendChild(line); resEl.appendChild(row); resEl.appendChild(cred); resEl.appendChild(next);
-      }
-      function guess(k) {
-        if (day.done || day.guesses.indexOf(k) !== -1) return;
-        day.guesses.push(k);
-        if (k === answer) {
-          day.won = true; day.done = true;
-          s.streak = (s.lastWin === dkToday(-1)) ? s.streak + 1 : 1;
-          s.lastWin = iso;
-          s.best = Math.max(s.best || 0, s.streak);
-        } else if (day.guesses.length >= 3) {
-          day.done = true; s.streak = 0;
-        }
-        qSave(s); render();
-      }
-      function render() { zoom(); renderOpts(); renderResult(); renderStats(); }
-      render();
-    }).catch(function () { optsEl.textContent = 'Kunne ikke hente dagens quiz.'; });
+    if (qd.sound) {
+      qd.sound.src.forEach(function (x) { var so = document.createElement('source'); so.src = x.u; if (x.type) so.type = x.type; audio.appendChild(so); });
+      var cr = document.getElementById('quiz-audio-credit');
+      var a = document.createElement('a'); a.href = qd.sound.page; a.target = '_blank'; a.rel = 'noopener'; a.textContent = qd.sound.credit; cr.appendChild(a);
+    }
+    if (qd.img) { img.src = qd.img; img.style.transformOrigin = qd.fx + '% ' + qd.fy + '%'; }
+
+    function stage() { return day.done ? MAX - 1 : Math.min(day.guesses.length, MAX - 1); }
+    function streakNow() { return (s.lastWin === iso || s.lastWin === addDay(iso, -1)) ? s.streak : 0; }
+    function marks() { return day.guesses.map(function (g) { return g === answer ? '🟩' : g === '-' ? '⬜' : '🟥'; }).join(''); }
+
+    function renderSteps() {
+      stepsEl.innerHTML = '';
+      var cur = stage();
+      steps.forEach(function (st, i) {
+        var li = document.createElement('li');
+        li.textContent = (i + 1) + '. ' + st.label;
+        var g = day.guesses[i];
+        if (g === answer) li.className = 'ok';
+        else if (g) li.className = 'used';
+        else if (i === cur && !day.done) li.className = 'now';
+        stepsEl.appendChild(li);
+      });
+    }
+    function renderStage() {
+      var cur = stage();
+      var hasSound = steps.some(function (st) { return st.t === 'lyd'; });
+      listen.hidden = !hasSound;
+      // billedet vises fra første billedtrin
+      var firstImg = -1, z = null;
+      steps.forEach(function (st, i) { if (st.z && firstImg < 0) firstImg = i; });
+      for (var i = 0; i <= cur; i++) if (steps[i].z) z = steps[i].z;
+      if (day.done) z = 1;
+      frame.hidden = !qd.img || z === null;
+      if (z !== null) img.style.transform = 'scale(' + z + ')';
+      var hintAt = -1; steps.forEach(function (st, i) { if (st.t === 'ledetraad') hintAt = i; });
+      hintEl.hidden = !(day.done || cur >= hintAt);
+      hintEl.textContent = '💡 ' + qd.hint;
+    }
+    function renderOpts() {
+      optsEl.innerHTML = '';
+      qd.opts.forEach(function (o) {
+        var b = document.createElement('button'); b.type = 'button'; b.className = 'quiz-opt'; b.textContent = o.n;
+        var guessed = day.guesses.indexOf(o.k) !== -1;
+        if (guessed) b.classList.add(o.k === answer ? 'right' : 'wrong');
+        if (day.done && o.k === answer) b.classList.add('right');
+        b.disabled = day.done || guessed;
+        b.addEventListener('click', function () { guess(o.k); });
+        optsEl.appendChild(b);
+      });
+      skip.hidden = day.done || day.guesses.length >= MAX - 1;
+    }
+    function renderStats() {
+      var played = 0, won = 0;
+      Object.keys(s.days).forEach(function (k) { if (s.days[k].done) { played++; if (s.days[k].won) won++; } });
+      var st = streakNow();
+      var cells = [['Spillet', played], ['Gættet', played ? Math.round(100 * won / played) + ' %' : '–'], ['Stime', st + (st ? ' 🔥' : '')], ['Bedste stime', s.best || 0]];
+      statsEl.innerHTML = '';
+      cells.forEach(function (c) {
+        var d = document.createElement('div'); d.className = 'stat';
+        var b = document.createElement('strong'); b.textContent = c[1];
+        var l = document.createElement('span'); l.textContent = c[0];
+        d.appendChild(b); d.appendChild(l); statsEl.appendChild(d);
+      });
+    }
+    function countdown() {
+      var p = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Copenhagen', hour: '2-digit', minute: '2-digit', hour12: false }).format(new Date()).split(':');
+      var left = 24 * 60 - (Number(p[0]) * 60 + Number(p[1]));
+      return Math.floor(left / 60) + ' t ' + (left % 60) + ' min';
+    }
+    function renderResult() {
+      if (!day.done) { resEl.hidden = true; return; }
+      resEl.hidden = false; resEl.innerHTML = '';
+      var n = day.guesses.length;
+      var h = document.createElement('p'); h.className = 'big';
+      h.textContent = day.won ? (n === 1 ? 'Wow – i første forsøg! ' : 'Rigtigt! ') + 'Dagens fugl er ' + qd.name.toLowerCase() + '.' : 'Ikke i dag – dagens fugl er ' + qd.name.toLowerCase() + '.';
+      var line = document.createElement('p'); line.className = 'quiz-squares'; line.textContent = marks();
+      var row = document.createElement('div'); row.className = 'more';
+      var share = document.createElement('button'); share.type = 'button'; share.className = 'button'; share.textContent = 'Del resultat';
+      share.addEventListener('click', function () {
+        var txt = 'Dagens Fugl #' + qd.no + '\n' + marks() + ' ' + (day.won ? n : 'X') + '/' + MAX + '\n' + location.origin + BASE + '/';
+        if (navigator.share) { navigator.share({ text: txt }).catch(function () {}); return; }
+        (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(function () { share.textContent = 'Kopieret ✓'; }, function () { window.prompt('Kopiér dit resultat:', txt); });
+      });
+      var read = document.createElement('a'); read.className = 'button ghost'; read.href = '#reveal'; read.textContent = 'Læs om ' + qd.name.toLowerCase() + ' ↓';
+      row.appendChild(share); row.appendChild(read);
+      var next = document.createElement('p'); next.className = 'muted'; next.textContent = 'Ny fugl om ' + countdown() + '.';
+      resEl.appendChild(h); resEl.appendChild(line); resEl.appendChild(row); resEl.appendChild(next);
+    }
+    function render() {
+      renderSteps(); renderStage(); renderOpts(); renderResult(); renderStats();
+      if (reveal) { if (day.done) reveal.removeAttribute('data-locked'); else reveal.setAttribute('data-locked', ''); }
+    }
+    function finish(won) {
+      day.done = true; day.won = won;
+      if (won) { s.streak = (s.lastWin === addDay(iso, -1)) ? s.streak + 1 : 1; s.lastWin = iso; s.best = Math.max(s.best || 0, s.streak); }
+      else s.streak = 0;
+    }
+    function guess(k) {
+      if (day.done || day.guesses.indexOf(k) !== -1) return;
+      day.guesses.push(k);
+      if (k === answer) finish(true);
+      else if (day.guesses.length >= MAX) finish(false);
+      qSave(s); render();
+    }
+    skip.addEventListener('click', function () {
+      if (day.done || day.guesses.length >= MAX - 1) return;
+      day.guesses.push('-'); qSave(s); render();
+    });
+    render();
+  } else if (reveal) {
+    reveal.removeAttribute('data-locked');
   }
 
   // ---- Kort (GBIF) ----
