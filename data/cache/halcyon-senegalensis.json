@@ -2,7 +2,7 @@
  "key": "halcyon-senegalensis",
  "name": "Halcyon senegalensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:14.063Z",
+ "fetchedAt": "2026-11-17T20:09:14.782Z",
  "names": {
   "da": "Skovisfugl",
   "en": "Woodland Kingfisher",
@@ -19,53 +19,73 @@
  },
  "inat": {
   "id": 2337,
-  "observations": 3814
+  "observations": 3824
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 10923804,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10923804/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10923804/large.jpg",
+    "attribution": "(c) Luis Querido, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8237326",
+    "place": "Ícolo e Bengo, Angola",
+    "date": "2017-10-01"
+   },
+   {
+    "id": 13287827,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13287827/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13287827/large.jpg",
+    "attribution": "(c) Callum Evans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9715562",
+    "place": "Ngamiland South District, Botswana",
+    "date": "2017-12-31"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 591190657,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/326423824",
-    "place": "Viana, Luanda, AO",
-    "date": "2025-09-26"
+    "id": 20458324,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20458324/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20458324/large.jpeg",
+    "attribution": "(c) fayne, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/13860260",
+    "place": "The Greater Woodmead Estate",
+    "date": "2018-01-31"
    },
    {
-    "id": 336804913,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336804913/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336804913/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/191921478",
-    "place": "Ehlanzeni, Mpumalanga, South Africa",
-    "date": "2023-11-22"
+    "id": 593686786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593686786/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593686786/large.jpg",
+    "attribution": "(c) Babajide Agboola, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/327682906",
+    "place": "H8MW+V77 Ikeja Golf Club, Fajuyi Way, Ikeja GRA, Lagos 101233, Lagos, Nigeria",
+    "date": "2025-11-16"
    },
    {
-    "id": 337203619,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337203619/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337203619/large.jpeg",
-    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/192127445",
-    "place": "9HMJ+FR6, Franceville, Gabon",
-    "date": "2023-08-08"
+    "id": 479876815,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479876815/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479876815/large.jpg",
+    "attribution": "(c) Jeanette Zitzer, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/267055479",
+    "place": "Kruger-Nationalpark, Nkomazi, Mpumalanga, ZA",
+    "date": "2025-03-26"
    }
   ],
   "hero": {
-   "id": 591190657,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591190657/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/326423824",
-   "place": "Viana, Luanda, AO",
-   "date": "2025-09-26"
+   "id": 9906575,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9906575/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9906575/large.jpg",
+   "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/9906575",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,11 +105,11 @@
    0,
    0
   ],
-  "worldTotal": 112622,
+  "worldTotal": 112615,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 58134
+    "count": 58130
    },
    {
     "code": "UG",
@@ -97,7 +117,7 @@
    },
    {
     "code": "GH",
-    "count": 4415
+    "count": 4416
    },
    {
     "code": "BW",
@@ -137,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

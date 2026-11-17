@@ -2,7 +2,7 @@
  "key": "egretta-thula",
  "name": "Egretta thula",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:14.318Z",
+ "fetchedAt": "2026-11-17T20:20:02.830Z",
  "names": {
   "da": "Snehejre",
   "en": "Snowy Egret",
@@ -19,43 +19,94 @@
  },
  "inat": {
   "id": 4940,
-  "observations": 185829
+  "observations": 186281
  },
  "photos": {
   "male": [
    {
-    "id": 586152157,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586152157/large.jpg",
-    "attribution": "(c) Wes Copas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/323902381",
-    "place": "Olmos Park, TX 78212, USA",
-    "date": "2025-10-29"
+    "id": 2415216,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2415216/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2415216/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1970914",
+    "place": "Anahuac N.W.R., Texas",
+    "date": "2015-09-21"
    },
    {
-    "id": 261303769,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261303769/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261303769/large.jpeg",
-    "attribution": "(c) mfeaver, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/151442508",
-    "place": "Jefferson County, FL, USA",
-    "date": "2023-03-16"
+    "id": 152373840,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/152373840/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/152373840/large.jpg",
+    "attribution": "(c) Joel Díaz López, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/92062423",
+    "place": "Cd Valles, S.L.P., México",
+    "date": "2021-08-17"
    },
    {
-    "id": 87324513,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324513/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324513/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/54866345",
-    "place": "Crissy Field, San Francisco, CA, USA",
-    "date": "2020-07-30"
+    "id": 40773647,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40773647/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40773647/large.jpeg",
+    "attribution": "(c) Francisco Xavier Delgado Moreno, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26268941",
+    "place": "Centro, 85400 Heroica Guaymas, Son., México",
+    "date": "2019-02-03"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 382755511,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/382755511/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/382755511/large.jpeg",
+    "attribution": "(c) Mike Masse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/216423714",
+    "place": "Cinco Ranch West, TX 77494, USA",
+    "date": "2024-05-17"
+   },
+   {
+    "id": 626093651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626093651/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626093651/large.jpg",
+    "attribution": "(c) leojales, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343676712",
+    "place": "Terminal Juazeiro do Norte - Centro, Juazeiro do Norte - CE, 63011, Brasil",
+    "date": "2026-03-18"
+   },
+   {
+    "id": 682258823,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682258823/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682258823/large.jpg",
+    "attribution": "(c) eleggua, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/373337607",
+    "place": "12th and Harrison Sts, Downtown Oakland, Oakland, CA, USA",
+    "date": "2026-03-30"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 510880691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510880691/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510880691/large.jpg",
+    "attribution": "(c) eleggua, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284284465",
+    "place": "12th and Harrison Sts, Downtown Oakland, Oakland, CA, USA",
+    "date": "2025-05-26"
+   },
+   {
+    "id": 482264643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482264643/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482264643/large.jpeg",
+    "attribution": "(c) johnnyrhomboid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/268309641",
+    "place": "Lakeside, CA, USA",
+    "date": "2024-07-21"
+   },
    {
     "id": 403802649,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403802649/medium.jpeg",
@@ -65,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/227609475",
     "place": "Sunset Beach, NC, USA",
     "date": "2024-07-04"
-   },
-   {
-    "id": 316931364,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316931364/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316931364/large.jpeg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/181839042",
-    "place": "Northampton County, VA, USA",
-    "date": "2023-09-04"
-   },
-   {
-    "id": 20954702,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20954702/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/14141308",
-    "place": "33446, Delray Beach, FL, US",
-    "date": "2018-07-07"
    }
   ],
   "hero": {
-   "id": 330856993,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330856993/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330856993/large.jpeg",
-   "attribution": "(c) Bill Levine, some rights reserved (CC BY), uploaded by Bill Levine",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/330856993",
+   "id": 2415351,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2415351/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2415351/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/2415351",
    "place": null,
    "date": null
   }
@@ -115,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 4204120,
+  "worldTotal": 4204128,
   "topCountries": [
    {
     "code": "US",
@@ -123,11 +154,11 @@
    },
    {
     "code": "MX",
-    "count": 147552
+    "count": 147553
    },
    {
     "code": "BR",
-    "count": 94221
+    "count": 94231
    },
    {
     "code": "AR",
@@ -159,7 +190,7 @@
    },
    {
     "code": "PA",
-    "count": 18734
+    "count": 18736
    },
    {
     "code": "PR",
@@ -167,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

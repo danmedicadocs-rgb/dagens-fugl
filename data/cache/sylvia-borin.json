@@ -2,7 +2,7 @@
  "key": "sylvia-borin",
  "name": "Sylvia borin",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:20.620Z",
+ "fetchedAt": "2026-11-17T19:54:11.632Z",
  "names": {
   "da": "Havesanger",
   "en": null,
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 15302,
-  "observations": 10773
+  "observations": 10781
  },
  "photos": {
   "male": [
+   {
+    "id": 395780030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395780030/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395780030/large.jpeg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/223374597",
+    "place": "Whinning, Co. Westmeath, Ireland",
+    "date": "2024-06-17"
+   },
+   {
+    "id": 40974108,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40974108/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40974108/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26388888",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2019-06-02"
+   },
    {
     "id": 275969993,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275969993/medium.jpeg",
@@ -32,29 +52,19 @@
     "source": "https://www.inaturalist.org/observations/159720988",
     "place": "Brockholes LWT, Preston, Lancashire, UK",
     "date": "2023-05-04"
-   },
-   {
-    "id": 656003457,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656003457/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656003457/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/359551774",
-    "place": "Paxton Pits Nature Reserve",
-    "date": "2026-05-08"
-   },
-   {
-    "id": 662077172,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662077172/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662077172/large.jpg",
-    "attribution": "(c) Merlin Renz, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/362738088",
-    "place": "92555 Trausnitz, Deutschland",
-    "date": "2026-05-17"
    }
   ],
   "female": [
+   {
+    "id": 150024685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150024685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150024685/large.jpg",
+    "attribution": "(c) Bogdan V. Kryzhatyuk, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/90757074",
+    "place": "Ковернинский р-н, Нижегородская обл., Россия",
+    "date": "2021-06-06"
+   },
    {
     "id": 276955990,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276955990/medium.jpg",
@@ -78,108 +88,106 @@
     "date": "2026-09-11"
    },
    {
-    "id": 52945816,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52945816/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52945816/large.jpg",
-    "attribution": "(c) Dmitry Kulakov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/33692849",
-    "place": "Кадуйский р-н, Вологодская обл., Россия",
-    "date": "2006-07-13"
+    "id": 347305186,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347305186/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347305186/large.jpeg",
+    "attribution": "(c) yury-redkin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197221743",
+    "place": "г. Златоуст, Челябинская обл., Россия",
+    "date": "2021-07-08"
    },
    {
-    "id": 732951384,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732951384/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732951384/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/399489989",
-    "place": "4292 Dobri dol, Bulgaria",
-    "date": "2026-09-11"
+    "id": 536100070,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536100070/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536100070/large.jpg",
+    "attribution": "(c) Ирина Рогова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/297669688",
+    "place": "Красносельский р-н, Санкт-Петербург, Россия",
+    "date": "2025-07-13"
    }
   ],
   "hero": {
-   "id": 3608435,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3608435/medium.JPG",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3608435/large.JPG",
-   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/3608435",
+   "id": 150949826,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150949826/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150949826/large.jpg",
+   "attribution": "(c) STŁ, some rights reserved (CC BY-NC), uploaded by STŁ",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/150949826",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2492942,
-  "dkTotal": 119433,
+  "dkTotal": 119439,
   "dkMonths": [
    1,
    0,
    3,
    433,
-   53950,
+   53955,
    37530,
    17253,
-   6081,
+   6082,
    4044,
    63,
    13,
    10
   ],
-  "worldTotal": 1798704,
+  "worldTotal": 1882002,
   "topCountries": [
    {
     "code": "SE",
-    "count": 465247
+    "count": 465323
    },
    {
     "code": "NL",
-    "count": 226419
+    "count": 226437
    },
    {
     "code": "ES",
-    "count": 185446
+    "count": 185450
    },
    {
     "code": "FI",
-    "count": 183346
+    "count": 183349
    },
    {
     "code": "FR",
-    "count": 153154
+    "count": 153346
    },
    {
     "code": "DK",
-    "count": 119433
+    "count": 119439
    },
    {
     "code": "NO",
-    "count": 102933
+    "count": 102943
    },
    {
     "code": "GB",
     "count": 90447
    },
    {
+    "code": "CH",
+    "count": 88629
+   },
+   {
     "code": "DE",
-    "count": 67613
+    "count": 69128
    },
    {
     "code": "BE",
-    "count": 54085
+    "count": 54086
    },
    {
     "code": "PL",
-    "count": 21814
-   },
-   {
-    "code": "EE",
-    "count": 16212
+    "count": 21815
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

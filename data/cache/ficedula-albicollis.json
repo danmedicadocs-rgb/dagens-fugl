@@ -2,7 +2,7 @@
  "key": "ficedula-albicollis",
  "name": "Ficedula albicollis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:25:08.683Z",
+ "fetchedAt": "2026-11-17T19:57:38.219Z",
  "names": {
   "da": "Hvidhalset fluesnapper",
   "en": "Collared Flycatcher",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 13133,
-  "observations": 4613
+  "observations": 4619
  },
  "photos": {
   "male": [
    {
-    "id": 121159924,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121159924/large.jpeg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/74153011",
-    "place": "Djebel El Ouahch, Constantine, Algérie",
-    "date": "2021-04-16"
+    "id": 630380501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630380501/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630380501/large.jpg",
+    "attribution": "(c) Ameen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/345866445",
+    "place": "FCQR+FMW, Hillah, Babylon Governorate, Iraq",
+    "date": "2026-03-29"
    },
    {
-    "id": 187914215,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187914215/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187914215/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/111322191",
-    "place": "Via Etnea, 260, 95100 Catania CT, Italia",
-    "date": "2022-04-13"
+    "id": 40138482,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40138482/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40138482/large.jpg",
+    "attribution": "(c) romanvrbicek, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25881935",
+    "place": "Rýmařov, Česko",
+    "date": "2019-05-24"
    },
    {
-    "id": 285605331,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285605331/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285605331/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/165025236",
-    "place": "San Giovanni in Fiore",
-    "date": "2023-05-31"
+    "id": 648575216,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/648575216/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/648575216/large.jpg",
+    "attribution": "(c) Philippa Holdridge, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/355645761",
+    "place": "Buda Landscape Protection Area, Budapest 2071 Solymár köz, 1037 Hungary",
+    "date": "2026-04-26"
    }
   ],
   "female": [
+   {
+    "id": 454676673,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454676673/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454676673/large.jpg",
+    "attribution": "(c) Natalia Melnikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/253896372",
+    "place": "Судогодский р-н, Владимирская обл., Россия",
+    "date": "2024-06-24"
+   },
+   {
+    "id": 515262181,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515262181/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515262181/large.jpg",
+    "attribution": "(c) Oleksandr Matviichuk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286612584",
+    "place": "Вінниця, Вінницька область, Україна, 21000",
+    "date": "2025-06-03"
+   },
    {
     "id": 641867980,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/641867980/medium.jpg",
@@ -64,57 +84,47 @@
     "source": "https://www.inaturalist.org/observations/351711260",
     "place": "Канівський район, Черкаська область, Україна",
     "date": "2026-04-21"
-   },
-   {
-    "id": 69159065,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69159065/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/69159065/large.jpg",
-    "attribution": "(c) talum, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/43593236",
-    "place": "Krems an der Donau, Österreich",
-    "date": "2020-04-25"
-   },
-   {
-    "id": 508715385,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508715385/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508715385/large.jpg",
-    "attribution": "(c) Andrey Polstianoi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/283125975",
-    "place": "Померки, Харьков, Харьковская область, Украина, 61000",
-    "date": "2025-05-22"
    }
   ],
   "juvenile": [
    {
-    "id": 168208298,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168208298/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168208298/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/100764732",
-    "place": "Советский р-н, Казань, Респ. Татарстан, Россия",
-    "date": "2015-07-26"
+    "id": 524930742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524930742/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524930742/large.jpg",
+    "attribution": "(c) Palavári Krónika, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291738978",
+    "place": "Nagymaros, 2626 Magyarország",
+    "date": "2025-06-21"
    },
    {
-    "id": 680458997,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680458997/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680458997/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/372384085",
-    "place": "Parco nazionale della Sila",
-    "date": "2026-06-14"
+    "id": 48092757,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48092757/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48092757/large.jpg",
+    "attribution": "(c) elizabethharpyja, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30771245",
+    "place": "Харьковская область, UA",
+    "date": "2019-06-19"
+   },
+   {
+    "id": 696504403,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/696504403/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/696504403/large.jpg",
+    "attribution": "(c) Palavári Krónika, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/380696168",
+    "place": "Nagymaros, 2626 Magyarország",
+    "date": "2026-07-11"
    }
   ],
   "hero": {
-   "id": 225952,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/225952/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/225952/large.jpg",
-   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/225952",
+   "id": 28506485,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28506485/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28506485/large.jpg",
+   "attribution": "(c) ruzovdmitry, some rights reserved (CC BY-NC), uploaded by ruzovdmitry",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/28506485",
    "place": null,
    "date": null
   }
@@ -136,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 206011,
+  "worldTotal": 206197,
   "topCountries": [
    {
     "code": "SE",
-    "count": 148176
+    "count": 148179
    },
    {
     "code": "PL",
@@ -148,7 +158,7 @@
    },
    {
     "code": "UA",
-    "count": 6377
+    "count": 6384
    },
    {
     "code": "CZ",
@@ -168,7 +178,7 @@
    },
    {
     "code": "DE",
-    "count": 3262
+    "count": 3302
    },
    {
     "code": "GR",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

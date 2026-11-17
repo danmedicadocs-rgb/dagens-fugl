@@ -2,7 +2,7 @@
  "key": "megaceryle-alcyon",
  "name": "Megaceryle alcyon",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:55.995Z",
+ "fetchedAt": "2026-11-17T20:20:59.174Z",
  "names": {
   "da": "Bæltestødfisker",
   "en": "Belted Kingfisher",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 2548,
-  "observations": 92373
+  "observations": 92658
  },
  "photos": {
   "male": [
+   {
+    "id": 6881861,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6881861/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6881861/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/5573360",
+    "place": "Port Arthur, TX, USA",
+    "date": "2017-04-04"
+   },
+   {
+    "id": 177082766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177082766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177082766/large.jpg",
+    "attribution": "(c) Sherrie Quillen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105529089",
+    "place": "United States",
+    "date": "2022-01-18"
+   },
    {
     "id": 747510784,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/747510784/medium.jpg",
@@ -32,26 +52,6 @@
     "source": "https://www.inaturalist.org/observations/406827904",
     "place": "Concord, CA, USA",
     "date": "2026-10-08"
-   },
-   {
-    "id": 349193436,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349193436/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349193436/large.jpg",
-    "attribution": "(c) Theo Rickert, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/198158808",
-    "place": "Butler County, PA, USA",
-    "date": "2024-01-31"
-   },
-   {
-    "id": 104964567,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104964567/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104964567/large.jpeg",
-    "attribution": "(c) chloe ⋆˚꩜｡, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/65237193",
-    "place": "Treasure Island",
-    "date": "2020-11-19"
    }
   ],
   "female": [
@@ -66,27 +66,47 @@
     "date": "2020-03-01"
    },
    {
-    "id": 296281525,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296281525/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296281525/large.jpeg",
-    "attribution": "(c) Gavin Slater, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/170791034",
-    "place": "Washington, US",
-    "date": "2023-07-02"
+    "id": 343645664,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343645664/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343645664/large.jpg",
+    "attribution": "(c) zimmwisdom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195350636",
+    "place": "Thurston County, WA, USA",
+    "date": "2023-12-17"
    },
    {
-    "id": 728795153,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/728795153/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/728795153/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/397359347",
-    "place": "Kitsap County, US-WA, US",
-    "date": "2026-09-04"
+    "id": 629423408,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/629423408/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/629423408/large.jpg",
+    "attribution": "(c) Stephen Taylor, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/345382833",
+    "place": "Strathroy, ON, Canada",
+    "date": "2026-03-26"
    }
   ],
   "juvenile": [
+   {
+    "id": 442837759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442837759/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442837759/large.jpg",
+    "attribution": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/247896245",
+    "place": "Chesterfield County, VA, USA",
+    "date": "2024-10-17"
+   },
+   {
+    "id": 550713437,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550713437/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550713437/large.jpg",
+    "attribution": "(c) Charlene Wood, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/305436350",
+    "place": "Cowichan Valley, BC, CA",
+    "date": "2025-08-09"
+   },
    {
     "id": 206202271,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206202271/medium.jpeg",
@@ -96,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/121827162",
     "place": "Bedford County, PA, USA",
     "date": "2022-06-14"
-   },
-   {
-    "id": 83276922,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83276922/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83276922/large.jpeg",
-    "attribution": "(c) Juli Mallett, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/52389009",
-    "place": "Capital, BC, Canada",
-    "date": "2020-07-04"
-   },
-   {
-    "id": 715893876,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715893876/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715893876/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/390741210",
-    "place": "Seattle, WA, US",
-    "date": "2026-08-12"
    }
   ],
   "hero": {
-   "id": 104964567,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104964567/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104964567/large.jpeg",
-   "attribution": "(c) chloe ⋆˚꩜｡, some rights reserved (CC BY-SA), uploaded by chloe ⋆˚꩜｡",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/104964567",
+   "id": 244248986,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/large.jpg",
+   "attribution": "(c) Dave Roberts, some rights reserved (CC BY-NC), uploaded by Dave Roberts",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/244248986",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 6544150,
+  "worldTotal": 6544153,
   "topCountries": [
    {
     "code": "US",
@@ -154,7 +154,7 @@
    },
    {
     "code": "CA",
-    "count": 887821
+    "count": 887824
    },
    {
     "code": "MX",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

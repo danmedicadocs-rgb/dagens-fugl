@@ -2,7 +2,7 @@
  "key": "coracias-caudatus",
  "name": "Coracias caudatus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:19.178Z",
+ "fetchedAt": "2026-11-17T20:06:15.425Z",
  "names": {
   "da": "Lillabrystet Ellekrage",
   "en": "Lilac-breasted Roller",
@@ -19,51 +19,92 @@
  },
  "inat": {
   "id": 2269,
-  "observations": 9999
+  "observations": 10037
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 65115306,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65115306/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/41069048",
-    "place": "Rufiji, Tanzania",
-    "date": "2015-06-25"
+    "id": 565707172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565707172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565707172/large.jpg",
+    "attribution": "(c) Kathleen L. Ryan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72985832",
+    "place": "Amboseli National Park, Kenya",
+    "date": "1988-08-17"
    },
    {
-    "id": 506454714,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506454714/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506454714/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/281917904",
-    "place": "Serengeti National Park, Tanzania",
-    "date": "2017-07-13"
+    "id": 434600110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434600110/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434600110/large.jpeg",
+    "attribution": "(c) Pete Woodall, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243705039",
+    "place": "Lake Mburo NP-eastern part, Kiruhura, Uganda",
+    "date": "2024-07-29"
    },
    {
-    "id": 698430668,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698430668/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698430668/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/381689585",
-    "place": "Ngorongoro Conservation Area, Ngorongoro, TZ",
-    "date": "2026-06-30"
+    "id": 123989820,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123989820/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123989820/large.jpeg",
+    "attribution": "(c) Patricia Osler-Rulloni, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/75766730",
+    "place": "Kruger Park, South Africa",
+    "date": "2017-11-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 56457184,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56457184/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56457184/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35778592",
+    "place": "Oshikoto, NA",
+    "date": "2017-04-06"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 13516325,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13516325/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13516325/large.jpeg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9864999",
+    "place": "D2701, Grootfontein, Bosveld, South Africa",
+    "date": "2018-02-14"
+   },
+   {
+    "id": 598550993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598550993/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598550993/large.jpg",
+    "attribution": "(c) Jeanette Zitzer, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/330121104",
+    "place": "Kruger-Nationalpark, Bushbuckridge, Mpumalanga, ZA",
+    "date": "2025-12-06"
+   },
+   {
+    "id": 320967052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320967052/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320967052/large.jpg",
+    "attribution": "(c) nancylightfoot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/183927636",
+    "place": "Babati Rural, Tanzania",
+    "date": "2023-08-26"
    }
   ],
   "hero": {
-   "id": 175604863,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175604863/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175604863/large.jpeg",
-   "attribution": "(c) Justin Ponder, some rights reserved (CC BY), uploaded by Justin Ponder",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/175604863",
+   "id": 689801400,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689801400/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689801400/large.jpg",
+   "attribution": "(c) Rails and roadtrips, some rights reserved (CC BY-NC), uploaded by Rails and roadtrips",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/689801400",
    "place": null,
    "date": null
   }
@@ -85,7 +126,7 @@
    0,
    0
   ],
-  "worldTotal": 208893,
+  "worldTotal": 208889,
   "topCountries": [
    {
     "code": "ZA",
@@ -97,7 +138,7 @@
    },
    {
     "code": "TZ",
-    "count": 17415
+    "count": 17413
    },
    {
     "code": "NA",
@@ -137,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +192,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

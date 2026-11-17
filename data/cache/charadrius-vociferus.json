@@ -2,7 +2,7 @@
  "key": "charadrius-vociferus",
  "name": "Charadrius vociferus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:51.109Z",
+ "fetchedAt": "2026-11-17T20:20:54.256Z",
  "names": {
   "da": "Kildire",
   "en": "Killdeer",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 4793,
-  "observations": 158032
+  "observations": 158287
  },
  "photos": {
   "male": [
    {
-    "id": 351424221,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351424221/large.jpeg",
-    "attribution": "(c) Mordecai-Mark Mac Low, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199285549",
-    "place": "Isla Vista, CA 93117, USA",
-    "date": "2024-02-13"
+    "id": 276754940,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276754940/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276754940/large.jpeg",
+    "attribution": "(c) Richard Coldiron, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160164392",
+    "place": "PENDLETN CNTY, KY 41040, USA",
+    "date": "2023-05-06"
    },
    {
-    "id": 191299672,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191299672/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191299672/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/113217256",
-    "place": "Westfort Village, Thunder Bay, ON, CA",
-    "date": "2022-04-26"
+    "id": 137993144,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137993144/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137993144/large.jpeg",
+    "attribution": "(c) richardbosworth, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/83933001",
+    "place": "Hammond",
+    "date": "2021-06-21"
    },
    {
-    "id": 485237648,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485237648/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485237648/large.jpg",
-    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/269849886",
-    "place": "Hopyard Rd, Pleasanton, CA, US",
-    "date": "2025-04-11"
+    "id": 175619958,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175619958/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175619958/large.jpeg",
+    "attribution": "(c) tnewman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104764486",
+    "place": "Texas, US",
+    "date": "2022-01-11"
    }
   ],
   "female": [
+   {
+    "id": 31320968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31320968/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31320968/large.jpg",
+    "attribution": "(c) Pete Romfh, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/20288861",
+    "place": "BNWR Discovery Center",
+    "date": "2012-06-02"
+   },
+   {
+    "id": 42536217,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42536217/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42536217/large.jpg",
+    "attribution": "(c) Annette Curi-Morton, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27345392",
+    "place": "Riverside Dr, Los Angeles, CA, US",
+    "date": "2019-06-20"
+   },
    {
     "id": 618756466,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618756466/medium.jpg",
@@ -64,67 +84,47 @@
     "source": "https://www.inaturalist.org/observations/340061730",
     "place": "Laguna Creek Ln, Pleasanton, CA, US",
     "date": "2026-02-23"
-   },
-   {
-    "id": 477409870,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477409870/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477409870/large.jpeg",
-    "attribution": "(c) Lexie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/265758487",
-    "place": "United States",
-    "date": "2025-03-17"
-   },
-   {
-    "id": 394377649,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394377649/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394377649/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/222625560",
-    "place": "Churchill County, NV, USA",
-    "date": "2024-06-07"
    }
   ],
   "juvenile": [
    {
-    "id": 67100327,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67100327/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67100327/large.jpeg",
-    "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/42265463",
-    "place": "Fort Worth, TX, USA",
-    "date": "2020-04-15"
+    "id": 42755328,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42755328/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42755328/large.jpg",
+    "attribution": "(c) TVASQUEZ, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27476734",
+    "place": "San Angelo, TX 76904, USA",
+    "date": "2019-06-22"
    },
    {
-    "id": 456136056,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456136056/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456136056/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/254632909",
-    "place": "Yolo County, CA, USA",
-    "date": "2024-06-11"
+    "id": 5799515,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5799515/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5799515/large.jpg",
+    "attribution": "(c) Steven Mlodinow, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/4764528",
+    "place": "Grand Isle, LA, USA",
+    "date": "2015-04-23"
    },
    {
-    "id": 673912550,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673912550/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673912550/large.jpg",
-    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/368954874",
-    "place": "Hattiesburg, MS, USA",
-    "date": "2026-06-06"
+    "id": 195105089,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195105089/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195105089/large.jpeg",
+    "attribution": "(c) Patricia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/115603341",
+    "place": "Tillamook, OR 97141, USA",
+    "date": "2022-05-04"
    }
   ],
   "hero": {
-   "id": 275634261,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275634261/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275634261/large.jpg",
-   "attribution": "(c) Eugene Zelenko, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/275634261",
+   "id": 15053771,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/large.jpg",
+   "attribution": "(c) world_lineage, some rights reserved (CC BY-NC), uploaded by world_lineage",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/15053771",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 9282667,
+  "worldTotal": 9282671,
   "topCountries": [
    {
     "code": "US",
@@ -154,7 +154,7 @@
    },
    {
     "code": "CA",
-    "count": 1128261
+    "count": 1128263
    },
    {
     "code": "MX",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "chordeiles-minor",
  "name": "Chordeiles minor",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:36.992Z",
+ "fetchedAt": "2026-11-17T20:21:45.960Z",
  "names": {
   "da": "Nathøg",
   "en": "Common Nighthawk",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 19577,
-  "observations": 20692
+  "observations": 20702
  },
  "photos": {
   "male": [
    {
-    "id": 140534674,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534674/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534674/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/85416365",
-    "place": "Jardim Veraneio, Campo Grande - MS, Brasil",
-    "date": "2020-11-08"
+    "id": 46442967,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46442967/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46442967/large.jpg",
+    "attribution": "(c) Gilles Belliveau, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29747399",
+    "place": "2069–2079 Route 933, Memramcook area, NB, CA",
+    "date": "2018-06-17"
    },
    {
-    "id": 140534229,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534229/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534229/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/85415890",
-    "place": "Ribeirão Bonito, SP, 13580-000, Brasil",
-    "date": "2019-02-26"
+    "id": 82920226,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82920226/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82920226/large.jpeg",
+    "attribution": "(c) Luis Eduardo Torres Barajas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/52172606",
+    "place": "LA MORA, Gto., México",
+    "date": "2020-07-05"
    },
    {
-    "id": 255416892,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255416892/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255416892/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/148333145",
-    "place": "Departamento de Artigas, Uruguay",
-    "date": "2023-01-17"
+    "id": 77724501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77724501/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77724501/large.jpg",
+    "attribution": "(c) Kayla Echols, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/48970833",
+    "place": "Davis County, UT, USA",
+    "date": "2020-06-01"
    }
   ],
   "female": [
+   {
+    "id": 8726888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8726888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8726888/large.jpg",
+    "attribution": "(c) Colleen M Simpson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/6849862",
+    "place": "Texas, US",
+    "date": "2017-06-29"
+   },
    {
     "id": 10806986,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10806986/medium.jpg",
@@ -66,27 +76,27 @@
     "date": "2017-09-28"
    },
    {
-    "id": 140534662,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534662/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140534662/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/85416364",
-    "place": "Jardim Veraneio, Campo Grande - MS, Brasil",
-    "date": "2020-11-08"
-   },
-   {
-    "id": 255416811,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255416811/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255416811/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/148333140",
-    "place": "Departamento de Artigas, Uruguay",
-    "date": "2023-01-17"
+    "id": 525146466,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525146466/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525146466/large.jpg",
+    "attribution": "(c) LW Ridge, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291858899",
+    "place": "Highlands County, FL, USA",
+    "date": "2025-06-19"
    }
   ],
   "juvenile": [
+   {
+    "id": 19505182,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19505182/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19505182/large.jpeg",
+    "attribution": "(c) DT, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/13316473",
+    "place": "Ocracoke, NC 27960, USA",
+    "date": "2018-06-10"
+   },
    {
     "id": 109318484,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109318484/medium.jpg",
@@ -98,33 +108,23 @@
     "date": "2018-05-15"
    },
    {
-    "id": 12174179,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12174179/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12174179/large.jpeg",
-    "attribution": "(c) Jason Hill, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/9026128",
-    "place": "Fort Riley, KS, USA",
-    "date": "2016-06-11"
-   },
-   {
-    "id": 106520878,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106520878/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106520878/large.jpeg",
-    "attribution": "(c) Ian Adams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66119372",
-    "place": "East Kootenay, CA-BC, CA",
-    "date": "2020-07-16"
+    "id": 28383423,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28383423/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28383423/large.jpg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18552527",
+    "place": "Robert Campbell Hwy, , YT, CA",
+    "date": "2018-06-29"
    }
   ],
   "hero": {
-   "id": 14987767,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14987767/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14987767/large.jpeg",
-   "attribution": "(c) Pete Diamond, some rights reserved (CC BY), uploaded by Pete Diamond",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/14987767",
+   "id": 279194539,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279194539/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279194539/large.jpg",
+   "attribution": "(c) Mike Stewart, some rights reserved (CC BY-NC), uploaded by Mike Stewart",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/279194539",
    "place": null,
    "date": null
   }
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

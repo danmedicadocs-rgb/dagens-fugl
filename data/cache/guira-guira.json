@@ -2,7 +2,7 @@
  "key": "guira-guira",
  "name": "Guira guira",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:51:08.018Z",
+ "fetchedAt": "2026-11-17T20:27:00.003Z",
  "names": {
   "da": "Guira",
   "en": "Guira Cuckoo",
@@ -19,82 +19,81 @@
  },
  "inat": {
   "id": 1979,
-  "observations": 12221
+  "observations": 12274
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 482253490,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482253490/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482253490/large.jpeg",
+    "attribution": "(c) Larissa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/268300781",
+    "place": "Estrada do Machadinho, Km 3,2, s/n Zona Rural, Santo Antônio do Pinhal - SP, 12450-000, Brasil",
+    "date": "2025-04-02"
+   },
+   {
+    "id": 463569857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463569857/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463569857/large.jpeg",
+    "attribution": "(c) Yby Naturalista, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258384169",
+    "place": "YBY Natureza Condomínio Reserva",
+    "date": "2025-01-13"
+   },
+   {
+    "id": 640723242,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/640723242/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/640723242/large.jpg",
+    "attribution": "(c) Anima Motrix, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/351131146",
+    "place": "Agronomía, Cdad. Autónoma de Buenos Aires, Argentina",
+    "date": "2026-04-18"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 497758255,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/497758255/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/497758255/large.jpeg",
-    "attribution": "(c) Raquel Mondino, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/277205390",
-    "place": "Ñuflo de Chávez, Bolivia",
-    "date": "2025-04-26"
+    "id": 357219068,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/357219068/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/357219068/large.jpeg",
+    "attribution": "(c) Paola Torres, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202276768",
+    "place": "Bajada Playa Grande, 27204 Punta del Diablo, Departamento de Rocha, Uruguay",
+    "date": "2024-03-01"
    },
    {
-    "id": 135367420,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135367420/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135367420/large.jpeg",
-    "attribution": "(c) Rodrigo Paiva Lázaro, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/82476351",
-    "place": "Jardim Barbacena, Cotia - SP, Brasil",
-    "date": "2013-03-30"
+    "id": 401865484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401865484/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401865484/large.jpeg",
+    "attribution": "(c) maurrro, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/226581970",
+    "place": "15200 Las Toscas, Departamento de Canelones, Uruguay",
+    "date": "2024-03-14"
    },
    {
-    "id": 257114935,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257114935/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257114935/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/149228968",
-    "place": "Arroyo Leyes, Santa Fe, Argentina",
-    "date": "2017-05-04"
-   }
-  ],
-  "adult": [
-   {
-    "id": 60230959,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60230959/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/37944533",
-    "place": "Cruz Alta - RS, Brasil",
-    "date": "2020-01-24"
-   },
-   {
-    "id": 111280249,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111280249/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111280249/large.jpeg",
-    "attribution": "(c) Mateo Cocimano, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68684368",
-    "place": "La Capilla, Provincia de Buenos Aires, Argentina",
-    "date": "2021-01-25"
-   },
-   {
-    "id": 249273902,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249273902/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249273902/large.jpeg",
-    "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145143744",
-    "place": "São Paulo, BR-SP, BR",
-    "date": "2022-12-26"
+    "id": 363347234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363347234/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363347234/large.jpeg",
+    "attribution": "(c) Yby Naturalista, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/205456256",
+    "place": "YBY Natureza Condomínio Reserva",
+    "date": "2024-04-04"
    }
   ],
   "hero": {
-   "id": 1112388,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1112388/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1112388/large.jpg",
-   "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY), uploaded by Nicolas Olejnik",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1112388",
+   "id": 244127713,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244127713/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244127713/large.jpeg",
+   "attribution": "(c) Andrés Pautasso, some rights reserved (CC BY-NC), uploaded by Andrés Pautasso",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/244127713",
    "place": null,
    "date": null
   }
@@ -116,15 +115,15 @@
    0,
    0
   ],
-  "worldTotal": 216770,
+  "worldTotal": 216775,
   "topCountries": [
    {
     "code": "BR",
-    "count": 97656
+    "count": 97662
    },
    {
     "code": "AR",
-    "count": 89614
+    "count": 89616
    },
    {
     "code": "UY",
@@ -132,7 +131,7 @@
    },
    {
     "code": "PY",
-    "count": 10443
+    "count": 10440
    },
    {
     "code": "BO",
@@ -168,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

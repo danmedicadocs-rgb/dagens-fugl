@@ -2,7 +2,7 @@
  "key": "nannopterum-harrisi",
  "name": "Nannopterum harrisi",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:52:12.530Z",
+ "fetchedAt": "2026-11-17T20:28:13.338Z",
  "names": {
   "da": "Galapagosskarv",
   "en": "Flightless Cormorant",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1289603,
-  "observations": 867
+  "observations": 868
  },
  "photos": {
   "male": [],
@@ -27,24 +27,34 @@
   "juvenile": [],
   "adult": [
    {
-    "id": 39968540,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39968540/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39968540/large.jpg",
-    "attribution": "(c) J Brew, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/25781789",
-    "place": "Puerto Villamil, Galapagos, Ecuador",
-    "date": "2019-05-16"
+    "id": 606792326,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606792326/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606792326/large.jpg",
+    "attribution": "(c) geotropics, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334169369",
+    "place": "Parque Nacional Galápagos, Isabela, Galapagos, EC",
+    "date": "2026-01-09"
    },
    {
-    "id": 409615171,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409615171/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409615171/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/230675205",
-    "place": "Tomas de Berlanga (Santo Tomas), Ecuador",
-    "date": "2024-07-16"
+    "id": 594860774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594860774/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594860774/large.jpg",
+    "attribution": "(c) davehobson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328293339",
+    "place": "Ecuador",
+    "date": "2011-02-01"
+   },
+   {
+    "id": 740433049,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740433049/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740433049/large.jpg",
+    "attribution": "(c) Danilo Garcia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/403283834",
+    "place": "Canal Bolivar",
+    "date": "2026-08-19"
    }
   ],
   "hero": {
@@ -95,8 +105,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -111,5 +119,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

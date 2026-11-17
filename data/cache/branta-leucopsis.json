@@ -2,7 +2,7 @@
  "key": "branta-leucopsis",
  "name": "Branta leucopsis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:09.653Z",
+ "fetchedAt": "2026-11-17T19:32:16.119Z",
  "names": {
   "da": "Bramgås",
   "en": "Barnacle goose",
@@ -19,10 +19,31 @@
  },
  "inat": {
   "id": 7101,
-  "observations": 21346
+  "observations": 21396
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 55794899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55794899/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55794899/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35386967",
+    "place": "25704 Nordermeldorf, Deutschland",
+    "date": "2016-04-24"
+   },
+   {
+    "id": 124712173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/124712173/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/124712173/large.jpeg",
+    "attribution": "(c) Anton Vlasenko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/76234955",
+    "place": "115 25 Stockholm, Швеция",
+    "date": "2021-04-30"
+   }
+  ],
   "female": [
    {
     "id": 137337884,
@@ -33,6 +54,26 @@
     "source": "https://www.inaturalist.org/observations/83609244",
     "place": "Nesodden Municipality, Norway",
     "date": "2021-06-07"
+   },
+   {
+    "id": 600835456,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600835456/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600835456/large.jpg",
+    "attribution": "(c) Dion, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/331232534",
+    "place": "5081 NG Hilvarenbeek, Netherlands",
+    "date": "2020-06-06"
+   },
+   {
+    "id": 659686060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659686060/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659686060/large.jpg",
+    "attribution": "(c) zoonora, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/361471989",
+    "place": "Zoo, 19061 Schwerin, Germany",
+    "date": "2026-05-08"
    }
   ],
   "juvenile": [
@@ -47,6 +88,16 @@
     "date": "2018-06-10"
    },
    {
+    "id": 620615914,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620615914/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620615914/large.jpg",
+    "attribution": "(c) Johnny Giese, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340977147",
+    "place": "80 Munich-Neuhausen-Nymphenburg, Germany",
+    "date": "2018-05-22"
+   },
+   {
     "id": 137337034,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137337034/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137337034/large.jpg",
@@ -55,38 +106,28 @@
     "source": "https://www.inaturalist.org/observations/83609235",
     "place": "Nesodden Municipality, Norway",
     "date": "2021-06-07"
-   },
-   {
-    "id": 675269782,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675269782/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675269782/large.jpg",
-    "attribution": "(c) porkytama, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/369667755",
-    "place": "Bollnäs Square, Stockholm, Stockholm County, SE",
-    "date": "2026-06-08"
    }
   ],
   "hero": {
-   "id": 94321188,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94321188/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94321188/large.jpeg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/94321188",
+   "id": 1954722,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1954722/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1954722/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1954722",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5232464,
-  "dkTotal": 294238,
+  "dkTotal": 294242,
   "dkMonths": [
    29478,
    26349,
    39930,
    35559,
-   29426,
+   29430,
    5133,
    2751,
    3752,
@@ -95,39 +136,39 @@
    30614,
    21568
   ],
-  "worldTotal": 1626702,
+  "worldTotal": 1628534,
   "topCountries": [
    {
     "code": "SE",
-    "count": 552958
+    "count": 553553
    },
    {
     "code": "NL",
-    "count": 389983
+    "count": 390347
    },
    {
     "code": "DK",
-    "count": 294238
+    "count": 294242
    },
    {
     "code": "NO",
-    "count": 95358
+    "count": 95970
    },
    {
     "code": "GB",
-    "count": 65958
+    "count": 65960
    },
    {
     "code": "FI",
-    "count": 53375
+    "count": 53426
    },
    {
     "code": "BE",
-    "count": 49522
+    "count": 49523
    },
    {
     "code": "DE",
-    "count": 38663
+    "count": 38858
    },
    {
     "code": "EE",
@@ -135,11 +176,11 @@
    },
    {
     "code": "SJ",
-    "count": 13720
+    "count": 13724
    },
    {
     "code": "FR",
-    "count": 9374
+    "count": 9376
    },
    {
     "code": "US",
@@ -147,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +202,7 @@
   "type": "alarm call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "spheniscus-mendiculus",
  "name": "Spheniscus mendiculus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:52:06.934Z",
+ "fetchedAt": "2026-11-17T20:28:07.058Z",
  "names": {
   "da": "Galapagospingvin",
   "en": "Galápagos Penguin",
@@ -19,12 +19,32 @@
  },
  "inat": {
   "id": 3815,
-  "observations": 2447
+  "observations": 2457
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 584085927,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/584085927/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/584085927/large.jpg",
+    "attribution": "(c) caconradt19, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/322837335",
+    "place": "Isabela, Galapagos, EC",
+    "date": "2025-10-23"
+   },
+   {
+    "id": 563607578,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563607578/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563607578/large.jpg",
+    "attribution": "(c) tazeistherule, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/312180341",
+    "place": "Pacific Ocean, Provincia di Galapagos, EC",
+    "date": "2022-08-07"
+   },
    {
     "id": 583629245,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583629245/medium.jpg",
@@ -34,67 +54,47 @@
     "source": "https://www.inaturalist.org/observations/322603632",
     "place": "Santiago Island, Ecuador",
     "date": "2009-11-24"
-   },
-   {
-    "id": 556041625,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556041625/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556041625/large.jpg",
-    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/308217591",
-    "place": "Ecuador",
-    "date": "2025-08-22"
-   },
-   {
-    "id": 50202062,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50202062/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50202062/large.jpg",
-    "attribution": "(c) John G. Phillips, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/32037489",
-    "place": "Ecuador",
-    "date": "2019-01-05"
    }
   ],
   "adult": [
    {
-    "id": 600778145,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600778145/large.jpg",
-    "attribution": "(c) Chris Kirby-Lambert, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/331204844",
-    "place": ", Provincia de Galápagos, Ecuador",
-    "date": "2023-02-14"
+    "id": 616955855,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/616955855/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/616955855/large.jpg",
+    "attribution": "(c) rozilber, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/339182444",
+    "place": "Isabela Island, Ecuador",
+    "date": "2019-04-21"
    },
    {
-    "id": 600862603,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600862603/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600862603/large.jpg",
-    "attribution": "(c) Jenni Ly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/331245516",
-    "place": "hassi",
-    "date": "2025-12-18"
+    "id": 386510939,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/386510939/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/386510939/large.jpg",
+    "attribution": "(c) fer_gauna2727, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/218427919",
+    "place": "Puerto Villamil, Ecuador",
+    "date": "2023-10-22"
    },
    {
-    "id": 1448614,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1448614/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1448614/large.jpg",
-    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/1149874",
-    "place": "Isla Santiago, Galápagos, Ecuador",
-    "date": "2012-03-09"
+    "id": 609941025,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609941025/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609941025/large.jpg",
+    "attribution": "(c) patrickobrien3, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335720501",
+    "place": "Parque Nacional Galápagos, EC-GA, EC",
+    "date": "2026-01-20"
    }
   ],
   "hero": {
-   "id": 192483579,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/192483579/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/192483579/large.jpg",
-   "attribution": "(c) Morten Ross, some rights reserved (CC BY), uploaded by Morten Ross",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/192483579",
+   "id": 120636083,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120636083/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120636083/large.jpeg",
+   "attribution": "(c) William Hull, some rights reserved (CC BY-NC), uploaded by William Hull",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/120636083",
    "place": null,
    "date": null
   }
@@ -144,8 +144,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -160,5 +158,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

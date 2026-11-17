@@ -2,7 +2,7 @@
  "key": "eurystomus-orientalis",
  "name": "Eurystomus orientalis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:36:37.828Z",
+ "fetchedAt": "2026-11-17T20:10:44.736Z",
  "names": {
   "da": "Grøn Ellekrage",
   "en": "Oriental Dollarbird",
@@ -19,84 +19,74 @@
  },
  "inat": {
   "id": 2293,
-  "observations": 8770
+  "observations": 8828
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 248953933,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248953933/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248953933/large.jpg",
-    "attribution": "(c) JohnG Sydney, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/144979251",
-    "place": "Beethoven St, Engadine NSW 2233, Australia",
-    "date": "2022-12-24"
-   },
-   {
-    "id": 360786515,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360786515/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360786515/large.jpeg",
-    "attribution": "(c) Jon Robson, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/204141061",
-    "place": "Punggol, Singapore",
-    "date": "2024-03-26"
-   },
-   {
-    "id": 250782765,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250782765/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250782765/large.jpeg",
-    "attribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145935423",
-    "place": "Queens Lake Nature Reserve, New South Wales",
-    "date": "2023-01-06"
+    "id": 681606701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681606701/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681606701/large.jpg",
+    "attribution": "(c) badam_milk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/372987324",
+    "place": "Central Area, Singapore",
+    "date": "2026-06-18"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 112769621,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/large.jpeg",
-    "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69493352",
-    "place": "Brisbane QLD, Australia",
-    "date": "2021-02-13"
+    "id": 388647213,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388647213/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388647213/large.jpg",
+    "attribution": "(c) Carlo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219566877",
+    "place": "District de Bardiya, Népal",
+    "date": "2024-05-04"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 40111691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40111691/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40111691/large.jpg",
+    "attribution": "(c) David Tan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25865288",
+    "place": null,
+    "date": "2019-05-27"
    },
    {
-    "id": 117308147,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117308147/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117308147/large.jpeg",
-    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/71996317",
-    "place": "Queenstown, Singapore",
-    "date": "2021-03-25"
+    "id": 53102831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53102831/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53102831/large.jpeg",
+    "attribution": "(c) Jack Morgan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33787347",
+    "place": "Nambucca Heads NSW 2448, Australia",
+    "date": "2019-01-27"
    },
    {
-    "id": 246152138,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246152138/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/143523130",
-    "place": "Leyburn QLD 4365, Australia",
-    "date": "2013-10-26"
+    "id": 171294006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171294006/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171294006/large.jpg",
+    "attribution": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102467551",
+    "place": "Bang Pu Mai, Mueang Samut Prakan District, Samut Prakan, Thailand",
+    "date": "2021-12-04"
    }
   ],
   "hero": {
-   "id": 112769621,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112769621/large.jpeg",
-   "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/69493352",
-   "place": "Brisbane QLD, Australia",
-   "date": "2021-02-13"
+   "id": 5624590,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5624590/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5624590/large.jpeg",
+   "attribution": "(c) Victor W Fazio III, some rights reserved (CC BY-NC), uploaded by Victor W Fazio III",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/5624590",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,7 +106,7 @@
    0,
    0
   ],
-  "worldTotal": 276487,
+  "worldTotal": 276495,
   "topCountries": [
    {
     "code": "AU",
@@ -128,7 +118,7 @@
    },
    {
     "code": "SG",
-    "count": 15572
+    "count": 15573
    },
    {
     "code": "MY",
@@ -136,11 +126,11 @@
    },
    {
     "code": "IN",
-    "count": 9857
+    "count": 9863
    },
    {
     "code": "TH",
-    "count": 7858
+    "count": 7859
    },
    {
     "code": "ID",
@@ -168,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +172,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "acanthis-hornemanni",
  "name": "Acanthis hornemanni",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:37.244Z",
+ "fetchedAt": "2026-11-17T20:00:42.055Z",
  "names": {
   "da": "Hvidsisken",
   "en": "Arctic Redpoll",
@@ -55,19 +55,19 @@
    241,
    274
   ],
-  "worldTotal": 80634,
+  "worldTotal": 80694,
   "topCountries": [
    {
     "code": "SE",
-    "count": 36106
+    "count": 36139
    },
    {
     "code": "FI",
-    "count": 22505
+    "count": 22506
    },
    {
     "code": "NO",
-    "count": 11626
+    "count": 11637
    },
    {
     "code": "CA",
@@ -75,7 +75,7 @@
    },
    {
     "code": "NL",
-    "count": 1950
+    "count": 1966
    },
    {
     "code": "US",
@@ -107,8 +107,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -123,5 +121,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

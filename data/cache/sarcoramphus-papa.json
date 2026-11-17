@@ -2,7 +2,7 @@
  "key": "sarcoramphus-papa",
  "name": "Sarcoramphus papa",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:45.563Z",
+ "fetchedAt": "2026-11-17T20:26:33.807Z",
  "names": {
   "da": "Kongegrib",
   "en": "King Vulture",
@@ -19,43 +19,74 @@
  },
  "inat": {
   "id": 4763,
-  "observations": 4839
+  "observations": 4854
  },
  "photos": {
   "male": [
    {
-    "id": 32209877,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32209877/large.png",
-    "attribution": "(c) Karen (with occasional help from Mike), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/20875984",
-    "place": "San José Province, Dota, Costa Rica",
-    "date": "2019-02-19"
+    "id": 3836996,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3836996/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3836996/large.JPG",
+    "attribution": "(c) KATERINE ENDER CORDOVA, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/3321062",
+    "place": "Quintana Roo, MX",
+    "date": "2016-05-27"
    },
    {
-    "id": 267044617,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267044617/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267044617/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/154543178",
-    "place": "Darien, PA",
-    "date": "2023-04-06"
+    "id": 556952029,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556952029/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556952029/large.jpg",
+    "attribution": "(c) Cornelio Chablé, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308693941",
+    "place": "San Andres, Guatemala",
+    "date": "2025-08-22"
    },
    {
-    "id": 240832301,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240832301/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240832301/large.jpeg",
-    "attribution": "(c) Kaetlyn Mackenzie Sandoval, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/140673244",
-    "place": "Changuinola, Panamá",
-    "date": "2022-10-30"
+    "id": 301366454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301366454/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301366454/large.jpeg",
+    "attribution": "(c) Julia Sánchez Yubank, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/173530404",
+    "place": "Parque Nacional La Cangreja",
+    "date": "2023-06-29"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 760724889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760724889/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760724889/large.jpg",
+    "attribution": "(c) Carde Cardenas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413337615",
+    "place": "98M2+JJ, El Pilón, Provincia de Los Santos, Panamá",
+    "date": "2025-12-18"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 474630385,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474630385/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474630385/large.jpg",
+    "attribution": "(c) Nick Volpe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/264146428",
+    "place": "Paucartambo, PE-CS, PE",
+    "date": "2025-02-24"
+   },
+   {
+    "id": 179907745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179907745/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179907745/large.jpeg",
+    "attribution": "(c) Silvano LG, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107018009",
+    "place": "Ocosingo, MX-CH, MX",
+    "date": "2022-02-11"
+   },
    {
     "id": 468756360,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468756360/medium.jpg",
@@ -65,35 +96,15 @@
     "source": "https://www.inaturalist.org/observations/260969784",
     "place": "Rest of Region 8, Potaro-Siparuni, Guyana",
     "date": "2025-01-14"
-   },
-   {
-    "id": 29127558,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29127558/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29127558/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/18995601",
-    "place": "Sendero Macuco, Misiónes, Argentina",
-    "date": "2018-12-11"
-   },
-   {
-    "id": 443551456,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443551456/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443551456/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/248260350",
-    "place": "Paragominas - State of Pará, Brazil",
-    "date": "2024-09-12"
    }
   ],
   "hero": {
-   "id": 291989003,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291989003/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291989003/large.jpg",
-   "attribution": "no rights reserved, uploaded by Paulo Mascaretti",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/291989003",
+   "id": 424151189,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424151189/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/424151189/large.jpeg",
+   "attribution": "(c) Thiago Gonçalves Coronado Antunes, some rights reserved (CC BY-NC), uploaded by Thiago Gonçalves Coronado Antunes",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/424151189",
    "place": null,
    "date": null
   }
@@ -115,7 +126,7 @@
    0,
    0
   ],
-  "worldTotal": 85349,
+  "worldTotal": 85353,
   "topCountries": [
    {
     "code": "CR",
@@ -147,7 +158,7 @@
    },
    {
     "code": "MX",
-    "count": 2740
+    "count": 2741
    },
    {
     "code": "GT",
@@ -167,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +192,7 @@
   "type": "wing sounds",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

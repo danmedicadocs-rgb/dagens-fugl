@@ -2,7 +2,7 @@
  "key": "prosthemadera-novaeseelandiae",
  "name": "Prosthemadera novaeseelandiae",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:28.954Z",
+ "fetchedAt": "2026-11-17T20:15:35.261Z",
  "names": {
   "da": "Præstefugl",
   "en": "Tūī",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12580,
-  "observations": 40305
+  "observations": 40353
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2024-09-15"
    },
    {
+    "id": 5473090,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5473090/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5473090/large.jpg",
+    "attribution": "(c) Vanessa, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/4520853",
+    "place": "Canterbury, NZ",
+    "date": "2016-11-07"
+   },
+   {
     "id": 333304195,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333304195/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333304195/large.jpeg",
@@ -42,29 +52,9 @@
     "source": "https://www.inaturalist.org/observations/190176051",
     "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
     "date": "2023-11-06"
-   },
-   {
-    "id": 523786797,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523786797/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523786797/large.jpg",
-    "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/291130546",
-    "place": "Upper Reservoir, Karori,, Karori, Wellington 6012, New Zealand",
-    "date": "2025-06-20"
    }
   ],
   "female": [
-   {
-    "id": 1391096,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1391096/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1391096/large.jpg",
-    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/1106552",
-    "place": "160 Reynolds Valley Road, Reynolds Valley, Okuti Valley, Canterbury, New Zealand",
-    "date": "2014-11-15"
-   },
    {
     "id": 433285064,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433285064/medium.jpeg",
@@ -84,9 +74,39 @@
     "source": "https://www.inaturalist.org/observations/243159036",
     "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
     "date": "2024-09-22"
+   },
+   {
+    "id": 432195667,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432195667/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432195667/large.jpeg",
+    "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/242422390",
+    "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
+    "date": "2024-09-18"
    }
   ],
   "juvenile": [
+   {
+    "id": 596846065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596846065/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596846065/large.jpg",
+    "attribution": "(c) roaming_eye, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329280486",
+    "place": "Pyes Pa, Tauranga, New Zealand",
+    "date": "2025-12-03"
+   },
+   {
+    "id": 453560021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453560021/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453560021/large.jpeg",
+    "attribution": "(c) Chris Paulin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/253322287",
+    "place": "Otaihanga Domain, Paraparaumu, Wellington, NZ",
+    "date": "2024-11-28"
+   },
    {
     "id": 58513210,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58513210/medium.jpeg",
@@ -96,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/36961703",
     "place": "Laingholm, Auckland 0604, New Zealand",
     "date": "2019-12-26"
-   },
-   {
-    "id": 338479632,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338479632/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338479632/large.jpeg",
-    "attribution": "(c) Michael Berardozzi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/192769691",
-    "place": "Eastbourne, Lower Hutt 5013, New Zealand",
-    "date": "2023-12-02"
-   },
-   {
-    "id": 245705339,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245705339/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245705339/large.jpeg",
-    "attribution": "(c) Svend Hansen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/143277704",
-    "place": "Onslow Alms - Onslow Road (opposite), Khandallah, Wellington 6035, New Zealand",
-    "date": "2022-11-30"
    }
   ],
   "hero": {
-   "id": 26140669,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26140669/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26140669/large.jpeg",
-   "attribution": "(c) Jacqui Geux, some rights reserved (CC BY), uploaded by Jacqui Geux",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/26140669",
+   "id": 235268397,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235268397/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/235268397/large.jpeg",
+   "attribution": "(c) Nicola Baines, some rights reserved (CC BY-NC), uploaded by Nicola Baines",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/235268397",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 273391,
+  "worldTotal": 273392,
   "topCountries": [
    {
     "code": "NZ",
-    "count": 273304
+    "count": 273305
    },
    {
     "code": "ZZ",
@@ -162,8 +162,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -178,5 +176,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "rupicola-peruvianus",
  "name": "Rupicola peruvianus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:48.796Z",
+ "fetchedAt": "2026-11-17T20:23:10.324Z",
  "names": {
   "da": "Rød Klippehane",
   "en": "Andean Cock-of-the-rock",
@@ -19,74 +19,94 @@
  },
  "inat": {
   "id": 8877,
-  "observations": 3286
+  "observations": 3306
  },
  "photos": {
   "male": [
    {
-    "id": 97111,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97111/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97111/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/63229",
-    "place": "jardin, colombia",
-    "date": "2012-04-04"
+    "id": 32109644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32109644/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32109644/large.jpg",
+    "attribution": "(c) Luis Carlos Galan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20818158",
+    "place": "Restrepo, Meta, Colombia",
+    "date": "2018-11-14"
    },
    {
-    "id": 114354825,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114354825/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114354825/large.jpeg",
-    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70354308",
-    "place": "Rio Negro, Ecuador",
-    "date": "2021-02-28"
+    "id": 747047615,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/747047615/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/747047615/large.jpg",
+    "attribution": "(c) wildlifereizen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406601559",
+    "place": "Paucartambo, Peru",
+    "date": "2026-06-16"
    },
    {
-    "id": 153950125,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153950125/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153950125/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/92933803",
-    "place": "Jardín, Antioquia, Colombia",
-    "date": "2021-07-01"
+    "id": 178621804,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178621804/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178621804/large.jpg",
+    "attribution": "(c) Carl Giometti, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106341774",
+    "place": "a 7-320, Cl. 9 ##7-184, Jardín, Antioquia, Colombia",
+    "date": "2018-09-04"
    }
   ],
   "female": [
    {
-    "id": 444156343,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444156343/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444156343/large.jpg",
-    "attribution": "(c) Ken-ichi Ueda, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/248562576",
-    "place": "Maquipucuna Cloud Forest Reserve, Pichincha, Ecuador",
-    "date": "2024-10-09"
+    "id": 21422051,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21422051/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21422051/large.jpeg",
+    "attribution": "(c) beastmaster, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14402468",
+    "place": "Madre de Dios, Peru",
+    "date": "2017-10-11"
    },
    {
-    "id": 334179480,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334179480/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334179480/large.jpeg",
-    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/190606435",
-    "place": "Location: -1.424950, -78.036400",
-    "date": "2023-11-09"
+    "id": 151633200,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151633200/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151633200/large.jpg",
+    "attribution": "(c) Vanesa Cruz Jumbo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/91648675",
+    "place": "Parque Nacional Cayambe – Coca, El Chaco, Napo, EC",
+    "date": "2021-08-05"
    },
    {
-    "id": 444140941,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444140941/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444140941/large.jpeg",
-    "attribution": "(c) Leonel Roget, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/248557653",
-    "place": "Urubamba, Perú",
-    "date": "2024-09-14"
+    "id": 626219387,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626219387/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626219387/large.jpg",
+    "attribution": "(c) Fundacion ProAves, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343739341",
+    "place": "Reserva ProAves Reinita Cielo Azul-",
+    "date": "2026-03-12"
    }
   ],
   "juvenile": [
+   {
+    "id": 91995637,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91995637/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91995637/large.jpeg",
+    "attribution": "(c) Edwin Múnera Chavarría, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57660828",
+    "place": "Colombia",
+    "date": "2020-05-17"
+   },
+   {
+    "id": 60997049,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60997049/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60997049/large.jpeg",
+    "attribution": "(c) Rob Westerduijn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38384132",
+    "place": "Rioja, Peru",
+    "date": "2019-11-10"
+   },
    {
     "id": 550085408,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550085408/medium.jpg",
@@ -99,12 +119,12 @@
    }
   ],
   "hero": {
-   "id": 239709541,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239709541/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239709541/large.jpeg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/239709541",
+   "id": 49646332,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49646332/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/49646332/large.jpeg",
+   "attribution": "(c) subhashc, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/49646332",
    "place": null,
    "date": null
   }
@@ -174,8 +194,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -190,5 +208,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

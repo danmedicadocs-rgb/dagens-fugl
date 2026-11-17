@@ -2,7 +2,7 @@
  "key": "acrocephalus-scirpaceus",
  "name": "Acrocephalus scirpaceus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:06.900Z",
+ "fetchedAt": "2026-11-17T19:55:07.477Z",
  "names": {
   "da": "Rørsanger",
   "en": "Eurasian Reed Warbler",
@@ -19,84 +19,125 @@
  },
  "inat": {
   "id": 204455,
-  "observations": 15749
+  "observations": 15776
  },
  "photos": {
   "male": [
    {
-    "id": 514820113,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820113/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820113/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286374276",
-    "place": "Statzendorf, Österreich",
-    "date": "2025-05-31"
+    "id": 663999458,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/663999458/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/663999458/large.jpg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/363748824",
+    "place": "Ards and North Down, UK",
+    "date": "2026-05-19"
    },
    {
-    "id": 283322161,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322161/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283322161/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/163784183",
-    "place": "RSBP Leighton Moss",
-    "date": "2023-05-15"
+    "id": 666395437,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666395437/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666395437/large.jpg",
+    "attribution": "(c) nicandra711ph, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365014271",
+    "place": "29308 Winsen (Aller)-Meißendorf, Deutschland",
+    "date": "2026-05-25"
    },
    {
-    "id": 16124552,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16124552/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16124552/large.jpeg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/11324351",
-    "place": "Aspern, 1220 Wien, Österreich",
-    "date": "2018-04-22"
+    "id": 693234363,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/693234363/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/693234363/large.jpg",
+    "attribution": "(c) nicandra711ph, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/379004425",
+    "place": "29690 Essel, Deutschland",
+    "date": "2026-07-07"
    }
   ],
-  "female": [],
-  "juvenile": [
+  "female": [
    {
-    "id": 237449167,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237449167/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237449167/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/138889199",
-    "place": "Eymir Gölü Yolu",
-    "date": "2022-10-11"
+    "id": 128274249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128274249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128274249/large.jpg",
+    "attribution": "(c) simarillon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78386015",
+    "place": "23843 Bad Oldesloe, Deutschland",
+    "date": "2021-05-11"
    },
    {
-    "id": 557954454,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954454/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557954454/large.jpg",
-    "attribution": "(c) Rex Leung, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309211243",
-    "place": "英國得文",
-    "date": "2025-08-25"
+    "id": 56056978,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56056978/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56056978/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35543489",
+    "place": "35410 Hungen, Deutschland",
+    "date": "2016-06-10"
+   },
+   {
+    "id": 658463440,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658463440/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658463440/large.jpg",
+    "attribution": "(c) Kelsey J.R.P. Byers, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/360832299",
+    "place": "Strumpshaw Fen, Low Rd, Strumpshaw, Norwich NR13 4HS, UK",
+    "date": "2026-05-09"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 556630222,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556630222/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556630222/large.jpg",
+    "attribution": "(c) Luca Sattin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308527308",
+    "place": "35020 Codevigo PD, Italia",
+    "date": "2025-08-17"
+   },
+   {
+    "id": 96893884,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96893884/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96893884/large.jpeg",
+    "attribution": "(c) frankielee91, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/60587147",
+    "place": "Erfurt, Deutschland",
+    "date": "2020-08-15"
+   },
+   {
+    "id": 12454974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12454974/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12454974/large.jpeg",
+    "attribution": "(c) Jeremy Barker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9200068",
+    "place": "Devon, England, United Kingdom",
+    "date": "2009-07-12"
    }
   ],
   "hero": {
-   "id": 355963136,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355963136/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/355963136/large.jpg",
-   "attribution": "(c) Alan Shearman, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/355963136",
+   "id": 355963131,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355963131/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/355963131/large.jpg",
+   "attribution": "(c) Tony Morris, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/355963131",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2493118,
-  "dkTotal": 132574,
+  "dkTotal": 132579,
   "dkMonths": [
    1,
    0,
    0,
    2169,
-   49693,
+   49698,
    38363,
    24109,
    13278,
@@ -105,27 +146,27 @@
    10,
    3
   ],
-  "worldTotal": 3021717,
+  "worldTotal": 3128107,
   "topCountries": [
    {
     "code": "ES",
-    "count": 705742
+    "count": 705753
    },
    {
     "code": "SE",
-    "count": 593157
+    "count": 593207
    },
    {
     "code": "NL",
-    "count": 441410
+    "count": 441576
    },
    {
     "code": "FR",
-    "count": 223283
+    "count": 223961
    },
    {
     "code": "GB",
-    "count": 194670
+    "count": 194672
    },
    {
     "code": "LU",
@@ -133,32 +174,30 @@
    },
    {
     "code": "DK",
-    "count": 132574
+    "count": 132579
+   },
+   {
+    "code": "CH",
+    "count": 113914
    },
    {
     "code": "BE",
-    "count": 99694
+    "count": 99695
    },
    {
     "code": "PL",
-    "count": 98791
+    "count": 98796
    },
    {
     "code": "FI",
-    "count": 72578
-   },
-   {
-    "code": "PT",
-    "count": 55075
+    "count": 72581
    },
    {
     "code": "DE",
-    "count": 54524
+    "count": 56885
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

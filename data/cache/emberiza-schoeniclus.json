@@ -2,7 +2,7 @@
  "key": "emberiza-schoeniclus",
  "name": "Emberiza schoeniclus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:28:33.567Z",
+ "fetchedAt": "2026-11-17T20:02:03.605Z",
  "names": {
   "da": "Rørspurv",
   "en": "Reed Bunting",
@@ -31,75 +31,73 @@
  },
  "gbif": {
   "key": 2491557,
-  "dkTotal": 290758,
+  "dkTotal": 290765,
   "dkMonths": [
    4229,
    4240,
    36895,
    57572,
-   55974,
+   55980,
    36924,
    23563,
-   12901,
+   12902,
    21690,
    27724,
    5950,
    3014
   ],
-  "worldTotal": 3767989,
+  "worldTotal": 3822735,
   "topCountries": [
    {
     "code": "SE",
-    "count": 823003
+    "count": 823234
    },
    {
     "code": "NL",
-    "count": 558621
+    "count": 558857
    },
    {
     "code": "GB",
-    "count": 471086
+    "count": 471088
    },
    {
     "code": "ES",
-    "count": 318028
+    "count": 318044
    },
    {
     "code": "DK",
-    "count": 290758
+    "count": 290765
    },
    {
     "code": "FI",
-    "count": 276924
+    "count": 276935
    },
    {
     "code": "FR",
-    "count": 257964
+    "count": 258009
    },
    {
     "code": "NO",
-    "count": 240679
+    "count": 240718
    },
    {
     "code": "BE",
-    "count": 115224
+    "count": 115225
    },
    {
     "code": "DE",
-    "count": 94719
+    "count": 95703
+   },
+   {
+    "code": "CH",
+    "count": 68079
    },
    {
     "code": "PL",
-    "count": 53574
-   },
-   {
-    "code": "RU",
-    "count": 35443
+    "count": 53579
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -114,5 +112,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

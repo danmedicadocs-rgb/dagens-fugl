@@ -2,7 +2,7 @@
  "key": "glaucidium-passerinum",
  "name": "Glaucidium passerinum",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:55.709Z",
+ "fetchedAt": "2026-11-17T19:49:00.200Z",
  "names": {
   "da": "Spurveugle",
   "en": "Eurasian Pygmy Owlet",
@@ -19,61 +19,112 @@
  },
  "inat": {
   "id": 19848,
-  "observations": 3203
+  "observations": 3228
  },
  "photos": {
   "male": [
    {
-    "id": 579412202,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579412202/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579412202/large.jpg",
-    "attribution": "(c) Andrejus Gaidamavičius, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/320473640",
-    "place": "Labanoro regioninis parkas, Lakajų kraštovaizdžio draustinis, Ščiūrio rago pažintinis takas, Molėtų r. sav., Lietuva",
-    "date": "2025-10-11"
+    "id": 470322899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470322899/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470322899/large.jpeg",
+    "attribution": "(c) Jakob Neuenschwander, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261757198",
+    "place": "Niedersachsen, DE",
+    "date": "2025-02-15"
+   },
+   {
+    "id": 355108165,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355108165/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/355108165/large.jpeg",
+    "attribution": "(c) Chen Zhiyang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/201191880",
+    "place": "Hulunbuir, CN-NM, CN",
+    "date": "2024-03-03"
+   },
+   {
+    "id": 416513125,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/416513125/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/416513125/large.jpg",
+    "attribution": "(c) Luca Migliore, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/234304053",
+    "place": "Aosta Valley, Italy",
+    "date": "2010-01-05"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 625997567,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625997567/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625997567/large.jpg",
+    "attribution": "(c) Катерина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343629994",
+    "place": "Минский район, Минская область, Беларусь",
+    "date": "2026-03-15"
+   },
+   {
+    "id": 364546336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364546336/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364546336/large.jpg",
+    "attribution": "(c) Oleg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/206129621",
+    "place": "Овруцький район, Житомирська область, Україна",
+    "date": "2024-04-06"
+   },
+   {
+    "id": 473173086,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473173086/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473173086/large.jpeg",
+    "attribution": "(c) EvaOwl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263393286",
+    "place": "City of St. Petersburg, Sankt-Peterburg gorsovet, RU",
+    "date": "2025-02-19"
+   }
+  ],
   "juvenile": [
    {
-    "id": 442361595,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442361595/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442361595/large.jpg",
-    "attribution": "(c) K.P., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/247663682",
-    "place": "Poland",
-    "date": "2017-06-12"
+    "id": 470583612,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470583612/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470583612/large.jpg",
+    "attribution": "(c) Соколков Юрий Павлович, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261884984",
+    "place": "Александровский р-н, Владимирская обл., Россия",
+    "date": "2020-07-17"
    },
    {
-    "id": 689038722,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689038722/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689038722/large.jpg",
-    "attribution": "(c) K.P., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/376831941",
-    "place": "Poland",
-    "date": "2026-06-30"
+    "id": 137929258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137929258/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137929258/large.jpg",
+    "attribution": "(c) Massimo Pettavino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/83953793",
+    "place": "Pontechianale, Piemonte, IT",
+    "date": "2021-06-21"
    },
    {
-    "id": 102494527,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102494527/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102494527/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/63822601",
-    "place": "Poland",
-    "date": "2017-06-09"
+    "id": 103948285,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103948285/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103948285/large.jpeg",
+    "attribution": "(c) Соколков Юрий Павлович, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/64639114",
+    "place": "Александровский р-н, Владимирская обл., Россия",
+    "date": "2020-07-10"
    }
   ],
   "hero": {
-   "id": 104477473,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104477473/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104477473/large.jpg",
-   "attribution": "(c) Mikhail Nevsky, some rights reserved (CC BY), uploaded by Mikhail Nevsky",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/104477473",
+   "id": 103332022,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103332022/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103332022/large.jpg",
+   "attribution": "(c) Mikhail Ezdakov, some rights reserved (CC BY-NC), uploaded by Mikhail Ezdakov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/103332022",
    "place": null,
    "date": null
   }
@@ -95,23 +146,27 @@
    496,
    195
   ],
-  "worldTotal": 221947,
+  "worldTotal": 226576,
   "topCountries": [
    {
     "code": "SE",
-    "count": 88453
+    "count": 88607
    },
    {
     "code": "FI",
-    "count": 83807
+    "count": 83822
    },
    {
     "code": "NO",
-    "count": 17138
+    "count": 17175
    },
    {
     "code": "FR",
-    "count": 13654
+    "count": 13798
+   },
+   {
+    "code": "CH",
+    "count": 4896
    },
    {
     "code": "EE",
@@ -127,28 +182,22 @@
    },
    {
     "code": "DE",
-    "count": 1753
+    "count": 1775
    },
    {
     "code": "AT",
-    "count": 1483
+    "count": 1484
    },
    {
     "code": "NL",
-    "count": 1121
+    "count": 1124
    },
    {
     "code": "CZ",
     "count": 814
-   },
-   {
-    "code": "CH",
-    "count": 650
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

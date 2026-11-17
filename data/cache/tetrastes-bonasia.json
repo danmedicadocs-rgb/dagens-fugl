@@ -2,7 +2,7 @@
  "key": "tetrastes-bonasia",
  "name": "Tetrastes bonasia",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:30:40.851Z",
+ "fetchedAt": "2026-11-17T20:04:29.826Z",
  "names": {
   "da": "Hjerpe",
   "en": "Hazel Grouse",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 558443,
-  "observations": 5385
+  "observations": 5398
  },
  "photos": {
   "male": [
+   {
+    "id": 125117985,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125117985/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125117985/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/76484362",
+    "place": "Слободской р-н, Кировская обл., Россия",
+    "date": "2021-05-02"
+   },
+   {
+    "id": 356251052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356251052/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356251052/large.jpg",
+    "attribution": "(c) Leonid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/201781261",
+    "place": "Томский р-н, Томская обл., Россия",
+    "date": "2024-03-09"
+   },
    {
     "id": 160053689,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/160053689/medium.jpeg",
@@ -32,26 +52,6 @@
     "source": "https://www.inaturalist.org/observations/96348296",
     "place": "Bayern, DE",
     "date": "2021-09-26"
-   },
-   {
-    "id": 120649271,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120649271/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120649271/large.jpeg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/73867960",
-    "place": "Томск, Томская обл., Россия",
-    "date": "2021-04-13"
-   },
-   {
-    "id": 452227898,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452227898/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452227898/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/252606609",
-    "place": "Челябинская обл., Россия, 456143",
-    "date": "2024-11-22"
    }
   ],
   "female": [
@@ -66,65 +66,65 @@
     "date": "2017-06-17"
    },
    {
-    "id": 697709212,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697709212/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697709212/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/381318062",
-    "place": "North Ostrobothnia, FI-OU, FI",
-    "date": "2026-07-14"
+    "id": 361839481,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361839481/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361839481/large.jpeg",
+    "attribution": "(c) Нина Штейнбреннер, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/204693184",
+    "place": "Улаганский р-н, Респ. Алтай, Россия",
+    "date": "2024-03-24"
    },
    {
-    "id": 344456766,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456766/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344456766/large.jpg",
-    "attribution": "(c) Нурхайдарова Татьяна, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195750011",
-    "place": "Новобибеево, Новосибирская обл., Россия, 633334",
-    "date": "2023-12-02"
+    "id": 451044687,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451044687/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451044687/large.jpg",
+    "attribution": "(c) Natalia Melnikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252011940",
+    "place": "Судогодский р-н, Владимирская обл., Россия",
+    "date": "2024-11-17"
    }
   ],
   "juvenile": [
    {
-    "id": 151263258,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151263258/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151263258/large.jpg",
-    "attribution": "(c) Viktor N. Chekan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/91447442",
-    "place": "Priozerskiy rayon, RU-LN, RU",
-    "date": "2021-08-16"
+    "id": 349321684,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349321684/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349321684/large.jpg",
+    "attribution": "(c) Dina Nesterkova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198221492",
+    "place": "г. Ревда, Свердловская обл., Россия",
+    "date": "2023-06-15"
    },
    {
-    "id": 532330080,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532330080/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532330080/large.jpg",
-    "attribution": "(c) Teemu Helonheimo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/295691302",
-    "place": "Kanta-Häme, FI-LS, FI",
-    "date": "2025-06-16"
+    "id": 419595609,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/419595609/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/419595609/large.jpeg",
+    "attribution": "(c) gromov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/235896871",
+    "place": "Московская обл., Россия, 143222",
+    "date": "2023-07-02"
    },
    {
-    "id": 517551787,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517551787/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/517551787/large.jpg",
-    "attribution": "(c) Марина Садыкова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/287821663",
-    "place": "Дмитровский муниципальный округ, Московская обл., Россия",
-    "date": "2025-06-08"
+    "id": 515049098,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515049098/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515049098/large.jpg",
+    "attribution": "(c) Дмитрий Петров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286491153",
+    "place": "Шибенец, Ленинградская обл., Россия, 187504",
+    "date": "2023-06-03"
    }
   ],
   "hero": {
-   "id": 1865718,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865718/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865718/large.jpg",
-   "attribution": "(c) Francesco Veronesi, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/1865718",
+   "id": 1865717,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865717/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865717/large.jpg",
+   "attribution": "(c) Tatiana Bulyonkova, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/1865717",
    "place": null,
    "date": null
   }
@@ -146,23 +146,23 @@
    1,
    0
   ],
-  "worldTotal": 169852,
+  "worldTotal": 176646,
   "topCountries": [
    {
     "code": "SE",
-    "count": 68214
+    "count": 68268
    },
    {
     "code": "FI",
-    "count": 45889
+    "count": 45916
    },
    {
     "code": "NO",
-    "count": 12096
+    "count": 12106
    },
    {
     "code": "FR",
-    "count": 10585
+    "count": 10678
    },
    {
     "code": "EE",
@@ -173,16 +173,16 @@
     "count": 9610
    },
    {
+    "code": "CH",
+    "count": 7664
+   },
+   {
     "code": "AT",
-    "count": 1954
+    "count": 1955
    },
    {
     "code": "KR",
     "count": 1138
-   },
-   {
-    "code": "CH",
-    "count": 1108
    },
    {
     "code": "PL",
@@ -190,7 +190,7 @@
    },
    {
     "code": "UA",
-    "count": 934
+    "count": 941
    },
    {
     "code": "DE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song, wing flutter",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

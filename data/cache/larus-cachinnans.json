@@ -2,7 +2,7 @@
  "key": "larus-cachinnans",
  "name": "Larus cachinnans",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:07.524Z",
+ "fetchedAt": "2026-11-17T19:45:50.581Z",
  "names": {
   "da": "Kaspisk måge",
   "en": "Caspian Gull",
@@ -19,12 +19,84 @@
  },
  "inat": {
   "id": 4389,
-  "observations": 18857
+  "observations": 18920
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 370071573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370071573/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370071573/large.jpeg",
+    "attribution": "(c) olexandrzhmurko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/209129498",
+    "place": "Скадовський район, Херсонська область, Україна",
+    "date": "2019-07-31"
+   },
+   {
+    "id": 581687525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/581687525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/581687525/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321626563",
+    "place": "Milcov, Romania",
+    "date": "2025-10-11"
+   },
+   {
+    "id": 174950900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174950900/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174950900/large.jpg",
+    "attribution": "(c) SIA, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104413694",
+    "place": "Восточный крым",
+    "date": "2022-01-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 189923958,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189923958/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189923958/large.jpg",
+    "attribution": "(c) vadmese, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112446036",
+    "place": "Cluj, RO",
+    "date": "2022-03-25"
+   },
+   {
+    "id": 335569168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335569168/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335569168/large.jpg",
+    "attribution": "(c) vadmese, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191306795",
+    "place": null,
+    "date": "2023-08-06"
+   },
+   {
+    "id": 189923917,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189923917/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189923917/large.jpg",
+    "attribution": "(c) vadmese, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112446035",
+    "place": "Cluj, RO",
+    "date": "2022-03-25"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 62430190,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62430190/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62430190/large.jpeg",
+    "attribution": "(c) Cathy Pasterczyk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39357992",
+    "place": "Sankt Andrä-Wördern, Austria",
+    "date": "2020-02-29"
+   },
    {
     "id": 80455622,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80455622/medium.jpeg",
@@ -36,67 +108,25 @@
     "date": "2020-03-01"
    },
    {
-    "id": 438693587,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438693587/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438693587/large.jpeg",
-    "attribution": "(c) Antonina, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/245800068",
-    "place": "Vsevolozhsky District, Leningrad Oblast, Russia",
-    "date": "2024-10-05"
-   },
-   {
-    "id": 144112222,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144112222/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144112222/large.jpeg",
-    "attribution": "(c) przese, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/87411067",
-    "place": "49448 Hüde, Deutschland",
-    "date": "2021-06-27"
-   }
-  ],
-  "adult": [
-   {
-    "id": 112903999,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/large.jpg",
-    "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/69566551",
-    "place": "28041 Arona NO, Italia",
-    "date": "2021-02-14"
-   },
-   {
-    "id": 333530978,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333530978/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333530978/large.jpg",
-    "attribution": "(c) Yaroslav Andrianov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/190285335",
-    "place": "Skadovs'kyi, UA-KS, UA",
-    "date": "2015-09-13"
-   },
-   {
-    "id": 253060695,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253060695/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253060695/large.jpeg",
-    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/147101290",
-    "place": "252 29 Dobřichovice, Česko",
-    "date": "2023-01-21"
+    "id": 726429451,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/726429451/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/726429451/large.jpg",
+    "attribution": "(c) Alexandru Pintilioaie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/396131663",
+    "place": "Insula Sacalin, România",
+    "date": "2026-08-20"
    }
   ],
   "hero": {
-   "id": 112903999,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112903999/large.jpg",
-   "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/69566551",
-   "place": "28041 Arona NO, Italia",
-   "date": "2021-02-14"
+   "id": 62750826,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62750826/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62750826/large.jpeg",
+   "attribution": "(c) tonipons, some rights reserved (CC BY-NC), uploaded by tonipons",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/62750826",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,15 +146,15 @@
    3192,
    2433
   ],
-  "worldTotal": 384086,
+  "worldTotal": 384397,
   "topCountries": [
    {
     "code": "SE",
-    "count": 52828
+    "count": 52893
    },
    {
     "code": "NL",
-    "count": 48311
+    "count": 48430
    },
    {
     "code": "PL",
@@ -144,11 +174,11 @@
    },
    {
     "code": "UA",
-    "count": 23185
+    "count": 23189
    },
    {
     "code": "DE",
-    "count": 17044
+    "count": 17150
    },
    {
     "code": "GB",
@@ -164,12 +194,10 @@
    },
    {
     "code": "FR",
-    "count": 9441
+    "count": 9444
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

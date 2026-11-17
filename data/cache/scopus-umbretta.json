@@ -2,7 +2,7 @@
  "key": "scopus-umbretta",
  "name": "Scopus umbretta",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:35.209Z",
+ "fetchedAt": "2026-11-17T20:06:32.056Z",
  "names": {
   "da": "Hammerhoved",
   "en": "Hamerkop",
@@ -19,53 +19,73 @@
  },
  "inat": {
   "id": 3834,
-  "observations": 7964
+  "observations": 7998
  },
  "photos": {
   "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "female": [
    {
-    "id": 115525939,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/71001110",
-    "place": "Kruger National Park, Ehlanzeni, South Africa",
-    "date": "2021-02-20"
+    "id": 720590502,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/720590502/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/720590502/large.jpg",
+    "attribution": "(c) denicastoltz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/393151744",
+    "place": "Moses Kotane Local Municipality, South Africa",
+    "date": "2026-07-19"
    },
    {
-    "id": 16072628,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16072628/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16072628/large.jpg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/11297192",
-    "place": "R352 (3)",
-    "date": "2017-02-01"
+    "id": 584248408,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/584248408/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/584248408/large.jpg",
+    "attribution": "(c) Teneal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/322917864",
+    "place": "R332, South Africa",
+    "date": "2025-10-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 440168573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/440168573/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/440168573/large.jpeg",
+    "attribution": "(c) leithallb, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/246548806",
+    "place": "Lake Mburo boat trip, Kiruhura, Uganda",
+    "date": "2024-07-29"
    },
    {
-    "id": 505452288,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/505452288/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/505452288/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/281389619",
-    "place": "Serengeti National Park, Tanzania",
-    "date": "2017-07-13"
+    "id": 502617415,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502617415/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502617415/large.jpeg",
+    "attribution": "(c) Alex Rebelo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/279874481",
+    "place": "Gweru, Zimbabwe",
+    "date": "2025-04-14"
+   },
+   {
+    "id": 434136468,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434136468/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434136468/large.jpeg",
+    "attribution": "(c) Pete Woodall, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243465673",
+    "place": "Lake Mburo boat trip, Kiruhura, Uganda",
+    "date": "2024-07-29"
    }
   ],
   "hero": {
-   "id": 115525939,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115525939/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/71001110",
-   "place": "Kruger National Park, Ehlanzeni, South Africa",
-   "date": "2021-02-20"
+   "id": 258021496,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258021496/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258021496/large.jpg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/258021496",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,15 +105,15 @@
    0,
    0
   ],
-  "worldTotal": 227385,
+  "worldTotal": 227444,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 115790
+    "count": 115803
    },
    {
     "code": "KE",
-    "count": 24738
+    "count": 24740
    },
    {
     "code": "UG",
@@ -101,7 +121,7 @@
    },
    {
     "code": "TZ",
-    "count": 11395
+    "count": 11399
    },
    {
     "code": "ZW",
@@ -109,11 +129,11 @@
    },
    {
     "code": "BW",
-    "count": 7032
+    "count": 7033
    },
    {
     "code": "GM",
-    "count": 6856
+    "count": 6882
    },
    {
     "code": "ZM",
@@ -133,12 +153,10 @@
    },
    {
     "code": "RW",
-    "count": 3360
+    "count": 3366
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

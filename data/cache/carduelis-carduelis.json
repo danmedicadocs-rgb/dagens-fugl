@@ -2,7 +2,7 @@
  "key": "carduelis-carduelis",
  "name": "Carduelis carduelis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:54.885Z",
+ "fetchedAt": "2026-11-17T20:01:07.617Z",
  "names": {
   "da": "Stillids",
   "en": "European Goldfinch",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 9398,
-  "observations": 131695
+  "observations": 132019
  },
  "photos": {
   "male": [
    {
-    "id": 691353618,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691353618/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691353618/large.jpg",
-    "attribution": "(c) Rafael Rosa, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/378031393",
-    "place": "Helsinki, Finland",
-    "date": "2026-07-04"
+    "id": 278575782,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278575782/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278575782/large.jpg",
+    "attribution": "(c) Константин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161176717",
+    "place": "Силламяэ, Ида-Вирумаа, Эстония",
+    "date": "2023-05-06"
    },
    {
-    "id": 275087068,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275087068/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275087068/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/159223433",
-    "place": "7580 Alcácer do Sal, Portugal",
-    "date": "2023-04-30"
+    "id": 563084781,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563084781/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563084781/large.jpg",
+    "attribution": "(c) Владимир Пенькевич (Vladimir Penkevich), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/311902030",
+    "place": "Смиловичи, Аллея парка. Минская область, Беларусь",
+    "date": "2025-06-21"
    },
    {
-    "id": 133095708,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133095708/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133095708/large.jpeg",
-    "attribution": "(c) ponpon42, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/81161005",
-    "place": "23340 Gentioux-Pigerolles, France",
-    "date": "2021-06-01"
+    "id": 592196278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592196278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592196278/large.jpg",
+    "attribution": "(c) Владимир Пенькевич (Vladimir Penkevich), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/326927697",
+    "place": "Смиловичи, \"Парк Смиловичи\". Минская область, Беларусь",
+    "date": "2025-11-17"
    }
   ],
   "female": [
+   {
+    "id": 394070022,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394070022/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394070022/large.jpeg",
+    "attribution": "(c) rothleyschool, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/222463571",
+    "place": "Barrow upon Soar, Loughborough LE12, UK",
+    "date": "2024-06-10"
+   },
    {
     "id": 744261909,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/744261909/medium.jpg",
@@ -66,119 +76,109 @@
     "date": "2026-10-01"
    },
    {
-    "id": 671070304,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671070304/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671070304/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/367465813",
-    "place": "Челябинская обл., Россия, 456395",
-    "date": "2026-06-01"
-   },
-   {
-    "id": 110199040,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110199040/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110199040/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/67356907",
-    "place": "Bayonne, France",
-    "date": "2020-12-31"
+    "id": 115564627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115564627/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115564627/large.jpg",
+    "attribution": "(c) Jose-Antonio Ortiz-Marzo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/71023742",
+    "place": "Tarrasa, Barcelona, España",
+    "date": "2021-03-11"
    }
   ],
   "juvenile": [
    {
-    "id": 416498574,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/416498574/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/416498574/large.jpeg",
-    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/234297356",
-    "place": "Switzerland",
-    "date": "2024-08-06"
+    "id": 550960302,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550960302/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550960302/large.jpg",
+    "attribution": "(c) eva_b_s, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305572699",
+    "place": "Cañada, Valencia, España",
+    "date": "2013-09-10"
    },
    {
-    "id": 569745583,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569745583/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569745583/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/315393494",
-    "place": "San Giovanni in Fiore",
-    "date": "2025-09-15"
+    "id": 615030759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615030759/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615030759/large.jpg",
+    "attribution": "(c) Co Waalen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338224371",
+    "place": "Netherlands",
+    "date": "2019-08-28"
    },
    {
-    "id": 80147176,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80147176/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80147176/large.jpeg",
-    "attribution": "(c) joba102, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/50480450",
-    "place": "Rieselfeld, 79111 Freiburg im Breisgau, Deutschland",
-    "date": "2020-06-21"
+    "id": 297667512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297667512/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/297667512/large.jpg",
+    "attribution": "(c) Jean-Jacques Durand, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/171534194",
+    "place": "78000 Versalles, Francia",
+    "date": "2023-06-28"
    }
   ],
   "hero": {
-   "id": 691353618,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691353618/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691353618/large.jpg",
-   "attribution": "(c) Rafael Rosa, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/378031393",
-   "place": "Helsinki, Finland",
-   "date": "2026-07-04"
+   "id": 369311714,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369311714/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369311714/large.jpg",
+   "attribution": "(c) Antti Henttonen, some rights reserved (CC BY-NC), uploaded by Antti Henttonen",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/369311714",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2494686,
-  "dkTotal": 259563,
+  "dkTotal": 259569,
   "dkMonths": [
    18156,
    14984,
    25820,
    37351,
-   30714,
+   30719,
    19930,
-   20369,
+   20370,
    19018,
    18857,
    26266,
    15671,
    12373
   ],
-  "worldTotal": 6816919,
+  "worldTotal": 6953131,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1254506
+    "count": 1254519
    },
    {
     "code": "ES",
-    "count": 1051678
+    "count": 1051767
    },
    {
     "code": "FR",
-    "count": 810096
+    "count": 811358
    },
    {
     "code": "SE",
-    "count": 734125
+    "count": 734882
    },
    {
     "code": "NL",
-    "count": 568047
+    "count": 568563
    },
    {
     "code": "DE",
-    "count": 353520
+    "count": 358094
    },
    {
     "code": "DK",
-    "count": 259563
+    "count": 259569
    },
    {
     "code": "PT",
-    "count": 249879
+    "count": 249890
    },
    {
     "code": "AU",
@@ -186,20 +186,18 @@
    },
    {
     "code": "NO",
-    "count": 201248
+    "count": 201489
    },
    {
     "code": "NZ",
     "count": 174040
    },
    {
-    "code": "BE",
-    "count": 97412
+    "code": "CH",
+    "count": 164869
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

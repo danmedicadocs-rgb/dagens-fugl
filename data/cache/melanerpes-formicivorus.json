@@ -2,7 +2,7 @@
  "key": "melanerpes-formicivorus",
  "name": "Melanerpes formicivorus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:17.496Z",
+ "fetchedAt": "2026-11-17T20:17:42.500Z",
  "names": {
   "da": "Agernspætte",
   "en": "Acorn Woodpecker",
@@ -19,39 +19,39 @@
  },
  "inat": {
   "id": 18209,
-  "observations": 71740
+  "observations": 71872
  },
  "photos": {
   "male": [
    {
-    "id": 3085,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3085/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3085/large.jpg",
-    "attribution": "(c) Dmitry Mozzherin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2376",
-    "place": "Fort Huachuca, Arizona, United States",
-    "date": "2006-12-26"
+    "id": 91135327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91135327/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91135327/large.jpeg",
+    "attribution": "(c) Jess, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57150356",
+    "place": "Mira Monte, CA, USA",
+    "date": "2020-08-21"
    },
    {
-    "id": 481432302,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481432302/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481432302/large.jpeg",
-    "attribution": "(c) Guillermo Roque, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/267866585",
-    "place": "Pacheco, CA 94553, USA",
-    "date": "2025-03-20"
+    "id": 67528556,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67528556/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67528556/large.jpg",
+    "attribution": "(c) Ryan Andrews, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/42529253",
+    "place": "Kit Carson, Escondido, CA 92025, USA",
+    "date": "2020-04-17"
    },
    {
-    "id": 81351628,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81351628/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81351628/large.jpg",
-    "attribution": "(c) David Batchelor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/51211535",
-    "place": "Pine Spring, Clark County, NV, USA",
-    "date": "2019-11-17"
+    "id": 450523186,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/450523186/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/450523186/large.jpg",
+    "attribution": "(c) artzerphotog, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251753148",
+    "place": "San Diego County, CA, USA",
+    "date": "2024-11-03"
    }
   ],
   "female": [
@@ -76,17 +76,27 @@
     "date": "2024-04-12"
    },
    {
-    "id": 43584108,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43584108/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43584108/large.jpeg",
-    "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/27979581",
-    "place": "San José Province, San Gerardo de Dota, Costa Rica",
-    "date": "2019-06-24"
+    "id": 469239993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469239993/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469239993/large.jpeg",
+    "attribution": "(c) Lauren Glevanik, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261214571",
+    "place": "Santa Barbara County, CA, USA",
+    "date": "2025-02-09"
    }
   ],
   "juvenile": [
+   {
+    "id": 394605912,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394605912/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394605912/large.jpg",
+    "attribution": "(c) Isaac Capp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/222747396",
+    "place": "N Craig Ave, Pasadena, CA, US",
+    "date": "2024-06-14"
+   },
    {
     "id": 212635595,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212635595/medium.jpeg",
@@ -98,24 +108,14 @@
     "date": "2022-07-01"
    },
    {
-    "id": 12692694,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12692694/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12692694/large.jpg",
-    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/9352168",
-    "place": "Golden Gate Park, San Francisco County, US-CA, US",
-    "date": "2016-09-23"
-   },
-   {
-    "id": 519087751,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519087751/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/519087751/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/288636223",
-    "place": "Coyote Creek North, CA, USA",
-    "date": "2025-06-10"
+    "id": 552953308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/552953308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/552953308/large.jpg",
+    "attribution": "(c) sandor_in, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306617605",
+    "place": "Palo Alto, CA, USA",
+    "date": "2025-08-03"
    }
   ],
   "hero": {
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 1664892,
+  "worldTotal": 1664891,
   "topCountries": [
    {
     "code": "US",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

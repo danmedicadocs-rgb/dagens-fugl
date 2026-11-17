@@ -2,7 +2,7 @@
  "key": "ficedula-narcissina",
  "name": "Ficedula narcissina",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:37:06.609Z",
+ "fetchedAt": "2026-11-17T20:11:11.863Z",
  "names": {
   "da": "Narcissusfluesnapper",
   "en": "Narcissus Flycatcher",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 13128,
-  "observations": 3845
+  "observations": 3862
  },
  "photos": {
   "male": [
+   {
+    "id": 645002575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/645002575/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/645002575/large.jpg",
+    "attribution": "(c) hajime_hojo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/353510423",
+    "place": "日本、神奈川県相模原市緑区",
+    "date": "2026-04-25"
+   },
+   {
+    "id": 65598603,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65598603/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65598603/large.jpeg",
+    "attribution": "(c) verdit, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41354522",
+    "place": "香港採石山",
+    "date": "2020-04-04"
+   },
    {
     "id": 265402782,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/medium.jpeg",
@@ -32,29 +52,29 @@
     "source": "https://www.inaturalist.org/observations/153648928",
     "place": "Quarry Hill, Hong Kong",
     "date": "2023-04-06"
-   },
-   {
-    "id": 585952381,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585952381/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585952381/large.jpg",
-    "attribution": "(c) mami_t_t, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/323797454",
-    "place": "日本 〒206-0021",
-    "date": "2025-10-28"
-   },
-   {
-    "id": 644367074,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/644367074/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/644367074/large.jpg",
-    "attribution": "(c) ITÔ, Hiroki, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/353125023",
-    "place": "日本、石川県金沢市丸の内１ Castle District",
-    "date": "2026-04-25"
    }
   ],
   "female": [
+   {
+    "id": 579186761,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579186761/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579186761/large.jpg",
+    "attribution": "(c) juddso, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/320347307",
+    "place": "Yoyogi Park, 2-1 Yoyogikamizonochō, Shibuya, Tokyo 151-0052, Japan",
+    "date": "2025-10-12"
+   },
+   {
+    "id": 745857665,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745857665/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745857665/large.jpg",
+    "attribution": "(c) nittan_lover りょう, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406005946",
+    "place": "日本、〒560-0043 大阪府豊中市待兼山町",
+    "date": "2026-10-02"
+   },
    {
     "id": 376656803,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376656803/medium.jpeg",
@@ -64,26 +84,6 @@
     "source": "https://www.inaturalist.org/observations/213132804",
     "place": "東引島",
     "date": "2024-04-19"
-   },
-   {
-    "id": 324393717,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324393717/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324393717/large.jpeg",
-    "attribution": "(c) mami_t_t, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/185714277",
-    "place": "日本 〒206-0021",
-    "date": "2023-10-01"
-   },
-   {
-    "id": 734220960,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734220960/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734220960/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/400139129",
-    "place": "Togakushi, Nagano, 381-4101, Japan",
-    "date": "2026-09-13"
    }
   ],
   "juvenile": [
@@ -99,14 +99,14 @@
    }
   ],
   "hero": {
-   "id": 265402782,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265402782/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/153648928",
-   "place": "Quarry Hill, Hong Kong",
-   "date": "2023-04-06"
+   "id": 133535881,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133535881/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133535881/large.jpg",
+   "attribution": "(c) andriy, some rights reserved (CC BY-NC), uploaded by andriy",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/133535881",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -130,7 +130,7 @@
   "topCountries": [
    {
     "code": "JP",
-    "count": 17367
+    "count": 17368
    },
    {
     "code": "TW",
@@ -162,7 +162,7 @@
    },
    {
     "code": "RU",
-    "count": 354
+    "count": 353
    },
    {
     "code": "SG",
@@ -178,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

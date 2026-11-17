@@ -2,7 +2,7 @@
  "key": "bubo-bubo",
  "name": "Bubo bubo",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:23.790Z",
+ "fetchedAt": "2026-11-17T19:48:20.996Z",
  "names": {
   "da": "Stor hornugle",
   "en": "Eurasian Eagle-owl",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 20059,
-  "observations": 7999
+  "observations": 8027
  },
  "photos": {
   "male": [
+   {
+    "id": 457464317,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457464317/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457464317/large.jpeg",
+    "attribution": "(c) BelenMC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255284350",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2024-12-15"
+   },
    {
     "id": 174311426,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174311426/medium.jpeg",
@@ -34,97 +44,87 @@
     "date": "2021-12-31"
    },
    {
-    "id": 282447776,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282447776/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282447776/large.jpeg",
-    "attribution": "(c) G P Croucher, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/163313413",
-    "place": "Manhattan, New York, NY, USA",
-    "date": "2023-03-27"
-   },
-   {
-    "id": 255970394,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255970394/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255970394/large.jpeg",
-    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/148621009",
-    "place": "Bayern, DE",
-    "date": "2023-02-12"
+    "id": 254584184,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254584184/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254584184/large.jpeg",
+    "attribution": "(c) Mirko Tomasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147899309",
+    "place": "Lombardia, IT",
+    "date": "2023-02-02"
    }
   ],
   "female": [
    {
-    "id": 279491068,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279491068/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279491068/large.jpeg",
-    "attribution": "(c) Juan C. Espinosa, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/161687178",
-    "place": "Comunidad de Madrid, ES-MD-MD, ES",
-    "date": "2023-05-14"
+    "id": 595873014,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595873014/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595873014/large.jpg",
+    "attribution": "(c) Fabio Manda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328794464",
+    "place": "17100 Savona SV, Italia",
+    "date": "2025-11-28"
    },
    {
-    "id": 181439970,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181439970/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181439970/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/107833215",
-    "place": "3000 Leuven, België",
-    "date": "2022-03-03"
+    "id": 120683833,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120683833/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120683833/large.jpeg",
+    "attribution": "(c) Mirko Tomasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73883370",
+    "place": "Lombardia, IT",
+    "date": "2021-04-13"
    },
    {
-    "id": 362334868,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362334868/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362334868/large.jpeg",
-    "attribution": "(c) Matt Muir, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/204958375",
-    "place": "Germany",
-    "date": "2024-03-30"
+    "id": 257260232,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257260232/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257260232/large.jpeg",
+    "attribution": "(c) anton_abushin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149307844",
+    "place": "Kalmyk, RU",
+    "date": "2020-06-07"
    }
   ],
   "juvenile": [
    {
-    "id": 364384045,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364384045/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364384045/large.jpeg",
-    "attribution": "(c) Karsten Ste, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/206038622",
-    "place": "53604 Bad Honnef, Deutschland",
-    "date": "2023-06-18"
+    "id": 213714202,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213714202/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213714202/large.jpeg",
+    "attribution": "(c) Carlos Figueiredo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125987667",
+    "place": "Castelo Branco, PT",
+    "date": "2022-04-17"
    },
    {
-    "id": 398809363,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809363/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809363/large.jpg",
-    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/224975889",
-    "place": "Baden-Württemberg, DE",
-    "date": "2021-06-04"
+    "id": 176553191,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176553191/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176553191/large.jpeg",
+    "attribution": "(c) Al Losk (Lifebra), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105250514",
+    "place": "Гайнский р-н, Пермский край, Россия",
+    "date": "2008-07-10"
    },
    {
-    "id": 398809315,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809315/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398809315/large.jpg",
-    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/224975886",
-    "place": "Baden-Württemberg, DE",
-    "date": "2021-05-19"
+    "id": 335320100,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335320100/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335320100/large.jpg",
+    "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191177865",
+    "place": "Dal'nekonstantinovskiy rayon, RU-NZ, RU",
+    "date": "2023-07-01"
    }
   ],
   "hero": {
-   "id": 1513765,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1513765/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1513765/large.jpg",
-   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1513765",
+   "id": 1840610,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1840610/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1840610/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1840610",
    "place": null,
    "date": null
   }
@@ -146,31 +146,31 @@
    144,
    129
   ],
-  "worldTotal": 190256,
+  "worldTotal": 193065,
   "topCountries": [
    {
     "code": "FR",
-    "count": 39721
+    "count": 39749
    },
    {
     "code": "ES",
-    "count": 37986
+    "count": 37987
    },
    {
     "code": "FI",
-    "count": 30299
+    "count": 30301
    },
    {
     "code": "SE",
-    "count": 24204
+    "count": 24219
    },
    {
     "code": "NL",
-    "count": 14770
+    "count": 14777
    },
    {
     "code": "DE",
-    "count": 9142
+    "count": 9357
    },
    {
     "code": "DK",
@@ -178,28 +178,26 @@
    },
    {
     "code": "RU",
-    "count": 3420
+    "count": 3422
    },
    {
     "code": "AT",
-    "count": 3309
+    "count": 3324
    },
    {
     "code": "IL",
-    "count": 2897
+    "count": 2899
+   },
+   {
+    "code": "CH",
+    "count": 2896
    },
    {
     "code": "PT",
     "count": 2674
-   },
-   {
-    "code": "NO",
-    "count": 1822
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "passerina-cyanea",
  "name": "Passerina cyanea",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:40.446Z",
+ "fetchedAt": "2026-11-17T20:18:10.447Z",
  "names": {
   "da": "Indigofinke",
   "en": null,
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 10227,
-  "observations": 61803
+  "observations": 61859
  },
  "photos": {
   "male": [
    {
-    "id": 383579597,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/383579597/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/383579597/large.jpg",
-    "attribution": "(c) Morgan Caygill, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/216865936",
-    "place": "Marsden Grove, Sunderland, England, GB",
-    "date": "2024-05-19"
+    "id": 3019785,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3019785/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3019785/large.jpg",
+    "attribution": "(c) Andy Jones, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2685925",
+    "place": "South Carolina, United States",
+    "date": "2006-05-01"
    },
    {
-    "id": 666683949,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666683949/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666683949/large.jpg",
-    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/365169268",
-    "place": "Oakville, ON, Canada",
-    "date": "2026-05-25"
+    "id": 72438231,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72438231/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72438231/large.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45675983",
+    "place": "Heather Ln, Rutland, VT, USA",
+    "date": "2020-05-12"
    },
    {
-    "id": 710556095,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710556095/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710556095/large.jpg",
-    "attribution": "(c) Zach Johnson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/388001020",
-    "place": "York County, SC, USA",
-    "date": "2026-08-03"
+    "id": 380047654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380047654/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380047654/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/214982581",
+    "place": "Townshend, VT, USA",
+    "date": "2024-05-09"
    }
   ],
   "female": [
+   {
+    "id": 324806871,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324806871/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324806871/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/185927907",
+    "place": "Townshend, VT, USA",
+    "date": "2023-09-30"
+   },
+   {
+    "id": 712079610,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712079610/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712079610/large.jpg",
+    "attribution": "(c) Sophia Sperduto, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388776968",
+    "place": "Woods Trail, Trempealeau, WI, US",
+    "date": "2026-08-04"
+   },
    {
     "id": 117310529,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117310529/medium.jpeg",
@@ -64,58 +84,38 @@
     "source": "https://www.inaturalist.org/observations/71996850",
     "place": "Fraijanes, Guatemala",
     "date": "2021-03-24"
-   },
-   {
-    "id": 517293110,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517293110/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/517293110/large.jpg",
-    "attribution": "(c) Court Harding, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/287689954",
-    "place": "Northumberland County, PA, USA",
-    "date": "2025-06-07"
-   },
-   {
-    "id": 441563901,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/441563901/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/441563901/large.jpg",
-    "attribution": "(c) Jay Brasher, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/247255065",
-    "place": "Lincoln County, TN, USA",
-    "date": "2024-10-11"
    }
   ],
   "juvenile": [
    {
-    "id": 312968393,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312968393/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312968393/large.jpg",
-    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/179740496",
-    "place": "Talbot, London, ON N6P, Canada",
-    "date": "2023-08-22"
+    "id": 508692287,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508692287/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508692287/large.jpg",
+    "attribution": "(c) it_185, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/283107192",
+    "place": "Haw River, Pittsboro, NC, US",
+    "date": "2025-05-22"
    },
    {
-    "id": 310074393,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310074393/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310074393/large.jpg",
-    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/178218853",
-    "place": "Talbot, London, ON N6P, Canada",
-    "date": "2023-08-13"
+    "id": 117070952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117070952/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117070952/large.jpeg",
+    "attribution": "(c) Dottie Mojzak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/69952219",
+    "place": "Grenville, QC, Canada",
+    "date": "2021-02-13"
    },
    {
-    "id": 109437994,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109437994/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109437994/large.jpeg",
-    "attribution": "(c) Brad Banner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67694123",
-    "place": "1927 Park Rd 73, Junction, TX 76849, USA",
-    "date": "2019-09-29"
+    "id": 21892823,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21892823/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21892823/large.jpeg",
+    "attribution": "(c) alexpacheco, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14686245",
+    "place": "Benito Juárez, Q.R., México",
+    "date": "2009-03-06"
    }
   ],
   "hero": {
@@ -146,7 +146,7 @@
    0,
    2
   ],
-  "worldTotal": 3805996,
+  "worldTotal": 3805997,
   "topCountries": [
    {
     "code": "US",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "corythaixoides-concolor",
  "name": "Corythaixoides concolor",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:33:28.037Z",
+ "fetchedAt": "2026-11-17T20:07:24.692Z",
  "names": {
   "da": "Grå Larmfugl",
   "en": "Grey Go-away-bird",
@@ -28,12 +28,12 @@
   "adult": [],
   "general": [],
   "hero": {
-   "id": 71973536,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71973536/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71973536/large.jpg",
-   "attribution": "no rights reserved, uploaded by Klaus Wehrlin",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/71973536",
+   "id": 131054992,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131054992/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131054992/large.jpg",
+   "attribution": "(c) meikec, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/131054992",
    "place": null,
    "date": null
   }
@@ -55,11 +55,11 @@
    0,
    0
   ],
-  "worldTotal": 251756,
+  "worldTotal": 251767,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 190027
+    "count": 190037
    },
    {
     "code": "NA",
@@ -71,7 +71,7 @@
    },
    {
     "code": "BW",
-    "count": 13608
+    "count": 13609
    },
    {
     "code": "ZM",
@@ -107,8 +107,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -122,5 +120,7 @@
   "page": "https://commons.wikimedia.org/wiki/File:Corythaixoides_concolor_bechuanae,_b,_roep_09_34_nm_uit_rusplek,_Pta.mp3",
   "via": "Wikimedia Commons"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

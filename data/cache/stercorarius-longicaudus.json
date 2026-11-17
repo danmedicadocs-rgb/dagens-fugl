@@ -2,7 +2,7 @@
  "key": "stercorarius-longicaudus",
  "name": "Stercorarius longicaudus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:10.399Z",
+ "fetchedAt": "2026-11-17T19:44:45.597Z",
  "names": {
   "da": "Lille kjove",
   "en": "Long-tailed Jaeger",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4481,
-  "observations": 2776
+  "observations": 2781
  },
  "photos": {
   "male": [],
@@ -36,6 +36,16 @@
     "date": "2025-09-19"
    },
    {
+    "id": 94601367,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94601367/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94601367/large.jpg",
+    "attribution": "(c) vtpaddlepups, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59214854",
+    "place": "Hyde Park, VT, USA",
+    "date": "2020-09-08"
+   },
+   {
     "id": 156678400,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156678400/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/156678400/large.jpg",
@@ -48,43 +58,43 @@
   ],
   "adult": [
    {
-    "id": 571701770,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571701770/large.jpg",
-    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/316426950",
-    "place": "Clermont County, OH, USA",
-    "date": "2025-09-23"
+    "id": 54859783,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54859783/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54859783/large.jpeg",
+    "attribution": "(c) Andy Fyon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34827227",
+    "place": "Inuvik Region, NT, Canada",
+    "date": "2019-06-18"
    },
    {
-    "id": 426097185,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426097185/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426097185/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/239262356",
-    "place": "North Pacific Ocean, AK, US",
-    "date": "2024-07-18"
+    "id": 387709679,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387709679/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387709679/large.jpg",
+    "attribution": "(c) andrewm77, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219063169",
+    "place": "Ridgecrest Dr, Bethel, AK, US",
+    "date": "2024-05-28"
    },
    {
-    "id": 569251890,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569251890/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569251890/large.jpg",
-    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/315131249",
-    "place": "Clermont County, OH, USA",
-    "date": "2025-09-19"
+    "id": 58987053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58987053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58987053/large.jpg",
+    "attribution": "(c) Herschel Island-Qikiqtaruk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37230298",
+    "place": "Yukon, YT, Canada",
+    "date": "2009-06-11"
    }
   ],
   "hero": {
-   "id": 10436872,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10436872/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10436872/large.jpg",
-   "attribution": "no rights reserved, uploaded by Kent P. McFarland",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/10436872",
+   "id": 607915441,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607915441/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607915441/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/607915441",
    "place": null,
    "date": null
   }
@@ -106,7 +116,7 @@
    11,
    0
   ],
-  "worldTotal": 111797,
+  "worldTotal": 111809,
   "topCountries": [
    {
     "code": "US",
@@ -114,11 +124,11 @@
    },
    {
     "code": "SE",
-    "count": 27924
+    "count": 27927
    },
    {
     "code": "NO",
-    "count": 13181
+    "count": 13186
    },
    {
     "code": "CA",
@@ -126,7 +136,7 @@
    },
    {
     "code": "NL",
-    "count": 3871
+    "count": 3873
    },
    {
     "code": "GB",
@@ -134,7 +144,7 @@
    },
    {
     "code": "FI",
-    "count": 2675
+    "count": 2677
    },
    {
     "code": "DK",
@@ -158,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +182,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

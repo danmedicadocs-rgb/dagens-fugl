@@ -2,7 +2,7 @@
  "key": "pica-hudsonia",
  "name": "Pica hudsonia",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:19.252Z",
+ "fetchedAt": "2026-11-17T20:21:22.903Z",
  "names": {
   "da": "Hudsonskade",
   "en": "Black-billed Magpie",
@@ -19,12 +19,63 @@
  },
  "inat": {
   "id": 143853,
-  "observations": 45791
+  "observations": 45879
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 47886614,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47886614/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47886614/large.jpeg",
+    "attribution": "(c) jeanniejean, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30644642",
+    "place": "Jasper, AB T0E, Canada",
+    "date": "2019-08-08"
+   },
+   {
+    "id": 22562049,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22562049/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22562049/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15103788",
+    "place": "Homer, AK, USA",
+    "date": "1995-06-30"
+   },
+   {
+    "id": 465606234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465606234/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465606234/large.jpg",
+    "attribution": "(c) graysonponti, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259382418",
+    "place": "Antelope Island, Utah, USA",
+    "date": "2025-01-23"
+   }
+  ],
   "female": [],
   "juvenile": [
+   {
+    "id": 1513315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1513315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1513315/large.jpg",
+    "attribution": "(c) Diana-Terry Hibbitts, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1198245",
+    "place": "New Mexico: Rio Arriba County, Vado Lake",
+    "date": "2014-09-05"
+   },
+   {
+    "id": 2047276,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2047276/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2047276/large.jpg",
+    "attribution": "(c) adriana_pictures, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1691608",
+    "place": "Division No. 11, CA-AB, CA",
+    "date": "2015-06-24"
+   },
    {
     "id": 397760813,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397760813/medium.jpeg",
@@ -34,67 +85,15 @@
     "source": "https://www.inaturalist.org/observations/224426330",
     "place": "Division No. 6, CA-AB, CA",
     "date": "2024-06-22"
-   },
-   {
-    "id": 678012459,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/678012459/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/678012459/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/371100478",
-    "place": "Fort St John, BC, Canada",
-    "date": "2026-06-12"
-   },
-   {
-    "id": 178703551,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178703551/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178703551/large.jpg",
-    "attribution": "(c) Wendy McCrady, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/106386524",
-    "place": "Custer County, ID, USA",
-    "date": "2017-06-30"
-   }
-  ],
-  "adult": [
-   {
-    "id": 353612467,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353612467/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353612467/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/200425899",
-    "place": "Division No. 11, CA-AB, CA",
-    "date": "2023-06-29"
-   },
-   {
-    "id": 428776617,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/428776617/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/428776617/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/240653274",
-    "place": "Edmonton, AB T5R 3Z5, Canada",
-    "date": "2024-09-08"
-   },
-   {
-    "id": 296605206,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296605206/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296605206/large.jpg",
-    "attribution": "(c) Z, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/170963467",
-    "place": "Trans Canada Highway 1, Thompson-Nicola, BC, CA",
-    "date": "2023-07-03"
    }
   ],
   "hero": {
-   "id": 107880579,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107880579/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107880579/large.jpeg",
-   "attribution": "(c) Rose Zappa, some rights reserved (CC BY), uploaded by Rose Zappa",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/107880579",
+   "id": 111805682,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111805682/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111805682/large.jpg",
+   "attribution": "(c) Johnal Palahniuk, some rights reserved (CC BY-NC), uploaded by Johnal Palahniuk",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/111805682",
    "place": null,
    "date": null
   }
@@ -116,7 +115,7 @@
    0,
    0
   ],
-  "worldTotal": 2536020,
+  "worldTotal": 2536022,
   "topCountries": [
    {
     "code": "US",
@@ -168,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

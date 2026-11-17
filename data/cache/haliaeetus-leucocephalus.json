@@ -2,7 +2,7 @@
  "key": "haliaeetus-leucocephalus",
  "name": "Haliaeetus leucocephalus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:59.963Z",
+ "fetchedAt": "2026-11-17T20:16:10.897Z",
  "names": {
   "da": "Hvidhovedet havørn",
   "en": "Bald eagle",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 5305,
-  "observations": 243500
+  "observations": 244126
  },
  "photos": {
   "male": [
    {
-    "id": 259298511,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259298511/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259298511/large.jpg",
-    "attribution": "(c) marneejill, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/150383582",
-    "place": "qualicum beach",
-    "date": "2023-02-03"
+    "id": 610357205,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610357205/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610357205/large.jpg",
+    "attribution": "(c) Ken Mateik, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335925753",
+    "place": "Orangevale, CA, USA",
+    "date": "2026-01-19"
    },
    {
-    "id": 270915579,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270915579/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270915579/large.jpg",
-    "attribution": "(c) Aimee Lusty, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/156659387",
-    "place": "Prescott National Forest, Prescott, AZ, US",
-    "date": "2023-04-24"
+    "id": 21466674,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21466674/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21466674/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14426985",
+    "place": "Texas, US",
+    "date": "2018-07-16"
    },
    {
-    "id": 308314590,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308314590/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308314590/large.jpg",
-    "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/177282614",
-    "place": "Gastineau Channel, Juneau, AK, US",
-    "date": "2023-05-08"
+    "id": 61159347,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61159347/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61159347/large.jpg",
+    "attribution": "(c) David McCorquodale, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38478706",
+    "place": "Cape Breton, Nova Scotia, Canada",
+    "date": "2020-02-09"
    }
   ],
   "female": [
+   {
+    "id": 615362805,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615362805/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615362805/large.jpg",
+    "attribution": "(c) nancylightfoot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338384706",
+    "place": "Fairfax State Recreation Area, 8955-9013 S Fairfax Rd, Bloomington, IN 47401, USA",
+    "date": "2026-02-12"
+   },
+   {
+    "id": 639912784,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639912784/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639912784/large.jpg",
+    "attribution": "(c) nancylightfoot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/350699011",
+    "place": "Monroe County, IN, USA",
+    "date": "2026-04-17"
+   },
    {
     "id": 449407593,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449407593/medium.jpeg",
@@ -64,29 +84,29 @@
     "source": "https://www.inaturalist.org/observations/251192204",
     "place": "North Carolina, US",
     "date": "2024-11-10"
-   },
-   {
-    "id": 117876470,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117876470/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117876470/large.jpeg",
-    "attribution": "(c) sudomir, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72313107",
-    "place": "Fort Pulaski National Monument, Chatham, Georgia, United States",
-    "date": "2021-03-28"
-   },
-   {
-    "id": 58165655,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58165655/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58165655/large.jpeg",
-    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36763504",
-    "place": "Elizabeth Park, Norfolk, VA 23502, USA",
-    "date": "2019-12-16"
    }
   ],
   "juvenile": [
+   {
+    "id": 41867312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41867312/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41867312/large.jpg",
+    "attribution": "(c) Colin Potter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26941972",
+    "place": "13000–13074 Robles Dr, Auburn, CA, US",
+    "date": "2019-06-13"
+   },
+   {
+    "id": 222719433,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/222719433/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/222719433/large.jpg",
+    "attribution": "(c) zozosdecogolin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/130920905",
+    "place": "Dixie National Forest, Hatch, UT, US",
+    "date": "2014-12-28"
+   },
    {
     "id": 598855376,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598855376/medium.jpg",
@@ -96,37 +116,17 @@
     "source": "https://www.inaturalist.org/observations/330275420",
     "place": "N Idaho Centennial Trail, Coeur d'Alene, ID 83814, USA",
     "date": "2025-12-06"
-   },
-   {
-    "id": 615146379,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615146379/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615146379/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/338281896",
-    "place": "N Idaho Centennial Trail, Coeur d'Alene, ID 83814, USA",
-    "date": "2025-12-05"
-   },
-   {
-    "id": 105394302,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105394302/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105394302/large.jpeg",
-    "attribution": "(c) chloe ⋆˚꩜｡, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/65475753",
-    "place": "St. Petersburg",
-    "date": "2019-10-18"
    }
   ],
   "hero": {
-   "id": 259298511,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259298511/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259298511/large.jpg",
-   "attribution": "(c) marneejill, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/150383582",
-   "place": "qualicum beach",
-   "date": "2023-02-03"
+   "id": 28935620,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28935620/large.jpg",
+   "attribution": "(c) Joe Zigmont, some rights reserved (CC BY-NC), uploaded by Joe Zigmont",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/28935620",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -182,7 +182,7 @@
    },
    {
     "code": "DE",
-    "count": 24
+    "count": 23
    },
    {
     "code": "RU",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

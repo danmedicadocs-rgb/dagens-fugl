@@ -2,7 +2,7 @@
  "key": "asio-otus",
  "name": "Asio otus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:42.533Z",
+ "fetchedAt": "2026-11-17T19:48:43.611Z",
  "names": {
   "da": "Skovhornugle",
   "en": "Long-eared Owl",
@@ -19,29 +19,39 @@
  },
  "inat": {
   "id": 20307,
-  "observations": 24437
+  "observations": 24492
  },
  "photos": {
   "male": [
    {
-    "id": 33685064,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33685064/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33685064/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/21750139",
-    "place": "Безводное, Нижегородская обл., Россия, 607675",
-    "date": "2019-03-29"
+    "id": 22143132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22143132/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22143132/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14833814",
+    "place": "San Diego County, US-CA, US",
+    "date": "2018-03-17"
    },
    {
-    "id": 453364618,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453364618/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453364618/large.jpeg",
-    "attribution": "(c) David Kelly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/253223592",
-    "place": "Scotland, GB",
-    "date": "2024-11-26"
+    "id": 256182710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256182710/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256182710/large.jpg",
+    "attribution": "(c) Tony Iwane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/148733042",
+    "place": "San Diego County, US-CA, US",
+    "date": "2023-02-12"
+   },
+   {
+    "id": 692068272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/692068272/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/692068272/large.jpg",
+    "attribution": "(c) Dmitriewskii, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/378400827",
+    "place": "Ekaterinburg gorsovet, RU-SV, RU",
+    "date": "2026-06-22"
    }
   ],
   "female": [
@@ -56,14 +66,24 @@
     "date": "2020-01-16"
    },
    {
-    "id": 77163729,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77163729/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77163729/large.jpg",
-    "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/48623973",
-    "place": "Sverdlovsk, RU",
-    "date": "2020-06-02"
+    "id": 460134980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460134980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460134980/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256611045",
+    "place": "Prvomajska, Subotica, Ap Vojvodina, RS",
+    "date": "2024-10-24"
+   },
+   {
+    "id": 758507013,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758507013/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758507013/large.jpg",
+    "attribution": "(c) mercanbd, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412240830",
+    "place": "Universite Cd., Avcılar, Istanbul, TR",
+    "date": "2026-10-29"
    }
   ],
   "juvenile": [
@@ -78,24 +98,24 @@
     "date": "2023-04-04"
    },
    {
-    "id": 513947183,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513947183/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513947183/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/285913143",
-    "place": "29640 Schneverdingen, Deutschland",
-    "date": "2025-05-31"
+    "id": 50353378,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50353378/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50353378/large.jpeg",
+    "attribution": "(c) Kęstutis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/32124279",
+    "place": "Ukmergė District Municipality, Lithuania",
+    "date": "2011-06-07"
    },
    {
-    "id": 632292828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/632292828/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/632292828/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/346837344",
-    "place": "Madrid, España",
-    "date": "2026-03-31"
+    "id": 629272755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/629272755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/629272755/large.jpg",
+    "attribution": "(c) Markus Traud, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/345309380",
+    "place": "Frankfurt-Süd, Deutschland",
+    "date": "2026-03-21"
    }
   ],
   "hero": {
@@ -126,23 +146,23 @@
    1820,
    1673
   ],
-  "worldTotal": 470603,
+  "worldTotal": 485853,
   "topCountries": [
    {
     "code": "SE",
-    "count": 103626
+    "count": 103647
    },
    {
     "code": "NL",
-    "count": 88197
+    "count": 88258
    },
    {
     "code": "FR",
-    "count": 46478
+    "count": 46920
    },
    {
     "code": "FI",
-    "count": 30467
+    "count": 30473
    },
    {
     "code": "DK",
@@ -154,7 +174,7 @@
    },
    {
     "code": "ES",
-    "count": 20033
+    "count": 20034
    },
    {
     "code": "CA",
@@ -162,24 +182,22 @@
    },
    {
     "code": "DE",
-    "count": 16314
+    "count": 16599
+   },
+   {
+    "code": "CH",
+    "count": 15539
    },
    {
     "code": "NO",
-    "count": 11932
+    "count": 11934
    },
    {
     "code": "RU",
-    "count": 8290
-   },
-   {
-    "code": "PL",
-    "count": 8079
+    "count": 8291
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "nocturnal flight call, song, applause wingsound",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

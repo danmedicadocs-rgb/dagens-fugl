@@ -2,7 +2,7 @@
  "key": "haliaeetus-albicilla",
  "name": "Haliaeetus albicilla",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:13.073Z",
+ "fetchedAt": "2026-11-17T19:38:05.910Z",
  "names": {
   "da": "Havørn",
   "en": "White-tailed Eagle",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 5309,
-  "observations": 33622
+  "observations": 33777
  },
  "photos": {
   "male": [
    {
-    "id": 460678011,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460678011/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460678011/large.jpeg",
-    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/256881290",
-    "place": "Bayern, DE",
-    "date": "2024-12-31"
+    "id": 464732527,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464732527/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464732527/large.jpeg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258953804",
+    "place": "Ballydawley, River View, Co. Sligo, Ireland",
+    "date": "2025-01-19"
    },
    {
-    "id": 579359558,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579359558/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579359558/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/320436721",
-    "place": "Šapnagiai, Akmenės r. sav., Lietuva",
-    "date": "2025-10-12"
+    "id": 245066053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245066053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245066053/large.jpg",
+    "attribution": "(c) David Paloch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/142901294",
+    "place": "Valtinovské rybníky",
+    "date": "2022-11-19"
    },
    {
-    "id": 463094978,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463094978/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463094978/large.jpg",
-    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/258138147",
-    "place": "Bayern, DE",
-    "date": "2025-01-10"
+    "id": 212498796,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212498796/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212498796/large.jpg",
+    "attribution": "(c) Shamil Murtazin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125311999",
+    "place": "Благовещенский р-н, Респ. Башкортостан, Россия",
+    "date": "2022-07-07"
    }
   ],
   "female": [
+   {
+    "id": 382628250,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/382628250/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/382628250/large.jpg",
+    "attribution": "(c) Анна Мостовая, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/216360496",
+    "place": "Ахтубинский р-н, Астраханская обл., Россия",
+    "date": "2024-04-17"
+   },
    {
     "id": 464512024,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464512024/medium.jpg",
@@ -74,19 +84,29 @@
     "source": "https://www.inaturalist.org/observations/257389789",
     "place": "Bayern, DE",
     "date": "2025-01-04"
-   },
-   {
-    "id": 752785850,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752785850/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752785850/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/409420946",
-    "place": "Lithuania",
-    "date": "2026-10-19"
    }
   ],
   "juvenile": [
+   {
+    "id": 94610921,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94610921/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94610921/large.jpg",
+    "attribution": "(c) Мария Боровская, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59220758",
+    "place": "Ордынский р-н, Новосибирская обл., Россия",
+    "date": "2020-09-11"
+   },
+   {
+    "id": 313384863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313384863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313384863/large.jpg",
+    "attribution": "(c) alexander_semenov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179955984",
+    "place": "Беломорская Биостанция МГУ им. М.В. Ломоносова",
+    "date": "2022-03-25"
+   },
    {
     "id": 341609552,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341609552/medium.jpg",
@@ -96,93 +116,73 @@
     "source": "https://www.inaturalist.org/observations/194352613",
     "place": "Parvomay, Bulgaria",
     "date": "2023-12-19"
-   },
-   {
-    "id": 557049079,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557049079/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557049079/large.jpg",
-    "attribution": "(c) Mickey Wu, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/308745134",
-    "place": "Nosappu, Nemuro, Hokkaido 087-0165日本",
-    "date": "2025-03-07"
-   },
-   {
-    "id": 118470070,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118470070/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118470070/large.jpeg",
-    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/72645514",
-    "place": "Gaarden, Kiel, Deutschland",
-    "date": "2021-03-31"
    }
   ],
   "hero": {
-   "id": 57394041,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57394041/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57394041/large.jpg",
-   "attribution": "(c) Алина Урусова, some rights reserved (CC BY), uploaded by Алина Урусова",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/57394041",
+   "id": 611849733,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611849733/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611849733/large.jpg",
+   "attribution": "(c) Mikhail Ezdakov, some rights reserved (CC BY-NC), uploaded by Mikhail Ezdakov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/611849733",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480449,
-  "dkTotal": 382845,
+  "dkTotal": 382855,
   "dkMonths": [
    34785,
    35840,
    44303,
    44635,
-   35545,
+   35552,
    19886,
-   21901,
-   31271,
+   21902,
+   31273,
    34993,
    34998,
    22960,
    21283
   ],
-  "worldTotal": 2207708,
+  "worldTotal": 2209719,
   "topCountries": [
    {
     "code": "SE",
-    "count": 996169
+    "count": 997141
    },
    {
     "code": "DK",
-    "count": 382845
+    "count": 382855
    },
    {
     "code": "NO",
-    "count": 201692
+    "count": 201909
    },
    {
     "code": "NL",
-    "count": 168568
+    "count": 168890
    },
    {
     "code": "FI",
-    "count": 96971
+    "count": 96985
    },
    {
     "code": "RU",
-    "count": 55873
+    "count": 55874
    },
    {
     "code": "DE",
-    "count": 49398
+    "count": 49825
    },
    {
     "code": "EE",
-    "count": 45246
+    "count": 45248
    },
    {
     "code": "PL",
-    "count": 31145
+    "count": 31159
    },
    {
     "code": "GB",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "duet, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

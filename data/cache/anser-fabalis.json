@@ -2,7 +2,7 @@
  "key": "anser-fabalis",
  "name": "Anser fabalis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:02:38.305Z",
+ "fetchedAt": "2026-11-17T19:31:38.117Z",
  "names": {
   "da": "Sædgås",
   "en": "Taiga bean goose",
@@ -19,12 +19,33 @@
  },
  "inat": {
   "id": 7009,
-  "observations": 4804
+  "observations": 4820
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 195846468,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195846468/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195846468/large.jpeg",
+    "attribution": "(c) denjukov10, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/116037120",
+    "place": "Алтайский край",
+    "date": "2022-05-07"
+   }
+  ],
   "female": [],
   "juvenile": [
+   {
+    "id": 219671999,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219671999/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219671999/large.jpg",
+    "attribution": "(c) Juha Lindy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/129276891",
+    "place": "Lapland, Lapland, FI",
+    "date": "2013-06-14"
+   },
    {
     "id": 54786766,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54786766/medium.jpg",
@@ -36,47 +57,15 @@
     "date": "2019-10-23"
    }
   ],
-  "adult": [
-   {
-    "id": 336265665,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/large.jpg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/191651859",
-    "place": "Черга, Респ. Алтай, Россия, 649219",
-    "date": "2023-11-07"
-   },
-   {
-    "id": 188957237,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188957237/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188957237/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111899195",
-    "place": "Вахитовский р-н, Казань, Респ. Татарстан, Россия",
-    "date": "2022-04-18"
-   },
-   {
-    "id": 345491699,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345491699/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345491699/large.jpg",
-    "attribution": "(c) Полина Полежанкина, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/196264628",
-    "place": "Уфа, Респ. Башкортостан, Россия",
-    "date": "2024-01-08"
-   }
-  ],
   "hero": {
-   "id": 336265665,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336265665/large.jpg",
-   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/191651859",
-   "place": "Черга, Респ. Алтай, Россия, 649219",
-   "date": "2023-11-07"
+   "id": 167244604,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167244604/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167244604/large.jpeg",
+   "attribution": "(c) denis_v, some rights reserved (CC BY-NC), uploaded by denis_v",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/167244604",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -96,11 +85,11 @@
    1181,
    2149
   ],
-  "worldTotal": 154736,
+  "worldTotal": 155027,
   "topCountries": [
    {
     "code": "SE",
-    "count": 46724
+    "count": 46980
    },
    {
     "code": "RU",
@@ -108,7 +97,7 @@
    },
    {
     "code": "NO",
-    "count": 17182
+    "count": 17191
    },
    {
     "code": "DK",
@@ -116,11 +105,11 @@
    },
    {
     "code": "FI",
-    "count": 10600
+    "count": 10601
    },
    {
     "code": "EE",
-    "count": 10113
+    "count": 10114
    },
    {
     "code": "KR",
@@ -128,7 +117,7 @@
    },
    {
     "code": "DE",
-    "count": 6220
+    "count": 6241
    },
    {
     "code": "CN",
@@ -136,7 +125,7 @@
    },
    {
     "code": "NL",
-    "count": 2887
+    "count": 2888
    },
    {
     "code": "JP",
@@ -148,8 +137,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +151,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

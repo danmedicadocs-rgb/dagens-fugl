@@ -2,7 +2,7 @@
  "key": "phoenicopterus-ruber",
  "name": "Phoenicopterus ruber",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:43.801Z",
+ "fetchedAt": "2026-11-17T20:25:23.214Z",
  "names": {
   "da": "Cariberflamingo",
   "en": "American Flamingo",
@@ -19,82 +19,81 @@
  },
  "inat": {
   "id": 4257,
-  "observations": 15634
+  "observations": 15692
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 511969023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511969023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/511969023/large.jpg",
+    "attribution": "(c) Nancy Fernandez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284855099",
+    "place": "Salt Works",
+    "date": "2025-05-27"
+   },
+   {
+    "id": 242544509,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242544509/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242544509/large.jpeg",
+    "attribution": "(c) César Londoño, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141560489",
+    "place": "Boca de Camarones, Riohacha, La Guajira, Colombia",
+    "date": "2022-11-07"
+   },
+   {
+    "id": 38290671,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38290671/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38290671/large.jpeg",
+    "attribution": "(c) Ivan Clemente Torres, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24760283",
+    "place": "Calle 33 192, Revolución, 97320 Progreso, Yuc., México",
+    "date": "2019-04-16"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 340564768,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340564768/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340564768/large.jpeg",
-    "attribution": "(c) Bob Miller, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/193835621",
-    "place": "Florida City, FL 33034, USA",
-    "date": "2023-12-12"
+    "id": 15925332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15925332/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15925332/large.jpeg",
+    "attribution": "(c) Hans Holbrook, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/11224295",
+    "place": "Plaquemines Parish, LA, USA",
+    "date": "2011-10-22"
    },
    {
-    "id": 283195381,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283195381/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283195381/large.jpeg",
-    "attribution": "(c) Kathryn Curtis, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/163718944",
-    "place": "Kralendijk, Caribbean Netherlands",
-    "date": "2023-05-10"
+    "id": 551938055,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/551938055/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/551938055/large.jpg",
+    "attribution": "(c) Adi Sula, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306087798",
+    "place": "León de los Aldama, Gto., México",
+    "date": "2015-03-05"
    },
    {
-    "id": 527356925,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527356925/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527356925/large.jpg",
-    "attribution": "(c) Diego Puc Estrada, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293014750",
-    "place": "Progreso, Yucatan, Mexico",
-    "date": "2025-06-25"
-   }
-  ],
-  "adult": [
-   {
-    "id": 400069254,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400069254/large.jpeg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/225637927",
-    "place": "Boca de Camarones, Riohacha, La Guajira, Colombia",
-    "date": "2021-10-02"
-   },
-   {
-    "id": 318476392,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318476392/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318476392/large.jpg",
-    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/182637234",
-    "place": "Gallatin County, KY, USA",
-    "date": "2023-09-09"
-   },
-   {
-    "id": 278987604,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278987604/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278987604/large.jpeg",
-    "attribution": "(c) Kathryn Curtis, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/161407368",
-    "place": "Kralendijk, Caribbean Netherlands",
-    "date": "2023-05-11"
+    "id": 208895727,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208895727/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208895727/large.jpg",
+    "attribution": "(c) HUMBERTO GONZALEZ VELIZ, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/123317836",
+    "place": "Puerto Peñasco, Son., México",
+    "date": "2022-06-24"
    }
   ],
   "hero": {
-   "id": 2440313,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2440313/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2440313/large.jpg",
-   "attribution": "(c) Katja Schulz, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/2440313",
+   "id": 108374016,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108374016/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108374016/large.jpg",
+   "attribution": "(c) Antonio Robles, some rights reserved (CC BY-NC-SA), uploaded by Antonio Robles",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/108374016",
    "place": null,
    "date": null
   }
@@ -116,7 +115,7 @@
    0,
    0
   ],
-  "worldTotal": 138018,
+  "worldTotal": 138019,
   "topCountries": [
    {
     "code": "ZA",
@@ -132,7 +131,7 @@
    },
    {
     "code": "MX",
-    "count": 15145
+    "count": 15146
    },
    {
     "code": "BQ",
@@ -168,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

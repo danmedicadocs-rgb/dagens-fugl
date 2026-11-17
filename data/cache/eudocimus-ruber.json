@@ -2,7 +2,7 @@
  "key": "eudocimus-ruber",
  "name": "Eudocimus ruber",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:33.338Z",
+ "fetchedAt": "2026-11-17T20:25:12.284Z",
  "names": {
   "da": "Rød Ibis",
   "en": "Scarlet Ibis",
@@ -19,73 +19,52 @@
  },
  "inat": {
   "id": 3750,
-  "observations": 4556
+  "observations": 4577
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 211872032,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211872032/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211872032/large.jpeg",
+    "attribution": "(c) Juan Sebastián León Lleras, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124964182",
+    "place": "San Martín, Meta, Colombia",
+    "date": "2022-01-03"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 590534708,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590534708/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590534708/large.jpg",
-    "attribution": "(c) François Dunoyer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/326097012",
-    "place": "Régina 97390, Guyane française",
-    "date": "2025-11-10"
+    "id": 682155158,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682155158/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682155158/large.jpg",
+    "attribution": "(c) Mlchelle da Costa Gomez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/373276434",
+    "place": "Otrobanda, Willemstad, Curaçao",
+    "date": "2022-08-22"
    },
    {
-    "id": 351631767,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351631767/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351631767/large.jpeg",
-    "attribution": "(c) Stephanie Tran, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199394266",
-    "place": "Demerara-Mahaica, Guyana",
-    "date": "2024-02-07"
+    "id": 715661494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715661494/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715661494/large.jpg",
+    "attribution": "(c) Jeremy Mangalsingh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390626220",
+    "place": "Caroni Bird Sanctuary, 65 Orange Grove Rd, Trinidad and Tobago",
+    "date": "2026-05-17"
    },
    {
-    "id": 466308449,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466308449/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466308449/large.jpg",
-    "attribution": "(c) avocat, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/259732458",
-    "place": "Mahaica-Berbice, Guyana",
-    "date": "2025-01-08"
-   }
-  ],
-  "adult": [
-   {
-    "id": 618676596,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618676596/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618676596/large.jpg",
-    "attribution": "(c) Davi Eduardo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/340023433",
-    "place": "Sítio do Campo, Praia Grande - SP, Brasil",
-    "date": "2026-02-23"
-   },
-   {
-    "id": 598879188,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598879188/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598879188/large.jpg",
-    "attribution": "(c) Odebrecht, Clarisse, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/330283195",
-    "place": "Raposa, MA, Brasil",
-    "date": "2025-11-24"
-   },
-   {
-    "id": 455770286,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455770286/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455770286/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/254450271",
-    "place": "Villanueva, Casanare, Colombia",
-    "date": "2016-01-08"
+    "id": 54337146,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54337146/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54337146/large.jpg",
+    "attribution": "(c) Grupo Monitoreo Biodiversidad SDA, Bogotá D.C., Colombia, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/34519532",
+    "place": "PEDH Juan Amarillo; Chucua de los curíes",
+    "date": "2019-10-09"
    }
   ],
   "hero": {
@@ -148,7 +127,7 @@
    },
    {
     "code": "GF",
-    "count": 1228
+    "count": 1229
    },
    {
     "code": "NL",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "flight call, displaying",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

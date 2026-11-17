@@ -2,7 +2,7 @@
  "key": "chrysolophus-pictus",
  "name": "Chrysolophus pictus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:36.381Z",
+ "fetchedAt": "2026-11-17T20:09:42.155Z",
  "names": {
   "da": "Guldfasan",
   "en": "Golden Pheasant",
@@ -14,47 +14,57 @@
  "wiki": {
   "lang": "en",
   "title": "Golden pheasant",
-  "extract": "The golden pheasant, also known as the Chinese pheasant, and rainbow pheasant, is a gamebird of the order Galliformes and the family Phasianidae (pheasants). The genus name is from Ancient Greek khrusolophos, \"with golden crest\", and pictus is Latin for \"painted\" from pingere, \"to paint\".",
+  "extract": "The golden pheasant, also known as the Chinese pheasant and rainbow pheasant, is a gamebird of the order Galliformes and the family Phasianidae (pheasants). The genus name is from Ancient Greek khrusolophos, \"with golden crest\", and pictus is Latin for \"painted\" from pingere, \"to paint\".",
   "url": "https://en.wikipedia.org/wiki/Golden_pheasant"
  },
  "inat": {
   "id": 1230,
-  "observations": 2674
+  "observations": 2681
  },
  "photos": {
   "male": [
    {
-    "id": 577457818,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577457818/large.jpg",
-    "attribution": "(c) Mel Whiting, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/319451772",
-    "place": "Heathcote Valley, Christchurch, New Zealand",
-    "date": "2025-10-01"
+    "id": 17977166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17977166/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/17977166/large.jpg",
+    "attribution": "(c) Tom Arata, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/12460721",
+    "place": "Tara - Leeway Heights, Arlington, VA 22205, USA",
+    "date": "2018-05-14"
    },
    {
-    "id": 439722124,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722124/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722124/large.jpeg",
-    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/246324061",
-    "place": "荥阳市, 郑州市, 河南省, CN",
-    "date": "2024-10-05"
+    "id": 483612825,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483612825/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483612825/large.jpg",
+    "attribution": "(c) leekelai, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/269008647",
+    "place": "中国陕西省汉中市洋县",
+    "date": "2024-01-19"
    },
    {
-    "id": 588762776,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588762776/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588762776/large.jpg",
-    "attribution": "(c) Lisa Bennett, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/325144269",
-    "place": "North Island, Carterton, Wellington, NZ",
-    "date": "2025-11-06"
+    "id": 586109954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586109954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586109954/large.jpg",
+    "attribution": "(c) Glenn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/323881140",
+    "place": "Twizel, Canterbury, NZ",
+    "date": "2025-10-28"
    }
   ],
   "female": [
+   {
+    "id": 514644211,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514644211/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514644211/large.jpg",
+    "attribution": "(c) tamaszeke, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286279740",
+    "place": "Ebes, 4211 Hungary",
+    "date": "2025-04-20"
+   },
    {
     "id": 186367047,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186367047/medium.jpeg",
@@ -64,13 +74,33 @@
     "source": "https://www.inaturalist.org/observations/110473902",
     "place": "Waipuna Saddle, Banks Peninsula",
     "date": "2022-01-08"
+   },
+   {
+    "id": 332076494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332076494/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332076494/large.jpg",
+    "attribution": "(c) 渔喵, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/189545132",
+    "place": "中国贵州省遵义市绥阳县",
+    "date": "2021-07-03"
    }
   ],
   "juvenile": [
    {
-    "id": 439722158,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722158/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722158/large.jpeg",
+    "id": 17977174,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17977174/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/17977174/large.jpg",
+    "attribution": "(c) Tom Arata, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/12460721",
+    "place": "Tara - Leeway Heights, Arlington, VA 22205, USA",
+    "date": "2018-05-14"
+   },
+   {
+    "id": 439722124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722124/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439722124/large.jpeg",
     "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
     "license": "cc-by-sa",
     "source": "https://www.inaturalist.org/observations/246324061",
@@ -89,12 +119,12 @@
    }
   ],
   "hero": {
-   "id": 249007533,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249007533/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249007533/large.jpg",
-   "attribution": "(c) Thiago Valença, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/249007533",
+   "id": 233914195,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/233914195/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/233914195/large.jpeg",
+   "attribution": "(c) Xiaogang Zhou, some rights reserved (CC BY-NC), uploaded by Xiaogang Zhou",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/233914195",
    "place": null,
    "date": null
   }
@@ -116,7 +146,7 @@
    1,
    1
   ],
-  "worldTotal": 5700,
+  "worldTotal": 5704,
   "topCountries": [
    {
     "code": "CN",
@@ -148,7 +178,7 @@
    },
    {
     "code": "DE",
-    "count": 80
+    "count": 84
    },
    {
     "code": "ZZ",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

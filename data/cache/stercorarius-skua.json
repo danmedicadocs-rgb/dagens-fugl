@@ -2,7 +2,7 @@
  "key": "stercorarius-skua",
  "name": "Stercorarius skua",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:16.313Z",
+ "fetchedAt": "2026-11-17T19:44:50.473Z",
  "names": {
   "da": "Storkjove",
   "en": "Great Skua",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 144297,
-  "observations": 2350
+  "observations": 2351
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 549524334,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549524334/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549524334/large.jpg",
+    "attribution": "(c) mpech, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/304808658",
+    "place": "Iceland",
+    "date": "2017-07-22"
+   },
+   {
+    "id": 48096417,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48096417/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48096417/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30773776",
+    "place": "Sveitarfélagið Hornafjörður, IS-AL, IS",
+    "date": "2019-07-12"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 569950002,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569950002/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569950002/large.jpg",
-    "attribution": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/315500111",
-    "place": "Deutschland",
-    "date": "2025-09-18"
+    "id": 85126729,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85126729/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85126729/large.jpg",
+    "attribution": "(c) sjurdur, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/53519756",
+    "place": "Faroe Islands, FO",
+    "date": "2020-06-14"
    },
    {
-    "id": 546962380,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546962380/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546962380/large.jpg",
-    "attribution": "(c) Eric Tittley, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/303462539",
-    "place": "Orkney Islands, Scotland, GB",
-    "date": "2025-08-03"
+    "id": 516128702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/516128702/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/516128702/large.jpg",
+    "attribution": "(c) sjurdur, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/287062045",
+    "place": "Faroe Islands",
+    "date": "2025-06-05"
    },
    {
-    "id": 557803913,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803913/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557803913/large.jpg",
-    "attribution": "(c) cigazze, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309135416",
-    "place": "Vestmannaeyjar, IS-SL, IS",
-    "date": "2025-08-24"
+    "id": 210783102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210783102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210783102/large.jpg",
+    "attribution": "(c) sjurdur, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124361032",
+    "place": "Faroe Islands",
+    "date": "2022-06-29"
    }
   ],
   "hero": {
@@ -85,7 +105,7 @@
    812,
    296
   ],
-  "worldTotal": 177913,
+  "worldTotal": 177922,
   "topCountries": [
    {
     "code": "GB",
@@ -93,11 +113,11 @@
    },
    {
     "code": "NO",
-    "count": 17471
+    "count": 17473
    },
    {
     "code": "SE",
-    "count": 16601
+    "count": 16605
    },
    {
     "code": "DK",
@@ -109,11 +129,11 @@
    },
    {
     "code": "PT",
-    "count": 9853
+    "count": 9854
    },
    {
     "code": "FR",
-    "count": 9344
+    "count": 9345
    },
    {
     "code": "IS",
@@ -121,7 +141,7 @@
    },
    {
     "code": "NL",
-    "count": 5749
+    "count": 5750
    },
    {
     "code": "SJ",
@@ -137,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

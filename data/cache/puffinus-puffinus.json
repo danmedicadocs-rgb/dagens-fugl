@@ -2,7 +2,7 @@
  "key": "puffinus-puffinus",
  "name": "Puffinus puffinus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:06:28.073Z",
+ "fetchedAt": "2026-11-17T19:36:03.310Z",
  "names": {
   "da": "Almindelig skråpe",
   "en": "Manx Shearwater",
@@ -19,53 +19,84 @@
  },
  "inat": {
   "id": 4093,
-  "observations": 2687
+  "observations": 2691
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 329957235,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329957235/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329957235/large.jpeg",
+    "attribution": "(c) Mark Schellekens, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/188508958",
+    "place": "Yerseke, Netherlands",
+    "date": "2023-10-22"
+   },
+   {
+    "id": 449967123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449967123/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449967123/large.jpeg",
+    "attribution": "(c) Muhummed H, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251475661",
+    "place": "Gwynedd, UK",
+    "date": "2023-08-06"
+   },
+   {
+    "id": 224771010,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224771010/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224771010/large.jpeg",
+    "attribution": "(c) Kyle d'Entremont, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/132025720",
+    "place": "Lord's Cove, NL, Canada",
+    "date": "2022-08-22"
+   }
+  ],
   "adult": [
    {
-    "id": 32126880,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/large.jpeg",
-    "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/20828424",
-    "place": null,
-    "date": "2019-02-21"
+    "id": 111005655,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111005655/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111005655/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68538749",
+    "place": "Chicken Rock, Isle of Man",
+    "date": "2013-06-18"
    },
    {
-    "id": 531718354,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531718354/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531718354/large.jpg",
-    "attribution": "(c) Fionn Ó Marcaigh, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/295362248",
-    "place": "Dún Phádraig (Downpatrick), Co. Mhaigh Eo, Éire",
-    "date": "2025-07-05"
+    "id": 539678568,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/539678568/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/539678568/large.jpg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/299557562",
+    "place": "Sligo, IE",
+    "date": "2025-07-20"
    },
    {
-    "id": 32127387,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32127387/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32127387/large.jpeg",
-    "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/20828429",
-    "place": "Grenadines, VC",
-    "date": "2019-02-21"
+    "id": 378989077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378989077/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378989077/large.jpeg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/214416731",
+    "place": "Aughris Head, Ireland",
+    "date": "2022-08-24"
    }
   ],
   "hero": {
-   "id": 32126880,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32126880/large.jpeg",
-   "attribution": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/20828424",
+   "id": 111005655,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111005655/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111005655/large.jpeg",
+   "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC), uploaded by Andrew Thompson",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/111005655",
    "place": null,
-   "date": "2019-02-21"
+   "date": null
   }
  },
  "gbif": {
@@ -85,11 +116,11 @@
    8,
    2
   ],
-  "worldTotal": 192251,
+  "worldTotal": 192256,
   "topCountries": [
    {
     "code": "GB",
-    "count": 83425
+    "count": 83426
    },
    {
     "code": "IE",
@@ -113,7 +144,7 @@
    },
    {
     "code": "PT",
-    "count": 4906
+    "count": 4907
    },
    {
     "code": "SE",
@@ -125,7 +156,7 @@
    },
    {
     "code": "NO",
-    "count": 3329
+    "count": 3330
    },
    {
     "code": "IS",
@@ -137,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

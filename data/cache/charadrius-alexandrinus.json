@@ -2,7 +2,7 @@
  "key": "charadrius-alexandrinus",
  "name": "Charadrius alexandrinus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:57.596Z",
+ "fetchedAt": "2026-11-17T19:41:12.362Z",
  "names": {
   "da": "Hvidbrystet præstekrave",
   "en": "Kentish Plover",
@@ -46,7 +46,7 @@
    81,
    33
   ],
-  "worldTotal": 517086,
+  "worldTotal": 517153,
   "topCountries": [
    {
     "code": "TW",
@@ -54,11 +54,11 @@
    },
    {
     "code": "ES",
-    "count": 98449
+    "count": 98473
    },
    {
     "code": "FR",
-    "count": 50379
+    "count": 50384
    },
    {
     "code": "PT",
@@ -86,7 +86,7 @@
    },
    {
     "code": "GR",
-    "count": 8544
+    "count": 8547
    },
    {
     "code": "SE",
@@ -94,12 +94,10 @@
    },
    {
     "code": "NL",
-    "count": 8007
+    "count": 8010
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -114,5 +112,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

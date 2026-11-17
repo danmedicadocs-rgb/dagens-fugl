@@ -2,7 +2,7 @@
  "key": "passerina-ciris",
  "name": "Passerina ciris",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:44.862Z",
+ "fetchedAt": "2026-11-17T20:18:16.415Z",
  "names": {
   "da": "Pavefinke",
   "en": null,
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 10224,
-  "observations": 38377
+  "observations": 38424
  },
  "photos": {
   "male": [
+   {
+    "id": 5808544,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5808544/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5808544/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/4770340",
+    "place": "Hidalgo County, TX, USA",
+    "date": "2006-04-18"
+   },
+   {
+    "id": 293862224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293862224/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293862224/large.jpeg",
+    "attribution": "(c) Balaji Devarajan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169498362",
+    "place": "4300 Co Rd 1006, McKinney, TX 75071, USA",
+    "date": "2023-06-19"
+   },
    {
     "id": 3179793,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/medium.jpg",
@@ -32,101 +52,81 @@
     "source": "https://www.inaturalist.org/observations/2800791",
     "place": "Route 100, Pittsfield, VT, US",
     "date": "2016-03-18"
-   },
-   {
-    "id": 587714516,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587714516/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587714516/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/324511257",
-    "place": "Florida, US",
-    "date": "2025-11-02"
-   },
-   {
-    "id": 307225241,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307225241/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307225241/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/176695289",
-    "place": "Painted Bunting Spot, Front Street, East St Louis, IL, USA",
-    "date": "2023-07-08"
    }
   ],
   "female": [
    {
-    "id": 104974315,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104974315/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104974315/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/65242922",
-    "place": "Bernal Heights, San Francisco, CA 94110, USA",
-    "date": "2020-11-19"
+    "id": 295363462,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295363462/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295363462/large.jpg",
+    "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/170307631",
+    "place": "El Paso, TX, USA",
+    "date": "2023-06-30"
    },
    {
-    "id": 161913380,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161913380/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161913380/large.jpg",
-    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/97364121",
-    "place": "Kimble, Texas, United States",
-    "date": "2006-05-27"
+    "id": 626510428,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626510428/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626510428/large.jpg",
+    "attribution": "(c) Goro Saber Animal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343889005",
+    "place": "Next to Gitanos Bar Puntarenas Tambor, Provincia de Puntarenas, Tambor, 50309, Costa Rica",
+    "date": "2025-12-05"
    },
    {
-    "id": 713528826,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/713528826/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/713528826/large.jpg",
-    "attribution": "(c) Linda Jo Conn, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/389533618",
-    "place": "5365 CR 326, Lexington, Lee Co, TX, USA",
-    "date": "2026-08-08"
+    "id": 174826867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174826867/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174826867/large.jpeg",
+    "attribution": "(c) alycem, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104346899",
+    "place": "Beaufort",
+    "date": "2022-01-04"
    }
   ],
   "juvenile": [
    {
-    "id": 159755233,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159755233/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159755233/large.jpg",
-    "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/96182519",
-    "place": "Eddy County, NM, USA",
-    "date": "2021-09-24"
+    "id": 84087678,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84087678/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84087678/large.jpg",
+    "attribution": "(c) Shelia Hargis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/52883279",
+    "place": "Shady Hollow, TX, USA",
+    "date": "2020-07-12"
    },
    {
-    "id": 530573308,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530573308/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530573308/large.jpg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/294759336",
-    "place": "Hidalgo County, TX, USA",
-    "date": "2025-07-02"
+    "id": 18381747,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/18381747/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/18381747/large.jpeg",
+    "attribution": "(c) TVASQUEZ, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/12696334",
+    "place": "San Angelo, TX 76901, USA",
+    "date": "2018-05-21"
    },
    {
-    "id": 302746465,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/302746465/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/302746465/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/174280350",
-    "place": "St Landry Parish, LA, USA",
-    "date": "2023-07-20"
+    "id": 558219355,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558219355/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558219355/large.jpg",
+    "attribution": "(c) Nick Glover, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309352032",
+    "place": "Texas, US",
+    "date": "2025-08-13"
    }
   ],
   "hero": {
-   "id": 3179793,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/2800791",
-   "place": "Route 100, Pittsfield, VT, US",
-   "date": "2016-03-18"
+   "id": 293862280,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293862280/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293862280/large.jpeg",
+   "attribution": "(c) Balaji Devarajan, some rights reserved (CC BY-NC), uploaded by Balaji Devarajan",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/293862280",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

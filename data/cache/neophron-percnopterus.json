@@ -2,7 +2,7 @@
  "key": "neophron-percnopterus",
  "name": "Neophron percnopterus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:06.660Z",
+ "fetchedAt": "2026-11-17T20:02:44.424Z",
  "names": {
   "da": "Ådselgrib",
   "en": "Egyptian Vulture",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 5361,
-  "observations": 7595
+  "observations": 7605
  },
  "photos": {
   "male": [
+   {
+    "id": 366823837,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366823837/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366823837/large.jpg",
+    "attribution": "(c) quentin_fort, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207384223",
+    "place": "France",
+    "date": "2024-03-27"
+   },
    {
     "id": 120870350,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120870350/medium.jpg",
@@ -34,46 +44,57 @@
     "date": "2008-03-07"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 353389186,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353389186/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353389186/large.jpeg",
+    "attribution": "(c) Catalina Tong, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200314514",
+    "place": "Kangra, IN-HP, IN",
+    "date": "2024-02-20"
+   }
+  ],
   "juvenile": [
    {
-    "id": 726329041,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/726329041/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/726329041/large.jpg",
-    "attribution": "(c) Darío Calvente Viera, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/396079462",
-    "place": "Cádiz, ES-AN, ES",
-    "date": "2026-08-31"
+    "id": 72580266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72580266/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72580266/large.jpeg",
+    "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45767104",
+    "place": "Churu, IN-RJ, IN",
+    "date": "2019-12-13"
    },
    {
-    "id": 603401682,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603401682/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603401682/large.jpg",
-    "attribution": "(c) Lucas Benaiche, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/332482717",
-    "place": "Spain",
-    "date": "2022-10-09"
+    "id": 237823426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237823426/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237823426/large.jpeg",
+    "attribution": "(c) emiltodorov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139085991",
+    "place": "Teleorman, RO",
+    "date": "2022-10-07"
    },
    {
-    "id": 613186531,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613186531/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613186531/large.jpg",
-    "attribution": "(c) Mourad Harzallah, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/337325742",
-    "place": "Algeria",
-    "date": "2021-09-09"
+    "id": 334977695,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334977695/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334977695/large.jpg",
+    "attribution": "(c) El Comley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191008303",
+    "place": "Malawi",
+    "date": "2022-11-05"
    }
   ],
   "hero": {
-   "id": 139303350,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139303350/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139303350/large.jpeg",
-   "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA), uploaded by Kudaibergen Amirekul",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/139303350",
+   "id": 339497104,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339497104/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339497104/large.jpeg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/339497104",
    "place": null,
    "date": null
   }
@@ -95,19 +116,19 @@
    0,
    0
   ],
-  "worldTotal": 183627,
+  "worldTotal": 183649,
   "topCountries": [
    {
     "code": "ES",
-    "count": 82549
+    "count": 82559
    },
    {
     "code": "IN",
-    "count": 34265
+    "count": 34266
    },
    {
     "code": "FR",
-    "count": 14488
+    "count": 14490
    },
    {
     "code": "IL",
@@ -131,7 +152,7 @@
    },
    {
     "code": "OM",
-    "count": 2450
+    "count": 2454
    },
    {
     "code": "BG",
@@ -147,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +182,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "porphyrio-porphyrio",
  "name": "Porphyrio porphyrio",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:30:06.677Z",
+ "fetchedAt": "2026-11-17T20:03:51.831Z",
  "names": {
   "da": "Sultanhøne",
   "en": "Western Swamphen",
@@ -19,10 +19,31 @@
  },
  "inat": {
   "id": 475028,
-  "observations": 3957
+  "observations": 3967
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 449344050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449344050/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449344050/large.jpeg",
+    "attribution": "(c) BEKKOUCHE Abdelkader, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251158363",
+    "place": "XW9P+3W3، وادي ارهيو، الجزائر",
+    "date": "2023-09-16"
+   },
+   {
+    "id": 70493195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70493195/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70493195/large.jpg",
+    "attribution": "(c) Íker Sánchez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/44460222",
+    "place": "Laguna Primera de Palos, 21810, Huelva, España",
+    "date": "2016-05-10"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
@@ -36,65 +57,33 @@
     "date": "2025-07-13"
    },
    {
-    "id": 161577843,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161577843/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161577843/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/97186256",
-    "place": "Balearic Islands, Spain",
-    "date": "2021-10-03"
+    "id": 223752266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223752266/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223752266/large.jpeg",
+    "attribution": "(c) Luis Santos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131478875",
+    "place": "8125 Quarteira, Portugal",
+    "date": "2022-08-17"
    },
    {
-    "id": 536253339,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536253339/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536253339/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/297749219",
-    "place": "Ciudad Real, España",
-    "date": "2025-07-13"
-   }
-  ],
-  "adult": [
-   {
-    "id": 597461751,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597461751/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/329586128",
-    "place": "Minsmere RSPB",
-    "date": "2016-08-03"
-   },
-   {
-    "id": 262252416,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262252416/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262252416/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/151948370",
-    "place": "Sevilla, ES-AN, ES",
-    "date": "2023-03-22"
-   },
-   {
-    "id": 338988506,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338988506/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338988506/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/193022031",
-    "place": "Loulé, Portugal",
-    "date": "2023-11-13"
+    "id": 385686580,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385686580/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385686580/large.jpeg",
+    "attribution": "(c) aggranada, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/217981893",
+    "place": "Andalucía, ES",
+    "date": "2024-05-23"
    }
   ],
   "hero": {
-   "id": 5693868,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5693868/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5693868/large.jpeg",
-   "attribution": "(c) Carles Pastor, some rights reserved (CC BY-SA), uploaded by Carles Pastor",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/5693868",
+   "id": 176055601,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176055601/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176055601/large.jpg",
+   "attribution": "(c) jjulio2000, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/176055601",
    "place": null,
    "date": null
   }
@@ -116,19 +105,19 @@
    2,
    1
   ],
-  "worldTotal": 759261,
+  "worldTotal": 759296,
   "topCountries": [
    {
     "code": "AU",
-    "count": 259797
+    "count": 259798
    },
    {
     "code": "IN",
-    "count": 206883
+    "count": 206885
    },
    {
     "code": "ES",
-    "count": 87766
+    "count": 87785
    },
    {
     "code": "US",
@@ -136,15 +125,15 @@
    },
    {
     "code": "ZA",
-    "count": 49351
+    "count": 49352
    },
    {
     "code": "FR",
-    "count": 17552
+    "count": 17553
    },
    {
     "code": "PT",
-    "count": 15288
+    "count": 15290
    },
    {
     "code": "LK",
@@ -156,7 +145,7 @@
    },
    {
     "code": "NL",
-    "count": 5070
+    "count": 5072
    },
    {
     "code": "AE",
@@ -164,12 +153,10 @@
    },
    {
     "code": "EG",
-    "count": 2348
+    "count": 2350
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

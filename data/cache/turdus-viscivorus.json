@@ -2,7 +2,7 @@
  "key": "turdus-viscivorus",
  "name": "Turdus viscivorus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:24:05.826Z",
+ "fetchedAt": "2026-11-17T19:56:16.201Z",
  "names": {
   "da": "Misteldrossel",
   "en": "Mistle Thrush",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 12735,
-  "observations": 28380
+  "observations": 28457
  },
  "photos": {
   "male": [
+   {
+    "id": 506094971,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506094971/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506094971/large.jpg",
+    "attribution": "(c) Jaakko J. Ilvonen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/281718992",
+    "place": "Turku, Suomi",
+    "date": "2025-04-03"
+   },
    {
     "id": 338267434,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338267434/medium.jpeg",
@@ -32,66 +42,96 @@
     "source": "https://www.inaturalist.org/observations/192662067",
     "place": "Dipton, UK",
     "date": "2023-11-30"
+   },
+   {
+    "id": 81915677,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81915677/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81915677/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/51552651",
+    "place": "Reims, France",
+    "date": "2020-06-29"
    }
   ],
   "female": [
    {
-    "id": 263661860,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263661860/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263661860/large.jpg",
-    "attribution": "(c) Leonardo Antonio Argese, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/152712880",
-    "place": "Politecnico di Bari, Bari, Puglia, IT",
-    "date": "2023-03-29"
+    "id": 700696071,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700696071/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700696071/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382866141",
+    "place": "Alicante, España",
+    "date": "2026-07-18"
+   },
+   {
+    "id": 275855622,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275855622/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275855622/large.jpeg",
+    "attribution": "(c) adinie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/159656725",
+    "place": "Ludmannsdorf, Klagenfurt-Land, Österreich",
+    "date": "2023-04-30"
+   },
+   {
+    "id": 522448388,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/522448388/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/522448388/large.jpg",
+    "attribution": "(c) reddad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/290424270",
+    "place": "Sexten, Trentino-Alto Adige/Südtirol, IT-APB, Italy",
+    "date": "2025-06-09"
    }
   ],
   "juvenile": [
    {
-    "id": 112630612,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112630612/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112630612/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/69330825",
-    "place": "Ponteland, Newcastle upon Tyne, UK",
-    "date": "2020-05-01"
+    "id": 550867931,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550867931/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550867931/large.jpg",
+    "attribution": "(c) jasnapurnat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305518603",
+    "place": "Bočna, Slovenija",
+    "date": "2025-07-29"
    },
    {
-    "id": 410098818,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410098818/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410098818/large.jpeg",
-    "attribution": "(c) A. Johann, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/230933614",
-    "place": "Göllheimer Wald, Göllheim, Rheinland-Pfalz, DE",
-    "date": "2024-07-22"
+    "id": 551036282,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/551036282/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/551036282/large.jpg",
+    "attribution": "(c) Coby Meester, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305608580",
+    "place": "Ulflingen, Luxemburg",
+    "date": "2025-08-11"
    },
    {
-    "id": 527558789,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527558789/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527558789/large.jpg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293122161",
-    "place": "Респ. Башкортостан, Россия, 453620",
-    "date": "2025-06-27"
+    "id": 377251399,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/377251399/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/377251399/large.jpeg",
+    "attribution": "(c) budneva, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/213464356",
+    "place": "Медеуский район, Алматы, Казахстан",
+    "date": "2024-05-04"
    }
   ],
   "hero": {
-   "id": 256398718,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256398718/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256398718/large.jpg",
-   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/256398718",
+   "id": 203268068,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203268068/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203268068/large.jpg",
+   "attribution": "(c) Luca Ghiraldi, some rights reserved (CC BY-NC), uploaded by Luca Ghiraldi",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/203268068",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2490774,
-  "dkTotal": 107498,
+  "dkTotal": 107499,
   "dkMonths": [
    3737,
    6297,
@@ -100,45 +140,49 @@
    11755,
    5195,
    2748,
-   1561,
+   1562,
    4495,
    15179,
    3462,
    2293
   ],
-  "worldTotal": 1775466,
+  "worldTotal": 1876376,
   "topCountries": [
    {
     "code": "SE",
-    "count": 359021
+    "count": 359155
    },
    {
     "code": "FR",
-    "count": 348474
+    "count": 349149
    },
    {
     "code": "GB",
-    "count": 282370
+    "count": 282371
    },
    {
     "code": "ES",
-    "count": 130207
+    "count": 130221
+   },
+   {
+    "code": "CH",
+    "count": 113885
    },
    {
     "code": "NL",
-    "count": 113440
+    "count": 113510
    },
    {
     "code": "DK",
-    "count": 107498
+    "count": 107499
    },
    {
     "code": "DE",
-    "count": 71998
+    "count": 72566
    },
    {
     "code": "NO",
-    "count": 59951
+    "count": 59954
    },
    {
     "code": "BE",
@@ -146,20 +190,14 @@
    },
    {
     "code": "FI",
-    "count": 41399
+    "count": 41406
    },
    {
     "code": "IE",
     "count": 24361
-   },
-   {
-    "code": "PT",
-    "count": 19960
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

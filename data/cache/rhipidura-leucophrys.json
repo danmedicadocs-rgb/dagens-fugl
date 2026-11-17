@@ -2,7 +2,7 @@
  "key": "rhipidura-leucophrys",
  "name": "Rhipidura leucophrys",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:40:27.092Z",
+ "fetchedAt": "2026-11-17T20:14:33.074Z",
  "names": {
   "da": "Sorthvid Viftehale",
   "en": "Willie Wagtail",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 8143,
-  "observations": 30541
+  "observations": 30628
  },
  "photos": {
   "male": [
+   {
+    "id": 63160007,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63160007/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63160007/large.jpg",
+    "attribution": "(c) binghi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39787414",
+    "place": "Duck Creek Trail, Duck Creek, Torrington State Conservation Area",
+    "date": "2020-03-09"
+   },
+   {
+    "id": 86496097,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86496097/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86496097/large.jpg",
+    "attribution": "(c) binghi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/54361399",
+    "place": "Torrington SCA, Marvin Trail",
+    "date": "2020-07-17"
+   },
    {
     "id": 189740096,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189740096/medium.jpeg",
@@ -34,37 +54,68 @@
     "date": "2022-04-22"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 364708918,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364708918/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364708918/large.jpg",
+    "attribution": "(c) briannarobinson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/206213746",
+    "place": "Myrniong VIC 3341, Australia",
+    "date": "2024-04-02"
+   },
+   {
+    "id": 122510338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122510338/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122510338/large.jpeg",
+    "attribution": "(c) Dustyn and Catherine, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74926320",
+    "place": "Green Range WA 6328, Australia",
+    "date": "2019-10-17"
+   },
+   {
+    "id": 250515627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250515627/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250515627/large.jpeg",
+    "attribution": "(c) Robert Lawrence, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/145799007",
+    "place": "Glenelg East SA 5045, Australia",
+    "date": "2023-01-03"
+   }
+  ],
   "juvenile": [
    {
-    "id": 169189342,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169189342/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169189342/large.jpeg",
-    "attribution": "(c) Matt B, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101312662",
-    "place": "Smithfield QLD 4878, Australia",
-    "date": "2021-11-17"
+    "id": 446000322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/446000322/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/446000322/large.jpg",
+    "attribution": "(c) dawnborchardt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/249496226",
+    "place": "Tolderol Game Reserve, Tolderol SA 5256, Australia",
+    "date": "2024-09-24"
    },
    {
-    "id": 259481099,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259481099/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259481099/large.jpeg",
-    "attribution": "(c) A.J. Anderson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/150477019",
-    "place": "Jan Hammond Reserve, Bartram Rd & Baningan Ave, Success WA 6164, Australia",
-    "date": "2023-01-12"
+    "id": 446332582,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/446332582/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/446332582/large.jpg",
+    "attribution": "(c) Eddy Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/249660418",
+    "place": "Whicker Rd Wetlands, Gillman SA 5013, Australia",
+    "date": "2024-10-29"
    },
    {
-    "id": 2921156,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/medium.JPG",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2921156/large.JPG",
-    "attribution": "(c) gsmith03, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2612319",
-    "place": "Point Malcolm, South Australia",
-    "date": "2016-01-24"
+    "id": 759500066,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/759500066/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/759500066/large.jpg",
+    "attribution": "(c) Stevie, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/412729265",
+    "place": "Wonboyn NSW 2551, Australia",
+    "date": "2026-11-04"
    }
   ],
   "hero": {
@@ -95,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 1837584,
+  "worldTotal": 1837585,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1821335
+    "count": 1821336
    },
    {
     "code": "PG",
@@ -139,8 +190,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -155,5 +204,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

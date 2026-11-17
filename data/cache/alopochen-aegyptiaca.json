@@ -2,7 +2,7 @@
  "key": "alopochen-aegyptiaca",
  "name": "Alopochen aegyptiaca",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:30.820Z",
+ "fetchedAt": "2026-11-17T19:32:37.866Z",
  "names": {
   "da": "Nilgås",
   "en": "Egyptian Goose",
@@ -19,19 +19,29 @@
  },
  "inat": {
   "id": 72486,
-  "observations": 94796
+  "observations": 95027
  },
  "photos": {
   "male": [
    {
-    "id": 603133578,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603133578/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603133578/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/332351125",
-    "place": "Ben Fiorendino Park, Pembroke Pines, FL, US",
-    "date": "2025-12-27"
+    "id": 107599999,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107599999/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107599999/large.jpeg",
+    "attribution": "(c) cuali, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66708184",
+    "place": "Nova & Walton IB, South Daytona, FL 32119, USA",
+    "date": "2020-12-15"
+   },
+   {
+    "id": 490477074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490477074/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490477074/large.jpeg",
+    "attribution": "(c) Peter Vos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/272624076",
+    "place": "Scottburgh, 4180, South Africa",
+    "date": "2025-04-23"
    },
    {
     "id": 412455297,
@@ -42,89 +52,79 @@
     "source": "https://www.inaturalist.org/observations/232177250",
     "place": "Oudegracht aan de Werf, Utrecht, Utrecht, NL",
     "date": "2024-04-28"
-   },
-   {
-    "id": 436938826,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436938826/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436938826/large.jpeg",
-    "attribution": "(c) David Garza, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/244907854",
-    "place": "Miami Dade College, Miami, FL, US",
-    "date": "2024-09-30"
    }
   ],
   "female": [
    {
-    "id": 178789769,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178789769/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178789769/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/106432351",
-    "place": "Petite France, 67000 Strasbourg, France",
-    "date": "2022-02-09"
+    "id": 1874015,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1874015/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1874015/large.jpg",
+    "attribution": "(c) Stephanie Michelle Soto, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1512892",
+    "place": "Miami-Dade County, US-FL, US",
+    "date": "2015-05-19"
    },
    {
-    "id": 436938885,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436938885/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436938885/large.jpeg",
-    "attribution": "(c) David Garza, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/244907883",
-    "place": "Miami Dade College, Miami, FL, US",
-    "date": "2024-09-30"
+    "id": 565891347,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565891347/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565891347/large.jpg",
+    "attribution": "(c) Pablo Pozo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/313368100",
+    "place": "Casa de Campo, Moncloa - Aravaca, Madrid, España",
+    "date": "2025-09-11"
    },
    {
-    "id": 61413012,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61413012/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61413012/large.jpeg",
-    "attribution": "(c) Luiz Puodzius, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/38624587",
-    "place": "Oakland Park, FL, USA",
-    "date": "2020-02-13"
+    "id": 637010612,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637010612/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637010612/large.jpg",
+    "attribution": "(c) Peter Oehler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/349202990",
+    "place": "9424 Rheineck, Schweiz",
+    "date": "2026-04-11"
    }
   ],
   "juvenile": [
    {
-    "id": 487078347,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487078347/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487078347/large.jpeg",
-    "attribution": "(c) Alex Press, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/270816937",
-    "place": "RHS Wisley, Surrey, UK",
-    "date": "2025-04-16"
+    "id": 228144005,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/228144005/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/228144005/large.jpg",
+    "attribution": "(c) Katy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/133897146",
+    "place": "Grovelands Park, London, UK",
+    "date": "2013-06-04"
    },
    {
-    "id": 515880564,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515880564/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515880564/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/286951272",
-    "place": "Fullerton, CA, USA",
-    "date": "2024-03-26"
+    "id": 265283830,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265283830/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265283830/large.jpeg",
+    "attribution": "(c) b3ugaz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/153595177",
+    "place": "Casa de Campo, Madrid, España",
+    "date": "2023-04-04"
    },
    {
-    "id": 281089536,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281089536/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281089536/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/162558588",
-    "place": "Duck Island Cottage, St James's Park, London SW1A 2BJ, UK",
-    "date": "2023-05-18"
+    "id": 122035902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122035902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122035902/large.jpg",
+    "attribution": "(c) albissers_grund, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74652548",
+    "place": "Frankfurt am Main Süd, Frankfurt am Main, Deutschland",
+    "date": "2021-04-18"
    }
   ],
   "hero": {
-   "id": 487078347,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487078347/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487078347/large.jpeg",
-   "attribution": "(c) Alex Press, some rights reserved (CC BY), uploaded by Alex Press",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/487078347",
+   "id": 372916483,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/372916483/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/372916483/large.jpg",
+   "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/372916483",
    "place": null,
    "date": null
   }
@@ -146,15 +146,15 @@
    411,
    473
   ],
-  "worldTotal": 2328633,
+  "worldTotal": 2334440,
   "topCountries": [
    {
     "code": "NL",
-    "count": 564100
+    "count": 564653
    },
    {
     "code": "ZA",
-    "count": 482085
+    "count": 482092
    },
    {
     "code": "BE",
@@ -162,11 +162,11 @@
    },
    {
     "code": "DE",
-    "count": 212992
+    "count": 214679
    },
    {
     "code": "GB",
-    "count": 205040
+    "count": 205046
    },
    {
     "code": "US",
@@ -174,15 +174,15 @@
    },
    {
     "code": "ES",
-    "count": 45914
+    "count": 45916
    },
    {
     "code": "KE",
-    "count": 40533
+    "count": 40537
    },
    {
     "code": "FR",
-    "count": 28528
+    "count": 28541
    },
    {
     "code": "PT",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

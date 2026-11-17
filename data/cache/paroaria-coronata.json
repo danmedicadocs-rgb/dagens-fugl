@@ -2,7 +2,7 @@
  "key": "paroaria-coronata",
  "name": "Paroaria coronata",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:31.899Z",
+ "fetchedAt": "2026-11-17T20:26:15.972Z",
  "names": {
   "da": "Grå Kardinal",
   "en": "Red-crested Cardinal",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 10254,
-  "observations": 21055
+  "observations": 21103
  },
  "photos": {
   "male": [
+   {
+    "id": 169600140,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169600140/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169600140/large.jpg",
+    "attribution": "(c) radinis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101547472",
+    "place": "Waimea, HI, USA",
+    "date": "2021-11-08"
+   },
+   {
+    "id": 56995119,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56995119/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56995119/large.jpeg",
+    "attribution": "(c) zinpambug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36084653",
+    "place": "Rio Grande",
+    "date": "2019-11-24"
+   },
    {
     "id": 131265271,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131265271/medium.jpeg",
@@ -32,30 +52,61 @@
     "source": "https://www.inaturalist.org/observations/80107699",
     "place": "Puerto Madero, CABA, Argentina",
     "date": "2021-05-16"
-   },
-   {
-    "id": 166470862,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166470862/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166470862/large.jpeg",
-    "attribution": "(c) Trey Philips, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/99819108",
-    "place": "Lahaina, HI, USA",
-    "date": "2021-09-27"
-   },
-   {
-    "id": 398063066,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398063066/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398063066/large.jpeg",
-    "attribution": "(c) Briggs Armstrong, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/224580741",
-    "place": "Waikiki, Honolulu, HI 96815, USA",
-    "date": "2024-06-22"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 222036608,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/222036608/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/222036608/large.jpg",
+    "attribution": "(c) quicksilv3r, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/130551038",
+    "place": "Hawaii, US",
+    "date": "2022-08-11"
+   },
+   {
+    "id": 146961933,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146961933/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146961933/large.jpeg",
+    "attribution": "(c) Michael Finch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/89022561",
+    "place": "Aiea, HI 96701, USA",
+    "date": "2021-07-28"
+   },
+   {
+    "id": 623430023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/623430023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/623430023/large.jpg",
+    "attribution": "(c) Derek Fleming, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342355087",
+    "place": "885X+2H, Honolulu, HI 96825, USA",
+    "date": "2026-03-10"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 250348543,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250348543/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250348543/large.jpg",
+    "attribution": "(c) Patrícia Nicoloso, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/145713871",
+    "place": "Santa Maria, RS, Brasil",
+    "date": "2022-04-01"
+   },
+   {
+    "id": 590746115,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590746115/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590746115/large.jpg",
+    "attribution": "(c) Maruxa Fogel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/326199615",
+    "place": "001229 Asunción, Paraguay",
+    "date": "2025-11-12"
+   },
    {
     "id": 556255868,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556255868/medium.jpg",
@@ -65,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/308327297",
     "place": "Engineering Quad, Honolulu, HI 96822, USA",
     "date": "2025-08-22"
-   },
-   {
-    "id": 96129248,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96129248/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96129248/large.jpeg",
-    "attribution": "(c) Candela Castro, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/60133406",
-    "place": "Vicente López, Provincia de Buenos Aires, Argentina",
-    "date": "2020-03-07"
-   },
-   {
-    "id": 236174948,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236174948/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/138204679",
-    "place": "Las Colonias, Santa Fe, Argentina",
-    "date": "2008-12-31"
    }
   ],
   "hero": {
-   "id": 445222630,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222630/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222630/large.jpeg",
-   "attribution": "(c) David F. Belmonte, some rights reserved (CC BY), uploaded by David F. Belmonte",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/445222630",
+   "id": 313854459,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313854459/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313854459/large.jpg",
+   "attribution": "(c) GUSTAVO PASCUAS, some rights reserved (CC BY-NC), uploaded by GUSTAVO PASCUAS",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/313854459",
    "place": null,
    "date": null
   }
@@ -115,7 +146,7 @@
    2,
    0
   ],
-  "worldTotal": 220826,
+  "worldTotal": 220831,
   "topCountries": [
    {
     "code": "AR",
@@ -131,11 +162,11 @@
    },
    {
     "code": "BR",
-    "count": 19698
+    "count": 19705
    },
    {
     "code": "PY",
-    "count": 11619
+    "count": 11617
    },
    {
     "code": "BO",
@@ -167,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

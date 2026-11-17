@@ -2,7 +2,7 @@
  "key": "bostrychia-hagedash",
  "name": "Bostrychia hagedash",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:34:42.283Z",
+ "fetchedAt": "2026-11-17T20:08:42.883Z",
  "names": {
   "da": "Hadadaibis",
   "en": "Hadada Ibis",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3743,
-  "observations": 16269
+  "observations": 16320
  },
  "photos": {
   "male": [
@@ -42,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/327624431",
     "place": "Karatini Farm, Farm 203/72 Elandskraal Sedgefield, Sedgefield, 6573, South Africa",
     "date": "2025-11-21"
+   },
+   {
+    "id": 352749856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352749856/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352749856/large.jpeg",
+    "attribution": "(c) dineolempe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199985395",
+    "place": "Scottsville, Pietermaritzburg, 3201, South Africa",
+    "date": "2024-02-21"
    }
   ],
   "female": [
@@ -68,43 +78,43 @@
   ],
   "juvenile": [
    {
-    "id": 724815562,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815562/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815562/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/395305358",
-    "place": "Langeberg, Western Cape, ZA",
-    "date": "2026-08-27"
+    "id": 503537457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503537457/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503537457/large.jpeg",
+    "attribution": "(c) Gigi Laidler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/280370476",
+    "place": "Kruger National Park",
+    "date": "2025-02-26"
    },
    {
-    "id": 724815067,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815067/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724815067/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/395305057",
-    "place": "Langeberg, Western Cape, ZA",
-    "date": "2026-08-27"
+    "id": 724067223,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724067223/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724067223/large.jpg",
+    "attribution": "(c) jeanelz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/395014289",
+    "place": "Mesklip, District Springbok, South Africa",
+    "date": "2026-08-05"
    },
    {
-    "id": 227123041,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227123041/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227123041/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/133347426",
-    "place": "Joubertina, South Africa",
-    "date": "2022-09-02"
+    "id": 606617858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606617858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606617858/large.jpg",
+    "attribution": "(c) ugqira52-, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334083643",
+    "place": "Meer En See, Richards Bay, 3901, South Africa",
+    "date": "2017-02-11"
    }
   ],
   "hero": {
-   "id": 50051647,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50051647/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50051647/large.jpeg",
-   "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/50051647",
+   "id": 56569580,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56569580/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56569580/large.jpeg",
+   "attribution": "(c) Peter Vos, some rights reserved (CC BY-NC), uploaded by Peter Vos",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/56569580",
    "place": null,
    "date": null
   }
@@ -126,15 +136,15 @@
    0,
    0
   ],
-  "worldTotal": 664796,
+  "worldTotal": 664832,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 537744
+    "count": 537752
    },
    {
     "code": "KE",
-    "count": 50519
+    "count": 50523
    },
    {
     "code": "UG",
@@ -142,11 +152,11 @@
    },
    {
     "code": "TZ",
-    "count": 10696
+    "count": 10699
    },
    {
     "code": "ZM",
-    "count": 6387
+    "count": 6389
    },
    {
     "code": "ZW",
@@ -154,7 +164,7 @@
    },
    {
     "code": "RW",
-    "count": 5238
+    "count": 5239
    },
    {
     "code": "BW",
@@ -162,7 +172,7 @@
    },
    {
     "code": "SZ",
-    "count": 3804
+    "count": 3805
    },
    {
     "code": "ET",
@@ -178,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +202,7 @@
   "type": "dawn song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "picus-viridis",
  "name": "Picus viridis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:18:39.296Z",
+ "fetchedAt": "2026-11-17T19:49:49.231Z",
  "names": {
   "da": "Grønspætte",
   "en": "European Green Woodpecker",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 144243,
-  "observations": 39504
+  "observations": 39583
  },
  "photos": {
   "male": [
+   {
+    "id": 483403324,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483403324/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483403324/large.jpeg",
+    "attribution": "(c) mederlypeter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/268897361",
+    "place": "Kalná, 935 32 Kalná nad Hronom, Slovensko",
+    "date": "2025-03-17"
+   },
+   {
+    "id": 117935520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117935520/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117935520/large.jpg",
+    "attribution": "(c) Dmitry P., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72344009",
+    "place": "Вишенки, Владимирская обл., Россия, 601223",
+    "date": "2021-03-28"
+   },
    {
     "id": 242668015,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242668015/medium.jpg",
@@ -32,29 +52,29 @@
     "source": "https://www.inaturalist.org/observations/141624066",
     "place": "Quartiere XII Gianicolense, Roma RM, Italia",
     "date": "2022-11-10"
-   },
-   {
-    "id": 597294952,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597294952/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597294952/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/329502960",
-    "place": "Nunnery Lakes",
-    "date": "2016-07-17"
-   },
-   {
-    "id": 255640895,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255640895/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255640895/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/148448012",
-    "place": "4292 Dobri Dol, Bulgaria",
-    "date": "2020-09-19"
    }
   ],
   "female": [
+   {
+    "id": 608973926,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608973926/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608973926/large.jpg",
+    "attribution": "(c) ollie lewis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335240550",
+    "place": "Pinkys Pastries Venue Hire & Catering Blackthorn Wood Golf Complex Corby Road Nr, Corby LE16 8XJ, UK",
+    "date": "2026-01-18"
+   },
+   {
+    "id": 484857918,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/484857918/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/484857918/large.jpeg",
+    "attribution": "(c) Axel Gosseries, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/269651181",
+    "place": "Watermael, Watermael-Boitsfort, Belgique",
+    "date": "2025-04-10"
+   },
    {
     "id": 352730939,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352730939/medium.jpg",
@@ -64,58 +84,38 @@
     "source": "https://www.inaturalist.org/observations/199975809",
     "place": "4292 Dobri Dol, Bulgaria",
     "date": "2024-02-20"
-   },
-   {
-    "id": 762198814,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762198814/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762198814/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/414070558",
-    "place": "87059 Casali del Manco CS, Italia",
-    "date": "2026-11-08"
-   },
-   {
-    "id": 676676692,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676676692/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676676692/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/370411543",
-    "place": "Swavesey, Cambridge, UK",
-    "date": "2026-06-10"
    }
   ],
   "juvenile": [
    {
-    "id": 700793955,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700793955/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700793955/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/382922669",
-    "place": "Old Tbilisi, Tbilisi, Georgia",
-    "date": "2026-07-15"
+    "id": 527469724,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527469724/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527469724/large.jpg",
+    "attribution": "(c) Igor Kim, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293073045",
+    "place": "Sachsen, DE",
+    "date": "2025-06-27"
    },
    {
-    "id": 611497074,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611497074/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611497074/large.jpg",
-    "attribution": "(c) Owen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/336497864",
-    "place": "East Riding of Yorkshire, UK",
-    "date": "2025-07-01"
+    "id": 115905425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115905425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115905425/large.jpg",
+    "attribution": "(c) Kurilin M S, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/71213051",
+    "place": "Центральный округ, Краснодар, Краснодарский край, Россия",
+    "date": "2021-03-07"
    },
    {
-    "id": 553182736,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553182736/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553182736/large.jpg",
-    "attribution": "(c) aszkabro, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/306734021",
-    "place": "Budapest, Lónyaytelep, Magyarország",
-    "date": "2023-05-22"
+    "id": 299596376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299596376/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299596376/large.jpg",
+    "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/172570989",
+    "place": "Provincia di Pavia, Italia",
+    "date": "2023-07-11"
    }
   ],
   "hero": {
@@ -146,15 +146,15 @@
    2560,
    1861
   ],
-  "worldTotal": 2616062,
+  "worldTotal": 2835844,
   "topCountries": [
    {
     "code": "FR",
-    "count": 579497
+    "count": 581861
    },
    {
     "code": "SE",
-    "count": 517153
+    "count": 517859
    },
    {
     "code": "GB",
@@ -162,23 +162,27 @@
    },
    {
     "code": "DE",
-    "count": 313166
+    "count": 318347
+   },
+   {
+    "code": "CH",
+    "count": 237152
    },
    {
     "code": "NL",
-    "count": 203789
+    "count": 203975
    },
    {
     "code": "BE",
-    "count": 183881
+    "count": 183882
    },
    {
     "code": "NO",
-    "count": 112838
+    "count": 112923
    },
    {
     "code": "IT",
-    "count": 73698
+    "count": 74566
    },
    {
     "code": "DK",
@@ -186,20 +190,14 @@
    },
    {
     "code": "CZ",
-    "count": 60124
+    "count": 60126
    },
    {
     "code": "PL",
     "count": 30147
-   },
-   {
-    "code": "CH",
-    "count": 27497
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song, atypical",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

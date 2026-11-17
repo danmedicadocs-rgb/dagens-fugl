@@ -2,7 +2,7 @@
  "key": "ocyceros-birostris",
  "name": "Ocyceros birostris",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:03.392Z",
+ "fetchedAt": "2026-11-17T20:11:58.768Z",
  "names": {
   "da": "Indisk Gråtoko",
   "en": "Indian Grey Hornbill",
@@ -19,43 +19,84 @@
  },
  "inat": {
   "id": 5540,
-  "observations": 4069
+  "observations": 4088
  },
  "photos": {
   "male": [
    {
-    "id": 621667961,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621667961/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621667961/large.jpg",
-    "attribution": "(c) Aadi Kulkarni, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/341483796",
-    "place": "S. No 134/2, Annai, Plot No 12, Siddhakala, Hsg Soc, behind Kaveri Sea food rest, Warje, Pune, Maharashtra 411058, India",
-    "date": "2026-03-06"
+    "id": 522317387,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/522317387/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/522317387/large.jpg",
+    "attribution": "(c) Neela Shikari, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/274870713",
+    "place": "8GCH+MW9, Nahal, Jalandhar, Kutlupur, Punjab 144002, India",
+    "date": "2025-04-26"
    },
    {
-    "id": 230795227,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230795227/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230795227/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/135326403",
-    "place": "PMQG+X89, Tapodham Colony, Yashwant Nagar, Talegaon Dabhade, Maharashtra 410507, India",
-    "date": "2021-09-13"
+    "id": 528109537,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/528109537/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/528109537/large.jpg",
+    "attribution": "(c) Dhruva Punde, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293417403",
+    "place": "Bhagavati Nagar, Pashan, Pune, Maharashtra 411021, India",
+    "date": "2025-06-28"
    },
    {
-    "id": 666585076,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666585076/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666585076/large.jpg",
-    "attribution": "(c) Srivatsan Ramkumar, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/365118371",
-    "place": "Tamil Nadu, India",
-    "date": "2026-05-24"
+    "id": 430271195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/430271195/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/430271195/large.jpeg",
+    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203744512",
+    "place": "Karnataka, IN",
+    "date": "2024-03-16"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 528109435,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/528109435/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/528109435/large.jpg",
+    "attribution": "(c) Dhruva Punde, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293417400",
+    "place": "Bhagavati Nagar, Pashan, Pune, Maharashtra 411021, India",
+    "date": "2025-06-28"
+   },
+   {
+    "id": 423802831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/423802831/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/423802831/large.jpeg",
+    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/238078534",
+    "place": "Karnataka, IN",
+    "date": "2024-08-22"
+   },
+   {
+    "id": 280586452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280586452/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280586452/large.jpeg",
+    "attribution": "(c) Kabir Chatterjee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162279052",
+    "place": "Jolly Grant, Dehradun, Uttarakhand, India",
+    "date": "2016-02-02"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 691952241,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691952241/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691952241/large.jpg",
+    "attribution": "(c) saharsh ambekar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/378340343",
+    "place": "REGENCY COSMOS",
+    "date": "2025-06-01"
+   },
    {
     "id": 594714763,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594714763/medium.jpg",
@@ -67,25 +108,25 @@
     "date": "2025-11-18"
    },
    {
-    "id": 558970696,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558970696/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558970696/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/309743758",
-    "place": "Dehradun, IN-UT, IN",
-    "date": "2025-08-28"
+    "id": 284504563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284504563/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284504563/large.jpeg",
+    "attribution": "(c) Kabir Chatterjee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/164431925",
+    "place": "Jolly Grant, Dehradun, Uttarakhand, India",
+    "date": "2016-02-09"
    }
   ],
   "hero": {
-   "id": 621667961,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621667961/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621667961/large.jpg",
-   "attribution": "(c) Aadi Kulkarni, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/341483796",
-   "place": "S. No 134/2, Annai, Plot No 12, Siddhakala, Hsg Soc, behind Kaveri Sea food rest, Warje, Pune, Maharashtra 411058, India",
-   "date": "2026-03-06"
+   "id": 310601654,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310601654/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310601654/large.jpg",
+   "attribution": "(c) Vijay Anand Ismavel, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/310601654",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -137,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +192,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

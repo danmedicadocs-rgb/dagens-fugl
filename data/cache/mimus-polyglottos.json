@@ -2,7 +2,7 @@
  "key": "mimus-polyglottos",
  "name": "Mimus polyglottos",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:44:07.259Z",
+ "fetchedAt": "2026-11-17T20:18:43.588Z",
  "names": {
   "da": "Nordlig Spottedrossel",
   "en": null,
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 14886,
-  "observations": 249320
+  "observations": 249828
  },
  "photos": {
   "male": [
    {
-    "id": 203019463,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203019463/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203019463/large.jpeg",
-    "attribution": "(c) Lyndsey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120059924",
-    "place": "Sebastian, FL, USA",
-    "date": "2022-06-03"
+    "id": 110840007,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110840007/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110840007/large.jpg",
+    "attribution": "(c) willa-gunter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68451513",
+    "place": "Bastrop County, TX, USA",
+    "date": "2021-01-21"
    },
    {
-    "id": 677963010,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/677963010/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/677963010/large.jpg",
-    "attribution": "(c) northerly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/371075147",
-    "place": "Georgia, US",
-    "date": "2026-06-09"
+    "id": 67255226,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67255226/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67255226/large.jpg",
+    "attribution": "(c) Tamara, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/42360554",
+    "place": "Marion, AL 36756, USA",
+    "date": "2020-04-16"
    },
    {
-    "id": 118414891,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118414891/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118414891/large.jpeg",
-    "attribution": "(c) F. S., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72611833",
-    "place": "Merrimack County, US-NH, US",
-    "date": "2021-03-21"
+    "id": 20794947,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20794947/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20794947/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14052910",
+    "place": null,
+    "date": "2018-07-04"
    }
   ],
   "female": [
+   {
+    "id": 289120407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289120407/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289120407/large.jpeg",
+    "attribution": "(c) kaybroosh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166664219",
+    "place": "Emory Eastside Medical Center: Leonard Jr Tommy MD",
+    "date": "2023-06-10"
+   },
+   {
+    "id": 230786244,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230786244/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230786244/large.jpg",
+    "attribution": "(c) Jane Dorsett, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/135321572",
+    "place": "Kleinbrook, TX 77066, USA",
+    "date": "2022-09-16"
+   },
    {
     "id": 346872845,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346872845/medium.jpg",
@@ -64,29 +84,19 @@
     "source": "https://www.inaturalist.org/observations/197007217",
     "place": "Valley Rim Rd, El Cajon, CA, US",
     "date": "2024-01-18"
-   },
-   {
-    "id": 339258135,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339258135/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339258135/large.jpg",
-    "attribution": "(c) Tyler, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/193152825",
-    "place": "Valley Rim Rd, El Cajon, CA, US",
-    "date": "2023-12-05"
-   },
-   {
-    "id": 393343454,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393343454/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393343454/large.jpeg",
-    "attribution": "(c) wolfhowl3, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/221917449",
-    "place": "Broken Arrow, OK 74014, USA",
-    "date": "2024-06-10"
    }
   ],
   "juvenile": [
+   {
+    "id": 128519246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128519246/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128519246/large.jpg",
+    "attribution": "(c) mcathey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78523702",
+    "place": "S Meadowlark St, Hamilton, TX, US",
+    "date": "2021-05-12"
+   },
    {
     "id": 519365756,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519365756/medium.jpg",
@@ -98,33 +108,23 @@
     "date": "2025-06-10"
    },
    {
-    "id": 249513040,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249513040/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249513040/large.jpg",
-    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145303211",
-    "place": "Abram-Perezville, TX, USA",
-    "date": "2014-05-22"
-   },
-   {
-    "id": 42353178,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42353178/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42353178/large.jpg",
-    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/27235052",
-    "place": "235 County Rd, Demarest, NJ, US",
-    "date": "2019-06-18"
+    "id": 496204187,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/496204187/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/496204187/large.jpeg",
+    "attribution": "(c) Carol Mackey Shaffer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/276292666",
+    "place": "Hillsboro Beach, FL, USA",
+    "date": "2025-04-27"
    }
   ],
   "hero": {
-   "id": 209802918,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209802918/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209802918/large.jpg",
-   "attribution": "(c) Morgan Caygill, some rights reserved (CC BY), uploaded by Morgan Caygill",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/209802918",
+   "id": 142697277,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142697277/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/142697277/large.jpg",
+   "attribution": "(c) Kevin Milazzo, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/142697277",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 11397940,
+  "worldTotal": 11397943,
   "topCountries": [
    {
     "code": "US",
-    "count": 11074278
+    "count": 11074280
    },
    {
     "code": "MX",
@@ -174,7 +174,7 @@
    },
    {
     "code": "DO",
-    "count": 19182
+    "count": 19183
    },
    {
     "code": "KY",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

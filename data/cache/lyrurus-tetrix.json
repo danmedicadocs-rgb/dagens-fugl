@@ -2,7 +2,7 @@
  "key": "lyrurus-tetrix",
  "name": "Lyrurus tetrix",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:30:26.648Z",
+ "fetchedAt": "2026-11-17T20:04:14.411Z",
  "names": {
   "da": "Urfugl",
   "en": "Black Grouse",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 1289697,
-  "observations": 11552
+  "observations": 11589
  },
  "photos": {
   "male": [
    {
-    "id": 607931442,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607931442/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607931442/large.jpg",
-    "attribution": "(c) s_schizik, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/334730318",
-    "place": "Braslaw, BY-VI, BY",
-    "date": "2025-04-15"
+    "id": 185535743,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185535743/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185535743/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110023482",
+    "place": "Orichevskiy rayon, RU-KV, RU",
+    "date": "2022-03-31"
    },
    {
-    "id": 607931969,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607931969/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607931969/large.jpg",
-    "attribution": "(c) s_schizik, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/334730555",
-    "place": "Vitsyebsk, BY",
-    "date": "2025-04-25"
+    "id": 109850620,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109850620/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109850620/large.jpg",
+    "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67914578",
+    "place": "Лукояновский р-н, Нижегородская обл., Россия",
+    "date": "2016-04-13"
    },
    {
-    "id": 61073934,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61073934/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61073934/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/38429422",
-    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
-    "date": "2020-02-08"
+    "id": 182723035,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182723035/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182723035/large.jpg",
+    "attribution": "(c) Deia e Wesley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/108518540",
+    "place": "Gwynfryn, UK",
+    "date": "2022-03-13"
    }
   ],
   "female": [
+   {
+    "id": 283829916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283829916/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283829916/large.jpeg",
+    "attribution": "(c) redhat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/164066344",
+    "place": "Bayern, DE",
+    "date": "2023-05-27"
+   },
    {
     "id": 61073919,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61073919/medium.jpg",
@@ -66,24 +76,14 @@
     "date": "2020-02-08"
    },
    {
-    "id": 65472361,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65472361/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65472361/large.jpeg",
-    "attribution": "(c) Анна Васильченко, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/41279956",
-    "place": "Александровский Завод, Забайкальский край, Россия, 674640",
-    "date": "2020-01-07"
-   },
-   {
-    "id": 182714142,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182714142/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182714142/large.jpeg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/108514775",
-    "place": "Томский р-н, Томская обл., Россия",
-    "date": "2022-03-13"
+    "id": 152017409,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/152017409/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/152017409/large.jpg",
+    "attribution": "(c) Евгений, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/91863520",
+    "place": "Пронино, Тульская обл., Россия, 301545",
+    "date": "2021-04-11"
    }
   ],
   "juvenile": [
@@ -98,33 +98,33 @@
     "date": "2021-06-16"
    },
    {
-    "id": 163798586,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163798586/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163798586/large.jpg",
-    "attribution": "(c) Александр Богачёв, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98389118",
-    "place": "Лениногорский р-н, Респ. Татарстан, Россия",
-    "date": "2021-10-09"
+    "id": 322398520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/322398520/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/322398520/large.jpeg",
+    "attribution": "(c) qoi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/184671470",
+    "place": "Пермский край, Россия, 618708",
+    "date": "2023-07-13"
    },
    {
-    "id": 61073931,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61073931/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61073931/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/38429421",
-    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
-    "date": "2020-02-08"
+    "id": 211252180,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211252180/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211252180/large.jpeg",
+    "attribution": "(c) Nicola Gilio, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124624737",
+    "place": "28842 Bognanco, Province of Verbano-Cusio-Ossola, Italy",
+    "date": "2022-07-02"
    }
   ],
   "hero": {
-   "id": 65472361,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65472361/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65472361/large.jpeg",
-   "attribution": "(c) Анна Васильченко, some rights reserved (CC BY), uploaded by Анна Васильченко",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/65472361",
+   "id": 61329120,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61329120/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61329120/large.jpg",
+   "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC), uploaded by Tatyana Zarubo",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/61329120",
    "place": null,
    "date": null
   }
@@ -146,23 +146,27 @@
    18,
    13
   ],
-  "worldTotal": 401742,
+  "worldTotal": 433246,
   "topCountries": [
    {
     "code": "SE",
-    "count": 167357
+    "count": 167475
    },
    {
     "code": "FI",
-    "count": 72729
+    "count": 72740
    },
    {
     "code": "NO",
-    "count": 57007
+    "count": 57028
    },
    {
     "code": "FR",
-    "count": 35607
+    "count": 35631
+   },
+   {
+    "code": "CH",
+    "count": 33232
    },
    {
     "code": "GB",
@@ -170,11 +174,11 @@
    },
    {
     "code": "EE",
-    "count": 12544
+    "count": 12545
    },
    {
     "code": "NL",
-    "count": 10705
+    "count": 10712
    },
    {
     "code": "RU",
@@ -182,15 +186,11 @@
    },
    {
     "code": "DE",
-    "count": 4627
+    "count": 4628
    },
    {
     "code": "AT",
-    "count": 3200
-   },
-   {
-    "code": "CH",
-    "count": 2259
+    "count": 3226
    },
    {
     "code": "BE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

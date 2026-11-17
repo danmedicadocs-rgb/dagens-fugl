@@ -2,7 +2,7 @@
  "key": "ensifera-ensifera",
  "name": "Ensifera ensifera",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:17.980Z",
+ "fetchedAt": "2026-11-17T20:24:56.269Z",
  "names": {
   "da": "Sværdkolibri",
   "en": "Sword-billed hummingbird",
@@ -19,30 +19,74 @@
  },
  "inat": {
   "id": 6458,
-  "observations": 1284
+  "observations": 1290
  },
  "photos": {
   "male": [
    {
-    "id": 60752374,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60752374/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60752374/large.jpg",
-    "attribution": "(c) Laura Gaudette, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/38241997",
-    "place": "El Cerrito, La Calera, Cundinamarca, Colombia",
-    "date": "2020-01-13"
+    "id": 344038521,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344038521/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344038521/large.jpg",
+    "attribution": "(c) Jing-Yi Lu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195542763",
+    "place": "Reserva Zuro Loma, Quito, Pichincha, Ecuador",
+    "date": "2023-12-15"
    },
    {
-    "id": 181480276,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181480276/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181480276/large.jpg",
-    "attribution": "(c) scaup, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/107857436",
-    "place": "El Cerrito, La Calera, Cundinamarca, Colombia",
-    "date": "2019-03-20"
+    "id": 358965357,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358965357/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358965357/large.jpg",
+    "attribution": "(c) David Martin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203192154",
+    "place": "Metropolitan District of Quito, Ecuador",
+    "date": "2024-03-09"
    },
+   {
+    "id": 637051685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637051685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637051685/large.jpg",
+    "attribution": "(c) Donald Fraser, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/349252466",
+    "place": "Manizales, Caldas, Colombia",
+    "date": "2026-03-15"
+   }
+  ],
+  "female": [
+   {
+    "id": 141909829,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141909829/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141909829/large.jpeg",
+    "attribution": "(c) Edwin Múnera Chavarría, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/86170548",
+    "place": "Urrao, Antioquia, Colombia",
+    "date": "2021-07-02"
+   },
+   {
+    "id": 106924723,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106924723/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106924723/large.jpeg",
+    "attribution": "(c) Attila Steiner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66340767",
+    "place": "El Cerrito, La Calera, Cundinamarca, Kolumbia",
+    "date": "2017-02-22"
+   },
+   {
+    "id": 21924553,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21924553/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21924553/large.jpeg",
+    "attribution": "(c) Fundación Dodo Colombia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14703184",
+    "place": "La Calera, El Cerrito, La Calera, Cundinamarca, Colombia",
+    "date": "2018-06-19"
+   }
+  ],
+  "juvenile": [
    {
     "id": 26338739,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26338739/medium.jpeg",
@@ -54,57 +98,13 @@
     "date": "2018-09-28"
    }
   ],
-  "female": [
-   {
-    "id": 26338675,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26338675/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26338675/large.jpeg",
-    "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/17348124",
-    "place": "El Cerrito, La Calera, Cundinamarca, Colombia",
-    "date": "2018-09-28"
-   },
-   {
-    "id": 352183338,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352183338/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352183338/large.jpeg",
-    "attribution": "(c) Hugo Bernal Hernández, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199682146",
-    "place": "Guasca, Cundinamarca, Colombia",
-    "date": "2024-02-07"
-   },
-   {
-    "id": 2964483,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2964483/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2964483/large.jpg",
-    "attribution": "(c) Kristiina Hurme, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2642134",
-    "place": "Observatorio de Colibríes, Cundinamarca, Colombia ",
-    "date": "2015-09-09"
-   }
-  ],
-  "juvenile": [
-   {
-    "id": 26338764,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26338764/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26338764/large.jpeg",
-    "attribution": "(c) Nicolas Olejnik, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/17348130",
-    "place": "El Cerrito, La Calera, Cundinamarca, Colombia",
-    "date": "2018-09-28"
-   }
-  ],
   "hero": {
-   "id": 105990339,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105990339/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/105990339/large.jpeg",
-   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/105990339",
+   "id": 313301379,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313301379/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313301379/large.jpg",
+   "attribution": "(c) David Torres, some rights reserved (CC BY-NC), uploaded by David Torres",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/313301379",
    "place": null,
    "date": null
   }
@@ -166,8 +166,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -182,5 +180,7 @@
   "type": "call, foraging calls",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

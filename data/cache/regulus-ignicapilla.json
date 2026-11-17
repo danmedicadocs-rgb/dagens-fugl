@@ -2,7 +2,7 @@
  "key": "regulus-ignicapilla",
  "name": "Regulus ignicapilla",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:20:07.134Z",
+ "fetchedAt": "2026-11-17T19:51:38.744Z",
  "names": {
   "da": "Rødtoppet fuglekonge",
   "en": null,
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 117097,
-  "observations": 15262
+  "observations": 15305
  },
  "photos": {
   "male": [
+   {
+    "id": 761226407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761226407/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761226407/large.jpg",
+    "attribution": "(c) Alexandru Pintilioaie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413584603",
+    "place": "Stațiunea Zoologică Marină Agigea, România",
+    "date": "2026-11-08"
+   },
+   {
+    "id": 111347623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111347623/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111347623/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68720982",
+    "place": "Biržai District Municipality, Lithuania",
+    "date": "2018-05-07"
+   },
    {
     "id": 166132319,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166132319/medium.jpeg",
@@ -32,58 +52,38 @@
     "source": "https://www.inaturalist.org/observations/99633716",
     "place": "Muttenz, Switzerland",
     "date": "2021-10-27"
-   },
-   {
-    "id": 166132266,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166132266/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166132266/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/99633696",
-    "place": "Muttenz, Switzerland",
-    "date": "2021-10-27"
-   },
-   {
-    "id": 602706953,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602706953/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602706953/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/332143560",
-    "place": "Temple Ewell, Dover, UK",
-    "date": "2025-12-26"
    }
   ],
   "female": [
    {
-    "id": 59446317,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59446317/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59446317/large.jpeg",
-    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37493287",
-    "place": "13867 Flecchia BI, Italia",
-    "date": "2014-03-02"
+    "id": 632742443,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/632742443/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/632742443/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/347062403",
+    "place": "03819 Alcoy, Alicante, España",
+    "date": "2026-04-02"
    },
    {
-    "id": 428654329,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/428654329/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/428654329/large.jpeg",
-    "attribution": "(c) Russell Prince-Wright, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/240586911",
-    "place": "West End, Southampton SO30 3AZ, UK",
-    "date": "2024-09-07"
+    "id": 625804863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625804863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625804863/large.jpg",
+    "attribution": "(c) Markus Traud, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/343541952",
+    "place": "60 Frankfurt am Main-Innenstadt II, Deutschland",
+    "date": "2026-03-12"
    },
    {
-    "id": 65211893,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65211893/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65211893/large.jpg",
-    "attribution": "(c) Andrea Poggi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/41125468",
-    "place": "Municipio Roma XI, Roma RM, Italia",
-    "date": "2020-03-31"
+    "id": 500135353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500135353/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500135353/large.jpeg",
+    "attribution": "(c) Gaia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278537217",
+    "place": "30027 San Donà di Piave VE, Italia",
+    "date": "2025-03-09"
    }
   ],
   "juvenile": [
@@ -98,33 +98,33 @@
     "date": "2026-05-12"
    },
    {
-    "id": 291221945,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291221945/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291221945/large.jpeg",
-    "attribution": "(c) Pedro Eça, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/168067676",
-    "place": "Belas, Portugal",
-    "date": "2023-06-18"
+    "id": 8758703,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8758703/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8758703/large.jpg",
+    "attribution": "(c) Thomas Schreiter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/6869681",
+    "place": "Harthau, Chemnitz, Deutschland",
+    "date": "2017-07-01"
    },
    {
-    "id": 153188104,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153188104/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153188104/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/92512007",
-    "place": "Quintanar de la Sierra, Burgos, España",
-    "date": "2021-08-21"
+    "id": 683693582,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/683693582/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/683693582/large.jpg",
+    "attribution": "(c) Juliette Bafcop, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/374074657",
+    "place": "44340 Bouguenais, France",
+    "date": "2026-05-30"
    }
   ],
   "hero": {
-   "id": 115614247,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115614247/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115614247/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/115614247",
+   "id": 173469227,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173469227/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173469227/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/173469227",
    "place": null,
    "date": null
   }
@@ -146,19 +146,23 @@
    1127,
    612
   ],
-  "worldTotal": 921852,
+  "worldTotal": 1035621,
   "topCountries": [
    {
     "code": "FR",
-    "count": 241305
+    "count": 242291
    },
    {
     "code": "ES",
-    "count": 204539
+    "count": 204554
    },
    {
     "code": "NL",
-    "count": 141937
+    "count": 142225
+   },
+   {
+    "code": "CH",
+    "count": 122494
    },
    {
     "code": "PT",
@@ -166,31 +170,27 @@
    },
    {
     "code": "DE",
-    "count": 45600
+    "count": 46423
+   },
+   {
+    "code": "SE",
+    "count": 44413
    },
    {
     "code": "GB",
     "count": 44392
    },
    {
-    "code": "SE",
-    "count": 44378
-   },
-   {
     "code": "IT",
-    "count": 27966
+    "count": 28130
    },
    {
     "code": "BE",
-    "count": 27421
+    "count": 27422
    },
    {
     "code": "DK",
     "count": 20100
-   },
-   {
-    "code": "CH",
-    "count": 11292
    },
    {
     "code": "PL",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

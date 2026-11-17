@@ -2,7 +2,7 @@
  "key": "selasphorus-rufus",
  "name": "Selasphorus rufus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:42:37.125Z",
+ "fetchedAt": "2026-11-17T20:16:53.560Z",
  "names": {
   "da": "Rød Dværgkolibri",
   "en": null,
@@ -19,10 +19,74 @@
  },
  "inat": {
   "id": 6363,
-  "observations": 23683
+  "observations": 23719
  },
  "photos": {
   "male": [
+   {
+    "id": 187809843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187809843/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187809843/large.jpeg",
+    "attribution": "(c) Wendy Feltham, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/111265805",
+    "place": "Port Townsend, WA 98368, USA",
+    "date": "2022-04-12"
+   },
+   {
+    "id": 30752837,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30752837/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30752837/large.jpg",
+    "attribution": "(c) Kate McKeown, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/19934225",
+    "place": "Comox-Strathcona D, , BC, CA",
+    "date": "2018-04-18"
+   },
+   {
+    "id": 155529708,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155529708/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155529708/large.jpg",
+    "attribution": "(c) Mike Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/93809477",
+    "place": "Alice, TX 78332, USA",
+    "date": "2021-09-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 12032430,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12032430/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12032430/large.jpg",
+    "attribution": "(c) Brian Vigorito, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8932999",
+    "place": "Hingham, MA, USA",
+    "date": "2017-11-25"
+   },
+   {
+    "id": 210392610,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210392610/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210392610/large.jpg",
+    "attribution": "(c) Drew T Henderson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124145942",
+    "place": "Hogum Bay Rd NE, Lacey, WA 98516, USA",
+    "date": "2022-06-28"
+   },
+   {
+    "id": 221001198,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/221001198/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/221001198/large.jpg",
+    "attribution": "(c) Minette Layne-Worthey, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/297",
+    "place": "Nisqually, Washington",
+    "date": "2008-05-24"
+   }
+  ],
+  "juvenile": [
    {
     "id": 603413538,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603413538/medium.jpg",
@@ -34,99 +98,35 @@
     "date": "2025-12-28"
    },
    {
-    "id": 407913026,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407913026/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407913026/large.jpg",
-    "attribution": "(c) highsinger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/229779419",
-    "place": "El Paso, TX, USA",
-    "date": "2024-07-15"
+    "id": 556265838,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556265838/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556265838/large.jpg",
+    "attribution": "(c) Mike Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308332592",
+    "place": "Alice",
+    "date": "2025-08-22"
    },
    {
-    "id": 263231304,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263231304/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263231304/large.jpg",
-    "attribution": "(c) James M. Maley, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/152479540",
-    "place": "Claremont, CA, USA",
-    "date": "2023-03-26"
-   }
-  ],
-  "female": [
-   {
-    "id": 169392133,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169392133/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169392133/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101429666",
-    "place": "34 Clearwater Rd, Chestnut Hill, MA 02467, USA",
-    "date": "2021-11-11"
-   },
-   {
-    "id": 164205138,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164205138/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164205138/large.jpg",
-    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98603463",
-    "place": "Alto, NM 88312, USA",
-    "date": "2006-08-24"
-   },
-   {
-    "id": 423760814,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/423760814/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/423760814/large.jpeg",
-    "attribution": "(c) Konshau Duman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/238056549",
-    "place": "Hoback Junction, WY 83001, USA",
-    "date": "2024-08-24"
-   }
-  ],
-  "juvenile": [
-   {
-    "id": 603413568,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603413568/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603413568/large.jpg",
-    "attribution": "(c) Amber M. King, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/332490066",
-    "place": "5844 Clematis Dr, Baton Rouge, LA 70808, USA",
-    "date": "2025-12-28"
-   },
-   {
-    "id": 283148553,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283148553/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283148553/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/163693311",
-    "place": "DuPont, WA 98327, USA",
-    "date": "2023-05-25"
-   },
-   {
-    "id": 263231316,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263231316/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263231316/large.jpg",
-    "attribution": "(c) James M. Maley, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/152479540",
-    "place": "Claremont, CA, USA",
-    "date": "2023-03-26"
+    "id": 12032427,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12032427/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12032427/large.jpg",
+    "attribution": "(c) Brian Vigorito, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8932999",
+    "place": "Hingham, MA, USA",
+    "date": "2017-11-25"
    }
   ],
   "hero": {
-   "id": 603413538,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603413538/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603413538/large.jpg",
-   "attribution": "(c) Amber M. King, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/332490066",
-   "place": "5844 Clematis Dr, Baton Rouge, LA 70808, USA",
-   "date": "2025-12-28"
+   "id": 85847664,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85847664/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85847664/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/85847664",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -186,8 +186,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -202,5 +200,7 @@
   "type": "flight call, flight call made by feathers",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

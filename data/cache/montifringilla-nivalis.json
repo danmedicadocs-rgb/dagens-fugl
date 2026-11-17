@@ -2,7 +2,7 @@
  "key": "montifringilla-nivalis",
  "name": "Montifringilla nivalis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:31:39.359Z",
+ "fetchedAt": "2026-11-17T20:05:32.550Z",
  "names": {
   "da": "Snefinke",
   "en": "White-winged Snowfinch",
@@ -19,51 +19,112 @@
  },
  "inat": {
   "id": 204544,
-  "observations": 3077
+  "observations": 3086
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 722115628,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/722115628/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/722115628/large.jpg",
-    "attribution": "(c) Yves Bas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/393937858",
-    "place": "Vallée d'Aoste, Italie",
-    "date": "2026-07-22"
+    "id": 55794801,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55794801/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55794801/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35386964",
+    "place": "36129 Gersfeld (Rhön), Deutschland",
+    "date": "2016-04-09"
    },
    {
-    "id": 681594409,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681594409/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681594409/large.jpg",
-    "attribution": "(c) Bianca, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/372979822",
-    "place": "82467 Garmisch-Partenkirchen, Deutschland",
-    "date": "2026-06-16"
+    "id": 319988374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/319988374/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/319988374/large.jpeg",
+    "attribution": "(c) rifal_71, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/183415822",
+    "place": "G22R+9H Ferrata Averau, 32043 Cortina d'Ampezzo BL, Italia",
+    "date": "2018-07-19"
    },
    {
-    "id": 61224654,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61224654/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61224654/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/29534983",
-    "place": "Halle (Saale)",
-    "date": "2018-06-15"
+    "id": 730224546,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/730224546/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/730224546/large.jpg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398091335",
+    "place": "Shemiranat, Tehran Province, Iran",
+    "date": "2021-06-02"
+   }
+  ],
+  "female": [
+   {
+    "id": 75412278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75412278/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75412278/large.jpeg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/47546954",
+    "place": "Shemiranat, Tehran Province, Iran",
+    "date": "2020-05-23"
+   },
+   {
+    "id": 502290651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502290651/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502290651/large.jpeg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/279705446",
+    "place": "Tehran, Tehran Province, Iran",
+    "date": "2025-05-08"
+   },
+   {
+    "id": 9279136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9279136/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9279136/large.jpeg",
+    "attribution": "(c) Julie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/7195832",
+    "place": "Shirak Province, Armenia",
+    "date": "2007-07-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 195014113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195014113/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195014113/large.jpg",
+    "attribution": "(c) Jean-Dominique LEBRETON, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/115549485",
+    "place": "73500 Aussois, France",
+    "date": "1974-07-15"
+   },
+   {
+    "id": 572407149,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/572407149/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/572407149/large.jpg",
+    "attribution": "(c) Roo Perkins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/316807540",
+    "place": "3920 Zermatt, Switzerland",
+    "date": "2023-07-19"
+   },
+   {
+    "id": 524847014,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524847014/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524847014/large.jpg",
+    "attribution": "(c) Sarah Wang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291694941",
+    "place": "Khan khongor, Gobi Gurvansaikhan, MN-OG, MN",
+    "date": "2025-06-01"
    }
   ],
   "hero": {
-   "id": 147054009,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147054009/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147054009/large.jpeg",
-   "attribution": "no rights reserved, uploaded by Dario Taraborelli",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/147054009",
+   "id": 246371416,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246371416/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246371416/large.jpeg",
+   "attribution": "(c) Dragonfyre, some rights reserved (CC BY-NC), uploaded by Dragonfyre",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/246371416",
    "place": null,
    "date": null
   }
@@ -85,31 +146,31 @@
    0,
    0
   ],
-  "worldTotal": 31924,
+  "worldTotal": 45945,
   "topCountries": [
    {
+    "code": "CH",
+    "count": 16929
+   },
+   {
     "code": "FR",
-    "count": 12020
+    "count": 12057
    },
    {
     "code": "ES",
-    "count": 4058
+    "count": 4059
    },
    {
     "code": "AT",
-    "count": 3683
-   },
-   {
-    "code": "CH",
-    "count": 3134
+    "count": 3733
    },
    {
     "code": "IT",
-    "count": 3119
+    "count": 3253
    },
    {
     "code": "TR",
-    "count": 1894
+    "count": 1896
    },
    {
     "code": "MN",
@@ -117,7 +178,7 @@
    },
    {
     "code": "DE",
-    "count": 602
+    "count": 603
    },
    {
     "code": "IR",
@@ -137,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

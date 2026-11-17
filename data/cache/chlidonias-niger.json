@@ -2,7 +2,7 @@
  "key": "chlidonias-niger",
  "name": "Chlidonias niger",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:07.934Z",
+ "fetchedAt": "2026-11-17T19:46:51.721Z",
  "names": {
   "da": "Sortterne",
   "en": "Black Tern",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 4512,
-  "observations": 20436
+  "observations": 20467
  },
  "photos": {
   "male": [
+   {
+    "id": 377765452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/377765452/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/377765452/large.jpeg",
+    "attribution": "(c) Katie Pops, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/213755441",
+    "place": "Imperial County, CA, USA",
+    "date": "2024-04-28"
+   },
    {
     "id": 59334224,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334224/medium.jpg",
@@ -32,21 +42,61 @@
     "source": "https://www.inaturalist.org/observations/37428884",
     "place": "Глазов, республика Удмуртия, Россия",
     "date": "2018-05-19"
+   },
+   {
+    "id": 708714607,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/708714607/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/708714607/large.jpg",
+    "attribution": "(c) Jonny Sperling, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/387053708",
+    "place": "Willey Reservoir",
+    "date": "2026-07-31"
    }
   ],
   "female": [
    {
-    "id": 367011900,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367011900/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367011900/large.jpg",
-    "attribution": "(c) Morgan Caygill, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/207485839",
-    "place": "Wyberton, Boston, England, GB",
-    "date": "2024-04-14"
+    "id": 660867138,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660867138/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660867138/large.jpg",
+    "attribution": "(c) R. Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362099673",
+    "place": "Pinellas County, FL, USA",
+    "date": "2024-08-26"
+   },
+   {
+    "id": 544600140,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/544600140/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/544600140/large.jpg",
+    "attribution": "(c) Sam Shutt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/302197926",
+    "place": "East Lothian, Scotland, GB",
+    "date": "2025-07-29"
+   },
+   {
+    "id": 401689541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401689541/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401689541/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/226492363",
+    "place": "Long Nanny,Beadnell Bay Bird Sanctuary, Beadnell, Alnwick NE66 3DF, UK",
+    "date": "2024-06-30"
    }
   ],
   "juvenile": [
+   {
+    "id": 83070468,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83070468/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83070468/large.jpeg",
+    "attribution": "(c) Steven Schulting, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/52263146",
+    "place": "2825 Berkenwoude, Netherlands",
+    "date": "2020-07-07"
+   },
    {
     "id": 28398738,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28398738/medium.jpg",
@@ -58,33 +108,23 @@
     "date": "2016-06-13"
    },
    {
-    "id": 665607774,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665607774/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665607774/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/364598996",
-    "place": "Sandymount Strand",
-    "date": "2009-09-04"
-   },
-   {
-    "id": 139597617,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139597617/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139597617/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/84899388",
-    "place": "Высокогорский р-н, Респ. Татарстан, Россия",
-    "date": "2021-06-28"
+    "id": 690575107,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690575107/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690575107/large.jpg",
+    "attribution": "(c) allisonkara1996, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377625426",
+    "place": "Cedar Bluff, VA, US",
+    "date": "2024-08-25"
    }
   ],
   "hero": {
-   "id": 9058679,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9058679/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9058679/large.jpg",
-   "attribution": "(c) Ómar Runólfsson, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/9058679",
+   "id": 3789202,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3789202/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3789202/large.jpeg",
+   "attribution": "(c) David Yeany, some rights reserved (CC BY-NC), uploaded by David Yeany",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/3789202",
    "place": null,
    "date": null
   }
@@ -106,7 +146,7 @@
    23,
    0
   ],
-  "worldTotal": 751022,
+  "worldTotal": 751104,
   "topCountries": [
    {
     "code": "US",
@@ -118,15 +158,15 @@
    },
    {
     "code": "SE",
-    "count": 93265
+    "count": 93268
    },
    {
     "code": "NL",
-    "count": 65339
+    "count": 65334
    },
    {
     "code": "FR",
-    "count": 26942
+    "count": 26944
    },
    {
     "code": "DK",
@@ -146,20 +186,18 @@
    },
    {
     "code": "PL",
-    "count": 12462
+    "count": 12468
    },
    {
     "code": "DE",
-    "count": 10449
+    "count": 10505
    },
    {
     "code": "RU",
-    "count": 8784
+    "count": 8785
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +212,7 @@
   "type": "flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

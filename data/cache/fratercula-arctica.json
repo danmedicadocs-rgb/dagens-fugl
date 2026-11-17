@@ -2,7 +2,7 @@
  "key": "fratercula-arctica",
  "name": "Fratercula arctica",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:40.837Z",
+ "fetchedAt": "2026-11-17T19:47:22.736Z",
  "names": {
   "da": "Lunde",
   "en": "Atlantic Puffin",
@@ -19,84 +19,83 @@
  },
  "inat": {
   "id": 4504,
-  "observations": 17906
+  "observations": 17919
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 306124191,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306124191/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306124191/large.jpeg",
+    "attribution": "(c) John Eppler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176103241",
+    "place": "Akureyrarbær, Iceland",
+    "date": "2023-07-09"
+   },
+   {
+    "id": 81308109,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81308109/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81308109/large.jpeg",
+    "attribution": "(c) Jane Gosden, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/51185365",
+    "place": "Orkney, UK",
+    "date": "2017-06-01"
+   },
+   {
+    "id": 532635069,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532635069/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532635069/large.jpg",
+    "attribution": "(c) naturematt22, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295846418",
+    "place": "Division #7, Subdivision I, NL, CA",
+    "date": "2025-07-06"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 732953024,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732953024/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732953024/large.jpg",
-    "attribution": "(c) Reiner Jakubowski, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/399491378",
-    "place": "Digby, Nova Scotia, Canada",
-    "date": "2026-08-06"
+    "id": 436754146,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436754146/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436754146/large.jpeg",
+    "attribution": "(c) Sydney Collins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/244815452",
+    "place": "Gull Island, Witless Bay, NL, CA",
+    "date": "2022-07-06"
    },
    {
-    "id": 468238080,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468238080/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468238080/large.jpeg",
-    "attribution": "(c) R Clarke, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/260710443",
-    "place": "Prestongrange/Prestonpans",
-    "date": "2025-01-22"
+    "id": 392695240,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392695240/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/392695240/large.jpg",
+    "attribution": "(c) Amiel Hopkins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/221723163",
+    "place": "Maine, US",
+    "date": "2024-06-09"
    },
    {
-    "id": 181976309,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181976309/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181976309/large.jpeg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/108119539",
-    "place": null,
-    "date": "2022-03-05"
-   }
-  ],
-  "adult": [
-   {
-    "id": 395084782,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395084782/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395084782/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/223000255",
-    "place": "Gulf of Maine, Gouldsboro, ME, US",
-    "date": "2024-06-15"
-   },
-   {
-    "id": 90381729,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90381729/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90381729/large.jpeg",
-    "attribution": "(c) Pierre Tellier, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/56704775",
-    "place": "Northumberland, UK",
-    "date": "2008-06-21"
-   },
-   {
-    "id": 521111435,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521111435/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521111435/large.jpg",
-    "attribution": "(c) Huey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/289718369",
-    "place": "Lunga, UK",
-    "date": "2025-05-30"
+    "id": 179409401,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179409401/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179409401/large.jpg",
+    "attribution": "(c) Steve Holmes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106756327",
+    "place": "Landeyjahafnarvegur, Iceland",
+    "date": "2021-08-22"
    }
   ],
   "hero": {
-   "id": 395084782,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395084782/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395084782/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/223000255",
-   "place": "Gulf of Maine, Gouldsboro, ME, US",
-   "date": "2024-06-15"
+   "id": 63139388,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63139388/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63139388/large.jpg",
+   "attribution": "(c) Paul Steeves, some rights reserved (CC BY-NC), uploaded by Paul Steeves",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/63139388",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,11 +115,11 @@
    152,
    62
   ],
-  "worldTotal": 295235,
+  "worldTotal": 295257,
   "topCountries": [
    {
     "code": "GB",
-    "count": 145783
+    "count": 145788
    },
    {
     "code": "US",
@@ -128,7 +127,7 @@
    },
    {
     "code": "NO",
-    "count": 24829
+    "count": 24835
    },
    {
     "code": "CA",
@@ -136,7 +135,7 @@
    },
    {
     "code": "IS",
-    "count": 20293
+    "count": 20297
    },
    {
     "code": "FO",
@@ -144,7 +143,7 @@
    },
    {
     "code": "SE",
-    "count": 6301
+    "count": 6303
    },
    {
     "code": "IE",
@@ -152,7 +151,7 @@
    },
    {
     "code": "SJ",
-    "count": 5356
+    "count": 5359
    },
    {
     "code": "IM",
@@ -164,12 +163,10 @@
    },
    {
     "code": "FR",
-    "count": 2787
+    "count": 2788
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "call, song, wing flapping",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

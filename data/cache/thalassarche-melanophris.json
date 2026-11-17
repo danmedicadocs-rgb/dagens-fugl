@@ -2,7 +2,7 @@
  "key": "thalassarche-melanophris",
  "name": "Thalassarche melanophris",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:24.439Z",
+ "fetchedAt": "2026-11-17T20:15:29.544Z",
  "names": {
   "da": "Sortbrynet Albatros",
   "en": "Black-browed Albatross",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 144433,
-  "observations": 5741
+  "observations": 5821
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 66839043,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66839043/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66839043/large.jpg",
+    "attribution": "(c) Roy Mackenzie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/42109312",
+    "place": "Islas Diego Ramírez",
+    "date": "2018-04-01"
+   },
    {
     "id": 504794743,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/504794743/medium.jpg",
@@ -36,27 +46,27 @@
     "date": "2024-01-04"
    },
    {
-    "id": 276990057,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276990057/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276990057/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/160296464",
+    "id": 177337799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177337799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177337799/large.jpg",
+    "attribution": "(c) Alejandro Duvieilh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105663291",
     "place": "Buenos Aires, AR",
-    "date": "2009-07-17"
-   },
-   {
-    "id": 276997963,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276997963/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276997963/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/160300995",
-    "place": "Buenos Aires, AR",
-    "date": "2012-07-07"
+    "date": "2022-01-27"
    }
   ],
   "adult": [
+   {
+    "id": 14436479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14436479/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14436479/large.jpeg",
+    "attribution": "(c) dallenstein, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10398315",
+    "place": "Helgoland, Deutschland",
+    "date": "2017-04-11"
+   },
    {
     "id": 385100153,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385100153/medium.jpeg",
@@ -76,25 +86,15 @@
     "source": "https://www.inaturalist.org/observations/249480191",
     "place": null,
     "date": "2016-05-15"
-   },
-   {
-    "id": 92372994,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92372994/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92372994/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/57886868",
-    "place": "Argentina",
-    "date": "2020-08-28"
    }
   ],
   "hero": {
-   "id": 181347012,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181347012/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181347012/large.jpeg",
-   "attribution": "no rights reserved, uploaded by steve b",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/181347012",
+   "id": 171871704,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171871704/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171871704/large.jpg",
+   "attribution": "(c) aeb95f, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/171871704",
    "place": null,
    "date": null
   }
@@ -116,7 +116,7 @@
    0,
    0
   ],
-  "worldTotal": 292234,
+  "worldTotal": 292239,
   "topCountries": [
    {
     "code": "AU",
@@ -132,7 +132,7 @@
    },
    {
     "code": "AQ",
-    "count": 23867
+    "count": 23869
    },
    {
     "code": "HM",
@@ -156,7 +156,7 @@
    },
    {
     "code": "ZA",
-    "count": 2629
+    "count": 2631
    },
    {
     "code": "ZZ",
@@ -168,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +182,7 @@
   "type": "alarm call, call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

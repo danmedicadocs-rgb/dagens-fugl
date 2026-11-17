@@ -2,7 +2,7 @@
  "key": "phalaropus-lobatus",
  "name": "Phalaropus lobatus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:49.633Z",
+ "fetchedAt": "2026-11-17T19:44:21.240Z",
  "names": {
   "da": "Odinshane",
   "en": "Red-necked Phalarope",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 3959,
-  "observations": 17799
+  "observations": 17833
  },
  "photos": {
   "male": [
+   {
+    "id": 74925311,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74925311/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74925311/large.jpg",
+    "attribution": "(c) Frank Lin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/47242205",
+    "place": "Langley City, BC, Canada",
+    "date": "2020-05-24"
+   },
+   {
+    "id": 477360720,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477360720/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477360720/large.jpeg",
+    "attribution": "(c) arnaud_amaury, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265732746",
+    "place": "Rangárþing ytra, Islande",
+    "date": "2024-07-19"
+   },
    {
     "id": 148497340,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148497340/medium.jpg",
@@ -32,99 +52,79 @@
     "source": "https://www.inaturalist.org/observations/89894244",
     "place": "Suðurland, Islande",
     "date": "2021-07-23"
-   },
-   {
-    "id": 530197119,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530197119/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530197119/large.jpg",
-    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/294556961",
-    "place": "Karl Sivertsenip Aqquserna, Sisimiut, Qeqqata, GL",
-    "date": "2025-06-30"
-   },
-   {
-    "id": 677881877,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/677881877/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/677881877/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/371033127",
-    "place": "Iceland, Snæfellsbær, Western Region, IS",
-    "date": "2026-06-12"
    }
   ],
   "female": [
    {
-    "id": 127562828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127562828/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127562828/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/77977795",
-    "place": "Playa Del Rey, Los Angeles, CA, USA",
-    "date": "2021-05-08"
+    "id": 518271759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518271759/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518271759/large.jpg",
+    "attribution": "(c) DamDoesNature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/288165294",
+    "place": "Municipal District of Greystones, Co. Wicklow, Ireland",
+    "date": "2025-06-09"
    },
    {
-    "id": 320590083,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320590083/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320590083/large.jpeg",
-    "attribution": "(c) Diana, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/183732729",
-    "place": "Riverside County, CA, USA",
-    "date": "2023-08-27"
+    "id": 31672053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31672053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31672053/large.jpg",
+    "attribution": "(c) Kayla Echols, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20518866",
+    "place": "Yellow Springs, OH 45387, USA",
+    "date": "2018-05-20"
    },
    {
-    "id": 690130142,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690130142/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690130142/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/377398853",
-    "place": "Aldeburgh Marshes",
-    "date": "2026-06-05"
+    "id": 201111101,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201111101/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201111101/large.jpeg",
+    "attribution": "(c) Patricia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/118993726",
+    "place": "Forest Grove, OR 97116, USA",
+    "date": "2022-05-27"
    }
   ],
   "juvenile": [
    {
-    "id": 608887953,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608887953/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608887953/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/335198633",
-    "place": "Kilcoole",
-    "date": "2006-10-02"
+    "id": 250095526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250095526/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250095526/large.jpg",
+    "attribution": "(c) Shreeyanshu Panigrahi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/145583785",
+    "place": "Bay of Bengal, IN",
+    "date": "2022-12-25"
    },
    {
-    "id": 568123248,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/568123248/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/568123248/large.jpg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/314544752",
-    "place": "Llanishen, Cardiff, UK",
-    "date": "2025-09-16"
+    "id": 92480025,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92480025/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92480025/large.jpg",
+    "attribution": "(c) Dina Nesterkova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57952096",
+    "place": "г. Екатеринбург, Свердловская обл., Россия",
+    "date": "2020-08-24"
    },
    {
-    "id": 314811343,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314811343/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314811343/large.jpg",
-    "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/180700303",
-    "place": "El Granada, CA, USA",
-    "date": "2023-08-25"
+    "id": 406582249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406582249/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/406582249/large.png",
+    "attribution": "(c) Gavin Stone, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229075033",
+    "place": "Shetland Islands, UK",
+    "date": "2023-07-19"
    }
   ],
   "hero": {
-   "id": 153229,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153229/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153229/large.jpg",
-   "attribution": "(c) Mike Baird, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/153229",
+   "id": 438438392,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438438392/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438438392/large.jpeg",
+   "attribution": "(c) Yinan Li, some rights reserved (CC BY-NC), uploaded by Yinan Li",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/438438392",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    3,
    0
   ],
-  "worldTotal": 454682,
+  "worldTotal": 454704,
   "topCountries": [
    {
     "code": "US",
@@ -158,11 +158,11 @@
    },
    {
     "code": "SE",
-    "count": 42595
+    "count": 42596
    },
    {
     "code": "NL",
-    "count": 27661
+    "count": 27666
    },
    {
     "code": "IS",
@@ -170,7 +170,7 @@
    },
    {
     "code": "NO",
-    "count": 15550
+    "count": 15553
    },
    {
     "code": "TW",
@@ -182,7 +182,7 @@
    },
    {
     "code": "FI",
-    "count": 5130
+    "count": 5132
    },
    {
     "code": "RU",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

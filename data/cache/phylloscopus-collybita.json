@@ -2,7 +2,7 @@
  "key": "phylloscopus-collybita",
  "name": "Phylloscopus collybita",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:46.207Z",
+ "fetchedAt": "2026-11-17T19:53:31.161Z",
  "names": {
   "da": "Gransanger",
   "en": "Common Chiffchaff",
@@ -19,167 +19,185 @@
  },
  "inat": {
   "id": 117016,
-  "observations": 100213
+  "observations": 100443
  },
  "photos": {
   "male": [
    {
-    "id": 478919916,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478919916/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478919916/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/266541556",
-    "place": "Chester Zoo Nature Reserve",
-    "date": "2025-03-20"
+    "id": 267359599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267359599/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267359599/large.png",
+    "attribution": "(c) Илья Оголь, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154717051",
+    "place": "Донецк",
+    "date": "2023-04-11"
    },
    {
-    "id": 117661079,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117661079/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117661079/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/72191753",
-    "place": "Woods behind Hopwood Hall, Middleton, Gtr Manchester, UK",
-    "date": "2021-03-27"
+    "id": 120394195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120394195/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120394195/large.jpeg",
+    "attribution": "(c) Maria Emelina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73721289",
+    "place": "190, Ольха Снт, Московская обл., Россия, 143154",
+    "date": "2018-09-01"
    },
    {
-    "id": 288473408,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288473408/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288473408/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/166577498",
-    "place": "New Ferry Butterfly Park",
-    "date": "2023-06-04"
+    "id": 195889084,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195889084/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195889084/large.jpeg",
+    "attribution": "(c) Rob Westerduijn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/116063862",
+    "place": "2645 Delfgauw, Nederland",
+    "date": "2022-04-30"
    }
   ],
   "female": [
    {
-    "id": 76756953,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76756953/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76756953/large.jpeg",
-    "attribution": "(c) Ulf Liebal, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/48377061",
-    "place": "Kohlscheid, 52134 Herzogenrath, Germany",
-    "date": "2020-06-01"
+    "id": 669002306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669002306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669002306/large.jpg",
+    "attribution": "(c) schaugenau, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/366383431",
+    "place": "Bremen-Ost, 28 Bremen-Oberneuland, Deutschland",
+    "date": "2026-05-29"
+   },
+   {
+    "id": 502025283,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502025283/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502025283/large.jpeg",
+    "attribution": "(c) Algrid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/279562926",
+    "place": "Ackerdamm, Weyhe, Deutschland",
+    "date": "2025-05-08"
+   },
+   {
+    "id": 54244694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244694/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244694/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34463931",
+    "place": "Helgoland, Deutschland",
+    "date": "2019-10-03"
    }
   ],
   "juvenile": [
    {
-    "id": 301424332,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301424332/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301424332/large.jpeg",
-    "attribution": "(c) Johannes Hofer, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/173560664",
-    "place": "93059 Regensburg, Deutschland",
-    "date": "2023-07-17"
+    "id": 418598623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418598623/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418598623/large.jpeg",
+    "attribution": "(c) jarolino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/235380564",
+    "place": "Switzerland",
+    "date": "2024-08-12"
    },
    {
-    "id": 166782840,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166782840/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166782840/large.jpeg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/99973250",
-    "place": "32449 Casgutierre, Ourense, España",
-    "date": "2021-11-01"
+    "id": 309050893,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309050893/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309050893/large.jpeg",
+    "attribution": "(c) Ирина Бортникова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177688452",
+    "place": "Тавуш, Армения",
+    "date": "2023-08-01"
    },
    {
-    "id": 743899226,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743899226/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743899226/large.jpg",
-    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/405034620",
-    "place": "Helsinki, Uusimaa, FI",
-    "date": "2026-10-01"
+    "id": 312839449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312839449/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312839449/large.jpg",
+    "attribution": "(c) Khetam Sounbuli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179670481",
+    "place": "тропинка академика Б. В. Войцеховского, Novosibirsk, Novosibirsk Oblast, RU",
+    "date": "2023-08-22"
    }
   ],
   "hero": {
-   "id": 120443384,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120443384/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120443384/large.jpg",
-   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/120443384",
+   "id": 232289336,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/232289336/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/232289336/large.jpg",
+   "attribution": "(c) Mikhail Ezdakov, some rights reserved (CC BY-NC), uploaded by Mikhail Ezdakov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/232289336",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2493091,
-  "dkTotal": 490419,
+  "dkTotal": 490432,
   "dkMonths": [
    535,
    284,
    34452,
    127123,
-   99315,
+   99324,
    61399,
    42806,
-   29791,
-   51489,
+   29793,
+   51491,
    38976,
    3371,
    810
   ],
-  "worldTotal": 7526790,
+  "worldTotal": 7770097,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1307899
+    "count": 1308353
    },
    {
     "code": "ES",
-    "count": 961324
+    "count": 961393
    },
    {
     "code": "FR",
-    "count": 901549
+    "count": 903182
    },
    {
     "code": "GB",
-    "count": 844018
+    "count": 844023
    },
    {
     "code": "SE",
-    "count": 829331
+    "count": 829613
    },
    {
     "code": "DK",
-    "count": 490419
+    "count": 490432
    },
    {
     "code": "DE",
-    "count": 369319
+    "count": 377445
    },
    {
     "code": "BE",
-    "count": 324594
+    "count": 324597
    },
    {
     "code": "NO",
-    "count": 308790
+    "count": 308852
+   },
+   {
+    "code": "CH",
+    "count": 269276
    },
    {
     "code": "PT",
-    "count": 149702
+    "count": 149704
    },
    {
     "code": "FI",
-    "count": 146257
-   },
-   {
-    "code": "PL",
-    "count": 96900
+    "count": 146278
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "botaurus-stellaris",
  "name": "Botaurus stellaris",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:05.177Z",
+ "fetchedAt": "2026-11-17T19:36:52.170Z",
  "names": {
   "da": "Rørdrum",
   "en": "Eurasian Bittern",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 5033,
-  "observations": 5124
+  "observations": 5149
  },
  "photos": {
   "male": [
+   {
+    "id": 61887879,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61887879/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61887879/large.jpg",
+    "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38954877",
+    "place": "Кстовский р-н, Нижегородская обл., Россия",
+    "date": "2009-04-19"
+   },
+   {
+    "id": 654195751,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654195751/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654195751/large.jpg",
+    "attribution": "(c) Дмитрий Щаницын, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/358600425",
+    "place": "Палехский р-н, Ивановская обл., Россия",
+    "date": "2026-05-05"
+   },
    {
     "id": 640921502,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/640921502/medium.jpg",
@@ -34,39 +54,90 @@
     "date": "2026-04-19"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 10575563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10575563/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10575563/large.jpg",
+    "attribution": "(c) delphine61, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/7994487",
+    "place": "Voordijk 54, Abcoude, Utrecht, NL",
+    "date": "2013-03-17"
+   },
+   {
+    "id": 652365065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/652365065/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/652365065/large.jpg",
+    "attribution": "(c) BeSch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/357663350",
+    "place": "88422 Bad Buchau, Germany",
+    "date": "2025-12-22"
+   },
+   {
+    "id": 650189058,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/650189058/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/650189058/large.jpg",
+    "attribution": "(c) hristovskis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/356534369",
+    "place": "Gazi Baba, North Macedonia",
+    "date": "2026-04-10"
+   }
+  ],
   "juvenile": [
    {
-    "id": 419548974,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/419548974/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/419548974/large.jpeg",
-    "attribution": "(c) Catherine Currie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/235872148",
-    "place": "Rhodes, Afantou, L, GR",
-    "date": "2018-10-18"
+    "id": 589696424,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589696424/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589696424/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/325674427",
+    "place": "Cádiz, ES-AN, ES",
+    "date": "2009-11-01"
+   },
+   {
+    "id": 690366899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690366899/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690366899/large.jpg",
+    "attribution": "(c) jo815, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377519732",
+    "place": "Gloucestershire, UK",
+    "date": "2026-07-02"
+   },
+   {
+    "id": 718580288,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718580288/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718580288/large.jpg",
+    "attribution": "(c) Ella Slinn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/392131602",
+    "place": "Knott Hide Reedbed, WWT Slimbridge, Gloucestershire, UK",
+    "date": "2026-06-23"
    }
   ],
   "hero": {
-   "id": 2714783,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2714783/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2714783/large.jpg",
-   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/2714783",
+   "id": 60579218,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60579218/large.jpg",
+   "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC), uploaded by Tatyana Zarubo",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/60579218",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480910,
-  "dkTotal": 65516,
+  "dkTotal": 65522,
   "dkMonths": [
    1740,
    3394,
    9541,
    20180,
-   19399,
+   19405,
    6300,
    1451,
    771,
@@ -75,27 +146,27 @@
    522,
    724
   ],
-  "worldTotal": 493002,
+  "worldTotal": 493570,
   "topCountries": [
    {
     "code": "SE",
-    "count": 162407
+    "count": 162417
    },
    {
     "code": "NL",
-    "count": 81598
+    "count": 82021
    },
    {
     "code": "DK",
-    "count": 65516
+    "count": 65522
    },
    {
     "code": "GB",
-    "count": 42795
+    "count": 42796
    },
    {
     "code": "FR",
-    "count": 22258
+    "count": 22260
    },
    {
     "code": "BE",
@@ -107,11 +178,11 @@
    },
    {
     "code": "FI",
-    "count": 11877
+    "count": 11959
    },
    {
     "code": "PL",
-    "count": 10768
+    "count": 10769
    },
    {
     "code": "EE",
@@ -119,7 +190,7 @@
    },
    {
     "code": "DE",
-    "count": 5927
+    "count": 5945
    },
    {
     "code": "RU",
@@ -127,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -143,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

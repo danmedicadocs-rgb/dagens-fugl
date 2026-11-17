@@ -2,7 +2,7 @@
  "key": "stercorarius-pomarinus",
  "name": "Stercorarius pomarinus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:59.830Z",
+ "fetchedAt": "2026-11-17T19:44:33.301Z",
  "names": {
   "da": "Mellemkjove",
   "en": "Pomarine Skua",
@@ -19,24 +19,54 @@
  },
  "inat": {
   "id": 4491,
-  "observations": 3824
+  "observations": 3827
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
    {
-    "id": 432783670,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432783670/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432783670/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242751531",
-    "place": "Баренцево море",
-    "date": "2024-07-27"
+    "id": 120395251,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120395251/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120395251/large.jpg",
+    "attribution": "(c) tamaszeke, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73722047",
+    "place": "Folyás, 4095 Magyarország",
+    "date": "1999-09-30"
+   },
+   {
+    "id": 120395314,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120395314/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120395314/large.jpeg",
+    "attribution": "(c) gubazsuzs, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73722342",
+    "place": "Folyás, 4095 Magyarország",
+    "date": "1999-10-02"
+   },
+   {
+    "id": 428689146,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/428689146/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/428689146/large.jpeg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/240608490",
+    "place": "Mayo, IE",
+    "date": "2024-09-08"
    }
   ],
   "adult": [
+   {
+    "id": 78123405,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78123405/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78123405/large.jpg",
+    "attribution": "(c) Stephen Ng, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/49216498",
+    "place": "Islands, HK",
+    "date": "2017-04-09"
+   },
    {
     "id": 67324708,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67324708/medium.jpg",
@@ -48,24 +78,14 @@
     "date": "2017-07-21"
    },
    {
-    "id": 108157503,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108157503/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108157503/large.jpeg",
-    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67008948",
-    "place": "Saint-Louis, SN-ST, SN",
-    "date": "2018-06-14"
-   },
-   {
-    "id": 423248824,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/423248824/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/423248824/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/237792889",
-    "place": null,
-    "date": "2024-08-24"
+    "id": 532467525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532467525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532467525/large.jpg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295760617",
+    "place": "Mayo, IE",
+    "date": "2025-07-06"
    }
   ],
   "hero": {
@@ -81,7 +101,7 @@
  },
  "gbif": {
   "key": 2481609,
-  "dkTotal": 3849,
+  "dkTotal": 3851,
   "dkMonths": [
    102,
    13,
@@ -91,12 +111,12 @@
    19,
    77,
    232,
-   884,
+   886,
    1425,
    633,
    119
   ],
-  "worldTotal": 125577,
+  "worldTotal": 125586,
   "topCountries": [
    {
     "code": "US",
@@ -104,7 +124,7 @@
    },
    {
     "code": "SE",
-    "count": 16998
+    "count": 17001
    },
    {
     "code": "GB",
@@ -116,7 +136,7 @@
    },
    {
     "code": "NO",
-    "count": 4977
+    "count": 4981
    },
    {
     "code": "AU",
@@ -128,7 +148,7 @@
    },
    {
     "code": "DK",
-    "count": 3849
+    "count": 3851
    },
    {
     "code": "NL",
@@ -148,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +182,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

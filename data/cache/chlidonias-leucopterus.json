@@ -2,7 +2,7 @@
  "key": "chlidonias-leucopterus",
  "name": "Chlidonias leucopterus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:12.409Z",
+ "fetchedAt": "2026-11-17T19:46:57.139Z",
  "names": {
   "da": "Hvidvinget terne",
   "en": "White-winged Tern",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4514,
-  "observations": 6093
+  "observations": 6104
  },
  "photos": {
   "male": [
@@ -48,43 +48,43 @@
   ],
   "juvenile": [
    {
-    "id": 427404774,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/427404774/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/427404774/large.jpeg",
-    "attribution": "(c) SIA, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/239935962",
-    "place": "Соляное, Крым",
-    "date": "2024-09-01"
+    "id": 57948238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57948238/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57948238/large.png",
+    "attribution": "(c) Katy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36642044",
+    "place": "London, UK",
+    "date": "2010-09-28"
    },
    {
-    "id": 557081293,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557081293/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557081293/large.jpg",
-    "attribution": "(c) Jerry Lanfear, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/308764179",
+    "id": 558022070,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022070/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558022070/large.jpg",
+    "attribution": "(c) Nathaniel Bell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309247704",
     "place": "Fenstanton, UK",
-    "date": "2025-08-24"
+    "date": "2025-08-26"
    },
    {
-    "id": 557603353,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557603353/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557603353/large.jpg",
-    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309031150",
-    "place": "Moore Lake, RSPB Fen Drayton, Fenstanton, UK",
-    "date": "2025-08-25"
+    "id": 93433450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/93433450/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/93433450/large.jpg",
+    "attribution": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/58519196",
+    "place": "Upper Gulf of Thailand (off Samut Sakhon)",
+    "date": "2020-09-04"
    }
   ],
   "hero": {
-   "id": 2694783,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2694783/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2694783/large.jpg",
-   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/2694783",
+   "id": 112901711,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112901711/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112901711/large.jpg",
+   "attribution": "(c) Ренат Рахматуллин, some rights reserved (CC BY-NC), uploaded by Ренат Рахматуллин",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/112901711",
    "place": null,
    "date": null
   }
@@ -106,7 +106,7 @@
    4,
    0
   ],
-  "worldTotal": 170483,
+  "worldTotal": 170508,
   "topCountries": [
    {
     "code": "ZA",
@@ -118,7 +118,7 @@
    },
    {
     "code": "NL",
-    "count": 11545
+    "count": 11549
    },
    {
     "code": "TW",
@@ -126,7 +126,7 @@
    },
    {
     "code": "SE",
-    "count": 8977
+    "count": 8979
    },
    {
     "code": "IL",
@@ -138,7 +138,7 @@
    },
    {
     "code": "TR",
-    "count": 4497
+    "count": 4498
    },
    {
     "code": "PL",
@@ -146,7 +146,7 @@
    },
    {
     "code": "KE",
-    "count": 4156
+    "count": 4157
    },
    {
     "code": "RU",
@@ -158,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +172,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

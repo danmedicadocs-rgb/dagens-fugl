@@ -2,7 +2,7 @@
  "key": "tadorna-tadorna",
  "name": "Tadorna tadorna",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:26.287Z",
+ "fetchedAt": "2026-11-17T19:32:32.007Z",
  "names": {
   "da": "Gravand",
   "en": "Common Shelduck",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 7067,
-  "observations": 39093
+  "observations": 39204
  },
  "photos": {
   "male": [
+   {
+    "id": 185040569,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185040569/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185040569/large.jpeg",
+    "attribution": "(c) Ausra Zilinskiene, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109755045",
+    "place": "Marijampolė Municipality, Lithuania",
+    "date": "2022-03-28"
+   },
    {
     "id": 627686308,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/627686308/medium.jpg",
@@ -42,19 +52,19 @@
     "source": "https://www.inaturalist.org/observations/71805252",
     "place": "Bedfordshire, England, United Kingdom",
     "date": "2021-03-22"
-   },
-   {
-    "id": 657419271,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657419271/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657419271/large.jpg",
-    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/360291076",
-    "place": "Parainen, Jurmo, Suomi",
-    "date": "2026-05-09"
    }
   ],
   "female": [
+   {
+    "id": 132115149,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132115149/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132115149/large.jpg",
+    "attribution": "(c) Mike King, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80605712",
+    "place": "Gloucestershire, UK",
+    "date": "2016-05-15"
+   },
    {
     "id": 114709244,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114709244/medium.jpeg",
@@ -66,24 +76,14 @@
     "date": "2021-03-03"
    },
    {
-    "id": 502204088,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502204088/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502204088/large.jpeg",
-    "attribution": "(c) Jan Vršovský, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/279654914",
-    "place": "Apetlon, Rakousko",
-    "date": "2025-05-02"
-   },
-   {
-    "id": 520934559,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520934559/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520934559/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/289623539",
-    "place": "London SE28 0GN, UK",
-    "date": "2025-06-14"
+    "id": 174009139,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174009139/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174009139/large.jpeg",
+    "attribution": "(c) roby, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103898793",
+    "place": "Provincia di Cuneo, Italia",
+    "date": "2021-06-23"
    }
   ],
   "juvenile": [
@@ -98,6 +98,16 @@
     "date": "2022-06-16"
    },
    {
+    "id": 311930376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311930376/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311930376/large.jpeg",
+    "attribution": "(c) Макс Кошкин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179191255",
+    "place": "Калининградская обл., Россия, 238530",
+    "date": "2023-08-19"
+   },
+   {
     "id": 520198145,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520198145/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520198145/large.jpg",
@@ -106,51 +116,41 @@
     "source": "https://www.inaturalist.org/observations/289228840",
     "place": "Burscough L40, UK",
     "date": "2025-06-13"
-   },
-   {
-    "id": 319436218,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/319436218/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/319436218/large.jpeg",
-    "attribution": "(c) Justine, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/183131545",
-    "place": "Seltjarnarnes, Islande",
-    "date": "2023-09-03"
    }
   ],
   "hero": {
-   "id": 627686308,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/627686308/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/627686308/large.jpg",
-   "attribution": "(c) Kostas Zontanos, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/344490260",
-   "place": "Central Macedonia, Greece",
-   "date": "2026-03-20"
+   "id": 392382609,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392382609/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/392382609/large.jpg",
+   "attribution": "(c) thegreatdodo, some rights reserved (CC BY-NC), uploaded by thegreatdodo",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/392382609",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2498009,
-  "dkTotal": 405585,
+  "dkTotal": 405598,
   "dkMonths": [
    21504,
    35641,
    62400,
-   76675,
-   69575,
+   76676,
+   69586,
    40697,
    30409,
-   21487,
+   21488,
    13357,
    14003,
    10177,
    9596
   ],
-  "worldTotal": 2658195,
+  "worldTotal": 2660066,
   "topCountries": [
    {
     "code": "NL",
-    "count": 523206
+    "count": 523833
    },
    {
     "code": "GB",
@@ -158,39 +158,39 @@
    },
    {
     "code": "DK",
-    "count": 405585
+    "count": 405598
    },
    {
     "code": "SE",
-    "count": 352881
+    "count": 352986
    },
    {
     "code": "FR",
-    "count": 218601
+    "count": 218624
    },
    {
     "code": "NO",
-    "count": 188276
+    "count": 188823
    },
    {
     "code": "BE",
-    "count": 178642
+    "count": 178644
    },
    {
     "code": "ES",
-    "count": 110998
+    "count": 111020
    },
    {
     "code": "DE",
-    "count": 50291
+    "count": 50564
    },
    {
     "code": "IT",
-    "count": 19572
+    "count": 19575
    },
    {
     "code": "PT",
-    "count": 17942
+    "count": 17943
    },
    {
     "code": "IE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

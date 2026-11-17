@@ -2,7 +2,7 @@
  "key": "chroicocephalus-ridibundus",
  "name": "Chroicocephalus ridibundus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:32.624Z",
+ "fetchedAt": "2026-11-17T19:45:08.610Z",
  "names": {
   "da": "Hættemåge",
   "en": "Black-headed Gull",
@@ -19,187 +19,185 @@
  },
  "inat": {
   "id": 144510,
-  "observations": 192314
+  "observations": 192889
  },
  "photos": {
   "male": [
    {
-    "id": 255981132,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255981132/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255981132/large.jpeg",
-    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/148627466",
-    "place": "Smíchov, Praha 5, Česko",
-    "date": "2023-02-11"
+    "id": 288204459,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288204459/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288204459/large.jpeg",
+    "attribution": "(c) korshakov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166428361",
+    "place": "Санкт-Петербург",
+    "date": "2023-06-07"
    },
    {
-    "id": 184169705,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184169705/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184169705/large.jpeg",
-    "attribution": "(c) AnimalObserverDeniz321, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/109288502",
-    "place": "Rumeli Hisarı, Aşiyan, 34470 Sarıyer/İstanbul, Turkey",
-    "date": "2022-03-23"
+    "id": 635283353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635283353/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635283353/large.jpg",
+    "attribution": "(c) Anastasiia Alekseeva, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/348347381",
+    "place": "Красноармейская набережная, Pskov, Pskov Oblast, RU",
+    "date": "2026-04-08"
    },
    {
-    "id": 258099404,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258099404/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258099404/large.jpeg",
-    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149755271",
-    "place": "Praha 1, Česko",
-    "date": "2023-02-26"
+    "id": 33459530,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33459530/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33459530/large.jpeg",
+    "attribution": "(c) Σάββας Ζαφειρίου (Savvas Zafeiriou), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21613864",
+    "place": "West Greece, Peloponnese, Western Greece and the Ionian Islands, GR",
+    "date": "2019-03-09"
    }
   ],
   "female": [
    {
-    "id": 255980778,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255980778/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255980778/large.jpeg",
-    "attribution": "(c) Pavel Kacl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/148627449",
-    "place": "Staré Město, 110 00 Praha 1, Česko",
-    "date": "2023-02-11"
+    "id": 109295599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109295599/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109295599/large.jpeg",
+    "attribution": "(c) Fatih AKKOC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67618728",
+    "place": "Karagedik, Gaziosmanpaşa, 06830 Gölbaşı/Ankara, Türkiye",
+    "date": "2021-01-05"
    },
    {
-    "id": 466612110,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466612110/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466612110/large.jpeg",
-    "attribution": "(c) Naksh Sorathiya, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/259888711",
-    "place": "R3C4+9VF, Nalsarovar, Vekariya, Gujarat 382170, India",
-    "date": "2025-01-26"
+    "id": 179657449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179657449/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179657449/large.jpeg",
+    "attribution": "(c) Jacqueline Worthington, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106886040",
+    "place": "Southport, UK",
+    "date": "2022-02-16"
    },
    {
-    "id": 213062102,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213062102/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213062102/large.jpeg",
-    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/125628774",
-    "place": "Сосницький район, Чернігівська область, Україна",
-    "date": "2022-07-10"
+    "id": 593687568,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593687568/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593687568/large.jpg",
+    "attribution": "(c) terpebauer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/327680839",
+    "place": "17 Mesekenhagen, Deutschland",
+    "date": "2025-11-22"
    }
   ],
   "juvenile": [
    {
-    "id": 168848726,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168848726/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168848726/large.jpeg",
-    "attribution": "(c) przese, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101127941",
-    "place": "25764 Wesselburenerkoog, Deutschland",
-    "date": "2009-06-01"
+    "id": 279813252,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279813252/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279813252/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161864154",
+    "place": "Великий Новгород, Новгородская обл., Россия",
+    "date": "2023-05-15"
    },
    {
-    "id": 6026828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6026828/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6026828/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/4943186",
-    "place": "Pennsylvania, United States",
-    "date": "2017-01-13"
+    "id": 676554486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676554486/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676554486/large.jpg",
+    "attribution": "(c) Ella Slinn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/370342351",
+    "place": "Rushy, WWT Slimbridge, Bowditch, WWT GL2 7BT, UK",
+    "date": "2026-06-02"
    },
    {
-    "id": 404665889,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/404665889/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/404665889/large.jpeg",
-    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/228065325",
-    "place": "WWT London Wetland Centre, Queen Elizabeth Walk, London SW13 9WT, UK",
-    "date": "2024-07-08"
+    "id": 299703093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299703093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299703093/large.jpg",
+    "attribution": "(c) Duncan Ashcroft, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/172628905",
+    "place": "Lady's Island Lake, Our Lady's Island, Co. Wexford, IE",
+    "date": "2022-07-09"
    }
   ],
   "hero": {
-   "id": 372060792,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/372060792/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/372060792/large.jpg",
-   "attribution": "(c) Alexis Lours, some rights reserved (CC BY), uploaded by Alexis Lours",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/372060792",
+   "id": 198109587,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198109587/large.jpg",
+   "attribution": "(c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC), uploaded by Dmitry Dubikovskiy",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/198109587",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 6065824,
-  "dkTotal": 746933,
+  "dkTotal": 746956,
   "dkMonths": [
    64272,
    52283,
    96879,
    72083,
-   61893,
+   61902,
    81156,
-   60065,
-   58063,
-   48801,
+   60073,
+   58066,
+   48804,
    52468,
    43730,
    46663
   ],
-  "worldTotal": 7176878,
+  "worldTotal": 7185562,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1295073
+    "count": 1295085
    },
    {
     "code": "SE",
-    "count": 982305
+    "count": 982663
    },
    {
     "code": "NL",
-    "count": 898376
+    "count": 899596
    },
    {
     "code": "DK",
-    "count": 746933
+    "count": 746956
    },
    {
     "code": "FI",
-    "count": 496855
+    "count": 496865
    },
    {
     "code": "FR",
-    "count": 472130
+    "count": 472214
    },
    {
     "code": "ES",
-    "count": 354155
+    "count": 354199
    },
    {
     "code": "NO",
-    "count": 302800
+    "count": 303336
    },
    {
     "code": "BE",
-    "count": 236652
+    "count": 236654
    },
    {
     "code": "DE",
-    "count": 229296
+    "count": 230142
    },
    {
     "code": "PL",
-    "count": 157124
+    "count": 157131
    },
    {
     "code": "PT",
-    "count": 111576
+    "count": 111578
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

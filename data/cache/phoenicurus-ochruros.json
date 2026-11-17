@@ -2,7 +2,7 @@
  "key": "phoenicurus-ochruros",
  "name": "Phoenicurus ochruros",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:25:13.454Z",
+ "fetchedAt": "2026-11-17T19:57:44.263Z",
  "names": {
   "da": "Husrødstjert",
   "en": "Black Redstart",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 13000,
-  "observations": 99490
+  "observations": 99730
  },
  "photos": {
   "male": [
@@ -56,6 +56,16 @@
   ],
   "female": [
    {
+    "id": 34666443,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34666443/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34666443/large.jpeg",
+    "attribution": "(c) Pascal Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/22383529",
+    "place": "42520 Maclas, France",
+    "date": "2019-04-09"
+   },
+   {
     "id": 331881067,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331881067/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331881067/large.jpg",
@@ -74,132 +84,120 @@
     "source": "https://www.inaturalist.org/observations/202289159",
     "place": "4292 Dobri Dol, Bulgaria",
     "date": "2024-03-13"
-   },
-   {
-    "id": 193151595,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151595/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193151595/large.jpg",
-    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/114383411",
-    "place": "Jules César, 95130 Franconville, France",
-    "date": "2022-05-01"
    }
   ],
   "juvenile": [
    {
-    "id": 518154355,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518154355/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518154355/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/288142470",
-    "place": "87050 Casali del Manco CS, Italia",
-    "date": "2025-06-06"
+    "id": 724563023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724563023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724563023/large.jpg",
+    "attribution": "(c) Lambrechts Yves, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/395174751",
+    "place": "5540 Waulsort, Belgique",
+    "date": "2026-07-22"
    },
    {
-    "id": 137379663,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137379663/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137379663/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/83634892",
-    "place": "Gellert, 4052 Basel, Switzerland",
-    "date": "2021-06-17"
+    "id": 455297710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455297710/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455297710/large.jpeg",
+    "attribution": "(c) lastovka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/254215271",
+    "place": "Jennersdorf, Österreich",
+    "date": "2024-06-02"
    },
    {
-    "id": 81020572,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81020572/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81020572/large.jpeg",
-    "attribution": "(c) anasacuta, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/51007152",
-    "place": "Hérault, Languedoc-Roussillon, FR",
-    "date": "2020-06-26"
+    "id": 5980956,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5980956/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5980956/large.jpeg",
+    "attribution": "(c) Saro Costanzo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/4913307",
+    "place": "Province of Catania, Italy",
+    "date": "2017-01-06"
    }
   ],
   "hero": {
-   "id": 628848727,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628848727/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628848727/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/345090569",
-   "place": "4292 Dobri dol, Bulgaria",
-   "date": "2026-03-25"
+   "id": 3322603,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3322603/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3322603/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/3322603",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 5739315,
-  "dkTotal": 59303,
+  "dkTotal": 59308,
   "dkMonths": [
    1191,
    752,
    2500,
    13392,
-   11091,
+   11092,
    7780,
-   5115,
-   3425,
+   5118,
+   3426,
    4268,
    6521,
    2372,
    858
   ],
-  "worldTotal": 2585204,
+  "worldTotal": 2828206,
   "topCountries": [
    {
     "code": "FR",
-    "count": 603099
+    "count": 605055
    },
    {
     "code": "ES",
-    "count": 548275
+    "count": 548385
    },
    {
     "code": "DE",
-    "count": 273601
+    "count": 278012
+   },
+   {
+    "code": "CH",
+    "count": 277192
    },
    {
     "code": "PT",
-    "count": 180600
+    "count": 180607
    },
    {
     "code": "NL",
-    "count": 120253
+    "count": 120317
    },
    {
     "code": "SE",
-    "count": 112906
+    "count": 112928
    },
    {
     "code": "IT",
-    "count": 92022
+    "count": 92976
    },
    {
     "code": "BE",
-    "count": 75699
+    "count": 75700
    },
    {
     "code": "IN",
-    "count": 71120
+    "count": 71123
    },
    {
     "code": "DK",
-    "count": 59303
+    "count": 59308
    },
    {
     "code": "CZ",
-    "count": 51184
-   },
-   {
-    "code": "AT",
-    "count": 48832
+    "count": 51185
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

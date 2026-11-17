@@ -2,7 +2,7 @@
  "key": "aquila-chrysaetos",
  "name": "Aquila chrysaetos",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:09:15.834Z",
+ "fetchedAt": "2026-11-17T19:39:20.984Z",
  "names": {
   "da": "Kongeørn",
   "en": "Golden Eagle",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 5074,
-  "observations": 29279
+  "observations": 29366
  },
  "photos": {
   "male": [
+   {
+    "id": 240674,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240674/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240674/large.jpg",
+    "attribution": "(c) horacio ortega, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186498",
+    "place": "San Luis Río Colorado, MX-SO, MX",
+    "date": "2012-07-10"
+   },
+   {
+    "id": 646303179,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/646303179/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/646303179/large.jpg",
+    "attribution": "(c) Hasan Safak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/354267269",
+    "place": "Çamardı/Niğde, Türkiye",
+    "date": "2026-04-07"
+   },
    {
     "id": 341834113,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341834113/medium.jpeg",
@@ -32,101 +52,81 @@
     "source": "https://www.inaturalist.org/observations/194464811",
     "place": "Sila",
     "date": "2023-12-19"
-   },
-   {
-    "id": 354871129,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354871129/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354871129/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/201070129",
-    "place": "Provincia di Cosenza",
-    "date": "2024-03-02"
-   },
-   {
-    "id": 341832256,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341832256/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341832256/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/194464031",
-    "place": "Sila",
-    "date": "2023-12-19"
    }
   ],
   "female": [
    {
-    "id": 354871792,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354871792/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354871792/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/201070390",
-    "place": "Provincia di Cosenza",
-    "date": "2024-03-02"
+    "id": 78477047,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78477047/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78477047/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/49435156",
+    "place": "Granada, Spain",
+    "date": "2020-06-11"
    },
    {
-    "id": 344192334,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344192334/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344192334/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/195619003",
-    "place": "Calabria",
-    "date": "2024-01-03"
+    "id": 410330144,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410330144/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410330144/large.jpeg",
+    "attribution": "(c) Jose Manuel Anguiano, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231060653",
+    "place": "La Paz, MX-BS, MX",
+    "date": "2019-02-02"
    },
    {
-    "id": 397469913,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397469913/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397469913/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/224272243",
-    "place": "San Giovanni",
-    "date": "2024-06-18"
+    "id": 170339333,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170339333/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170339333/large.jpeg",
+    "attribution": "(c) yerbasanta, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9560079",
+    "place": "Monterey County, CA, USA",
+    "date": "2018-01-17"
    }
   ],
   "juvenile": [
    {
-    "id": 247754231,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247754231/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247754231/large.jpg",
-    "attribution": "(c) Кучкаев Марат, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/144362575",
-    "place": "Nizhnekamsky District, Republic of Tatarstan, Russia",
-    "date": "2022-12-14"
+    "id": 347552422,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347552422/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347552422/large.jpg",
+    "attribution": "(c) allenbryan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197345113",
+    "place": "Highland County, VA, USA",
+    "date": "2024-01-22"
    },
    {
-    "id": 580400945,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/580400945/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/580400945/large.jpg",
-    "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/320967000",
-    "place": "South Riverdale, Toronto, ON, Canada",
-    "date": "2025-10-14"
+    "id": 600039124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600039124/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600039124/large.jpg",
+    "attribution": "(c) trisha_s, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330847110",
+    "place": "Union, ON N0L 2L0, Canada",
+    "date": "2025-12-14"
    },
    {
-    "id": 2673463,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2673463/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2673463/large.jpg",
-    "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2398802",
-    "place": "Hongseong, KR-GN, KR",
-    "date": "2002-01-23"
+    "id": 596874059,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596874059/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596874059/large.jpg",
+    "attribution": "(c) Александр Балаев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329294099",
+    "place": "Moskva, RU",
+    "date": "2025-12-01"
    }
   ],
   "hero": {
-   "id": 341834113,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341834113/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341834113/large.jpeg",
-   "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/194464811",
-   "place": "Sila",
-   "date": "2023-12-19"
+   "id": 465326450,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465326450/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465326450/large.jpg",
+   "attribution": "(c) Jef-B, some rights reserved (CC BY-NC), uploaded by Jef-B",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/465326450",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,7 +146,7 @@
    840,
    849
   ],
-  "worldTotal": 799809,
+  "worldTotal": 802283,
   "topCountries": [
    {
     "code": "US",
@@ -154,15 +154,15 @@
    },
    {
     "code": "SE",
-    "count": 117375
+    "count": 117453
    },
    {
     "code": "FR",
-    "count": 68926
+    "count": 68931
    },
    {
     "code": "ES",
-    "count": 52257
+    "count": 52265
    },
    {
     "code": "CA",
@@ -170,11 +170,11 @@
    },
    {
     "code": "NO",
-    "count": 30478
+    "count": 30497
    },
    {
     "code": "FI",
-    "count": 19690
+    "count": 19714
    },
    {
     "code": "DK",
@@ -182,15 +182,15 @@
    },
    {
     "code": "AT",
-    "count": 8473
-   },
-   {
-    "code": "IT",
-    "count": 7503
+    "count": 8483
    },
    {
     "code": "CH",
-    "count": 5921
+    "count": 8227
+   },
+   {
+    "code": "IT",
+    "count": 7514
    },
    {
     "code": "PT",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "begging call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

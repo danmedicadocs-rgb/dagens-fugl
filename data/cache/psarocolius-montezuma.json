@@ -2,7 +2,7 @@
  "key": "psarocolius-montezuma",
  "name": "Psarocolius montezuma",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:48:37.635Z",
+ "fetchedAt": "2026-11-17T20:24:09.155Z",
  "names": {
   "da": "Montezuma Oropendola",
   "en": "Montezuma Oropendola",
@@ -19,23 +19,74 @@
  },
  "inat": {
   "id": 68047,
-  "observations": 8752
+  "observations": 8773
  },
  "photos": {
   "male": [
    {
-    "id": 460883153,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460883153/large.jpg",
-    "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/256981772",
-    "place": "Belize District, Belize",
-    "date": "2024-04-23"
+    "id": 462204339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462204339/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462204339/large.jpeg",
+    "attribution": "(c) Isaías Caamaño Rodríguez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/257626911",
+    "place": "91216 Castillo Chico, Ver., México",
+    "date": "2025-01-06"
+   },
+   {
+    "id": 606467697,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606467697/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606467697/large.jpg",
+    "attribution": "(c) ESMERALDA VARGAS MART, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334010639",
+    "place": "3R7W+HC, 92705 La Puerta, Ver., México",
+    "date": "2025-04-19"
+   },
+   {
+    "id": 119916402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119916402/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/119916402/large.jpeg",
+    "attribution": "(c) Carlos García Casanova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73449796",
+    "place": "Tamuín, S.L.P., México",
+    "date": "2021-04-09"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 148881792,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148881792/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148881792/large.jpg",
+    "attribution": "(c) Joel Díaz López, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/90109265",
+    "place": "Tamasopo, S.L.P., México",
+    "date": "2021-02-12"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 593742984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593742984/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593742984/large.jpg",
+    "attribution": "(c) John Beer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/327710529",
+    "place": "Provincia de Cartago, Turrialba, La Colina, Costa Rica",
+    "date": "2025-11-22"
+   },
+   {
+    "id": 194755206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194755206/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194755206/large.jpeg",
+    "attribution": "(c) Henri Paye, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/115391685",
+    "place": "Cartago, Ujarrás, Costa Rica",
+    "date": "2022-03-06"
+   },
    {
     "id": 226895793,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226895793/medium.jpeg",
@@ -48,12 +99,12 @@
    }
   ],
   "hero": {
-   "id": 24513,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24513/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24513/large.jpg",
-   "attribution": "(c) Paulo Philippidis, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/24513",
+   "id": 253828405,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253828405/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253828405/large.jpg",
+   "attribution": "(c) Don Marsille, some rights reserved (CC BY-NC), uploaded by Don Marsille",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/253828405",
    "place": null,
    "date": null
   }
@@ -127,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -143,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

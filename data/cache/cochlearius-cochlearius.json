@@ -2,7 +2,7 @@
  "key": "cochlearius-cochlearius",
  "name": "Cochlearius cochlearius",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:01.729Z",
+ "fetchedAt": "2026-11-17T20:24:40.567Z",
  "names": {
   "da": "Bådnæbshejre",
   "en": "Boat-billed Heron",
@@ -19,63 +19,114 @@
  },
  "inat": {
   "id": 5036,
-  "observations": 5683
+  "observations": 5693
  },
  "photos": {
   "male": [
    {
-    "id": 255039100,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/large.jpg",
-    "attribution": "(c) Marina, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/148136206",
-    "place": "Sian Ka'an, Tulum, Quintana Roo, MX",
-    "date": "2023-02-04"
+    "id": 237664331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237664331/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237664331/large.jpeg",
+    "attribution": "(c) miguelmagro, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139003006",
+    "place": "Vila Santo Henrique, São Paulo - SP, Brasil",
+    "date": "2022-10-15"
+   },
+   {
+    "id": 587479508,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587479508/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587479508/large.jpg",
+    "attribution": "(c) Aline, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/324567456",
+    "place": "77740 Mayan Palace, Q.R., México",
+    "date": "2025-01-20"
+   },
+   {
+    "id": 168580179,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168580179/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168580179/large.jpeg",
+    "attribution": "(c) Estación Biológica Las Guacamayas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/100972237",
+    "place": "0 San Andres, Petén, 17004, Guatemala",
+    "date": "2021-02-03"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 186458456,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186458456/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186458456/large.jpeg",
+    "attribution": "(c) Fabio Barata, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110524693",
+    "place": "Guaraú - Q.ta do Guarau, Peruíbe - SP, 11750-000, Brasil",
+    "date": "2022-04-05"
+   },
+   {
+    "id": 47594423,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47594423/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47594423/large.jpeg",
+    "attribution": "(c) Tom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30462468",
+    "place": "STRI, Bocas del Toro, Panama",
+    "date": "2019-08-08"
+   },
+   {
+    "id": 223226187,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223226187/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223226187/large.jpg",
+    "attribution": "(c) polishcow3000, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131194174",
+    "place": "Provincia de Guanacaste, Costa Rica",
+    "date": "2022-08-16"
+   }
+  ],
   "juvenile": [
    {
-    "id": 464017826,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464017826/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464017826/large.jpeg",
-    "attribution": "(c) Bruno Luka de Souza Bambirra Silveira, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/258603807",
-    "place": "São Paulo, BR",
-    "date": "2025-01-11"
+    "id": 12835772,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12835772/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12835772/large.jpg",
+    "attribution": "(c) Steven Easley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9440686",
+    "place": "Provincia de Alajuela, Los Chiles, Costa Rica",
+    "date": "2017-12-03"
    },
    {
-    "id": 600610256,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600610256/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600610256/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/331123213",
-    "place": "Barão de Melgaço - State of Mato Grosso, Brazil",
-    "date": "2025-08-06"
+    "id": 64576917,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64576917/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64576917/large.jpeg",
+    "attribution": "(c) Georgia Coleman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/40734819",
+    "place": "Hacienda Barú Lodge",
+    "date": "2019-09-03"
    },
    {
-    "id": 441199082,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/441199082/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/441199082/large.png",
-    "attribution": "(c) Slunky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/247072855",
-    "place": "Jose Ballivian, Bolivia",
-    "date": "2024-09-17"
+    "id": 238684528,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238684528/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238684528/large.jpg",
+    "attribution": "(c) Reserva Biólogica Ecocentro Danaus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139539473",
+    "place": "Provincia de Alajuela, San Carlos, Costa Rica",
+    "date": "2018-05-02"
    }
   ],
   "hero": {
-   "id": 255039100,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255039100/large.jpg",
-   "attribution": "(c) Marina, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/148136206",
-   "place": "Sian Ka'an, Tulum, Quintana Roo, MX",
-   "date": "2023-02-04"
+   "id": 356996157,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356996157/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356996157/large.jpg",
+   "attribution": "(c) Karl Kroeker, some rights reserved (CC BY-NC), uploaded by Karl Kroeker",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/356996157",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 61506,
+  "worldTotal": 61505,
   "topCountries": [
    {
     "code": "CR",
-    "count": 25843
+    "count": 25842
    },
    {
     "code": "MX",
-    "count": 8875
+    "count": 8876
    },
    {
     "code": "BZ",
@@ -147,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

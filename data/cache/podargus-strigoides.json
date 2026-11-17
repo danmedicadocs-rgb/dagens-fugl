@@ -2,7 +2,7 @@
  "key": "podargus-strigoides",
  "name": "Podargus strigoides",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:40:18.046Z",
+ "fetchedAt": "2026-11-17T20:14:22.484Z",
  "names": {
   "da": "Australsk Frømund",
   "en": "Tawny Frogmouth",
@@ -19,29 +19,39 @@
  },
  "inat": {
   "id": 19721,
-  "observations": 30761
+  "observations": 30937
  },
  "photos": {
   "male": [
    {
-    "id": 88468887,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/large.jpg",
-    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/55554458",
-    "place": "Wolfang QLD 4721, Australia",
-    "date": "2008-05-20"
+    "id": 466261151,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466261151/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466261151/large.jpg",
+    "attribution": "(c) lizzyfieldfinds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259709421",
+    "place": "Bold Park, City Beach, WA, AU",
+    "date": "2025-01-24"
    },
    {
-    "id": 762546380,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762546380/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762546380/large.jpg",
-    "attribution": "(c) Ian Rainbow, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/414240913",
-    "place": "Upwey VIC 3158, Australia",
-    "date": "2026-11-12"
+    "id": 569896734,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569896734/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569896734/large.jpg",
+    "attribution": "(c) ozhamada, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/315471711",
+    "place": "Greater Taree, AU-NS, AU",
+    "date": "2025-09-20"
+   },
+   {
+    "id": 336393466,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336393466/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336393466/large.jpeg",
+    "attribution": "(c) Adelma Hills, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191716554",
+    "place": "Newee Creek NSW 2447, Australia",
+    "date": "2023-11-01"
    }
   ],
   "female": [
@@ -56,67 +66,67 @@
     "date": "2023-06-24"
    },
    {
-    "id": 379227013,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379227013/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379227013/large.jpg",
-    "attribution": "(c) Scott Warner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/214540930",
-    "place": "Redbank Creek QLD 4312, Australia",
-    "date": "2024-05-08"
+    "id": 266776804,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266776804/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266776804/large.jpg",
+    "attribution": "(c) Sam Gordon, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/154396854",
+    "place": "Pinkerton Plains SA 5400, Australia",
+    "date": "2020-03-01"
    },
    {
-    "id": 456686450,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456686450/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456686450/large.jpeg",
-    "attribution": "(c) A.J. Anderson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/254902559",
-    "place": "North Lake bushland, Perth WA, Australia",
-    "date": "2020-04-23"
+    "id": 270906558,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270906558/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270906558/large.jpg",
+    "attribution": "(c) Sam Gordon, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/156654691",
+    "place": "Lyons Rd, Hope Valley, SA, AU",
+    "date": "2023-04-26"
    }
   ],
   "juvenile": [
    {
-    "id": 40859536,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40859536/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40859536/large.jpg",
-    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/26318425",
-    "place": "Brisbane QLD, Australia",
-    "date": "2008-01-24"
+    "id": 310661443,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310661443/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310661443/large.jpg",
+    "attribution": "(c) tedg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/178522178",
+    "place": "Hydes Creek NSW 2454, Australia",
+    "date": "2020-11-21"
    },
    {
-    "id": 762674288,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762674288/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762674288/large.jpg",
-    "attribution": "(c) Ian Rainbow, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/414303113",
-    "place": "Upwey VIC 3158, Australia",
-    "date": "2026-11-12"
+    "id": 102845792,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102845792/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102845792/large.jpeg",
+    "attribution": "(c) caliologist, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/64017682",
+    "place": "Bombah Point NSW 2423, Australia",
+    "date": "2020-10-31"
    },
    {
-    "id": 107804338,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107804338/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107804338/large.jpg",
-    "attribution": "(c) Nicole Kearney, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66818403",
-    "place": "Beavers Road, Northcote, VIC, AU",
-    "date": "2020-12-12"
+    "id": 54139413,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54139413/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54139413/large.jpg",
+    "attribution": "(c) pdwaar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34401865",
+    "place": "Hyslop Street, Moorooka, QLD, AU",
+    "date": "2019-10-05"
    }
   ],
   "hero": {
-   "id": 88468887,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88468887/large.jpg",
-   "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/55554458",
-   "place": "Wolfang QLD 4721, Australia",
-   "date": "2008-05-20"
+   "id": 29852544,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29852544/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29852544/large.jpeg",
+   "attribution": "(c) Bridget Spencer, some rights reserved (CC BY-NC), uploaded by Bridget Spencer",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/29852544",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 231762,
+  "worldTotal": 231763,
   "topCountries": [
    {
     "code": "AU",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

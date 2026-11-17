@@ -2,7 +2,7 @@
  "key": "motacilla-flava",
  "name": "Motacilla flava",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:26:30.271Z",
+ "fetchedAt": "2026-11-17T19:59:13.238Z",
  "names": {
   "da": "Gul vipstjert",
   "en": "Western Yellow Wagtail",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 204545,
-  "observations": 51474
+  "observations": 51577
  },
  "photos": {
   "male": [
+   {
+    "id": 166162147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166162147/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166162147/large.jpeg",
+    "attribution": "(c) vodahe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99649493",
+    "place": "37115 Duderstadt, Deutschland",
+    "date": "2021-05-20"
+   },
    {
     "id": 270787932,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270787932/medium.jpg",
@@ -42,127 +52,117 @@
     "source": "https://www.inaturalist.org/observations/271421617",
     "place": "4292 Dobri dol, Bulgaria",
     "date": "2025-04-19"
-   },
-   {
-    "id": 480388334,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/480388334/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/480388334/large.jpg",
-    "attribution": "(c) CaracalShan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/262450986",
-    "place": "West-Vlaanderen, Vlaanderen, BE",
-    "date": "2019-05-09"
    }
   ],
   "female": [
    {
-    "id": 200234469,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/200234469/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/200234469/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/118507158",
-    "place": "Rabé de las Calzadas, Burgos, España",
-    "date": "2022-05-14"
+    "id": 36096346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/36096346/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/36096346/large.jpg",
+    "attribution": "(c) rolandwirth, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/23299991",
+    "place": "Santa Cruz de Tenerife, Spain",
+    "date": "2019-03-25"
    },
    {
-    "id": 154452576,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154452576/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154452576/large.jpeg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/93209487",
-    "place": "Newport, UK",
-    "date": "2021-08-31"
+    "id": 596705611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596705611/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596705611/large.jpg",
+    "attribution": "(c) Taras Rodych / Тарас Родич, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329210407",
+    "place": "Шевченківський район, Львів, Львівська область, Україна, 79000",
+    "date": "2013-06-14"
    },
    {
-    "id": 658467302,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658467302/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658467302/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/360834457",
-    "place": "Rieselfelder Muenster",
-    "date": "2010-05-01"
+    "id": 78158627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78158627/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78158627/large.jpg",
+    "attribution": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/49238775",
+    "place": "Osterrönfeld, Deutschland",
+    "date": "2020-06-08"
    }
   ],
   "juvenile": [
    {
-    "id": 523837246,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523837246/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523837246/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/291159241",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2025-06-20"
+    "id": 488833661,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488833661/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488833661/large.jpeg",
+    "attribution": "(c) shaaya, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271744531",
+    "place": "Hungary",
+    "date": "2014-08-01"
    },
    {
-    "id": 211125334,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211125334/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211125334/large.jpeg",
-    "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124553072",
-    "place": "Каменский р-н, Свердловская обл., Россия",
-    "date": "2022-07-02"
+    "id": 161464122,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161464122/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161464122/large.jpeg",
+    "attribution": "(c) Xenia Stad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/97125497",
+    "place": "Nizhegorodskiy Rayon, Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",
+    "date": "2021-10-03"
    },
    {
-    "id": 546005855,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546005855/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546005855/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/302951570",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2025-08-01"
+    "id": 48272346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48272346/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48272346/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30879691",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2018-07-19"
    }
   ],
   "hero": {
-   "id": 349323284,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349323284/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349323284/large.jpeg",
-   "attribution": "(c) Andrew Simon, some rights reserved (CC BY), uploaded by Andrew Simon",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/349323284",
+   "id": 393839170,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393839170/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393839170/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/393839170",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 9701857,
-  "dkTotal": 151536,
+  "dkTotal": 151544,
   "dkMonths": [
    0,
    0,
    6,
    14758,
-   54013,
+   54017,
    13717,
-   12765,
-   33856,
-   21936,
+   12767,
+   33857,
+   21937,
    399,
    4,
    3
   ],
-  "worldTotal": 2102110,
+  "worldTotal": 2105506,
   "topCountries": [
    {
     "code": "SE",
-    "count": 427787
+    "count": 427832
    },
    {
     "code": "ES",
-    "count": 258259
+    "count": 258272
    },
    {
     "code": "FR",
-    "count": 192712
+    "count": 192721
    },
    {
     "code": "DK",
-    "count": 151536
+    "count": 151544
    },
    {
     "code": "GB",
@@ -170,19 +170,19 @@
    },
    {
     "code": "NL",
-    "count": 104403
+    "count": 104468
    },
    {
     "code": "FI",
-    "count": 95438
+    "count": 95448
    },
    {
     "code": "IN",
-    "count": 93472
+    "count": 93479
    },
    {
     "code": "NO",
-    "count": 91322
+    "count": 91333
    },
    {
     "code": "BE",
@@ -190,7 +190,7 @@
    },
    {
     "code": "DE",
-    "count": 69139
+    "count": 70144
    },
    {
     "code": "PT",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "flight call, song, rolled song notes in flight",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

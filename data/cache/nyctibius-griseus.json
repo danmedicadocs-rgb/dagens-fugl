@@ -2,7 +2,7 @@
  "key": "nyctibius-griseus",
  "name": "Nyctibius griseus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:07.690Z",
+ "fetchedAt": "2026-11-17T20:24:45.682Z",
  "names": {
   "da": "Potu",
   "en": "Common Potoo",
@@ -19,82 +19,112 @@
  },
  "inat": {
   "id": 19667,
-  "observations": 5511
+  "observations": 5524
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 598556541,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598556541/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598556541/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/330125816",
-    "place": "Cali, Valle del Cauca, Colombia",
-    "date": "2025-10-03"
+    "id": 331244586,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331244586/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331244586/large.jpeg",
+    "attribution": "(c) Nelson gomez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/189139947",
+    "place": "Guaycará, Provincia de Puntarenas, Corredores, Costa Rica",
+    "date": "2023-10-23"
    },
    {
-    "id": 138811051,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138811051/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138811051/large.jpeg",
-    "attribution": "(c) Rodrigo Paiva Lázaro, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/84455239",
-    "place": "Jardim Barbacena, Cotia - SP, 06710-380, Brasil",
-    "date": "2013-12-07"
+    "id": 345751774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345751774/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345751774/large.jpg",
+    "attribution": "(c) Gail Ann Williams, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196392787",
+    "place": "Calle Playa Tamales, Golfito, Puntarenas, CR",
+    "date": "2024-01-11"
    },
    {
-    "id": 588186426,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588186426/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588186426/large.jpg",
-    "attribution": "(c) David F. Belmonte, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/324915363",
-    "place": "Loreto y alrededores inmediatos, El Beni, Bolivia",
-    "date": "2025-10-08"
+    "id": 68482869,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68482869/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68482869/large.jpeg",
+    "attribution": "(c) Marcelo Maidana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/43137798",
+    "place": "Puerto Iguazú, Misiones, Argentina",
+    "date": "2020-03-25"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 109760258,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109760258/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109760258/large.jpeg",
-    "attribution": "(c) Ciencia1.com, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67199154",
-    "place": "Villalengua 821, Quito 170102, Ecuador",
-    "date": "2020-12-28"
+    "id": 748925159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748925159/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748925159/large.jpg",
+    "attribution": "(c) Jacó Ramos Rodrigues, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407530100",
+    "place": "Acauã - PI, 64748-000, Brasil",
+    "date": "2025-12-26"
    },
    {
-    "id": 595256403,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595256403/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595256403/large.jpg",
-    "attribution": "(c) Arthur Bruck, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/328489180",
-    "place": "São Carlos - SP, Brasil",
-    "date": "2025-11-23"
+    "id": 665786946,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665786946/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665786946/large.jpg",
+    "attribution": "(c) Harold Echavarría Cano, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364696159",
+    "place": "Medellín, Antioquia, Colombia",
+    "date": "2026-05-23"
    },
    {
-    "id": 746331136,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746331136/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746331136/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/406237004",
-    "place": "Darien, PA",
-    "date": "2026-03-23"
+    "id": 270382893,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270382893/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270382893/large.jpeg",
+    "attribution": "(c) Susana Cubas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/156366438",
+    "place": "Chamizal",
+    "date": "2009-06-25"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 253153546,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253153546/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253153546/large.jpg",
+    "attribution": "(c) Antonio Amaral, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147152045",
+    "place": "São Sebastião - SP, Brasil",
+    "date": "2023-01-22"
+   },
+   {
+    "id": 638311126,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/638311126/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/638311126/large.jpg",
+    "attribution": "(c) Silvana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/349882089",
+    "place": "37000 Departamento de Cerro Largo, Uruguay",
+    "date": "2026-02-15"
+   },
+   {
+    "id": 172917294,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172917294/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172917294/large.jpeg",
+    "attribution": "(c) Nelson Wisnik, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103333734",
+    "place": "Parque Ecológico, Campinas - SP, Brasil",
+    "date": "2021-12-19"
    }
   ],
   "hero": {
-   "id": 63558563,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63558563/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63558563/large.jpg",
-   "attribution": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/63558563",
+   "id": 508102028,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508102028/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508102028/large.jpg",
+   "attribution": "(c) Gabriel Delasala, some rights reserved (CC BY-NC), uploaded by Gabriel Delasala",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/508102028",
    "place": null,
    "date": null
   }
@@ -116,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 67678,
+  "worldTotal": 67679,
   "topCountries": [
    {
     "code": "CO",
@@ -124,7 +154,7 @@
    },
    {
     "code": "BR",
-    "count": 15072
+    "count": 15073
    },
    {
     "code": "EC",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

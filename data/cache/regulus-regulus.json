@@ -2,7 +2,7 @@
  "key": "regulus-regulus",
  "name": "Regulus regulus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:20:02.810Z",
+ "fetchedAt": "2026-11-17T19:51:33.344Z",
  "names": {
   "da": "Fuglekonge",
   "en": "Goldcrest",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 793469,
-  "observations": 35345
+  "observations": 35456
  },
  "photos": {
   "male": [
+   {
+    "id": 629142150,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/629142150/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/629142150/large.jpg",
+    "attribution": "(c) Анатолий Стрила, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/345237954",
+    "place": "Московский р-н, Калининград, Калининградская обл., Россия",
+    "date": "2026-03-26"
+   },
    {
     "id": 337852492,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337852492/medium.jpeg",
@@ -34,27 +44,27 @@
     "date": "2023-11-25"
    },
    {
-    "id": 188310515,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188310515/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188310515/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111548126",
-    "place": "Londres, Royaume-Uni",
-    "date": "2022-04-10"
-   },
-   {
-    "id": 168243293,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168243293/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168243293/large.jpeg",
-    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/100487378",
-    "place": "Краснодарский край, Россия, 354393",
-    "date": "2021-11-07"
+    "id": 452436006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452436006/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452436006/large.jpeg",
+    "attribution": "(c) LibProj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252716694",
+    "place": "Harrow HA3, UK",
+    "date": "2024-11-23"
    }
   ],
   "female": [
+   {
+    "id": 575968886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/575968886/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/575968886/large.jpg",
+    "attribution": "(c) tan2024, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/318673615",
+    "place": "Зеленоградский р-н, Калининградская обл., Россия",
+    "date": "2025-10-04"
+   },
    {
     "id": 588681982,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588681982/medium.jpg",
@@ -74,19 +84,29 @@
     "source": "https://www.inaturalist.org/observations/332771283",
     "place": "Trongate, Glasgow, UK",
     "date": "2025-12-25"
-   },
-   {
-    "id": 576410690,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/576410690/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/576410690/large.jpg",
-    "attribution": "(c) John Ashburner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/318903207",
-    "place": "Lock Cottage 97, London W7 2PH, UK",
-    "date": "2025-10-05"
    }
   ],
   "juvenile": [
+   {
+    "id": 540930454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540930454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540930454/large.jpg",
+    "attribution": "(c) Jordan Pitts, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/300227804",
+    "place": "Barnsdale Cottage, Huddersfield, England, GB",
+    "date": "2024-06-24"
+   },
+   {
+    "id": 164694934,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164694934/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164694934/large.jpg",
+    "attribution": "(c) Nikolay A. Poyarkov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/85420259",
+    "place": "Вокалист ГАБТ ДНТ поселок, Ивановское, Московская область, RU",
+    "date": "2021-07-03"
+   },
    {
     "id": 282621694,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282621694/medium.jpg",
@@ -96,26 +116,6 @@
     "source": "https://www.inaturalist.org/observations/163406258",
     "place": "9675 Furnas, Portugal",
     "date": "2023-05-23"
-   },
-   {
-    "id": 660094392,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660094392/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660094392/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/361682091",
-    "place": "Galway, IE",
-    "date": "2026-05-15"
-   },
-   {
-    "id": 88678038,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88678038/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88678038/large.jpg",
-    "attribution": "(c) Chris Leeson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/55678998",
-    "place": "Dudley Zoo, Dudley, England, GB",
-    "date": "2020-08-07"
    }
   ],
   "hero": {
@@ -146,15 +146,15 @@
    18144,
    12290
   ],
-  "worldTotal": 4158459,
+  "worldTotal": 4235717,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1351758
+    "count": 1352433
    },
    {
     "code": "FI",
-    "count": 560557
+    "count": 560566
    },
    {
     "code": "GB",
@@ -166,11 +166,11 @@
    },
    {
     "code": "NL",
-    "count": 278236
+    "count": 278527
    },
    {
     "code": "NO",
-    "count": 200260
+    "count": 200440
    },
    {
     "code": "DK",
@@ -178,7 +178,7 @@
    },
    {
     "code": "FR",
-    "count": 169682
+    "count": 170215
    },
    {
     "code": "AX",
@@ -186,20 +186,18 @@
    },
    {
     "code": "DE",
-    "count": 89284
+    "count": 89649
    },
    {
     "code": "BE",
     "count": 88062
    },
    {
-    "code": "IT",
-    "count": 36367
+    "code": "CH",
+    "count": 87447
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "tringa-stagnatilis",
  "name": "Tringa stagnatilis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:09.313Z",
+ "fetchedAt": "2026-11-17T19:43:33.877Z",
  "names": {
   "da": "Damklire",
   "en": "Marsh Sandpiper",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 3881,
-  "observations": 11070
+  "observations": 11117
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 363977993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363977993/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363977993/large.jpeg",
+    "attribution": "(c) Lyudmila Minina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/205823797",
+    "place": "Borskiy rayon, RU-NZ, RU",
+    "date": "2023-06-23"
+   },
    {
     "id": 565156192,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565156192/medium.jpg",
@@ -44,57 +54,47 @@
     "source": "https://www.inaturalist.org/observations/308364965",
     "place": "Colyford, Colyton EX24 6QP, UK",
     "date": "2025-08-22"
-   },
-   {
-    "id": 691555146,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691555146/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691555146/large.jpg",
-    "attribution": "(c) kkrivoruchko, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/378140066",
-    "place": "Карасукский р-н, Новосибирская обл., Россия",
-    "date": "2026-06-14"
    }
   ],
   "adult": [
    {
-    "id": 515695188,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515695188/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515695188/large.jpg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286833856",
-    "place": "Лотошино муниципальный округ, Московская обл., Россия",
-    "date": "2025-06-04"
+    "id": 368804503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/368804503/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/368804503/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208442689",
+    "place": "Ушерско, Новгородская обл., Россия, 173020",
+    "date": "2024-04-21"
    },
    {
-    "id": 659033860,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659033860/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659033860/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/361126132",
-    "place": "Челябинская обл., Россия, 456891",
-    "date": "2026-05-13"
+    "id": 57334917,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57334917/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57334917/large.jpg",
+    "attribution": "(c) Stephen Cox, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36282404",
+    "place": "Point Wilson VIC 3212, Australia",
+    "date": "2019-11-27"
    },
    {
-    "id": 515692559,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515692559/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515692559/large.jpg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286832295",
-    "place": "Лотошино муниципальный округ, Московская обл., Россия",
-    "date": "2025-06-04"
+    "id": 123250846,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123250846/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123250846/large.jpg",
+    "attribution": "(c) Dina Nesterkova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/75346825",
+    "place": "Kamenskiy rayon, Sverdlovsk, Russia",
+    "date": "2021-04-25"
    }
   ],
   "hero": {
-   "id": 120840780,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120840780/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120840780/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/120840780",
+   "id": 337986353,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337986353/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337986353/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/337986353",
    "place": null,
    "date": null
   }
@@ -116,7 +116,7 @@
    0,
    0
   ],
-  "worldTotal": 308488,
+  "worldTotal": 308524,
   "topCountries": [
    {
     "code": "TW",
@@ -124,7 +124,7 @@
    },
    {
     "code": "IN",
-    "count": 43076
+    "count": 43080
    },
    {
     "code": "AU",
@@ -132,7 +132,7 @@
    },
    {
     "code": "ZA",
-    "count": 21190
+    "count": 21191
    },
    {
     "code": "IL",
@@ -144,11 +144,11 @@
    },
    {
     "code": "NL",
-    "count": 10168
+    "count": 10169
    },
    {
     "code": "SE",
-    "count": 9953
+    "count": 9955
    },
    {
     "code": "CN",
@@ -160,7 +160,7 @@
    },
    {
     "code": "RU",
-    "count": 5935
+    "count": 5936
    },
    {
     "code": "LK",
@@ -168,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

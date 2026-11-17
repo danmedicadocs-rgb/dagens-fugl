@@ -2,7 +2,7 @@
  "key": "baeolophus-bicolor",
  "name": "Baeolophus bicolor",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:55.895Z",
+ "fetchedAt": "2026-11-17T20:22:09.798Z",
  "names": {
   "da": "Toppet Topmejse",
   "en": "Tufted Titmouse",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 13632,
-  "observations": 99894
+  "observations": 100143
  },
  "photos": {
   "male": [
    {
-    "id": 281927726,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281927726/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281927726/large.jpeg",
-    "attribution": "(c) James Weaver, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/163026043",
-    "place": "Virginia, US",
-    "date": "2023-05-21"
+    "id": 33793583,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33793583/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33793583/large.jpeg",
+    "attribution": "(c) Ty Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21815152",
+    "place": "Lunenburg County, VA, USA",
+    "date": "2019-03-30"
    },
    {
-    "id": 264409367,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409367/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409367/large.jpg",
-    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/153113958",
-    "place": "Keene, TX, USA",
-    "date": "2023-04-01"
+    "id": 34414874,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34414874/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34414874/large.png",
+    "attribution": "(c) Tre Nichols, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/22224814",
+    "place": "Arms Forest",
+    "date": "2019-04-07"
    },
    {
-    "id": 247538524,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247538524/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247538524/large.jpeg",
-    "attribution": "(c) Matthew Gerke, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/144248895",
-    "place": "Lanier Heights, Washington, DC 20009, USA",
-    "date": "2022-12-12"
+    "id": 473490033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473490033/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473490033/large.jpeg",
+    "attribution": "(c) parrott-d, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263554635",
+    "place": "Damon, TX 77430, USA",
+    "date": "2025-03-01"
    }
   ],
   "female": [
+   {
+    "id": 540221910,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540221910/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540221910/large.jpg",
+    "attribution": "(c) Miriam, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/299848529",
+    "place": "Adams Township, IN, USA",
+    "date": "2025-07-19"
+   },
    {
     "id": 264409175,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264409175/medium.jpg",
@@ -66,65 +76,55 @@
     "date": "2023-04-01"
    },
    {
-    "id": 140511327,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140511327/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140511327/large.jpeg",
-    "attribution": "(c) ncb1221, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/85403563",
-    "place": "Louisiana, US",
-    "date": "2021-07-02"
-   },
-   {
-    "id": 259501680,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259501680/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259501680/large.jpg",
-    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/150488190",
-    "place": "S1 County Hwy K, Fall Creek, WI 54742, USA",
-    "date": "2022-08-01"
+    "id": 89594480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89594480/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89594480/large.jpeg",
+    "attribution": "(c) hornwort, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/56230959",
+    "place": "Mansfield Center, Mansfield, CT, USA",
+    "date": "2020-08-12"
    }
   ],
   "juvenile": [
    {
-    "id": 681321366,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681321366/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681321366/large.jpg",
-    "attribution": "(c) Ken Clark, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/372832963",
-    "place": "Fayetteville, AR, USA",
-    "date": "2026-06-17"
+    "id": 211032827,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211032827/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211032827/large.jpg",
+    "attribution": "(c) martharosetta, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124501390",
+    "place": "Bear Island, Potomac, MD, US",
+    "date": "2022-07-02"
    },
    {
-    "id": 37420747,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37420747/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/37420747/large.jpeg",
-    "attribution": "(c) Valerie Anderson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/24199451",
-    "place": "St Cloud, FL, USA",
-    "date": "2019-04-30"
+    "id": 682985411,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682985411/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682985411/large.jpg",
+    "attribution": "(c) Garrett Adamtsev, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/373708206",
+    "place": "Westfield, MA 01085, USA",
+    "date": "2026-06-19"
    },
    {
-    "id": 549176501,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549176501/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549176501/large.jpg",
-    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/304623325",
-    "place": "Webster, NY, US",
-    "date": "2025-08-07"
+    "id": 525163872,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525163872/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525163872/large.jpg",
+    "attribution": "(c) Yana Safonova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291865531",
+    "place": "State College, PA, USA",
+    "date": "2025-06-21"
    }
   ],
   "hero": {
-   "id": 107992898,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107992898/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107992898/large.jpg",
-   "attribution": "no rights reserved, uploaded by David Bird",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/107992898",
+   "id": 178382206,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178382206/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178382206/large.jpeg",
+   "attribution": "(c) Stephen Taylor, some rights reserved (CC BY-NC), uploaded by Stephen Taylor",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/178382206",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 13475656,
+  "worldTotal": 13475655,
   "topCountries": [
    {
     "code": "US",
@@ -173,10 +173,6 @@
     "count": 1
    },
    {
-    "code": "DE",
-    "count": 1
-   },
-   {
     "code": "GR",
     "count": 1
    },
@@ -186,8 +182,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -202,5 +196,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

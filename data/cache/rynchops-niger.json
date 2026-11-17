@@ -2,7 +2,7 @@
  "key": "rynchops-niger",
  "name": "Rynchops niger",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:57.529Z",
+ "fetchedAt": "2026-11-17T20:25:38.708Z",
  "names": {
   "da": "Amerikansk Saksnæb",
   "en": "Black Skimmer",
@@ -19,63 +19,104 @@
  },
  "inat": {
   "id": 4496,
-  "observations": 26152
+  "observations": 26227
  },
  "photos": {
   "male": [
    {
-    "id": 193770074,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/large.jpg",
-    "attribution": "(c) Aitor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/114772692",
-    "place": "Bahía de Panamá, Panama City, Provincia de Panamá, PA",
-    "date": "2022-05-01"
+    "id": 34919984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34919984/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34919984/large.jpg",
+    "attribution": "(c) Kate Goodenough, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/22539123",
+    "place": "Manu, PE-MD-MU, PE-MD, PE",
+    "date": "2018-07-23"
+   },
+   {
+    "id": 71696061,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71696061/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71696061/large.jpg",
+    "attribution": "(c) Ty Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45219673",
+    "place": "Point Comfort Ave, Hampton, VA, US",
+    "date": "2020-05-03"
+   },
+   {
+    "id": 48631594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48631594/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48631594/large.jpeg",
+    "attribution": "(c) Pablo Balduvino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/31095199",
+    "place": "Playa Penino, San José, Uruguay",
+    "date": "2018-05-01"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 711797534,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711797534/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711797534/large.jpg",
+    "attribution": "(c) kyva, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388631247",
+    "place": "Sarasota, FL 34236, USA",
+    "date": "2026-08-05"
+   },
+   {
+    "id": 48631668,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48631668/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48631668/large.jpeg",
+    "attribution": "(c) Pablo Balduvino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/31095201",
+    "place": "Playa Penino, San José, Uruguay",
+    "date": "2018-05-01"
+   }
+  ],
   "juvenile": [
    {
-    "id": 10460971,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10460971/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10460971/large.jpeg",
-    "attribution": "(c) Ben Machado, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/7925289",
-    "place": "Miami-Dade County, FL, USA",
-    "date": "2017-09-14"
+    "id": 240252646,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240252646/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240252646/large.jpeg",
+    "attribution": "(c) C. Phillips, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/140359679",
+    "place": "10980 Heckscher Dr, Jacksonville, FL 32226, USA",
+    "date": "2021-08-19"
    },
    {
-    "id": 540216993,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540216993/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540216993/large.jpg",
-    "attribution": "(c) Dmitry Mozzherin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/299846002",
-    "place": "Lido Beach, NY, USA",
-    "date": "2006-08-18"
+    "id": 107811299,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107811299/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107811299/large.jpg",
+    "attribution": "(c) lightning_whelk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/223058147",
+    "place": "Perdido Key, AL, US",
+    "date": "2020-07-25"
    },
    {
-    "id": 296511234,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296511234/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296511234/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/170913678",
-    "place": "IND HBR BCH, FL 32937, USA",
-    "date": "2023-07-03"
+    "id": 603523774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603523774/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603523774/large.jpg",
+    "attribution": "(c) Claudia Jeannette Pérez Estrada, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/332541260",
+    "place": "La Paz, MX-BS, MX",
+    "date": "2025-07-19"
    }
   ],
   "hero": {
-   "id": 193770074,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/193770074/large.jpg",
-   "attribution": "(c) Aitor, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/114772692",
-   "place": "Bahía de Panamá, Panama City, Provincia de Panamá, PA",
-   "date": "2022-05-01"
+   "id": 227666105,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227666105/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227666105/large.jpg",
+   "attribution": "(c) Scott, some rights reserved (CC BY-NC), uploaded by Scott",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/227666105",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,11 +136,11 @@
    0,
    0
   ],
-  "worldTotal": 547682,
+  "worldTotal": 547685,
   "topCountries": [
    {
     "code": "US",
-    "count": 456281
+    "count": 456282
    },
    {
     "code": "CL",
@@ -107,7 +148,7 @@
    },
    {
     "code": "BR",
-    "count": 13416
+    "count": 13419
    },
    {
     "code": "PE",
@@ -147,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

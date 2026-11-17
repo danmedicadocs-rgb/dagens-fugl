@@ -2,7 +2,7 @@
  "key": "momotus-momota",
  "name": "Momotus momota",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:03.545Z",
+ "fetchedAt": "2026-11-17T20:25:43.846Z",
  "names": {
   "da": "Rubinmotmot",
   "en": "Blue-crowned Motmot",
@@ -19,10 +19,31 @@
  },
  "inat": {
   "id": 204447,
-  "observations": 1458
+  "observations": 1461
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 556954704,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954704/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556954704/large.jpg",
+    "attribution": "(c) Abraão Arthur N.S, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308695884",
+    "place": "Alto de São Marcos, Barra de São Miguel - AL, 57180-000, Brasil",
+    "date": "2025-08-24"
+   },
+   {
+    "id": 451192708,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451192708/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451192708/large.jpeg",
+    "attribution": "(c) Matheus Estevam, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252087862",
+    "place": "Parque Municipal de Maceió - R. Marquês de Abrantes, s/n - Bebedouro, Maceió - AL, 57018-655, Brasil",
+    "date": "2024-11-17"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
@@ -34,47 +55,35 @@
     "source": "https://www.inaturalist.org/observations/337114619",
     "place": "Miranda - MS, 79380-000, Brasil",
     "date": "2026-01-30"
-   }
-  ],
-  "adult": [
-   {
-    "id": 358895811,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358895811/large.jpeg",
-    "attribution": "(c) Edwin Rivera Millán, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/203157050",
-    "place": "Vereda Valle de Mesetas Sector 1, Villavicencio, Meta, Colombia",
-    "date": "2024-03-19"
    },
    {
-    "id": 334795863,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334795863/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334795863/large.jpeg",
-    "attribution": "(c) Griffin Anderson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/150076921",
-    "place": "96QQ+83 Maceió",
-    "date": "2023-03-02"
+    "id": 170114278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170114278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170114278/large.jpg",
+    "attribution": "(c) Laurent Quéno, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101835190",
+    "place": "Anápolis City, Anápolis - GO, Brésil",
+    "date": "2013-11-09"
    },
    {
-    "id": 200746055,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/200746055/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/200746055/large.jpeg",
-    "attribution": "(c) Renato Moraes, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/118792411",
-    "place": "Taboca, São Félix do Xingu - PA, 68380-000, Brasil",
-    "date": "2022-05-23"
+    "id": 170632324,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170632324/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170632324/large.jpg",
+    "attribution": "(c) Laurent Quéno, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102111999",
+    "place": "Anápolis City, Anápolis - GO, Brésil",
+    "date": "2021-11-28"
    }
   ],
   "hero": {
-   "id": 586648885,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586648885/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586648885/large.jpg",
-   "attribution": "(c) Donald Davesne, some rights reserved (CC BY), uploaded by Donald Davesne",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/586648885",
+   "id": 475620583,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/475620583/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/475620583/large.jpg",
+   "attribution": "(c) eduardovieira17, some rights reserved (CC BY-NC), uploaded by eduardovieira17",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/475620583",
    "place": null,
    "date": null
   }
@@ -96,11 +105,11 @@
    0,
    0
   ],
-  "worldTotal": 52027,
+  "worldTotal": 52057,
   "topCountries": [
    {
     "code": "BR",
-    "count": 18128
+    "count": 18152
    },
    {
     "code": "CO",
@@ -148,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +171,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

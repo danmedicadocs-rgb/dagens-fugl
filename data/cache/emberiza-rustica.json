@@ -2,7 +2,7 @@
  "key": "emberiza-rustica",
  "name": "Emberiza rustica",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:28:47.558Z",
+ "fetchedAt": "2026-11-17T20:02:19.348Z",
  "names": {
   "da": "Pileværling",
   "en": "Rustic Bunting",
@@ -28,12 +28,12 @@
   "adult": [],
   "general": [],
   "hero": {
-   "id": 2616822,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2616822/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2616822/large.jpg",
-   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/2616822",
+   "id": 684147649,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684147649/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684147649/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/684147649",
    "place": null,
    "date": null
   }
@@ -55,15 +55,15 @@
    0,
    0
   ],
-  "worldTotal": 119461,
+  "worldTotal": 119465,
   "topCountries": [
    {
     "code": "FI",
-    "count": 41605
+    "count": 41604
    },
    {
     "code": "SE",
-    "count": 37349
+    "count": 37352
    },
    {
     "code": "KR",
@@ -107,8 +107,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -123,5 +121,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

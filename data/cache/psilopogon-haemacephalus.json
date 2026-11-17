@@ -2,7 +2,7 @@
  "key": "psilopogon-haemacephalus",
  "name": "Psilopogon haemacephalus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:25.245Z",
+ "fetchedAt": "2026-11-17T20:12:21.164Z",
  "names": {
   "da": "Kobbersmed",
   "en": "Coppersmith Barbet",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 367521,
-  "observations": 10830
+  "observations": 10859
  },
  "photos": {
   "male": [
+   {
+    "id": 748202217,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748202217/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748202217/large.jpg",
+    "attribution": "(c) anirudh2506nayak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407177690",
+    "place": "Sobha Coral, A-101, Jakkuru, Bengaluru, Karnataka 560064, India",
+    "date": "2026-10-10"
+   },
+   {
+    "id": 622419631,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/622419631/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/622419631/large.jpg",
+    "attribution": "(c) Chatuphon Sawasdee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341854130",
+    "place": "Ban Klang, Mueang Pathum Thani District, Pathum Thani 12000, Thailand",
+    "date": "2026-03-06"
+   },
    {
     "id": 56635826,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56635826/medium.jpeg",
@@ -32,58 +52,79 @@
     "source": "https://www.inaturalist.org/observations/35880331",
     "place": "Tha Wasukri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000, Thailand",
     "date": "2019-11-20"
-   },
-   {
-    "id": 309304514,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309304514/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309304514/large.jpeg",
-    "attribution": "(c) Seno Nur Rohman, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/177818447",
-    "place": "Dramaga, Bogor Regency, West Java, Indonesia",
-    "date": "2023-04-01"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 379684235,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379684235/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379684235/large.jpg",
+    "attribution": "(c) Татьяна Химера, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197228344",
+    "place": "Pho Hak, Bang Phae District, Ratchaburi, Таиланд",
+    "date": "2024-01-20"
+   },
+   {
+    "id": 603806600,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603806600/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603806600/large.jpg",
+    "attribution": "(c) Anjoe Shaiju, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/332679162",
+    "place": "Q3MX+H89, PSP Nagar, Korampallam, Thoothukudi, Tamil Nadu 628101, India",
+    "date": "2025-12-30"
+   },
+   {
+    "id": 352567189,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352567189/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352567189/large.jpg",
+    "attribution": "(c) labster, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199887787",
+    "place": "Datu Odin Sinsuat, Maguindanao, Philippines",
+    "date": "2024-02-20"
+   }
+  ],
   "juvenile": [
    {
-    "id": 642223871,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/642223871/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/642223871/large.jpg",
-    "attribution": "(c) sucker69420, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/351903051",
-    "place": "Dong Hoa, Ho Chi Minh City, Binh Duong, Vietnam",
-    "date": "2026-03-07"
+    "id": 490963751,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490963751/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490963751/large.jpeg",
+    "attribution": "(c) Sam Hambly, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/272897962",
+    "place": "Khlong Toei, Bangkok, Thailand",
+    "date": "2025-04-25"
    },
    {
-    "id": 201976080,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201976080/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201976080/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/119490017",
-    "place": "Behind Water Tank, Mahatma Nagar, Parijat Nagar, Nashik, Maharashtra, India",
-    "date": "2022-04-27"
+    "id": 390276278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/390276278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/390276278/large.jpg",
+    "attribution": "(c) sanjeevshevade, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/220432733",
+    "place": "Central Railway Colony, Parsee Colony, Dadar, Mumbai, Maharashtra, India",
+    "date": "2011-04-14"
    },
    {
-    "id": 675391433,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675391433/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675391433/large.jpg",
-    "attribution": "(c) Ajay, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/369735369",
-    "place": "VM4W+2HP, Lake, Chikkanagamangala, Karnataka 560099, India",
-    "date": "2026-06-08"
+    "id": 493751157,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493751157/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493751157/large.jpg",
+    "attribution": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/274684448",
+    "place": "ตำบล บางปูใหม่ อำเภอเมืองสมุทรปราการ สมุทรปราการ ประเทศไทย",
+    "date": "2025-04-26"
    }
   ],
   "hero": {
-   "id": 247924128,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247924128/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247924128/large.jpeg",
-   "attribution": "(c) Roland Godon, some rights reserved (CC BY), uploaded by Roland Godon",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/247924128",
+   "id": 184439367,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184439367/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184439367/large.jpg",
+   "attribution": "(c) Sam Hambly, some rights reserved (CC BY-NC), uploaded by Sam Hambly",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/184439367",
    "place": null,
    "date": null
   }
@@ -105,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 547706,
+  "worldTotal": 547707,
   "topCountries": [
    {
     "code": "IN",
-    "count": 415013
+    "count": 415014
    },
    {
     "code": "TH",
@@ -157,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "locustella-luscinioides",
  "name": "Locustella luscinioides",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:47.413Z",
+ "fetchedAt": "2026-11-17T19:54:44.206Z",
  "names": {
   "da": "Savisanger",
   "en": null,
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 116940,
-  "observations": 3174
+  "observations": 3175
  },
  "photos": {
   "male": [
+   {
+    "id": 186518942,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186518942/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186518942/large.jpeg",
+    "attribution": "(c) Pedro Beja, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110508596",
+    "place": "Aveiro, PT",
+    "date": "2022-04-05"
+   },
    {
     "id": 253757349,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/medium.png",
@@ -34,28 +44,28 @@
     "date": "2016-04-14"
    },
    {
-    "id": 13856951,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13856951/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13856951/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/10065337",
-    "place": "Aspern, 1220 Wien, Österreich",
-    "date": "2012-05-06"
-   },
-   {
-    "id": 387571148,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571148/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387571148/large.jpeg",
-    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/218993138",
-    "place": "Illmitz, BL, Österreich",
-    "date": "2024-05-13"
+    "id": 575000553,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/575000553/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/575000553/large.jpg",
+    "attribution": "(c) Anotheroutsider, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/318165705",
+    "place": "Sector 6, Bucharest, Romania",
+    "date": "2024-05-11"
    }
   ],
   "female": [],
   "juvenile": [
+   {
+    "id": 307778125,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307778125/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307778125/large.jpg",
+    "attribution": "(c) ulysse_lafond, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176994724",
+    "place": "44310 Saint-Philbert-de-Grand-Lieu, France",
+    "date": "2023-08-06"
+   },
    {
     "id": 715406752,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715406752/medium.jpg",
@@ -65,17 +75,27 @@
     "source": "https://www.inaturalist.org/observations/390490567",
     "place": "Laajalahden luonnonsuojelualue, Espoo, Uusimaa, FI",
     "date": "2026-08-12"
+   },
+   {
+    "id": 421556218,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421556218/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421556218/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/236914140",
+    "place": "Rotbav -- balta 3, Romania",
+    "date": "2024-08-18"
    }
   ],
   "hero": {
-   "id": 253757349,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253757349/large.png",
-   "attribution": "(c) carnifex, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/147467177",
-   "place": "Lobau, Wien, Österreich",
-   "date": "2016-04-14"
+   "id": 123410763,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123410763/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123410763/large.jpeg",
+   "attribution": "(c) Михаил Анурьев, some rights reserved (CC BY-NC), uploaded by Михаил Анурьев",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/123410763",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,31 +115,35 @@
    0,
    0
   ],
-  "worldTotal": 189912,
+  "worldTotal": 209844,
   "topCountries": [
    {
     "code": "ES",
-    "count": 27456
+    "count": 27458
    },
    {
     "code": "SE",
-    "count": 25323
+    "count": 25324
+   },
+   {
+    "code": "CH",
+    "count": 22665
    },
    {
     "code": "NL",
-    "count": 20884
+    "count": 20886
    },
    {
     "code": "FR",
-    "count": 19458
+    "count": 19466
    },
    {
     "code": "PL",
-    "count": 16388
+    "count": 16389
    },
    {
     "code": "DE",
-    "count": 11119
+    "count": 11237
    },
    {
     "code": "IL",
@@ -135,20 +159,14 @@
    },
    {
     "code": "CZ",
-    "count": 4885
+    "count": 4887
    },
    {
     "code": "DK",
     "count": 4743
-   },
-   {
-    "code": "HU",
-    "count": 4110
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

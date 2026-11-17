@@ -2,7 +2,7 @@
  "key": "muscicapa-striata",
  "name": "Muscicapa striata",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:24:32.640Z",
+ "fetchedAt": "2026-11-17T19:56:51.120Z",
  "names": {
   "da": "Grå fluesnapper",
   "en": "Spotted Flycatcher",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 12971,
-  "observations": 44626
+  "observations": 44637
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2026-08-03"
    },
    {
-    "id": 719218294,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/719218294/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/719218294/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/392450894",
-    "place": "Куса, Челябинская обл., Россия",
-    "date": "2026-08-18"
+    "id": 65397538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65397538/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65397538/large.jpg",
+    "attribution": "(c) Leslie Cater, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41235789",
+    "place": "Norfolk, UK",
+    "date": "2018-07-05"
    }
   ],
   "female": [
@@ -66,6 +66,16 @@
     "date": "2026-10-28"
    },
    {
+    "id": 695695526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695695526/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695695526/large.jpg",
+    "attribution": "(c) Andrea Campiotti, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/380273882",
+    "place": "Biumo Inferiore, 21100 Varese VA, Italia",
+    "date": "2026-07-11"
+   },
+   {
     "id": 132957747,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132957747/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132957747/large.jpeg",
@@ -74,19 +84,29 @@
     "source": "https://www.inaturalist.org/observations/81085130",
     "place": "Smaliavichy District, Belarus",
     "date": "2021-05-31"
-   },
-   {
-    "id": 421247031,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421247031/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421247031/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/236756134",
-    "place": "Челябинская обл., Россия, 456143",
-    "date": "2024-08-19"
    }
   ],
   "juvenile": [
+   {
+    "id": 304587484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304587484/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304587484/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175274890",
+    "place": "Oberösterreich, AT",
+    "date": "2023-07-27"
+   },
+   {
+    "id": 350316770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350316770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350316770/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198721678",
+    "place": "Сыктывкар, Респ. Коми, Россия",
+    "date": "2015-07-03"
+   },
    {
     "id": 532987272,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532987272/medium.jpg",
@@ -96,42 +116,22 @@
     "source": "https://www.inaturalist.org/observations/296030272",
     "place": "07820 Lapinjärvi, Suomi",
     "date": "2025-07-06"
-   },
-   {
-    "id": 359561969,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359561969/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359561969/large.jpeg",
-    "attribution": "(c) Tim Parker, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/203502689",
-    "place": "27367 Ahausen, Deutschland",
-    "date": "2018-07-02"
-   },
-   {
-    "id": 413868461,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/413868461/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/413868461/large.jpg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/232917953",
-    "place": "Респ. Башкортостан, Россия, 450044",
-    "date": "2024-07-23"
    }
   ],
   "hero": {
-   "id": 110513095,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110513095/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110513095/large.jpeg",
-   "attribution": "(c) Marton Berntsen, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/110513095",
+   "id": 341486440,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341486440/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341486440/large.jpeg",
+   "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC), uploaded by Valia Pavlou",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/341486440",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2492576,
-  "dkTotal": 50808,
+  "dkTotal": 50809,
   "dkMonths": [
    1,
    0,
@@ -140,25 +140,25 @@
    19118,
    8192,
    5101,
-   10288,
+   10289,
    7756,
    106,
    25,
    2
   ],
-  "worldTotal": 1411858,
+  "worldTotal": 1456806,
   "topCountries": [
    {
     "code": "SE",
-    "count": 278632
+    "count": 278696
    },
    {
     "code": "FI",
-    "count": 161003
+    "count": 161007
    },
    {
     "code": "ES",
-    "count": 144713
+    "count": 144755
    },
    {
     "code": "GB",
@@ -166,15 +166,15 @@
    },
    {
     "code": "FR",
-    "count": 90923
+    "count": 91186
    },
    {
     "code": "NO",
-    "count": 78698
+    "count": 78704
    },
    {
     "code": "NL",
-    "count": 75908
+    "count": 75946
    },
    {
     "code": "ZA",
@@ -182,24 +182,22 @@
    },
    {
     "code": "DK",
-    "count": 50808
+    "count": 50809
+   },
+   {
+    "code": "CH",
+    "count": 50711
    },
    {
     "code": "DE",
-    "count": 44060
+    "count": 45020
    },
    {
     "code": "RU",
-    "count": 24083
-   },
-   {
-    "code": "PT",
-    "count": 20426
+    "count": 24085
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

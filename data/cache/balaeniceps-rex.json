@@ -2,7 +2,7 @@
  "key": "balaeniceps-rex",
  "name": "Balaeniceps rex",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:41.536Z",
+ "fetchedAt": "2026-11-17T20:06:38.527Z",
  "names": {
   "da": "Træskonæb",
   "en": "Shoebill",
@@ -22,9 +22,71 @@
   "observations": 638
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 611913027,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611913027/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611913027/large.jpg",
+    "attribution": "(c) peter00762, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336699486",
+    "place": "Uganda",
+    "date": "2025-06-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 397783760,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397783760/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397783760/large.jpg",
+    "attribution": "(c) schlindwein, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224439689",
+    "place": "Uganda",
+    "date": "2024-05-27"
+   },
+   {
+    "id": 521254539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521254539/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521254539/large.jpg",
+    "attribution": "(c) zoonora, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/289791097",
+    "place": "Uganda",
+    "date": "2023-05-05"
+   },
+   {
+    "id": 631502121,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/631502121/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/631502121/large.jpg",
+    "attribution": "(c) justGoron, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/346445724",
+    "place": "Uganda",
+    "date": "2026-03-10"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 305772053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305772053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305772053/large.jpg",
+    "attribution": "(c) Alex Rebelo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175914295",
+    "place": "Uganda",
+    "date": "2023-03-15"
+   },
+   {
+    "id": 305772193,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305772193/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305772193/large.jpg",
+    "attribution": "(c) Alex Rebelo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175914300",
+    "place": "Uganda",
+    "date": "2023-03-15"
+   },
    {
     "id": 257766974,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766974/medium.jpeg",
@@ -34,57 +96,15 @@
     "source": "https://www.inaturalist.org/observations/149577462",
     "place": "Uganda",
     "date": "2023-02-04"
-   },
-   {
-    "id": 257766316,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766316/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257766316/large.jpeg",
-    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149577345",
-    "place": "Uganda",
-    "date": "2023-02-04"
-   }
-  ],
-  "adult": [
-   {
-    "id": 249448448,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249448448/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249448448/large.jpg",
-    "attribution": "(c) benjchristensen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145236156",
-    "place": "Uganda",
-    "date": "2021-10-16"
-   },
-   {
-    "id": 583648605,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583648605/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583648605/large.jpg",
-    "attribution": "(c) alanbedfordshaw, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/322615114",
-    "place": "Uganda",
-    "date": "2023-06-16"
-   },
-   {
-    "id": 354048708,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354048708/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354048708/large.jpg",
-    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/200652976",
-    "place": "Uganda",
-    "date": "2024-01-24"
    }
   ],
   "hero": {
-   "id": 48493625,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48493625/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48493625/large.jpeg",
-   "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY), uploaded by Annika Lindqvist",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/48493625",
+   "id": 46952988,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46952988/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46952988/large.jpg",
+   "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/46952988",
    "place": null,
    "date": null
   }
@@ -106,7 +126,7 @@
    0,
    0
   ],
-  "worldTotal": 3494,
+  "worldTotal": 3493,
   "topCountries": [
    {
     "code": "UG",
@@ -158,8 +178,8 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": null,
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

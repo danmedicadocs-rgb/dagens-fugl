@@ -2,7 +2,7 @@
  "key": "turdus-torquatus",
  "name": "Turdus torquatus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:24:28.207Z",
+ "fetchedAt": "2026-11-17T19:56:45.101Z",
  "names": {
   "da": "Ringdrossel",
   "en": "Ring Ouzel",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 12740,
-  "observations": 4765
+  "observations": 4776
  },
  "photos": {
   "male": [
    {
-    "id": 506968691,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506968691/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506968691/large.jpg",
-    "attribution": "(c) fernium, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/282191056",
-    "place": "Brecon Beacons Traverse, Llandeilo, Wales, GB",
-    "date": "2025-05-18"
+    "id": 403275599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403275599/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403275599/large.jpg",
+    "attribution": "(c) Lioneska, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/227330798",
+    "place": "542 21 Pec pod Sněžkou-Pec pod Sněžkou 1, Česko",
+    "date": "2015-06-07"
    },
    {
-    "id": 118467775,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118467775/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118467775/large.jpeg",
-    "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72640037",
-    "place": "542 25 Janské Lázně, Czechia",
-    "date": "2015-05-25"
+    "id": 289386594,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289386594/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289386594/large.jpg",
+    "attribution": "(c) Philipp salzgeber, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/167079192",
+    "place": "Feldkirch, Österreich",
+    "date": "2023-06-11"
    },
    {
-    "id": 529428466,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529428466/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529428466/large.jpg",
-    "attribution": "(c) avocat, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/294149951",
-    "place": "Velingrad, Bulgaria",
-    "date": "2025-05-28"
+    "id": 609785949,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609785949/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609785949/large.jpg",
+    "attribution": "(c) Tobias Gratzer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335647261",
+    "place": "Murtal District, Austria",
+    "date": "2025-06-20"
    }
   ],
   "female": [
+   {
+    "id": 370043656,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370043656/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370043656/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/209113908",
+    "place": "Hel, Polska",
+    "date": "2024-04-24"
+   },
+   {
+    "id": 191293266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191293266/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191293266/large.jpg",
+    "attribution": "(c) TheKakarinka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/113213579",
+    "place": "586 01 Jihlava, Česko",
+    "date": "2022-04-28"
+   },
    {
     "id": 494257555,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/494257555/medium.jpg",
@@ -64,48 +84,38 @@
     "source": "https://www.inaturalist.org/observations/275005099",
     "place": "London, UK",
     "date": "2025-04-21"
-   },
-   {
-    "id": 226555157,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226555157/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226555157/large.jpeg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/133040467",
-    "place": "Карачаево-Черкесская Республика, Россия, 369388",
-    "date": "2022-08-01"
-   },
-   {
-    "id": 267381151,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267381151/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267381151/large.jpg",
-    "attribution": "(c) carabus123, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/154728253",
-    "place": "Halblech, Bayern, DE",
-    "date": "2023-04-13"
    }
   ],
   "juvenile": [
    {
-    "id": 267381481,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267381481/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267381481/large.jpg",
-    "attribution": "(c) carabus123, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/154728393",
-    "place": "Halblech, Bayern, DE",
-    "date": "2023-04-13"
+    "id": 409864272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409864272/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409864272/large.jpeg",
+    "attribution": "(c) Kathi Brüllmeir, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/230823520",
+    "place": "Feldkirchen District, Austria",
+    "date": "2024-07-12"
    },
    {
-    "id": 712672519,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712672519/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712672519/large.jpg",
-    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/389092203",
-    "place": "Cauldron Snout/Falcon Clints, River Tees, County Durham, UK",
-    "date": "2013-06-15"
+    "id": 531700507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531700507/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531700507/large.jpg",
+    "attribution": "(c) Zuzana Kobesova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295351974",
+    "place": "Nußdorf-Debant, Österreich",
+    "date": "2023-07-04"
+   },
+   {
+    "id": 623494314,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/623494314/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/623494314/large.jpg",
+    "attribution": "(c) Felix Riegel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342387957",
+    "place": "Vihren, Pirin, Bulgarien",
+    "date": "2015-07-06"
    }
   ],
   "hero": {
@@ -136,19 +146,23 @@
    262,
    6
   ],
-  "worldTotal": 315313,
+  "worldTotal": 376104,
   "topCountries": [
    {
     "code": "SE",
-    "count": 72448
+    "count": 72451
+   },
+   {
+    "code": "CH",
+    "count": 64286
    },
    {
     "code": "NO",
-    "count": 51780
+    "count": 51794
    },
    {
     "code": "NL",
-    "count": 39408
+    "count": 39415
    },
    {
     "code": "DK",
@@ -156,7 +170,7 @@
    },
    {
     "code": "FR",
-    "count": 30487
+    "count": 30684
    },
    {
     "code": "GB",
@@ -168,19 +182,15 @@
    },
    {
     "code": "ES",
-    "count": 11262
+    "count": 11276
    },
    {
     "code": "AT",
-    "count": 5858
+    "count": 5933
    },
    {
     "code": "DE",
-    "count": 5723
-   },
-   {
-    "code": "CH",
-    "count": 4079
+    "count": 5739
    },
    {
     "code": "GE",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

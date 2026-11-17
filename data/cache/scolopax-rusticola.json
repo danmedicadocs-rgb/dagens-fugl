@@ -2,7 +2,7 @@
  "key": "scolopax-rusticola",
  "name": "Scolopax rusticola",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:12:30.430Z",
+ "fetchedAt": "2026-11-17T19:42:54.734Z",
  "names": {
   "da": "Skovsneppe",
   "en": "Eurasian Woodcock",
@@ -19,84 +19,114 @@
  },
  "inat": {
   "id": 3931,
-  "observations": 7866
+  "observations": 7903
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 203843437,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203843437/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203843437/large.jpg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120515468",
-    "place": "South Lakeland District, England, United Kingdom",
-    "date": "2007-07-07"
+    "id": 201657485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201657485/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201657485/large.jpg",
+    "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/119302781",
+    "place": "Кирово-Чепецкий р-н, Кировская обл., Россия",
+    "date": "2022-05-29"
    },
    {
-    "id": 542853053,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542853053/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542853053/large.jpg",
-    "attribution": "(c) shadow_385, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/301260134",
-    "place": "Респ. Марий Эл, Россия, 424913",
-    "date": "2025-07-24"
+    "id": 417028765,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417028765/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417028765/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/234584113",
+    "place": "Гатчинский р-н, Ленинградская обл., Россия",
+    "date": "2024-08-08"
    },
    {
-    "id": 378217606,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378217606/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378217606/large.jpeg",
-    "attribution": "(c) K.P., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/214000850",
-    "place": "Hajnówka, Polska",
-    "date": "2024-04-15"
+    "id": 278105812,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278105812/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278105812/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160917503",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2023-05-07"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 15023513,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/10748091",
-    "place": "Meise, Belgium",
-    "date": "2018-03-18"
+    "id": 626148033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626148033/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626148033/large.jpg",
+    "attribution": "(c) Jussi Kälkäinen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343125082",
+    "place": "Uusimaa, FI-ES, FI",
+    "date": "2026-03-14"
    },
    {
-    "id": 87793518,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87793518/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87793518/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/55148046",
-    "place": "North Ostrobothnia, FI-OU, FI",
-    "date": "2020-08-02"
+    "id": 402520819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/402520819/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/402520819/large.jpg",
+    "attribution": "(c) miroru, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/226933682",
+    "place": "Мошковский р-н, Новосибирская обл., Россия",
+    "date": "2024-07-01"
    },
    {
-    "id": 188544353,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188544353/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188544353/large.jpeg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111672542",
-    "place": "Вахитовский р-н, Казань, Респ. Татарстан, Россия",
-    "date": "2018-04-27"
+    "id": 409856266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409856266/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409856266/large.jpeg",
+    "attribution": "(c) Jakob Neuenschwander, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/230809461",
+    "place": "8804 Sandnessjøen, Norwegen",
+    "date": "2024-07-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 586113091,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586113091/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586113091/large.jpg",
+    "attribution": "(c) stevebailey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/323883445",
+    "place": "Derbyshire, UK",
+    "date": "2025-06-14"
+   },
+   {
+    "id": 703272874,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703272874/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703272874/large.jpg",
+    "attribution": "(c) Mel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/384203443",
+    "place": "Rebun, Hokkaido, JP",
+    "date": "2026-07-23"
+   },
+   {
+    "id": 89247398,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89247398/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89247398/large.jpg",
+    "attribution": "(c) Pentti Ketola, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/56023449",
+    "place": "Central Ostrobothnia, FI-LS, FI",
+    "date": "2018-07-27"
    }
   ],
   "hero": {
-   "id": 15023513,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15023513/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/10748091",
-   "place": "Meise, Belgium",
-   "date": "2018-03-18"
+   "id": 64987854,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64987854/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64987854/large.jpg",
+   "attribution": "(c) Roberto Ghiglia, some rights reserved (CC BY-NC), uploaded by Roberto Ghiglia",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/64987854",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,23 +146,23 @@
    4571,
    3286
   ],
-  "worldTotal": 683770,
+  "worldTotal": 686243,
   "topCountries": [
    {
     "code": "SE",
-    "count": 216217
+    "count": 216318
    },
    {
     "code": "FR",
-    "count": 143163
+    "count": 143195
    },
    {
     "code": "NO",
-    "count": 73245
+    "count": 73297
    },
    {
     "code": "GB",
-    "count": 49650
+    "count": 49649
    },
    {
     "code": "DK",
@@ -140,7 +170,7 @@
    },
    {
     "code": "FI",
-    "count": 28684
+    "count": 28689
    },
    {
     "code": "BE",
@@ -152,7 +182,7 @@
    },
    {
     "code": "NL",
-    "count": 15730
+    "count": 15783
    },
    {
     "code": "ES",
@@ -164,12 +194,10 @@
    },
    {
     "code": "DE",
-    "count": 8699
+    "count": 8751
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

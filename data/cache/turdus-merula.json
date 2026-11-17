@@ -2,7 +2,7 @@
  "key": "turdus-merula",
  "name": "Turdus merula",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:24:19.523Z",
+ "fetchedAt": "2026-11-17T19:56:33.558Z",
  "names": {
   "da": "Solsort",
   "en": "Common Blackbird",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 12716,
-  "observations": 270452
+  "observations": 271001
  },
  "photos": {
   "male": [
+   {
+    "id": 174277291,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174277291/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174277291/large.jpg",
+    "attribution": "(c) Aleksey Levashkin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104041667",
+    "place": "Приокский р-н, Нижний Новгород, Нижегородская обл., Россия",
+    "date": "2021-12-31"
+   },
    {
     "id": 31623386,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31623386/medium.jpeg",
@@ -34,59 +44,59 @@
     "date": "2019-02-17"
    },
    {
-    "id": 186757278,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186757278/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186757278/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/110684075",
-    "place": "4125 Riehen, Switzerland",
-    "date": "2022-04-06"
-   },
-   {
-    "id": 118830479,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118830479/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118830479/large.jpg",
-    "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72837794",
-    "place": "London, UK",
-    "date": "2011-11-13"
+    "id": 70657330,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70657330/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70657330/large.jpg",
+    "attribution": "(c) Massimo Martini, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/44564839",
+    "place": "Ferrara FE, Italia",
+    "date": "2020-04-14"
    }
   ],
   "female": [
    {
-    "id": 458035555,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458035555/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458035555/large.jpeg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/255575879",
-    "place": "Saburtalo, Tbilisi, Georgia",
-    "date": "2024-12-19"
+    "id": 299609865,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299609865/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299609865/large.jpg",
+    "attribution": "(c) toki999, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/172578277",
+    "place": "Münchehagen, 31547 Rehburg-Loccum, Deutschland",
+    "date": "2020-09-06"
    },
    {
-    "id": 488034688,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488034688/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488034688/large.jpeg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/271320983",
-    "place": "Saburtalo, Tbilisi, Georgia",
-    "date": "2025-04-18"
+    "id": 1186274,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1186274/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1186274/large.jpg",
+    "attribution": "(c) Gathadair, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/955809",
+    "place": "Wilton, Wellington",
+    "date": "2008-09-20"
    },
    {
-    "id": 271414865,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271414865/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/271414865/large.jpg",
-    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/156938351",
-    "place": "5000 Vila Real, Portugal",
-    "date": "2023-04-07"
+    "id": 115760860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115760860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115760860/large.jpg",
+    "attribution": "(c) johanni, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/71131902",
+    "place": "Hamburg-Nord, Hamburg, Deutschland",
+    "date": "2021-03-13"
    }
   ],
   "juvenile": [
+   {
+    "id": 238560671,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238560671/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238560671/large.jpg",
+    "attribution": "(c) Shaun Lee, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/139475151",
+    "place": "Wai O Taiki Bay, Auckland, New Zealand",
+    "date": "2022-10-21"
+   },
    {
     "id": 77803171,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77803171/medium.jpeg",
@@ -98,24 +108,14 @@
     "date": "2008-05-06"
    },
    {
-    "id": 714917576,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714917576/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714917576/large.jpg",
-    "attribution": "(c) Gianni Del Bufalo bygdb, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/390241467",
-    "place": "1^ Via Esino, 60126 Torrette AN, Italia",
-    "date": "2026-08-11"
-   },
-   {
-    "id": 539488325,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/539488325/medium.gif",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/539488325/large.gif",
-    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/299452770",
-    "place": "Karori, Wellington, New Zealand",
-    "date": "2017-12-16"
+    "id": 199703508,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199703508/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199703508/large.jpg",
+    "attribution": "(c) Jens Oldenburg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/118215281",
+    "place": "Basel, Schweiz,Kleinbasel",
+    "date": "2022-05-22"
    }
   ],
   "hero": {
@@ -131,46 +131,46 @@
  },
  "gbif": {
   "key": 2490719,
-  "dkTotal": 696686,
+  "dkTotal": 696694,
   "dkMonths": [
    76913,
    57653,
    73843,
    84173,
-   89640,
+   89645,
    68014,
    50052,
-   29320,
+   29321,
    24939,
    46827,
-   46352,
+   46354,
    48800
   ],
-  "worldTotal": 14181963,
+  "worldTotal": 14588795,
   "topCountries": [
    {
     "code": "FR",
-    "count": 2093444
+    "count": 2096416
    },
    {
     "code": "GB",
-    "count": 1837369
+    "count": 1837386
    },
    {
     "code": "SE",
-    "count": 1436281
+    "count": 1437457
    },
    {
     "code": "NL",
-    "count": 1390294
+    "count": 1391988
    },
    {
     "code": "ES",
-    "count": 1256658
+    "count": 1256789
    },
    {
     "code": "DE",
-    "count": 962897
+    "count": 975321
    },
    {
     "code": "AU",
@@ -178,28 +178,26 @@
    },
    {
     "code": "NO",
-    "count": 733359
+    "count": 733830
    },
    {
     "code": "DK",
-    "count": 696686
+    "count": 696694
+   },
+   {
+    "code": "CH",
+    "count": 469014
    },
    {
     "code": "PT",
-    "count": 464927
+    "count": 464942
    },
    {
     "code": "BE",
-    "count": 419169
-   },
-   {
-    "code": "NZ",
-    "count": 385437
+    "count": 419170
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "dawn song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

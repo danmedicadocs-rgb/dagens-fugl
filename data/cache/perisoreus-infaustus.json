@@ -2,7 +2,7 @@
  "key": "perisoreus-infaustus",
  "name": "Perisoreus infaustus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:31:05.897Z",
+ "fetchedAt": "2026-11-17T20:04:56.376Z",
  "names": {
   "da": "Lavskrige",
   "en": "Siberian Jay",
@@ -19,51 +19,61 @@
  },
  "inat": {
   "id": 8334,
-  "observations": 1543
+  "observations": 1546
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 172653670,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172653670/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172653670/large.jpeg",
+    "attribution": "(c) thehousebunting, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103193650",
+    "place": "North Ostrobothnia, FI-OU, FI",
+    "date": "2020-10-23"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 86026265,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86026265/large.jpg",
-    "attribution": "(c) Lars Falkdalen Lindahl, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/54076740",
-    "place": "Åsele SO, Sweden",
-    "date": "2019-10-20"
+    "id": 172653669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172653669/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172653669/large.jpeg",
+    "attribution": "(c) thehousebunting, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103193650",
+    "place": "North Ostrobothnia, FI-OU, FI",
+    "date": "2020-10-23"
    },
    {
-    "id": 602715946,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602715946/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602715946/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/332147657",
-    "place": "Njupeskärsleden, Särna, Dalarna County, SE",
-    "date": "2025-12-26"
+    "id": 536941314,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536941314/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536941314/large.jpg",
+    "attribution": "(c) naturalisttt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/298060893",
+    "place": "Респ. Саха (Якутия), Россия, 678202",
+    "date": "2025-07-15"
    },
    {
-    "id": 255002075,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255002075/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255002075/large.jpeg",
-    "attribution": "(c) Надежда Прыкина, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/148111502",
-    "place": "Респ. Башкортостан, Россия, 453725",
-    "date": "2023-02-05"
+    "id": 405011238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405011238/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405011238/large.jpg",
+    "attribution": "(c) naturalisttt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/228196243",
+    "place": "Респ. Саха (Якутия), Россия, 678202",
+    "date": "2024-07-09"
    }
   ],
   "hero": {
-   "id": 1629113,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1629113/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1629113/large.jpg",
-   "attribution": "(c) Ron Knight, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1629113",
+   "id": 56712,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56712/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56712/large.jpg",
+   "attribution": "(c) Rene Jakobson, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/56712",
    "place": null,
    "date": null
   }
@@ -85,19 +95,19 @@
    0,
    0
   ],
-  "worldTotal": 134457,
+  "worldTotal": 134542,
   "topCountries": [
    {
     "code": "SE",
-    "count": 62138
+    "count": 62195
    },
    {
     "code": "FI",
-    "count": 53332
+    "count": 53340
    },
    {
     "code": "NO",
-    "count": 16979
+    "count": 16999
    },
    {
     "code": "RU",
@@ -137,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +161,7 @@
   "type": "song, subsong?",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "streptopelia-turtur",
  "name": "Streptopelia turtur",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:05.682Z",
+ "fetchedAt": "2026-11-17T19:47:52.917Z",
  "names": {
   "da": "Turteldue",
   "en": "European turtle dove",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 2938,
-  "observations": 12998
+  "observations": 13005
  },
  "photos": {
   "male": [
@@ -34,66 +34,77 @@
     "date": "2020-05-04"
    },
    {
-    "id": 162076318,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162076318/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162076318/large.jpg",
-    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/97452706",
-    "place": "Serbia",
-    "date": "2021-08-03"
+    "id": 196217637,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196217637/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196217637/large.jpeg",
+    "attribution": "(c) Karolina Stąpór, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/116251154",
+    "place": "Drwinia, Polska",
+    "date": "2022-05-07"
    },
    {
-    "id": 704542889,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704542889/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704542889/large.jpg",
-    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384863882",
-    "place": "Beach Rd., Snettisham, Norfolk, UK",
-    "date": "2026-07-22"
+    "id": 181604442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181604442/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181604442/large.jpeg",
+    "attribution": "(c) Daniel Raposo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107922101",
+    "place": "Trafaria, Portugal",
+    "date": "2022-03-02"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 85224488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85224488/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85224488/large.jpeg",
+    "attribution": "(c) Daniel Raposo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/53579064",
+    "place": "Lisboa, Portugal",
+    "date": "2020-07-07"
+   }
+  ],
   "juvenile": [
    {
-    "id": 541952411,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541952411/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541952411/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/300775574",
-    "place": "Quintanalara, Burgos, España",
-    "date": "2025-07-13"
+    "id": 156471494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156471494/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/156471494/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/94333640",
+    "place": "Гатчинский р-н, Ленинградская обл., Россия",
+    "date": "2021-09-10"
    },
    {
-    "id": 293281918,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293281918/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293281918/large.jpeg",
-    "attribution": "(c) Ben Jobson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/169179752",
-    "place": "La Padilla Baja, 38292, Santa Cruz de Tenerife, Spain",
-    "date": "2023-06-24"
+    "id": 746891156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746891156/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746891156/large.jpg",
+    "attribution": "(c) Petteri Mäkelä, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406518258",
+    "place": "Western Finland, FI",
+    "date": "2026-10-07"
    },
    {
-    "id": 555921303,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555921303/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555921303/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/308152429",
-    "place": "Arcos de la Llana, Burgos, España",
-    "date": "2025-08-16"
+    "id": 423009249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/423009249/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/423009249/large.jpeg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/237669697",
+    "place": "Valencia, España",
+    "date": "2024-08-24"
    }
   ],
   "hero": {
-   "id": 130528188,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/130528188/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/130528188/large.jpeg",
-   "attribution": "(c) Mourad Harzallah, some rights reserved (CC BY), uploaded by Mourad Harzallah",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/130528188",
+   "id": 463964274,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463964274/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463964274/large.jpg",
+   "attribution": "(c) Tobias Polzer, some rights reserved (CC BY-NC), uploaded by Tobias Polzer",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/463964274",
    "place": null,
    "date": null
   }
@@ -115,15 +126,15 @@
    41,
    3
   ],
-  "worldTotal": 676868,
+  "worldTotal": 687090,
   "topCountries": [
    {
     "code": "FR",
-    "count": 250309
+    "count": 250330
    },
    {
     "code": "ES",
-    "count": 112291
+    "count": 112302
    },
    {
     "code": "GB",
@@ -135,7 +146,7 @@
    },
    {
     "code": "NL",
-    "count": 33941
+    "count": 33945
    },
    {
     "code": "BE",
@@ -147,28 +158,26 @@
    },
    {
     "code": "DE",
-    "count": 14738
+    "count": 14908
    },
    {
     "code": "IT",
-    "count": 13338
+    "count": 13362
    },
    {
     "code": "SE",
-    "count": 12678
+    "count": 12679
    },
    {
     "code": "GR",
-    "count": 11676
+    "count": 11677
    },
    {
-    "code": "TR",
-    "count": 11287
+    "code": "CH",
+    "count": 11331
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "riparia-riparia",
  "name": "Riparia riparia",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:16.132Z",
+ "fetchedAt": "2026-11-17T19:52:58.913Z",
  "names": {
   "da": "Digesvale",
   "en": "Sand Martin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 11941,
-  "observations": 28203
+  "observations": 28226
  },
  "photos": {
   "male": [
@@ -47,67 +47,67 @@
     "date": "2018-08-12"
    },
    {
-    "id": 410244877,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410244877/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410244877/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/231013313",
-    "place": "4292 Dobri dol, Bulgaria",
-    "date": "2024-07-22"
+    "id": 94502666,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94502666/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94502666/large.jpg",
+    "attribution": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59154876",
+    "place": "24369 Waabs, Deutschland",
+    "date": "2020-07-12"
    },
    {
-    "id": 684302293,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684302293/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684302293/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/374388652",
-    "place": "Lloyd Harbor, NY, USA",
-    "date": "2026-06-20"
+    "id": 248403479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248403479/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248403479/large.jpeg",
+    "attribution": "(c) Quirin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/144696919",
+    "place": "Niedersächsisches Wattenmeer, DE-NI, DE",
+    "date": "2021-08-27"
    }
   ],
   "hero": {
-   "id": 28082067,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28082067/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28082067/large.jpg",
-   "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY), uploaded by Вячеслав Юсупов",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/28082067",
+   "id": 165349740,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165349740/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165349740/large.jpg",
+   "attribution": "(c) rupperrt78, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/165349740",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2489160,
-  "dkTotal": 116982,
+  "dkTotal": 116991,
   "dkMonths": [
    0,
    0,
    109,
    14104,
-   29823,
+   29830,
    17078,
    18598,
-   24494,
-   12604,
+   24495,
+   12605,
    65,
    9,
    0
   ],
-  "worldTotal": 2412863,
+  "worldTotal": 2416504,
   "topCountries": [
    {
     "code": "US",
-    "count": 649265
+    "count": 649266
    },
    {
     "code": "GB",
-    "count": 230241
+    "count": 230243
    },
    {
     "code": "ES",
-    "count": 215490
+    "count": 215494
    },
    {
     "code": "CA",
@@ -115,27 +115,27 @@
    },
    {
     "code": "SE",
-    "count": 196244
+    "count": 196257
    },
    {
     "code": "NL",
-    "count": 152859
+    "count": 152893
    },
    {
     "code": "FI",
-    "count": 128278
+    "count": 128290
    },
    {
     "code": "DK",
-    "count": 116982
+    "count": 116991
    },
    {
     "code": "FR",
-    "count": 85696
+    "count": 85704
    },
    {
     "code": "NO",
-    "count": 84625
+    "count": 84636
    },
    {
     "code": "PL",
@@ -147,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +161,7 @@
   "type": "alarm call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

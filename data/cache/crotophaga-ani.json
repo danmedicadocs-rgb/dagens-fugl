@@ -2,7 +2,7 @@
  "key": "crotophaga-ani",
  "name": "Crotophaga ani",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:51:01.776Z",
+ "fetchedAt": "2026-11-17T20:26:53.849Z",
  "names": {
   "da": "Ani",
   "en": "Smooth-billed Ani",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 1971,
-  "observations": 18895
+  "observations": 18956
  },
  "photos": {
   "male": [
+   {
+    "id": 173622972,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173622972/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173622972/large.jpg",
+    "attribution": "(c) Rebecca Shivvers, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103701620",
+    "place": "Everglades National Park, Homestead, FL, US",
+    "date": "2021-12-26"
+   },
    {
     "id": 114344186,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114344186/medium.jpeg",
@@ -34,14 +44,14 @@
     "date": "2021-02-28"
    },
    {
-    "id": 58843184,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58843184/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58843184/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/37148570",
-    "place": "Colon, PA",
-    "date": "2019-12-31"
+    "id": 98171030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98171030/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98171030/large.jpg",
+    "attribution": "(c) Gabriel Cardoso, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/61355033",
+    "place": "Jaboticatubas - MG, 35830-000, Brasil",
+    "date": "2020-09-27"
    }
   ],
   "female": [
@@ -64,38 +74,48 @@
     "source": "https://www.inaturalist.org/observations/70347717",
     "place": "Rio Negro, Ecuador",
     "date": "2021-02-28"
+   },
+   {
+    "id": 101983286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101983286/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101983286/large.jpeg",
+    "attribution": "(c) axca, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/63539243",
+    "place": "Santa Clara, Panamá",
+    "date": "2020-10-25"
    }
   ],
   "juvenile": [
    {
-    "id": 339155418,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339155418/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339155418/large.jpg",
-    "attribution": "(c) Jay Pruett, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/193102381",
-    "place": "Isla Floreana, Galapagos Islands, Ecuador",
-    "date": "2014-06-19"
+    "id": 630104039,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630104039/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630104039/large.jpg",
+    "attribution": "(c) guilhermedomato, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/345728255",
+    "place": "Cruz de Reboucas, Igarassu, PE, BR",
+    "date": "2026-03-28"
    },
    {
-    "id": 212605073,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212605073/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212605073/large.jpg",
-    "attribution": "(c) Robin White, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/125371688",
-    "place": null,
-    "date": "2022-07-07"
+    "id": 396138935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/396138935/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/396138935/large.jpeg",
+    "attribution": "(c) Bruna, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/223564186",
+    "place": "Cumbica, Guarulhos - SP, Brasil",
+    "date": "2019-06-20"
    },
    {
-    "id": 534636478,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534636478/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534636478/large.jpg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/296894378",
-    "place": "Pevas 133, Iquitos 16002, Peru",
-    "date": "2025-07-10"
+    "id": 62660597,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62660597/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62660597/large.jpeg",
+    "attribution": "(c) Matheus M. Santos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39489848",
+    "place": "Linear Nove de Julho",
+    "date": "2020-03-01"
    }
   ],
   "hero": {
@@ -126,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 573780,
+  "worldTotal": 573785,
   "topCountries": [
    {
     "code": "CO",
@@ -134,7 +154,7 @@
    },
    {
     "code": "BR",
-    "count": 137951
+    "count": 137953
    },
    {
     "code": "EC",
@@ -142,7 +162,7 @@
    },
    {
     "code": "PA",
-    "count": 26370
+    "count": 26371
    },
    {
     "code": "PR",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

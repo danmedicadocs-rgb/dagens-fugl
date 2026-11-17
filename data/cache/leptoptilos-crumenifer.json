@@ -2,7 +2,7 @@
  "key": "leptoptilos-crumenifer",
  "name": "Leptoptilos crumenifer",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:47.855Z",
+ "fetchedAt": "2026-11-17T20:06:43.559Z",
  "names": {
   "da": "Marabustork",
   "en": "Marabou Stork",
@@ -19,53 +19,83 @@
  },
  "inat": {
   "id": 201031,
-  "observations": 8239
+  "observations": 8267
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 210031697,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210031697/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210031697/large.jpg",
+    "attribution": "(c) Frédéric LEVIEZ, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/123945033",
+    "place": "Lac Awasa, Éthiopie",
+    "date": "2007-10-23"
+   },
+   {
+    "id": 554622697,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/554622697/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/554622697/large.jpg",
+    "attribution": "(c) Marcia Morris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307481989",
+    "place": "Hawassa, Ethiopia",
+    "date": "2025-07-19"
+   },
+   {
+    "id": 624874257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624874257/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624874257/large.jpg",
+    "attribution": "(c) Frank M. Niepelt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343078528",
+    "place": "Gemu-Gofa, Äthiopien",
+    "date": "2019-04-02"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 217303165,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/large.jpg",
-    "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/127959867",
-    "place": "Nefassilk Lafto, Addis Ababa, Ethiopia",
-    "date": "2020-01-08"
+    "id": 24371593,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24371593/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24371593/large.jpg",
+    "attribution": "(c) Bird Explorers, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16237398",
+    "place": "Kilimani, Nairobi, Kenya",
+    "date": "2018-09-04"
    },
    {
-    "id": 299257539,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299257539/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299257539/large.jpeg",
-    "attribution": "(c) Thom Doeleman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/172389141",
-    "place": "Salt Lick Safari Lodge",
-    "date": "2023-06-08"
+    "id": 463538238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463538238/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463538238/large.jpg",
+    "attribution": "(c) leekelai, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258370664",
+    "place": "赞比亚利文斯敦",
+    "date": "2024-07-02"
    },
    {
-    "id": 718535782,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718535782/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718535782/large.jpg",
-    "attribution": "(c) Jono, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/392108757",
-    "place": "Lake View, Nakuru, Kenya",
-    "date": "2026-08-17"
+    "id": 647457280,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/647457280/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/647457280/large.jpg",
+    "attribution": "(c) lhd1284, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/354950946",
+    "place": "Bor, South Sudan",
+    "date": "2023-12-29"
    }
   ],
   "hero": {
-   "id": 217303165,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217303165/large.jpg",
-   "attribution": "(c) Wairambar Rainforest, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/127959867",
-   "place": "Nefassilk Lafto, Addis Ababa, Ethiopia",
-   "date": "2020-01-08"
+   "id": 606612148,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606612148/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606612148/large.jpg",
+   "attribution": "(c) ugqira52-, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/606612148",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -137,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +181,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

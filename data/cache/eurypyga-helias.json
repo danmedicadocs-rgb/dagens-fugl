@@ -2,7 +2,7 @@
  "key": "eurypyga-helias",
  "name": "Eurypyga helias",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:48:43.934Z",
+ "fetchedAt": "2026-11-17T20:24:16.150Z",
  "names": {
   "da": "Solrikse",
   "en": "Sunbittern",
@@ -19,24 +19,64 @@
  },
  "inat": {
   "id": 19,
-  "observations": 2570
+  "observations": 2576
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
    {
-    "id": 194465281,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194465281/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194465281/large.jpg",
-    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/115206247",
-    "place": "Platanillo, Provincia de Cartago, Turrialba, Costa Rica",
-    "date": "2022-04-15"
+    "id": 353448938,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353448938/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353448938/large.jpeg",
+    "attribution": "(c) Edgar Segovia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200343565",
+    "place": "Tena, Ecuador",
+    "date": "2011-11-03"
+   },
+   {
+    "id": 558303013,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558303013/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558303013/large.jpg",
+    "attribution": "(c) kwat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309395058",
+    "place": "Punto Ornitológico Mindo",
+    "date": "2025-07-20"
+   },
+   {
+    "id": 263411812,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263411812/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263411812/large.jpg",
+    "attribution": "(c) Tim Forrester, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152578324",
+    "place": "Ecuador",
+    "date": "2016-03-24"
    }
   ],
   "adult": [
+   {
+    "id": 177948733,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177948733/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177948733/large.jpg",
+    "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105982843",
+    "place": "Platanillo, Provincia de Cartago, Turrialba, Costa Rica",
+    "date": "2022-01-23"
+   },
+   {
+    "id": 318965789,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318965789/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318965789/large.jpg",
+    "attribution": "(c) Norton Santos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/182888748",
+    "place": "Estr. Transpantaneira, Km 10 - Zona Rural, Poconé - MT, 78175-000",
+    "date": "2023-08-25"
+   },
    {
     "id": 468741127,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741127/medium.jpg",
@@ -46,35 +86,15 @@
     "source": "https://www.inaturalist.org/observations/260961654",
     "place": "6826G4X2+WR",
     "date": "2019-09-04"
-   },
-   {
-    "id": 137806560,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137806560/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137806560/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/83883878",
-    "place": "Pium - TO, 77570-000, Brasil",
-    "date": "2019-11-27"
-   },
-   {
-    "id": 264005378,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264005378/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264005378/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/152898403",
-    "place": "Cocle, PA",
-    "date": "2023-03-30"
    }
   ],
   "hero": {
-   "id": 468741304,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741304/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468741304/large.jpg",
-   "attribution": "(c) Dan Vickers, some rights reserved (CC BY), uploaded by Dan Vickers",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/468741304",
+   "id": 351710027,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351710027/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351710027/large.jpg",
+   "attribution": "(c) jose2883cr, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/351710027",
    "place": null,
    "date": null
   }
@@ -96,7 +116,7 @@
    0,
    0
   ],
-  "worldTotal": 39041,
+  "worldTotal": 39042,
   "topCountries": [
    {
     "code": "CR",
@@ -104,7 +124,7 @@
    },
    {
     "code": "BR",
-    "count": 8481
+    "count": 8482
    },
    {
     "code": "CO",
@@ -148,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "ara-macao",
  "name": "Ara macao",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:28.635Z",
+ "fetchedAt": "2026-11-17T20:22:47.927Z",
  "names": {
   "da": "Lyserød Ara",
   "en": "Scarlet macaw",
@@ -19,64 +19,104 @@
  },
  "inat": {
   "id": 19022,
-  "observations": 15038
+  "observations": 15077
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 414754906,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414754906/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414754906/large.jpg",
-    "attribution": "(c) Jason Alexander, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/233382236",
-    "place": null,
-    "date": "2024-02-19"
+    "id": 141111075,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141111075/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141111075/large.jpeg",
+    "attribution": "(c) Rancho Las Guacamayas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/85732033",
+    "place": "San Luis Potosí, MX",
+    "date": "2021-06-09"
+   },
+   {
+    "id": 615265503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615265503/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615265503/large.jpg",
+    "attribution": "(c) Esteban Cabrera, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338338533",
+    "place": "Antioquia, CO",
+    "date": "2026-02-12"
+   },
+   {
+    "id": 745744463,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745744463/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745744463/large.jpg",
+    "attribution": "(c) Thay, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/405550408",
+    "place": "Atures, Amazonas, VE",
+    "date": "2026-02-13"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 591920768,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/326791432",
-    "place": "Rio Branco, BR-AC, BR",
-    "date": "2025-10-29"
+    "id": 23839891,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23839891/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23839891/large.jpeg",
+    "attribution": "(c) Rancho Las Guacamayas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15934283",
+    "place": "San Luis Potosí, MX",
+    "date": "2017-07-07"
    },
    {
-    "id": 456718272,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456718272/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456718272/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/254918218",
+    "id": 359332471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359332471/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359332471/large.jpeg",
+    "attribution": "(c) José Gómez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203383465",
+    "place": "Chiapas, MX",
+    "date": "2024-03-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 179422458,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179422458/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179422458/large.jpeg",
+    "attribution": "(c) migueljac, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106763963",
+    "place": "Chiapas, MX",
+    "date": "2021-03-16"
+   },
+   {
+    "id": 111720651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111720651/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111720651/large.jpg",
+    "attribution": "(c) dulceyareli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68922159",
+    "place": null,
+    "date": "2021-01-02"
+   },
+   {
+    "id": 150759715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150759715/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150759715/large.jpeg",
+    "attribution": "(c) raulmarin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/90704085",
     "place": "Antioquia, CO",
-    "date": "2016-02-04"
-   },
-   {
-    "id": 523869500,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523869500/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/291177977",
-    "place": "Rio Branco, BR-AC, BR",
-    "date": "2025-06-13"
+    "date": "2021-08-09"
    }
   ],
   "hero": {
-   "id": 591920768,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591920768/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/326791432",
-   "place": "Rio Branco, BR-AC, BR",
-   "date": "2025-10-29"
+   "id": 233350330,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/233350330/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/233350330/large.jpg",
+   "attribution": "(c) Matthew Patchett, some rights reserved (CC BY-NC), uploaded by Matthew Patchett",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/233350330",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -96,7 +136,7 @@
    0,
    0
   ],
-  "worldTotal": 133270,
+  "worldTotal": 133274,
   "topCountries": [
    {
     "code": "CR",
@@ -108,7 +148,7 @@
    },
    {
     "code": "CO",
-    "count": 9496
+    "count": 9497
    },
    {
     "code": "BR",
@@ -140,7 +180,7 @@
    },
    {
     "code": "MX",
-    "count": 586
+    "count": 587
    },
    {
     "code": "BO",
@@ -148,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +202,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

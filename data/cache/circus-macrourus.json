@@ -2,7 +2,7 @@
  "key": "circus-macrourus",
  "name": "Circus macrourus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:35.746Z",
+ "fetchedAt": "2026-11-17T19:38:35.137Z",
  "names": {
   "da": "Steppehøg",
   "en": "Pallid Harrier",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 5178,
-  "observations": 4928
+  "observations": 4942
  },
  "photos": {
   "male": [
+   {
+    "id": 635952880,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635952880/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635952880/large.jpg",
+    "attribution": "(c) Vladislav Iopek, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/348678496",
+    "place": "Rameshkovskiy rayon, RU-TV, RU",
+    "date": "2015-08-29"
+   },
+   {
+    "id": 637040316,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637040316/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637040316/large.jpg",
+    "attribution": "(c) Вадим Рыбаков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/349238795",
+    "place": "Kalininskiy rayon, RU-TV, RU",
+    "date": "2026-04-12"
+   },
    {
     "id": 66640272,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66640272/medium.jpeg",
@@ -32,29 +52,19 @@
     "source": "https://www.inaturalist.org/observations/41989769",
     "place": "Prionezhskiy rayon, RU-KI, RU",
     "date": "2020-04-12"
-   },
-   {
-    "id": 506883595,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506883595/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506883595/large.jpg",
-    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72514102",
-    "place": "Azraq, JO-AZ, JO",
-    "date": "2014-12-29"
-   },
-   {
-    "id": 241092396,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241092396/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241092396/large.jpeg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/140813860",
-    "place": "Karasukskiy rayon, RU-NS, RU",
-    "date": "2022-05-23"
    }
   ],
   "female": [
+   {
+    "id": 272360906,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/272360906/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/272360906/large.jpeg",
+    "attribution": "(c) Ян Адамсон, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/157528895",
+    "place": "Syktyvdinskiy rayon, RU-KO, RU",
+    "date": "2023-04-29"
+   },
    {
     "id": 231160873,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231160873/medium.jpg",
@@ -66,27 +76,37 @@
     "date": "2022-09-18"
    },
    {
-    "id": 726288065,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/726288065/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/726288065/large.jpg",
-    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/395795238",
-    "place": "Southwest Finland, FI-LS, FI",
-    "date": "2026-08-30"
-   },
-   {
-    "id": 743692580,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743692580/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743692580/large.jpg",
-    "attribution": "(c) Srivatsan Ramkumar, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/404934202",
-    "place": "Tamil Nadu, IN",
-    "date": "2026-09-28"
+    "id": 421952736,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421952736/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421952736/large.jpg",
+    "attribution": "(c) Ivan Smorkalov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/237122689",
+    "place": "Olonetskiy rayon, RU-KI, RU",
+    "date": "2024-05-05"
    }
   ],
   "juvenile": [
+   {
+    "id": 755076803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755076803/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755076803/large.jpg",
+    "attribution": "(c) Louis Arseguet, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410549891",
+    "place": "09270 Mazères, France",
+    "date": "2024-01-21"
+   },
+   {
+    "id": 759017813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/759017813/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/759017813/large.jpg",
+    "attribution": "(c) Graham Clarkson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412491452",
+    "place": "Sumner's Lane, Leyland, England, GB",
+    "date": "2026-11-02"
+   },
    {
     "id": 615674511,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615674511/medium.jpg",
@@ -96,37 +116,17 @@
     "source": "https://www.inaturalist.org/observations/338543105",
     "place": "Bhavnagar, IN-GJ, IN",
     "date": "2026-01-02"
-   },
-   {
-    "id": 481887727,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481887727/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481887727/large.jpeg",
-    "attribution": "(c) Valentin Moser, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/268112889",
-    "place": "Morocco",
-    "date": "2018-03-30"
-   },
-   {
-    "id": 736479665,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/736479665/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/736479665/large.jpg",
-    "attribution": "(c) Борис Георги, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/401271424",
-    "place": "Udmurt, RU",
-    "date": "2026-09-18"
    }
   ],
   "hero": {
-   "id": 66640272,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66640272/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66640272/large.jpeg",
-   "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/41989769",
-   "place": "Prionezhskiy rayon, RU-KI, RU",
-   "date": "2020-04-12"
+   "id": 100808178,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100808178/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/100808178/large.jpeg",
+   "attribution": "(c) Melvin Jaison, some rights reserved (CC BY-NC), uploaded by Melvin Jaison",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/100808178",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,19 +146,19 @@
    137,
    0
   ],
-  "worldTotal": 131439,
+  "worldTotal": 131653,
   "topCountries": [
    {
     "code": "SE",
-    "count": 35505
+    "count": 35588
    },
    {
     "code": "IN",
-    "count": 13622
+    "count": 13626
    },
    {
     "code": "NL",
-    "count": 11353
+    "count": 11460
    },
    {
     "code": "GE",
@@ -170,11 +170,11 @@
    },
    {
     "code": "IL",
-    "count": 7347
+    "count": 7348
    },
    {
     "code": "RU",
-    "count": 3987
+    "count": 3988
    },
    {
     "code": "KE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "alarm call, call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

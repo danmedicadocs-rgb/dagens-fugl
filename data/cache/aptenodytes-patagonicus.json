@@ -2,7 +2,7 @@
  "key": "aptenodytes-patagonicus",
  "name": "Aptenodytes patagonicus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:40:50.748Z",
+ "fetchedAt": "2026-11-17T20:14:54.971Z",
  "names": {
   "da": "Kongepingvin",
   "en": "King Penguin",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 3821,
-  "observations": 3174
+  "observations": 3233
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 531727445,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531727445/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531727445/large.jpg",
+    "attribution": "(c) Peter Orr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295367477",
+    "place": "South Georgia and the South Sandwich Islands",
+    "date": "2018-11-09"
+   },
    {
     "id": 452832438,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452832438/medium.jpeg",
@@ -44,19 +54,29 @@
     "source": "https://www.inaturalist.org/observations/340201365",
     "place": "Booth Island, Antarctica",
     "date": "2026-02-25"
-   },
-   {
-    "id": 278688711,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278688711/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278688711/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/161240884",
-    "place": "Unnamed Road,Johnson's Harbour, FIQQ 1ZZ, Islas Malvinas (Falkland Islands)",
-    "date": "2016-03-10"
    }
   ],
   "adult": [
+   {
+    "id": 455183834,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455183834/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455183834/large.jpg",
+    "attribution": "(c) Oscar Thomas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/254160994",
+    "place": "Sandy Bay, Macquarie Island",
+    "date": "2024-11-27"
+   },
+   {
+    "id": 243750848,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243750848/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243750848/large.jpg",
+    "attribution": "(c) Oscar Thomas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/142195977",
+    "place": null,
+    "date": "2022-11-15"
+   },
    {
     "id": 466892159,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466892159/medium.jpg",
@@ -66,35 +86,15 @@
     "source": "https://www.inaturalist.org/observations/260030407",
     "place": "South Georgia and the South Sandwich Islands",
     "date": "2024-12-14"
-   },
-   {
-    "id": 624891715,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624891715/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624891715/large.jpg",
-    "attribution": "(c) alanbedfordshaw, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/343087854",
-    "place": "Western Cape, South Africa",
-    "date": "2022-01-27"
-   },
-   {
-    "id": 628164566,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628164566/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628164566/large.jpg",
-    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/344736180",
-    "place": "Grande Terre, TF",
-    "date": "2023-11-27"
    }
   ],
   "hero": {
-   "id": 102542,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102542/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102542/large.jpg",
-   "attribution": "(c) Brian Gratwicke, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/102542",
+   "id": 602978114,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602978114/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602978114/large.jpg",
+   "attribution": "(c) meta4, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/602978114",
    "place": null,
    "date": null
   }
@@ -168,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +182,7 @@
   "type": "begging call, call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

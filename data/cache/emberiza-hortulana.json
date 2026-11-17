@@ -2,7 +2,7 @@
  "key": "emberiza-hortulana",
  "name": "Emberiza hortulana",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:28:26.633Z",
+ "fetchedAt": "2026-11-17T20:01:55.934Z",
  "names": {
   "da": "Hortulan",
   "en": "Ortolan Bunting",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 9196,
-  "observations": 6016
+  "observations": 6018
  },
  "photos": {
   "male": [
    {
-    "id": 666668859,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666668859/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666668859/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/365164890",
-    "place": "Высокогорский р-н, Респ. Татарстан, Россия",
-    "date": "2026-05-25"
+    "id": 289251504,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289251504/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289251504/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/167005690",
+    "place": "Hautes-Alpes, Provence-Alpes-Côte d'Azur, FR",
+    "date": "2023-06-01"
    },
    {
-    "id": 384859788,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384859788/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384859788/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/217544599",
-    "place": "Высокогорский р-н, Респ. Татарстан, Россия",
-    "date": "2024-05-22"
+    "id": 204837695,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204837695/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204837695/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/120982045",
+    "place": "Слободской р-н, Кировская обл., Россия",
+    "date": "2022-06-09"
    },
    {
-    "id": 164714240,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164714240/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164714240/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98872455",
-    "place": "Лаишевский р-н, Респ. Татарстан, Россия",
-    "date": "2014-06-15"
+    "id": 132902336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132902336/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132902336/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81052942",
+    "place": "Слободской р-н, Кировская обл., Россия",
+    "date": "2021-05-31"
    }
   ],
   "female": [
+   {
+    "id": 493532511,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493532511/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493532511/large.jpeg",
+    "attribution": "(c) Росица Делчева ППМГ Сливен, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/274539056",
+    "place": "Лозята, Сливен, България",
+    "date": "2025-04-27"
+   },
    {
     "id": 169204520,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169204520/medium.jpg",
@@ -74,37 +84,47 @@
     "source": "https://www.inaturalist.org/observations/148445449",
     "place": "4292 Dobri Dol, Bulgaria",
     "date": "2022-04-21"
-   },
-   {
-    "id": 400318897,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400318897/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400318897/large.jpg",
-    "attribution": "(c) cigazze, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/225770840",
-    "place": "Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, FR",
-    "date": "2024-06-28"
    }
   ],
   "juvenile": [
    {
-    "id": 158418946,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158418946/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158418946/large.jpg",
-    "attribution": "(c) Safina Rezeda, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/95432945",
-    "place": "Сармановский р-н, Респ. Татарстан, Россия",
-    "date": "2021-07-24"
+    "id": 305349126,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305349126/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305349126/large.jpg",
+    "attribution": "(c) Ярослав Матлаев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175687315",
+    "place": "Антрацитовский район, Луганская область, Украина",
+    "date": "2023-07-29"
+   },
+   {
+    "id": 731866623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731866623/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731866623/large.jpg",
+    "attribution": "(c) simogogo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398928950",
+    "place": "Gran Paradiso, Valle d'Aosta, IT-AO, IT",
+    "date": "2026-09-06"
+   },
+   {
+    "id": 731351711,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731351711/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731351711/large.jpg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398665532",
+    "place": "Majid Abad, District 4, Tehran, Tehran Province, Iran",
+    "date": "2023-09-14"
    }
   ],
   "hero": {
-   "id": 7936339,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7936339/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7936339/large.jpeg",
-   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/7936339",
+   "id": 14066719,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14066719/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14066719/large.jpg",
+   "attribution": "(c) Tânia Araújo, some rights reserved (CC BY-NC), uploaded by Tânia Araújo",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/14066719",
    "place": null,
    "date": null
   }
@@ -126,23 +146,23 @@
    0,
    0
   ],
-  "worldTotal": 164961,
+  "worldTotal": 165904,
   "topCountries": [
    {
     "code": "SE",
-    "count": 43584
+    "count": 43585
    },
    {
     "code": "FR",
-    "count": 23932
+    "count": 23933
    },
    {
     "code": "ES",
-    "count": 16983
+    "count": 16984
    },
    {
     "code": "FI",
-    "count": 12175
+    "count": 12177
    },
    {
     "code": "IL",
@@ -150,7 +170,7 @@
    },
    {
     "code": "TR",
-    "count": 6483
+    "count": 6485
    },
    {
     "code": "BG",
@@ -158,19 +178,19 @@
    },
    {
     "code": "NL",
-    "count": 4586
+    "count": 4588
    },
    {
     "code": "RU",
-    "count": 4554
+    "count": 4556
    },
    {
     "code": "DE",
-    "count": 4190
+    "count": 4233
    },
    {
     "code": "UA",
-    "count": 2946
+    "count": 2948
    },
    {
     "code": "PL",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

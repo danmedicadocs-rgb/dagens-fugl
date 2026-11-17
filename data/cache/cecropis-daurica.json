@@ -2,7 +2,7 @@
  "key": "cecropis-daurica",
  "name": "Cecropis daurica",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:28.060Z",
+ "fetchedAt": "2026-11-17T19:53:09.501Z",
  "names": {
   "da": "Rødrygget Svale",
   "en": "Eastern Red-rumped Swallow",
@@ -19,53 +19,63 @@
  },
  "inat": {
   "id": 144792,
-  "observations": 9369
+  "observations": 9401
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 703115982,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703115982/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703115982/large.jpg",
-    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384124071",
-    "place": "Taman Negara Sungai Relau, Taman Negara Sungai Relau, Kampung Merapuh Lama, 27210 Kuala Lipis, Pahang, Malaysia",
-    "date": "2026-02-24"
+    "id": 185745816,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185745816/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185745816/large.jpg",
+    "attribution": "(c) Geoff Walker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110138427",
+    "place": "Yungaburra QLD 4884, Australia",
+    "date": "2015-01-17"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 281156491,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281156491/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281156491/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/162595338",
-    "place": "Q55H+X74, Dapoli Camp, Maharashtra 415713, India",
-    "date": "2023-05-19"
+    "id": 185745829,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185745829/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185745829/large.jpg",
+    "attribution": "(c) Geoff Walker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110138429",
+    "place": "Yungaburra QLD 4884, Australia",
+    "date": "2015-01-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 293211482,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293211482/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293211482/large.jpeg",
+    "attribution": "(c) emanon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169141662",
+    "place": "中國陝西省漢中市漢台區",
+    "date": "2023-06-07"
    },
    {
-    "id": 527457753,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527457753/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527457753/large.jpg",
-    "attribution": "(c) Jiao Sun (孙娇), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293066332",
-    "place": "X9CG+C99, Zhucheng, Weifang, Shandong, China, 262201",
-    "date": "2025-06-08"
+    "id": 373049264,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/373049264/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/373049264/large.jpeg",
+    "attribution": "(c) sreenivasan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/210961214",
+    "place": "Konnakuzhy",
+    "date": "2024-04-28"
    },
    {
-    "id": 529133943,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529133943/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529133943/large.jpg",
-    "attribution": "(c) Ashwin A, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293990280",
-    "place": "Malampuzha Dam",
-    "date": "2025-06-29"
+    "id": 237318820,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237318820/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237318820/large.jpeg",
+    "attribution": "(c) Von Fabian B, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/138814433",
+    "place": "Pynursla, Meghalaya 793110, India",
+    "date": "2022-10-09"
    }
   ],
   "hero": {
@@ -96,11 +106,11 @@
    0,
    0
   ],
-  "worldTotal": 424312,
+  "worldTotal": 424320,
   "topCountries": [
    {
     "code": "IN",
-    "count": 204538
+    "count": 204539
    },
    {
     "code": "TW",
@@ -128,7 +138,7 @@
    },
    {
     "code": "JP",
-    "count": 4819
+    "count": 4821
    },
    {
     "code": "ID",
@@ -148,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +172,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "mycteria-leucocephala",
  "name": "Mycteria leucocephala",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:43.610Z",
+ "fetchedAt": "2026-11-17T20:12:35.941Z",
  "names": {
   "da": "Indisk Skovstork",
   "en": "Painted Stork",
@@ -19,10 +19,31 @@
  },
  "inat": {
   "id": 4743,
-  "observations": 10663
+  "observations": 10705
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 434798992,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434798992/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434798992/large.jpeg",
+    "attribution": "(c) Macy Krishnamoorthy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243807247",
+    "place": "Kelambakam Kovalam Road, Chengalpattu, TN, IN",
+    "date": "2024-09-24"
+   },
+   {
+    "id": 499793189,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499793189/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499793189/large.jpeg",
+    "attribution": "(c) Abhishek Dhokare, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278346639",
+    "place": "23XM+8V7 Kharghar Water Body, behind Celebrations CHS, Sector 17, Kharghar, Navi Mumbai, Maharashtra 410210, India",
+    "date": "2025-05-04"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
@@ -36,65 +57,33 @@
     "date": "2018-03-14"
    },
    {
-    "id": 488548963,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488548963/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488548963/large.jpg",
-    "attribution": "(c) Teja Yantrapalli, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/271593893",
-    "place": "Brahmamgarimattam, YSR, Andhra Pradesh, IN",
-    "date": "2025-04-19"
+    "id": 609913481,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609913481/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609913481/large.jpg",
+    "attribution": "(c) Karthik, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335707698",
+    "place": "Bharatpur, Rajasthan, India",
+    "date": "2025-11-04"
    },
    {
-    "id": 499714279,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499714279/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499714279/large.jpg",
-    "attribution": "(c) Teja Yantrapalli, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/278302324",
-    "place": "Brahmamgarimattam, YSR, Andhra Pradesh, IN",
-    "date": "2025-05-04"
-   }
-  ],
-  "adult": [
-   {
-    "id": 107822986,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107822986/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107822986/large.jpeg",
-    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66828689",
-    "place": "Thippuru Gatbaipalya, Bengaluru, Karnataka 560082, India",
-    "date": "2020-12-19"
-   },
-   {
-    "id": 306698779,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306698779/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306698779/large.jpg",
-    "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/176410229",
-    "place": "Kachchh, IN-GJ, IN",
-    "date": "2021-12-05"
-   },
-   {
-    "id": 243474656,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243474656/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243474656/large.jpeg",
-    "attribution": "(c) Aryan K, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/142049915",
-    "place": "Balewadi, Pune, Maharashtra, India",
-    "date": "2022-11-15"
+    "id": 273111662,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273111662/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273111662/large.jpeg",
+    "attribution": "(c) Sunchai Wiroonhapon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/157996035",
+    "place": "สวนจิตรลดา",
+    "date": "2023-04-29"
    }
   ],
   "hero": {
-   "id": 271260000,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271260000/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/271260000/large.jpeg",
-   "attribution": "(c) Livson Thomas, some rights reserved (CC BY), uploaded by Livson Thomas",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/271260000",
+   "id": 84838910,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84838910/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84838910/large.jpeg",
+   "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC), uploaded by Rujuta Vinod",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/84838910",
    "place": null,
    "date": null
   }
@@ -116,11 +105,11 @@
    0,
    0
   ],
-  "worldTotal": 204503,
+  "worldTotal": 204506,
   "topCountries": [
    {
     "code": "IN",
-    "count": 163710
+    "count": 163712
    },
    {
     "code": "TH",
@@ -168,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

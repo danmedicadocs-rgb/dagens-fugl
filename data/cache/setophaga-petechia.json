@@ -2,7 +2,7 @@
  "key": "setophaga-petechia",
  "name": "Setophaga petechia",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:31.431Z",
+ "fetchedAt": "2026-11-17T20:17:59.079Z",
  "names": {
   "da": "Gylden Sanger",
   "en": "Mangrove Warbler",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 145238,
-  "observations": 7968
+  "observations": 7994
  },
  "photos": {
   "male": [
+   {
+    "id": 56470631,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56470631/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56470631/large.jpg",
+    "attribution": "(c) osoandino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35785848",
+    "place": "Puerto Isidro Ayora, Équateur",
+    "date": "2007-01-02"
+   },
+   {
+    "id": 352474125,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352474125/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352474125/large.jpeg",
+    "attribution": "(c) jmass, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199839517",
+    "place": "La Trinité, Martinique",
+    "date": "2024-02-19"
+   },
    {
     "id": 531404410,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531404410/medium.jpg",
@@ -32,29 +52,19 @@
     "source": "https://www.inaturalist.org/observations/295199402",
     "place": "George Town, Cayman Islands",
     "date": "2025-06-20"
-   },
-   {
-    "id": 534058722,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534058722/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534058722/large.jpg",
-    "attribution": "(c) Dan Schofield, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/296606592",
-    "place": "North Side, Cayman Islands",
-    "date": "2025-06-21"
-   },
-   {
-    "id": 210403349,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210403349/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210403349/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124153309",
-    "place": "La Trinité, Martinique",
-    "date": "2022-05-18"
    }
   ],
   "female": [
+   {
+    "id": 540897673,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540897673/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540897673/large.jpg",
+    "attribution": "(c) Eduardo Suárez Zapata, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/300211101",
+    "place": "Progreso, Yuc., México",
+    "date": "2025-07-21"
+   },
    {
     "id": 465439369,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465439369/medium.jpeg",
@@ -66,24 +76,14 @@
     "date": "2025-01-21"
    },
    {
-    "id": 102655524,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102655524/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102655524/large.jpeg",
-    "attribution": "(c) Yves Bas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/63911713",
-    "place": "Morne-a-l Eau, Guadeloupe",
-    "date": "2005-04-09"
-   },
-   {
-    "id": 285503244,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285503244/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285503244/large.jpeg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/164969667",
-    "place": "San Cristobal, Ecuador",
-    "date": "2022-07-13"
+    "id": 181280102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181280102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181280102/large.jpg",
+    "attribution": "(c) Chris Sanders, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107747828",
+    "place": "Cameron County, TX, USA",
+    "date": "2022-03-01"
    }
   ],
   "juvenile": [
@@ -98,23 +98,33 @@
     "date": "2018-03-13"
    },
    {
-    "id": 185654454,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185654454/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185654454/large.jpg",
-    "attribution": "(c) Aitor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/110087940",
-    "place": "Manglares de Costa del Este, Panama City, Provincia de Panamá, PA",
-    "date": "2022-03-31"
+    "id": 739032053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739032053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739032053/large.jpg",
+    "attribution": "(c) R. Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/402566458",
+    "place": "Caimanera, Cuba",
+    "date": "2026-09-17"
+   },
+   {
+    "id": 108805996,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108805996/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108805996/large.jpeg",
+    "attribution": "(c) Pedro D. Vernet P., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67357020",
+    "place": "P. N. Los Roques, Dependencias Federales, Venezuela",
+    "date": "2006-10-21"
    }
   ],
   "hero": {
-   "id": 241265435,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241265435/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241265435/large.jpg",
-   "attribution": "(c) Aitor, some rights reserved (CC BY), uploaded by Aitor",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/241265435",
+   "id": 548262924,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/548262924/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/548262924/large.jpg",
+   "attribution": "(c) leekelai, some rights reserved (CC BY-NC), uploaded by leekelai",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/548262924",
    "place": null,
    "date": null
   }
@@ -136,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 196380,
+  "worldTotal": 196383,
   "topCountries": [
    {
     "code": "US",
-    "count": 49576
+    "count": 49577
    },
    {
     "code": "EC",
@@ -168,7 +178,7 @@
    },
    {
     "code": "CR",
-    "count": 6618
+    "count": 6617
    },
    {
     "code": "BZ",
@@ -184,12 +194,10 @@
    },
    {
     "code": "PA",
-    "count": 3960
+    "count": 3961
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

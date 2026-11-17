@@ -2,7 +2,7 @@
  "key": "plectrophenax-nivalis",
  "name": "Plectrophenax nivalis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:28:12.965Z",
+ "fetchedAt": "2026-11-17T20:01:37.160Z",
  "names": {
   "da": "Snespurv",
   "en": "Snow Bunting",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 117059,
-  "observations": 20099
+  "observations": 20222
  },
  "photos": {
   "male": [
+   {
+    "id": 499721867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499721867/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499721867/large.jpeg",
+    "attribution": "(c) Éric Coissac, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278306475",
+    "place": "Laupvika, Lyngen kommune, Norvège",
+    "date": "2025-05-03"
+   },
    {
     "id": 67423123,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67423123/medium.jpg",
@@ -34,24 +44,14 @@
     "date": "2017-07-26"
    },
    {
-    "id": 591238255,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591238255/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591238255/large.jpg",
-    "attribution": "(c) Eva Uzdilova, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/326448463",
-    "place": "552 03 Česká Skalice, Česko",
-    "date": "2025-11-12"
-   },
-   {
-    "id": 171046914,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171046914/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171046914/large.jpeg",
-    "attribution": "(c) J Straka, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/102338828",
-    "place": "Iqaluit, NU, Canada",
-    "date": "2007-06-22"
+    "id": 35367136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35367136/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35367136/large.jpeg",
+    "attribution": "(c) Lada Malek, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/22819650",
+    "place": "Thunder Bay, ON, Canada",
+    "date": "2019-04-14"
    }
   ],
   "female": [
@@ -66,27 +66,37 @@
     "date": "2020-10-12"
    },
    {
-    "id": 158781477,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158781477/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158781477/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/95630906",
-    "place": "Aberdeenshire, UK",
-    "date": "2021-09-18"
+    "id": 598894250,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598894250/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598894250/large.jpg",
+    "attribution": "(c) nancylightfoot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330291254",
+    "place": "Indiana, US",
+    "date": "2025-12-09"
    },
    {
-    "id": 442829905,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442829905/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442829905/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/247892323",
-    "place": "La Coruña, España",
-    "date": "2024-10-17"
+    "id": 356130766,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356130766/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356130766/large.jpg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/201723397",
+    "place": "Yukon, Canada",
+    "date": "2023-06-14"
    }
   ],
   "juvenile": [
+   {
+    "id": 177841813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177841813/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177841813/large.jpg",
+    "attribution": "(c) fikjumadurinn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105926120",
+    "place": "Eastern Region, Iceland",
+    "date": "2019-07-11"
+   },
    {
     "id": 605992664,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605992664/medium.jpg",
@@ -98,33 +108,23 @@
     "date": "2025-06-13"
    },
    {
-    "id": 257426249,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257426249/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257426249/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/149395587",
-    "place": "Провиденский р-н, Чукотский автономный округ, Россия",
-    "date": "2016-07-31"
-   },
-   {
-    "id": 23314518,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23314518/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23314518/large.jpeg",
-    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/15592720",
-    "place": "Eastern Region, Iceland",
-    "date": "2018-08-13"
+    "id": 219505176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219505176/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219505176/large.jpg",
+    "attribution": "(c) cwdave, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/129185588",
+    "place": "Barrow, Utqiagvik, AK, US",
+    "date": "2022-07-30"
    }
   ],
   "hero": {
-   "id": 101706492,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101706492/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101706492/large.jpeg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/101706492",
+   "id": 113763306,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113763306/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113763306/large.jpeg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/113763306",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    11386,
    5971
   ],
-  "worldTotal": 888959,
+  "worldTotal": 889493,
   "topCountries": [
    {
     "code": "US",
@@ -158,7 +158,7 @@
    },
    {
     "code": "SE",
-    "count": 134604
+    "count": 134870
    },
    {
     "code": "DK",
@@ -166,15 +166,15 @@
    },
    {
     "code": "NO",
-    "count": 45124
+    "count": 45140
    },
    {
     "code": "NL",
-    "count": 39426
+    "count": 39641
    },
    {
     "code": "GB",
-    "count": 23879
+    "count": 23881
    },
    {
     "code": "IS",
@@ -182,11 +182,11 @@
    },
    {
     "code": "FI",
-    "count": 14056
+    "count": 14061
    },
    {
     "code": "SJ",
-    "count": 11627
+    "count": 11631
    },
    {
     "code": "RU",
@@ -194,12 +194,10 @@
    },
    {
     "code": "FR",
-    "count": 5617
+    "count": 5621
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

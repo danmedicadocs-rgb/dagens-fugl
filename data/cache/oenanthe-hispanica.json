@@ -2,7 +2,7 @@
  "key": "oenanthe-hispanica",
  "name": "Oenanthe hispanica",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:31:43.524Z",
+ "fetchedAt": "2026-11-17T20:05:37.632Z",
  "names": {
   "da": "Middelhavsstenpikker",
   "en": "Western Black-eared Wheatear",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 12825,
-  "observations": 2234
+  "observations": 2239
  },
  "photos": {
   "male": [
+   {
+    "id": 133650990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133650990/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133650990/large.jpg",
+    "attribution": "(c) Javisa Hun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81480455",
+    "place": "Zuera, Aragón, ES",
+    "date": "2021-05-29"
+   },
    {
     "id": 64425003,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64425003/medium.jpeg",
@@ -42,19 +52,19 @@
     "source": "https://www.inaturalist.org/observations/81319506",
     "place": "11510 Fitou, France",
     "date": "2018-05-11"
-   },
-   {
-    "id": 43318031,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43318031/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43318031/large.jpeg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/27815568",
-    "place": "Ibn Badis, Algérie",
-    "date": "2015-06-13"
    }
   ],
   "female": [
+   {
+    "id": 329684332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329684332/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329684332/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/188375009",
+    "place": "Świbnieńska 198, 80-680 Gdańsk, Polska",
+    "date": "2023-10-20"
+   },
    {
     "id": 64425046,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64425046/medium.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/224868228",
     "place": "Algeria",
     "date": "2024-05-09"
-   },
-   {
-    "id": 613959199,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613959199/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613959199/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/337706030",
-    "place": "Great Saltee",
-    "date": "2010-05-15"
    }
   ],
   "juvenile": [
@@ -108,23 +108,23 @@
     "date": "2017-07-16"
    },
    {
-    "id": 525771120,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525771120/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525771120/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/292182883",
-    "place": "Granada, España",
-    "date": "2025-06-23"
+    "id": 322837603,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/322837603/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/322837603/large.jpg",
+    "attribution": "(c) Javisa Hun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/184910303",
+    "place": "Zuera, Zaragoza, ES",
+    "date": "2023-06-30"
    }
   ],
   "hero": {
-   "id": 358322720,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358322720/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358322720/large.jpeg",
-   "attribution": "(c) Karsten Ste, some rights reserved (CC BY), uploaded by Karsten Ste",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/358322720",
+   "id": 450221410,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/450221410/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/450221410/large.jpeg",
+   "attribution": "(c) Javisa Hun, some rights reserved (CC BY-NC), uploaded by Javisa Hun",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/450221410",
    "place": null,
    "date": null
   }
@@ -146,23 +146,23 @@
    149,
    194
   ],
-  "worldTotal": 111509,
+  "worldTotal": 111536,
   "topCountries": [
    {
     "code": "ES",
-    "count": 36470
+    "count": 36476
    },
    {
     "code": "GR",
-    "count": 15821
+    "count": 15826
    },
    {
     "code": "IL",
-    "count": 12449
+    "count": 12445
    },
    {
     "code": "TR",
-    "count": 10424
+    "count": 10427
    },
    {
     "code": "PT",
@@ -174,7 +174,7 @@
    },
    {
     "code": "MA",
-    "count": 3346
+    "count": 3351
    },
    {
     "code": "CY",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

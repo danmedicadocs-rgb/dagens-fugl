@@ -2,7 +2,7 @@
  "key": "accipiter-nisus",
  "name": "Accipiter nisus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:46.896Z",
+ "fetchedAt": "2026-11-17T19:38:48.249Z",
  "names": {
   "da": "Spurvehøg",
   "en": "Eurasian Sparrowhawk",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 5106,
-  "observations": 55914
+  "observations": 56106
  },
  "photos": {
   "male": [
@@ -34,27 +34,47 @@
     "date": "2021-03-24"
    },
    {
-    "id": 19906041,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19906041/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19906041/large.jpg",
-    "attribution": "(c) Paul Lewis, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/13542723",
-    "place": "Maple Cross, UK",
-    "date": "2018-03-20"
+    "id": 12584240,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12584240/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12584240/large.jpg",
+    "attribution": "(c) Maurizio Bonora, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9284644",
+    "place": "Ferrara FE, Aguscello, Italia",
+    "date": "2017-08-26"
    },
    {
-    "id": 203152920,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203152920/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203152920/large.jpeg",
-    "attribution": "(c) Julia Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120131336",
-    "place": "Au-Haidhausen, München, Deutschland",
-    "date": "2022-06-01"
+    "id": 114550643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114550643/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114550643/large.jpg",
+    "attribution": "(c) Сильченко Иван Владимирович, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70459221",
+    "place": "Клюковники, Брянская обл., Россия, 242120",
+    "date": "2020-12-31"
    }
   ],
   "female": [
+   {
+    "id": 94439035,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94439035/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94439035/large.jpg",
+    "attribution": "(c) Евгений Гурьевских, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59118487",
+    "place": "Эльмаш, Екатеринбург, Свердловская обл., Россия",
+    "date": "2020-08-14"
+   },
+   {
+    "id": 266765419,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266765419/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266765419/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154390068",
+    "place": "Γαύδος, Γαύδος, Κρήτη, GR",
+    "date": "2023-04-11"
+   },
    {
     "id": 459632427,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459632427/medium.jpeg",
@@ -64,29 +84,29 @@
     "source": "https://www.inaturalist.org/observations/256365307",
     "place": "4292 Dobri dol, Bulgaria",
     "date": "2024-12-27"
-   },
-   {
-    "id": 33149141,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33149141/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33149141/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/21426530",
-    "place": "Центральный административный округ, Москва, Россия",
-    "date": "2019-03-20"
-   },
-   {
-    "id": 25369028,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25369028/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25369028/large.jpeg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/16803884",
-    "place": "Constantine, Algérie",
-    "date": "2017-12-30"
    }
   ],
   "juvenile": [
+   {
+    "id": 697058691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697058691/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697058691/large.jpg",
+    "attribution": "(c) Тимур Ильин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/380980110",
+    "place": "Советский р-н, Брянск, Брянская обл., Россия",
+    "date": "2026-06-15"
+   },
+   {
+    "id": 607408675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607408675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607408675/large.jpg",
+    "attribution": "(c) TheKakarinka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334471968",
+    "place": "Kraj Vysočina, CZ",
+    "date": "2026-01-12"
+   },
    {
     "id": 171303259,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171303259/medium.jpeg",
@@ -96,110 +116,88 @@
     "source": "https://www.inaturalist.org/observations/102472176",
     "place": "Au-Haidhausen, München, Deutschland",
     "date": "2021-06-01"
-   },
-   {
-    "id": 334353669,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334353669/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334353669/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/190695118",
-    "place": "Sutton Coldfield B76 0BN, UK",
-    "date": "2023-11-11"
-   },
-   {
-    "id": 717463848,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717463848/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717463848/large.jpg",
-    "attribution": "(c) Caroline Quinn, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/391546874",
-    "place": "Great Amwell, Ware, England, GB",
-    "date": "2026-08-15"
    }
   ],
   "hero": {
-   "id": 187277249,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187277249/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187277249/large.jpg",
-   "attribution": "(c) Stanislav Murashkin, some rights reserved (CC BY), uploaded by Stanislav Murashkin",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/187277249",
+   "id": 60499639,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60499639/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60499639/large.jpg",
+   "attribution": "(c) john.purvis, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/60499639",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480637,
-  "dkTotal": 385433,
+  "dkTotal": 385436,
   "dkMonths": [
    22197,
    18326,
    37823,
    64541,
-   37618,
+   37619,
    9786,
    11248,
-   31050,
+   31051,
    55306,
    58096,
-   23802,
+   23803,
    15362
   ],
-  "worldTotal": 3046558,
+  "worldTotal": 3070623,
   "topCountries": [
    {
     "code": "SE",
-    "count": 663370
+    "count": 663745
    },
    {
     "code": "DK",
-    "count": 385433
+    "count": 385436
    },
    {
     "code": "GB",
-    "count": 334112
+    "count": 334113
    },
    {
     "code": "FR",
-    "count": 262218
+    "count": 262363
    },
    {
     "code": "NL",
-    "count": 240528
+    "count": 240924
    },
    {
     "code": "NO",
-    "count": 203188
+    "count": 203327
    },
    {
     "code": "BE",
-    "count": 160899
+    "count": 160900
    },
    {
     "code": "DE",
-    "count": 130978
+    "count": 131748
    },
    {
     "code": "FI",
-    "count": 121132
+    "count": 121213
    },
    {
     "code": "ES",
-    "count": 110835
+    "count": 110841
    },
    {
     "code": "IL",
-    "count": 40859
+    "count": 40864
    },
    {
     "code": "IT",
-    "count": 34357
+    "count": 34441
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

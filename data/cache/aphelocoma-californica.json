@@ -2,7 +2,7 @@
  "key": "aphelocoma-californica",
  "name": "Aphelocoma californica",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:12.806Z",
+ "fetchedAt": "2026-11-17T20:21:17.758Z",
  "names": {
   "da": "Kratskade",
   "en": "California Scrub Jay",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 506118,
-  "observations": 82341
+  "observations": 82486
  },
  "photos": {
   "male": [
@@ -34,24 +34,24 @@
     "date": "2020-06-16"
    },
    {
-    "id": 125055612,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125055612/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125055612/large.jpeg",
-    "attribution": "(c) Rhonda L Broussard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/76447765",
-    "place": "Los Angeles County, CA, USA",
-    "date": "2021-05-01"
+    "id": 167823780,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167823780/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167823780/large.jpeg",
+    "attribution": "(c) John Madigan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/100542304",
+    "place": "California, US",
+    "date": "2021-11-04"
    },
    {
-    "id": 80165433,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80165433/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80165433/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/50488284",
-    "place": "bernal heights",
-    "date": "2020-06-16"
+    "id": 686415651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686415651/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686415651/large.jpg",
+    "attribution": "(c) Kai Morgan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/375472843",
+    "place": "North Valleys, Reno, NV, USA",
+    "date": "2026-06-25"
    }
   ],
   "female": [
@@ -76,17 +76,37 @@
     "date": "2020-06-05"
    },
    {
-    "id": 27199585,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27199585/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27199585/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/4080733",
-    "place": "Rancho San Antonio Open Space Preserve, CA, US",
-    "date": "2016-06-19"
+    "id": 555832372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555832372/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555832372/large.jpg",
+    "attribution": "(c) calyptecorvid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308106297",
+    "place": "California, US",
+    "date": "2025-08-21"
    }
   ],
   "juvenile": [
+   {
+    "id": 700511583,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700511583/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700511583/large.jpg",
+    "attribution": "(c) Sarah Reid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382771742",
+    "place": "Beaver St, Santa Rosa, CA, US",
+    "date": "2026-07-18"
+   },
+   {
+    "id": 139414120,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139414120/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139414120/large.jpeg",
+    "attribution": "(c) Barbara L. Wilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84797579",
+    "place": "Corvallis, OR, USA",
+    "date": "2021-06-27"
+   },
    {
     "id": 525220438,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525220438/medium.jpg",
@@ -96,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/291894481",
     "place": "California, US",
     "date": "2025-06-22"
-   },
-   {
-    "id": 40239291,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40239291/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40239291/large.jpeg",
-    "attribution": "(c) Joseph Rojas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/25943009",
-    "place": "Richmond, Portland, OR, USA",
-    "date": "2019-05-27"
-   },
-   {
-    "id": 308198921,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308198921/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308198921/large.jpg",
-    "attribution": "(c) Connor Long, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/177221679",
-    "place": "Sacramento County, US-CA, US",
-    "date": "2023-08-06"
    }
   ],
   "hero": {
-   "id": 121020674,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121020674/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121020674/large.jpg",
-   "attribution": "(c) Dawn Beattie, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/121020674",
+   "id": 52796822,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52796822/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52796822/large.jpg",
+   "attribution": "(c) Matt K, some rights reserved (CC BY-NC), uploaded by Matt K",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/52796822",
    "place": null,
    "date": null
   }
@@ -166,8 +166,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -182,5 +180,7 @@
   "type": "call, screech series, snarl, zreek",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

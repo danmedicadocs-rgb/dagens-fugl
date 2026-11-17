@@ -2,7 +2,7 @@
  "key": "lophodytes-cucullatus",
  "name": "Lophodytes cucullatus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:28.347Z",
+ "fetchedAt": "2026-11-17T20:21:34.752Z",
  "names": {
   "da": "Hjelmskallesluger",
   "en": "Hooded Merganser",
@@ -19,74 +19,84 @@
  },
  "inat": {
   "id": 7109,
-  "observations": 83279
+  "observations": 83614
  },
  "photos": {
   "male": [
    {
-    "id": 243821460,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/large.jpg",
-    "attribution": "(c) Justin Flint, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/142235980",
-    "place": "Centennial Dr, Chilliwack, BC, CA",
-    "date": "2022-11-15"
+    "id": 102345578,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102345578/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102345578/large.jpg",
+    "attribution": "(c) John D Reynolds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/63738411",
+    "place": "Greater Vancouver, CA-BC, CA",
+    "date": "2020-10-28"
    },
    {
-    "id": 365544882,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/large.jpg",
-    "attribution": "(c) Chris O'Donoghue, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/206704863",
-    "place": "Fort Richmond, Winnipeg, MB, Canada",
-    "date": "2024-04-11"
+    "id": 481035101,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481035101/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481035101/large.jpg",
+    "attribution": "(c) Matt Goff, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/267658662",
+    "place": "Swan Lake Peninsula, Sitka, AK, USA",
+    "date": "2025-03-25"
    },
    {
-    "id": 242832116,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242832116/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242832116/large.jpg",
-    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/141709612",
-    "place": "Amarillo Medical Center Park, Amarillo, TX, USA",
-    "date": "2022-10-25"
+    "id": 255189374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255189374/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255189374/large.jpeg",
+    "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/148214184",
+    "place": "Horn Pond, Woburn, MA, USA",
+    "date": "2023-02-06"
    }
   ],
   "female": [
    {
-    "id": 750105037,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750105037/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750105037/large.jpg",
-    "attribution": "(c) Thomas Boe, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/408107309",
-    "place": "Plymouth, MN, USA",
-    "date": "2024-05-15"
+    "id": 60989945,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989945/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60989945/large.jpeg",
+    "attribution": "(c) Tommy Farquhar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38380451",
+    "place": "West Arlington, Arlington, TX, USA",
+    "date": "2020-02-06"
    },
    {
-    "id": 618876441,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618876441/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618876441/large.jpg",
-    "attribution": "(c) Irina Mitine, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/340117497",
-    "place": "Dublin Blvd, Dublin, CA, US",
-    "date": "2026-02-24"
+    "id": 353005120,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353005120/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353005120/large.jpg",
+    "attribution": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200116052",
+    "place": "Tuckahoe Village West, Tuckahoe, VA, USA",
+    "date": "2024-02-16"
    },
    {
-    "id": 614251296,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614251296/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614251296/large.jpg",
-    "attribution": "(c) Kevin Anderson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/337846158",
-    "place": "Wake County, NC, USA",
-    "date": "2026-02-08"
+    "id": 454972060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454972060/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454972060/large.jpeg",
+    "attribution": "(c) Jean H., some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/254051682",
+    "place": "Fort Worth, TX, USA",
+    "date": "2024-12-01"
    }
   ],
   "juvenile": [
+   {
+    "id": 102345607,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102345607/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102345607/large.jpg",
+    "attribution": "(c) John D Reynolds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/63738411",
+    "place": "Greater Vancouver, CA-BC, CA",
+    "date": "2020-10-28"
+   },
    {
     "id": 127117700,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127117700/medium.jpg",
@@ -98,33 +108,23 @@
     "date": "2021-04-30"
    },
    {
-    "id": 487142821,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487142821/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487142821/large.jpeg",
-    "attribution": "(c) Michele Jones, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/270849142",
-    "place": "South Redlands, Redlands, CA, USA",
-    "date": "2025-04-15"
-   },
-   {
-    "id": 220401434,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220401434/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220401434/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/129672491",
-    "place": "Skagit County, WA, USA",
-    "date": "2022-07-09"
+    "id": 669524021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669524021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669524021/large.jpg",
+    "attribution": "(c) Steve Tobin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/366657987",
+    "place": "Wendell, MA, USA",
+    "date": "2026-05-26"
    }
   ],
   "hero": {
-   "id": 365544882,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/large.jpg",
-   "attribution": "(c) Chris O'Donoghue, some rights reserved (CC BY), uploaded by Chris O'Donoghue",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/365544882",
+   "id": 338791340,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338791340/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338791340/large.jpg",
+   "attribution": "(c) Jason Stovin, some rights reserved (CC BY-NC), uploaded by Jason Stovin",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/338791340",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    112,
    175
   ],
-  "worldTotal": 3119299,
+  "worldTotal": 3119310,
   "topCountries": [
    {
     "code": "US",
@@ -158,7 +158,7 @@
    },
    {
     "code": "NL",
-    "count": 5969
+    "count": 5979
    },
    {
     "code": "BE",
@@ -166,7 +166,7 @@
    },
    {
     "code": "SE",
-    "count": 996
+    "count": 998
    },
    {
     "code": "DK",
@@ -182,7 +182,7 @@
    },
    {
     "code": "GB",
-    "count": 648
+    "count": 647
    },
    {
     "code": "DE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

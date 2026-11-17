@@ -2,7 +2,7 @@
  "key": "podiceps-grisegena",
  "name": "Podiceps grisegena",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:06:06.163Z",
+ "fetchedAt": "2026-11-17T19:35:39.076Z",
  "names": {
   "da": "Gråstrubet lappedykker",
   "en": "Red-necked Grebe",
@@ -19,51 +19,71 @@
  },
  "inat": {
   "id": 4224,
-  "observations": 21570
+  "observations": 21627
  },
  "photos": {
   "male": [
    {
-    "id": 21140727,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21140727/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21140727/large.jpeg",
-    "attribution": "(c) mfeaver, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/14244814",
-    "place": "Division No. 3, AB, Canada",
-    "date": "2018-07-10"
+    "id": 194484738,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194484738/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194484738/large.jpg",
+    "attribution": "(c) Kent Ross, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/115016133",
+    "place": "New Toronto, Toronto, ON, Canada",
+    "date": "2022-05-01"
    },
    {
-    "id": 502726692,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502726692/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502726692/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/279934744",
-    "place": "Fernan Lake, Idaho 83814, USA",
-    "date": "2025-05-08"
+    "id": 498780077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498780077/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498780077/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/277783418",
+    "place": "Kirov, RU",
+    "date": "2025-04-25"
+   },
+   {
+    "id": 490224251,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490224251/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490224251/large.jpg",
+    "attribution": "(c) Вотинцевы Елена и Сергей, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/272483163",
+    "place": "Нововятский р-н, Киров, Кировская обл., Россия",
+    "date": "2025-04-23"
    }
   ],
   "female": [
    {
-    "id": 21140806,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21140806/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21140806/large.jpeg",
-    "attribution": "(c) mfeaver, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/14244868",
-    "place": "Division No. 3, AB, Canada",
-    "date": "2018-07-10"
+    "id": 194484445,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194484445/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194484445/large.jpg",
+    "attribution": "(c) Kent Ross, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/115016130",
+    "place": "New Toronto, Toronto, ON, Canada",
+    "date": "2022-05-01"
    },
    {
-    "id": 286200730,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286200730/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286200730/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/165342648",
-    "place": "Peel, Ontario, Canada",
-    "date": "2023-05-31"
+    "id": 521717118,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521717118/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521717118/large.jpg",
+    "attribution": "(c) walterofthewall, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/290035674",
+    "place": "Leduc, AB T9E 5X1, Canada",
+    "date": "2025-06-14"
+   },
+   {
+    "id": 381622825,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381622825/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381622825/large.jpeg",
+    "attribution": "(c) Cindy Lee Danyluk-Boisvert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/215824798",
+    "place": "Leduc, AB, Canada",
+    "date": "2024-05-14"
    }
   ],
   "juvenile": [
@@ -78,46 +98,46 @@
     "date": "2024-09-28"
    },
    {
-    "id": 8929534,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8929534/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8929534/large.jpg",
-    "attribution": "(c) Donald Hobern, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/6978078",
-    "place": "Hovedstaden, Denmark",
-    "date": "2017-07-08"
+    "id": 714533916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714533916/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714533916/large.jpg",
+    "attribution": "(c) sundwnr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390047110",
+    "place": "Beaumaris, Edmonton, AB, Canada",
+    "date": "2026-08-01"
    },
    {
-    "id": 78747250,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78747250/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78747250/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/49606282",
-    "place": "Tabivere, Jõgeva, Estonia",
-    "date": "2020-06-13"
+    "id": 106564186,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106564186/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106564186/large.jpeg",
+    "attribution": "(c) Bonnie Kinder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66144332",
+    "place": "Bronte, Oakville, ON, Canada",
+    "date": "2014-06-23"
    }
   ],
   "hero": {
-   "id": 21140727,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21140727/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21140727/large.jpeg",
-   "attribution": "(c) mfeaver, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/14244814",
-   "place": "Division No. 3, AB, Canada",
-   "date": "2018-07-10"
+   "id": 653469754,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/653469754/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/653469754/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/653469754",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2482051,
-  "dkTotal": 152423,
+  "dkTotal": 152424,
   "dkMonths": [
    3468,
    4559,
    21094,
    35533,
-   29934,
+   29935,
    18459,
    11922,
    7597,
@@ -126,7 +146,7 @@
    5156,
    2459
   ],
-  "worldTotal": 1116727,
+  "worldTotal": 1116890,
   "topCountries": [
    {
     "code": "US",
@@ -138,27 +158,27 @@
    },
    {
     "code": "SE",
-    "count": 211492
+    "count": 211531
    },
    {
     "code": "DK",
-    "count": 152423
+    "count": 152424
    },
    {
     "code": "NL",
-    "count": 31620
+    "count": 31660
    },
    {
     "code": "NO",
-    "count": 25149
+    "count": 25180
    },
    {
     "code": "DE",
-    "count": 13496
+    "count": 13534
    },
    {
     "code": "FI",
-    "count": 12409
+    "count": 12419
    },
    {
     "code": "GB",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

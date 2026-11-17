@@ -2,7 +2,7 @@
  "key": "gavia-arctica",
  "name": "Gavia arctica",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:05:43.600Z",
+ "fetchedAt": "2026-11-17T19:35:12.292Z",
  "names": {
   "da": "Sortstrubet lom",
   "en": "Black-throated loon",
@@ -19,78 +19,99 @@
  },
  "inat": {
   "id": 4623,
-  "observations": 7933
+  "observations": 7978
  },
  "photos": {
   "male": [
    {
-    "id": 711597438,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/large.jpg",
-    "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/388529918",
-    "place": "Värmdö, SE-ST, SE",
-    "date": "2026-08-05"
+    "id": 58104220,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58104220/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58104220/large.jpeg",
+    "attribution": "(c) Данилова Валерия, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36728854",
+    "place": "Чаунский р-н, Чукотский автономный округ, Россия",
+    "date": "2019-07-03"
    },
    {
-    "id": 254067356,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254067356/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254067356/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/147630842",
-    "place": "Челябинская обл., Россия, 456143",
-    "date": "2022-05-15"
+    "id": 524014694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524014694/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524014694/large.jpg",
+    "attribution": "(c) evgeniy_vladimirov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291255468",
+    "place": "г. Златоуст, Челябинская обл., Россия",
+    "date": "2025-06-14"
+   },
+   {
+    "id": 198886201,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198886201/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198886201/large.jpeg",
+    "attribution": "(c) Anna Karp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/117747855",
+    "place": "Saviecki Rajon, Minsk, Belarus",
+    "date": "2022-05-19"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 600023030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600023030/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600023030/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330839419",
+    "place": "Всеволожский р-н, Ленинградская обл., Россия",
+    "date": "2025-11-15"
+   }
+  ],
   "juvenile": [
    {
-    "id": 293615391,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293615391/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293615391/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/169362398",
-    "place": "озеро Серебры",
-    "date": "2023-06-24"
+    "id": 237158116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237158116/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237158116/large.jpeg",
+    "attribution": "(c) pampelun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/138729739",
+    "place": "Iława",
+    "date": "2022-10-14"
    },
    {
-    "id": 716737241,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716737241/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716737241/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/391175492",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2026-08-14"
+    "id": 758463814,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758463814/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758463814/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412245288",
+    "place": "Пеновский р-н, Тверская обл., Россия",
+    "date": "2026-10-31"
    },
    {
-    "id": 710207937,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710207937/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710207937/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/387821738",
-    "place": "Челябинская обл., Россия, 456143",
-    "date": "2026-08-03"
+    "id": 449701715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449701715/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449701715/large.jpg",
+    "attribution": "(c) Антон Михайлов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251339711",
+    "place": "Novgorod, RU",
+    "date": "2024-11-11"
    }
   ],
   "hero": {
-   "id": 711597438,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711597438/large.jpg",
-   "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/388529918",
-   "place": "Värmdö, SE-ST, SE",
-   "date": "2026-08-05"
+   "id": 437543805,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/437543805/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/437543805/large.jpg",
+   "attribution": "(c) Aleksandr Tolchkov, some rights reserved (CC BY-NC), uploaded by Aleksandr Tolchkov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/437543805",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481959,
-  "dkTotal": 43690,
+  "dkTotal": 43692,
   "dkMonths": [
    2083,
    1619,
@@ -100,28 +121,28 @@
    1485,
    1235,
    2433,
-   5549,
+   5551,
    6420,
    3872,
    2032
   ],
-  "worldTotal": 701945,
+  "worldTotal": 702200,
   "topCountries": [
    {
     "code": "SE",
-    "count": 430398
+    "count": 430568
    },
    {
     "code": "NO",
-    "count": 98750
+    "count": 98788
    },
    {
     "code": "DK",
-    "count": 43690
+    "count": 43692
    },
    {
     "code": "FI",
-    "count": 33463
+    "count": 33478
    },
    {
     "code": "GB",
@@ -129,7 +150,7 @@
    },
    {
     "code": "NL",
-    "count": 14461
+    "count": 14483
    },
    {
     "code": "EE",
@@ -137,11 +158,11 @@
    },
    {
     "code": "FR",
-    "count": 7771
+    "count": 7772
    },
    {
     "code": "DE",
-    "count": 5124
+    "count": 5128
    },
    {
     "code": "RU",
@@ -157,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "curruca-melanocephala",
  "name": "Curruca melanocephala",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:51.340Z",
+ "fetchedAt": "2026-11-17T20:03:35.030Z",
  "names": {
   "da": "Sorthovedet sanger",
   "en": null,
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 1289472,
-  "observations": 23654
+  "observations": 23736
  },
  "photos": {
   "male": [
    {
-    "id": 289588968,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289588968/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289588968/large.jpeg",
-    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/167183693",
-    "place": "Cádis, Espanha",
-    "date": "2023-06-09"
+    "id": 137128496,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137128496/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137128496/large.jpg",
+    "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/83490280",
+    "place": "Shetland Islands, UK",
+    "date": "2021-05-31"
    },
    {
-    "id": 155020668,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155020668/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155020668/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/93525270",
-    "place": "29693 La Gaspara, Málaga, Spain",
-    "date": "2021-08-26"
+    "id": 346237363,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346237363/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346237363/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196695302",
+    "place": "00-901 Warszawa, Polska",
+    "date": "2024-01-14"
    },
    {
-    "id": 278750970,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278750970/medium.gif",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278750970/large.gif",
-    "attribution": "(c) Golfopolikayak, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/161275832",
-    "place": "Provincia di Cosenza, Italia",
-    "date": "2023-05-12"
+    "id": 68457442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68457442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68457442/large.jpg",
+    "attribution": "(c) Rino Di Noto, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/43123557",
+    "place": "85030 San Martino D'agri PZ, Italia",
+    "date": "2017-10-29"
    }
   ],
   "female": [
+   {
+    "id": 585969468,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585969468/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585969468/large.jpg",
+    "attribution": "(c) Ioanna Emmanouilidou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/323806954",
+    "place": "Δημοτική Κοινότητα Λουτρών, Μυτιλήνη 811 00, Greece",
+    "date": "2025-10-29"
+   },
    {
     "id": 453921512,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453921512/medium.jpg",
@@ -74,57 +84,47 @@
     "source": "https://www.inaturalist.org/observations/53401019",
     "place": "Tindouf, Tindouf, Algeria",
     "date": "2020-01-24"
-   },
-   {
-    "id": 675569334,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675569334/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675569334/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/369832976",
-    "place": "13460 Saintes-Maries-de-la-Mer, France",
-    "date": "2026-05-24"
    }
   ],
   "juvenile": [
    {
-    "id": 273614701,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273614701/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273614701/large.jpg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/158310214",
-    "place": "El Clot, Barcelona, Spain",
-    "date": "2023-04-30"
+    "id": 545463730,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545463730/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545463730/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/302658484",
+    "place": "Cádiz, España",
+    "date": "2024-06-23"
    },
    {
-    "id": 273616069,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273616069/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273616069/large.jpg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/158310999",
-    "place": "El Clot, Barcelona, Spain",
-    "date": "2023-04-30"
+    "id": 270188755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270188755/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270188755/large.jpeg",
+    "attribution": "(c) Philippa Holdridge, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/156263826",
+    "place": "Huelva, Spain",
+    "date": "2023-04-11"
    },
    {
-    "id": 506054131,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506054131/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506054131/large.jpg",
-    "attribution": "(c) Andrea Adelfio, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/281693576",
-    "place": "Montegrillo, Perugia PG, Italia",
-    "date": "2025-05-16"
+    "id": 555536063,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555536063/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555536063/large.jpg",
+    "attribution": "(c) Claragol, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307953447",
+    "place": "Tarragona, ES-CT, ES",
+    "date": "2025-08-20"
    }
   ],
   "hero": {
-   "id": 453921587,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453921587/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453921587/large.jpg",
-   "attribution": "(c) Donald Davesne, some rights reserved (CC BY), uploaded by Donald Davesne",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/453921587",
+   "id": 556159344,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556159344/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556159344/large.jpg",
+   "attribution": "(c) Agustín Povedano, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/556159344",
    "place": null,
    "date": null
   }
@@ -146,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 1033515,
+  "worldTotal": 1033572,
   "topCountries": [
    {
     "code": "ES",
-    "count": 522230
+    "count": 522266
    },
    {
     "code": "PT",
-    "count": 243908
+    "count": 243911
    },
    {
     "code": "IL",
@@ -162,11 +162,11 @@
    },
    {
     "code": "FR",
-    "count": 50484
+    "count": 50487
    },
    {
     "code": "IT",
-    "count": 49500
+    "count": 49501
    },
    {
     "code": "GR",
@@ -174,7 +174,7 @@
    },
    {
     "code": "CY",
-    "count": 15309
+    "count": 15317
    },
    {
     "code": "TR",
@@ -182,7 +182,7 @@
    },
    {
     "code": "MA",
-    "count": 14490
+    "count": 14496
    },
    {
     "code": "PS",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

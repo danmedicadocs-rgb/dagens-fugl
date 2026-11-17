@@ -2,7 +2,7 @@
  "key": "serinus-serinus",
  "name": "Serinus serinus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:59.158Z",
+ "fetchedAt": "2026-11-17T20:01:14.185Z",
  "names": {
   "da": "Gulirisk",
   "en": "European Serin",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 9236,
-  "observations": 41420
+  "observations": 41464
  },
  "photos": {
   "male": [
+   {
+    "id": 547859710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547859710/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547859710/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/303933984",
+    "place": "Valencia, España",
+    "date": "2025-08-04"
+   },
+   {
+    "id": 656145308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656145308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656145308/large.jpg",
+    "attribution": "(c) Антон Виноградов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/359617018",
+    "place": "Кингисеппский р-н, Ленинградская обл., Россия",
+    "date": "2026-05-08"
+   },
    {
     "id": 637136521,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637136521/medium.jpg",
@@ -32,99 +52,79 @@
     "source": "https://www.inaturalist.org/observations/349283588",
     "place": "Parainen, Jurmo, Suomi",
     "date": "2026-04-12"
-   },
-   {
-    "id": 202936864,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202936864/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202936864/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120013346",
-    "place": "Guimaraes, Portugal",
-    "date": "2022-05-31"
-   },
-   {
-    "id": 196723596,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196723596/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196723596/large.jpeg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/116535398",
-    "place": "89015 Palmi RC, Italy",
-    "date": "2022-05-11"
    }
   ],
   "female": [
    {
-    "id": 151861759,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151861759/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151861759/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/91776966",
-    "place": "00042 Anzio RM, Italia",
-    "date": "2021-08-08"
+    "id": 254328003,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254328003/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254328003/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147768155",
+    "place": "Cádiz, Spain",
+    "date": "2023-01-04"
    },
    {
-    "id": 204335479,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204335479/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204335479/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/120788700",
-    "place": "Parco Nazionale della Sila",
-    "date": "2022-05-30"
+    "id": 270063776,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270063776/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270063776/large.jpeg",
+    "attribution": "(c) Pavel Šinkyřík, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/156194744",
+    "place": "684 01 Slavkov u Brna, Česko",
+    "date": "2023-04-23"
    },
    {
-    "id": 73962880,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73962880/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73962880/large.jpeg",
-    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/46634077",
-    "place": "13867 Flecchia BI, Italia",
-    "date": "2020-05-20"
+    "id": 599228876,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599228876/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599228876/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330455296",
+    "place": "Cádiz, España",
+    "date": "2015-06-16"
    }
   ],
   "juvenile": [
    {
-    "id": 705549058,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/705549058/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/705549058/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/385398577",
-    "place": "Tarragona, España",
-    "date": "2026-07-15"
+    "id": 298586550,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/298586550/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/298586550/large.jpg",
+    "attribution": "(c) Patricia Morales, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/172033340",
+    "place": "Las Cuevas de Soria, Soria, España",
+    "date": "2023-07-09"
    },
    {
-    "id": 289762213,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289762213/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289762213/large.jpeg",
-    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/167278401",
-    "place": "06800 Mérida, Badajoz, Espanha",
-    "date": "2023-06-10"
+    "id": 231702283,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231702283/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231702283/large.jpeg",
+    "attribution": "(c) Angel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/135815603",
+    "place": "Cañada de las Jarillas, Colmenar Viejo, España",
+    "date": "2022-08-18"
    },
    {
-    "id": 289702530,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289702530/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289702530/large.jpeg",
-    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/167246979",
-    "place": "06800 Mérida, Badajoz, Espanha",
-    "date": "2023-06-10"
+    "id": 576799240,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/576799240/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/576799240/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/319105748",
+    "place": "Alicante, España",
+    "date": "2025-10-03"
    }
   ],
   "hero": {
-   "id": 120307121,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120307121/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120307121/large.jpg",
-   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/120307121",
+   "id": 71763707,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71763707/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71763707/large.jpg",
+   "attribution": "(c) brian fisher, some rights reserved (CC BY-NC), uploaded by brian fisher",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/71763707",
    "place": null,
    "date": null
   }
@@ -146,31 +146,35 @@
    67,
    1
   ],
-  "worldTotal": 1847304,
+  "worldTotal": 1926623,
   "topCountries": [
    {
     "code": "ES",
-    "count": 938702
+    "count": 938769
    },
    {
     "code": "FR",
-    "count": 324329
+    "count": 325312
    },
    {
     "code": "PT",
     "count": 245615
    },
    {
+    "code": "CH",
+    "count": 91205
+   },
+   {
     "code": "DE",
-    "count": 77943
+    "count": 79156
    },
    {
     "code": "IT",
-    "count": 55245
+    "count": 55543
    },
    {
     "code": "SE",
-    "count": 23525
+    "count": 23526
    },
    {
     "code": "PL",
@@ -181,16 +185,12 @@
     "count": 18498
    },
    {
-    "code": "CH",
-    "count": 14857
+    "code": "MA",
+    "count": 14817
    },
    {
     "code": "NL",
-    "count": 14809
-   },
-   {
-    "code": "MA",
-    "count": 14742
+    "count": 14812
    },
    {
     "code": "TR",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

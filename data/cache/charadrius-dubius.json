@@ -2,7 +2,7 @@
  "key": "charadrius-dubius",
  "name": "Charadrius dubius",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:50.573Z",
+ "fetchedAt": "2026-11-17T19:41:04.722Z",
  "names": {
   "da": "Lille præstekrave",
   "en": "Little Ringed Plover",
@@ -28,25 +28,25 @@
   "adult": [],
   "general": [],
   "hero": {
-   "id": 70651798,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70651798/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70651798/large.jpg",
-   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA), uploaded by xulescu_g",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/70651798",
+   "id": 28895106,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/large.jpg",
+   "attribution": "(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/28895106",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 7937336,
-  "dkTotal": 166,
+  "dkTotal": 168,
   "dkMonths": [
    0,
    0,
    3,
    8,
-   48,
+   50,
    38,
    18,
    11,
@@ -55,11 +55,11 @@
    0,
    1
   ],
-  "worldTotal": 252446,
+  "worldTotal": 257848,
   "topCountries": [
    {
     "code": "FR",
-    "count": 66542
+    "count": 66561
    },
    {
     "code": "BE",
@@ -67,48 +67,46 @@
    },
    {
     "code": "NO",
-    "count": 27215
+    "count": 27207
    },
    {
     "code": "TW",
-    "count": 22389
+    "count": 22387
    },
    {
     "code": "GB",
-    "count": 21669
+    "count": 21670
    },
    {
     "code": "DE",
-    "count": 19300
+    "count": 19702
    },
    {
     "code": "ES",
-    "count": 13482
+    "count": 13494
    },
    {
     "code": "EE",
     "count": 7211
    },
    {
+    "code": "CH",
+    "count": 5077
+   },
+   {
     "code": "JP",
-    "count": 3711
+    "count": 3710
    },
    {
     "code": "AT",
-    "count": 3473
+    "count": 3481
    },
    {
     "code": "RU",
-    "count": 3157
-   },
-   {
-    "code": "SE",
-    "count": 2769
+    "count": 3152
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -123,5 +121,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

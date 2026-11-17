@@ -2,7 +2,7 @@
  "key": "clanga-clanga",
  "name": "Clanga clanga",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:09:06.354Z",
+ "fetchedAt": "2026-11-17T19:39:09.892Z",
  "names": {
   "da": "Stor Skrigeørn",
   "en": "Greater Spotted Eagle",
@@ -19,73 +19,103 @@
  },
  "inat": {
   "id": 201035,
-  "observations": 5898
+  "observations": 5926
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 140363907,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140363907/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140363907/large.jpeg",
-    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/85321098",
-    "place": "Kerala, IN",
-    "date": "2019-12-13"
+    "id": 90093871,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90093871/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90093871/large.jpg",
+    "attribution": "(c) Md. Zaber Ansary, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/56530856",
+    "place": "Dhaka, BD",
+    "date": "2019-03-10"
    },
    {
-    "id": 349111238,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349111238/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349111238/large.jpeg",
-    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/198116137",
-    "place": "Perak, MY",
-    "date": "2024-01-08"
+    "id": 538165345,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538165345/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538165345/large.jpg",
+    "attribution": "(c) sav-s, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/298750979",
+    "place": "Mońki, PL-PD, PL",
+    "date": "2025-07-17"
    },
    {
-    "id": 92258109,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92258109/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92258109/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57818238",
-    "place": "Dhofar, OM",
-    "date": "2010-10-30"
+    "id": 125741830,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125741830/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125741830/large.jpg",
+    "attribution": "(c) Nirmana Kowshalya, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/76884657",
+    "place": "Oman",
+    "date": "2021-04-30"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 259087816,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259087816/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259087816/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/150275380",
-    "place": "Maharashtra, IN",
-    "date": "2019-12-08"
+    "id": 327211328,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327211328/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327211328/large.jpg",
+    "attribution": "(c) Salman Baloch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/187143846",
+    "place": "Karachi, PK-SD, PK",
+    "date": "2018-03-04"
    },
    {
-    "id": 462278591,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462278591/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462278591/large.jpeg",
-    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257675580",
-    "place": "Perak, MY",
-    "date": "2024-12-17"
+    "id": 267592252,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267592252/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267592252/large.jpg",
+    "attribution": "(c) lappuggla, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154844697",
+    "place": "Triberga mosse, Mörbylånga, Sverige",
+    "date": "2017-05-28"
    },
    {
-    "id": 610162593,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610162593/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610162593/large.jpg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/335829098",
-    "place": "Gujarat, IN",
-    "date": "2026-01-17"
+    "id": 269684395,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/269684395/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/269684395/large.jpg",
+    "attribution": "(c) Татьяна Высоцкая, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/155986161",
+    "place": "Perm', RU",
+    "date": "2023-04-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 170325857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170325857/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170325857/large.jpg",
+    "attribution": "(c) Thomas Bareyre, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101949209",
+    "place": "04100 Manosque, France",
+    "date": "2021-03-10"
+   },
+   {
+    "id": 121283491,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121283491/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121283491/large.jpeg",
+    "attribution": "(c) Justin Walker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74221921",
+    "place": "South Korea",
+    "date": "2021-04-17"
+   },
+   {
+    "id": 582220215,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582220215/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582220215/large.jpg",
+    "attribution": "(c) Alexander Naumov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321899815",
+    "place": "Dubay, AE",
+    "date": "2025-10-14"
    }
   ],
   "hero": {
@@ -116,7 +146,7 @@
    78,
    30
   ],
-  "worldTotal": 238571,
+  "worldTotal": 238587,
   "topCountries": [
    {
     "code": "IN",
@@ -136,7 +166,7 @@
    },
    {
     "code": "IL",
-    "count": 14867
+    "count": 14869
    },
    {
     "code": "EG",
@@ -156,11 +186,11 @@
    },
    {
     "code": "UA",
-    "count": 7796
+    "count": 7800
    },
    {
     "code": "SE",
-    "count": 7646
+    "count": 7647
    },
    {
     "code": "AE",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

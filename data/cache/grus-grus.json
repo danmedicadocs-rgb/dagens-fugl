@@ -2,7 +2,7 @@
  "key": "grus-grus",
  "name": "Grus grus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:25.657Z",
+ "fetchedAt": "2026-11-17T19:40:34.770Z",
  "names": {
   "da": "Trane",
   "en": "Common Crane",
@@ -19,22 +19,62 @@
  },
  "inat": {
   "id": 41,
-  "observations": 43596
+  "observations": 43736
  },
  "photos": {
   "male": [
    {
-    "id": 471791855,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471791855/large.jpeg",
-    "attribution": "(c) Trixie Hürkamp, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/262701126",
-    "place": "49457 Drebber, Deutschland",
-    "date": "2025-02-22"
+    "id": 55497886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55497886/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55497886/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35211039",
+    "place": "Wölfersheim, Deutschland",
+    "date": "2012-10-27"
+   },
+   {
+    "id": 456884358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456884358/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456884358/large.jpeg",
+    "attribution": "(c) bindabei, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255001087",
+    "place": "23845 Itzstedt, Deutschland",
+    "date": "2024-12-13"
+   },
+   {
+    "id": 718626504,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718626504/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718626504/large.jpg",
+    "attribution": "(c) Ella Slinn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/392152258",
+    "place": "South Lake, WWT Slimbridge, Gloucestershire, UK",
+    "date": "2026-06-02"
    }
   ],
   "female": [
+   {
+    "id": 718622363,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718622363/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718622363/large.jpg",
+    "attribution": "(c) Ella Slinn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/392152233",
+    "place": "South Lake (Hogarth Hide), WWT Slimbridge, Gloucestershire, UK",
+    "date": "2026-06-09"
+   },
+   {
+    "id": 546636488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546636488/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546636488/large.jpg",
+    "attribution": "(c) Stephen John Davies, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/303305203",
+    "place": "Gloucestershire, England, United Kingdom",
+    "date": "2025-02-04"
+   },
    {
     "id": 760107102,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760107102/medium.jpg",
@@ -48,109 +88,109 @@
   ],
   "juvenile": [
    {
-    "id": 208970875,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208970875/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208970875/large.jpeg",
-    "attribution": "(c) Grzegorz Grzejszczak, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/123361855",
-    "place": "Powiat policki, Polska",
-    "date": "2022-06-16"
+    "id": 583160770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583160770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583160770/large.jpg",
+    "attribution": "(c) kira_shamshina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/322367231",
+    "place": "Идрица, Псковская обл., Россия, 182296",
+    "date": "2025-10-20"
    },
    {
-    "id": 131792147,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131792147/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131792147/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/80412911",
-    "place": "Кстовский р-н, Нижегородская обл., Россия",
-    "date": "2021-05-26"
+    "id": 413832518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/413832518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/413832518/large.jpeg",
+    "attribution": "(c) terpebauer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/232889818",
+    "place": "03130 Spremberg-Sellessen, Deutschland",
+    "date": "2024-07-31"
    },
    {
-    "id": 153979195,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153979195/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153979195/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/92950108",
-    "place": "Åboland-Turunmaa, Suomi",
-    "date": "2021-08-29"
+    "id": 754498070,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754498070/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754498070/large.jpg",
+    "attribution": "(c) sofa_sorokina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410262274",
+    "place": "Алтайский край, Россия, 658253",
+    "date": "2026-08-04"
    }
   ],
   "hero": {
-   "id": 68002894,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68002894/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68002894/large.jpg",
-   "attribution": "(c) מינוזיג - MinoZig, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/68002894",
+   "id": 13745,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13745/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13745/large.jpg",
+   "attribution": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/13745",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2474950,
-  "dkTotal": 222290,
+  "dkTotal": 222300,
   "dkMonths": [
    4088,
    10811,
    53839,
    48017,
-   36133,
+   36142,
    11189,
    10893,
    13811,
-   13551,
+   13552,
    13500,
    3821,
    2529
   ],
-  "worldTotal": 2566278,
+  "worldTotal": 2572488,
   "topCountries": [
    {
     "code": "SE",
-    "count": 913884
+    "count": 913991
    },
    {
     "code": "DE",
-    "count": 262861
+    "count": 268620
    },
    {
     "code": "DK",
-    "count": 222290
+    "count": 222300
    },
    {
     "code": "NO",
-    "count": 160040
+    "count": 160063
    },
    {
     "code": "FR",
-    "count": 154844
+    "count": 154935
    },
    {
     "code": "EE",
-    "count": 120846
+    "count": 120849
    },
    {
     "code": "NL",
-    "count": 109990
+    "count": 110073
    },
    {
     "code": "ES",
-    "count": 99540
+    "count": 99549
    },
    {
     "code": "FI",
-    "count": 86378
+    "count": 86399
    },
    {
     "code": "PL",
-    "count": 77762
+    "count": 77774
    },
    {
     "code": "HU",
-    "count": 64449
+    "count": 64453
    },
    {
     "code": "ET",
@@ -158,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +212,7 @@
   "type": "duet, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

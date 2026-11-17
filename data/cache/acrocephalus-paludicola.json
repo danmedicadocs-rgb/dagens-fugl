@@ -2,7 +2,7 @@
  "key": "acrocephalus-paludicola",
  "name": "Acrocephalus paludicola",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:53.521Z",
+ "fetchedAt": "2026-11-17T19:54:50.954Z",
  "names": {
   "da": "Vandsanger",
   "en": null,
@@ -27,45 +27,45 @@
   "juvenile": [],
   "adult": [
    {
-    "id": 163345952,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/large.jpeg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98144309",
-    "place": "Spain",
-    "date": "2005-09-18"
+    "id": 294035531,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/294035531/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/294035531/large.jpeg",
+    "attribution": "(c) semion_levy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169589121",
+    "place": "Vitsyebsk, BY",
+    "date": "2023-06-25"
    },
    {
-    "id": 44414392,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/44414392/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/44414392/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/28488762",
-    "place": "Lithuania",
-    "date": "2019-07-07"
+    "id": 310653073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310653073/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310653073/large.jpg",
+    "attribution": "(c) ulysse_lafond, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/178517808",
+    "place": "44310 Saint-Philbert-de-Grand-Lieu, France",
+    "date": "2023-08-15"
    },
    {
-    "id": 102494819,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102494819/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102494819/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/63822607",
-    "place": "Podlachian, PL",
-    "date": "2017-06-03"
+    "id": 280621680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280621680/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280621680/large.jpeg",
+    "attribution": "(c) Jarosław Krogulec, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162299640",
+    "place": "Palencia, ES-CL, ES",
+    "date": "2003-08-25"
    }
   ],
   "hero": {
-   "id": 163345952,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163345952/large.jpeg",
-   "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/98144309",
-   "place": "Spain",
-   "date": "2005-09-18"
+   "id": 310653073,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310653073/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310653073/large.jpg",
+   "attribution": "(c) ulysse_lafond, some rights reserved (CC BY-NC), uploaded by ulysse_lafond",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/310653073",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,7 +85,7 @@
    0,
    0
   ],
-  "worldTotal": 22069,
+  "worldTotal": 22072,
   "topCountries": [
    {
     "code": "FR",
@@ -101,7 +101,7 @@
    },
    {
     "code": "NL",
-    "count": 3189
+    "count": 3191
    },
    {
     "code": "BE",
@@ -137,8 +137,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +151,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

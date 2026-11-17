@@ -2,7 +2,7 @@
  "key": "pitangus-sulphuratus",
  "name": "Pitangus sulphuratus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:48:18.989Z",
+ "fetchedAt": "2026-11-17T20:23:46.855Z",
  "names": {
   "da": "Kiskadie",
   "en": "Great Kiskadee",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 16956,
-  "observations": 86522
+  "observations": 86777
  },
  "photos": {
   "male": [
    {
-    "id": 219389501,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219389501/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219389501/large.jpeg",
-    "attribution": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/129120383",
-    "place": "Universidade Federal de Viçosa - Campus Rio Paranaíba",
-    "date": "2022-08-02"
+    "id": 254053451,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254053451/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254053451/large.jpg",
+    "attribution": "(c) Dirk Feldhaus Marquard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147623212",
+    "place": "Las Cañadas, Jal., México",
+    "date": "2023-01-29"
    },
    {
-    "id": 527735282,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527735282/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527735282/large.jpg",
-    "attribution": "(c) Gabriel Augusto Faria, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293216892",
-    "place": "Ilha Solteira, SP, 15385-000, Brasil",
-    "date": "2025-06-19"
+    "id": 4945843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4945843/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4945843/large.jpg",
+    "attribution": "(c) Biol. Karen Keer G., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/4153010",
+    "place": "Atlixco, pue",
+    "date": "2016-09-18"
    },
    {
-    "id": 90254575,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90254575/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90254575/large.jpeg",
-    "attribution": "(c) Sol Quipildor, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/56627815",
-    "place": "Av. H. Yrigoyen pasando 25 de Mayo, La Merced, Salta, Argentina",
-    "date": "2020-08-16"
+    "id": 11521236,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11521236/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11521236/large.jpg",
+    "attribution": "(c) Santiago Chiquito, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8613104",
+    "place": "Parque la presidenta",
+    "date": "2017-10-12"
    }
   ],
   "female": [
+   {
+    "id": 72514088,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72514088/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72514088/large.jpeg",
+    "attribution": "(c) Cris Dias, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45723857",
+    "place": "SH Grande Colorado - Sobradinho, Brasília - DF, Brasil",
+    "date": "2020-05-12"
+   },
+   {
+    "id": 11934316,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11934316/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11934316/large.jpeg",
+    "attribution": "(c) Gabriel Camilo Jaramillo Giraldo, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/8875065",
+    "place": "La Castellana, Medellín, Medellin, Antioquia, Colombia",
+    "date": "2017-10-31"
+   },
    {
     "id": 628138856,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628138856/medium.jpg",
@@ -68,34 +88,34 @@
   ],
   "juvenile": [
    {
-    "id": 205762555,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205762555/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205762555/large.jpeg",
-    "attribution": "(c) Ricard Busquets Reverte, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/121586615",
-    "place": "Zona 1, Flores, Guatemala",
-    "date": "2022-05-20"
+    "id": 24471439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24471439/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24471439/large.jpeg",
+    "attribution": "(c) Laura Rainbow Dragon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16295265",
+    "place": "Rondeau Provincial Park, Chatham-Kent, Ontario, Canada",
+    "date": "2018-09-07"
    },
    {
-    "id": 414675470,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414675470/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414675470/large.jpeg",
-    "attribution": "(c) Giovanna Roque de Castro, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/233340227",
-    "place": "Irajá, Rio de Janeiro - RJ, 21235, Brasil",
-    "date": "2024-08-01"
+    "id": 307502305,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307502305/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307502305/large.jpeg",
+    "attribution": "(c) Maria Elena Martinez-Tapia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176854308",
+    "place": "Oaxaca, Mexico",
+    "date": "2023-07-23"
    },
    {
-    "id": 329486770,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329486770/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329486770/large.jpg",
-    "attribution": "(c) Pedro Van Kan, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/188280578",
-    "place": "Avenida 1, Formosa, GO, BR",
-    "date": "2023-10-20"
+    "id": 381181978,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381181978/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381181978/large.jpeg",
+    "attribution": "(c) Gustavo Fernando Durán, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/215638357",
+    "place": "San Jeronimo Nte., Santa Fe, Argentina",
+    "date": "2024-05-12"
    }
   ],
   "hero": {
@@ -126,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 2442217,
+  "worldTotal": 2442244,
   "topCountries": [
    {
     "code": "BR",
-    "count": 530615
+    "count": 530633
    },
    {
     "code": "CR",
@@ -146,7 +166,7 @@
    },
    {
     "code": "MX",
-    "count": 242415
+    "count": 242417
    },
    {
     "code": "CO",
@@ -162,7 +182,7 @@
    },
    {
     "code": "PA",
-    "count": 61564
+    "count": 61565
    },
    {
     "code": "UY",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

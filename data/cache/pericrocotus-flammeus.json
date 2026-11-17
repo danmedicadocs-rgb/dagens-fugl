@@ -2,7 +2,7 @@
  "key": "pericrocotus-flammeus",
  "name": "Pericrocotus flammeus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:29.828Z",
+ "fetchedAt": "2026-11-17T20:12:25.834Z",
  "names": {
   "da": "Skarlagenminivet",
   "en": "Orange Minivet",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 717333,
-  "observations": 1961
+  "observations": 1965
  },
  "photos": {
   "male": [
+   {
+    "id": 167101471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167101471/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167101471/large.jpg",
+    "attribution": "(c) Isuru Ranasingha, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/100142527",
+    "place": "Kahengama, Sri Lanka",
+    "date": "2021-09-11"
+   },
+   {
+    "id": 158972540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158972540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158972540/large.jpg",
+    "attribution": "(c) kehan_pallewatta, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/95736800",
+    "place": "Kuruwita, Sri Lanka",
+    "date": "2021-09-22"
+   },
    {
     "id": 651239453,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/651239453/medium.jpg",
@@ -32,29 +52,29 @@
     "source": "https://www.inaturalist.org/observations/357091042",
     "place": "Palangala, Karnataka 571212, India",
     "date": "2026-01-03"
-   },
-   {
-    "id": 332671643,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332671643/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332671643/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/189844355",
-    "place": "Megur, Karnataka, India",
-    "date": "2023-11-03"
-   },
-   {
-    "id": 120178194,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120178194/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120178194/large.jpg",
-    "attribution": "(c) Seema Merchant, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/73599478",
-    "place": "Uthamapalayam, Theni, TN, IN",
-    "date": "2021-04-11"
    }
   ],
   "female": [
+   {
+    "id": 523280753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523280753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523280753/large.jpg",
+    "attribution": "(c) Dhruva Punde, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/290868002",
+    "place": "Talkat, Maharashtra 416511, India",
+    "date": "2025-06-16"
+   },
+   {
+    "id": 88725437,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88725437/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88725437/large.jpg",
+    "attribution": "(c) Sriram Ranganathan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/55710041",
+    "place": "Valparai, Tamil Nadu 642127, India",
+    "date": "2019-10-12"
+   },
    {
     "id": 541864976,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541864976/medium.jpg",
@@ -64,38 +84,18 @@
     "source": "https://www.inaturalist.org/observations/300737638",
     "place": "Velliyamattom, Kerala, India",
     "date": "2025-07-20"
-   },
-   {
-    "id": 62546668,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62546668/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62546668/large.jpg",
-    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39425254",
-    "place": "K.F.G. & G. Korale, Kandy, Sri Lanka",
-    "date": "2020-02-11"
-   },
-   {
-    "id": 385134959,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385134959/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385134959/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/217689245",
-    "place": "Ratnapura, Sri Lanka",
-    "date": "2021-07-29"
    }
   ],
   "juvenile": [],
   "hero": {
-   "id": 651239453,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/651239453/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/651239453/large.jpg",
-   "attribution": "(c) sam-rajnikant, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/357091042",
-   "place": "Palangala, Karnataka 571212, India",
-   "date": "2026-01-03"
+   "id": 65476530,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65476530/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65476530/large.jpg",
+   "attribution": "(c) makarandsaraf, some rights reserved (CC BY-NC), uploaded by makarandsaraf",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/65476530",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -167,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "junco-hyemalis",
  "name": "Junco hyemalis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:44:20.803Z",
+ "fetchedAt": "2026-11-17T20:19:00.376Z",
  "names": {
   "da": "Mørkøjet junco",
   "en": "Dark-eyed Junco",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10094,
-  "observations": 258729
+  "observations": 259581
  },
  "photos": {
   "male": [
@@ -34,27 +34,37 @@
     "date": "2018-10-27"
    },
    {
-    "id": 8793471,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8793471/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8793471/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/6892999",
-    "place": "Sierra Azul Open Space Preserve, CA, US",
-    "date": "2017-07-02"
+    "id": 615406596,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615406596/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615406596/large.jpg",
+    "attribution": "(c) Josiah Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338404966",
+    "place": "Sixth Ave, Delta, BC, CA",
+    "date": "2026-02-11"
    },
    {
-    "id": 469944217,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469944217/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469944217/large.jpg",
-    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261567959",
-    "place": "Wisconsin, US",
-    "date": "2025-02-13"
+    "id": 111714701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68919123",
+    "place": "Townshend, VT, USA",
+    "date": "2021-02-01"
    }
   ],
   "female": [
+   {
+    "id": 1939429,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1939429/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1939429/large.jpg",
+    "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1566579",
+    "place": "Groningen, NL-GR, NL",
+    "date": "2015-02-07"
+   },
    {
     "id": 57107825,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57107825/medium.jpg",
@@ -66,24 +76,14 @@
     "date": "2019-11-23"
    },
    {
-    "id": 252765493,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252765493/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252765493/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146949573",
-    "place": "Bucks County, PA, USA",
-    "date": "2023-01-18"
-   },
-   {
-    "id": 699376674,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699376674/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699376674/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/382179133",
-    "place": "Washington, US",
-    "date": "2026-07-16"
+    "id": 619579864,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/619579864/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/619579864/large.jpg",
+    "attribution": "(c) Hannah D., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340482183",
+    "place": "Hiwassee Wildlife Refuge, 545 Priddy Rd, Birchwood, TN 37308, USA",
+    "date": "2026-02-23"
    }
   ],
   "juvenile": [
@@ -98,6 +98,16 @@
     "date": "2021-06-16"
    },
    {
+    "id": 290231972,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290231972/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290231972/large.jpg",
+    "attribution": "(c) whitemudwayne, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/167533443",
+    "place": "University Of Alberta Farm, Edmonton, AB T6H, Canada",
+    "date": "2023-06-11"
+   },
+   {
     "id": 274980085,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/274980085/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/274980085/large.jpeg",
@@ -106,25 +116,15 @@
     "source": "https://www.inaturalist.org/observations/159160633",
     "place": "Westwood, Los Angeles, CA, USA",
     "date": "2023-04-30"
-   },
-   {
-    "id": 83327560,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83327560/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83327560/large.jpg",
-    "attribution": "(c) Hydrocycler (Elizabeth Dougherty), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/52421047",
-    "place": "Wildcat Canyon Regional Park, Contra Costa, California, United States",
-    "date": "2020-07-04"
    }
   ],
   "hero": {
-   "id": 462900958,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462900958/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462900958/large.jpg",
-   "attribution": "(c) Becky Matsubara, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/462900958",
+   "id": 111714701,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/large.jpeg",
+   "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC), uploaded by Craig K. Hunt",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/111714701",
    "place": null,
    "date": null
   }
@@ -149,8 +149,6 @@
   "worldTotal": 0,
   "topCountries": []
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -165,5 +163,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

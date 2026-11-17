@@ -2,7 +2,7 @@
  "key": "brotogeris-jugularis",
  "name": "Brotogeris jugularis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:40.986Z",
+ "fetchedAt": "2026-11-17T20:26:27.713Z",
  "names": {
   "da": "Toviparakit",
   "en": "Orange-chinned Parakeet",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19211,
-  "observations": 8327
+  "observations": 8349
  },
  "photos": {
   "male": [
@@ -34,29 +34,90 @@
     "date": "2020-12-03"
    },
    {
-    "id": 414801287,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414801287/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414801287/large.jpg",
-    "attribution": "(c) Jason Alexander, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/233408635",
-    "place": "Costa del Este, Panamá, Provincia de Panamá, Panama",
-    "date": "2024-02-27"
+    "id": 17997444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17997444/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/17997444/large.jpeg",
+    "attribution": "(c) Gabriel Camilo Jaramillo Giraldo, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/12472491",
+    "place": "Riosucio, Chocó, Colombia",
+    "date": "2018-05-05"
+   },
+   {
+    "id": 281796974,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281796974/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281796974/large.jpeg",
+    "attribution": "(c) jhonb, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162954225",
+    "place": "San Onofre, Sucre, Colombia",
+    "date": "2023-05-21"
    }
   ],
   "female": [
    {
-    "id": 109353175,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109353175/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109353175/large.jpg",
-    "attribution": "(c) Guillermo J. Fadul R., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67650645",
-    "place": "Paseo Del Valle, Panama City, Panama",
-    "date": "2020-12-03"
+    "id": 350088749,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350088749/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350088749/large.jpeg",
+    "attribution": "(c) Iris Isabel Guerra., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198607035",
+    "place": "Panamá",
+    "date": "2024-02-06"
+   },
+   {
+    "id": 651381609,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/651381609/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/651381609/large.jpg",
+    "attribution": "(c) Olga Uribe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/357156345",
+    "place": "Cisneros, Antioquia, Colombia",
+    "date": "2026-05-01"
+   },
+   {
+    "id": 90432234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90432234/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90432234/large.jpg",
+    "attribution": "(c) verodycaza, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/56734190",
+    "place": "Panama City, Panamá, PA",
+    "date": "2020-08-17"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 634836096,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/634836096/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/634836096/large.jpg",
+    "attribution": "(c) Rodrigo Baez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/348117757",
+    "place": "Veraguas, PA",
+    "date": "2026-04-01"
+   },
+   {
+    "id": 12094762,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12094762/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12094762/large.jpeg",
+    "attribution": "(c) Fabián Vela, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8969843",
+    "place": "NILO",
+    "date": "2017-11-16"
+   },
+   {
+    "id": 252784003,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252784003/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252784003/large.jpeg",
+    "attribution": "(c) federicoquintana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/146796484",
+    "place": "Guadalupe, Antioquia, Colombia",
+    "date": "2022-12-18"
+   }
+  ],
   "hero": {
    "id": 157601516,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157601516/medium.jpg",
@@ -85,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 367190,
+  "worldTotal": 367195,
   "topCountries": [
    {
     "code": "CR",
@@ -93,7 +154,7 @@
    },
    {
     "code": "PA",
-    "count": 81592
+    "count": 81597
    },
    {
     "code": "CO",
@@ -137,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

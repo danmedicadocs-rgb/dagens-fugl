@@ -2,7 +2,7 @@
  "key": "calidris-alpina",
  "name": "Calidris alpina",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:54.676Z",
+ "fetchedAt": "2026-11-17T19:42:15.967Z",
  "names": {
   "da": "Almindelig ryle",
   "en": "Dunlin",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 3857,
-  "observations": 58553
+  "observations": 58870
  },
  "photos": {
   "male": [
+   {
+    "id": 56584841,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56584841/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56584841/large.jpg",
+    "attribution": "(c) Дмитрий Ерохин ( Dmitri Erokhin), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35850784",
+    "place": "Зарека, Петрозаводск, Респ. Карелия, Россия",
+    "date": "2016-09-27"
+   },
    {
     "id": 351747963,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351747963/medium.jpeg",
@@ -34,78 +44,89 @@
     "date": "2024-02-16"
    },
    {
-    "id": 541416294,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541416294/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541416294/large.jpg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/300486754",
-    "place": "Algeria",
-    "date": "2025-04-15"
+    "id": 309006159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309006159/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309006159/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177649624",
+    "place": "Устрека, Новгородская обл., Россия, 175217",
+    "date": "2023-08-10"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 365332982,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365332982/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365332982/large.jpeg",
+    "attribution": "(c) Sega Black - Sea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/206590121",
+    "place": "Юж. р-н, Новороссийск, Краснодарский край, Россия",
+    "date": "2024-04-11"
+   }
+  ],
   "juvenile": [
    {
-    "id": 325207364,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325207364/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325207364/large.jpeg",
-    "attribution": "(c) Rafael Würtemberger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/186128820",
-    "place": "Germany",
-    "date": "2023-10-03"
+    "id": 315801095,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315801095/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315801095/large.jpg",
+    "attribution": "(c) maripro, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181218452",
+    "place": "Nordrhein-Westfalen, DE",
+    "date": "2023-09-01"
    },
    {
-    "id": 24325270,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24325270/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24325270/large.jpeg",
-    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/16212545",
-    "place": "Longridge Point, Cochrane, Ontario",
-    "date": "2018-08-21"
+    "id": 41754843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41754843/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41754843/large.jpg",
+    "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26880716",
+    "place": "Rockall bank, North Atlantic",
+    "date": "2004-08-23"
    },
    {
-    "id": 107178999,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107178999/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107178999/large.jpeg",
-    "attribution": "(c) Anthony McDonald, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66480583",
-    "place": "Kilnsea Wetlands, East Riding of Yorkshire, UK",
-    "date": "2020-08-15"
+    "id": 311574513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311574513/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311574513/large.jpg",
+    "attribution": "(c) lappuggla, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179000284",
+    "place": "Sebybadet, Mörbylånga, Öland",
+    "date": "2023-08-18"
    }
   ],
   "hero": {
-   "id": 351747963,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351747963/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351747963/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/199455068",
-   "place": "11139 Chiclana de la Frontera, Cádiz, España",
-   "date": "2024-02-16"
+   "id": 65881975,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65881975/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65881975/large.jpg",
+   "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA), uploaded by Paul Reeves",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/65881975",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481759,
-  "dkTotal": 270522,
+  "dkTotal": 270527,
   "dkMonths": [
    10530,
    8801,
    13564,
    12323,
-   19024,
+   19025,
    6852,
-   49902,
-   55204,
+   49904,
+   55205,
    43572,
-   31437,
+   31438,
    12024,
    7057
   ],
-  "worldTotal": 3280898,
+  "worldTotal": 3281727,
   "topCountries": [
    {
     "code": "US",
@@ -113,7 +134,7 @@
    },
    {
     "code": "SE",
-    "count": 618754
+    "count": 618872
    },
    {
     "code": "GB",
@@ -121,11 +142,11 @@
    },
    {
     "code": "DK",
-    "count": 270522
+    "count": 270527
    },
    {
     "code": "NO",
-    "count": 159278
+    "count": 159303
    },
    {
     "code": "CA",
@@ -133,19 +154,19 @@
    },
    {
     "code": "ES",
-    "count": 138936
+    "count": 138960
    },
    {
     "code": "NL",
-    "count": 110276
+    "count": 110693
    },
    {
     "code": "FR",
-    "count": 100464
+    "count": 100489
    },
    {
     "code": "FI",
-    "count": 78489
+    "count": 78497
    },
    {
     "code": "PL",
@@ -157,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

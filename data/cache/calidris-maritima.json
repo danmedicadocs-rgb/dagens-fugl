@@ -2,7 +2,7 @@
  "key": "calidris-maritima",
  "name": "Calidris maritima",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:49.268Z",
+ "fetchedAt": "2026-11-17T19:42:10.226Z",
  "names": {
   "da": "Sortgrå ryle",
   "en": "Purple Sandpiper",
@@ -19,51 +19,102 @@
  },
  "inat": {
   "id": 3856,
-  "observations": 7518
+  "observations": 7541
  },
  "photos": {
   "male": [
    {
-    "id": 347080847,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347080847/large.jpeg",
-    "attribution": "(c) Bob Nieman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/197111085",
-    "place": "Brantley Lake, Eddy County, NM, USA",
-    "date": "2024-01-19"
-   }
-  ],
-  "female": [],
-  "juvenile": [
-   {
-    "id": 164077404,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164077404/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164077404/large.jpeg",
-    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98537333",
-    "place": "St. Andrä am Zicksee, BL, Österreich",
-    "date": "2021-10-17"
+    "id": 473106896,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473106896/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473106896/large.jpg",
+    "attribution": "(c) Alexander Naumov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263359113",
+    "place": "Эймёйден, Нидерланды",
+    "date": "2024-11-05"
    },
    {
-    "id": 300759348,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300759348/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/300759348/large.jpg",
-    "attribution": "(c) Алексей Логинов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/173206159",
-    "place": "Таймырский Долгано-Ненецкий р-н, Красноярский край, Россия",
-    "date": "2023-07-11"
+    "id": 761888427,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761888427/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761888427/large.jpg",
+    "attribution": "(c) Lawrence Rhoads, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/413915575",
+    "place": "Worcester County, MD, USA",
+    "date": "2026-11-07"
+   },
+   {
+    "id": 347224894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347224894/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347224894/large.jpg",
+    "attribution": "(c) Christopher Rustay, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197182946",
+    "place": "Eddy County, NM, USA",
+    "date": "2024-01-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 612231079,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612231079/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612231079/large.jpg",
+    "attribution": "(c) Максим Беликов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336862885",
+    "place": "Заполярный р-н, Ненецкий автономный округ, Россия",
+    "date": "2013-06-08"
+   },
+   {
+    "id": 457370858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457370858/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457370858/large.jpeg",
+    "attribution": "(c) Raspberry Yow-Fairs, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255240760",
+    "place": "Toronto, ON M4M, Canada",
+    "date": "2024-12-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 451482132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451482132/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451482132/large.jpg",
+    "attribution": "(c) Leo Weiskittel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252229527",
+    "place": "Beaton Point, Durham, Ontario, Canada",
+    "date": "2024-11-15"
+   },
+   {
+    "id": 317829994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317829994/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317829994/large.jpeg",
+    "attribution": "(c) Jeremiah, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/182301765",
+    "place": "Svalbard, Svalbard and Jan Mayen",
+    "date": "2023-08-03"
+   },
+   {
+    "id": 311867330,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311867330/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311867330/large.jpeg",
+    "attribution": "(c) Jeremiah, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179156646",
+    "place": "Svalbard, Svalbard and Jan Mayen",
+    "date": "2023-07-29"
    }
   ],
   "hero": {
-   "id": 92934185,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92934185/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92934185/large.jpeg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/92934185",
+   "id": 344392940,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344392940/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344392940/large.jpg",
+   "attribution": "(c) Kent Ross, some rights reserved (CC BY-NC), uploaded by Kent Ross",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/344392940",
    "place": null,
    "date": null
   }
@@ -85,7 +136,7 @@
    2767,
    1958
   ],
-  "worldTotal": 395978,
+  "worldTotal": 396411,
   "topCountries": [
    {
     "code": "US",
@@ -93,19 +144,19 @@
    },
    {
     "code": "NL",
-    "count": 71075
+    "count": 71323
    },
    {
     "code": "SE",
-    "count": 67338
+    "count": 67442
    },
    {
     "code": "NO",
-    "count": 48665
+    "count": 48717
    },
    {
     "code": "GB",
-    "count": 28215
+    "count": 28216
    },
    {
     "code": "DK",
@@ -117,7 +168,7 @@
    },
    {
     "code": "SJ",
-    "count": 14182
+    "count": 14186
    },
    {
     "code": "IS",
@@ -125,20 +176,18 @@
    },
    {
     "code": "FR",
-    "count": 6452
+    "count": 6453
    },
    {
     "code": "DE",
-    "count": 4281
+    "count": 4302
    },
    {
     "code": "BE",
-    "count": 4111
+    "count": 4112
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

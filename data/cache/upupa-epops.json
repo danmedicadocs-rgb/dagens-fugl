@@ -2,7 +2,7 @@
  "key": "upupa-epops",
  "name": "Upupa epops",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:18:30.173Z",
+ "fetchedAt": "2026-11-17T19:49:38.703Z",
  "names": {
   "da": "Hærfugl",
   "en": "Eurasian Hoopoe",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 20969,
-  "observations": 55071
+  "observations": 55200
  },
  "photos": {
   "male": [
+   {
+    "id": 339401649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339401649/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339401649/large.png",
+    "attribution": "(c) Lila, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/193224223",
+    "place": "Hartenbos, Mossel Bay, 6520, South Africa",
+    "date": "2022-11-20"
+   },
    {
     "id": 370268686,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370268686/medium.jpg",
@@ -42,38 +52,38 @@
     "source": "https://www.inaturalist.org/observations/207355558",
     "place": "4292 Dobri Dol, Bulgaria",
     "date": "2024-04-14"
-   },
-   {
-    "id": 488183989,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488183989/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488183989/large.jpeg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/271397196",
-    "place": "4292 Dobri dol, Bulgaria",
-    "date": "2025-04-19"
    }
   ],
   "female": [
    {
-    "id": 61667840,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61667840/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61667840/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/38771521",
-    "place": "Wedza, Zimbabwe",
-    "date": "2020-02-14"
+    "id": 182548424,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182548424/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182548424/large.jpg",
+    "attribution": "(c) Marie Delport, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/108424320",
+    "place": "Colchester, Gqeberha, South Africa",
+    "date": "2022-02-28"
    },
    {
-    "id": 97086822,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97086822/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97086822/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/60703946",
-    "place": "Addo Elephant National Park, Western District, South Africa",
-    "date": "2020-09-23"
+    "id": 236333246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236333246/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236333246/large.jpeg",
+    "attribution": "(c) Dewald du Plessis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/138290923",
+    "place": "Kalbas Padstal, Kalkwerf",
+    "date": "2022-09-12"
+   },
+   {
+    "id": 555466513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555466513/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555466513/large.jpg",
+    "attribution": "(c) Marion Maclean, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307917028",
+    "place": "Odenshoek, Pietersfontein, Montagu, Western Cape",
+    "date": "2021-11-02"
    }
   ],
   "juvenile": [
@@ -88,33 +98,33 @@
     "date": "2025-07-15"
    },
    {
-    "id": 397642702,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397642702/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397642702/large.jpg",
-    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/224361782",
-    "place": "Калининский р-н, Тверская обл., Россия",
-    "date": "2024-06-21"
+    "id": 24116527,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24116527/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24116527/large.jpeg",
+    "attribution": "(c) kilianj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16098821",
+    "place": "Valais, CH",
+    "date": "2018-09-01"
    },
    {
-    "id": 137678937,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137678937/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137678937/large.jpg",
-    "attribution": "(c) ajott, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/83810750",
-    "place": "Rehab City Second Phase, Second New Cairo, Cairo Governorate, Ägypten",
-    "date": "2021-06-20"
+    "id": 573402844,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573402844/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573402844/large.jpg",
+    "attribution": "(c) santibiologist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/317333343",
+    "place": "Las Palmas, España",
+    "date": "2011-07-04"
    }
   ],
   "hero": {
-   "id": 498530483,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498530483/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498530483/large.jpg",
-   "attribution": "(c) Birds of Gilgit-Baltistan, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/498530483",
+   "id": 60494705,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60494705/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60494705/large.jpg",
+   "attribution": "(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/60494705",
    "place": null,
    "date": null
   }
@@ -136,27 +146,27 @@
    217,
    143
   ],
-  "worldTotal": 1284398,
+  "worldTotal": 1292065,
   "topCountries": [
    {
     "code": "ES",
-    "count": 331637
+    "count": 331863
    },
    {
     "code": "FR",
-    "count": 191174
+    "count": 191188
    },
    {
     "code": "IN",
-    "count": 162198
+    "count": 162207
    },
    {
     "code": "PT",
-    "count": 97263
+    "count": 97272
    },
    {
     "code": "IL",
-    "count": 58602
+    "count": 58607
    },
    {
     "code": "ZA",
@@ -164,7 +174,7 @@
    },
    {
     "code": "CN",
-    "count": 32861
+    "count": 32863
    },
    {
     "code": "AE",
@@ -172,7 +182,7 @@
    },
    {
     "code": "TR",
-    "count": 22738
+    "count": 22740
    },
    {
     "code": "TH",
@@ -180,7 +190,7 @@
    },
    {
     "code": "GR",
-    "count": 19925
+    "count": 19949
    },
    {
     "code": "TW",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

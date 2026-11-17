@@ -2,7 +2,7 @@
  "key": "phoeniconaias-minor",
  "name": "Phoeniconaias minor",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:53.530Z",
+ "fetchedAt": "2026-11-17T20:06:48.327Z",
  "names": {
   "da": "Lille Flamingo",
   "en": "Lesser Flamingo",
@@ -19,12 +19,43 @@
  },
  "inat": {
   "id": 4259,
-  "observations": 4896
+  "observations": 4903
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 245716556,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245716556/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245716556/large.jpeg",
+    "attribution": "(c) Ravi Naidu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/143281598",
+    "place": "Maharashtra, IN",
+    "date": "2022-11-29"
+   }
+  ],
   "female": [],
   "juvenile": [
+   {
+    "id": 85027052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85027052/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85027052/large.jpeg",
+    "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/53458648",
+    "place": "Maharashtra, IN",
+    "date": "2018-12-18"
+   },
+   {
+    "id": 448317985,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448317985/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448317985/large.jpeg",
+    "attribution": "(c) rogstanden, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/250646668",
+    "place": "Kajiado South, KE-KJ, KE",
+    "date": "2024-10-12"
+   },
    {
     "id": 242955827,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242955827/medium.jpeg",
@@ -34,67 +65,15 @@
     "source": "https://www.inaturalist.org/observations/141773970",
     "place": "Maharashtra, IN",
     "date": "2022-03-01"
-   },
-   {
-    "id": 179914113,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179914113/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179914113/large.jpeg",
-    "attribution": "(c) Meehir Pawar, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/107021153",
-    "place": "Maharashtra, IN",
-    "date": "2022-02-19"
-   },
-   {
-    "id": 62147402,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147402/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62147402/large.jpeg",
-    "attribution": "(c) Nathan Earley, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39194503",
-    "place": "West Coast DC, South Africa",
-    "date": "2019-11-02"
-   }
-  ],
-  "adult": [
-   {
-    "id": 381289372,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381289372/large.jpeg",
-    "attribution": "(c) Nishant Purushottam Berde, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/215645891",
-    "place": "Maharashtra, IN",
-    "date": "2015-05-09"
-   },
-   {
-    "id": 716013023,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716013023/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716013023/large.jpg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/390802607",
-    "place": "Maharashtra, IN",
-    "date": "2018-05-20"
-   },
-   {
-    "id": 490546707,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490546707/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490546707/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/272660901",
-    "place": "Maharashtra, IN",
-    "date": "2025-04-22"
    }
   ],
   "hero": {
-   "id": 120790062,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120790062/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120790062/large.jpg",
-   "attribution": "(c) russellstreet, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/120790062",
+   "id": 89723844,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89723844/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89723844/large.jpg",
+   "attribution": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/89723844",
    "place": null,
    "date": null
   }
@@ -116,7 +95,7 @@
    1,
    0
   ],
-  "worldTotal": 61799,
+  "worldTotal": 61801,
   "topCountries": [
    {
     "code": "ZA",
@@ -128,11 +107,11 @@
    },
    {
     "code": "KE",
-    "count": 7282
+    "count": 7283
    },
    {
     "code": "TZ",
-    "count": 5469
+    "count": 5470
    },
    {
     "code": "NA",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "alcedo-atthis",
  "name": "Alcedo atthis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:18:16.678Z",
+ "fetchedAt": "2026-11-17T19:49:23.089Z",
  "names": {
   "da": "Isfugl",
   "en": "Common Kingfisher",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 2599,
-  "observations": 66432
+  "observations": 66727
  },
  "photos": {
   "male": [
+   {
+    "id": 606880006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606880006/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606880006/large.jpg",
+    "attribution": "(c) Полина Шальнева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334214184",
+    "place": "Nizhegorod, RU",
+    "date": "2026-01-10"
+   },
    {
     "id": 163772236,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163772236/medium.jpg",
@@ -42,48 +52,38 @@
     "source": "https://www.inaturalist.org/observations/197233516",
     "place": "4292 Dobri Dol, Bulgaria",
     "date": "2024-01-21"
-   },
-   {
-    "id": 4172736,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4172736/medium.JPG",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4172736/large.JPG",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/3614281",
-    "place": "Losser, Netherlands",
-    "date": "2016-07-03"
    }
   ],
   "female": [
    {
-    "id": 319013669,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/319013669/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/319013669/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/182911525",
-    "place": "Burgas Municipality, Bulgaria",
-    "date": "2023-09-09"
+    "id": 12584278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12584278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12584278/large.jpg",
+    "attribution": "(c) Maurizio Bonora, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9284651",
+    "place": "44015 Portomaggiore FE, Italia",
+    "date": "2017-10-13"
    },
    {
-    "id": 117140451,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117140451/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117140451/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/71903071",
-    "place": "Bois de Vincennes, 75012 Paris, France",
-    "date": "2021-03-21"
+    "id": 2035341,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035341/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035341/large.jpg",
+    "attribution": "(c) Mousam Ray, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1669314",
+    "place": "Jalpaiguri, IN-WB, IN",
+    "date": "2015-01-18"
    },
    {
-    "id": 316422083,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316422083/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316422083/large.jpeg",
-    "attribution": "(c) Lasse W., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/181573426",
-    "place": "24229 Strande, Deutschland",
-    "date": "2023-09-03"
+    "id": 2035314,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035314/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035314/large.jpg",
+    "attribution": "(c) Mousam Ray, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1669298",
+    "place": "Jalpaiguri, IN-WB, IN",
+    "date": "2015-01-24"
    }
   ],
   "juvenile": [
@@ -98,33 +98,33 @@
     "date": "2021-10-16"
    },
    {
-    "id": 560066757,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/560066757/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/560066757/large.jpg",
-    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "id": 319013669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/319013669/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/319013669/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
     "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/310327028",
-    "place": "92230 Gennevilliers, France",
-    "date": "2025-08-30"
+    "source": "https://www.inaturalist.org/observations/182911525",
+    "place": "Burgas Municipality, Bulgaria",
+    "date": "2023-09-09"
    },
    {
-    "id": 63119834,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63119834/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63119834/large.jpg",
-    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39775759",
-    "place": "Kalawana, Ratnapura, Sri Lanka",
-    "date": "2020-02-20"
+    "id": 199601340,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199601340/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199601340/large.jpeg",
+    "attribution": "(c) 金翼白眉, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/118156201",
+    "place": "台灣宜蘭縣",
+    "date": "2022-05-21"
    }
   ],
   "hero": {
-   "id": 33183952,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33183952/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33183952/large.jpg",
-   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/33183952",
+   "id": 61266631,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61266631/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61266631/large.jpg",
+   "attribution": "(c) Mark Kilner, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/61266631",
    "place": null,
    "date": null
   }
@@ -146,43 +146,43 @@
    10165,
    9131
   ],
-  "worldTotal": 2633358,
+  "worldTotal": 2671105,
   "topCountries": [
    {
     "code": "NL",
-    "count": 495643
+    "count": 496665
    },
    {
     "code": "FR",
-    "count": 297256
+    "count": 297396
    },
    {
     "code": "IN",
-    "count": 242216
+    "count": 242223
    },
    {
     "code": "ES",
-    "count": 219740
+    "count": 219744
    },
    {
     "code": "GB",
-    "count": 212792
+    "count": 212794
    },
    {
     "code": "TW",
-    "count": 153851
+    "count": 153852
    },
    {
     "code": "SE",
-    "count": 122575
+    "count": 122658
    },
    {
     "code": "DE",
-    "count": 119426
+    "count": 120782
    },
    {
     "code": "BE",
-    "count": 106922
+    "count": 106925
    },
    {
     "code": "DK",
@@ -190,16 +190,14 @@
    },
    {
     "code": "PT",
-    "count": 64181
+    "count": 64185
    },
    {
-    "code": "JP",
-    "count": 44086
+    "code": "CH",
+    "count": 52220
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, duet, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

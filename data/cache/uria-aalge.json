@@ -2,7 +2,7 @@
  "key": "uria-aalge",
  "name": "Uria aalge",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:16.775Z",
+ "fetchedAt": "2026-11-17T19:47:02.296Z",
  "names": {
   "da": "Lomvie",
   "en": "Common Murre",
@@ -19,10 +19,41 @@
  },
  "inat": {
   "id": 4519,
-  "observations": 29338
+  "observations": 29533
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 297620122,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297620122/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/297620122/large.jpg",
+    "attribution": "(c) Laura H, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/171508781",
+    "place": "Monterey Bay, California, USA",
+    "date": "2016-07-30"
+   },
+   {
+    "id": 699982860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699982860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699982860/large.jpg",
+    "attribution": "(c) Tony parker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382494802",
+    "place": "United Kingdom",
+    "date": "2026-07-16"
+   },
+   {
+    "id": 54441725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54441725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54441725/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34583730",
+    "place": "Pinneberg, DE-SH, DE",
+    "date": "2019-10-01"
+   }
+  ],
   "female": [
    {
     "id": 448019690,
@@ -35,72 +66,72 @@
     "date": "2024-11-04"
    },
    {
-    "id": 165461389,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165461389/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165461389/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/99276517",
-    "place": "Enterprise Channel, Oak Bay, CA",
-    "date": "2021-10-22"
+    "id": 304614455,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304614455/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304614455/large.jpeg",
+    "attribution": "(c) John Eppler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175287410",
+    "place": "Langanesbyggð, Iceland",
+    "date": "2023-07-07"
    },
    {
-    "id": 165460839,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165460839/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165460839/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/99276297",
-    "place": "Juan de Fuca Strait, Capital, CA",
-    "date": "2021-10-22"
+    "id": 284011365,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284011365/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284011365/large.jpg",
+    "attribution": "(c) Eliana Donna Vagabonda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/164162111",
+    "place": "Fife, Regno Unito",
+    "date": "2019-07-12"
    }
   ],
   "juvenile": [
    {
-    "id": 311397924,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311397924/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311397924/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/178908497",
-    "place": "Arch Cape, OR 97102, USA",
-    "date": "2023-08-17"
+    "id": 308893360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308893360/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308893360/large.jpeg",
+    "attribution": "(c) Lex Orr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177591366",
+    "place": "Coos County, OR, USA",
+    "date": "2023-08-09"
    },
    {
-    "id": 553553695,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553553695/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553553695/large.jpg",
-    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/306928294",
-    "place": "Golden Gate Natl. Rec. Area - SF, San Francisco, Golden Gate National Recreation Area, California, United States",
-    "date": "2025-08-16"
+    "id": 360450181,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360450181/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360450181/large.jpg",
+    "attribution": "(c) Dan Veitch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203965996",
+    "place": "North York Moors National Park, Whitby, England, GB",
+    "date": "2021-09-18"
    },
    {
-    "id": 723448264,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723448264/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723448264/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/394615317",
-    "place": "Aleutians West County, US-AK, US",
-    "date": "2026-08-24"
+    "id": 712090348,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712090348/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712090348/large.jpg",
+    "attribution": "(c) Calvin L Gluck, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388782739",
+    "place": "NW Jetty Ave, Lincoln City, OR, US",
+    "date": "2026-08-02"
    }
   ],
   "hero": {
-   "id": 498922599,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498922599/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498922599/large.jpg",
-   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY), uploaded by Diego González Dopico",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/498922599",
+   "id": 349231658,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349231658/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349231658/large.jpeg",
+   "attribution": "(c) cassiia, some rights reserved (CC BY-NC), uploaded by cassiia",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/349231658",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481342,
-  "dkTotal": 57069,
+  "dkTotal": 57070,
   "dkMonths": [
    4492,
    3786,
@@ -110,16 +141,16 @@
    1857,
    2871,
    3133,
-   5761,
+   5762,
    12481,
    8991,
    2940
   ],
-  "worldTotal": 1459186,
+  "worldTotal": 1459409,
   "topCountries": [
    {
     "code": "GB",
-    "count": 520736
+    "count": 520744
    },
    {
     "code": "US",
@@ -127,15 +158,15 @@
    },
    {
     "code": "SE",
-    "count": 165970
+    "count": 166020
    },
    {
     "code": "NL",
-    "count": 109227
+    "count": 109284
    },
    {
     "code": "NO",
-    "count": 84638
+    "count": 84684
    },
    {
     "code": "CA",
@@ -143,7 +174,7 @@
    },
    {
     "code": "DK",
-    "count": 57069
+    "count": 57070
    },
    {
     "code": "IE",
@@ -159,16 +190,14 @@
    },
    {
     "code": "DE",
-    "count": 23717
+    "count": 23773
    },
    {
     "code": "IS",
-    "count": 9588
+    "count": 9589
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

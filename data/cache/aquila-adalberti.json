@@ -2,7 +2,7 @@
  "key": "aquila-adalberti",
  "name": "Aquila adalberti",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:11.381Z",
+ "fetchedAt": "2026-11-17T20:02:50.082Z",
  "names": {
   "da": "Spansk Kejserørn",
   "en": "Spanish Imperial Eagle",
@@ -22,7 +22,38 @@
   "observations": 2796
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 227146534,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227146534/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227146534/large.jpeg",
+    "attribution": "(c) BelenMC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/133360168",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2022-09-02"
+   },
+   {
+    "id": 128162093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128162093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128162093/large.jpg",
+    "attribution": "(c) Phil Benstead, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78320547",
+    "place": "Cáceres, ES-EX, ES",
+    "date": "2007-03-26"
+   },
+   {
+    "id": 128849132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128849132/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128849132/large.jpg",
+    "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78712350",
+    "place": "Cáceres, ES-EX, ES",
+    "date": "2016-05-30"
+   }
+  ],
   "female": [
    {
     "id": 455675954,
@@ -33,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/254402722",
     "place": "Jaén, ES-AN, ES",
     "date": "2024-12-06"
+   },
+   {
+    "id": 175292728,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175292728/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175292728/large.jpeg",
+    "attribution": "(c) BelenMC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104585413",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2022-01-08"
    },
    {
     "id": 509867367,
@@ -47,45 +88,45 @@
   ],
   "juvenile": [
    {
-    "id": 346659361,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346659361/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346659361/large.jpg",
-    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/196904104",
-    "place": "Beja, PT",
-    "date": "2024-01-15"
+    "id": 242231106,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242231106/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242231106/large.jpeg",
+    "attribution": "(c) BelenMC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/133360168",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2022-09-02"
    },
    {
-    "id": 252428243,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252428243/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252428243/large.jpg",
-    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146779841",
-    "place": "Beja, PT",
-    "date": "2023-01-17"
+    "id": 474587396,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474587396/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474587396/large.jpg",
+    "attribution": "(c) Jip, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/264122795",
+    "place": "Cáceres, ES-EX, ES",
+    "date": "2025-03-06"
    },
    {
-    "id": 535868382,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535868382/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535868382/large.jpg",
-    "attribution": "(c) antoterryn, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/297542716",
-    "place": "Castilla-La Mancha, ES",
-    "date": "2025-07-05"
+    "id": 199600282,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199600282/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199600282/large.jpg",
+    "attribution": "(c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/118156014",
+    "place": "Comunidad de Madrid, ES-MD-MD, ES",
+    "date": "2022-04-25"
    }
   ],
   "hero": {
-   "id": 455675954,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455675954/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455675954/large.jpg",
-   "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/254402722",
-   "place": "Jaén, ES-AN, ES",
-   "date": "2024-12-06"
+   "id": 68776878,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68776878/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68776878/large.jpg",
+   "attribution": "(c) Oscar Valencoso - Salomé Planas, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/68776878",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -105,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 39846,
+  "worldTotal": 39849,
   "topCountries": [
    {
     "code": "ES",
-    "count": 39111
+    "count": 39114
    },
    {
     "code": "PT",
@@ -141,8 +182,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -157,5 +196,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

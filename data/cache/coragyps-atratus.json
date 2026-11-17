@@ -2,7 +2,7 @@
  "key": "coragyps-atratus",
  "name": "Coragyps atratus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:23.623Z",
+ "fetchedAt": "2026-11-17T20:20:19.596Z",
  "names": {
   "da": "Ravnegrib",
   "en": "Black Vulture",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4765,
-  "observations": 137002
+  "observations": 137332
  },
  "photos": {
   "male": [
@@ -34,39 +34,69 @@
     "date": "2022-10-23"
    },
    {
-    "id": 53069153,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53069153/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53069153/large.jpg",
-    "attribution": "(c) Aitor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/33767177",
-    "place": "Golfo de Panamá, Provincia de Panamá, PA",
-    "date": "2019-10-01"
+    "id": 373926320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/373926320/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/373926320/large.jpeg",
+    "attribution": "(c) Cornelio Chablé, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/211508571",
+    "place": "Tikal, Guatemala",
+    "date": "2024-04-27"
+   },
+   {
+    "id": 749500001,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/749500001/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/749500001/large.jpg",
+    "attribution": "(c) Camilo Velásquez (Niggo85), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407810532",
+    "place": "3HQJ+7R, Villavicencio, Meta, Colombia",
+    "date": "2026-10-12"
    }
   ],
   "female": [
    {
-    "id": 209982029,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209982029/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209982029/large.jpg",
-    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/123920774",
-    "place": "Leticia, Amazonas, Colombia",
-    "date": "2022-06-01"
+    "id": 619918115,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/619918115/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/619918115/large.jpg",
+    "attribution": "(c) Jaime Baxter-Slye, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340635290",
+    "place": "Denton, TX, USA",
+    "date": "2026-02-27"
    },
    {
-    "id": 113486385,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113486385/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113486385/large.jpeg",
-    "attribution": "(c) Esteban Poveda, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69875114",
-    "place": "Shell, Ecuador",
-    "date": "2021-02-20"
+    "id": 275636525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275636525/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275636525/large.jpeg",
+    "attribution": "(c) Luciana Chiyo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/159535158",
+    "place": "Região Central - Foz do Iguaçu, PR, Brasil",
+    "date": "2023-04-29"
+   },
+   {
+    "id": 127940804,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127940804/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127940804/large.jpg",
+    "attribution": "(c) Luis Antonio Hernández Díaz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78195911",
+    "place": "Tecolutla, Ver., México",
+    "date": "2020-12-29"
    }
   ],
   "juvenile": [
+   {
+    "id": 267358066,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267358066/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267358066/large.jpg",
+    "attribution": "(c) vulturemom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154715884",
+    "place": "College Station, TX, USA",
+    "date": "2023-04-04"
+   },
    {
     "id": 3610980,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3610980/medium.jpg",
@@ -86,27 +116,17 @@
     "source": "https://www.inaturalist.org/observations/253104199",
     "place": "Pantanos de Villa, Lima, Perú",
     "date": "2024-11-23"
-   },
-   {
-    "id": 425128073,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425128073/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425128073/large.jpeg",
-    "attribution": "(c) Gab Buffo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/238762462",
-    "place": "Jardim Vila Bela, Rio Claro - SP, Brazil",
-    "date": "2024-08-30"
    }
   ],
   "hero": {
-   "id": 239409362,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239409362/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239409362/large.jpg",
-   "attribution": "(c) Anthony Batista, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/139917793",
-   "place": "El Rincón, Panamá",
-   "date": "2022-10-23"
+   "id": 176419188,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176419188/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176419188/large.jpg",
+   "attribution": "(c) eduardovieira17, some rights reserved (CC BY-NC), uploaded by eduardovieira17",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/176419188",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 5651202,
+  "worldTotal": 5651218,
   "topCountries": [
    {
     "code": "US",
@@ -138,7 +158,7 @@
    },
    {
     "code": "BR",
-    "count": 334558
+    "count": 334567
    },
    {
     "code": "CO",
@@ -146,11 +166,11 @@
    },
    {
     "code": "MX",
-    "count": 216738
+    "count": 216741
    },
    {
     "code": "PA",
-    "count": 139349
+    "count": 139354
    },
    {
     "code": "EC",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "alarm call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

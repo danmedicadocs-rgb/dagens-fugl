@@ -2,7 +2,7 @@
  "key": "pteroglossus-castanotis",
  "name": "Pteroglossus castanotis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:51:33.591Z",
+ "fetchedAt": "2026-11-17T20:27:26.498Z",
  "names": {
   "da": "Brunøret Arasari",
   "en": "Chestnut-eared Aracari",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18581,
-  "observations": 3790
+  "observations": 3807
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2026-04-11"
    },
    {
+    "id": 756972969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/756972969/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/756972969/large.jpg",
+    "attribution": "(c) Don Marsille, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/411479105",
+    "place": "Paucartambo Province, Peru",
+    "date": "2026-09-25"
+   },
+   {
     "id": 563557076,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563557076/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563557076/large.jpg",
@@ -42,19 +52,29 @@
     "source": "https://www.inaturalist.org/observations/312156140",
     "place": "Nobres - State of Mato Grosso, Brazil",
     "date": "2025-08-03"
-   },
-   {
-    "id": 729285028,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729285028/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729285028/large.jpg",
-    "attribution": "(c) Viktor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397644570",
-    "place": "San Martin, Peru",
-    "date": "2026-08-23"
    }
   ],
   "female": [
+   {
+    "id": 487207434,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487207434/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487207434/large.jpeg",
+    "attribution": "(c) joão, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/270883443",
+    "place": "Pirenópolis, GO, Brasil",
+    "date": "2022-11-12"
+   },
+   {
+    "id": 439918873,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439918873/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439918873/large.jpeg",
+    "attribution": "(c) marcoguzmanq, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/246422418",
+    "place": "Río Iguazú, Iguazú, Misiones, AR",
+    "date": "2024-09-11"
+   },
    {
     "id": 530979704,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530979704/medium.jpg",
@@ -64,29 +84,29 @@
     "source": "https://www.inaturalist.org/observations/294976563",
     "place": "Cavalcante - GO, 73790-000, Brasil",
     "date": "2025-06-20"
-   },
-   {
-    "id": 741712133,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/741712133/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/741712133/large.jpg",
-    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/403933806",
-    "place": "Poconé - Mato Grosso, 78175-000, Brazil",
-    "date": "2026-09-07"
-   },
-   {
-    "id": 609062016,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609062016/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609062016/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/335285146",
-    "place": "Parque Nacional Iguazú, Ruta 101 Km 142, N3370 Puerto Iguazú, Misiones, Argentina",
-    "date": "2022-07-18"
    }
   ],
   "juvenile": [
+   {
+    "id": 337963814,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337963814/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337963814/large.jpeg",
+    "attribution": "(c) Bernardo Lartigau, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192511616",
+    "place": "Gral Manuel Belgrano, Misiones, Argentina",
+    "date": "2020-01-18"
+   },
+   {
+    "id": 758954847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758954847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758954847/large.jpg",
+    "attribution": "(c) Gabriel Delasala, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412467084",
+    "place": "140403 Tendal Reserva del Mbaracayu, Paraguay",
+    "date": "2026-01-13"
+   },
    {
     "id": 625514575,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625514575/medium.jpg",
@@ -96,37 +116,17 @@
     "source": "https://www.inaturalist.org/observations/343393462",
     "place": "Cuzco, PE",
     "date": "2026-03-16"
-   },
-   {
-    "id": 88604982,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88604982/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88604982/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/55636255",
-    "place": "Luis Calvo, Bolivia",
-    "date": "2018-01-30"
-   },
-   {
-    "id": 704269503,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704269503/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704269503/large.jpg",
-    "attribution": "(c) Carlos Torrente, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384727399",
-    "place": "San Joaquín, Sabanalarga, Casanare, Colombia",
-    "date": "2026-07-19"
    }
   ],
   "hero": {
-   "id": 671066659,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671066659/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671066659/large.jpg",
-   "attribution": "(c) Carlos Torrente, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/367464229",
-   "place": "San Joaquín, Sabanalarga, Casanare, Colombia",
-   "date": "2026-04-11"
+   "id": 739706520,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739706520/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739706520/large.jpg",
+   "attribution": "(c) Matt Blue, some rights reserved (CC BY-NC), uploaded by Matt Blue",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/739706520",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 68411,
+  "worldTotal": 68414,
   "topCountries": [
    {
     "code": "CO",
@@ -154,7 +154,7 @@
    },
    {
     "code": "BR",
-    "count": 16850
+    "count": 16853
    },
    {
     "code": "PE",
@@ -194,8 +194,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -210,5 +208,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

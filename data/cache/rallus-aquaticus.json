@@ -2,7 +2,7 @@
  "key": "rallus-aquaticus",
  "name": "Rallus aquaticus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:01.654Z",
+ "fetchedAt": "2026-11-17T19:40:06.630Z",
  "names": {
   "da": "Vandrikse",
   "en": "Brown-cheeked rail",
@@ -31,13 +31,13 @@
  },
  "gbif": {
   "key": 2474831,
-  "dkTotal": 119701,
+  "dkTotal": 119702,
   "dkMonths": [
    6923,
    5740,
    11271,
    19595,
-   17401,
+   17402,
    8749,
    7352,
    10770,
@@ -46,15 +46,15 @@
    6590,
    5262
   ],
-  "worldTotal": 1086434,
+  "worldTotal": 1112872,
   "topCountries": [
    {
     "code": "SE",
-    "count": 226446
+    "count": 226555
    },
    {
     "code": "NL",
-    "count": 152147
+    "count": 152457
    },
    {
     "code": "GB",
@@ -62,27 +62,31 @@
    },
    {
     "code": "DK",
-    "count": 119701
+    "count": 119702
    },
    {
     "code": "FR",
-    "count": 105133
+    "count": 105309
    },
    {
     "code": "ES",
-    "count": 88044
+    "count": 88060
    },
    {
     "code": "BE",
-    "count": 60843
+    "count": 60844
+   },
+   {
+    "code": "CH",
+    "count": 36843
    },
    {
     "code": "DE",
-    "count": 34368
+    "count": 34650
    },
    {
     "code": "NO",
-    "count": 33416
+    "count": 33479
    },
    {
     "code": "IT",
@@ -91,15 +95,9 @@
    {
     "code": "PT",
     "count": 13962
-   },
-   {
-    "code": "CH",
-    "count": 11430
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -114,5 +112,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

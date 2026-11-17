@@ -2,7 +2,7 @@
  "key": "oenanthe-oenanthe",
  "name": "Oenanthe oenanthe",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:25:31.488Z",
+ "fetchedAt": "2026-11-17T19:58:07.374Z",
  "names": {
   "da": "Stenpikker",
   "en": "Northern Wheatear",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 12822,
-  "observations": 53162
+  "observations": 53215
  },
  "photos": {
   "male": [
    {
-    "id": 565757163,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565757163/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565757163/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/313294120",
-    "place": "Pomorie, Bulgaria",
-    "date": "2025-09-10"
+    "id": 243165095,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243165095/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243165095/large.jpeg",
+    "attribution": "(c) Scott F Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141885050",
+    "place": "Summit Camp, Greenland",
+    "date": "2021-05-17"
    },
    {
-    "id": 341586806,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341586806/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341586806/large.jpeg",
-    "attribution": "(c) Andrew Simon, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/194341408",
-    "place": "Лиманський район, Одеська область, Україна",
-    "date": "2021-04-07"
+    "id": 349048969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349048969/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349048969/large.jpeg",
+    "attribution": "(c) Scott F Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198085505",
+    "place": "Summit Camp, Greenland",
+    "date": "2011-05-06"
    },
    {
-    "id": 658174859,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658174859/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658174859/large.jpg",
-    "attribution": "(c) Brenda Black, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/360692774",
-    "place": "Sachsen, DE",
-    "date": "2026-05-10"
+    "id": 286540659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286540659/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286540659/large.jpg",
+    "attribution": "(c) legally_blob, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165528528",
+    "place": "Grønlands Nationalpark, Tunu, GL",
+    "date": "2023-06-04"
    }
   ],
   "female": [
+   {
+    "id": 485084654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485084654/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485084654/large.jpg",
+    "attribution": "(c) Pierre Corbrion, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/269768040",
+    "place": "66760 Porté-Puymorens, France",
+    "date": "2024-08-24"
+   },
    {
     "id": 68878758,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68878758/medium.jpg",
@@ -66,24 +76,14 @@
     "date": "2020-04-22"
    },
    {
-    "id": 544812167,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/544812167/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/544812167/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/302305753",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2025-07-30"
-   },
-   {
-    "id": 130539321,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/130539321/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/130539321/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/79686620",
-    "place": "Quintanalara, Burgos, España",
-    "date": "2021-05-15"
+    "id": 658481855,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658481855/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658481855/large.jpg",
+    "attribution": "(c) Hanna Sztwiertnia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360844413",
+    "place": "Otmuchów, Polska",
+    "date": "2026-05-03"
    }
   ],
   "juvenile": [
@@ -98,108 +98,106 @@
     "date": "2025-07-26"
    },
    {
-    "id": 435907525,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435907525/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/435907525/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/244389406",
-    "place": "73480 Bonneval-sur-Arc, France",
-    "date": "2024-08-09"
+    "id": 114731941,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114731941/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114731941/large.jpeg",
+    "attribution": "(c) Elettra_manu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70559198",
+    "place": "Gran Sasso",
+    "date": "2020-08-30"
    },
    {
-    "id": 141926193,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141926193/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141926193/large.jpeg",
-    "attribution": "(c) rowan_m, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/86180050",
-    "place": "Na h-Eileanan an Iar, UK",
-    "date": "2021-07-08"
+    "id": 731456362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731456362/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731456362/large.jpg",
+    "attribution": "(c) Анатолий Стрила, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398721248",
+    "place": "Ленинградский р-н, Калининград, Калининградская обл., Россия",
+    "date": "2026-09-09"
    }
   ],
   "hero": {
-   "id": 188138096,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188138096/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188138096/large.jpg",
-   "attribution": "(c) Paul Lewis, some rights reserved (CC BY), uploaded by Paul Lewis",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/188138096",
+   "id": 67410847,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67410847/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67410847/large.jpeg",
+   "attribution": "(c) nfeddu, some rights reserved (CC BY-NC), uploaded by nfeddu",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/67410847",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5231240,
-  "dkTotal": 112456,
+  "dkTotal": 112458,
   "dkMonths": [
    0,
    18,
    615,
    16863,
-   36409,
+   36410,
    2557,
    2537,
-   19509,
+   19510,
    26458,
    7381,
    48,
    3
   ],
-  "worldTotal": 1836353,
+  "worldTotal": 1894827,
   "topCountries": [
    {
     "code": "SE",
-    "count": 427596
+    "count": 427624
    },
    {
     "code": "NL",
-    "count": 235232
+    "count": 235248
    },
    {
     "code": "NO",
-    "count": 213828
+    "count": 213807
    },
    {
     "code": "GB",
-    "count": 178039
+    "count": 178043
    },
    {
     "code": "FR",
-    "count": 131175
+    "count": 131246
    },
    {
     "code": "ES",
-    "count": 119496
+    "count": 119500
    },
    {
     "code": "DK",
-    "count": 112456
+    "count": 112458
+   },
+   {
+    "code": "CH",
+    "count": 66302
    },
    {
     "code": "FI",
-    "count": 55457
+    "count": 55480
    },
    {
     "code": "BE",
-    "count": 45839
+    "count": 45840
    },
    {
     "code": "DE",
-    "count": 29665
+    "count": 29925
    },
    {
     "code": "PT",
-    "count": 24313
-   },
-   {
-    "code": "RU",
-    "count": 23618
+    "count": 24316
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "flight call, song, song in flight",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

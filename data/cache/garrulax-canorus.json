@@ -2,7 +2,7 @@
  "key": "garrulax-canorus",
  "name": "Garrulax canorus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:37:27.103Z",
+ "fetchedAt": "2026-11-17T20:11:33.791Z",
  "names": {
   "da": "Sangskadedrossel",
   "en": null,
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 15156,
-  "observations": 3093
+  "observations": 3104
  },
  "photos": {
   "male": [
@@ -32,17 +32,48 @@
     "source": "https://www.inaturalist.org/observations/366247661",
     "place": "Kuliouou - Kalani Iki, Honolulu, HI, USA",
     "date": "2026-05-28"
+   },
+   {
+    "id": 267785117,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267785117/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267785117/large.jpeg",
+    "attribution": "(c) shrike108, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154949082",
+    "place": "Oyamadasakuradai, Machida, Tokyo 194-0204, Japan",
+    "date": "2023-03-30"
    }
   ],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 720666480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/720666480/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/720666480/large.jpg",
+    "attribution": "(c) 虹, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/393191629",
+    "place": "Zhoushan, CN-ZJ, CN",
+    "date": "2026-08-21"
+   },
+   {
+    "id": 721740373,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/721740373/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/721740373/large.jpg",
+    "attribution": "(c) 梦娜, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/393744277",
+    "place": "中国安徽省六安市裕安区横排头",
+    "date": "2026-08-21"
+   }
+  ],
   "hero": {
-   "id": 29125661,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29125661/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29125661/large.jpeg",
-   "attribution": "no rights reserved, uploaded by Stephen Matthews",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/29125661",
+   "id": 26597643,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26597643/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26597643/large.jpg",
+   "attribution": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/26597643",
    "place": null,
    "date": null
   }
@@ -116,8 +147,8 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": null,
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

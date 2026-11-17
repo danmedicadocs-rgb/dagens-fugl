@@ -2,7 +2,7 @@
  "key": "haematopus-ostralegus",
  "name": "Haematopus ostralegus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:30.257Z",
+ "fetchedAt": "2026-11-17T19:40:40.540Z",
  "names": {
   "da": "Strandskade",
   "en": "Eurasian Oystercatcher",
@@ -19,34 +19,84 @@
  },
  "inat": {
   "id": 4843,
-  "observations": 49417
+  "observations": 49522
  },
  "photos": {
   "male": [
    {
-    "id": 547069639,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/large.jpg",
-    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/303519462",
-    "place": "Glenelg, Kyle IV40 8JR, UK",
-    "date": "2025-08-03"
+    "id": 367799073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367799073/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367799073/large.jpeg",
+    "attribution": "(c) Bluecross, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207903604",
+    "place": "Taka-Töölö, Helsinki, Suomi",
+    "date": "2024-04-18"
+   },
+   {
+    "id": 71441565,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71441565/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71441565/large.jpeg",
+    "attribution": "(c) nfeddu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45060533",
+    "place": "6600 Solduno, Svizzera",
+    "date": "2020-05-06"
+   },
+   {
+    "id": 671207847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671207847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671207847/large.jpg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/367539234",
+    "place": "Bramley, Leeds, UK",
+    "date": "2026-05-31"
    }
   ],
   "female": [
    {
-    "id": 691439378,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691439378/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691439378/large.jpg",
-    "attribution": "(c) Vi Murphy, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/378075570",
-    "place": "St Helier, Jersey",
+    "id": 650293853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/650293853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/650293853/large.jpg",
+    "attribution": "(c) hafstrembi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/356589575",
+    "place": "32P2+6MG, 210 Garðabær, Ísland",
+    "date": "2026-04-29"
+   },
+   {
+    "id": 393529865,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393529865/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393529865/large.jpeg",
+    "attribution": "(c) Genevieve Lim, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/222173858",
+    "place": "00140 Helsinki, Finland",
+    "date": "2024-06-11"
+   },
+   {
+    "id": 750158279,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750158279/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750158279/large.jpg",
+    "attribution": "(c) Svetlana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/408132749",
+    "place": "Котласский р-н, Архангельская обл., Россия",
     "date": "2026-07-04"
    }
   ],
   "juvenile": [
+   {
+    "id": 23788023,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23788023/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23788023/large.jpg",
+    "attribution": "(c) belyykit, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15906585",
+    "place": "Kruununhaka, Helsinki, Finland",
+    "date": "2018-07-28"
+   },
    {
     "id": 695117451,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695117451/medium.jpg",
@@ -58,91 +108,81 @@
     "date": "2026-07-08"
    },
    {
-    "id": 299113070,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299113070/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299113070/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/172310068",
-    "place": "Бардымский р-н, Пермский край, Россия",
-    "date": "2023-07-11"
-   },
-   {
-    "id": 99571165,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/99571165/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/99571165/large.jpg",
-    "attribution": "(c) Ian Adams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/62167617",
-    "place": "Argyll and Bute Council, UK",
-    "date": "2017-07-07"
+    "id": 253608392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253608392/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253608392/large.jpeg",
+    "attribution": "(c) Quirin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147388283",
+    "place": "26474 Spiekeroog, Deutschland",
+    "date": "2020-06-05"
    }
   ],
   "hero": {
-   "id": 547069639,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547069639/large.jpg",
-   "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/303519462",
-   "place": "Glenelg, Kyle IV40 8JR, UK",
-   "date": "2025-08-03"
+   "id": 1940433,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1940433/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1940433/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1940433",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 7788295,
-  "dkTotal": 397127,
+  "dkTotal": 397147,
   "dkMonths": [
    13731,
    18974,
    54083,
-   62757,
-   57593,
+   62758,
+   57602,
    38483,
-   53578,
-   42204,
-   22366,
+   53585,
+   42206,
+   22367,
    16217,
    9249,
    7810
   ],
-  "worldTotal": 4064943,
+  "worldTotal": 4066751,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1563924
+    "count": 1564354
    },
    {
     "code": "GB",
-    "count": 592246
+    "count": 592275
    },
    {
     "code": "SE",
-    "count": 520053
+    "count": 520180
    },
    {
     "code": "NO",
-    "count": 450073
+    "count": 450773
    },
    {
     "code": "DK",
-    "count": 397127
+    "count": 397147
    },
    {
     "code": "BE",
-    "count": 127931
+    "count": 127934
    },
    {
     "code": "DE",
-    "count": 63083
+    "count": 63511
    },
    {
     "code": "FR",
-    "count": 62307
+    "count": 62327
    },
    {
     "code": "IE",
-    "count": 41564
+    "count": 41565
    },
    {
     "code": "IS",
@@ -150,16 +190,14 @@
    },
    {
     "code": "FI",
-    "count": 35663
+    "count": 35687
    },
    {
     "code": "ES",
-    "count": 31305
+    "count": 31311
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

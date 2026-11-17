@@ -2,7 +2,7 @@
  "key": "ictinaetus-malaiensis",
  "name": "Ictinaetus malaiensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:13.561Z",
+ "fetchedAt": "2026-11-17T20:12:09.328Z",
  "names": {
   "da": "Indisk Sortørn",
   "en": "Black Eagle",
@@ -19,12 +19,33 @@
  },
  "inat": {
   "id": 367472,
-  "observations": 3463
+  "observations": 3491
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 4383908,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4383908/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4383908/large.jpg",
+    "attribution": "(c) Arun Urs, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/3763181",
+    "place": "Biligirirangana Hills, Karnataka, India",
+    "date": "2011-08-20"
+   }
+  ],
   "female": [],
   "juvenile": [
+   {
+    "id": 461754845,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/461754845/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/461754845/large.jpg",
+    "attribution": "(c) eeveefang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/257409779",
+    "place": "中国广东省潮州市湘桥区",
+    "date": "2024-12-22"
+   },
    {
     "id": 158303400,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158303400/medium.jpg",
@@ -44,48 +65,6 @@
     "source": "https://www.inaturalist.org/observations/136278386",
     "place": "Kabupaten de Minahasa, Sulawesi du Nord, Indonésie",
     "date": "2022-09-13"
-   },
-   {
-    "id": 458400994,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458400994/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458400994/large.jpeg",
-    "attribution": "(c) 許慶棠Ray, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/255753501",
-    "place": "Taiwan",
-    "date": "2024-12-21"
-   }
-  ],
-  "adult": [
-   {
-    "id": 62920718,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62920718/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62920718/large.jpg",
-    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/39646907",
-    "place": "Taiwan, TW",
-    "date": "2020-03-07"
-   },
-   {
-    "id": 327634816,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327634816/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327634816/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/187358070",
-    "place": "Madugundi, Karnataka, India",
-    "date": "2023-10-13"
-   },
-   {
-    "id": 706037026,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/706037026/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/706037026/large.jpg",
-    "attribution": "(c) Srivatsan Ramkumar, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/385656098",
-    "place": "Kongadai, Tamil Nadu 638501, India",
-    "date": "2026-07-26"
    }
   ],
   "hero": {
@@ -116,7 +95,7 @@
    0,
    0
   ],
-  "worldTotal": 59056,
+  "worldTotal": 59058,
   "topCountries": [
    {
     "code": "IN",
@@ -144,7 +123,7 @@
    },
    {
     "code": "BT",
-    "count": 1837
+    "count": 1839
    },
    {
     "code": "NP",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

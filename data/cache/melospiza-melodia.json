@@ -2,7 +2,7 @@
  "key": "melospiza-melodia",
  "name": "Melospiza melodia",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:44:30.070Z",
+ "fetchedAt": "2026-11-17T20:19:12.068Z",
  "names": {
   "da": "Sangspurv",
   "en": "Song Sparrow",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 9100,
-  "observations": 279591
+  "observations": 280019
  },
  "photos": {
   "male": [
    {
-    "id": 360431160,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360431160/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360431160/large.jpg",
-    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/203957061",
-    "place": "Talbot, London, ON N6P, Canada",
-    "date": "2024-03-25"
+    "id": 2728337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2728337/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2728337/large.jpg",
+    "attribution": "(c) carroll, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2444669",
+    "place": "Carroll County, US-GA, US",
+    "date": "2015-04-24"
    },
    {
-    "id": 398411449,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398411449/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398411449/large.jpg",
-    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/224768735",
-    "place": "Talbot, London, ON N6P, Canada",
-    "date": "2024-06-23"
+    "id": 66135706,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66135706/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66135706/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41687037",
+    "place": "Townshend, VT, USA",
+    "date": "2020-04-06"
    },
    {
-    "id": 404420482,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/404420482/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/404420482/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/227937725",
-    "place": "Mammoth Lakes, CA 93546, USA",
-    "date": "2024-07-07"
+    "id": 387971909,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387971909/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387971909/large.jpeg",
+    "attribution": "(c) Callicladium, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/218640030",
+    "place": "Elka Park, NY 12427, USA",
+    "date": "2024-05-15"
    }
   ],
   "female": [
+   {
+    "id": 722543080,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/722543080/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/722543080/large.jpg",
+    "attribution": "(c) Scott Fluegel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/394148334",
+    "place": "CR-34, Owatonna, MN, US",
+    "date": "2026-08-24"
+   },
+   {
+    "id": 30455929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30455929/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30455929/large.jpeg",
+    "attribution": "(c) Christopher Martin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/19764689",
+    "place": "16 Belle Ave, Ossining, NY 10562, USA",
+    "date": "2019-01-19"
+   },
    {
     "id": 70685701,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70685701/medium.jpg",
@@ -64,67 +84,47 @@
     "source": "https://www.inaturalist.org/observations/44584729",
     "place": "Division No. 13, MB, Canada",
     "date": "2020-04-30"
-   },
-   {
-    "id": 509792873,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/509792873/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/509792873/large.jpg",
-    "attribution": "(c) Tiffany Shipp, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/283703816",
-    "place": "Hamburg Area, Lexington, KY, USA",
-    "date": "2025-05-24"
-   },
-   {
-    "id": 447180778,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447180778/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447180778/large.jpeg",
-    "attribution": "(c) Jared Lincenberg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/250083773",
-    "place": "Rocky Mountain Lake Loop, Denver, CO, US",
-    "date": "2024-11-01"
    }
   ],
   "juvenile": [
    {
-    "id": 430943718,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/430943718/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/430943718/large.jpeg",
-    "attribution": "(c) Sean Frey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/241780599",
-    "place": "Manitoba, Canada",
-    "date": "2024-09-14"
+    "id": 132372386,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132372386/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132372386/large.jpg",
+    "attribution": "(c) Kyle Tansley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80748616",
+    "place": "Hinesburg, VT, USA",
+    "date": "2021-05-29"
    },
    {
-    "id": 86438817,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86438817/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86438817/large.jpg",
-    "attribution": "(c) Joseph Morlan, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/54327790",
-    "place": "San Mateo County, CA, USA",
-    "date": "2020-07-25"
+    "id": 354172295,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354172295/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354172295/large.jpg",
+    "attribution": "(c) terence zahner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200715726",
+    "place": "Paton Center for Hummingbirds, 477 Pennsylvania Ave, Patagonia, AZ 85624, USA",
+    "date": "2022-05-09"
    },
    {
-    "id": 91958157,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91958157/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91958157/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/57641825",
-    "place": "Ottawa, ON, Canada",
-    "date": "2020-08-21"
+    "id": 146507745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146507745/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146507745/large.jpeg",
+    "attribution": "(c) Austin Lombard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/88773290",
+    "place": "Digby County, NS, Canada",
+    "date": "2021-07-25"
    }
   ],
   "hero": {
-   "id": 355151027,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355151027/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/355151027/large.png",
-   "attribution": "(c) Daniel Levitis, some rights reserved (CC BY), uploaded by Daniel Levitis",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/355151027",
+   "id": 104749271,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/104749271",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 21883842,
+  "worldTotal": 21883843,
   "topCountries": [
    {
     "code": "US",
-    "count": 17879678
+    "count": 17879679
    },
    {
     "code": "CA",
@@ -166,7 +166,7 @@
    },
    {
     "code": "NL",
-    "count": 922
+    "count": 924
    },
    {
     "code": "NO",
@@ -194,12 +194,10 @@
    },
    {
     "code": "DE",
-    "count": 9
+    "count": 7
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

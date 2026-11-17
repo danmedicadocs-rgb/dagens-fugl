@@ -2,7 +2,7 @@
  "key": "calidris-alba",
  "name": "Calidris alba",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:30.154Z",
+ "fetchedAt": "2026-11-17T19:41:47.882Z",
  "names": {
   "da": "Sandløber",
   "en": "Sanderling",
@@ -19,73 +19,103 @@
  },
  "inat": {
   "id": 3849,
-  "observations": 89051
+  "observations": 89378
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 25120626,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25120626/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25120626/large.jpeg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/16659229",
-    "place": "Unnamed Road, Austria",
-    "date": "2018-09-18"
+    "id": 9610159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9610159/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9610159/large.jpg",
+    "attribution": "(c) wtg1940, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/7401237",
+    "place": "Sonoma Coast State Parks, South Salmon Creek State Beach",
+    "date": "2017-08-02"
    },
    {
-    "id": 23555329,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23555329/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23555329/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/15767766",
-    "place": "Revere, MA, USA",
-    "date": "2018-08-21"
+    "id": 47731429,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47731429/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47731429/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30548944",
+    "place": "Helgoland, Deutschland",
+    "date": "2018-10-08"
    },
    {
-    "id": 73860838,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73860838/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73860838/large.jpg",
-    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/46568428",
-    "place": "Ocean City Boardwalk, MD 21842, USA",
-    "date": "2018-04-08"
+    "id": 670510692,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670510692/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670510692/large.jpg",
+    "attribution": "(c) Ashley N., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/367177630",
+    "place": "Nags Head, NC 27959, USA",
+    "date": "2026-05-25"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 76404858,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76404858/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76404858/large.jpg",
-    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/48163274",
-    "place": "Stone Harbor Point, NJ 08247, USA",
-    "date": "2019-04-30"
+    "id": 76809804,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76809804/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76809804/large.jpg",
+    "attribution": "(c) Richard J. Buist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/48408723",
+    "place": "Division No. 18, MB, Canada",
+    "date": "2020-06-03"
    },
    {
-    "id": 664249204,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664249204/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664249204/large.jpg",
-    "attribution": "(c) Jacky Judas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/363874277",
-    "place": "Pas-de-Calais, Nord-Pas-de-Calais, FR",
-    "date": "2026-05-06"
+    "id": 708130939,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/708130939/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/708130939/large.jpg",
+    "attribution": "(c) Rachel Echols, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/386750228",
+    "place": "Fort de Soto Park, Pinellas County, FL, USA",
+    "date": "2026-07-28"
    },
    {
-    "id": 147766728,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147766728/large.jpeg",
-    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89477944",
-    "place": "Québec, Canada",
-    "date": "2021-07-19"
+    "id": 76808653,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76808653/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76808653/large.jpg",
+    "attribution": "(c) Richard J. Buist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/48408316",
+    "place": "Division No. 18, MB, Canada",
+    "date": "2020-06-03"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 94740814,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94740814/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94740814/large.jpg",
+    "attribution": "(c) sashahaldane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59298910",
+    "place": "Tai Tam Bay, Hong Kong, HK",
+    "date": "2020-09-11"
+   },
+   {
+    "id": 91103849,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91103849/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91103849/large.jpg",
+    "attribution": "(c) Ty Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57131036",
+    "place": "SR-790, Farmville, VA, US",
+    "date": "2020-08-21"
+   },
+   {
+    "id": 93502542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/93502542/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/93502542/large.jpg",
+    "attribution": "(c) Kyle Tansley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/58560127",
+    "place": "Malletts Bay, Burlington, VT, USA",
+    "date": "2020-09-04"
    }
   ],
   "hero": {
@@ -101,7 +131,7 @@
  },
  "gbif": {
   "key": 2481748,
-  "dkTotal": 74655,
+  "dkTotal": 74659,
   "dkMonths": [
    4609,
    4035,
@@ -109,14 +139,14 @@
    3706,
    5703,
    1080,
-   6898,
-   15015,
-   12420,
+   6900,
+   15016,
+   12421,
    9048,
    4784,
    3250
   ],
-  "worldTotal": 1937669,
+  "worldTotal": 1938325,
   "topCountries": [
    {
     "code": "US",
@@ -132,31 +162,31 @@
    },
    {
     "code": "DK",
-    "count": 74655
+    "count": 74659
    },
    {
     "code": "ES",
-    "count": 67694
+    "count": 67751
    },
    {
     "code": "NL",
-    "count": 65425
+    "count": 65909
    },
    {
     "code": "SE",
-    "count": 61036
+    "count": 61056
    },
    {
     "code": "PT",
-    "count": 48048
+    "count": 48056
    },
    {
     "code": "FR",
-    "count": 35545
+    "count": 35553
    },
    {
     "code": "NO",
-    "count": 27690
+    "count": 27697
    },
    {
     "code": "MX",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

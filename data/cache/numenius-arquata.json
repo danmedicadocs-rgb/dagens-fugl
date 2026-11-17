@@ -2,7 +2,7 @@
  "key": "numenius-arquata",
  "name": "Numenius arquata",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:12:51.667Z",
+ "fetchedAt": "2026-11-17T19:43:16.639Z",
  "names": {
   "da": "Storspove",
   "en": "Eurasian Curlew",
@@ -19,10 +19,41 @@
  },
  "inat": {
   "id": 3896,
-  "observations": 30770
+  "observations": 30837
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 328901996,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/328901996/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/328901996/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/187997307",
+    "place": "Mihai Viteazu, Romania",
+    "date": "2023-09-19"
+   },
+   {
+    "id": 38854072,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38854072/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38854072/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25104437",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2019-05-10"
+   },
+   {
+    "id": 619345737,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/619345737/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/619345737/large.jpg",
+    "attribution": "(c) fiser_jan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340349420",
+    "place": "6000 Koper, Slovenia",
+    "date": "2026-02-26"
+   }
+  ],
   "female": [
    {
     "id": 60541594,
@@ -45,68 +76,68 @@
     "date": "2026-04-04"
    },
    {
-    "id": 481116509,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481116509/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481116509/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/267701344",
-    "place": "Castle Walk, Ayr, Scotland, GB",
-    "date": "2025-03-24"
+    "id": 534046777,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534046777/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534046777/large.jpg",
+    "attribution": "(c) John Johnston, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/296584921",
+    "place": "Argyll and Bute, Scotland, GB",
+    "date": "2025-07-08"
    }
   ],
   "juvenile": [
    {
-    "id": 702453440,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702453440/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702453440/large.jpg",
-    "attribution": "(c) John Ashburner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/383780751",
-    "place": "Motherby, Penrith CA11 0RJ, UK",
-    "date": "2026-07-21"
+    "id": 214366999,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/214366999/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/214366999/large.jpeg",
+    "attribution": "(c) Kaarle, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/126347239",
+    "place": "88310 Paltamo, Suomi",
+    "date": "2022-07-13"
    },
    {
-    "id": 306182611,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306182611/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306182611/large.jpeg",
-    "attribution": "(c) Pete Bradshaw, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/176140063",
-    "place": "North Ronaldsay KW17, UK",
-    "date": "2023-08-01"
+    "id": 41152169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41152169/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41152169/large.jpeg",
+    "attribution": "(c) mervyngreening, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26498433",
+    "place": "Ashleworth, Gloucester GL19 4LD, UK",
+    "date": "2019-06-06"
    },
    {
-    "id": 207150393,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207150393/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207150393/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/122358964",
-    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
-    "date": "2022-06-18"
+    "id": 248377988,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248377988/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248377988/large.jpeg",
+    "attribution": "(c) wobegoneid6, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/144684373",
+    "place": "Morecambe, North West England, UK",
+    "date": "2021-04-13"
    }
   ],
   "hero": {
-   "id": 52695454,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52695454/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52695454/large.jpg",
-   "attribution": "(c) Joanne Goldby, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/52695454",
+   "id": 149829117,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/large.jpg",
+   "attribution": "(c) alexey_nesmelov, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/149829117",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481792,
-  "dkTotal": 248617,
+  "dkTotal": 248623,
   "dkMonths": [
    18359,
    14088,
    22017,
-   31802,
-   14884,
+   31804,
+   14888,
    16489,
    29390,
    33374,
@@ -115,51 +146,51 @@
    14028,
    11995
   ],
-  "worldTotal": 2689091,
+  "worldTotal": 2690453,
   "topCountries": [
    {
     "code": "SE",
-    "count": 531329
+    "count": 531542
    },
    {
     "code": "GB",
-    "count": 489851
+    "count": 489859
    },
    {
     "code": "NL",
-    "count": 417999
+    "count": 418722
    },
    {
     "code": "DK",
-    "count": 248617
+    "count": 248623
    },
    {
     "code": "NO",
-    "count": 240971
+    "count": 241037
    },
    {
     "code": "FR",
-    "count": 147775
+    "count": 147813
    },
    {
     "code": "BE",
-    "count": 144713
+    "count": 144716
    },
    {
     "code": "FI",
-    "count": 81833
+    "count": 81842
    },
    {
     "code": "ES",
-    "count": 70152
+    "count": 70175
    },
    {
     "code": "DE",
-    "count": 41499
+    "count": 41727
    },
    {
     "code": "IE",
-    "count": 36496
+    "count": 36498
    },
    {
     "code": "PT",
@@ -167,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

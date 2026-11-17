@@ -2,7 +2,7 @@
  "key": "pandion-haliaetus",
  "name": "Pandion haliaetus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:09:20.271Z",
+ "fetchedAt": "2026-11-17T19:39:26.621Z",
  "names": {
   "da": "Fiskeørn",
   "en": "Osprey",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 116999,
-  "observations": 229533
+  "observations": 230002
  },
  "photos": {
   "male": [
    {
-    "id": 96683942,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96683942/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96683942/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/60463387",
-    "place": "100 Humber Bay Park Rd W, Toronto, ON M8V 3X7, Canada",
-    "date": "2020-09-22"
+    "id": 91878521,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91878521/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91878521/large.jpg",
+    "attribution": "(c) terrasantos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57592508",
+    "place": "Red Canyon Rd, Lander, WY, US",
+    "date": "2020-08-25"
    },
    {
-    "id": 175590465,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175590465/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175590465/large.jpeg",
-    "attribution": "(c) Alina Martin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/104749586",
-    "place": "Prince George's County, MD, USA",
-    "date": "2021-07-07"
+    "id": 109584405,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109584405/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109584405/large.jpg",
+    "attribution": "(c) Scott Templeton, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67772171",
+    "place": "Orange County, CA, USA",
+    "date": "2021-01-05"
    },
    {
-    "id": 175572351,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175572351/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175572351/large.jpeg",
-    "attribution": "(c) Lyndsey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/104740719",
-    "place": "Florida, US",
-    "date": "2022-01-10"
+    "id": 211378616,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211378616/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211378616/large.jpeg",
+    "attribution": "(c) Cynthia G. Robertson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124693247",
+    "place": "Lake Murray, San Diego, CA, USA",
+    "date": "2022-07-02"
    }
   ],
   "female": [
+   {
+    "id": 303314944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303314944/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303314944/large.jpeg",
+    "attribution": "(c) Elaina Culpepper, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/174583536",
+    "place": "Accokeek, MD 20607, USA",
+    "date": "2023-07-18"
+   },
    {
     "id": 177173235,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177173235/medium.jpeg",
@@ -66,24 +76,14 @@
     "date": "2022-01-25"
    },
    {
-    "id": 172714914,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172714914/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172714914/large.jpeg",
-    "attribution": "(c) Lyndsey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103226260",
-    "place": "Florida, US",
-    "date": "2021-12-17"
-   },
-   {
-    "id": 556675975,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556675975/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556675975/large.jpg",
-    "attribution": "(c) Timothy A. Parsons, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/308551351",
-    "place": "Ventnor City, NJ, USA",
-    "date": "2025-08-23"
+    "id": 755071393,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755071393/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755071393/large.jpg",
+    "attribution": "(c) nancylightfoot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410543243",
+    "place": "Indiana, US",
+    "date": "2026-10-22"
    }
   ],
   "juvenile": [
@@ -108,30 +108,30 @@
     "date": "2021-08-06"
    },
    {
-    "id": 705049393,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/705049393/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/705049393/large.jpg",
-    "attribution": "(c) Brooke J., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/385133495",
-    "place": "Calaveras County, CA, USA",
-    "date": "2026-07-21"
+    "id": 712826143,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712826143/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712826143/large.jpg",
+    "attribution": "(c) silvertop41, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/389171326",
+    "place": "Chesterfield County, VA, USA",
+    "date": "2026-08-07"
    }
   ],
   "hero": {
-   "id": 451322170,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451322170/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451322170/large.jpg",
-   "attribution": "(c) Lawrence Hylton, some rights reserved (CC BY), uploaded by Lawrence Hylton",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/451322170",
+   "id": 6903515,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/6903515",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480726,
-  "dkTotal": 136905,
+  "dkTotal": 136906,
   "dkMonths": [
    3,
    3,
@@ -140,17 +140,17 @@
    22657,
    5423,
    6361,
-   27784,
+   27785,
    27651,
    1005,
    220,
    6
   ],
-  "worldTotal": 7396444,
+  "worldTotal": 7397273,
   "topCountries": [
    {
     "code": "US",
-    "count": 5174772
+    "count": 5174774
    },
    {
     "code": "CA",
@@ -158,11 +158,11 @@
    },
    {
     "code": "SE",
-    "count": 417358
+    "count": 417378
    },
    {
     "code": "DK",
-    "count": 136905
+    "count": 136906
    },
    {
     "code": "AU",
@@ -170,7 +170,7 @@
    },
    {
     "code": "FI",
-    "count": 91317
+    "count": 91354
    },
    {
     "code": "MX",
@@ -178,7 +178,7 @@
    },
    {
     "code": "NL",
-    "count": 78986
+    "count": 79361
    },
    {
     "code": "TW",
@@ -186,20 +186,18 @@
    },
    {
     "code": "ES",
-    "count": 57572
+    "count": 57585
    },
    {
     "code": "NO",
-    "count": 54494
+    "count": 54496
    },
    {
     "code": "FR",
-    "count": 50592
+    "count": 50595
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

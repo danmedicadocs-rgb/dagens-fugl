@@ -2,7 +2,7 @@
  "key": "eudyptula-minor",
  "name": "Eudyptula minor",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:40:39.084Z",
+ "fetchedAt": "2026-11-17T20:14:43.371Z",
  "names": {
   "da": "Dværgpingvin",
   "en": "Little Penguin",
@@ -19,82 +19,112 @@
  },
  "inat": {
   "id": 3817,
-  "observations": 8235
+  "observations": 8278
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 30384957,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30384957/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30384957/large.jpg",
-    "attribution": "(c) John Steel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/19722313",
-    "place": "Glenledi 9292, New Zealand",
-    "date": "2019-01-19"
+    "id": 397590481,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397590481/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397590481/large.jpeg",
+    "attribution": "(c) Places for Penguins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224334122",
+    "place": "Lyall Bay, Wellington 6022, New Zealand",
+    "date": "2024-06-20"
    },
    {
-    "id": 89264368,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89264368/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89264368/large.jpg",
-    "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/56039541",
-    "place": "Auckland, NZ",
-    "date": "2019-09-19"
+    "id": 27234510,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27234510/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27234510/large.jpg",
+    "attribution": "(c) Mononymous, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/17842019",
+    "place": "St Kilda Breakwater, Victoria, Australia",
+    "date": "2014-03-17"
    },
    {
-    "id": 728112772,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/728112772/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/728112772/large.jpg",
-    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397011755",
-    "place": "Tiritiri Matangi, Auckland, New Zealand",
-    "date": "2014-01-30"
+    "id": 308645919,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308645919/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308645919/large.jpg",
+    "attribution": "(c) Places for Penguins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177458939",
+    "place": "Seatoun, Wellington 6022, New Zealand",
+    "date": "2023-08-09"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 2908154,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2908154/large.jpg",
-    "attribution": "(c) Emily Roberts, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2603434",
-    "place": "New Plymouth",
-    "date": "2015-11-15"
+    "id": 397591795,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397591795/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397591795/large.jpeg",
+    "attribution": "(c) Places for Penguins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224334751",
+    "place": "Lyall Bay, Wellington 6022, New Zealand",
+    "date": "2024-06-20"
    },
    {
-    "id": 761965912,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761965912/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761965912/large.jpg",
-    "attribution": "(c) eklemp, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/413953773",
-    "place": "Motueka, Tasman, NZ",
-    "date": "2026-11-10"
+    "id": 343061296,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343061296/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343061296/large.jpeg",
+    "attribution": "(c) izzy0013, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195062395",
+    "place": "Unnamed Road, Summerlands VIC 3922, Australia",
+    "date": "2023-10-04"
    },
    {
-    "id": 64636889,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64636889/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64636889/large.jpeg",
-    "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/40775294",
-    "place": "Auckland, NZ",
-    "date": "2018-09-11"
+    "id": 446162183,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/446162183/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/446162183/large.jpg",
+    "attribution": "(c) Places for Penguins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/249574000",
+    "place": "Maupuia, Wellington 6022, New Zealand",
+    "date": "2024-10-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 184593275,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184593275/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184593275/large.jpeg",
+    "attribution": "(c) Bryce van der Heide, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109514990",
+    "place": "Albany, AU-WA, AU",
+    "date": "2022-01-22"
+   },
+   {
+    "id": 136659050,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136659050/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136659050/large.jpeg",
+    "attribution": "(c) Michael Keogh, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/83219881",
+    "place": "Summerlands VIC 3922, Australia",
+    "date": "2021-06-15"
+   },
+   {
+    "id": 167330512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167330512/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167330512/large.jpg",
+    "attribution": "(c) highlands, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/100269663",
+    "place": "Ocean View Parade, Port Taranaki, Taranaki, NZ",
+    "date": "2021-10-29"
    }
   ],
   "hero": {
-   "id": 63612085,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63612085/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63612085/large.jpeg",
-   "attribution": "(c) Spencer McIntyre, some rights reserved (CC BY), uploaded by Spencer McIntyre",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/63612085",
+   "id": 141899752,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141899752/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141899752/large.jpg",
+   "attribution": "(c) Alexandre Roux, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/141899752",
    "place": null,
    "date": null
   }
@@ -116,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 564660,
+  "worldTotal": 564661,
   "topCountries": [
    {
     "code": "AU",
-    "count": 545487
+    "count": 545489
    },
    {
     "code": "NZ",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

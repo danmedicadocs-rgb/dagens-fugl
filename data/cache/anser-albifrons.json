@@ -2,7 +2,7 @@
  "key": "anser-albifrons",
  "name": "Anser albifrons",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:02:54.393Z",
+ "fetchedAt": "2026-11-17T19:31:58.258Z",
  "names": {
   "da": "Blisgås",
   "en": "Greater white-fronted goose",
@@ -19,72 +19,112 @@
  },
  "inat": {
   "id": 7019,
-  "observations": 40746
+  "observations": 40937
  },
  "photos": {
   "male": [
    {
-    "id": 473556852,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473556852/large.jpeg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/263587905",
+    "id": 315276027,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315276027/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315276027/large.jpeg",
+    "attribution": "(c) marina_gavrikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/180943625",
     "place": "Юж. административный округ, Москва, Россия",
-    "date": "2025-02-09"
+    "date": "2023-08-25"
+   },
+   {
+    "id": 622516683,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/622516683/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/622516683/large.jpg",
+    "attribution": "(c) Scott Fluegel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341903507",
+    "place": "US-30, Missouri Valley, IA, US",
+    "date": "2026-03-07"
+   },
+   {
+    "id": 550982956,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550982956/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550982956/large.jpg",
+    "attribution": "(c) Alexey Katz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305582318",
+    "place": "Southern Administrative Okrug, Moscow, Russia",
+    "date": "2025-07-30"
    }
   ],
   "female": [
    {
-    "id": 168655501,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168655501/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168655501/large.jpeg",
-    "attribution": "(c) bemma, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101014088",
-    "place": "Beobachtungshütte Rieselfelder Münster, Unnamed Road, 48157 Münster, Germany",
-    "date": "2021-11-13"
+    "id": 643233461,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/643233461/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/643233461/large.jpg",
+    "attribution": "(c) Miranda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/352420650",
+    "place": "Valley City, ND 58072, USA",
+    "date": "2026-04-23"
+   },
+   {
+    "id": 758519315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758519315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758519315/large.jpg",
+    "attribution": "(c) mobbini, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412247547",
+    "place": "Leipzig, Germany",
+    "date": "2026-10-27"
+   },
+   {
+    "id": 270091868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270091868/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/270091868/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/156210584",
+    "place": "Новгородский р-н, Новгородская обл., Россия",
+    "date": "2023-04-23"
    }
   ],
   "juvenile": [
    {
-    "id": 665112749,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665112749/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665112749/large.jpg",
-    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/364339373",
-    "place": "Калининский р-н, Тверская обл., Россия",
-    "date": "2026-05-23"
+    "id": 244216381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244216381/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244216381/large.jpeg",
+    "attribution": "(c) Lina Kaminskaitė, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/142448627",
+    "place": "Žirmūnai, Vilnius, Vilnius city municipality, Lithuania",
+    "date": "2022-11-20"
    },
    {
-    "id": 158636826,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158636826/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158636826/large.jpg",
-    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/95547896",
-    "place": "Ломоносовский р-н, Ленинградская обл., Россия",
-    "date": "2021-09-16"
+    "id": 610445469,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610445469/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610445469/large.jpg",
+    "attribution": "(c) olyapka_kmv, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335972162",
+    "place": "Тепличная улица, Ессентуки, Ставропольский край, RU",
+    "date": "2026-01-24"
    },
    {
-    "id": 753174788,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/753174788/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/753174788/large.jpg",
-    "attribution": "(c) blueheronpronouns, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/409608736",
-    "place": "Nagle Pl, Seattle, WA, US",
-    "date": "2026-10-19"
+    "id": 749603718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/749603718/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/749603718/large.jpg",
+    "attribution": "(c) Иван Ч, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407861456",
+    "place": "Верх-Нейвинский, Новоуральск, Свердловская обл., Россия",
+    "date": "2026-10-12"
    }
   ],
   "hero": {
-   "id": 162867233,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162867233/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162867233/large.jpeg",
-   "attribution": "(c) Bill Levine, some rights reserved (CC BY), uploaded by Bill Levine",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/162867233",
+   "id": 393841552,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393841552/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393841552/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/393841552",
    "place": null,
    "date": null
   }
@@ -106,7 +146,7 @@
    8863,
    9889
   ],
-  "worldTotal": 1692999,
+  "worldTotal": 1693967,
   "topCountries": [
    {
     "code": "US",
@@ -114,11 +154,11 @@
    },
    {
     "code": "SE",
-    "count": 246898
+    "count": 247136
    },
    {
     "code": "NL",
-    "count": 242934
+    "count": 243354
    },
    {
     "code": "DK",
@@ -134,7 +174,7 @@
    },
    {
     "code": "DE",
-    "count": 51173
+    "count": 51434
    },
    {
     "code": "RU",
@@ -146,7 +186,7 @@
    },
    {
     "code": "NO",
-    "count": 22405
+    "count": 22416
    },
    {
     "code": "EE",
@@ -154,12 +194,10 @@
    },
    {
     "code": "PL",
-    "count": 15370
+    "count": 15371
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +212,7 @@
   "type": "flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

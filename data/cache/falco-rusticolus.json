@@ -2,7 +2,7 @@
  "key": "falco-rusticolus",
  "name": "Falco rusticolus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:09:54.727Z",
+ "fetchedAt": "2026-11-17T19:39:58.532Z",
  "names": {
   "da": "Jagtfalk",
   "en": "Gyrfalcon",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4657,
-  "observations": 1253
+  "observations": 1258
  },
  "photos": {
   "male": [
@@ -32,48 +32,99 @@
     "source": "https://www.inaturalist.org/observations/268718830",
     "place": "Division No. 9, CA-NF, CA",
     "date": "2010-02-20"
+   },
+   {
+    "id": 153930332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153930332/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153930332/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/92922706",
+    "place": "Skútustaðahreppur, IS-NE, IS",
+    "date": "2019-07-09"
+   },
+   {
+    "id": 14546126,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14546126/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14546126/large.jpg",
+    "attribution": "(c) Paul Prappas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10466218",
+    "place": "Nome County, US-AK, US",
+    "date": "2018-03-27"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 344941279,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344941279/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344941279/large.jpg",
+    "attribution": "(c) Will Richardson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195989944",
+    "place": "Washoe County, US-NV, US",
+    "date": "2022-01-17"
+   },
+   {
+    "id": 228615994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/228615994/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/228615994/large.jpg",
+    "attribution": "(c) kranavatn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/134148952",
+    "place": "Vestfirðir, IS",
+    "date": "2022-09-07"
+   },
+   {
+    "id": 176912564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176912564/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176912564/large.jpeg",
+    "attribution": "(c) Amaël Borzée, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105441406",
+    "place": "Hulunbuir, CN-NM, CN",
+    "date": "2022-01-22"
+   }
+  ],
   "juvenile": [
    {
-    "id": 670919760,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670919760/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670919760/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/367388805",
-    "place": "Kerry, IE",
-    "date": "2008-12-07"
+    "id": 43913042,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43913042/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43913042/large.jpg",
+    "attribution": "(c) kulyabin67, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/28181187",
+    "place": "Nenetskiy AOk, RU-NN, RU",
+    "date": "2019-07-03"
    },
    {
-    "id": 173136491,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173136491/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173136491/large.jpeg",
-    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103447404",
-    "place": null,
-    "date": "2021-12-22"
+    "id": 109862497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109862497/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109862497/large.jpeg",
+    "attribution": "(c) Игорь Поспелов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67920803",
+    "place": "Khatangskiy rayon, RU-KX, RU",
+    "date": "2006-07-10"
    },
    {
-    "id": 215841905,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215841905/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215841905/large.jpeg",
-    "attribution": "(c) Jakob Tougaard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/127157214",
-    "place": "Borgarbyggð, IS-VL, IS",
-    "date": "2022-07-20"
+    "id": 254438362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254438362/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254438362/large.jpeg",
+    "attribution": "(c) Iuliia Bogomolova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147825249",
+    "place": "Nenetskiy AOk, RU-NN, RU",
+    "date": "2016-07-04"
    }
   ],
   "hero": {
-   "id": 113978450,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113978450/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113978450/large.jpg",
-   "attribution": "(c) psweet, some rights reserved (CC BY-SA), uploaded by psweet",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/113978450",
+   "id": 43913042,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43913042/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43913042/large.jpg",
+   "attribution": "(c) kulyabin67, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/43913042",
    "place": null,
    "date": null
   }
@@ -95,19 +146,19 @@
    283,
    177
   ],
-  "worldTotal": 27300,
+  "worldTotal": 27312,
   "topCountries": [
    {
     "code": "SE",
-    "count": 10748
+    "count": 10749
    },
    {
     "code": "NO",
-    "count": 5938
+    "count": 5942
    },
    {
     "code": "NL",
-    "count": 2607
+    "count": 2614
    },
    {
     "code": "DK",
@@ -147,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

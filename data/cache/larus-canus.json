@@ -2,7 +2,7 @@
  "key": "larus-canus",
  "name": "Larus canus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:47.881Z",
+ "fetchedAt": "2026-11-17T19:45:25.077Z",
  "names": {
   "da": "Stormmåge",
   "en": "Common Gull",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4356,
-  "observations": 48553
+  "observations": 48726
  },
  "photos": {
   "male": [
@@ -56,101 +56,121 @@
   ],
   "female": [
    {
-    "id": 658763162,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658763162/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658763162/large.jpg",
-    "attribution": "(c) Олеся, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/360989603",
-    "place": "Vyborgskiy rayon, RU-LN, RU",
-    "date": "2026-05-12"
+    "id": 676394686,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676394686/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676394686/large.jpg",
+    "attribution": "(c) Francisco J. Serrano Eizaguerri, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/370256044",
+    "place": "Å, Noruega",
+    "date": "2009-07-05"
+   },
+   {
+    "id": 664982928,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664982928/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664982928/large.jpg",
+    "attribution": "(c) Sarah B, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364266630",
+    "place": "Alta, NO-FI, NO",
+    "date": "2026-05-21"
+   },
+   {
+    "id": 667303563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667303563/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667303563/large.jpg",
+    "attribution": "(c) Johanna Honkanen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365491295",
+    "place": "Parikkala, 59100 Parikkala, Suomi",
+    "date": "2026-05-26"
    }
   ],
   "juvenile": [
    {
-    "id": 584367522,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/584367522/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/584367522/large.jpg",
-    "attribution": "(c) Ilkka Tuunainen, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/322980478",
-    "place": "57130 Savonlinna, Suomi",
-    "date": "2025-07-12"
+    "id": 32933786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32933786/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32933786/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21298120",
+    "place": "Пиени-Хепосаари",
+    "date": "2010-06-18"
    },
    {
-    "id": 345853746,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345853746/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345853746/large.jpeg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/196442037",
-    "place": "Algeria",
-    "date": "2024-01-11"
+    "id": 607506488,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607506488/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607506488/large.jpg",
+    "attribution": "(c) Matvei Stepanov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334520249",
+    "place": "Заволжский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-01-11"
    },
    {
-    "id": 700365436,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700365436/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700365436/large.jpg",
-    "attribution": "(c) L. Westerlund, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/382696510",
-    "place": "Solhöjdsgatan, Malmö, Skåne County, SE",
-    "date": "2026-07-18"
+    "id": 65717608,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65717608/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65717608/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41425664",
+    "place": "Лахденпохский р-н, Респ. Карелия, Россия",
+    "date": "2010-06-17"
    }
   ],
   "hero": {
-   "id": 11219296,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11219296/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11219296/large.jpg",
-   "attribution": "(c) Bengt Nyman, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/11219296",
+   "id": 167424428,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167424428/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167424428/large.jpeg",
+   "attribution": "(c) anna_parkhaeva, some rights reserved (CC BY-NC), uploaded by anna_parkhaeva",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/167424428",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 7982160,
-  "dkTotal": 447854,
+  "dkTotal": 447859,
   "dkMonths": [
    53165,
    43970,
    52541,
    42497,
-   32209,
+   32212,
    39383,
    30984,
-   29055,
+   29057,
    27627,
    32471,
    27421,
    33394
   ],
-  "worldTotal": 3545387,
+  "worldTotal": 3547524,
   "topCountries": [
    {
     "code": "SE",
-    "count": 975160
+    "count": 975754
    },
    {
     "code": "NO",
-    "count": 635624
+    "count": 636467
    },
    {
     "code": "DK",
-    "count": 447854
+    "count": 447859
    },
    {
     "code": "GB",
-    "count": 442615
+    "count": 442620
    },
    {
     "code": "FI",
-    "count": 288094
+    "count": 288112
    },
    {
     "code": "NL",
-    "count": 210616
+    "count": 210786
    },
    {
     "code": "BE",
@@ -158,7 +178,7 @@
    },
    {
     "code": "DE",
-    "count": 95546
+    "count": 95778
    },
    {
     "code": "RU",
@@ -166,20 +186,18 @@
    },
    {
     "code": "EE",
-    "count": 45686
+    "count": 45688
    },
    {
     "code": "FR",
-    "count": 45591
+    "count": 45602
    },
    {
     "code": "PL",
-    "count": 33606
+    "count": 33608
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

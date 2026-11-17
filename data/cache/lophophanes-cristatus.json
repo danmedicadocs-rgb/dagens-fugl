@@ -2,7 +2,7 @@
  "key": "lophophanes-cristatus",
  "name": "Lophophanes cristatus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:20:25.445Z",
+ "fetchedAt": "2026-11-17T19:52:00.292Z",
  "names": {
   "da": "Topmejse",
   "en": "European Crested Tit",
@@ -19,74 +19,125 @@
  },
  "inat": {
   "id": 144830,
-  "observations": 18634
+  "observations": 18690
  },
  "photos": {
   "male": [
    {
-    "id": 488783906,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488783906/large.jpeg",
-    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/271717631",
-    "place": "Сосницький район, Чернігівська область, Україна",
-    "date": "2025-04-20"
+    "id": 144036787,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144036787/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144036787/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/87367543",
+    "place": "Alicante, España",
+    "date": "2021-07-14"
+   },
+   {
+    "id": 135028168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135028168/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135028168/large.jpeg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/82278470",
+    "place": "Alcoy, Alicante, España",
+    "date": "2021-06-09"
+   },
+   {
+    "id": 550799599,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550799599/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550799599/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305482068",
+    "place": "Alicante, España",
+    "date": "2025-08-10"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 699538426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699538426/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699538426/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382264219",
+    "place": "Valencia, España",
+    "date": "2026-07-17"
+   },
+   {
+    "id": 266062141,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266062141/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266062141/large.jpeg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154008681",
+    "place": "46880 Bocairente, Valencia, España",
+    "date": "2023-04-08"
+   },
+   {
+    "id": 295425865,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295425865/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295425865/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/170341737",
+    "place": "Alicante, España",
+    "date": "2023-06-29"
+   }
+  ],
   "juvenile": [
    {
-    "id": 384784004,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384784004/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384784004/large.jpeg",
-    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/217501912",
-    "place": "Busenberg, Deutschland",
-    "date": "2024-05-04"
+    "id": 670431731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670431731/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670431731/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/367133600",
+    "place": "Valencia, España",
+    "date": "2026-05-31"
    },
    {
-    "id": 683555205,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/683555205/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/683555205/large.jpg",
-    "attribution": "(c) Echo Severs, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/374002044",
-    "place": "31752 Urrotz, Nafarroa, Spain",
-    "date": "2026-06-21"
+    "id": 652000100,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/652000100/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/652000100/large.jpg",
+    "attribution": "(c) Raúl MT, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/357470317",
+    "place": "Pozuelo de Alarcón, Madrid, España",
+    "date": "2026-04-26"
    },
    {
-    "id": 384783937,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384783937/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384783937/large.jpeg",
-    "attribution": "(c) Micha Baum, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/217501913",
-    "place": "Busenberg, Deutschland",
-    "date": "2024-05-04"
+    "id": 305115682,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305115682/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305115682/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175561646",
+    "place": "Alicante, España",
+    "date": "2023-07-28"
    }
   ],
   "hero": {
-   "id": 90842308,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90842308/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90842308/large.jpeg",
-   "attribution": "(c) Ken Billington, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/90842308",
+   "id": 323017422,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323017422/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323017422/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/323017422",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2487883,
-  "dkTotal": 51609,
+  "dkTotal": 51610,
   "dkMonths": [
    4853,
    4290,
    5812,
    5948,
-   4740,
+   4741,
    2892,
    3018,
    3149,
@@ -95,39 +146,43 @@
    3622,
    3093
   ],
-  "worldTotal": 1350401,
+  "worldTotal": 1402606,
   "topCountries": [
    {
     "code": "SE",
-    "count": 292927
+    "count": 293306
    },
    {
     "code": "FR",
-    "count": 221793
+    "count": 222131
    },
    {
     "code": "ES",
-    "count": 143710
+    "count": 143722
    },
    {
     "code": "NL",
-    "count": 135989
+    "count": 136294
    },
    {
     "code": "FI",
-    "count": 134395
+    "count": 134443
    },
    {
     "code": "DE",
-    "count": 84099
+    "count": 84340
    },
    {
     "code": "NO",
-    "count": 74256
+    "count": 74331
+   },
+   {
+    "code": "CH",
+    "count": 62296
    },
    {
     "code": "DK",
-    "count": 51609
+    "count": 51610
    },
    {
     "code": "BE",
@@ -140,15 +195,9 @@
    {
     "code": "PL",
     "count": 33566
-   },
-   {
-    "code": "IT",
-    "count": 13148
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

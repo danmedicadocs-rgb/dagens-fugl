@@ -2,7 +2,7 @@
  "key": "larus-fuscus",
  "name": "Larus fuscus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:52.464Z",
+ "fetchedAt": "2026-11-17T19:45:31.815Z",
  "names": {
   "da": "Sildemåge",
   "en": null,
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 4381,
-  "observations": 69391
+  "observations": 69634
  },
  "photos": {
   "male": [
    {
-    "id": 379479760,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379479760/large.jpeg",
-    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/214670277",
-    "place": "Far Sawrey, Ambleside LA22 0LR, UK",
-    "date": "2024-05-08"
+    "id": 734976385,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734976385/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734976385/large.jpg",
+    "attribution": "(c) Toby Humby, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/400509122",
+    "place": "PHQV+RG, Gloucester GL2 7BT, UK",
+    "date": "2026-09-09"
    },
    {
-    "id": 343653409,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343653409/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343653409/large.jpeg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195354529",
-    "place": "4500-357 Espinho, Portugal, Portugal",
-    "date": "2023-12-30"
+    "id": 121320737,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121320737/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121320737/large.jpeg",
+    "attribution": "(c) elenamelnikovaozersk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74245587",
+    "place": "Озёрск, Челябинская обл., Россия",
+    "date": "2021-04-17"
    },
    {
-    "id": 594666033,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594666033/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594666033/large.jpg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/328196110",
-    "place": "A Coruña, España",
-    "date": "2023-07-01"
+    "id": 582111067,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582111067/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582111067/large.jpg",
+    "attribution": "(c) tartaleto4ka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321843176",
+    "place": "Ока, Рязань, Рязанская область, RU",
+    "date": "2025-10-19"
    }
   ],
   "female": [
+   {
+    "id": 379012895,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379012895/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379012895/large.jpg",
+    "attribution": "(c) paulo_zenha, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/214428998",
+    "place": "Leiria, PT",
+    "date": "2024-03-04"
+   },
    {
     "id": 101928960,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101928960/medium.jpeg",
@@ -64,60 +74,70 @@
     "source": "https://www.inaturalist.org/observations/63506157",
     "place": "Nigrán, Pontevedra, España",
     "date": "2020-10-25"
+   },
+   {
+    "id": 476095350,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476095350/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476095350/large.jpeg",
+    "attribution": "(c) Remco Hofland, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265090081",
+    "place": "Feijenoord, Rotterdam, Netherlands",
+    "date": "2025-03-05"
    }
   ],
   "juvenile": [
    {
-    "id": 703285324,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703285324/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703285324/large.jpg",
-    "attribution": "(c) Jay Różycka, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384210154",
-    "place": "Øvre Dreggsallmenningen, Bergen, Norway",
-    "date": "2026-07-21"
+    "id": 110093623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110093623/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110093623/large.jpg",
+    "attribution": "(c) Игорь Поспелов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68047388",
+    "place": "Таймырский Долгано-Ненецкий р-н, Красноярский край, Россия",
+    "date": "1999-08-18"
    },
    {
-    "id": 659080124,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659080124/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659080124/large.jpg",
-    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/361150952",
-    "place": "Московский р-н, Тверь, Тверская обл., Россия",
-    "date": "2026-05-13"
+    "id": 585298044,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585298044/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585298044/large.jpg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/323469214",
+    "place": "Великий Новгород, Новгородская обл., Россия",
+    "date": "2025-10-27"
    },
    {
-    "id": 318191831,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318191831/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318191831/large.jpeg",
-    "attribution": "(c) Jorge Íñiguez, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/182490784",
-    "place": "8800 Tavira, Portugal",
-    "date": "2022-11-03"
+    "id": 368593923,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/368593923/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/368593923/large.jpeg",
+    "attribution": "(c) Sean, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208332952",
+    "place": "Toronto, ON, Canada",
+    "date": "2024-04-20"
    }
   ],
   "hero": {
-   "id": 97967534,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97967534/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97967534/large.jpg",
-   "attribution": "(c) Cody Delano, some rights reserved (CC BY), uploaded by Cody Delano",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/97967534",
+   "id": 681433628,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681433628/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681433628/large.jpg",
+   "attribution": "(c) Niall Perrins, some rights reserved (CC BY-NC), uploaded by Niall Perrins",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/681433628",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481174,
-  "dkTotal": 119565,
+  "dkTotal": 119566,
   "dkMonths": [
    278,
    643,
    8748,
    23577,
-   19876,
+   19877,
    12932,
    21582,
    14615,
@@ -126,27 +146,27 @@
    250,
    243
   ],
-  "worldTotal": 8919463,
+  "worldTotal": 8920533,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1475129
+    "count": 1475260
    },
    {
     "code": "GB",
-    "count": 1322856
+    "count": 1322864
    },
    {
     "code": "BE",
-    "count": 1176907
+    "count": 1176908
    },
    {
     "code": "FR",
-    "count": 1154730
+    "count": 1154738
    },
    {
     "code": "ES",
-    "count": 956183
+    "count": 956194
    },
    {
     "code": "MA",
@@ -154,7 +174,7 @@
    },
    {
     "code": "PT",
-    "count": 402228
+    "count": 402235
    },
    {
     "code": "US",
@@ -162,15 +182,15 @@
    },
    {
     "code": "SE",
-    "count": 297319
+    "count": 297383
    },
    {
     "code": "NO",
-    "count": 244988
+    "count": 245638
    },
    {
     "code": "FI",
-    "count": 217176
+    "count": 217181
    },
    {
     "code": "EH",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

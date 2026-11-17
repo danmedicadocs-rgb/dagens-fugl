@@ -2,7 +2,7 @@
  "key": "gelochelidon-nilotica",
  "name": "Gelochelidon nilotica",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:30.166Z",
+ "fetchedAt": "2026-11-17T19:46:13.523Z",
  "names": {
   "da": "Sandterne",
   "en": "Gull-billed Tern",
@@ -19,72 +19,61 @@
  },
  "inat": {
   "id": 144536,
-  "observations": 11341
+  "observations": 11366
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 639371527,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639371527/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639371527/large.jpg",
+    "attribution": "(c) Alison Marley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/350421932",
+    "place": "768H+VFM, Lempira, Honduras",
+    "date": "2026-02-27"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 710967288,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710967288/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710967288/large.jpg",
-    "attribution": "(c) SIA, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/388208461",
-    "place": "Опукский заповедник,Крым",
-    "date": "2026-08-03"
+    "id": 696946984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/696946984/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/696946984/large.jpg",
+    "attribution": "(c) Kirby Morejohn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/380925502",
+    "place": "Imperial Beach, CA, USA",
+    "date": "2026-07-12"
    },
    {
-    "id": 312647779,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312647779/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312647779/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/179572390",
-    "place": "Portugal",
-    "date": "2023-08-19"
-   }
-  ],
-  "adult": [
-   {
-    "id": 456344791,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456344791/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456344791/large.jpeg",
-    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/254734609",
-    "place": "Pantai, kampung sungai kajang baru, 45500 Tanjung Karang, Selangor, Malaysia",
-    "date": "2024-12-05"
+    "id": 556837754,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556837754/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556837754/large.jpg",
+    "attribution": "(c) Neal Brown, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308634288",
+    "place": "Egger Highlands, San Diego, CA, USA",
+    "date": "2025-05-27"
    },
    {
-    "id": 342060675,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342060675/large.jpeg",
-    "attribution": "(c) Tristan Jobin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/194575834",
-    "place": "Pak Tale, Ban Laem District, Phetchaburi, Thailand",
-    "date": "2023-11-28"
-   },
-   {
-    "id": 689988212,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689988212/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689988212/large.jpg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/377323711",
-    "place": "PR97+F4V, Gujarat 362720, India",
-    "date": "2026-06-30"
+    "id": 324748586,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324748586/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/324748586/large.jpg",
+    "attribution": "(c) Pedro Genaro Rodriguez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/185897321",
+    "place": "Bani, Dominican Republic",
+    "date": "2023-08-13"
    }
   ],
   "hero": {
-   "id": 479191344,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191344/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479191344/large.jpeg",
-   "attribution": "(c) Amber M. King, some rights reserved (CC BY), uploaded by Amber M. King",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/479191344",
+   "id": 1927698,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1927698/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1927698/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1927698",
    "place": null,
    "date": null
   }
@@ -106,7 +95,7 @@
    0,
    1
   ],
-  "worldTotal": 363973,
+  "worldTotal": 364014,
   "topCountries": [
    {
     "code": "US",
@@ -114,7 +103,7 @@
    },
    {
     "code": "ES",
-    "count": 47687
+    "count": 47690
    },
    {
     "code": "IN",
@@ -122,7 +111,7 @@
    },
    {
     "code": "FR",
-    "count": 20175
+    "count": 20177
    },
    {
     "code": "AU",
@@ -130,7 +119,7 @@
    },
    {
     "code": "NL",
-    "count": 10157
+    "count": 10159
    },
    {
     "code": "MX",
@@ -142,7 +131,7 @@
    },
    {
     "code": "KE",
-    "count": 6507
+    "count": 6509
    },
    {
     "code": "CN",
@@ -158,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +161,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

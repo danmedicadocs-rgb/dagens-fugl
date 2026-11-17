@@ -2,7 +2,7 @@
  "key": "acridotheres-tristis",
  "name": "Acridotheres tristis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:36:27.515Z",
+ "fetchedAt": "2026-11-17T20:10:33.854Z",
  "names": {
   "da": "Maina",
   "en": "Common myna",
@@ -19,71 +19,112 @@
  },
  "inat": {
   "id": 204454,
-  "observations": 73663
+  "observations": 73954
  },
  "photos": {
   "male": [
    {
-    "id": 70799271,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70799271/large.jpg",
-    "attribution": "(c) pavlaki1968, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/44657081",
-    "place": "Al Garhoud - Dubai - Emirati Arabi Uniti",
-    "date": "2012-08-18"
+    "id": 443685251,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443685251/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443685251/large.jpeg",
+    "attribution": "(c) jmkjmk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/248330149",
+    "place": "Navosa, Fiji",
+    "date": "2024-10-20"
    },
    {
-    "id": 62653457,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62653457/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62653457/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/39494346",
-    "place": "Mkuze, 3965, South Africa",
-    "date": "2020-02-29"
+    "id": 475538469,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/475538469/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/475538469/large.jpeg",
+    "attribution": "(c) Hady Milhem, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/264802623",
+    "place": "الرينة، إسرائيل",
+    "date": "2025-03-10"
+   },
+   {
+    "id": 98057979,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98057979/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98057979/large.jpeg",
+    "attribution": "(c) Beat Akeret, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/61288014",
+    "place": "Sydney New South Wales, Australien",
+    "date": "2005-01-01"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 555115483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555115483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555115483/large.jpg",
+    "attribution": "(c) Ranghrial Biodiversity, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307737135",
+    "place": "2CRJ+PRH, Khaila Kalan, Punjab 151508, India",
+    "date": "2025-08-20"
+   },
+   {
+    "id": 731297117,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731297117/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731297117/large.jpg",
+    "attribution": "(c) tsh_chodensherpa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398637455",
+    "place": "Sikkim, India",
+    "date": "2026-09-04"
+   },
+   {
+    "id": 131470779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131470779/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131470779/large.jpeg",
+    "attribution": "(c) Лапкина Анастасия, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80223517",
+    "place": "Ботанический Сад",
+    "date": "2021-05-22"
+   }
+  ],
   "juvenile": [
    {
-    "id": 594636357,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594636357/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594636357/large.jpg",
-    "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/328180162",
-    "place": "Sydney - Inner, New South Wales, Australia",
-    "date": "2025-11-24"
+    "id": 254587763,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254587763/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254587763/large.jpeg",
+    "attribution": "(c) Chaym Turak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147901207",
+    "place": "עמנואל",
+    "date": "2020-05-06"
    },
    {
-    "id": 543737018,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/543737018/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/543737018/large.jpg",
-    "attribution": "(c) relew, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/301730779",
-    "place": "14, Tambon Sa Khu, Amphoe Thalang, Chang Wat Phuket 83110, Таиланд",
-    "date": "2025-07-28"
+    "id": 52200536,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52200536/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52200536/large.jpeg",
+    "attribution": "(c) Mohammad Marafi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33244907",
+    "place": "Salwa, Kuwait",
+    "date": "2019-09-23"
    },
    {
-    "id": 166085648,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166085648/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166085648/large.jpeg",
-    "attribution": "(c) Ben, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/99608846",
-    "place": "Blue Bay, Mauritius",
-    "date": "2021-10-28"
+    "id": 725080177,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/725080177/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/725080177/large.jpg",
+    "attribution": "(c) Gabriel Laufer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/395438086",
+    "place": "Tel Aviv, IL",
+    "date": "2026-08-29"
    }
   ],
   "hero": {
-   "id": 112489365,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112489365/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112489365/large.jpg",
-   "attribution": "(c) David F. Belmonte, some rights reserved (CC BY), uploaded by David F. Belmonte",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/112489365",
+   "id": 347665088,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347665088/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347665088/large.jpg",
+   "attribution": "(c) Ken Butler, some rights reserved (CC BY-NC), uploaded by Ken Butler",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/347665088",
    "place": null,
    "date": null
   }
@@ -105,23 +146,23 @@
    0,
    0
   ],
-  "worldTotal": 3497272,
+  "worldTotal": 3497356,
   "topCountries": [
    {
     "code": "IN",
-    "count": 1232417
+    "count": 1232421
    },
    {
     "code": "AU",
-    "count": 886511
+    "count": 886513
    },
    {
     "code": "TW",
-    "count": 253366
+    "count": 253367
    },
    {
     "code": "ZA",
-    "count": 213879
+    "count": 213880
    },
    {
     "code": "US",
@@ -129,11 +170,11 @@
    },
    {
     "code": "IL",
-    "count": 117691
+    "count": 117698
    },
    {
     "code": "TH",
-    "count": 116284
+    "count": 116295
    },
    {
     "code": "NZ",
@@ -141,7 +182,7 @@
    },
    {
     "code": "LK",
-    "count": 58176
+    "count": 58178
    },
    {
     "code": "AE",
@@ -157,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

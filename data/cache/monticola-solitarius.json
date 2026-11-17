@@ -2,7 +2,7 @@
  "key": "monticola-solitarius",
  "name": "Monticola solitarius",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:24.640Z",
+ "fetchedAt": "2026-11-17T20:03:05.051Z",
  "names": {
   "da": "Blådrossel",
   "en": "Blue Rock Thrush",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 13141,
-  "observations": 19111
+  "observations": 19176
  },
  "photos": {
   "male": [
+   {
+    "id": 386269509,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/386269509/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/386269509/large.jpg",
+    "attribution": "(c) Jason Talbott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/218292768",
+    "place": "Southeast Farallon, San Francisco, CA, US",
+    "date": "2024-04-25"
+   },
    {
     "id": 233096263,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/233096263/medium.jpeg",
@@ -34,27 +44,37 @@
     "date": "2022-09-09"
    },
    {
-    "id": 611373537,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611373537/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611373537/large.jpg",
-    "attribution": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/336436477",
-    "place": "日本、〒426-0082 静岡県藤枝市瀬古",
-    "date": "2026-01-03"
-   },
-   {
-    "id": 513464782,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513464782/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513464782/large.jpg",
-    "attribution": "(c) Настя Бухвалова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/285661311",
-    "place": "Хасанский р-н, Приморский край, Россия",
-    "date": "2025-05-24"
+    "id": 609645719,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609645719/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609645719/large.jpg",
+    "attribution": "(c) gg_copen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335573910",
+    "place": "Sugikubokita 2-Chōme, Ebina, Kanagawa, JP",
+    "date": "2026-01-21"
    }
   ],
   "female": [
+   {
+    "id": 672643064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/672643064/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/672643064/large.jpg",
+    "attribution": "(c) gg_copen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368283230",
+    "place": "Nakashinden 5-Chōme, Ebina, Kanagawa, JP",
+    "date": "2026-06-04"
+   },
+   {
+    "id": 702540332,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702540332/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702540332/large.jpg",
+    "attribution": "(c) nachiketl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/383825654",
+    "place": "Pune, Maharashtra, IN",
+    "date": "2024-10-12"
+   },
    {
     "id": 593895110,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593895110/medium.jpg",
@@ -64,67 +84,47 @@
     "source": "https://www.inaturalist.org/observations/327784665",
     "place": "Waialua, HI 96791, USA",
     "date": "2025-11-22"
-   },
-   {
-    "id": 400877531,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400877531/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400877531/large.jpg",
-    "attribution": "(c) Timur Kalininsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/226065355",
-    "place": "Район Аоба, Сендай, Мияги, Япония",
-    "date": "2024-06-08"
-   },
-   {
-    "id": 30955075,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30955075/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30955075/large.jpg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/20049188",
-    "place": "Minamishitauramachi Matsuwa, Miura, Kanagawa Prefecture 238-0104, Japan",
-    "date": "2019-02-02"
    }
   ],
   "juvenile": [
    {
-    "id": 337338706,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337338706/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337338706/large.jpeg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/192192700",
-    "place": "Midori Ward, Saitama, Japan",
-    "date": "2023-11-26"
+    "id": 736295897,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/736295897/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/736295897/large.jpg",
+    "attribution": "(c) Heehaw, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/401172394",
+    "place": "Neptune Ct, Singapore",
+    "date": "2026-09-18"
    },
    {
-    "id": 157113229,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157113229/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157113229/large.jpg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/94693489",
-    "place": "Chetaibi, DZ-AN, DZ",
-    "date": "2021-07-01"
+    "id": 258222691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258222691/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258222691/large.jpg",
+    "attribution": "(c) Shang-Kwei Wang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149819615",
+    "place": "台灣高雄市",
+    "date": "2023-02-27"
    },
    {
-    "id": 516571379,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/516571379/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/516571379/large.jpg",
-    "attribution": "(c) Timur Kalininsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/287297538",
-    "place": "Район Аоба, Сендай, Мияги, Япония",
-    "date": "2025-06-06"
+    "id": 589322452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589322452/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589322452/large.jpg",
+    "attribution": "(c) Татьяна Химера, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/325485985",
+    "place": "Какегава, Сидзуока 436-0079, Япония",
+    "date": "2025-08-17"
    }
   ],
   "hero": {
-   "id": 7093842,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7093842/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7093842/large.jpeg",
-   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/7093842",
+   "id": 247607732,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247607732/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247607732/large.jpg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/247607732",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 300492,
+  "worldTotal": 303109,
   "topCountries": [
    {
     "code": "ES",
-    "count": 75248
+    "count": 75261
    },
    {
     "code": "TW",
@@ -158,11 +158,11 @@
    },
    {
     "code": "JP",
-    "count": 32353
+    "count": 32355
    },
    {
     "code": "IN",
-    "count": 18794
+    "count": 18808
    },
    {
     "code": "FR",
@@ -170,11 +170,11 @@
    },
    {
     "code": "PT",
-    "count": 14957
+    "count": 14958
    },
    {
     "code": "GR",
-    "count": 10098
+    "count": 10101
    },
    {
     "code": "TH",
@@ -182,7 +182,7 @@
    },
    {
     "code": "IT",
-    "count": 7723
+    "count": 7727
    },
    {
     "code": "KR",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

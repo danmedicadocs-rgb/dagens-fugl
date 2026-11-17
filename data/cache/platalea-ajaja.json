@@ -2,7 +2,7 @@
  "key": "platalea-ajaja",
  "name": "Platalea ajaja",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:37.974Z",
+ "fetchedAt": "2026-11-17T20:25:17.827Z",
  "names": {
   "da": "Rosaskestork",
   "en": "Roseate Spoonbill",
@@ -19,11 +19,52 @@
  },
  "inat": {
   "id": 62529,
-  "observations": 42034
+  "observations": 42142
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 763608877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/763608877/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/763608877/large.jpg",
+    "attribution": "(c) katiuska19, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/414767704",
+    "place": "Querévalo, Provincia de Chiriquí, Panamá",
+    "date": "2026-11-14"
+   },
+   {
+    "id": 1423636,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1423636/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1423636/large.jpg",
+    "attribution": "(c) delafuente, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1132323",
+    "place": "Soto la Marina, MX-TM, MX",
+    "date": "2014-12-13"
+   },
+   {
+    "id": 1485144,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1485144/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1485144/large.jpg",
+    "attribution": "(c) Mario Alberto Alvarez Lara, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1176832",
+    "place": "Jaumave, MX-TM, MX",
+    "date": "2015-01-13"
+   }
+  ],
   "female": [
+   {
+    "id": 175821671,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175821671/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175821671/large.jpeg",
+    "attribution": "(c) Juan Manuel Carmona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104870776",
+    "place": "Ciudad del Carmen",
+    "date": "2022-01-13"
+   },
    {
     "id": 488568756,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488568756/medium.jpg",
@@ -33,38 +74,48 @@
     "source": "https://www.inaturalist.org/observations/271617743",
     "place": "Celestún, Yuc., México",
     "date": "2025-04-19"
+   },
+   {
+    "id": 339622482,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339622482/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339622482/large.jpeg",
+    "attribution": "(c) aargon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/193339290",
+    "place": "Garabito, CR-PU, CR",
+    "date": "2023-12-07"
    }
   ],
   "juvenile": [
    {
-    "id": 306199715,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306199715/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306199715/large.jpg",
-    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/176144769",
-    "place": "Ken Euers Nature Area, Green Bay, WI, US",
-    "date": "2023-08-01"
+    "id": 134510302,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134510302/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134510302/large.jpg",
+    "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81981227",
+    "place": "Bolivar Peninsula, TX, USA",
+    "date": "2021-05-31"
    },
    {
-    "id": 409757680,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409757680/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409757680/large.jpeg",
-    "attribution": "(c) JD Flores, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/230654356",
-    "place": "Chapel Hill, NC 27517, USA",
-    "date": "2024-07-20"
+    "id": 581103412,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/581103412/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/581103412/large.jpg",
+    "attribution": "(c) Scott Wieman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321325542",
+    "place": "Ocean Bluff-Brant Rock, Marshfield, MA, USA",
+    "date": "2025-10-16"
    },
    {
-    "id": 307057485,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307057485/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307057485/large.jpeg",
-    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/175734642",
-    "place": "Ken Euers Nature Area, Green Bay, WI, US",
-    "date": "2023-07-30"
+    "id": 150187159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150187159/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150187159/large.jpg",
+    "attribution": "(c) Joel Díaz López, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/90848073",
+    "place": "Cd Valles, S.L.P., México",
+    "date": "2021-08-07"
    }
   ],
   "hero": {
@@ -95,7 +146,7 @@
    0,
    2
   ],
-  "worldTotal": 679932,
+  "worldTotal": 679935,
   "topCountries": [
    {
     "code": "US",
@@ -103,7 +154,7 @@
    },
    {
     "code": "MX",
-    "count": 26557
+    "count": 26558
    },
    {
     "code": "CR",
@@ -111,7 +162,7 @@
    },
    {
     "code": "BR",
-    "count": 19599
+    "count": 19602
    },
    {
     "code": "AR",
@@ -147,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

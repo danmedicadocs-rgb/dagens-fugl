@@ -2,7 +2,7 @@
  "key": "strix-uralensis",
  "name": "Strix uralensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:30:50.203Z",
+ "fetchedAt": "2026-11-17T20:04:39.974Z",
  "names": {
   "da": "Slagugle",
   "en": "Ural Owl",
@@ -19,94 +19,114 @@
  },
  "inat": {
   "id": 19910,
-  "observations": 8570
+  "observations": 8608
  },
  "photos": {
   "male": [
    {
-    "id": 345665867,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/196352034",
-    "place": "ул. Ленина 19Е, г. Нефтекамск, Респ. Башкортостан, Россия",
-    "date": "2023-12-04"
+    "id": 566724364,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566724364/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566724364/large.jpg",
+    "attribution": "(c) Егор Воробьев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/313804424",
+    "place": "Павловск, Санкт-Петербург, Россия",
+    "date": "2025-06-26"
+   },
+   {
+    "id": 401723788,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401723788/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401723788/large.jpeg",
+    "attribution": "(c) Ярослав, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/226508085",
+    "place": "Pеспублика, Пенсионер Ижевск, республика Удмуртия, Россия, 426038",
+    "date": "2024-06-24"
+   },
+   {
+    "id": 64816795,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64816795/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64816795/large.jpeg",
+    "attribution": "(c) Denis Ivanov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/40883194",
+    "place": "Vysokogorskiy rayon, RU-TT, RU",
+    "date": "2020-03-28"
    }
   ],
   "female": [
    {
-    "id": 375802068,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375802068/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375802068/large.jpg",
-    "attribution": "(c) Oleg Kosterin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/212659307",
-    "place": "Iskitimskiy rayon, RU-NS, RU",
-    "date": "2024-04-30"
+    "id": 205079995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205079995/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205079995/large.jpg",
+    "attribution": "(c) ovechka1991baranova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/121204116",
+    "place": "Северо-Восточный административный округ, Москва, Россия",
+    "date": "2022-06-10"
    },
    {
-    "id": 375214566,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375214566/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375214566/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/212319202",
-    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
-    "date": "2024-04-30"
+    "id": 111344252,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111344252/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111344252/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68719145",
+    "place": "Biržų, LT-PA, LT",
+    "date": "2018-05-07"
    },
    {
-    "id": 449609952,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449609952/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449609952/large.jpg",
-    "attribution": "(c) Jono, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/251291379",
-    "place": null,
-    "date": "2023-05-10"
+    "id": 460175609,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460175609/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460175609/large.jpg",
+    "attribution": "(c) Shumik A, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256632028",
+    "place": "Суземский р-н, Брянская обл., Россия",
+    "date": "2011-12-01"
    }
   ],
   "juvenile": [
    {
-    "id": 117844954,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117844954/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117844954/large.jpeg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72295482",
-    "place": "Респ. Башкортостан, Россия, 450075",
-    "date": "2019-04-05"
+    "id": 127379400,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127379400/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127379400/large.jpg",
+    "attribution": "(c) acanthis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/77868366",
+    "place": "г. Сортавала, Респ. Карелия, Россия",
+    "date": "2013-07-10"
    },
    {
-    "id": 406877739,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406877739/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/406877739/large.jpeg",
-    "attribution": "(c) Anastasiia Samokhvalova, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/229230453",
-    "place": "Сахалинская обл., Россия, 693023",
-    "date": "2024-07-14"
+    "id": 723772905,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723772905/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723772905/large.jpg",
+    "attribution": "(c) Dmitriewskii, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/394776817",
+    "place": "Sverdlovsk, RU",
+    "date": "2026-08-14"
    },
    {
-    "id": 524893001,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524893001/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524893001/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/291718998",
-    "place": "Lesser Poland, PL",
-    "date": "2025-06-22"
+    "id": 57162936,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57162936/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57162936/large.jpeg",
+    "attribution": "(c) Данилова Валерия, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36182135",
+    "place": "Ленинский р-н, Чебоксары, Чувашская Респ., Россия",
+    "date": "2019-05-28"
    }
   ],
   "hero": {
-   "id": 345665867,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345665867/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/196352034",
-   "place": "ул. Ленина 19Е, г. Нефтекамск, Респ. Башкортостан, Россия",
-   "date": "2023-12-04"
+   "id": 31507926,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31507926/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31507926/large.jpg",
+   "attribution": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/31507926",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 157800,
+  "worldTotal": 158008,
   "topCountries": [
    {
     "code": "FI",
-    "count": 114813
+    "count": 114822
    },
    {
     "code": "SE",
-    "count": 26530
+    "count": 26729
    },
    {
     "code": "RU",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

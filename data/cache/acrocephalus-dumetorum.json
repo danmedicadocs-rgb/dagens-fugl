@@ -2,7 +2,7 @@
  "key": "acrocephalus-dumetorum",
  "name": "Acrocephalus dumetorum",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:02.557Z",
+ "fetchedAt": "2026-11-17T19:55:02.199Z",
  "names": {
   "da": "Buskrørsanger",
   "en": "Blyth’s Reed Warbler",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 116797,
-  "observations": 15120
+  "observations": 15152
  },
  "photos": {
   "male": [
@@ -34,66 +34,87 @@
     "date": "2021-06-02"
    },
    {
-    "id": 76836942,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76836942/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76836942/large.jpg",
-    "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/48425216",
-    "place": "Пискарёвский парк, Санкт-Петербург, Россия",
-    "date": "2020-06-02"
+    "id": 506625995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506625995/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506625995/large.jpg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/281992235",
+    "place": "Великий Новгород, Новгородская обл., Россия, 173014",
+    "date": "2025-05-18"
    },
    {
-    "id": 84225867,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84225867/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84225867/large.jpeg",
-    "attribution": "(c) Борис Георги, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/52967514",
-    "place": "Гольяны, республика Удмуртия, Россия, 427002",
-    "date": "2020-07-11"
+    "id": 204842402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204842402/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204842402/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/121071262",
+    "place": "Ленинский р-н, Киров, Кировская обл., Россия",
+    "date": "2022-06-01"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 212994172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212994172/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212994172/large.jpeg",
+    "attribution": "(c) Анна Чернопалкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125589322",
+    "place": "Ленинградская обл., Россия, 188674",
+    "date": "2022-07-10"
+   },
+   {
+    "id": 515129770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515129770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515129770/large.jpg",
+    "attribution": "(c) Ирина Рогова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286535847",
+    "place": "Красносельский р-н, Санкт-Петербург, Россия",
+    "date": "2025-06-03"
+   }
+  ],
   "juvenile": [
    {
-    "id": 59730959,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730959/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730959/large.jpeg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37650121",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2015-07-29"
+    "id": 418790600,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418790600/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418790600/large.jpg",
+    "attribution": "(c) pavelscvo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/235477100",
+    "place": "Ленинский р-н, Оренбург, Оренбургская обл., Россия",
+    "date": "2024-08-13"
    },
    {
-    "id": 704659853,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704659853/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704659853/large.jpg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384927588",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2026-07-25"
+    "id": 530335108,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530335108/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530335108/large.jpg",
+    "attribution": "(c) Мария Пахлеванова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/294634532",
+    "place": "Moskva, RU",
+    "date": "2025-07-02"
    },
    {
-    "id": 70474757,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70474757/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70474757/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/44448476",
-    "place": "Пионерский, Свердловская обл., Россия",
-    "date": "2017-08-08"
+    "id": 310734272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310734272/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310734272/large.jpeg",
+    "attribution": "(c) Amalia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/178560932",
+    "place": "г. Новочебоксарск, Чувашская Респ., Россия",
+    "date": "2023-08-15"
    }
   ],
   "hero": {
-   "id": 133342663,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133342663/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133342663/large.jpg",
-   "attribution": "(c) Andrey Gulivanov, some rights reserved (CC BY), uploaded by Andrey Gulivanov",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/133342663",
+   "id": 79630739,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79630739/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79630739/large.jpeg",
+   "attribution": "(c) Olavi60, some rights reserved (CC BY-NC), uploaded by Olavi60",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/79630739",
    "place": null,
    "date": null
   }
@@ -115,19 +136,19 @@
    0,
    0
   ],
-  "worldTotal": 335568,
+  "worldTotal": 335737,
   "topCountries": [
    {
     "code": "IN",
-    "count": 219509
+    "count": 219511
    },
    {
     "code": "SE",
-    "count": 34817
+    "count": 34818
    },
    {
     "code": "FI",
-    "count": 26387
+    "count": 26550
    },
    {
     "code": "RU",
@@ -139,7 +160,7 @@
    },
    {
     "code": "NL",
-    "count": 5361
+    "count": 5362
    },
    {
     "code": "LK",
@@ -159,7 +180,7 @@
    },
    {
     "code": "KZ",
-    "count": 1471
+    "count": 1472
    },
    {
     "code": "BD",
@@ -167,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

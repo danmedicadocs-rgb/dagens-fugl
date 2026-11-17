@@ -2,7 +2,7 @@
  "key": "charadrius-hiaticula",
  "name": "Charadrius hiaticula",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:43.854Z",
+ "fetchedAt": "2026-11-17T19:40:56.936Z",
  "names": {
   "da": "Stor præstekrave",
   "en": "Common Ringed Plover",
@@ -19,19 +19,39 @@
  },
  "inat": {
   "id": 4801,
-  "observations": 29115
+  "observations": 29206
  },
  "photos": {
   "male": [
    {
-    "id": 609040907,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609040907/large.jpg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/335276715",
-    "place": "Sveitarfélagið Hornafjörður, Iceland",
-    "date": "2025-06-12"
+    "id": 559159901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559159901/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559159901/large.jpg",
+    "attribution": "(c) joanneschmbn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307552392",
+    "place": "France",
+    "date": "2025-08-19"
+   },
+   {
+    "id": 202542157,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202542157/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202542157/large.jpeg",
+    "attribution": "(c) Pascal Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/119791761",
+    "place": "Almería, Andalucía, Spain",
+    "date": "2022-05-02"
+   },
+   {
+    "id": 599182191,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599182191/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599182191/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330431275",
+    "place": "Parque del Guadalhorce, Churriana, 29004 Málaga, Spain",
+    "date": "2019-08-07"
    }
   ],
   "female": [
@@ -54,105 +74,115 @@
     "source": "https://www.inaturalist.org/observations/253617591",
     "place": "Las Palmas, Spain",
     "date": "2024-09-01"
+   },
+   {
+    "id": 252086491,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252086491/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252086491/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/146604663",
+    "place": "Málaga, Spain",
+    "date": "2023-01-10"
    }
   ],
   "juvenile": [
    {
-    "id": 508833604,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508833604/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508833604/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/283192572",
-    "place": "Ireland",
-    "date": "2025-05-22"
+    "id": 752342019,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752342019/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752342019/large.jpg",
+    "attribution": "(c) timur2004, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/409204571",
+    "place": "Пучеж, Ивановская обл., Россия",
+    "date": "2026-10-18"
    },
    {
-    "id": 745449597,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745449597/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745449597/large.jpg",
-    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/405807081",
-    "place": "Colyford, Colyton EX24 6QP, UK",
-    "date": "2026-09-06"
+    "id": 332317491,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332317491/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332317491/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/189667055",
+    "place": "Dunkerque, France",
+    "date": "2023-10-16"
    },
    {
-    "id": 177683839,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177683839/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177683839/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/105843054",
-    "place": "Nelson Mandela Bay, ZA-EC, ZA",
-    "date": "2022-01-29"
+    "id": 79781064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79781064/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79781064/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/50242218",
+    "place": "Pas-de-Calais, Nord-Pas-de-Calais, FR",
+    "date": "2020-06-14"
    }
   ],
   "hero": {
-   "id": 97508320,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97508320/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97508320/large.jpg",
-   "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY), uploaded by Вячеслав Юсупов",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/97508320",
+   "id": 8956,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8956/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8956/large.jpg",
+   "attribution": "(c) Paul Roberts, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/8956",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 9566659,
-  "dkTotal": 215463,
+  "dkTotal": 215476,
   "dkMonths": [
    493,
    4570,
    23315,
    23564,
-   32625,
+   32633,
    19873,
-   36185,
-   46001,
+   36188,
+   46003,
    22509,
    5513,
    503,
    228
   ],
-  "worldTotal": 1879342,
+  "worldTotal": 1879925,
   "topCountries": [
    {
     "code": "SE",
-    "count": 464962
+    "count": 465021
    },
    {
     "code": "DK",
-    "count": 215463
+    "count": 215476
    },
    {
     "code": "GB",
-    "count": 214782
+    "count": 214783
    },
    {
     "code": "NO",
-    "count": 213790
+    "count": 213808
    },
    {
     "code": "NL",
-    "count": 190022
+    "count": 190195
    },
    {
     "code": "ES",
-    "count": 125460
+    "count": 125503
    },
    {
     "code": "FR",
-    "count": 78952
+    "count": 78966
    },
    {
     "code": "PT",
-    "count": 56783
+    "count": 56786
    },
    {
     "code": "FI",
-    "count": 37314
+    "count": 37322
    },
    {
     "code": "ZA",
@@ -164,12 +194,10 @@
    },
    {
     "code": "DE",
-    "count": 22121
+    "count": 22328
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "phylloscopus-trochilus",
  "name": "Phylloscopus trochilus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:41.801Z",
+ "fetchedAt": "2026-11-17T19:53:26.022Z",
  "names": {
   "da": "Løvsanger",
   "en": "Willow Warbler",
@@ -19,54 +19,84 @@
  },
  "inat": {
   "id": 117055,
-  "observations": 35417
+  "observations": 35458
  },
  "photos": {
   "male": [
    {
-    "id": 500830340,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500830340/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500830340/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/278912864",
-    "place": "Карабаш, Челябинская обл., Россия",
-    "date": "2025-05-06"
+    "id": 375650069,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375650069/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375650069/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/212570861",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2024-04-29"
    },
    {
-    "id": 493836759,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493836759/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/274736928",
-    "place": "Montrose DD10 9TN, UK",
-    "date": "2025-04-27"
+    "id": 70486575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70486575/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70486575/large.jpg",
+    "attribution": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/44456061",
+    "place": "Osterrönfeld, Deutschland",
+    "date": "2020-04-27"
    },
    {
-    "id": 54719902,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54719902/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54719902/large.jpg",
-    "attribution": "(c) Виктор, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/34745257",
-    "place": "Выборгский р-н, Ленинградская обл., Россия",
-    "date": "2019-05-16"
+    "id": 274932900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/274932900/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/274932900/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/159133570",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2023-04-30"
    }
   ],
   "female": [
    {
-    "id": 215153480,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215153480/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215153480/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/126781321",
-    "place": "Индустриальный р-н, Пермь, Пермский край, Россия",
-    "date": "2022-07-18"
+    "id": 365243229,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365243229/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365243229/large.jpeg",
+    "attribution": "(c) LibProj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/206509184",
+    "place": "Harrow, UK",
+    "date": "2024-04-08"
+   },
+   {
+    "id": 214714392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/214714392/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/214714392/large.jpeg",
+    "attribution": "(c) Иннокентий Паршков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/126547361",
+    "place": "Ногинский р-н, Московская обл., Россия",
+    "date": "2022-07-04"
+   },
+   {
+    "id": 304290722,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304290722/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304290722/large.jpg",
+    "attribution": "(c) Nadehda_FNG, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/174911885",
+    "place": "Приозерский р-н, Ленинградская обл., Россия",
+    "date": "2023-07-25"
    }
   ],
   "juvenile": [
+   {
+    "id": 223055859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223055859/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223055859/large.jpg",
+    "attribution": "(c) Shamil Murtazin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131103712",
+    "place": "Кармаскалинский р-н, сады",
+    "date": "2022-08-13"
+   },
    {
     "id": 535659468,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535659468/medium.jpg",
@@ -86,38 +116,28 @@
     "source": "https://www.inaturalist.org/observations/399256027",
     "place": "4292 Dobri dol, Bulgaria",
     "date": "2026-09-10"
-   },
-   {
-    "id": 732954287,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732954287/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732954287/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/399491510",
-    "place": "4292 Dobri dol, Bulgaria",
-    "date": "2026-09-11"
    }
   ],
   "hero": {
-   "id": 15234859,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15234859/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15234859/large.jpg",
-   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/15234859",
+   "id": 165631422,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165631422/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165631422/large.jpeg",
+   "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC), uploaded by Valia Pavlou",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/165631422",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2493052,
-  "dkTotal": 233599,
+  "dkTotal": 233606,
   "dkMonths": [
    0,
    3,
    8,
-   53142,
-   89242,
+   53143,
+   89248,
    38511,
    13245,
    25118,
@@ -126,51 +146,51 @@
    24,
    4
   ],
-  "worldTotal": 5268186,
+  "worldTotal": 5292444,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1684653
+    "count": 1684996
    },
    {
     "code": "FI",
-    "count": 1121640
+    "count": 1121645
    },
    {
     "code": "NO",
-    "count": 392807
+    "count": 392848
    },
    {
     "code": "ES",
-    "count": 341592
+    "count": 341593
    },
    {
     "code": "NL",
-    "count": 336293
+    "count": 336340
    },
    {
     "code": "GB",
-    "count": 332577
+    "count": 332578
    },
    {
     "code": "DK",
-    "count": 233599
+    "count": 233606
    },
    {
     "code": "FR",
-    "count": 180640
+    "count": 180864
    },
    {
     "code": "DE",
-    "count": 83013
+    "count": 83967
    },
    {
     "code": "BE",
-    "count": 71424
+    "count": 71425
    },
    {
     "code": "PL",
-    "count": 62621
+    "count": 62625
    },
    {
     "code": "ZA",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "platalea-leucorodia",
  "name": "Platalea leucorodia",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:54.107Z",
+ "fetchedAt": "2026-11-17T19:37:44.576Z",
  "names": {
   "da": "Skestork",
   "en": "Eurasian Spoonbill",
@@ -19,120 +19,130 @@
  },
  "inat": {
   "id": 3731,
-  "observations": 25238
+  "observations": 25317
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 607935425,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607935425/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607935425/large.jpg",
-    "attribution": "(c) marius, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/334731382",
-    "place": "40440 Ondres, France",
-    "date": "2026-01-14"
+    "id": 611634136,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611634136/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611634136/large.jpg",
+    "attribution": "(c) harshithjv, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/336564194",
+    "place": "Ranganathittu Bird Sanctuary, Srirangapatna, Karnataka",
+    "date": "2026-01-03"
    },
    {
-    "id": 387568903,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387568903/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387568903/large.jpg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/218995633",
-    "place": "RSPB Fairburn Ings, West Yorkshire, UK",
-    "date": "2024-05-24"
+    "id": 753692501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/753692501/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/753692501/large.jpg",
+    "attribution": "(c) Shahrzad Fattahi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/409863777",
+    "place": "Nazarabad, Iran",
+    "date": "2026-04-27"
    },
    {
-    "id": 347706570,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347706570/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347706570/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/197421118",
-    "place": "Guérande, France",
-    "date": "2024-01-20"
+    "id": 747457470,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/747457470/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/747457470/large.jpg",
+    "attribution": "(c) Colin Haggart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406800035",
+    "place": "Gloucestershire, UK",
+    "date": "2026-02-16"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 675344130,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675344130/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/369715703",
-    "place": "Ciudad Real, España",
-    "date": "2026-06-02"
+    "id": 509565927,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/509565927/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/509565927/large.jpg",
+    "attribution": "(c) Sander, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/283578012",
+    "place": "3402 PP IJsselstein, Nederland",
+    "date": "2025-05-22"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 109132098,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109132098/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109132098/large.jpeg",
+    "attribution": "(c) Vitalii Kolomiichuk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67533336",
+    "place": "Novotro‹ts'kyi, UA-KS, UA",
+    "date": "2015-07-04"
    },
    {
-    "id": 474312888,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474312888/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474312888/large.jpg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/263971456",
-    "place": "RSPB Blacktoft Sands, Goole, East Riding of Yorkshire, UK",
-    "date": "2025-03-04"
+    "id": 106985307,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106985307/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106985307/large.jpeg",
+    "attribution": "(c) Sanket Bokil, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66373430",
+    "place": "Bhigwan Bird Sanctuary",
+    "date": "2018-12-16"
    },
    {
-    "id": 528284932,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/528284932/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/528284932/large.jpg",
-    "attribution": "(c) Marcello Manara, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293518810",
-    "place": "6880 Tarm, Danimarca",
-    "date": "2025-06-19"
+    "id": 32397597,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32397597/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32397597/large.jpg",
+    "attribution": "(c) Gerben ter Haar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20979667",
+    "place": "9978 Hornhuizen, Nederland",
+    "date": "2017-12-08"
    }
   ],
   "hero": {
-   "id": 7519861,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7519861/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7519861/large.jpg",
-   "attribution": "(c) Paolo Zucca, some rights reserved (CC BY), uploaded by Paolo Zucca",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/7519861",
+   "id": 361908239,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361908239/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361908239/large.jpg",
+   "attribution": "(c) Tobias Polzer, some rights reserved (CC BY-NC), uploaded by Tobias Polzer",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/361908239",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480801,
-  "dkTotal": 50760,
+  "dkTotal": 50765,
   "dkMonths": [
    84,
    264,
    2106,
    5223,
-   10059,
+   10060,
    7611,
-   10529,
+   10532,
    9709,
-   4691,
+   4692,
    215,
    164,
    73
   ],
-  "worldTotal": 1349699,
+  "worldTotal": 1350208,
   "topCountries": [
    {
     "code": "NL",
-    "count": 646483
+    "count": 646792
    },
    {
     "code": "ES",
-    "count": 152397
+    "count": 152423
    },
    {
     "code": "FR",
-    "count": 117453
+    "count": 117469
    },
    {
     "code": "BE",
-    "count": 81763
+    "count": 81765
    },
    {
     "code": "PT",
@@ -144,7 +154,7 @@
    },
    {
     "code": "DK",
-    "count": 50760
+    "count": 50765
    },
    {
     "code": "GB",
@@ -152,7 +162,7 @@
    },
    {
     "code": "IL",
-    "count": 12493
+    "count": 12494
    },
    {
     "code": "CN",
@@ -160,7 +170,7 @@
    },
    {
     "code": "SE",
-    "count": 9547
+    "count": 9549
    },
    {
     "code": "TW",
@@ -168,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +192,7 @@
   "type": "begging call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

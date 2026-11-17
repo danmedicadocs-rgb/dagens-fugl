@@ -2,7 +2,7 @@
  "key": "pluvialis-apricaria",
  "name": "Pluvialis apricaria",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:08.794Z",
+ "fetchedAt": "2026-11-17T19:41:25.105Z",
  "names": {
   "da": "Hjejle",
   "en": "European Golden Plover",
@@ -19,95 +19,146 @@
  },
  "inat": {
   "id": 4889,
-  "observations": 10483
+  "observations": 10524
  },
  "photos": {
   "male": [
    {
-    "id": 149490,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/large.jpg",
-    "attribution": "(c) Kirill Ignatyev, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/103728",
-    "place": "Vålåsjø, Oppland Fylke, Norway",
-    "date": "2012-07-04"
+    "id": 360586444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360586444/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360586444/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/204038818",
+    "place": "Ушерско, Новгородская обл., Россия, 173020",
+    "date": "2024-03-26"
    },
    {
-    "id": 658972035,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658972035/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658972035/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/361094402",
-    "place": "Атнинский р-н, Респ. Татарстан, Россия",
-    "date": "2026-05-12"
+    "id": 47600920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47600920/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47600920/large.jpg",
+    "attribution": "(c) Ken Harris EntSocVic, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30466108",
+    "place": "Ísafjörður, Iceland",
+    "date": "1969-07-14"
    },
    {
-    "id": 113973681,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113973681/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113973681/large.jpeg",
-    "attribution": "(c) Gazza, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70143828",
-    "place": "North Yorkshire, England, GB",
-    "date": "2021-02-25"
+    "id": 540769971,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540769971/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540769971/large.jpg",
+    "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/300153537",
+    "place": "Andoy, Norway",
+    "date": "2025-07-14"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 657275875,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657275875/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657275875/large.jpg",
+    "attribution": "(c) Irina Butorina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360211859",
+    "place": "Мезенский р-н, Архангельская обл., Россия",
+    "date": "2026-05-07"
+   },
+   {
+    "id": 644807692,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/644807692/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/644807692/large.jpg",
+    "attribution": "(c) Petteri Mäkelä, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/353384573",
+    "place": "Korvenojantie P, 28560 Pori, Suomi",
+    "date": "2026-04-19"
+   },
+   {
+    "id": 556652951,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556652951/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556652951/large.jpg",
+    "attribution": "(c) Xavier Raynaud, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/308546710",
+    "place": "Reykjavík, Höfuðborgarsvæði, Iceland",
+    "date": "2007-10-15"
+   }
+  ],
   "juvenile": [
    {
-    "id": 148325469,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148325469/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148325469/large.jpeg",
-    "attribution": "(c) Eva Uzdilova, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89795942",
-    "place": "Nahořany, Česko",
-    "date": "2020-07-22"
+    "id": 699635985,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699635985/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699635985/large.jpg",
+    "attribution": "(c) Mathys Pugenger, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382315510",
+    "place": "Staffin, Portree, Royaume-Uni",
+    "date": "2026-07-07"
+   },
+   {
+    "id": 733861675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/733861675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/733861675/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/399970475",
+    "place": "Пеновский р-н, Тверская обл., Россия",
+    "date": "2026-09-11"
+   },
+   {
+    "id": 733862245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/733862245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/733862245/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/399970548",
+    "place": "Пеновский р-н, Тверская обл., Россия",
+    "date": "2026-09-12"
    }
   ],
   "hero": {
-   "id": 149490,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149490/large.jpg",
-   "attribution": "(c) Kirill Ignatyev, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/103728",
-   "place": "Vålåsjø, Oppland Fylke, Norway",
-   "date": "2012-07-04"
+   "id": 2301068,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301068/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2301068/large.jpg",
+   "attribution": "(c) Kari Pihlaviita, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/2301068",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2480332,
-  "dkTotal": 193175,
+  "dkTotal": 193180,
   "dkMonths": [
    3443,
    4531,
    11659,
-   19171,
-   9764,
+   19172,
+   9765,
    1379,
-   14322,
-   41936,
+   14323,
+   41938,
    33305,
    33878,
    15068,
    4612
   ],
-  "worldTotal": 1112811,
+  "worldTotal": 1113438,
   "topCountries": [
    {
     "code": "SE",
-    "count": 311409
+    "count": 311573
    },
    {
     "code": "DK",
-    "count": 193175
+    "count": 193180
    },
    {
     "code": "NO",
-    "count": 146375
+    "count": 146385
    },
    {
     "code": "GB",
@@ -115,11 +166,11 @@
    },
    {
     "code": "NL",
-    "count": 95779
+    "count": 96168
    },
    {
     "code": "FR",
-    "count": 50546
+    "count": 50550
    },
    {
     "code": "IS",
@@ -127,11 +178,11 @@
    },
    {
     "code": "ES",
-    "count": 27434
+    "count": 27436
    },
    {
     "code": "FI",
-    "count": 25149
+    "count": 25161
    },
    {
     "code": "BE",
@@ -139,7 +190,7 @@
    },
    {
     "code": "DE",
-    "count": 12954
+    "count": 12994
    },
    {
     "code": "EE",
@@ -147,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

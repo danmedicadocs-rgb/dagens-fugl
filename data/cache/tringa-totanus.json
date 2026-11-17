@@ -2,7 +2,7 @@
  "key": "tringa-totanus",
  "name": "Tringa totanus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:03.572Z",
+ "fetchedAt": "2026-11-17T19:43:27.456Z",
  "names": {
   "da": "Rødben",
   "en": "Common Redshank",
@@ -19,95 +19,94 @@
  },
  "inat": {
   "id": 3879,
-  "observations": 47635
+  "observations": 47749
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 698402370,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698402370/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698402370/large.jpg",
+    "attribution": "(c) cerera1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/381674709",
+    "place": "Минский район, Минская область, Беларусь",
+    "date": "2025-06-07"
+   },
+   {
+    "id": 443408784,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443408784/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443408784/large.jpeg",
+    "attribution": "(c) Muhammad Isnashrul Akbar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/248188533",
+    "place": "Kecamatan Bontang Utara",
+    "date": "2024-10-12"
+   },
+   {
+    "id": 651986770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/651986770/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/651986770/large.jpg",
+    "attribution": "(c) Фёдор Владимирович, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/357463283",
+    "place": "Красносельский р-н, Санкт-Петербург, Россия",
+    "date": "2026-04-30"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 538018505,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538018505/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538018505/large.jpg",
-    "attribution": "(c) Steve Lawson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/298672274",
-    "place": "Preston PR4 6XQ, UK",
-    "date": "2025-07-05"
+    "id": 285569346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285569346/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285569346/large.jpeg",
+    "attribution": "(c) Vladimir Bakutov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165005599",
+    "place": "Бизюргуб, Респ. Марий Эл, Россия, 425016",
+    "date": "2023-06-01"
    },
    {
-    "id": 727846028,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727846028/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727846028/large.jpg",
-    "attribution": "(c) ikelman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/396873415",
-    "place": "Inch Road, Newburgh, Ellon AB41 6BN, UK",
-    "date": "2026-09-02"
+    "id": 748854340,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748854340/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748854340/large.jpg",
+    "attribution": "(c) Leo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407493769",
+    "place": "Shen Zhen Wan Ti Yu Zhong Xin, 高新科技园 Nan Shan Qu, Shen Zhen Shi, Guang Dong Sheng, Cina, 518064",
+    "date": "2026-10-11"
    },
    {
-    "id": 715975323,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715975323/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715975323/large.jpg",
-    "attribution": "(c) kitbeard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/390782497",
-    "place": "Brough of Birsay, Orkney KW17 2LX, UK",
-    "date": "2026-07-16"
-   }
-  ],
-  "adult": [
-   {
-    "id": 479317316,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479317316/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479317316/large.jpg",
-    "attribution": "(c) Дмитрий Кошелев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/266765063",
-    "place": "Московский р-н, Тверь, Тверская обл., Россия",
-    "date": "2025-03-24"
-   },
-   {
-    "id": 185018116,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185018116/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185018116/large.jpeg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/109743554",
-    "place": "Newport, UK",
-    "date": "2022-03-28"
-   },
-   {
-    "id": 618957994,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618957994/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618957994/large.jpg",
-    "attribution": "(c) Anne Thomson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/340157062",
-    "place": "Quinta do Lago, Almancil, Algarve, PT",
-    "date": "2026-02-25"
+    "id": 296364264,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296364264/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296364264/large.jpeg",
+    "attribution": "(c) Olesya Deineko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/170835528",
+    "place": "Курский р-н, Курская обл., Россия",
+    "date": "2023-07-02"
    }
   ],
   "hero": {
-   "id": 347059863,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347059863/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347059863/large.jpg",
-   "attribution": "(c) Luiz Lapa, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/347059863",
+   "id": 52766331,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52766331/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52766331/large.jpg",
+   "attribution": "(c) Frans Vandewalle, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/52766331",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481714,
-  "dkTotal": 281531,
+  "dkTotal": 281541,
   "dkMonths": [
    13845,
    9240,
    16514,
    48652,
-   46024,
+   46034,
    26949,
    37585,
    39879,
@@ -116,39 +115,39 @@
    7593,
    8011
   ],
-  "worldTotal": 2928386,
+  "worldTotal": 2929203,
   "topCountries": [
    {
     "code": "NL",
-    "count": 560830
+    "count": 561184
    },
    {
     "code": "SE",
-    "count": 521258
+    "count": 521385
    },
    {
     "code": "GB",
-    "count": 461973
+    "count": 461974
    },
    {
     "code": "DK",
-    "count": 281531
+    "count": 281541
    },
    {
     "code": "NO",
-    "count": 238884
+    "count": 238915
    },
    {
     "code": "ES",
-    "count": 123683
+    "count": 123708
    },
    {
     "code": "FR",
-    "count": 112817
+    "count": 112823
    },
    {
     "code": "BE",
-    "count": 70376
+    "count": 70379
    },
    {
     "code": "IN",
@@ -160,16 +159,14 @@
    },
    {
     "code": "PT",
-    "count": 54527
+    "count": 54531
    },
    {
     "code": "IS",
-    "count": 47012
+    "count": 47014
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

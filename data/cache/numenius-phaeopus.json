@@ -2,7 +2,7 @@
  "key": "numenius-phaeopus",
  "name": "Numenius phaeopus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:12:47.408Z",
+ "fetchedAt": "2026-11-17T19:43:11.108Z",
  "names": {
   "da": "Småspove",
   "en": "Eurasian Whimbrel",
@@ -19,53 +19,62 @@
  },
  "inat": {
   "id": 3901,
-  "observations": 24485
+  "observations": 24579
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 11454582,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11454582/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11454582/large.jpeg",
+    "attribution": "(c) garyallport, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8573655",
+    "place": "Maputo, Mozambique",
+    "date": "2016-02-12"
+   },
+   {
+    "id": 175229640,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175229640/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175229640/large.jpeg",
+    "attribution": "(c) Adedotun Ajibade, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104560961",
+    "place": "102272, Lagos, Nigeria",
+    "date": "2022-01-04"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 300903899,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300903899/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/300903899/large.jpeg",
-    "attribution": "(c) Heather Mazzaccaro, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/173280648",
-    "place": "Kerid Crater",
-    "date": "2023-07-16"
-   }
-  ],
-  "adult": [
-   {
-    "id": 318560136,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318560136/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318560136/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/182681906",
-    "place": "Pomorie, Bulgaria",
-    "date": "2023-09-04"
+    "id": 46624901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46624901/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46624901/large.jpg",
+    "attribution": "(c) christinasbirds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29859855",
+    "place": "Gilbakki, Arnarstapi, Vesturland, IS",
+    "date": "2019-07-30"
    },
    {
-    "id": 525485937,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525485937/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525485937/large.jpg",
-    "attribution": "(c) Carl Linnér, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/292031456",
-    "place": "Ko Lanta Noi, Ko Lanta District, Krabi 81150, Thailand",
-    "date": "2025-06-23"
+    "id": 58036362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58036362/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58036362/large.jpeg",
+    "attribution": "(c) Allan Lugg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36690935",
+    "place": "Seaforth QLD 4741, Australia",
+    "date": "2019-12-13"
    },
    {
-    "id": 190674886,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190674886/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190674886/large.jpeg",
-    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/112872080",
-    "place": "Blackditch, Rockingham, Co. Wicklow, Ireland",
-    "date": "2022-04-21"
+    "id": 761707059,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761707059/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761707059/large.jpg",
+    "attribution": "(c) Elena Valova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413828622",
+    "place": "Печенгский р-н, Мурманская обл., Россия",
+    "date": "2026-07-08"
    }
   ],
   "hero": {
@@ -81,30 +90,30 @@
  },
  "gbif": {
   "key": 2481784,
-  "dkTotal": 52479,
+  "dkTotal": 52487,
   "dkMonths": [
    0,
    1,
    81,
    6359,
-   11705,
+   11706,
    2226,
-   18613,
+   18620,
    12490,
    919,
    67,
    7,
    2
   ],
-  "worldTotal": 956549,
+  "worldTotal": 956703,
   "topCountries": [
    {
     "code": "SE",
-    "count": 143661
+    "count": 143668
    },
    {
     "code": "AU",
-    "count": 99283
+    "count": 99284
    },
    {
     "code": "GB",
@@ -112,27 +121,27 @@
    },
    {
     "code": "ES",
-    "count": 78806
+    "count": 78836
    },
    {
     "code": "NO",
-    "count": 65948
+    "count": 65949
    },
    {
     "code": "DK",
-    "count": 52479
+    "count": 52487
    },
    {
     "code": "NL",
-    "count": 49627
+    "count": 49631
    },
    {
     "code": "PT",
-    "count": 40082
+    "count": 40086
    },
    {
     "code": "FR",
-    "count": 38593
+    "count": 38597
    },
    {
     "code": "ZA",
@@ -148,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

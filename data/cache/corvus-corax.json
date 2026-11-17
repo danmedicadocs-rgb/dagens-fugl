@@ -2,7 +2,7 @@
  "key": "corvus-corax",
  "name": "Corvus corax",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:58.448Z",
+ "fetchedAt": "2026-11-17T19:51:27.981Z",
  "names": {
   "da": "Ravn",
   "en": "Northern Raven",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 8010,
-  "observations": 197918
+  "observations": 198475
  },
  "photos": {
   "male": [
+   {
+    "id": 627121516,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/627121516/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/627121516/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/344202533",
+    "place": "Townshend Dam, VT, USA",
+    "date": "2026-03-20"
+   },
+   {
+    "id": 626336957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626336957/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626336957/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343800152",
+    "place": "Townshend Dam, VT, USA",
+    "date": "2026-03-17"
+   },
    {
     "id": 72128898,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72128898/medium.jpeg",
@@ -32,101 +52,101 @@
     "source": "https://www.inaturalist.org/observations/45485386",
     "place": "Marin County, CA, USA",
     "date": "2020-05-10"
-   },
-   {
-    "id": 27803613,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27803613/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27803613/large.jpg",
-    "attribution": "(c) CK2AZ, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/18191917",
-    "place": "Lincoln National Forest, Cloudcroft, NM, US",
-    "date": "2018-11-06"
-   },
-   {
-    "id": 64500337,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64500337/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64500337/large.jpg",
-    "attribution": "(c) Данил романюта, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/40688386",
-    "place": "Апшеронский р-н, Краснодарский край, Россия",
-    "date": "2020-02-19"
    }
   ],
   "female": [
    {
-    "id": 655360000,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/655360000/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/655360000/large.jpg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/359209472",
-    "place": "Муниципальный округ Чехов, Московская обл., Россия",
-    "date": "2026-05-02"
+    "id": 485453865,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485453865/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485453865/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/269963176",
+    "place": "Townshend, VT, USA",
+    "date": "2025-04-11"
+   },
+   {
+    "id": 627122748,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/627122748/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/627122748/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/344202534",
+    "place": "Townshend Dam, VT, USA",
+    "date": "2026-03-20"
+   },
+   {
+    "id": 760190911,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760190911/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760190911/large.gif",
+    "attribution": "(c) Ian Goddard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413074851",
+    "place": "United States",
+    "date": "2026-10-22"
    }
   ],
   "juvenile": [
    {
-    "id": 74292404,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74292404/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74292404/large.jpeg",
-    "attribution": "(c) Steve Young, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/46844358",
-    "place": "3, Marksville, VA, USA",
-    "date": "2011-05-22"
+    "id": 382707930,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/382707930/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/382707930/large.jpeg",
+    "attribution": "(c) Katherine Collin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/216401026",
+    "place": "625 Av. Sainte-Croix, Saint-Laurent, QC H4L 3X7, Canada",
+    "date": "2024-05-17"
    },
    {
-    "id": 660962058,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660962058/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660962058/large.jpg",
-    "attribution": "(c) Jules Reppert, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/362148996",
-    "place": "Pimisi, Ottawa, ON K1R 7W7, Canada",
-    "date": "2026-05-06"
+    "id": 487107994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487107994/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487107994/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/270829134",
+    "place": "Townshend, VT, USA",
+    "date": "2025-04-15"
    },
    {
-    "id": 639929675,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639929675/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639929675/large.jpg",
-    "attribution": "(c) colorful-corvid, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/350707129",
-    "place": "Washington County, US-UT, US",
-    "date": "2026-04-17"
+    "id": 487803573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487803573/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487803573/large.jpeg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271196435",
+    "place": "Townshend, VT, USA",
+    "date": "2025-04-17"
    }
   ],
   "hero": {
-   "id": 119994014,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119994014/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/119994014/large.jpg",
-   "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/119994014",
+   "id": 54389687,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389687/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389687/large.jpg",
+   "attribution": "(c) arbyreed, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/54389687",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2482492,
-  "dkTotal": 293340,
+  "dkTotal": 293344,
   "dkMonths": [
    27466,
    28694,
    41214,
    38862,
-   25251,
+   25254,
    13413,
    14119,
-   18710,
+   18711,
    22868,
    24953,
    19366,
    18363
   ],
-  "worldTotal": 11768338,
+  "worldTotal": 11830190,
   "topCountries": [
    {
     "code": "US",
@@ -138,48 +158,46 @@
    },
    {
     "code": "SE",
-    "count": 811906
+    "count": 812762
    },
    {
     "code": "DK",
-    "count": 293340
+    "count": 293344
    },
    {
     "code": "ES",
-    "count": 279324
+    "count": 279401
    },
    {
     "code": "NO",
-    "count": 264740
+    "count": 264971
    },
    {
     "code": "GB",
-    "count": 239650
+    "count": 239652
    },
    {
     "code": "DE",
-    "count": 160972
+    "count": 162830
    },
    {
     "code": "FR",
-    "count": 154449
+    "count": 154997
    },
    {
     "code": "FI",
-    "count": 144784
+    "count": 144803
    },
    {
     "code": "RU",
-    "count": 90695
+    "count": 90697
    },
    {
-    "code": "MX",
-    "count": 59349
+    "code": "CH",
+    "count": 74917
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "call, flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

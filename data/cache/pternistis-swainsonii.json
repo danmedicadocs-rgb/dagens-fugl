@@ -2,7 +2,7 @@
  "key": "pternistis-swainsonii",
  "name": "Pternistis swainsonii",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:34:52.685Z",
+ "fetchedAt": "2026-11-17T20:08:53.147Z",
  "names": {
   "da": "Gråbrun Sporehøne",
   "en": null,
@@ -14,7 +14,7 @@
  "wiki": null,
  "inat": {
   "id": 495984,
-  "observations": 2405
+  "observations": 2412
  },
  "photos": {
   "male": [
@@ -39,27 +39,68 @@
     "date": "2026-09-23"
    },
    {
-    "id": 491294500,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/491294500/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/491294500/large.jpg",
-    "attribution": "(c) Rudolph Steenkamp, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/273123609",
-    "place": "Spitskop Small Holdings, Bloemfontein, 9301, South Africa",
-    "date": "2025-04-25"
+    "id": 22345666,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22345666/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22345666/large.jpg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14980540",
+    "place": "KNP, Ehlanzeni, South Africa",
+    "date": "2018-07-29"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 731336583,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731336583/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731336583/large.jpg",
+    "attribution": "(c) jandutoit, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398656873",
+    "place": "Sedibeng District Municipality, South Africa",
+    "date": "2010-09-18"
+   },
+   {
+    "id": 21158223,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21158223/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21158223/large.jpeg",
+    "attribution": "(c) Shobie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14255224",
+    "place": "Ehlanzeni, South Africa",
+    "date": "2018-06-19"
+   }
+  ],
   "juvenile": [
    {
-    "id": 31121496,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31121496/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31121496/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/20170863",
-    "place": "D2440 (5)",
-    "date": "2017-06-08"
+    "id": 478941556,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478941556/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478941556/large.jpg",
+    "attribution": "(c) Jeanette Zitzer, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/266552176",
+    "place": "Kruger-Nationalpark, Bushbuckridge, Mpumalanga, ZA",
+    "date": "2025-03-23"
+   },
+   {
+    "id": 43686366,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43686366/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43686366/large.jpeg",
+    "attribution": "(c) copper, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/28041941",
+    "place": "S28, Kruger NP",
+    "date": "2019-06-25"
+   },
+   {
+    "id": 433583306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433583306/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433583306/large.jpeg",
+    "attribution": "(c) yann_lnv, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243176186",
+    "place": "Ehlanzeni District Municipality, Afrique du Sud",
+    "date": "2023-07-31"
    }
   ],
   "hero": {
@@ -90,11 +131,11 @@
    0,
    0
   ],
-  "worldTotal": 174003,
+  "worldTotal": 174008,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 150051
+    "count": 150056
    },
    {
     "code": "ZW",
@@ -142,8 +183,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -158,5 +197,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

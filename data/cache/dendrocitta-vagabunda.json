@@ -2,7 +2,7 @@
  "key": "dendrocitta-vagabunda",
  "name": "Dendrocitta vagabunda",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:37:41.677Z",
+ "fetchedAt": "2026-11-17T20:11:49.247Z",
  "names": {
   "da": "Træskade",
   "en": "Rufous Treepie",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 8305,
-  "observations": 6217
+  "observations": 6251
  },
  "photos": {
   "male": [
+   {
+    "id": 25580856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25580856/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25580856/large.jpeg",
+    "attribution": "(c) Winter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16928145",
+    "place": "Mankundu, Mankundu, West Bengal 712139, India",
+    "date": "2018-09-26"
+   },
    {
     "id": 29900778,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29900778/medium.jpg",
@@ -34,25 +44,56 @@
     "date": "2018-10-15"
    },
    {
-    "id": 315746128,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315746128/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315746128/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/181189237",
-    "place": "Dhansura, Gujarat 383310, India",
-    "date": "2023-08-31"
+    "id": 500345199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500345199/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500345199/large.jpeg",
+    "attribution": "(c) nayeem hossain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278651066",
+    "place": "Ward-08, Bangladesh",
+    "date": "2025-04-12"
    }
   ],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 467658195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467658195/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467658195/large.jpeg",
+    "attribution": "(c) Manu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/260414586",
+    "place": "Thrissur, Kerala, India",
+    "date": "2023-05-19"
+   },
+   {
+    "id": 515473840,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515473840/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515473840/large.jpg",
+    "attribution": "(c) Omkar S Damle, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286716045",
+    "place": "Village & PO Dhela, Ramnagar Corbett Tiger Reserve Ramnagar S.O, Dhela, Uttarakhand 244715, India",
+    "date": "2025-06-03"
+   },
+   {
+    "id": 612750020,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612750020/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612750020/large.jpg",
+    "attribution": "(c) Samarth Jain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/337111278",
+    "place": "Palia Kalan, Uttar Pradesh 262902, India",
+    "date": "2026-01-31"
+   }
+  ],
   "hero": {
-   "id": 52189,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52189/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52189/large.jpg",
-   "attribution": "(c) Manjith Kainickara, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/52189",
+   "id": 80011347,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80011347/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80011347/large.jpg",
+   "attribution": "(c) Sharma BC, some rights reserved (CC BY-NC), uploaded by Sharma BC",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/80011347",
    "place": null,
    "date": null
   }
@@ -74,11 +115,11 @@
    0,
    0
   ],
-  "worldTotal": 538271,
+  "worldTotal": 538273,
   "topCountries": [
    {
     "code": "IN",
-    "count": 509196
+    "count": 509198
    },
    {
     "code": "NP",
@@ -126,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -142,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

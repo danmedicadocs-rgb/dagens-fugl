@@ -2,7 +2,7 @@
  "key": "dacelo-novaeguineae",
  "name": "Dacelo novaeguineae",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:39:39.747Z",
+ "fetchedAt": "2026-11-17T20:13:37.795Z",
  "names": {
   "da": "Latterfugl",
   "en": "Laughing Kookaburra",
@@ -19,92 +19,112 @@
  },
  "inat": {
   "id": 2413,
-  "observations": 52371
+  "observations": 52561
  },
  "photos": {
   "male": [
    {
-    "id": 594895907,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594895907/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594895907/large.jpg",
-    "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/328310707",
-    "place": "Sydney - Inner, New South Wales, Australia",
-    "date": "2025-11-24"
+    "id": 83556099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83556099/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/83556099/large.jpeg",
+    "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/52556441",
+    "place": "Sherbrooke Forest, Kallista VIC, Australia",
+    "date": "2020-07-09"
+   },
+   {
+    "id": 426639454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426639454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426639454/large.jpg",
+    "attribution": "(c) Seoyoung Lee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/239538457",
+    "place": "오스트레일리아 퀸즐랜드 주 락햄튼",
+    "date": "2024-08-21"
+   },
+   {
+    "id": 714321156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714321156/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714321156/large.jpg",
+    "attribution": "(c) Brett Ennever, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/389936701",
+    "place": "William St near Mons Rd, Buderim QLD 4556, Australia",
+    "date": "2026-08-10"
    }
   ],
   "female": [
    {
-    "id": 594896195,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594896195/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594896195/large.jpg",
-    "attribution": "(c) Uwe Schneehagen, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/328310772",
-    "place": "Sydney - Inner, New South Wales, Australia",
-    "date": "2025-11-24"
+    "id": 543245010,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/543245010/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/543245010/large.jpg",
+    "attribution": "(c) nature4224, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/301467354",
+    "place": "Lloyd Ave, Ravenswood, WA, AU",
+    "date": "2024-01-25"
    },
    {
-    "id": 169521130,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169521130/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169521130/large.jpeg",
-    "attribution": "(c) Jane C Frost, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101499868",
-    "place": "Tamborine QLD 4270, Australia",
-    "date": "2021-11-19"
+    "id": 652039914,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/652039914/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/652039914/large.jpg",
+    "attribution": "(c) Sum_Mer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/357491226",
+    "place": "New South Wales, AU",
+    "date": "2026-04-27"
    },
    {
-    "id": 122818645,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122818645/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122818645/large.jpeg",
-    "attribution": "(c) Jane C Frost, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/75099294",
-    "place": "Tamborine QLD 4270, Australia",
-    "date": "2021-04-25"
+    "id": 281622357,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281622357/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281622357/large.jpg",
+    "attribution": "(c) jimchurches, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/162853969",
+    "place": "Paddys River ACT 2620, Australia",
+    "date": "2023-05-21"
    }
   ],
   "juvenile": [
    {
-    "id": 246054073,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246054073/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246054073/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/143470393",
-    "place": "Heathmont VIC 3135, Australia",
-    "date": "2022-12-02"
+    "id": 258787929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258787929/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258787929/large.jpg",
+    "attribution": "(c) Jude Wright, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/150118680",
+    "place": "Wollemi National Park, Kelgoola, NSW, AU",
+    "date": "2023-02-25"
    },
    {
-    "id": 110977669,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110977669/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110977669/large.jpg",
-    "attribution": "(c) Paul Whitington, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68523977",
-    "place": "Wonboyn NSW 2551, Australia",
-    "date": "2020-11-17"
+    "id": 401322101,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401322101/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401322101/large.jpeg",
+    "attribution": "(c) miiralee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/226298556",
+    "place": "Wilcannia NSW 2836, Australia",
+    "date": "2024-06-30"
    },
    {
-    "id": 333099353,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333099353/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333099353/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/190062454",
-    "place": "Minnie Water NSW 2462, Australien",
-    "date": "2023-09-24"
+    "id": 338552175,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338552175/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338552175/large.jpg",
+    "attribution": "(c) Toby Eccles, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192804844",
+    "place": "Myers Creek Rd, Healesville, VIC, AU",
+    "date": "2023-12-01"
    }
   ],
   "hero": {
-   "id": 575470703,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/575470703/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/575470703/large.jpg",
-   "attribution": "(c) Emanuele Santarelli, some rights reserved (CC BY-SA), uploaded by Emanuele Santarelli",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/575470703",
+   "id": 533737970,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533737970/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533737970/large.jpg",
+   "attribution": "(c) Elliot Blythman, some rights reserved (CC BY-NC), uploaded by Elliot Blythman",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/533737970",
    "place": null,
    "date": null
   }
@@ -126,11 +146,11 @@
    0,
    1
   ],
-  "worldTotal": 1369683,
+  "worldTotal": 1369692,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1368183
+    "count": 1368185
    },
    {
     "code": "NZ",
@@ -142,7 +162,7 @@
    },
    {
     "code": "NL",
-    "count": 49
+    "count": 50
    },
    {
     "code": "US",
@@ -150,7 +170,7 @@
    },
    {
     "code": "DE",
-    "count": 24
+    "count": 30
    },
    {
     "code": "ZZ",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

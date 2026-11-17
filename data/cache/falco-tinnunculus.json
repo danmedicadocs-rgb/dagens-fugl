@@ -2,7 +2,7 @@
  "key": "falco-tinnunculus",
  "name": "Falco tinnunculus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:09:25.080Z",
+ "fetchedAt": "2026-11-17T19:39:32.015Z",
  "names": {
   "da": "Tårnfalk",
   "en": "Common Kestrel",
@@ -19,74 +19,94 @@
  },
  "inat": {
   "id": 472766,
-  "observations": 149167
+  "observations": 149610
  },
  "photos": {
   "male": [
    {
-    "id": 255957127,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255957127/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255957127/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/148613413",
-    "place": "2770 Paço de Arcos, Portugal",
-    "date": "2023-02-12"
+    "id": 464344844,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464344844/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464344844/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258762312",
+    "place": "L 63, Calbe, Saxony-Anhalt, DE",
+    "date": "2025-01-06"
    },
    {
-    "id": 187660947,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187660947/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187660947/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111181813",
-    "place": "Zorilor, Cluj-Napoca, Romania",
-    "date": "2022-04-11"
+    "id": 19403166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19403166/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19403166/large.jpg",
+    "attribution": "(c) Martin Grimm, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/13258182",
+    "place": "Großpösna, Deutschland",
+    "date": "2018-06-09"
    },
    {
-    "id": 176132490,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176132490/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176132490/large.jpeg",
-    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105032479",
-    "place": "86643 Rennertshofen, Deutschland",
-    "date": "2022-01-16"
+    "id": 366856174,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366856174/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366856174/large.jpg",
+    "attribution": "(c) Dmitry P., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207401806",
+    "place": "Суздальский р-н, Владимирская обл., Россия",
+    "date": "2024-04-15"
    }
   ],
   "female": [
    {
-    "id": 466934488,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466934488/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466934488/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/260050802",
-    "place": "Santa Cruz de Tenerife, Spain",
-    "date": "2024-12-23"
+    "id": 179681686,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179681686/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179681686/large.jpeg",
+    "attribution": "(c) Bill Pranty, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106898038",
+    "place": "Florida, Orange, Lake Apopka North Shore Restoration Area",
+    "date": "2003-03-01"
    },
    {
-    "id": 472339961,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472339961/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472339961/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/262973734",
-    "place": "Portugal",
-    "date": "2025-02-24"
+    "id": 189620291,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189620291/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189620291/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112264479",
+    "place": "Αντικύθηρα, Αλεβιζιανά, Πειραιάς, GR",
+    "date": "2022-04-21"
    },
    {
-    "id": 469027668,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469027668/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469027668/large.jpg",
-    "attribution": "(c) Stephan Mende, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261106329",
-    "place": "31 Hildesheim, Germany",
-    "date": "2025-02-08"
+    "id": 166011176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166011176/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166011176/large.jpg",
+    "attribution": "(c) Dmitry P., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99569467",
+    "place": "Мосино, Владимирская обл., Россия",
+    "date": "2016-08-10"
    }
   ],
   "juvenile": [
+   {
+    "id": 694069712,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/694069712/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/694069712/large.jpg",
+    "attribution": "(c) Kunhutka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/379439050",
+    "place": "Pustkovec",
+    "date": "2026-07-08"
+   },
+   {
+    "id": 414607937,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414607937/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414607937/large.jpg",
+    "attribution": "(c) Quentin Gaillard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/233304495",
+    "place": "Rochetaillée, 42100 Saint-Étienne, France",
+    "date": "2024-07-10"
+   },
    {
     "id": 206248232,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206248232/medium.jpeg",
@@ -96,42 +116,22 @@
     "source": "https://www.inaturalist.org/observations/121852581",
     "place": "El Achir, Algérie",
     "date": "2015-06-21"
-   },
-   {
-    "id": 96530792,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96530792/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96530792/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/60372654",
-    "place": "Западный административный округ, Москва, Россия",
-    "date": "2014-07-05"
-   },
-   {
-    "id": 398240815,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398240815/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398240815/large.jpeg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/224679427",
-    "place": "Восточный административный округ, Москва, Россия",
-    "date": "2024-06-23"
    }
   ],
   "hero": {
-   "id": 115746261,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115746261/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115746261/large.jpg",
-   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/115746261",
+   "id": 598044895,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598044895/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598044895/large.jpg",
+   "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/598044895",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 9616058,
-  "dkTotal": 525135,
+  "dkTotal": 525143,
   "dkMonths": [
    42692,
    33873,
@@ -139,67 +139,65 @@
    59560,
    55388,
    29989,
-   35344,
-   49341,
-   67637,
+   35349,
+   49343,
+   67638,
    49377,
    30702,
    30426
   ],
-  "worldTotal": 5996297,
+  "worldTotal": 6113154,
   "topCountries": [
    {
     "code": "NL",
-    "count": 888559
+    "count": 890222
    },
    {
     "code": "SE",
-    "count": 684066
+    "count": 684248
    },
    {
     "code": "FR",
-    "count": 599490
+    "count": 600389
    },
    {
     "code": "GB",
-    "count": 571418
+    "count": 571423
    },
    {
     "code": "ES",
-    "count": 547461
+    "count": 547607
    },
    {
     "code": "DK",
-    "count": 525135
+    "count": 525143
    },
    {
     "code": "FI",
-    "count": 361847
+    "count": 361961
    },
    {
     "code": "DE",
-    "count": 354001
+    "count": 358746
    },
    {
     "code": "BE",
-    "count": 215270
+    "count": 215274
+   },
+   {
+    "code": "CH",
+    "count": 141766
    },
    {
     "code": "PT",
-    "count": 122811
+    "count": 122829
    },
    {
     "code": "IT",
-    "count": 119339
-   },
-   {
-    "code": "IL",
-    "count": 110554
+    "count": 119490
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calidris-pygmaea",
  "name": "Calidris pygmaea",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:36:54.900Z",
+ "fetchedAt": "2026-11-17T20:11:02.055Z",
  "names": {
   "da": "Skeryle",
   "en": "Spoon-billed Sandpiper",
@@ -19,33 +19,43 @@
  },
  "inat": {
   "id": 979640,
-  "observations": 669
+  "observations": 677
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 350269374,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350269374/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350269374/large.jpg",
-    "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/198358474",
-    "place": "Thailand",
-    "date": "2024-02-04"
+    "id": 246421543,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246421543/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246421543/large.jpg",
+    "attribution": "(c) Alexander Yakovlev, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/143664275",
+    "place": "Beringovskiy rayon, RU-CK, RU",
+    "date": "2022-06-04"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 515058475,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515058475/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515058475/large.jpg",
+    "attribution": "(c) Hiroki Shudo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286496234",
+    "place": "Aichi, JP",
+    "date": "2021-09-08"
    }
   ],
   "hero": {
-   "id": 350269374,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350269374/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350269374/large.jpg",
-   "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/198358474",
-   "place": "Thailand",
-   "date": "2024-02-04"
+   "id": 246421543,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246421543/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246421543/large.jpg",
+   "attribution": "(c) Alexander Yakovlev, some rights reserved (CC BY-NC), uploaded by Alexander Yakovlev",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/246421543",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -117,8 +127,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -133,5 +141,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

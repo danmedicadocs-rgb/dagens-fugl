@@ -2,7 +2,7 @@
  "key": "ardenna-grisea",
  "name": "Ardenna grisea",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:06:33.901Z",
+ "fetchedAt": "2026-11-17T19:36:09.809Z",
  "names": {
   "da": "Sodfarvet Skråpe",
   "en": "Sooty Shearwater",
@@ -19,51 +19,82 @@
  },
  "inat": {
   "id": 502899,
-  "observations": 7839
+  "observations": 7868
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 512205761,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/512205761/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/512205761/large.jpg",
+    "attribution": "(c) CJ, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284977942",
+    "place": "Dunedin, Otago, NZ",
+    "date": "2025-05-03"
+   },
+   {
+    "id": 117867131,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117867131/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117867131/large.jpeg",
+    "attribution": "(c) Sandra Desposito, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72307910",
+    "place": "Necochea, Provincia de Buenos Aires, Argentina",
+    "date": "2021-03-28"
+   },
+   {
+    "id": 177970005,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177970005/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177970005/large.jpg",
+    "attribution": "(c) gloh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105993759",
+    "place": "Dunedin, Sandymount, Otago, NZ",
+    "date": "2022-02-02"
+   }
+  ],
   "adult": [
    {
-    "id": 489194764,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489194764/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489194764/large.jpeg",
-    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/271939988",
+    "id": 457557445,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457557445/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457557445/large.jpg",
+    "attribution": "(c) Ariel Cabrera Foix, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/255333295",
     "place": null,
-    "date": "2024-12-08"
+    "date": "2024-12-15"
    },
    {
-    "id": 392318015,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392318015/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/392318015/large.jpeg",
-    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/221538838",
-    "place": "Auckland islands, Auckland Islands - Motu Maha Marine Reserve, NZ-SO, NZ",
-    "date": "2023-12-24"
+    "id": 452727364,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452727364/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452727364/large.jpg",
+    "attribution": "(c) IanLJones, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252876954",
+    "place": "Renews-Cappahayden, NL A0A, Canada",
+    "date": "2017-08-03"
    },
    {
-    "id": 541157506,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541157506/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541157506/large.jpg",
-    "attribution": "(c) Christopher Stephens, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/300371584",
-    "place": "Southland Region, New Zealand",
-    "date": "2017-12-01"
+    "id": 165421351,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165421351/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165421351/large.jpeg",
+    "attribution": "(c) Barbara L. Wilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99262468",
+    "place": "Lincoln County, OR, USA",
+    "date": "2021-10-19"
    }
   ],
   "hero": {
-   "id": 157612,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157612/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157612/large.jpg",
-   "attribution": "(c) Don Loarie, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/157612",
+   "id": 342192558,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342192558/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342192558/large.jpg",
+   "attribution": "(c) Oscar Thomas, some rights reserved (CC BY-NC), uploaded by Oscar Thomas",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/342192558",
    "place": null,
    "date": null
   }
@@ -85,7 +116,7 @@
    456,
    123
   ],
-  "worldTotal": 246223,
+  "worldTotal": 246224,
   "topCountries": [
    {
     "code": "US",
@@ -137,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "merops-apiaster",
  "name": "Merops apiaster",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:18:21.235Z",
+ "fetchedAt": "2026-11-17T19:49:28.448Z",
  "names": {
   "da": "Biæder",
   "en": "European Bee-eater",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 2191,
-  "observations": 38324
+  "observations": 38358
  },
  "photos": {
   "male": [
+   {
+    "id": 397285946,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397285946/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397285946/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224176295",
+    "place": "Γαύδος, Γαύδος, Κρήτη, GR",
+    "date": "2024-04-24"
+   },
+   {
+    "id": 59297516,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59297516/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59297516/large.jpg",
+    "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37407912",
+    "place": "Provincia di Pavia, Italia",
+    "date": "2011-07-01"
+   },
    {
     "id": 146319809,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/medium.jpg",
@@ -32,29 +52,19 @@
     "source": "https://www.inaturalist.org/observations/88664373",
     "place": "Quintanalara, Burgos, España",
     "date": "2021-07-13"
-   },
-   {
-    "id": 219779913,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219779913/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219779913/large.jpg",
-    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/129337907",
-    "place": "Mértola, 7750, Portugal",
-    "date": "2022-08-03"
-   },
-   {
-    "id": 513066540,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513066540/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513066540/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/285443317",
-    "place": "Sila",
-    "date": "2025-05-23"
    }
   ],
   "female": [
+   {
+    "id": 665309529,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665309529/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665309529/large.jpg",
+    "attribution": "(c) smuidy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364444251",
+    "place": "Provence-Alpes-Côte d'Azur, FR",
+    "date": "2026-05-23"
+   },
    {
     "id": 215065074,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215065074/medium.jpeg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/218075092",
     "place": "Sila Grande",
     "date": "2024-05-24"
-   },
-   {
-    "id": 537745680,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537745680/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537745680/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/298531566",
-    "place": "Parco nazionale della Sila",
-    "date": "2025-07-15"
    }
   ],
   "juvenile": [
@@ -98,6 +98,16 @@
     "date": "2023-08-11"
    },
    {
+    "id": 308209742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308209742/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308209742/large.jpg",
+    "attribution": "(c) marina_gavrikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177228158",
+    "place": "Подольский район, Московская обл., Россия",
+    "date": "2023-08-06"
+   },
+   {
     "id": 718416107,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718416107/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718416107/large.jpg",
@@ -106,27 +116,17 @@
     "source": "https://www.inaturalist.org/observations/392040916",
     "place": "4292 Dobri dol, Bulgaria",
     "date": "2026-08-16"
-   },
-   {
-    "id": 309287831,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309287831/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309287831/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/177799559",
-    "place": "4292 Dobri Dol, Bulgaria",
-    "date": "2023-08-11"
    }
   ],
   "hero": {
-   "id": 146319809,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146319809/large.jpg",
-   "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/88664373",
-   "place": "Quintanalara, Burgos, España",
-   "date": "2021-07-13"
+   "id": 70043412,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70043412/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70043412/large.jpeg",
+   "attribution": "(c) brugorraiztelefonicanet, some rights reserved (CC BY-NC), uploaded by brugorraiztelefonicanet",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/70043412",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,23 +146,23 @@
    0,
    1
   ],
-  "worldTotal": 814543,
+  "worldTotal": 818797,
   "topCountries": [
    {
     "code": "ES",
-    "count": 239147
+    "count": 239236
    },
    {
     "code": "ZA",
-    "count": 109008
+    "count": 109017
    },
    {
     "code": "FR",
-    "count": 107148
+    "count": 107156
    },
    {
     "code": "PT",
-    "count": 56206
+    "count": 56207
    },
    {
     "code": "IL",
@@ -170,15 +170,15 @@
    },
    {
     "code": "TR",
-    "count": 22653
+    "count": 22655
    },
    {
     "code": "GR",
-    "count": 19942
+    "count": 19961
    },
    {
     "code": "IT",
-    "count": 19917
+    "count": 19937
    },
    {
     "code": "BG",
@@ -186,20 +186,18 @@
    },
    {
     "code": "NL",
-    "count": 10699
+    "count": 10706
    },
    {
     "code": "RU",
-    "count": 9646
+    "count": 9647
    },
    {
-    "code": "KE",
-    "count": 9082
+    "code": "DE",
+    "count": 9366
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

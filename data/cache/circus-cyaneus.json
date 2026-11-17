@@ -2,7 +2,7 @@
  "key": "circus-cyaneus",
  "name": "Circus cyaneus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:26.966Z",
+ "fetchedAt": "2026-11-17T19:38:21.467Z",
  "names": {
   "da": "Blå kærhøg",
   "en": "Hen Harrier",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 559064,
-  "observations": 18975
+  "observations": 19083
  },
  "photos": {
   "male": [
    {
-    "id": 253964018,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253964018/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253964018/large.jpg",
-    "attribution": "(c) Benny Albro, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/147577169",
-    "place": "Big Island, Co. Wexford, Ireland",
-    "date": "2020-02-08"
+    "id": 457770376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457770376/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457770376/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255450452",
+    "place": "Sachsen-Anhalt, DE",
+    "date": "2024-11-20"
    },
    {
-    "id": 323070964,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323070964/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323070964/large.jpg",
-    "attribution": "(c) Andreas Eriksson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/185027148",
-    "place": "Östersund, Sverige",
-    "date": "2023-09-10"
+    "id": 598014920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598014920/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598014920/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258761981",
+    "place": "Nordfriesland, DE-SH, DE",
+    "date": "2025-01-03"
    },
    {
-    "id": 612194872,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612194872/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612194872/large.jpg",
-    "attribution": "(c) Thorsten Hackbarth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/336839518",
-    "place": "Bayern, DE",
-    "date": "2021-01-02"
+    "id": 583865973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583865973/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583865973/large.jpg",
+    "attribution": "(c) mari4971, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/322723883",
+    "place": "Гвардейский р-н, Калининградская обл., Россия",
+    "date": "2025-10-21"
    }
   ],
   "female": [
+   {
+    "id": 79604928,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79604928/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79604928/large.jpg",
+    "attribution": "(c) Bogdan V. Kryzhatyuk, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/50131245",
+    "place": "Семеновский р-н, Нижегородская обл., Россия",
+    "date": "2012-10-21"
+   },
    {
     "id": 610700788,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610700788/medium.jpg",
@@ -66,78 +76,68 @@
     "date": "2026-01-25"
    },
    {
-    "id": 356351737,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356351737/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356351737/large.jpg",
-    "attribution": "(c) Simone Bocca, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/201833609",
-    "place": "Provincia di Vercelli, Italia",
-    "date": "2024-03-09"
-   },
-   {
-    "id": 356321861,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356321861/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356321861/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/201818405",
-    "place": "Parvomay, Bulgaria",
-    "date": "2024-03-09"
+    "id": 113388062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113388062/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113388062/large.jpeg",
+    "attribution": "(c) Mirko Tomasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/69822734",
+    "place": "Palude Brabbia, 21020 Casale Litta VA, Italia",
+    "date": "2021-02-19"
    }
   ],
   "juvenile": [
    {
-    "id": 743413134,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743413134/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743413134/large.jpg",
-    "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/404791901",
-    "place": "Esbjerg, Nationalpark Vadehavet, DK-SD, DK",
-    "date": "2026-09-30"
+    "id": 251787679,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251787679/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251787679/large.jpeg",
+    "attribution": "(c) Coby Meester, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/146450468",
+    "place": "Wintger, Luxemburg",
+    "date": "2023-01-11"
    },
    {
-    "id": 164421780,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164421780/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164421780/large.png",
-    "attribution": "(c) Paolo Zucca, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/98720096",
-    "place": "Provincia di Gorizia, Italia",
-    "date": "2021-10-19"
+    "id": 340932577,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340932577/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340932577/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/194018813",
+    "place": "Pomeranian, PL",
+    "date": "2023-12-15"
    },
    {
-    "id": 721762337,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/721762337/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/721762337/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/393752839",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2026-08-23"
+    "id": 248385896,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248385896/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248385896/large.jpg",
+    "attribution": "(c) lappuggla, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/144688026",
+    "place": "Rosenbergstugan, Oset, Örebro, Sverige",
+    "date": "2015-10-03"
    }
   ],
   "hero": {
-   "id": 110784322,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110784322/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110784322/large.jpg",
-   "attribution": "(c) Gregory \"Slobirdr\" Smith, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/110784322",
+   "id": 38130778,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38130778/large.jpg",
+   "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC), uploaded by Константин Самодуров",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/38130778",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480487,
-  "dkTotal": 211407,
+  "dkTotal": 211408,
   "dkMonths": [
    23655,
    19900,
    21671,
    35761,
-   13586,
+   13587,
    752,
    72,
    2637,
@@ -146,7 +146,7 @@
    21619,
    17104
   ],
-  "worldTotal": 4608839,
+  "worldTotal": 4609751,
   "topCountries": [
    {
     "code": "US",
@@ -154,23 +154,23 @@
    },
    {
     "code": "CA",
-    "count": 550785
+    "count": 550786
    },
    {
     "code": "SE",
-    "count": 301743
+    "count": 301991
    },
    {
     "code": "DK",
-    "count": 211407
+    "count": 211408
    },
    {
     "code": "FR",
-    "count": 168207
+    "count": 168211
    },
    {
     "code": "NL",
-    "count": 101992
+    "count": 102437
    },
    {
     "code": "BE",
@@ -178,11 +178,11 @@
    },
    {
     "code": "ES",
-    "count": 42245
+    "count": 42247
    },
    {
     "code": "NO",
-    "count": 31275
+    "count": 31301
    },
    {
     "code": "GB",
@@ -190,7 +190,7 @@
    },
    {
     "code": "DE",
-    "count": 28300
+    "count": 28445
    },
    {
     "code": "RU",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "alarm call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

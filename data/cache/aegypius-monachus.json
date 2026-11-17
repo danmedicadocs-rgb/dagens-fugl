@@ -2,7 +2,7 @@
  "key": "aegypius-monachus",
  "name": "Aegypius monachus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:02.343Z",
+ "fetchedAt": "2026-11-17T20:02:36.511Z",
  "names": {
   "da": "Munkegrib",
   "en": "Cinereous Vulture",
@@ -19,84 +19,63 @@
  },
  "inat": {
   "id": 5382,
-  "observations": 12055
+  "observations": 12081
  },
  "photos": {
   "male": [],
-  "female": [],
-  "juvenile": [
+  "female": [
    {
-    "id": 426862657,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426862657/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426862657/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/239655805",
-    "place": "Salamanca, ES-CL, ES",
-    "date": "2024-08-17"
-   },
-   {
-    "id": 597490110,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597490110/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597490110/large.jpg",
-    "attribution": "(c) SIA, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/329597039",
-    "place": "Crimea, UA",
-    "date": "2025-11-20"
-   },
-   {
-    "id": 252919275,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919275/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252919275/large.jpg",
-    "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/147028161",
-    "place": "South Kazakhstan, KZ",
-    "date": "2023-01-21"
+    "id": 698367140,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698367140/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698367140/large.jpg",
+    "attribution": "(c) Jørgen Møller, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/381656849",
+    "place": "Frederikshavn, DK-ND, DK",
+    "date": "2026-07-13"
    }
   ],
-  "adult": [
+  "juvenile": [
    {
-    "id": 729558168,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397758228",
-    "place": "Georgia",
-    "date": "2026-09-05"
+    "id": 48372358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48372358/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48372358/large.jpg",
+    "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30940329",
+    "place": "Pontevedra, ES-GA, ES",
+    "date": "2019-08-10"
    },
    {
-    "id": 601491258,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601491258/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601491258/large.jpg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/331551167",
-    "place": "Jaisalmer, IN-RJ, IN",
-    "date": "2025-12-20"
+    "id": 716645188,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716645188/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716645188/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391131539",
+    "place": "Salzburg, AT",
+    "date": "2026-08-06"
    },
    {
-    "id": 480387698,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/480387698/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/480387698/large.jpg",
-    "attribution": "(c) CaracalShan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261906047",
-    "place": "Vlaanderen, BE",
-    "date": "2019-05-08"
+    "id": 300482847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300482847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/300482847/large.jpg",
+    "attribution": "(c) Natalya Andreyenkova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/173064606",
+    "place": "Kosh-Agachskiy rayon, RU-GA, RU",
+    "date": "2023-06-10"
    }
   ],
   "hero": {
-   "id": 729558168,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729558168/large.jpg",
-   "attribution": "(c) Donsky, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/397758228",
-   "place": "Georgia",
-   "date": "2026-09-05"
+   "id": 192396793,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/192396793/large.jpeg",
+   "attribution": "(c) rociomar, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/192396793",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,7 +95,7 @@
    0,
    0
   ],
-  "worldTotal": 365630,
+  "worldTotal": 365650,
   "topCountries": [
    {
     "code": "MN",
@@ -124,7 +103,7 @@
    },
    {
     "code": "ES",
-    "count": 100367
+    "count": 100377
    },
    {
     "code": "KR",
@@ -136,7 +115,7 @@
    },
    {
     "code": "FR",
-    "count": 10735
+    "count": 10736
    },
    {
     "code": "PT",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

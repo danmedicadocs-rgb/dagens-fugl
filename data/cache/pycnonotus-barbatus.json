@@ -2,7 +2,7 @@
  "key": "pycnonotus-barbatus",
  "name": "Pycnonotus barbatus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:34:57.806Z",
+ "fetchedAt": "2026-11-17T20:08:59.069Z",
  "names": {
   "da": "Berberbulbul",
   "en": "Common Bulbul",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 14588,
-  "observations": 17206
+  "observations": 17257
  },
  "photos": {
   "male": [
+   {
+    "id": 104599062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104599062/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104599062/large.jpg",
+    "attribution": "(c) Tristan Scholze, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/65009469",
+    "place": "Ehlanzeni, South Africa",
+    "date": "2016-08-07"
+   },
+   {
+    "id": 476652476,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476652476/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476652476/large.jpg",
+    "attribution": "(c) Daan Prinsloo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265371391",
+    "place": "Silver Lakes Golf Estate, 0054, Suid-Afrika",
+    "date": "2022-11-10"
+   },
    {
     "id": 11031277,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11031277/medium.jpeg",
@@ -32,30 +52,41 @@
     "source": "https://www.inaturalist.org/observations/8309034",
     "place": "Hogsback, 5721, South Africa",
     "date": "2017-09-18"
-   },
-   {
-    "id": 695385154,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695385154/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695385154/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/380116774",
-    "place": "Lake Duluti Rd, Meru, TZ",
-    "date": "2026-06-20"
-   },
-   {
-    "id": 38697956,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38697956/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38697956/large.jpeg",
-    "attribution": "(c) Gonzalo Roget, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/25010733",
-    "place": "Distrito Municipal de Ehlanzeni, Sudáfrica",
-    "date": "2019-05-06"
    }
   ],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 591897155,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591897155/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591897155/large.jpg",
+    "attribution": "(c) lucapassalacqua, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/326777849",
+    "place": "Kombo East, Gambia",
+    "date": "2025-11-01"
+   },
+   {
+    "id": 714545641,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714545641/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714545641/large.jpg",
+    "attribution": "(c) Gordon Hurley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390052900",
+    "place": "Douglasdale, Sandton, 2191, South Africa",
+    "date": "2024-01-08"
+   },
+   {
+    "id": 103965767,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103965767/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103965767/large.jpeg",
+    "attribution": "(c) Peter Vos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/64650300",
+    "place": "Scottburgh South, Scottburgh, 4180, South Africa",
+    "date": "2020-11-10"
+   }
+  ],
   "hero": {
    "id": 1447665,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1447665/medium.jpg",
@@ -84,27 +115,27 @@
    0,
    0
   ],
-  "worldTotal": 389076,
+  "worldTotal": 389232,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 115776
+    "count": 115778
    },
    {
     "code": "KE",
-    "count": 50753
+    "count": 50759
    },
    {
     "code": "UG",
-    "count": 32212
+    "count": 32213
    },
    {
     "code": "TZ",
-    "count": 26528
+    "count": 26529
    },
    {
     "code": "MA",
-    "count": 22990
+    "count": 23092
    },
    {
     "code": "ZM",
@@ -116,11 +147,11 @@
    },
    {
     "code": "GM",
-    "count": 11037
+    "count": 11064
    },
    {
     "code": "GH",
-    "count": 11031
+    "count": 11034
    },
    {
     "code": "RW",
@@ -132,12 +163,10 @@
    },
    {
     "code": "SN",
-    "count": 7001
+    "count": 7009
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -152,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

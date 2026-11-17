@@ -2,7 +2,7 @@
  "key": "milvus-milvus",
  "name": "Milvus milvus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:08.576Z",
+ "fetchedAt": "2026-11-17T19:38:00.927Z",
  "names": {
   "da": "Rød glente",
   "en": "Red Kite",
@@ -19,61 +19,71 @@
  },
  "inat": {
   "id": 5267,
-  "observations": 56978
+  "observations": 57109
  },
  "photos": {
   "male": [
    {
-    "id": 649208178,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/649208178/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/649208178/large.jpg",
-    "attribution": "(c) Eva Uzdilova, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/355998765",
-    "place": "Jaroměř, Česko",
-    "date": "2026-04-25"
+    "id": 303084957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303084957/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303084957/large.jpeg",
+    "attribution": "(c) LibProj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/174457477",
+    "place": "Wembley, UK",
+    "date": "2023-07-23"
    },
    {
-    "id": 258071511,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258071511/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258071511/large.jpeg",
-    "attribution": "(c) Juan C. Espinosa, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149742392",
-    "place": "Rosas, Madrid, Spain",
-    "date": "2023-02-25"
+    "id": 160139049,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/160139049/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/160139049/large.jpeg",
+    "attribution": "(c) Michael Müller, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/96122404",
+    "place": "89290 Buch, Deutschland",
+    "date": "2021-09-24"
+   },
+   {
+    "id": 481776555,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481776555/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481776555/large.jpeg",
+    "attribution": "(c) chiarimax, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/268049933",
+    "place": "Provincia di Brescia, Italia",
+    "date": "2025-03-28"
    }
   ],
   "female": [
    {
-    "id": 760805269,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760805269/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760805269/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/413381473",
-    "place": "Eldernell",
-    "date": "2026-11-07"
+    "id": 360381936,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360381936/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360381936/large.jpg",
+    "attribution": "(c) telemark, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203931542",
+    "place": "Balearen, Spanien",
+    "date": "2024-02-11"
    },
    {
-    "id": 597540360,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597540360/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597540360/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/329623158",
-    "place": "San Giovanni in Fiore",
-    "date": "2025-12-05"
+    "id": 698950908,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698950908/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698950908/large.jpg",
+    "attribution": "(c) Jon Porter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/381957024",
+    "place": "Tetbury Upton, Tetbury, UK",
+    "date": "2026-07-15"
    },
    {
-    "id": 535408812,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535408812/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535408812/large.jpg",
-    "attribution": "(c) Karol Filo III, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/297298382",
-    "place": "Opatovice, Česko",
-    "date": "2025-07-12"
+    "id": 231427116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231427116/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231427116/large.jpg",
+    "attribution": "(c) Klas Malmström, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/135667033",
+    "place": "Västervik Municipality, Sweden",
+    "date": "2022-09-19"
    }
   ],
   "juvenile": [
@@ -88,24 +98,24 @@
     "date": "2018-11-21"
    },
    {
-    "id": 184106831,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184106831/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184106831/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/109255602",
-    "place": "Villacienzo, Burgos, España",
-    "date": "2022-03-20"
+    "id": 752825980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752825980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752825980/large.jpg",
+    "attribution": "(c) maripro, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/409441444",
+    "place": "53797 Lohmar, Deutschland",
+    "date": "2026-10-04"
    },
    {
-    "id": 114819288,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114819288/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114819288/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70608496",
-    "place": "Los Tomillares, Burgos, España",
-    "date": "2021-03-05"
+    "id": 671845924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671845924/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671845924/large.jpg",
+    "attribution": "(c) meles_muscaria, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/367874611",
+    "place": "Hertfordshire, UK",
+    "date": "2026-05-30"
    }
   ],
   "hero": {
@@ -136,19 +146,19 @@
    14258,
    11225
   ],
-  "worldTotal": 2161885,
+  "worldTotal": 2303869,
   "topCountries": [
    {
     "code": "SE",
-    "count": 473158
+    "count": 473460
    },
    {
     "code": "GB",
-    "count": 334357
+    "count": 334367
    },
    {
     "code": "ES",
-    "count": 310606
+    "count": 310672
    },
    {
     "code": "DK",
@@ -156,19 +166,19 @@
    },
    {
     "code": "DE",
-    "count": 272205
+    "count": 276967
    },
    {
     "code": "FR",
-    "count": 263107
+    "count": 263821
    },
    {
     "code": "CH",
-    "count": 48303
+    "count": 183949
    },
    {
     "code": "NL",
-    "count": 40401
+    "count": 40428
    },
    {
     "code": "PT",
@@ -176,20 +186,18 @@
    },
    {
     "code": "BE",
-    "count": 17537
+    "count": 17539
    },
    {
     "code": "CZ",
-    "count": 15529
+    "count": 15533
    },
    {
     "code": "AT",
-    "count": 11534
+    "count": 11716
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

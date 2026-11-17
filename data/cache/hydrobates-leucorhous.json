@@ -2,7 +2,7 @@
  "key": "hydrobates-leucorhous",
  "name": "Hydrobates leucorhous",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:06:46.610Z",
+ "fetchedAt": "2026-11-17T19:36:28.722Z",
  "names": {
   "da": "Stor stormsvale",
   "en": "Leach’s Storm Petrel",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 23841205,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23841205/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23841205/large.jpeg",
+   "attribution": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/23841205",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2482012,
@@ -46,7 +55,7 @@
    205,
    75
   ],
-  "worldTotal": 86681,
+  "worldTotal": 86718,
   "topCountries": [
    {
     "code": "US",
@@ -74,7 +83,7 @@
    },
    {
     "code": "ES",
-    "count": 1732
+    "count": 1765
    },
    {
     "code": "BE",
@@ -82,7 +91,7 @@
    },
    {
     "code": "NL",
-    "count": 1389
+    "count": 1393
    },
    {
     "code": "FR",
@@ -98,8 +107,8 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": null,
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

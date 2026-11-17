@@ -2,7 +2,7 @@
  "key": "lamprotornis-superbus",
  "name": "Lamprotornis superbus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:29.006Z",
+ "fetchedAt": "2026-11-17T20:06:27.221Z",
  "names": {
   "da": "Trefarvet Glansstær",
   "en": "Superb Starling",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 14939,
-  "observations": 5178
+  "observations": 5198
  },
  "photos": {
   "male": [
+   {
+    "id": 650681461,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/650681461/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/650681461/large.jpg",
+    "attribution": "(c) Nicola Marchioli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/356790984",
+    "place": "Samburu National Reserve, Kenya",
+    "date": "2026-01-31"
+   },
    {
     "id": 607171759,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607171759/medium.jpg",
@@ -34,66 +44,77 @@
     "date": "2026-01-11"
    },
    {
-    "id": 321388897,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/321388897/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/321388897/large.jpeg",
-    "attribution": "(c) John Brew, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/184145325",
-    "place": "Babati Rural, Tanzania",
-    "date": "2022-10-31"
-   },
-   {
-    "id": 321419398,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/321419398/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/321419398/large.jpeg",
-    "attribution": "(c) John Brew, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/184161003",
-    "place": "Babati Rural, Tanzania",
-    "date": "2022-10-31"
+    "id": 622813910,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/622813910/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/622813910/large.jpg",
+    "attribution": "(c) Nicola Marchioli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342050120",
+    "place": "Loisaba Conservancy, Laikipia Plateau, Kenya",
+    "date": "2026-01-29"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 590987660,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590987660/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590987660/large.jpg",
+    "attribution": "(c) Marwan Oulmane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/326323349",
+    "place": "Tsavo National Park, Kenya",
+    "date": "2025-04-26"
+   },
+   {
+    "id": 391500178,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/391500178/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/391500178/large.jpeg",
+    "attribution": "(c) wrsurrett, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/221087108",
+    "place": "Mwada, Tanzania",
+    "date": "2024-06-07"
+   }
+  ],
   "juvenile": [
    {
-    "id": 502906219,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502906219/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502906219/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/280042939",
-    "place": "Serengeti National Park, Tanzania",
-    "date": "2017-07-12"
+    "id": 332930833,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332930833/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332930833/large.jpg",
+    "attribution": "(c) dirtyicecream, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/189977114",
+    "place": "Hell's Gate National Park, Naivasha, Nakuru, KE",
+    "date": "2018-08-21"
    },
    {
-    "id": 353570080,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353570080/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353570080/large.jpg",
-    "attribution": "(c) Nathan Mesnildrey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/200407914",
-    "place": "Mugumoini, Nairobi, Kenya",
-    "date": "2024-02-25"
+    "id": 269714734,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/269714734/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/269714734/large.jpg",
+    "attribution": "(c) Alex R, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/156001807",
+    "place": "Meru, Tanzania",
+    "date": "2020-06-12"
    },
    {
-    "id": 502751783,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502751783/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502751783/large.jpg",
-    "attribution": "(c) Luis G Restrepo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/279947023",
-    "place": "Ngorongoro Crater, Tanzania",
-    "date": "2017-07-12"
+    "id": 460212476,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460212476/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460212476/large.jpeg",
+    "attribution": "(c) owlice, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256651728",
+    "place": "Central, Kenya",
+    "date": "2024-07-28"
    }
   ],
   "hero": {
-   "id": 345745020,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345745020/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345745020/large.jpg",
-   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/345745020",
+   "id": 329009302,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329009302/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329009302/large.jpg",
+   "attribution": "(c) Marc Henrion, some rights reserved (CC BY-NC), uploaded by Marc Henrion",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/329009302",
    "place": null,
    "date": null
   }
@@ -115,15 +136,15 @@
    0,
    0
   ],
-  "worldTotal": 77294,
+  "worldTotal": 77303,
   "topCountries": [
    {
     "code": "KE",
-    "count": 51286
+    "count": 51295
    },
    {
     "code": "TZ",
-    "count": 20450
+    "count": 20451
    },
    {
     "code": "ET",
@@ -147,7 +168,7 @@
    },
    {
     "code": "DE",
-    "count": 42
+    "count": 41
    },
    {
     "code": "SS",
@@ -167,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +202,7 @@
   "type": "alarm call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

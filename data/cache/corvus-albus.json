@@ -2,7 +2,7 @@
  "key": "corvus-albus",
  "name": "Corvus albus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:02.580Z",
+ "fetchedAt": "2026-11-17T20:09:04.675Z",
  "names": {
   "da": "Broget Krage",
   "en": "Pied Crow",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8038,
-  "observations": 10558
+  "observations": 10595
  },
  "photos": {
   "male": [
@@ -34,37 +34,57 @@
     "date": "2021-12-02"
    },
    {
-    "id": 172074176,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172074176/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172074176/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/102882241",
-    "place": "Menabe, MG-TL, MG",
-    "date": "2012-07-27"
+    "id": 172561632,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172561632/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172561632/large.jpeg",
+    "attribution": "(c) Nick Leggatt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103141444",
+    "place": "Bloubergstrand, Cape Town, 7441, South Africa",
+    "date": "2021-12-16"
    },
    {
-    "id": 172510925,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172510925/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172510925/large.jpeg",
-    "attribution": "(c) Matthew Fainman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103114711",
-    "place": "Road side verge, Underberg, KZN, South Africa",
-    "date": "2021-12-15"
+    "id": 167821442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167821442/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167821442/large.jpeg",
+    "attribution": "(c) lmartinezinigo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/100541967",
+    "place": "Labe, Guinea",
+    "date": "2021-11-07"
    }
   ],
   "female": [],
   "juvenile": [
    {
-    "id": 334163110,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334163110/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334163110/large.jpeg",
-    "attribution": "(c) Jacobus Retief, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/190596319",
-    "place": "Cape Farms, Cape Town, South Africa",
-    "date": "2023-11-10"
+    "id": 461908091,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/461908091/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/461908091/large.jpeg",
+    "attribution": "(c) benidryl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/257484571",
+    "place": "Ahaglugger, Bearna, Co. Galway, Ireland",
+    "date": "2025-01-05"
+   },
+   {
+    "id": 251785896,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251785896/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251785896/large.jpeg",
+    "attribution": "(c) Peter Vos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/146450451",
+    "place": "Windsor on Sea, Margate, 4265, South Africa",
+    "date": "2023-01-12"
+   },
+   {
+    "id": 238643742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238643742/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238643742/large.jpeg",
+    "attribution": "(c) apusaffinis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139517094",
+    "place": "UNISA - Florida Campus",
+    "date": "2022-10-21"
    }
   ],
   "hero": {
@@ -95,7 +115,7 @@
    0,
    0
   ],
-  "worldTotal": 508413,
+  "worldTotal": 508423,
   "topCountries": [
    {
     "code": "ZA",
@@ -127,7 +147,7 @@
    },
    {
     "code": "GM",
-    "count": 10175
+    "count": 10176
    },
    {
     "code": "NG",
@@ -135,7 +155,7 @@
    },
    {
     "code": "MG",
-    "count": 8765
+    "count": 8774
    },
    {
     "code": "ZM",
@@ -147,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +181,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

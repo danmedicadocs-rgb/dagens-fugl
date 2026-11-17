@@ -2,7 +2,7 @@
  "key": "rissa-tridactyla",
  "name": "Rissa tridactyla",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:22.225Z",
+ "fetchedAt": "2026-11-17T19:44:55.707Z",
  "names": {
   "da": "Ride",
   "en": "Black-legged Kittiwake",
@@ -19,11 +19,73 @@
  },
  "inat": {
   "id": 4494,
-  "observations": 17994
+  "observations": 18023
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 279624670,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279624670/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279624670/large.jpg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161756753",
+    "place": "Middleton Island, AK, US",
+    "date": "2023-05-05"
+   },
+   {
+    "id": 279624690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279624690/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279624690/large.jpg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161756762",
+    "place": "Middleton Island, AK, US",
+    "date": "2023-05-05"
+   },
+   {
+    "id": 279625313,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279625313/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279625313/large.jpg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161757247",
+    "place": "Middleton Island, AK, US",
+    "date": "2023-05-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 302459648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/302459648/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/302459648/large.jpg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/174120451",
+    "place": "Middleton Island, AK, US",
+    "date": "2023-07-15"
+   },
+   {
+    "id": 27373720,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27373720/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27373720/large.jpeg",
+    "attribution": "(c) Mike Leveille, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/17919614",
+    "place": "Tadoussac, QC, Canada",
+    "date": "2018-10-27"
+   },
+   {
+    "id": 279624703,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279624703/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279624703/large.jpg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161756763",
+    "place": "Middleton Island, AK, US",
+    "date": "2023-05-05"
+   }
+  ],
   "juvenile": [
    {
     "id": 301919822,
@@ -36,91 +98,59 @@
     "date": "2023-07-19"
    },
    {
-    "id": 243035379,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243035379/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243035379/large.jpeg",
-    "attribution": "(c) bitsnbirds, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/141832157",
-    "place": "Wicklow, IE",
-    "date": "2022-07-26"
+    "id": 48237894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48237894/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48237894/large.jpeg",
+    "attribution": "(c) Sarah Lou H, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30858139",
+    "place": "Lislorkan North, Co. Clare, Ireland",
+    "date": "2019-08-14"
    },
    {
-    "id": 433149902,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433149902/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433149902/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242946814",
-    "place": "Карское море у Северной Земли",
-    "date": "2024-08-16"
-   }
-  ],
-  "adult": [
-   {
-    "id": 177338326,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177338326/large.jpeg",
-    "attribution": "(c) Iona M., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105663578",
-    "place": "Oban PA34 5AD, UK",
-    "date": "2022-01-27"
-   },
-   {
-    "id": 11504971,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11504971/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11504971/large.jpeg",
-    "attribution": "(c) patrickc, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/8603886",
-    "place": "Jan Mayen, Svalbard and Jan Mayen",
-    "date": "2016-05-19"
-   },
-   {
-    "id": 388184078,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388184078/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388184078/large.jpeg",
-    "attribution": "(c) Alex Press, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/219318429",
-    "place": "RSPB Bempton Cliffs, East Riding of Yorkshire, UK",
-    "date": "2021-05-29"
+    "id": 593628369,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593628369/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593628369/large.jpg",
+    "attribution": "(c) cyrielle_leroy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/327648781",
+    "place": "Cap de la Hève, Sainte-Adresse, France",
+    "date": "2025-11-22"
    }
   ],
   "hero": {
-   "id": 150280970,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280970/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280970/large.jpg",
-   "attribution": "(c) Donald Davesne, some rights reserved (CC BY), uploaded by Donald Davesne",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/150280970",
+   "id": 419912377,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/419912377/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/419912377/large.jpg",
+   "attribution": "(c) Marion Goascoz, some rights reserved (CC BY-NC), uploaded by Marion Goascoz",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/419912377",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481205,
-  "dkTotal": 63377,
+  "dkTotal": 63380,
   "dkMonths": [
    5849,
    3859,
    2627,
    3394,
-   5571,
+   5573,
    2461,
-   4056,
+   4057,
    6018,
    6257,
    11810,
    8519,
    2918
   ],
-  "worldTotal": 1077837,
+  "worldTotal": 1077999,
   "topCountries": [
    {
     "code": "GB",
-    "count": 368955
+    "count": 368961
    },
    {
     "code": "US",
@@ -128,23 +158,23 @@
    },
    {
     "code": "CA",
-    "count": 97540
+    "count": 97541
    },
    {
     "code": "NO",
-    "count": 81584
+    "count": 81655
    },
    {
     "code": "DK",
-    "count": 63377
+    "count": 63380
    },
    {
     "code": "SE",
-    "count": 53897
+    "count": 53925
    },
    {
     "code": "NL",
-    "count": 39736
+    "count": 39742
    },
    {
     "code": "BE",
@@ -152,15 +182,15 @@
    },
    {
     "code": "IE",
-    "count": 36839
+    "count": 36840
    },
    {
     "code": "FR",
-    "count": 32376
+    "count": 32378
    },
    {
     "code": "DE",
-    "count": 26199
+    "count": 26237
    },
    {
     "code": "IS",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

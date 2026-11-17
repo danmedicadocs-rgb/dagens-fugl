@@ -2,7 +2,7 @@
  "key": "menura-novaehollandiae",
  "name": "Menura novaehollandiae",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:39:44.163Z",
+ "fetchedAt": "2026-11-17T20:13:43.401Z",
  "names": {
   "da": "Pragtlyrehale",
   "en": "Superb Lyrebird",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 12700,
-  "observations": 6743
+  "observations": 6758
  },
  "photos": {
   "male": [
+   {
+    "id": 108961003,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108961003/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108961003/large.jpg",
+    "attribution": "(c) haruspex, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67440159",
+    "place": "Minnamurra Falls, Jamberoo NSW 2533, Australia",
+    "date": "2020-11-17"
+   },
+   {
+    "id": 60835144,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60835144/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60835144/large.jpeg",
+    "attribution": "(c) John Eichler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38291216",
+    "place": "Taggerty VIC 3714, Australia",
+    "date": "2016-07-21"
+   },
    {
     "id": 350107803,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/medium.png",
@@ -32,70 +52,81 @@
     "source": "https://www.inaturalist.org/observations/198617509",
     "place": "New South Wales, AU",
     "date": "2017-01-04"
-   },
-   {
-    "id": 383927857,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/383927857/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/383927857/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/217050072",
-    "place": "Melbourne VIC, Australia",
-    "date": "2023-08-11"
-   },
-   {
-    "id": 378039135,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378039135/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378039135/large.jpeg",
-    "attribution": "(c) Tim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/213903736",
-    "place": "Invergordon NSW 2422, Australia",
-    "date": "2024-03-05"
    }
   ],
   "female": [
    {
-    "id": 340068392,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340068392/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340068392/large.jpeg",
-    "attribution": "(c) Antoine MARNAT, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/193577680",
-    "place": "Blue Mountains Nat'l Park NSW 2787, Australie",
-    "date": "2010-05-19"
+    "id": 559260433,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559260433/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559260433/large.jpg",
+    "attribution": "(c) matthewlh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309892579",
+    "place": "Bega Valley, AU-NS, AU",
+    "date": "2025-08-24"
    },
    {
-    "id": 55937543,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55937543/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55937543/large.jpg",
-    "attribution": "(c) Andrew Allen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/35472724",
-    "place": "Melbourne VIC, Australia",
-    "date": "2016-09-19"
+    "id": 479209407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479209407/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479209407/large.jpeg",
+    "attribution": "(c) emma, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/266707203",
+    "place": "Kallista VIC 3791, Australia",
+    "date": "2025-03-24"
    },
    {
-    "id": 602226358,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602226358/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602226358/large.jpg",
-    "attribution": "(c) Tony Eales, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/331911620",
-    "place": "Macquarie Pass NSW 2577, Australia",
-    "date": "2025-12-22"
+    "id": 300300218,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300300218/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/300300218/large.jpg",
+    "attribution": "(c) tedparking, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/172950005",
+    "place": "Morton National Park, Bundanoon, NSW, AU",
+    "date": "2023-07-14"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 38321009,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38321009/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38321009/large.jpeg",
+    "attribution": "(c) Michael Keogh, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/24778424",
+    "place": "Gaffneys Creek VIC 3723, Australia",
+    "date": "2010-09-18"
+   },
+   {
+    "id": 463464045,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463464045/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463464045/large.jpeg",
+    "attribution": "(c) nfury8, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258333370",
+    "place": "Rj Hamer Arboretum - Gardens Of The Dandenong, Olinda VIC 3788, Australia",
+    "date": "2025-01-13"
+   },
+   {
+    "id": 603848426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/603848426/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/603848426/large.jpg",
+    "attribution": "(c) Roseanna, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/332699674",
+    "place": "Hornsby NSW 2077, Australia",
+    "date": "2025-12-30"
+   }
+  ],
   "hero": {
-   "id": 350107803,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/medium.png",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350107803/large.png",
-   "attribution": "(c) Sockrosma, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/198617509",
-   "place": "New South Wales, AU",
-   "date": "2017-01-04"
+   "id": 204606779,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204606779/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204606779/large.jpeg",
+   "attribution": "(c) pdubbin, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/204606779",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 150633,
+  "worldTotal": 150630,
   "topCountries": [
    {
     "code": "AU",
@@ -139,8 +170,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -155,5 +184,7 @@
   "type": "imitation, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "ramphastos-toco",
  "name": "Ramphastos toco",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:18.260Z",
+ "fetchedAt": "2026-11-17T20:22:37.743Z",
  "names": {
   "da": "Kæmpetukan",
   "en": "Toco Toucan",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 18793,
-  "observations": 9259
+  "observations": 9279
  },
  "photos": {
   "male": [
+   {
+    "id": 566192828,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566192828/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566192828/large.jpg",
+    "attribution": "(c) Sheyla Regina Dos Santos Pinto, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/313522959",
+    "place": "Vila Gardiman, Itu - SP, 13309, Brasil",
+    "date": "2025-09-01"
+   },
+   {
+    "id": 553165439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553165439/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553165439/large.jpg",
+    "attribution": "(c) Kauã Neves, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306724994",
+    "place": "São Carlos",
+    "date": "2025-08-16"
+   },
    {
     "id": 679093253,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/medium.jpg",
@@ -32,101 +52,81 @@
     "source": "https://www.inaturalist.org/observations/371674658",
     "place": "Ichilo, Bolivia",
     "date": "2026-06-08"
-   },
-   {
-    "id": 591401199,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591401199/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591401199/large.jpg",
-    "attribution": "(c) Rafael Rosa, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/326531489",
-    "place": "Campus da Usp, Ribeirão Preto - SP, Brazil",
-    "date": "2025-11-14"
-   },
-   {
-    "id": 757495750,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/757495750/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/757495750/large.jpg",
-    "attribution": "(c) André Ambrozio, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/411737427",
-    "place": "SQDN 415/416, Brasília, DF, BR",
-    "date": "2026-10-30"
    }
   ],
   "female": [
    {
-    "id": 599761764,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599761764/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599761764/large.jpg",
-    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/330711557",
-    "place": "Barao de Guandu, Nova Iguaçu - RJ, Brasil",
-    "date": "2025-07-06"
+    "id": 63281111,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63281111/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63281111/large.jpg",
+    "attribution": "(c) Paul Steeves, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39862449",
+    "place": "Poconé - State of Mato Grosso, 78175-000, Brazil",
+    "date": "2016-09-03"
    },
    {
-    "id": 599224859,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224859/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224859/large.jpg",
-    "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/330452509",
-    "place": "San Fernando, Chaco, Argentina",
-    "date": "2024-07-24"
+    "id": 293411303,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293411303/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293411303/large.jpeg",
+    "attribution": "(c) Megan Reid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169252967",
+    "place": "Acc. Parque Nacional Iguazú, Misiones, Argentina",
+    "date": "2023-05-11"
    },
    {
-    "id": 599224997,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224997/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599224997/large.jpg",
-    "attribution": "(c) Ezequiel Vera, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/330452511",
-    "place": "San Fernando, Chaco, Argentina",
-    "date": "2024-07-24"
+    "id": 604210470,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604210470/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604210470/large.jpg",
+    "attribution": "(c) J. Ribamar S. Amarante, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/332877352",
+    "place": "Conj. Hab. Paraiso, Floriano - PI, 64800-000, Brasil",
+    "date": "2025-12-31"
    }
   ],
   "juvenile": [
    {
-    "id": 613488192,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613488192/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613488192/large.jpg",
-    "attribution": "(c) tebobeto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/337470931",
-    "place": "Soledade de Minas - State of Minas Gerais, Brasil",
-    "date": "2026-02-05"
+    "id": 173079215,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173079215/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173079215/large.jpeg",
+    "attribution": "(c) Jeanne Martins Nascimento, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103417239",
+    "place": "Chapada dos Guimarães, MT, Brasil",
+    "date": "2021-12-21"
    },
    {
-    "id": 507310074,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507310074/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507310074/large.jpg",
-    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/282369392",
-    "place": "Minas Gerais, BR",
-    "date": "2025-05-19"
+    "id": 231039207,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231039207/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231039207/large.jpeg",
+    "attribution": "(c) Sandra Acebey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/135460183",
+    "place": "Gran Chaco, Bolivia",
+    "date": "2011-03-02"
    },
    {
-    "id": 344300380,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344300380/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344300380/large.jpg",
-    "attribution": "(c) Pedro Van Kan, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/195673187",
-    "place": "Formosa, GO, BR",
-    "date": "2024-01-02"
+    "id": 613012270,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613012270/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613012270/large.jpg",
+    "attribution": "(c) Wanieulli Pascoal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/337240314",
+    "place": "Centro, Colinas do Tocantins - TO, 77760-000, Brasil",
+    "date": "2025-03-18"
    }
   ],
   "hero": {
-   "id": 679093253,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679093253/large.jpg",
-   "attribution": "(c) Kozue Kawakami, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/371674658",
-   "place": "Ichilo, Bolivia",
-   "date": "2026-06-08"
+   "id": 63281117,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63281117/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63281117/large.jpg",
+   "attribution": "(c) Paul Steeves, some rights reserved (CC BY-NC), uploaded by Paul Steeves",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/63281117",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 94700,
+  "worldTotal": 94710,
   "topCountries": [
    {
     "code": "BR",
-    "count": 72712
+    "count": 72719
    },
    {
     "code": "AR",
-    "count": 15832
+    "count": 15833
    },
    {
     "code": "BO",
@@ -170,7 +170,7 @@
    },
    {
     "code": "GF",
-    "count": 89
+    "count": 90
    },
    {
     "code": "SR",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "colius-striatus",
  "name": "Colius striatus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:33:46.971Z",
+ "fetchedAt": "2026-11-17T20:07:45.527Z",
  "names": {
   "da": "Brun Musefugl",
   "en": "Speckled Mousebird",
@@ -19,51 +19,92 @@
  },
  "inat": {
   "id": 3704,
-  "observations": 8766
+  "observations": 8798
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 593618434,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593618434/large.jpg",
-    "attribution": "(c) Nicole Kearney, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/327643359",
-    "place": "Arusha, Arusha Urban, TZ",
+    "id": 473973629,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473973629/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473973629/large.jpg",
+    "attribution": "(c) Daan Prinsloo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263800498",
+    "place": "Silver Lakes Golf Estate, 0054, Suid-Afrika",
+    "date": "2023-07-11"
+   },
+   {
+    "id": 593673656,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593673656/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593673656/large.jpg",
+    "attribution": "(c) Jacques Grobbelaar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/327673002",
+    "place": "Sunnyridge, Newcastle, South Africa",
     "date": "2025-11-22"
    },
    {
-    "id": 519246383,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519246383/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/519246383/large.jpg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/288720020",
-    "place": "Mossel Bay Central, Mossel Bay, 6506, South Africa",
-    "date": "2025-06-11"
+    "id": 474722535,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474722535/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474722535/large.jpg",
+    "attribution": "(c) Daan Prinsloo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/264269994",
+    "place": "Silver Lakes Golf Estate, 0054, Suid-Afrika",
+    "date": "2024-08-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 390682502,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/390682502/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/390682502/large.jpeg",
+    "attribution": "(c) Abdulsalam, Abdullahi Ahmed, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/220649292",
+    "place": "Farin Yashe, Plateau, Nigeria",
+    "date": "2024-06-05"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 563029445,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563029445/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563029445/large.jpg",
+    "attribution": "(c) Gerhard Lemmer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/311872355",
+    "place": "Cotswold, Gqeberha, South Africa",
+    "date": "2025-09-06"
    },
    {
-    "id": 181535507,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181535507/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181535507/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/107884788",
-    "place": "Keurboomstrand, South Africa",
-    "date": "2022-03-04"
+    "id": 752755496,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752755496/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752755496/large.jpg",
+    "attribution": "(c) jean hirons, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/409411624",
+    "place": "Klein Boplaas, Dieprivier, Garden Route District Municipality, South Africa",
+    "date": "2026-10-12"
+   },
+   {
+    "id": 673369109,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673369109/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673369109/large.jpg",
+    "attribution": "(c) Gerhard Lemmer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368667368",
+    "place": "Cotswold, Gqeberha, South Africa",
+    "date": "2026-06-02"
    }
   ],
   "hero": {
-   "id": 35258692,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35258692/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35258692/large.jpg",
-   "attribution": "(c) Henry de Lange, some rights reserved (CC BY), uploaded by Henry de Lange",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/35258692",
+   "id": 245848834,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245848834/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245848834/large.jpg",
+   "attribution": "(c) Marie Delport, some rights reserved (CC BY-NC), uploaded by Marie Delport",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/245848834",
    "place": null,
    "date": null
   }
@@ -85,11 +126,11 @@
    1,
    0
   ],
-  "worldTotal": 419072,
+  "worldTotal": 419095,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 291883
+    "count": 291893
    },
    {
     "code": "KE",
@@ -97,15 +138,15 @@
    },
    {
     "code": "UG",
-    "count": 20485
+    "count": 20487
    },
    {
     "code": "TZ",
-    "count": 17890
+    "count": 17894
    },
    {
     "code": "ET",
-    "count": 6691
+    "count": 6692
    },
    {
     "code": "RW",
@@ -121,11 +162,11 @@
    },
    {
     "code": "SZ",
-    "count": 3513
+    "count": 3514
    },
    {
     "code": "MZ",
-    "count": 2516
+    "count": 2517
    },
    {
     "code": "CD",
@@ -133,12 +174,10 @@
    },
    {
     "code": "MW",
-    "count": 1683
+    "count": 1686
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

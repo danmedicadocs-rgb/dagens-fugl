@@ -2,7 +2,7 @@
  "key": "gulosus-aristotelis",
  "name": "Gulosus aristotelis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:00.761Z",
+ "fetchedAt": "2026-11-17T19:36:47.015Z",
  "names": {
   "da": "Topskarv",
   "en": "European shag",
@@ -19,10 +19,41 @@
  },
  "inat": {
   "id": 1289604,
-  "observations": 18761
+  "observations": 18819
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 325319702,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325319702/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325319702/large.jpeg",
+    "attribution": "(c) Tomeu Bosch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186187122",
+    "place": "Islas Baleares, España",
+    "date": "2023-10-04"
+   },
+   {
+    "id": 249985543,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249985543/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249985543/large.jpeg",
+    "attribution": "(c) Tomeu Bosch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/145527066",
+    "place": "Es Coll d'en Rabassa, Palma, Islas Baleares, España",
+    "date": "2022-12-31"
+   },
+   {
+    "id": 210651105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210651105/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210651105/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124294300",
+    "place": "Staffa, United Kingdom",
+    "date": "2022-06-20"
+   }
+  ],
   "female": [
    {
     "id": 498926023,
@@ -33,38 +64,58 @@
     "source": "https://www.inaturalist.org/observations/277865546",
     "place": "Vardø, Noruega",
     "date": "2025-04-15"
+   },
+   {
+    "id": 456566266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456566266/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456566266/large.jpeg",
+    "attribution": "(c) marcienne, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/254844858",
+    "place": "08013 Bosa, Oristano, Italie",
+    "date": "2024-11-07"
+   },
+   {
+    "id": 369390278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369390278/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369390278/large.jpeg",
+    "attribution": "(c) frediator, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208761475",
+    "place": "Cristin, Pwllheli LL53 8DE, UK",
+    "date": "2024-04-19"
    }
   ],
   "juvenile": [
    {
-    "id": 332126706,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332126706/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332126706/large.jpg",
-    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/189570956",
-    "place": "Central Bedfordshire, UK",
-    "date": "2023-10-31"
+    "id": 400269673,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400269673/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400269673/large.jpg",
+    "attribution": "(c) usupatu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/225742316",
+    "place": "Almería, ES-AN, ES",
+    "date": "2024-06-28"
    },
    {
-    "id": 469316232,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469316232/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469316232/large.jpeg",
-    "attribution": "(c) Fabien52851, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261251224",
-    "place": "Iles de Lérin, Cannes, France",
-    "date": "2025-02-09"
+    "id": 561328993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/561328993/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/561328993/large.jpg",
+    "attribution": "(c) Haili York, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/310982904",
+    "place": "H75X+GH, Newcastle, Mullaghmore, Co. Longford, Ireland",
+    "date": "2025-09-02"
    },
    {
-    "id": 571989522,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571989522/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571989522/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/316580527",
-    "place": "Sunderland - Inner harbour",
-    "date": "2025-09-25"
+    "id": 79655590,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79655590/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79655590/large.jpg",
+    "attribution": "(c) Jofre, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/50163467",
+    "place": "Mar Mediterrània, Catalonia, ES",
+    "date": "2020-06-19"
    }
   ],
   "hero": {
@@ -95,35 +146,35 @@
    247,
    127
   ],
-  "worldTotal": 554129,
+  "worldTotal": 554446,
   "topCountries": [
    {
     "code": "GB",
-    "count": 143303
+    "count": 143309
    },
    {
     "code": "NO",
-    "count": 122886
+    "count": 122989
    },
    {
     "code": "ES",
-    "count": 61453
+    "count": 61458
    },
    {
     "code": "SE",
-    "count": 61196
+    "count": 61324
    },
    {
     "code": "FR",
-    "count": 28604
+    "count": 28615
    },
    {
     "code": "NL",
-    "count": 28162
+    "count": 28210
    },
    {
     "code": "IE",
-    "count": 22182
+    "count": 22183
    },
    {
     "code": "IM",
@@ -131,11 +182,11 @@
    },
    {
     "code": "PT",
-    "count": 11740
+    "count": 11741
    },
    {
     "code": "GR",
-    "count": 9240
+    "count": 9242
    },
    {
     "code": "TR",
@@ -147,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "call, song, Male arriving at the nest, pairing",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

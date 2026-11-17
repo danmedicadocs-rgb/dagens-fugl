@@ -2,7 +2,7 @@
  "key": "bubo-scandiacus",
  "name": "Bubo scandiacus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:28.700Z",
+ "fetchedAt": "2026-11-17T19:48:26.815Z",
  "names": {
   "da": "Sneugle",
   "en": "Snowy Owl",
@@ -19,39 +19,39 @@
  },
  "inat": {
   "id": 144594,
-  "observations": 12759
+  "observations": 12783
  },
  "photos": {
   "male": [
    {
-    "id": 751438134,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751438134/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/751438134/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/408760063",
-    "place": "Cass County, ND, USA",
-    "date": "2024-02-09"
+    "id": 604170941,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604170941/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604170941/large.jpg",
+    "attribution": "(c) Евгений Гурьевских, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/332858532",
+    "place": "Верх-Исетский р-н, Екатеринбург, Свердловская обл., Россия",
+    "date": "2025-12-06"
    },
    {
-    "id": 468935116,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468935116/large.jpeg",
-    "attribution": "(c) Alessandro Franchini, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/261060345",
-    "place": "Drumheller, AB T0J 0Y0, Canada",
-    "date": "2025-02-08"
+    "id": 624125328,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624125328/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624125328/large.jpg",
+    "attribution": "(c) Ярослав, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342703198",
+    "place": "Udmurt, RU",
+    "date": "2023-11-17"
    },
    {
-    "id": 636925064,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636925064/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636925064/large.jpg",
-    "attribution": "(c) Eric Habisch, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/349173164",
-    "place": "Langley, BC, Canada",
-    "date": "2026-01-13"
+    "id": 615861379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615861379/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615861379/large.jpg",
+    "attribution": "(c) Jace, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338631227",
+    "place": "Park Point, Duluth, MN 55802, USA",
+    "date": "2026-02-14"
    }
   ],
   "female": [
@@ -66,27 +66,47 @@
     "date": "2023-02-26"
    },
    {
-    "id": 462564259,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462564259/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462564259/large.jpg",
-    "attribution": "(c) Kalvin Chan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257840271",
-    "place": "Ontario, CA",
-    "date": "2025-01-01"
+    "id": 358759745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358759745/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358759745/large.jpeg",
+    "attribution": "(c) Irina_Oriolus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203082613",
+    "place": "Нуринский район, Казахстан",
+    "date": "2021-03-07"
    },
    {
-    "id": 107861843,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107861843/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107861843/large.jpg",
-    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66850311",
-    "place": "112 83rd St, Virginia Beach, VA 23451, USA",
-    "date": "2020-12-20"
+    "id": 416566885,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/416566885/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/416566885/large.jpg",
+    "attribution": "(c) Valter Medeiros, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/234334271",
+    "place": "Azores, PT",
+    "date": "2009-02-24"
    }
   ],
   "juvenile": [
+   {
+    "id": 2745180,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2745180/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2745180/large.jpg",
+    "attribution": "(c) James Welch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2455258",
+    "place": "United States",
+    "date": "2015-12-06"
+   },
+   {
+    "id": 59156074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59156074/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59156074/large.jpeg",
+    "attribution": "(c) Madison Reynolds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37328273",
+    "place": "Utqiagvik, AK 99723, USA",
+    "date": "2012-08-03"
+   },
    {
     "id": 103933088,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103933088/medium.jpg",
@@ -96,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/64630962",
     "place": "Oberlin, OH 44074, USA",
     "date": "2020-11-08"
-   },
-   {
-    "id": 433287539,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433287539/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433287539/large.jpeg",
-    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/243015210",
-    "place": "Lake Ontario, CA-ON, CA",
-    "date": "2022-03-05"
-   },
-   {
-    "id": 172745928,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172745928/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172745928/large.jpg",
-    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/103242880",
-    "place": "Black River Landing",
-    "date": "2021-12-11"
    }
   ],
   "hero": {
-   "id": 263627380,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263627380/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263627380/large.jpg",
-   "attribution": "(c) Bill Bouton, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/263627380",
+   "id": 150549757,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150549757/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150549757/large.jpg",
+   "attribution": "(c) Patrick Randall, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/150549757",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    8,
    274
   ],
-  "worldTotal": 267469,
+  "worldTotal": 267482,
   "topCountries": [
    {
     "code": "US",
@@ -158,11 +158,11 @@
    },
    {
     "code": "SE",
-    "count": 2887
+    "count": 2888
    },
    {
     "code": "NL",
-    "count": 2329
+    "count": 2336
    },
    {
     "code": "RU",
@@ -178,7 +178,7 @@
    },
    {
     "code": "FI",
-    "count": 611
+    "count": 614
    },
    {
     "code": "GB",
@@ -186,7 +186,7 @@
    },
    {
     "code": "NO",
-    "count": 530
+    "count": 531
    },
    {
     "code": "GL",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

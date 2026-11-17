@@ -2,7 +2,7 @@
  "key": "larus-glaucoides",
  "name": "Larus glaucoides",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:13.379Z",
+ "fetchedAt": "2026-11-17T19:45:56.715Z",
  "names": {
   "da": "Hvidvinget måge",
   "en": "Iceland Gull",
@@ -19,84 +19,63 @@
  },
  "inat": {
   "id": 4361,
-  "observations": 13735
+  "observations": 13756
  },
  "photos": {
   "male": [],
-  "female": [],
-  "juvenile": [
+  "female": [
    {
-    "id": 609004591,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609004591/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609004591/large.jpg",
-    "attribution": "(c) Quentin Benet-Cibois, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/335256551",
-    "place": "France",
-    "date": "2026-01-18"
-   },
-   {
-    "id": 14041779,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14041779/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14041779/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/10171839",
-    "place": "Boston, MA, USA",
-    "date": "2018-03-10"
-   },
-   {
-    "id": 354053433,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354053433/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354053433/large.jpeg",
-    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/200652927",
-    "place": "New Russia Township, OH, USA",
-    "date": "2024-02-25"
+    "id": 619459201,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/619459201/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/619459201/large.jpg",
+    "attribution": "(c) pbounds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340404340",
+    "place": "Yolo County, CA, USA",
+    "date": "2026-02-26"
    }
   ],
-  "adult": [
+  "juvenile": [
    {
-    "id": 459828005,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/large.jpg",
-    "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/256461217",
-    "place": "Toronto, ON, Canada",
-    "date": "2024-12-26"
+    "id": 615803580,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615803580/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615803580/large.jpg",
+    "attribution": "(c) matthew_wills, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338600509",
+    "place": "New York, NY, US",
+    "date": "2026-02-14"
    },
    {
-    "id": 610670666,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610670666/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610670666/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/336085403",
-    "place": "Sandymount Strand",
-    "date": "2007-11-25"
+    "id": 344706040,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344706040/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344706040/large.jpg",
+    "attribution": "(c) Jared Manninen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195873936",
+    "place": "El Dorado County, CA, USA",
+    "date": "2024-01-05"
    },
    {
-    "id": 489675281,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489675281/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489675281/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/202668702",
-    "place": "Cantabria, ES-CB, ES",
-    "date": "2024-03-16"
+    "id": 596003690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596003690/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596003690/large.jpg",
+    "attribution": "(c) Michael G. Shepard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328858606",
+    "place": "Clover Point, Victoria, BC, Canada",
+    "date": "2003-01-23"
    }
   ],
   "hero": {
-   "id": 459828005,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459828005/large.jpg",
-   "attribution": "(c) Andrew Lai, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/256461217",
-   "place": "Toronto, ON, Canada",
-   "date": "2024-12-26"
+   "id": 111301421,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111301421/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111301421/large.jpg",
+   "attribution": "(c) David McCorquodale, some rights reserved (CC BY-NC), uploaded by David McCorquodale",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/111301421",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,7 +95,7 @@
    117,
    291
   ],
-  "worldTotal": 456989,
+  "worldTotal": 457008,
   "topCountries": [
    {
     "code": "CA",
@@ -132,11 +111,11 @@
    },
    {
     "code": "NL",
-    "count": 15232
+    "count": 15238
    },
    {
     "code": "NO",
-    "count": 14645
+    "count": 14660
    },
    {
     "code": "GB",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

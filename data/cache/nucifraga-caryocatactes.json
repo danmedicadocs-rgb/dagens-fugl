@@ -2,7 +2,7 @@
  "key": "nucifraga-caryocatactes",
  "name": "Nucifraga caryocatactes",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:35.022Z",
+ "fetchedAt": "2026-11-17T19:50:59.063Z",
  "names": {
   "da": "Nøddekrige",
   "en": "Northern Nutcracker",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 204552,
-  "observations": 11206
+  "observations": 11269
  },
  "photos": {
   "male": [
@@ -32,39 +32,49 @@
     "source": "https://www.inaturalist.org/observations/90524832",
     "place": "Introd",
     "date": "2021-08-01"
+   },
+   {
+    "id": 634840654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/634840654/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/634840654/large.jpg",
+    "attribution": "(c) nkomolova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/348120632",
+    "place": "Северо-Восточный административный округ, Москва, Россия",
+    "date": "2026-03-21"
    }
   ],
   "female": [],
   "juvenile": [
    {
-    "id": 144943994,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144943994/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144943994/large.jpg",
-    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/87886168",
-    "place": "Davos, Switzerland",
-    "date": "2021-07-17"
+    "id": 754950286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754950286/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754950286/large.jpg",
+    "attribution": "(c) christiaandevries, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410482627",
+    "place": "Norg, Nederland",
+    "date": "2026-10-22"
    },
    {
-    "id": 87164187,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87164187/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87164187/large.jpeg",
-    "attribution": "(c) E. A., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/54746169",
-    "place": "Seckau, 8732, Österreich",
-    "date": "2020-07-29"
+    "id": 531143286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531143286/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531143286/large.jpg",
+    "attribution": "(c) Sergey_Cher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295058882",
+    "place": "Троицкий Адм. округ, Россия",
+    "date": "1992-05-09"
    },
    {
-    "id": 210766988,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210766988/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210766988/large.jpeg",
-    "attribution": "(c) Tatiana Strus, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124352149",
-    "place": "Ханты-Мансийск, Ханты-Мансийский автономный округ, Россия",
-    "date": "2022-07-02"
+    "id": 534284720,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534284720/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534284720/large.jpg",
+    "attribution": "(c) Dragonfyre, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/296708940",
+    "place": "38031 Campitello di Fassa TN, Italy",
+    "date": "2025-07-09"
    }
   ],
   "hero": {
@@ -95,35 +105,35 @@
    713,
    209
   ],
-  "worldTotal": 375260,
+  "worldTotal": 403805,
   "topCountries": [
    {
     "code": "SE",
-    "count": 167475
+    "count": 167681
    },
    {
     "code": "NO",
-    "count": 56423
-   },
-   {
-    "code": "FI",
-    "count": 31546
-   },
-   {
-    "code": "FR",
-    "count": 29560
-   },
-   {
-    "code": "AT",
-    "count": 15885
+    "count": 56500
    },
    {
     "code": "CH",
-    "count": 11437
+    "count": 39393
+   },
+   {
+    "code": "FI",
+    "count": 31572
+   },
+   {
+    "code": "FR",
+    "count": 29590
+   },
+   {
+    "code": "AT",
+    "count": 15948
    },
    {
     "code": "IT",
-    "count": 9515
+    "count": 9559
    },
    {
     "code": "RU",
@@ -135,7 +145,7 @@
    },
    {
     "code": "DE",
-    "count": 6021
+    "count": 6096
    },
    {
     "code": "DK",
@@ -143,12 +153,10 @@
    },
    {
     "code": "NL",
-    "count": 4115
+    "count": 4126
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "amazona-aestiva",
  "name": "Amazona aestiva",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:36.081Z",
+ "fetchedAt": "2026-11-17T20:26:21.785Z",
  "names": {
   "da": "Blåpandet Amazone",
   "en": "Blue-fronted Parrot",
@@ -19,10 +19,41 @@
  },
  "inat": {
   "id": 18978,
-  "observations": 4583
+  "observations": 4591
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 488270484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488270484/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488270484/large.jpeg",
+    "attribution": "(c) Gegeo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271444683",
+    "place": "Bahia, BR",
+    "date": "2025-04-19"
+   },
+   {
+    "id": 754592704,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754592704/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754592704/large.jpg",
+    "attribution": "(c) Gustavo Souza, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410310397",
+    "place": "Minas Gerais, BR",
+    "date": "2025-11-15"
+   },
+   {
+    "id": 716721356,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716721356/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716721356/large.jpg",
+    "attribution": "(c) Lucia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391177828",
+    "place": "Paraguay",
+    "date": "2026-08-08"
+   }
+  ],
   "female": [
    {
     "id": 436786993,
@@ -33,18 +64,49 @@
     "source": "https://www.inaturalist.org/observations/244831600",
     "place": "São Paulo, BR",
     "date": "2024-09-29"
+   },
+   {
+    "id": 716722722,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716722722/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716722722/large.jpg",
+    "attribution": "(c) Lucia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391177889",
+    "place": "Paraguay",
+    "date": "2026-08-11"
+   },
+   {
+    "id": 716723827,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716723827/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716723827/large.jpg",
+    "attribution": "(c) Lucia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391177922",
+    "place": "Paraguay",
+    "date": "2026-08-12"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 55012764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55012764/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55012764/large.png",
+    "attribution": "(c) Adriano Luiz de Faria, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34915966",
+    "place": "Minas Gerais, BR",
+    "date": "2017-05-16"
+   }
+  ],
   "hero": {
-   "id": 436786993,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/436786993/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/436786993/large.jpeg",
-   "attribution": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/244831600",
-   "place": "São Paulo, BR",
-   "date": "2024-09-29"
+   "id": 751910048,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/751910048/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/751910048/large.jpg",
+   "attribution": "(c) Matt Blue, some rights reserved (CC BY-NC), uploaded by Matt Blue",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/751910048",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -132,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

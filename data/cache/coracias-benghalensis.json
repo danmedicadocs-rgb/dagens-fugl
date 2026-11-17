@@ -2,7 +2,7 @@
  "key": "coracias-benghalensis",
  "name": "Coracias benghalensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:37:47.777Z",
+ "fetchedAt": "2026-11-17T20:11:54.083Z",
  "names": {
   "da": "Blåkronet Ellekrage",
   "en": "Indian Roller",
@@ -19,51 +19,82 @@
  },
  "inat": {
   "id": 979665,
-  "observations": 6139
+  "observations": 6181
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 591298700,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591298700/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591298700/large.jpg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/326479882",
-    "place": "5C28+42V, Benap, Gujarat 385570, India",
-    "date": "2025-11-12"
+    "id": 166393426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166393426/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166393426/large.jpeg",
+    "attribution": "(c) IYYAPPAN KRISHNAN, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99770974",
+    "place": "W426+R3W, Umbilikampatti, Tamil Nadu 636351, India",
+    "date": "2021-10-30"
    },
    {
-    "id": 307026799,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307026799/large.jpg",
-    "attribution": "(c) Parth Kansara, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/176588715",
-    "place": "Kachchh, IN-GJ, IN",
-    "date": "2019-11-24"
+    "id": 80431860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80431860/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80431860/large.jpg",
+    "attribution": "(c) Suhas Gurjar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/50646912",
+    "place": "Kondsar Bk., Maharashtra, India",
+    "date": "2013-05-16"
    },
    {
-    "id": 194403575,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194403575/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194403575/large.jpeg",
-    "attribution": "(c) Manoj Karingamadathil, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/115189814",
-    "place": "Walayar Dam",
-    "date": "2022-03-13"
+    "id": 737458760,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/737458760/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/737458760/large.jpg",
+    "attribution": "(c) Naman Nahar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/401768612",
+    "place": "9RJG+564, Baronda, Chhattisgarh 493225, India",
+    "date": "2026-07-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 623525821,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/623525821/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/623525821/large.jpg",
+    "attribution": "(c) Ariful Ali, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342401130",
+    "place": "GXFV+W66, Lukhurakhania gaon, Kaziranga National Park, Assam 782136, India",
+    "date": "2025-11-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 244892054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244892054/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244892054/large.jpeg",
+    "attribution": "(c) Anoop Nair, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/142802553",
+    "place": "POOTHALI HOMESTAY",
+    "date": "2022-07-08"
+   },
+   {
+    "id": 648475501,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/648475501/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/648475501/large.jpg",
+    "attribution": "(c) yann quiniou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/355588301",
+    "place": "Al Jali Street, Dubai, Dubai, AE",
+    "date": "2026-04-19"
    }
   ],
   "hero": {
-   "id": 91945434,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91945434/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91945434/large.jpeg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/91945434",
+   "id": 208845148,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208845148/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208845148/large.jpg",
+   "attribution": "(c) Cheryl Rosenfeld, some rights reserved (CC BY-NC), uploaded by Cheryl Rosenfeld",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/208845148",
    "place": null,
    "date": null
   }
@@ -85,11 +116,11 @@
    0,
    0
   ],
-  "worldTotal": 271481,
+  "worldTotal": 271482,
   "topCountries": [
    {
     "code": "IN",
-    "count": 230085
+    "count": 230086
    },
    {
     "code": "AE",
@@ -137,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

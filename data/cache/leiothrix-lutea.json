@@ -2,7 +2,7 @@
  "key": "leiothrix-lutea",
  "name": "Leiothrix lutea",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:37:32.879Z",
+ "fetchedAt": "2026-11-17T20:11:38.979Z",
  "names": {
   "da": "Kinesisk nattergal",
   "en": "Red-billed Leiothrix",
@@ -19,53 +19,83 @@
  },
  "inat": {
   "id": 15560,
-  "observations": 4117
+  "observations": 4129
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 102895764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102895764/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102895764/large.jpg",
+    "attribution": "(c) John Eppler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/64044901",
+    "place": "North Shore, Waialua, HI, USA",
+    "date": "2013-04-22"
+   },
+   {
+    "id": 486584003,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/486584003/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/486584003/large.jpeg",
+    "attribution": "(c) Jayden Ang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/270554075",
+    "place": "China, A Ba Zang Zu Qiang Zu Zi Zhi Zhou, Jiu Zhai Gou Xian, 边边街3-8号 邮政编码: 623402",
+    "date": "2025-04-15"
+   },
+   {
+    "id": 170963224,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170963224/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170963224/large.jpeg",
+    "attribution": "(c) Matteo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102293716",
+    "place": "Lusuolo, 54026 Mulazzo MS, Italia",
+    "date": "2021-12-01"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 443610232,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443610232/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443610232/large.jpeg",
-    "attribution": "(c) gerardbertrand, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/248290771",
-    "place": "Chemin d'Ossau, Sainte-Colome, Nouvelle-Aquitaine, FR",
-    "date": "2024-10-20"
+    "id": 454172678,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454172678/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454172678/large.jpg",
+    "attribution": "(c) Dr Namgyal T Sherpa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/253627547",
+    "place": "Bakhim, South Sikkim, Sikkim, India",
+    "date": "2024-07-13"
    },
    {
-    "id": 120464560,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120464560/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120464560/large.jpg",
-    "attribution": "(c) Jay Paroline, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/73760939",
-    "place": "Kaneohe, HI 96744, USA",
-    "date": "2021-04-11"
+    "id": 558227546,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558227546/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558227546/large.jpg",
+    "attribution": "(c) Erin Yokoi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309356490",
+    "place": "Hawaii, US",
+    "date": "2025-08-26"
    },
    {
-    "id": 733664591,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/733664591/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/733664591/large.jpg",
-    "attribution": "(c) Maximilien Dereme, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/399857387",
-    "place": "Horta, Horta-Guinardó, Barcelona, Spain",
-    "date": "2023-12-29"
+    "id": 476506859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476506859/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476506859/large.jpeg",
+    "attribution": "(c) Enio Bini, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265297219",
+    "place": "50019 Sesto Fiorentino FI, Italia",
+    "date": "2022-01-24"
    }
   ],
   "hero": {
-   "id": 443610232,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443610232/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443610232/large.jpeg",
-   "attribution": "(c) gerardbertrand, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/248290771",
-   "place": "Chemin d'Ossau, Sainte-Colome, Nouvelle-Aquitaine, FR",
-   "date": "2024-10-20"
+   "id": 242875080,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242875080/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242875080/large.jpg",
+   "attribution": "(c) Stephen John Davies, some rights reserved (CC BY-NC), uploaded by Stephen John Davies",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/242875080",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,7 +115,7 @@
    1,
    0
   ],
-  "worldTotal": 83583,
+  "worldTotal": 83593,
   "topCountries": [
    {
     "code": "US",
@@ -93,7 +123,7 @@
    },
    {
     "code": "IN",
-    "count": 19548
+    "count": 19549
    },
    {
     "code": "CN",
@@ -113,7 +143,7 @@
    },
    {
     "code": "IT",
-    "count": 1885
+    "count": 1890
    },
    {
     "code": "NP",
@@ -137,8 +167,8 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": null,
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

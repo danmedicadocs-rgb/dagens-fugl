@@ -2,7 +2,7 @@
  "key": "saxicola-rubicola",
  "name": "Saxicola rubicola",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:25:26.935Z",
+ "fetchedAt": "2026-11-17T19:58:02.047Z",
  "names": {
   "da": "Sortstrubet bynkefugl",
   "en": "European Stonechat",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 201192,
-  "observations": 69329
+  "observations": 69520
  },
  "photos": {
   "male": [
+   {
+    "id": 727294051,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727294051/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727294051/large.jpg",
+    "attribution": "(c) sabine-g, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/396593433",
+    "place": "7072 Mörbisch am See, Österreich",
+    "date": "2026-08-25"
+   },
+   {
+    "id": 660931204,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660931204/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660931204/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362132388",
+    "place": "Κρήτη, Καστέλλι, Κρήτη, GR",
+    "date": "2026-04-23"
+   },
    {
     "id": 114669325,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114669325/medium.jpg",
@@ -32,106 +52,86 @@
     "source": "https://www.inaturalist.org/observations/70526018",
     "place": "29890 Kerlouan, France",
     "date": "2021-02-26"
-   },
-   {
-    "id": 415324786,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415324786/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415324786/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/233681697",
-    "place": "Parvomay, Bulgaria",
-    "date": "2024-07-30"
-   },
-   {
-    "id": 185668959,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185668959/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185668959/large.jpeg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/110096572",
-    "place": "Newport, UK",
-    "date": "2022-03-31"
    }
   ],
   "female": [
    {
-    "id": 451118072,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451118072/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451118072/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/252049139",
-    "place": "Sarzeau, France",
-    "date": "2024-11-11"
+    "id": 470059941,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470059941/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470059941/large.jpg",
+    "attribution": "(c) Diego Garcia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261624837",
+    "place": "Vizcaya, España",
+    "date": "2025-02-13"
    },
    {
-    "id": 74178486,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74178486/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74178486/large.jpg",
-    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/46772948",
-    "place": "Batna, DZ",
-    "date": "2020-01-12"
+    "id": 458853185,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458853185/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458853185/large.jpeg",
+    "attribution": "(c) vbull, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255983021",
+    "place": "ECNR & Coastal Path, Newcastle, Co. Wicklow, Ireland",
+    "date": "2024-12-21"
    },
    {
-    "id": 49673347,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49673347/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/49673347/large.jpg",
-    "attribution": "(c) katunchik, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/31719791",
-    "place": "Primorsko, Bulgaria",
-    "date": "2019-08-28"
+    "id": 499089208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/499089208/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/499089208/large.jpg",
+    "attribution": "(c) Alexander Görlt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/277952976",
+    "place": "Leipziger Auwald, Leipzig, Sachsen, DE",
+    "date": "2025-05-02"
    }
   ],
   "juvenile": [
    {
-    "id": 656123461,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656123461/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656123461/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/359605258",
-    "place": "64295 Darmstadt-Siedlung Tann, Germany",
-    "date": "2026-05-08"
+    "id": 415847303,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415847303/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415847303/large.jpg",
+    "attribution": "(c) Lioneska, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/233957087",
+    "place": "Milovice, Česko",
+    "date": "2024-07-02"
    },
    {
-    "id": 555005757,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555005757/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555005757/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/307679819",
-    "place": "Lugasu De Jos, Bihor, RO",
-    "date": "2025-08-20"
+    "id": 644874174,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/644874174/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/644874174/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/353426406",
+    "place": "Κρήτη, Καστέλλι, Κρήτη, GR",
+    "date": "2026-04-21"
    },
    {
-    "id": 682903628,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682903628/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682903628/large.jpg",
-    "attribution": "(c) carabus123, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/373665454",
-    "place": "Raisting, Bayern, DE",
-    "date": "2026-06-20"
+    "id": 227065058,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227065058/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227065058/large.jpeg",
+    "attribution": "(c) gfazenda123, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/133314673",
+    "place": "Almada, Portugal",
+    "date": "2022-08-08"
    }
   ],
   "hero": {
-   "id": 134125239,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134125239/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134125239/large.jpg",
-   "attribution": "(c) Paul Lewis, some rights reserved (CC BY), uploaded by Paul Lewis",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/134125239",
+   "id": 393828349,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393828349/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393828349/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/393828349",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 4408759,
-  "dkTotal": 69806,
+  "dkTotal": 69807,
   "dkMonths": [
    1621,
    1672,
@@ -140,66 +140,64 @@
    12415,
    7069,
    5917,
-   5124,
+   5125,
    5056,
    7932,
    2024,
    1148
   ],
-  "worldTotal": 2515615,
+  "worldTotal": 2549599,
   "topCountries": [
    {
     "code": "NL",
-    "count": 728766
+    "count": 728979
    },
    {
     "code": "ES",
-    "count": 463328
+    "count": 463399
    },
    {
     "code": "GB",
-    "count": 290926
+    "count": 290943
    },
    {
     "code": "FR",
-    "count": 284908
+    "count": 285288
    },
    {
     "code": "PT",
-    "count": 204113
+    "count": 204120
    },
    {
     "code": "BE",
-    "count": 101056
+    "count": 101057
    },
    {
     "code": "DK",
-    "count": 69806
+    "count": 69807
    },
    {
     "code": "DE",
-    "count": 64283
+    "count": 65123
    },
    {
     "code": "IL",
-    "count": 51541
+    "count": 51556
    },
    {
     "code": "SE",
-    "count": 43150
+    "count": 43210
+   },
+   {
+    "code": "CH",
+    "count": 38747
    },
    {
     "code": "IE",
     "count": 28533
-   },
-   {
-    "code": "NO",
-    "count": 19357
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

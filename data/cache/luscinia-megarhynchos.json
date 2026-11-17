@@ -2,7 +2,7 @@
  "key": "luscinia-megarhynchos",
  "name": "Luscinia megarhynchos",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:24:46.283Z",
+ "fetchedAt": "2026-11-17T19:57:09.634Z",
  "names": {
   "da": "Sydlig nattergal",
   "en": "Common Nightingale",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 13079,
-  "observations": 18105
+  "observations": 18112
  },
  "photos": {
   "male": [
+   {
+    "id": 132342119,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132342119/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132342119/large.jpg",
+    "attribution": "(c) Lioneska, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80730847",
+    "place": "Chodov, Praha 11, Česko",
+    "date": "2021-04-28"
+   },
+   {
+    "id": 125772301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125772301/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125772301/large.jpeg",
+    "attribution": "(c) tnaturalist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/76906015",
+    "place": "Barcelona, Cataluña, Spain",
+    "date": "2021-05-03"
+   },
    {
     "id": 191077394,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/medium.jpg",
@@ -32,29 +52,30 @@
     "source": "https://www.inaturalist.org/observations/113092501",
     "place": "Приморско, Болгария",
     "date": "2022-04-27"
-   },
-   {
-    "id": 668820594,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668820594/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668820594/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/366284672",
-    "place": "4292 Dobri dol, Bulgaria",
-    "date": "2026-05-29"
-   },
-   {
-    "id": 39807132,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39807132/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39807132/large.jpeg",
-    "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/25683225",
-    "place": "Homburg, Deutschland",
-    "date": "2019-05-24"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 511009681,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511009681/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/511009681/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284349456",
+    "place": "Valencia, España",
+    "date": "2025-05-26"
+   },
+   {
+    "id": 710243006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710243006/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710243006/large.jpg",
+    "attribution": "(c) theSigmaArts, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/387842160",
+    "place": "Forli' - Cesena, Emilia-Romagna, IT",
+    "date": "2026-07-14"
+   }
+  ],
   "juvenile": [
    {
     "id": 732498965,
@@ -77,25 +98,25 @@
     "date": "2026-07-24"
    },
    {
-    "id": 219855735,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219855735/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219855735/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/129376546",
-    "place": "Quintanalara, Burgos, España",
-    "date": "2022-07-17"
+    "id": 341306769,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341306769/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341306769/large.jpeg",
+    "attribution": "(c) Pascal Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/194206183",
+    "place": "42520 Malleval, France",
+    "date": "2009-06-17"
    }
   ],
   "hero": {
-   "id": 191077394,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191077394/large.jpg",
-   "attribution": "(c) katunchik, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/113092501",
-   "place": "Приморско, Болгария",
-   "date": "2022-04-27"
+   "id": 389920621,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389920621/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389920621/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/389920621",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,23 +136,27 @@
    1,
    0
   ],
-  "worldTotal": 1239386,
+  "worldTotal": 1325100,
   "topCountries": [
    {
     "code": "FR",
-    "count": 423223
+    "count": 424793
    },
    {
     "code": "ES",
-    "count": 333094
+    "count": 333106
    },
    {
     "code": "NL",
-    "count": 119087
+    "count": 119119
+   },
+   {
+    "code": "CH",
+    "count": 87704
    },
    {
     "code": "DE",
-    "count": 78966
+    "count": 81349
    },
    {
     "code": "PT",
@@ -151,24 +176,18 @@
    },
    {
     "code": "IT",
-    "count": 17727
+    "count": 17791
    },
    {
     "code": "GR",
-    "count": 13765
+    "count": 13779
    },
    {
     "code": "TR",
-    "count": 13237
-   },
-   {
-    "code": "CZ",
-    "count": 13085
+    "count": 13238
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +202,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "hydroprogne-caspia",
  "name": "Hydroprogne caspia",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:36.153Z",
+ "fetchedAt": "2026-11-17T19:46:19.162Z",
  "names": {
   "da": "Rovterne",
   "en": "Caspian Tern",
@@ -19,89 +19,119 @@
  },
  "inat": {
   "id": 144537,
-  "observations": 48728
+  "observations": 48854
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 65870733,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65870733/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65870733/large.jpeg",
-    "attribution": "(c) Arnim Littek, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/41518285",
-    "place": "Foxton Beach, New Zealand",
-    "date": "2020-04-05"
+    "id": 277194887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/277194887/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/277194887/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160416096",
+    "place": "Mikoszewo, Poland",
+    "date": "2023-05-07"
    },
    {
-    "id": 87324889,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324889/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87324889/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/54866356",
-    "place": "Crissy Field, San Francisco, CA, USA",
-    "date": "2020-07-30"
+    "id": 22709077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22709077/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22709077/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15183957",
+    "place": "Cardiff, Encinitas, CA 92007, USA",
+    "date": "2016-04-16"
    },
    {
-    "id": 251440227,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251440227/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251440227/large.jpeg",
-    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146272666",
-    "place": "Delta du Saloum, SN-FK-FD, SN-FK, SN",
-    "date": "2023-01-07"
+    "id": 695477415,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695477415/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695477415/large.jpg",
+    "attribution": "(c) Davis Provan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/380166342",
+    "place": "Imperial County, CA, USA",
+    "date": "2026-07-04"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 666829308,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/365245601",
-    "place": "Juab County, UT, USA",
-    "date": "2026-05-21"
+    "id": 79591417,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79591417/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79591417/large.jpg",
+    "attribution": "(c) Tony Iwane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/50123199",
+    "place": "Alameda, California, United States",
+    "date": "2020-06-18"
    },
    {
-    "id": 159317332,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159317332/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159317332/large.jpg",
-    "attribution": "(c) James K. Douch, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/95931309",
-    "place": "Albert Park Lake, Albert Park, VIC, AU",
-    "date": "2021-09-24"
+    "id": 79411174,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79411174/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79411174/large.jpg",
+    "attribution": "(c) Tony Iwane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/50013036",
+    "place": "Berkeley Marina, Berkeley, CA, USA",
+    "date": "2020-06-17"
    },
    {
-    "id": 341397702,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341397702/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341397702/large.jpg",
-    "attribution": "(c) James K. Douch, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/194249485",
-    "place": "Patterson River, Patterson Lakes, VIC, AU",
-    "date": "2023-12-18"
+    "id": 141353944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/141353944/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/141353944/large.jpg",
+    "attribution": "(c) aaronsrosenberg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/85866377",
+    "place": "Lake Merritt, Oakland, CA, US",
+    "date": "2021-07-05"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 465585399,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465585399/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465585399/large.jpeg",
+    "attribution": "(c) Boris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259372427",
+    "place": "Pitkyarantskiy, RU-KI, RU",
+    "date": "2015-07-14"
+   },
+   {
+    "id": 353358584,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353358584/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353358584/large.jpg",
+    "attribution": "(c) Ксения Соварцева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200298224",
+    "place": "г. Сортавала, Респ. Карелия, Россия",
+    "date": "2020-06-21"
+   },
+   {
+    "id": 611351396,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611351396/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611351396/large.jpg",
+    "attribution": "(c) Braden DeWeerd, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336424427",
+    "place": "Michigan, US",
+    "date": "2023-06-22"
    }
   ],
   "hero": {
-   "id": 666829308,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666829308/large.jpg",
-   "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/365245601",
-   "place": "Juab County, UT, USA",
-   "date": "2026-05-21"
+   "id": 486575200,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/486575200/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/486575200/large.jpg",
+   "attribution": "(c) Jef-B, some rights reserved (CC BY-NC), uploaded by Jef-B",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/486575200",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481236,
-  "dkTotal": 38853,
+  "dkTotal": 38855,
   "dkMonths": [
    1,
    0,
@@ -109,14 +139,14 @@
    2594,
    2826,
    3641,
-   11593,
+   11594,
    15775,
-   2293,
+   2294,
    95,
    0,
    0
   ],
-  "worldTotal": 2300758,
+  "worldTotal": 2300864,
   "topCountries": [
    {
     "code": "US",
@@ -128,7 +158,7 @@
    },
    {
     "code": "SE",
-    "count": 196280
+    "count": 196286
    },
    {
     "code": "AU",
@@ -136,23 +166,23 @@
    },
    {
     "code": "FI",
-    "count": 61860
+    "count": 61862
    },
    {
     "code": "NZ",
-    "count": 48751
+    "count": 48752
    },
    {
     "code": "DK",
-    "count": 38853
+    "count": 38855
    },
    {
     "code": "ZA",
-    "count": 36462
+    "count": 36463
    },
    {
     "code": "NL",
-    "count": 36033
+    "count": 36035
    },
    {
     "code": "MX",
@@ -164,12 +194,10 @@
    },
    {
     "code": "ES",
-    "count": 19493
+    "count": 19504
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "call, song, subsong",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

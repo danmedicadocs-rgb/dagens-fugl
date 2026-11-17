@@ -2,7 +2,7 @@
  "key": "acanthis-flammea",
  "name": "Acanthis flammea",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:29.059Z",
+ "fetchedAt": "2026-11-17T20:00:32.193Z",
  "names": {
   "da": "Gråsisken",
   "en": "Redpoll",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 145300,
-  "observations": 46945
+  "observations": 47090
  },
  "photos": {
   "male": [
@@ -44,49 +44,59 @@
     "date": "2021-03-15"
    },
    {
-    "id": 118231720,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118231720/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118231720/large.jpg",
-    "attribution": "(c) Евгений Егорейченков, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72508897",
-    "place": "Миасс, Челябинская обл., Россия",
-    "date": "2021-03-26"
+    "id": 61558545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61558545/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61558545/large.jpeg",
+    "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38706437",
+    "place": "Kent County, NB, Canada",
+    "date": "2011-03-28"
    }
   ],
   "female": [
    {
-    "id": 344628617,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344628617/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344628617/large.jpeg",
-    "attribution": "(c) Егор Смирнов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195835437",
-    "place": "Кирово-Чепецк, Кировская обл., Россия",
-    "date": "2024-01-04"
+    "id": 110120269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110120269/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110120269/large.jpeg",
+    "attribution": "(c) judywelna, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68062774",
+    "place": "Georgia, VT, USA",
+    "date": "2021-01-14"
    },
    {
-    "id": 344628613,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344628613/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344628613/large.jpeg",
-    "attribution": "(c) Егор Смирнов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195835438",
-    "place": "Кирово-Чепецк, Кировская обл., Россия",
-    "date": "2024-01-04"
+    "id": 181659634,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181659634/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181659634/large.jpg",
+    "attribution": "(c) mannac, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107951927",
+    "place": "Port Washington, WI, USA",
+    "date": "2022-02-23"
    },
    {
-    "id": 30166285,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30166285/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30166285/large.jpeg",
-    "attribution": "(c) Михаил Малышев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/19595320",
-    "place": "Ленинский р-н, Владимир, Владимирская обл., Россия",
-    "date": "2019-01-06"
+    "id": 33895547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33895547/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33895547/large.jpg",
+    "attribution": "(c) Иван Тисленко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21878057",
+    "place": "Красносельский р-н, Санкт-Петербург, Россия",
+    "date": "2018-03-04"
    }
   ],
   "juvenile": [
+   {
+    "id": 599063863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599063863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599063863/large.jpg",
+    "attribution": "(c) Jean-François Rousseau, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330373180",
+    "place": "Barachois, Percé, QC, Canada",
+    "date": "2016-09-05"
+   },
    {
     "id": 402994071,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/402994071/medium.jpg",
@@ -98,63 +108,53 @@
     "date": "2024-07-04"
    },
    {
-    "id": 283985400,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283985400/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283985400/large.jpeg",
-    "attribution": "(c) Donald Hampton, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/164147910",
-    "place": "Musk Ox, College, AK 99709, USA",
-    "date": "2023-05-20"
-   },
-   {
-    "id": 1179790,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179790/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1179790/large.jpg",
-    "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/941215",
-    "place": "Christchurch, Canterbury, New Zealand",
-    "date": "2006-02-18"
+    "id": 58990540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58990540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58990540/large.jpg",
+    "attribution": "(c) Herschel Island-Qikiqtaruk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37232187",
+    "place": "Yukon, YT, Canada",
+    "date": "2009-08-14"
    }
   ],
   "hero": {
-   "id": 446599304,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/446599304/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/446599304/large.jpg",
-   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/446599304",
+   "id": 226173,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226173/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226173/large.jpg",
+   "attribution": "(c) Bill Bouton, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/226173",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5231630,
-  "dkTotal": 124626,
+  "dkTotal": 124628,
   "dkMonths": [
    11145,
    8229,
    12508,
    17161,
-   13896,
+   13897,
    7361,
    6386,
-   3048,
+   3049,
    4504,
    15752,
    14827,
    9752
   ],
-  "worldTotal": 3272568,
+  "worldTotal": 3302102,
   "topCountries": [
    {
     "code": "SE",
-    "count": 892009
+    "count": 893390
    },
    {
     "code": "FI",
-    "count": 597788
+    "count": 597821
    },
    {
     "code": "CA",
@@ -166,7 +166,7 @@
    },
    {
     "code": "NO",
-    "count": 307921
+    "count": 308296
    },
    {
     "code": "GB",
@@ -174,7 +174,7 @@
    },
    {
     "code": "DK",
-    "count": 124626
+    "count": 124628
    },
    {
     "code": "NZ",
@@ -186,20 +186,18 @@
    },
    {
     "code": "NL",
-    "count": 38327
+    "count": 38420
    },
    {
     "code": "IS",
-    "count": 36832
+    "count": 36833
    },
    {
     "code": "RU",
-    "count": 35718
+    "count": 35719
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

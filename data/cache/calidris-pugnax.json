@@ -2,7 +2,7 @@
  "key": "calidris-pugnax",
  "name": "Calidris pugnax",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:59.528Z",
+ "fetchedAt": "2026-11-17T19:42:21.561Z",
  "names": {
   "da": "Brushane",
   "en": "Ruff",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 339593,
-  "observations": 35328
+  "observations": 35383
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2017-04-23"
    },
    {
+    "id": 334954093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334954093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334954093/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190996033",
+    "place": "Сыктывдинский р-н, Респ. Коми, Россия",
+    "date": "2023-05-31"
+   },
+   {
     "id": 123757966,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123757966/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123757966/large.jpeg",
@@ -42,102 +52,92 @@
     "source": "https://www.inaturalist.org/observations/75628801",
     "place": "Remerschen ",
     "date": "2021-04-27"
-   },
-   {
-    "id": 502851595,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/502851595/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/502851595/large.jpeg",
-    "attribution": "(c) cello caruso-turiello, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/280002991",
-    "place": "Redwood City, CA, USA",
-    "date": "2025-04-04"
    }
   ],
   "female": [
    {
-    "id": 636985206,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636985206/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636985206/large.jpg",
-    "attribution": "(c) Richard Shirky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/349203920",
-    "place": "Pett, UK",
-    "date": "2026-04-12"
+    "id": 334961033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334961033/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334961033/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190999710",
+    "place": "Сыктывдинский р-н, Респ. Коми, Россия",
+    "date": "2023-05-24"
    },
    {
-    "id": 308669920,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308669920/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308669920/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/177471233",
-    "place": "Afon Alaw area, Isle of Anglesey, Wales, UK",
-    "date": "2023-08-06"
+    "id": 438727665,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438727665/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438727665/large.jpg",
+    "attribution": "(c) wblack6289, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/245823334",
+    "place": "Anaheim Hills, Anaheim, CA, USA",
+    "date": "2020-08-13"
    },
    {
-    "id": 658483585,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658483585/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658483585/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/360844366",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2026-05-12"
+    "id": 368564427,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/368564427/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/368564427/large.jpeg",
+    "attribution": "(c) Rob Westerduijn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208318273",
+    "place": "Zoetermeer, Nederland",
+    "date": "2024-04-20"
    }
   ],
   "juvenile": [
    {
-    "id": 736890131,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/736890131/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/736890131/large.jpg",
-    "attribution": "(c) Rhys, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/401477821",
-    "place": "Gloucester GL2 7BT, UK",
-    "date": "2026-09-05"
+    "id": 229785076,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229785076/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229785076/large.jpeg",
+    "attribution": "(c) stefanyvillagomez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/134776406",
+    "place": "Ensenada, B.C., México",
+    "date": "2022-09-10"
    },
    {
-    "id": 320359164,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320359164/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320359164/large.jpeg",
-    "attribution": "(c) Brent Cox, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/183610371",
-    "place": "Bryan, TX 77807, USA",
-    "date": "2023-09-16"
+    "id": 716682859,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716682859/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716682859/large.jpg",
+    "attribution": "(c) Вадим Рыбаков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391148031",
+    "place": "Заволжский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-08-14"
    },
    {
-    "id": 433919935,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433919935/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/243350604",
-    "place": "Карское море, Байдарацкая губа.",
-    "date": "2024-08-25"
+    "id": 228072188,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/228072188/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/228072188/large.jpg",
+    "attribution": "(c) Álvaro San José Elizundia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/133858607",
+    "place": "Ensenada, Baja California, MX",
+    "date": "2022-09-05"
    }
   ],
   "hero": {
-   "id": 7477459,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7477459/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7477459/large.jpg",
-   "attribution": "(c) Laura Gaudette, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/5981564",
-   "place": "Alachua County, FL, USA",
-   "date": "2017-04-23"
+   "id": 60599329,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60599329/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60599329/large.jpg",
+   "attribution": "(c) Frans Vandewalle, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/60599329",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 8250742,
-  "dkTotal": 130451,
+  "dkTotal": 130452,
   "dkMonths": [
    140,
    102,
    3560,
    18876,
-   19701,
+   19702,
    12119,
    24039,
    28729,
@@ -146,19 +146,19 @@
    396,
    129
   ],
-  "worldTotal": 1590826,
+  "worldTotal": 1591315,
   "topCountries": [
    {
     "code": "SE",
-    "count": 418476
+    "count": 418510
    },
    {
     "code": "NL",
-    "count": 288538
+    "count": 288671
    },
    {
     "code": "DK",
-    "count": 130451
+    "count": 130452
    },
    {
     "code": "GB",
@@ -166,19 +166,19 @@
    },
    {
     "code": "NO",
-    "count": 87936
+    "count": 87947
    },
    {
     "code": "ES",
-    "count": 53655
+    "count": 53660
    },
    {
     "code": "FR",
-    "count": 48787
+    "count": 48792
    },
    {
     "code": "FI",
-    "count": 46411
+    "count": 46433
    },
    {
     "code": "BE",
@@ -186,11 +186,11 @@
    },
    {
     "code": "ZA",
-    "count": 40231
+    "count": 40237
    },
    {
     "code": "IN",
-    "count": 33975
+    "count": 33981
    },
    {
     "code": "IL",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "alarm call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

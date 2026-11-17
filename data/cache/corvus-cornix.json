@@ -2,7 +2,7 @@
  "key": "corvus-cornix",
  "name": "Corvus cornix",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:53.864Z",
+ "fetchedAt": "2026-11-17T19:51:21.633Z",
  "names": {
   "da": "Gråkrage",
   "en": "Hooded Crow",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 144757,
-  "observations": 151922
+  "observations": 152569
  },
  "photos": {
   "male": [
    {
-    "id": 187696260,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187696260/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187696260/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111202356",
-    "place": "Zorilor, Cluj-Napoca, Romania",
-    "date": "2022-04-11"
+    "id": 112243366,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112243366/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112243366/large.jpeg",
+    "attribution": "(c) mappa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/69203899",
+    "place": "Dobrinja, Sarajevo, Bosnia and Herzegovina",
+    "date": "2021-02-07"
    },
    {
-    "id": 176896756,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176896756/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176896756/large.jpeg",
-    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105431591",
-    "place": "Neue Donau, 1220 Wien, Österreich",
-    "date": "2022-01-09"
+    "id": 184212611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184212611/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184212611/large.jpeg",
+    "attribution": "(c) Fatih AKKOC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109311254",
+    "place": "Gaziosmanpaşa, 06830 Gölbaşı/Ankara, Türkiye",
+    "date": "2022-03-23"
    },
    {
-    "id": 635484396,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635484396/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635484396/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/348446384",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2026-04-09"
+    "id": 345483879,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345483879/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345483879/large.jpeg",
+    "attribution": "(c) barilan_school, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196260483",
+    "place": "בית ספר בר אילן, כפר יונה, ישראל",
+    "date": "2023-12-27"
    }
   ],
   "female": [
+   {
+    "id": 599038209,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599038209/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599038209/large.jpg",
+    "attribution": "(c) nina morello, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330360641",
+    "place": "Via C. Colombo, 120 (Palazzo Agricoltura), 29122 Piacenza PC, Italy",
+    "date": "2025-12-10"
+   },
+   {
+    "id": 350241850,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/350241850/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/350241850/large.jpeg",
+    "attribution": "(c) Cem Deren Bilgili, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198685560",
+    "place": "İstanbul, Türkiye",
+    "date": "2020-05-28"
+   },
    {
     "id": 381330526,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381330526/medium.gif",
@@ -64,58 +84,38 @@
     "source": "https://www.inaturalist.org/observations/204891790",
     "place": "Pisárky 292, 602 00 Brno-střed, Česko",
     "date": "2024-04-01"
-   },
-   {
-    "id": 682868225,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682868225/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682868225/large.jpg",
-    "attribution": "(c) E. A., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/373646821",
-    "place": "Murtal, Österreich",
-    "date": "2026-06-20"
-   },
-   {
-    "id": 263494181,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263494181/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263494181/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/152622982",
-    "place": "Центральный административный округ, Москва, Россия",
-    "date": "2023-03-28"
    }
   ],
   "juvenile": [
    {
-    "id": 395819998,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395819998/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395819998/large.jpeg",
-    "attribution": "(c) Atalay Karakuş, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/223395115",
-    "place": "izmir",
-    "date": "2024-06-17"
+    "id": 73417374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73417374/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73417374/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/46290825",
+    "place": "Ερυθρού Σταυρού, Καισαριανή, Αττική, GR",
+    "date": "2020-05-17"
    },
    {
-    "id": 57665588,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57665588/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57665588/large.jpg",
-    "attribution": "(c) danygl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36477111",
-    "place": "Hungary",
-    "date": "2019-06-30"
+    "id": 280445592,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280445592/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280445592/large.jpg",
+    "attribution": "(c) Cyrus Li, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162204895",
+    "place": "Grand Parade, Cork, Co. Cork, IE",
+    "date": "2023-05-17"
    },
    {
-    "id": 135460712,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135460712/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135460712/large.jpg",
-    "attribution": "(c) Mikko Nikkilä, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/82527619",
-    "place": "Uusimaa, FI-ES, FI",
-    "date": "2019-06-22"
+    "id": 724220208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724220208/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724220208/large.jpg",
+    "attribution": "(c) Lavie Mihail, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/395005649",
+    "place": "Sector 4, Bucharest, Romania",
+    "date": "2026-08-27"
    }
   ],
   "hero": {
@@ -131,75 +131,73 @@
  },
  "gbif": {
   "key": 2482515,
-  "dkTotal": 648763,
+  "dkTotal": 648783,
   "dkMonths": [
    69197,
    59638,
    77482,
    73068,
-   63991,
+   63997,
    45148,
-   38314,
-   38379,
-   40978,
+   38315,
+   38381,
+   40988,
    53393,
-   44657,
+   44658,
    44147
   ],
-  "worldTotal": 4498529,
+  "worldTotal": 4507818,
   "topCountries": [
    {
     "code": "SE",
-    "count": 1193353
+    "count": 1194445
    },
    {
     "code": "NO",
-    "count": 804014
+    "count": 802864
    },
    {
     "code": "DK",
-    "count": 648763
+    "count": 648783
    },
    {
     "code": "FI",
-    "count": 253290
+    "count": 253291
    },
    {
     "code": "IT",
-    "count": 215712
+    "count": 216128
    },
    {
     "code": "RU",
-    "count": 195440
+    "count": 195441
    },
    {
     "code": "IL",
-    "count": 140128
+    "count": 140135
    },
    {
     "code": "DE",
-    "count": 123054
+    "count": 123482
    },
    {
     "code": "IE",
-    "count": 88855
+    "count": 88856
    },
    {
     "code": "TR",
-    "count": 86740
+    "count": 86768
    },
    {
     "code": "PL",
-    "count": 86062
+    "count": 86072
    },
    {
     "code": "GB",
-    "count": 64792
+    "count": 64795
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

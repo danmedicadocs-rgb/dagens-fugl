@@ -2,7 +2,7 @@
  "key": "periparus-ater",
  "name": "Periparus ater",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:20:30.338Z",
+ "fetchedAt": "2026-11-17T19:52:06.004Z",
  "names": {
   "da": "Sortmejse",
   "en": "Coal tit",
@@ -19,42 +19,73 @@
  },
  "inat": {
   "id": 144823,
-  "observations": 49341
+  "observations": 49537
  },
  "photos": {
   "male": [
    {
-    "id": 168805367,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168805367/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168805367/large.jpeg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101101423",
-    "place": "15280 Brión, A Coruña, España",
-    "date": "2021-11-13"
+    "id": 659021892,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659021892/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659021892/large.jpg",
+    "attribution": "(c) chiarimax, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/361121571",
+    "place": "Provincia di Sondrio, Italia",
+    "date": "2026-05-02"
    },
    {
-    "id": 118260554,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118260554/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118260554/large.jpeg",
-    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72524706",
-    "place": "32449 Casgutierre, Ourense, España",
-    "date": "2021-03-31"
+    "id": 139173321,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139173321/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139173321/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84662263",
+    "place": "Alicante, España",
+    "date": "2021-06-26"
    },
    {
-    "id": 111121223,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111121223/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111121223/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/68599336",
-    "place": "Irkside NR, Alkrington Woods and Rhodes Lodges, Greater Manchester, UK",
-    "date": "2021-01-25"
+    "id": 184336598,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184336598/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184336598/large.jpeg",
+    "attribution": "(c) Coby Meester, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109376546",
+    "place": "Kiischpelt, Luxemburg",
+    "date": "2022-03-24"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 510638415,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510638415/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510638415/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284150288",
+    "place": "46880 Bocairente, Valencia, España",
+    "date": "2025-05-25"
+   },
+   {
+    "id": 667678929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667678929/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667678929/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365686730",
+    "place": "Alicante, España",
+    "date": "2026-05-27"
+   },
+   {
+    "id": 682028188,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682028188/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682028188/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/373204309",
+    "place": "Alicante, España",
+    "date": "2026-06-19"
+   }
+  ],
   "juvenile": [
    {
     "id": 388541250,
@@ -67,24 +98,24 @@
     "date": "2024-05-31"
    },
    {
-    "id": 683329137,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/683329137/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/683329137/large.jpg",
-    "attribution": "(c) justinm_, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/373883476",
-    "place": "Ty Fry Road, Rumney, Cardiff CF3 3LN, UK",
-    "date": "2026-06-21"
+    "id": 700676583,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700676583/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700676583/large.jpg",
+    "attribution": "(c) Fabio Schwab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382856850",
+    "place": "76596 Forbach, Deutschland",
+    "date": "2026-07-18"
    },
    {
-    "id": 211944502,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211944502/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211944502/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/124992766",
-    "place": "Forcella di Brez, Trento, Italy",
-    "date": "2022-07-06"
+    "id": 46082115,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46082115/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46082115/large.jpeg",
+    "attribution": "(c) Youcef karrit, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29524363",
+    "place": "فلفلة، الجزائر",
+    "date": "2019-07-25"
    }
   ],
   "hero": {
@@ -100,75 +131,73 @@
  },
  "gbif": {
   "key": 2487871,
-  "dkTotal": 126419,
+  "dkTotal": 126422,
   "dkMonths": [
    11132,
    11520,
    17325,
    19246,
-   13162,
+   13164,
    6969,
    5468,
    6757,
    10558,
    12336,
-   5953,
+   5954,
    5943
   ],
-  "worldTotal": 2665970,
+  "worldTotal": 2865832,
   "topCountries": [
    {
     "code": "GB",
-    "count": 481450
+    "count": 481452
    },
    {
     "code": "SE",
-    "count": 457289
+    "count": 457704
    },
    {
     "code": "FI",
-    "count": 264019
+    "count": 264023
    },
    {
     "code": "FR",
-    "count": 240526
+    "count": 241628
    },
    {
     "code": "ES",
-    "count": 227677
+    "count": 227692
    },
    {
     "code": "NO",
-    "count": 220955
+    "count": 221200
+   },
+   {
+    "code": "CH",
+    "count": 218465
    },
    {
     "code": "DK",
-    "count": 126419
+    "count": 126422
    },
    {
     "code": "DE",
-    "count": 124639
+    "count": 125243
    },
    {
     "code": "PT",
-    "count": 67125
+    "count": 67126
    },
    {
     "code": "BE",
-    "count": 44252
+    "count": 44253
    },
    {
     "code": "PL",
     "count": 36128
-   },
-   {
-    "code": "IT",
-    "count": 35399
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

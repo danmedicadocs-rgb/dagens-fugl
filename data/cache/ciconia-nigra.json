@@ -2,7 +2,7 @@
  "key": "ciconia-nigra",
  "name": "Ciconia nigra",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:47.990Z",
+ "fetchedAt": "2026-11-17T19:37:39.628Z",
  "names": {
   "da": "Sort stork",
   "en": "Black Stork",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 4736,
-  "observations": 13718
+  "observations": 13740
  },
  "photos": {
   "male": [
+   {
+    "id": 409803486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409803486/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409803486/large.jpg",
+    "attribution": "(c) Georg Trautmann, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/230780661",
+    "place": "Steiermark, AT",
+    "date": "2024-07-21"
+   },
+   {
+    "id": 258299953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258299953/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258299953/large.jpeg",
+    "attribution": "(c) Petro Bagniy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149858940",
+    "place": "Rivne, UA",
+    "date": "2018-10-11"
+   },
    {
     "id": 207392578,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207392578/medium.jpeg",
@@ -32,59 +52,60 @@
     "source": "https://www.inaturalist.org/observations/122490172",
     "place": "Chernihiv, UA",
     "date": "2022-06-19"
-   },
-   {
-    "id": 203477989,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203477989/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203477989/large.jpeg",
-    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120313883",
-    "place": "Chernihiv, UA",
-    "date": "2022-04-22"
-   },
-   {
-    "id": 393801522,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393801522/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393801522/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/222320260",
-    "place": "Italy",
-    "date": "2024-06-07"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 649700191,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/649700191/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/649700191/large.jpg",
+    "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/356274939",
+    "place": "Cáceres, ES-EX, ES",
+    "date": "2026-04-20"
+   },
+   {
+    "id": 266265031,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266265031/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266265031/large.jpg",
+    "attribution": "(c) Simon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/154130050",
+    "place": "Niederösterreich, AT",
+    "date": "2023-04-09"
+   }
+  ],
   "juvenile": [
    {
-    "id": 210638809,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210638809/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210638809/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/124287045",
-    "place": "Cherkasy, UA",
-    "date": "2022-06-21"
+    "id": 552361137,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/552361137/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/552361137/large.jpg",
+    "attribution": "(c) Yelena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306302311",
+    "place": "г. Барнаул, Алтайский край, Россия",
+    "date": "2025-08-05"
    },
    {
-    "id": 95391500,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95391500/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95391500/large.jpeg",
-    "attribution": "(c) Юлия, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/59691066",
-    "place": "Irkutskiy rayon, RU-IK, RU",
-    "date": "2020-09-15"
+    "id": 118588587,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118588587/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118588587/large.jpg",
+    "attribution": "(c) Игорь Щербаков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72707327",
+    "place": "Ленинский р-н, Тульская обл., Россия",
+    "date": "2012-08-16"
    },
    {
-    "id": 94112208,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94112208/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94112208/large.jpeg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/58928931",
-    "place": "Томский р-н, Томская обл., Россия",
-    "date": "2020-09-03"
+    "id": 618659660,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618659660/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618659660/large.jpg",
+    "attribution": "(c) ajlant, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340014350",
+    "place": "Kursk, RU",
+    "date": "2025-07-12"
    }
   ],
   "hero": {
@@ -115,19 +136,19 @@
    0,
    1
   ],
-  "worldTotal": 411524,
+  "worldTotal": 412410,
   "topCountries": [
    {
     "code": "FR",
-    "count": 49420
+    "count": 49424
    },
    {
     "code": "ES",
-    "count": 42330
+    "count": 42334
    },
    {
     "code": "IL",
-    "count": 29069
+    "count": 29070
    },
    {
     "code": "NL",
@@ -135,7 +156,7 @@
    },
    {
     "code": "TR",
-    "count": 21173
+    "count": 21174
    },
    {
     "code": "SA",
@@ -143,19 +164,19 @@
    },
    {
     "code": "UA",
-    "count": 14179
+    "count": 14195
    },
    {
     "code": "DE",
-    "count": 13053
+    "count": 13894
    },
    {
     "code": "ZA",
-    "count": 12236
+    "count": 12239
    },
    {
     "code": "PL",
-    "count": 12011
+    "count": 12014
    },
    {
     "code": "IN",
@@ -167,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +202,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

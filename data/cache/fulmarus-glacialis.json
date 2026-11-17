@@ -2,7 +2,7 @@
  "key": "fulmarus-glacialis",
  "name": "Fulmarus glacialis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:06:21.872Z",
+ "fetchedAt": "2026-11-17T19:35:56.238Z",
  "names": {
   "da": "Mallemuk",
   "en": "Northern Fulmar",
@@ -19,89 +19,79 @@
  },
  "inat": {
   "id": 4180,
-  "observations": 16273
+  "observations": 16288
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 148619170,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148619170/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148619170/large.jpg",
-    "attribution": "(c) Alec McClay, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89965036",
-    "place": "Gortmore lookout",
-    "date": "2016-07-24"
-   },
-   {
-    "id": 150280630,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280630/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150280630/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/90901748",
-    "place": "Arnarstapi, Islande",
-    "date": "2021-07-25"
-   },
-   {
-    "id": 304291512,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304291512/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304291512/large.jpeg",
-    "attribution": "(c) Pete Bradshaw, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/175111948",
-    "place": "North Ronaldsay KW17, UK",
-    "date": "2023-07-26"
+    "id": 53600520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53600520/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53600520/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34086344",
+    "place": null,
+    "date": "2019-07-05"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 654819321,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654819321/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654819321/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/358925211",
-    "place": "Whitley Bay",
-    "date": "2026-04-28"
+    "id": 306462324,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306462324/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306462324/large.jpeg",
+    "attribution": "(c) John Eppler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176285101",
+    "place": "Akureyrarbær, Iceland",
+    "date": "2023-07-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 1000117,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1000117/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1000117/large.jpg",
+    "attribution": "(c) matthias alfredsson, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/794839",
+    "place": "Surtsey",
+    "date": "2014-07-16"
    },
    {
-    "id": 433062747,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433062747/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433062747/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242899130",
-    "place": "Баренцево море.",
-    "date": "2024-08-02"
+    "id": 690446954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690446954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690446954/large.jpg",
+    "attribution": "(c) yerbasanta, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377559981",
+    "place": "California, US",
+    "date": "2026-04-17"
    },
    {
-    "id": 344116886,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344116886/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344116886/large.jpeg",
-    "attribution": "(c) Luke Lythgoe, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195581915",
-    "place": "East Riding of Yorkshire, England, GB",
-    "date": "2023-06-18"
+    "id": 716247306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/716247306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/716247306/large.jpg",
+    "attribution": "(c) melspippin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390926268",
+    "place": "Rangárþing eystra, 861, Iceland",
+    "date": "2026-08-13"
    }
   ],
   "hero": {
-   "id": 654819321,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654819321/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654819321/large.jpg",
-   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/358925211",
-   "place": "Whitley Bay",
-   "date": "2026-04-28"
+   "id": 197412,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197412/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197412/large.jpg",
+   "attribution": "(c) Mark Rosenstein, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/197412",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481433,
-  "dkTotal": 42639,
+  "dkTotal": 42638,
   "dkMonths": [
    1620,
    2007,
@@ -109,18 +99,18 @@
    1655,
    5182,
    3450,
-   7255,
+   7254,
    6959,
    6215,
    4605,
    2178,
    786
   ],
-  "worldTotal": 1262785,
+  "worldTotal": 1262851,
   "topCountries": [
    {
     "code": "GB",
-    "count": 700491
+    "count": 700496
    },
    {
     "code": "US",
@@ -128,11 +118,11 @@
    },
    {
     "code": "NO",
-    "count": 72141
+    "count": 72163
    },
    {
     "code": "IE",
-    "count": 68720
+    "count": 68721
    },
    {
     "code": "FO",
@@ -140,27 +130,27 @@
    },
    {
     "code": "IS",
-    "count": 47136
+    "count": 47139
    },
    {
     "code": "CA",
-    "count": 43361
+    "count": 43362
    },
    {
     "code": "DK",
-    "count": 42639
+    "count": 42638
    },
    {
     "code": "NL",
-    "count": 25279
+    "count": 25280
    },
    {
     "code": "SE",
-    "count": 19622
+    "count": 19623
    },
    {
     "code": "DE",
-    "count": 14689
+    "count": 14716
    },
    {
     "code": "IM",
@@ -168,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +172,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "anthus-hodgsoni",
  "name": "Anthus hodgsoni",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:25:59.790Z",
+ "fetchedAt": "2026-11-17T19:58:39.795Z",
  "names": {
   "da": "Tajgapiber",
   "en": "Olive-backed Pipit",
@@ -19,12 +19,53 @@
  },
  "inat": {
   "id": 13724,
-  "observations": 8893
+  "observations": 8928
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 72490579,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72490579/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72490579/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45708559",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2020-05-10"
+   },
+   {
+    "id": 47731289,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47731289/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47731289/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30548693",
+    "place": "Helgoland, Deutschland",
+    "date": "2018-10-09"
+   }
+  ],
   "female": [],
   "juvenile": [
+   {
+    "id": 46169102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46169102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46169102/large.jpg",
+    "attribution": "(c) Konstantin Romanov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29579032",
+    "place": "Novosibirskiy rayon, RU-NS, RU",
+    "date": "2019-07-26"
+   },
+   {
+    "id": 690707296,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690707296/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690707296/large.jpg",
+    "attribution": "(c) Алексей и Елизавета Романовы (Уральский птицезыр), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377693787",
+    "place": "Кировский р-н, Екатеринбург, Свердловская обл., Россия",
+    "date": "2026-07-03"
+   },
    {
     "id": 539534889,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/539534889/medium.jpg",
@@ -34,58 +75,6 @@
     "source": "https://www.inaturalist.org/observations/299478032",
     "place": "Екатеринбург, Свердловская обл., Россия, 620033",
     "date": "2025-07-17"
-   },
-   {
-    "id": 89862981,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89862981/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89862981/large.jpeg",
-    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/56390514",
-    "place": "Kamchatka Krai, Russia, 683007",
-    "date": "2020-08-12"
-   },
-   {
-    "id": 139677864,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139677864/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139677864/large.jpeg",
-    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/84942660",
-    "place": "Камчатский край, Россия, 684034",
-    "date": "2021-06-29"
-   }
-  ],
-  "adult": [
-   {
-    "id": 230588495,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230588495/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230588495/large.jpeg",
-    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/135213707",
-    "place": "Firangai Devi Cave Temple, Nanoli",
-    "date": "2020-11-14"
-   },
-   {
-    "id": 504219022,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/504219022/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/504219022/large.jpeg",
-    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/280709309",
-    "place": "Екатеринбург, Свердловская обл., Россия, 620043",
-    "date": "2025-05-13"
-   },
-   {
-    "id": 30268132,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30268132/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30268132/large.jpg",
-    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/19654230",
-    "place": "Changhua, TW-TA, TW",
-    "date": "2019-01-15"
    }
   ],
   "hero": {
@@ -116,15 +105,15 @@
    15,
    0
   ],
-  "worldTotal": 151315,
+  "worldTotal": 151347,
   "topCountries": [
    {
     "code": "CN",
-    "count": 30271
+    "count": 30272
    },
    {
     "code": "IN",
-    "count": 26915
+    "count": 26916
    },
    {
     "code": "TW",
@@ -140,7 +129,7 @@
    },
    {
     "code": "TH",
-    "count": 7765
+    "count": 7766
    },
    {
     "code": "KR",
@@ -160,7 +149,7 @@
    },
    {
     "code": "NL",
-    "count": 3203
+    "count": 3214
    },
    {
     "code": "VN",
@@ -168,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

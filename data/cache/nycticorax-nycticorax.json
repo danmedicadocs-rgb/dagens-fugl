@@ -2,7 +2,7 @@
  "key": "nycticorax-nycticorax",
  "name": "Nycticorax nycticorax",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:16.487Z",
+ "fetchedAt": "2026-11-17T19:37:05.288Z",
  "names": {
   "da": "Nathejre",
   "en": "Black-crowned night heron",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 4981,
-  "observations": 188443
+  "observations": 188909
  },
  "photos": {
   "male": [
    {
-    "id": 249322385,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249322385/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249322385/large.jpg",
-    "attribution": "(c) Sockrosma, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145168219",
-    "place": "Grand Hyatt Bali, Kabupaten Badung, Bali, ID",
-    "date": "2022-12-27"
+    "id": 447119443,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447119443/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447119443/large.jpg",
+    "attribution": "(c) grinnin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/250054034",
+    "place": "Coastal San Pedro, Los Angeles, CA, USA",
+    "date": "2024-10-31"
    },
    {
-    "id": 285500806,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285500806/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285500806/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/161472233",
-    "place": "Sevilla, ES-AN, ES",
-    "date": "2023-05-13"
+    "id": 58341058,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58341058/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58341058/large.jpeg",
+    "attribution": "(c) Nelson Conceição, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36862413",
+    "place": "Conceição, 8800, Portugal",
+    "date": "2019-03-23"
    },
    {
-    "id": 113659975,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113659975/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113659975/large.jpg",
-    "attribution": "(c) Leslie Alanís, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69971067",
-    "place": "San Jerónimo Purenchécuaro, Mich., México",
-    "date": "2021-02-20"
+    "id": 485094996,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485094996/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485094996/large.jpg",
+    "attribution": "(c) Bernd Dietrich, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/269772821",
+    "place": "Guanacaste Province, Bagaces, Costa Rica",
+    "date": "2013-11-11"
    }
   ],
   "female": [
+   {
+    "id": 444392928,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444392928/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444392928/large.jpeg",
+    "attribution": "(c) patti p., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/248681055",
+    "place": "Mile Square Regional Park, Fountain Valley, CA, US",
+    "date": "2024-10-22"
+   },
    {
     "id": 761818563,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761818563/medium.jpg",
@@ -66,56 +76,46 @@
     "date": "2026-10-27"
    },
    {
-    "id": 115642949,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115642949/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115642949/large.jpeg",
-    "attribution": "(c) Linzy L., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/71066205",
-    "place": "Presidio of San Francisco, San Francisco, CA, USA",
-    "date": "2021-03-11"
-   },
-   {
-    "id": 132791629,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132791629/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132791629/large.jpg",
-    "attribution": "(c) Jay Paroline, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/80989772",
-    "place": "Kaneohe, HI 96744, USA",
-    "date": "2021-05-30"
+    "id": 732319793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732319793/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732319793/large.jpg",
+    "attribution": "(c) laurapalmer303, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/399164540",
+    "place": "Québec, CA",
+    "date": "2026-09-10"
    }
   ],
   "juvenile": [
    {
-    "id": 59830179,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59830179/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59830179/large.jpg",
-    "attribution": "(c) Алина Урусова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37706114",
-    "place": "Кировский р-н, Волгоград, Волгоградская обл., Россия",
-    "date": "2014-08-05"
+    "id": 331631886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331631886/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331631886/large.jpg",
+    "attribution": "(c) mataniari, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/183887439",
+    "place": "South of Fifth, Miami Beach, FL 33139, USA",
+    "date": "2023-09-10"
    },
    {
-    "id": 531993479,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531993479/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531993479/large.jpg",
-    "attribution": "(c) Alex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/295510529",
-    "place": "Santa Rosa, CA, USA",
-    "date": "2025-07-05"
+    "id": 510870896,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510870896/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510870896/large.jpg",
+    "attribution": "(c) eleggua, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284284369",
+    "place": "12th and Harrison Sts, Downtown Oakland, Oakland, CA, USA",
+    "date": "2025-05-26"
    },
    {
-    "id": 500800884,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500800884/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500800884/large.jpg",
-    "attribution": "(c) Kat B, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/278897930",
-    "place": "Ventura, CA, US",
-    "date": "2025-05-03"
+    "id": 521164479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521164479/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521164479/large.jpg",
+    "attribution": "(c) eleggua, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/289744107",
+    "place": "10th and Madison Sts, Chinatown, Oakland, USA",
+    "date": "2025-06-14"
    }
   ],
   "hero": {
@@ -146,7 +146,7 @@
    219,
    19
   ],
-  "worldTotal": 2876808,
+  "worldTotal": 2877018,
   "topCountries": [
    {
     "code": "US",
@@ -154,7 +154,7 @@
    },
    {
     "code": "TW",
-    "count": 266942
+    "count": 266944
    },
    {
     "code": "CA",
@@ -162,27 +162,27 @@
    },
    {
     "code": "IN",
-    "count": 123452
+    "count": 123453
    },
    {
     "code": "ES",
-    "count": 75996
+    "count": 76006
    },
    {
     "code": "MX",
-    "count": 58300
+    "count": 58302
    },
    {
     "code": "FR",
-    "count": 57855
+    "count": 57861
    },
    {
     "code": "CN",
-    "count": 52226
+    "count": 52227
    },
    {
     "code": "BR",
-    "count": 41979
+    "count": 41982
    },
    {
     "code": "AR",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calonectris-diomedea",
  "name": "Calonectris diomedea",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:31:14.466Z",
+ "fetchedAt": "2026-11-17T20:05:07.086Z",
  "names": {
   "da": "Skopolis Skråpe",
   "en": "Scopoli's Shearwater",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 509656,
-  "observations": 2065
+  "observations": 2067
  },
  "photos": {
   "male": [],
@@ -35,7 +35,18 @@
     "date": "2017-10-16"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 33030562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33030562/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33030562/large.jpeg",
+    "attribution": "(c) Albert Fernandez Chacon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21355812",
+    "place": "Baleares, ES-PM, ES",
+    "date": "2009-09-16"
+   }
+  ],
   "hero": {
    "id": 121566757,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121566757/medium.jpeg",
@@ -64,15 +75,15 @@
    0,
    0
   ],
-  "worldTotal": 311858,
+  "worldTotal": 311886,
   "topCountries": [
    {
     "code": "PT",
-    "count": 159197
+    "count": 159199
    },
    {
     "code": "ES",
-    "count": 75146
+    "count": 75170
    },
    {
     "code": "US",
@@ -88,7 +99,7 @@
    },
    {
     "code": "GR",
-    "count": 3966
+    "count": 3967
    },
    {
     "code": "MA",
@@ -116,8 +127,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -132,5 +141,7 @@
   "type": "duet, nocturnal flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

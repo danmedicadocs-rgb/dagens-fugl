@@ -2,7 +2,7 @@
  "key": "lophophorus-impejanus",
  "name": "Lophophorus impejanus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:41.409Z",
+ "fetchedAt": "2026-11-17T20:09:47.046Z",
  "names": {
   "da": "Glansfasan",
   "en": "Himalayan Monal",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 1175,
-  "observations": 771
+  "observations": 776
  },
  "photos": {
   "male": [
+   {
+    "id": 16337434,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16337434/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16337434/large.jpg",
+    "attribution": "(c) Rinzy Wangchuk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/11451578",
+    "place": "Unnamed Road, Bhutan",
+    "date": "2018-04-26"
+   },
    {
     "id": 483766041,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483766041/medium.jpg",
@@ -34,66 +44,67 @@
     "date": "2025-03-23"
    },
    {
-    "id": 110500322,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110500322/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110500322/large.jpg",
-    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68270308",
-    "place": "Bhulkan, Uttarakhand, India",
-    "date": "2018-04-29"
-   },
-   {
-    "id": 207682397,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207682397/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207682397/large.jpg",
-    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/122651529",
-    "place": "Bumthang, Bhutan",
-    "date": "2017-04-07"
+    "id": 655929453,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/655929453/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/655929453/large.jpg",
+    "attribution": "(c) GURSEWAK SINGH, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/359504902",
+    "place": "5FV2+262, Chandar Bhan, Himachal Pradesh 176052, India",
+    "date": "2026-05-07"
    }
   ],
   "female": [
    {
-    "id": 207777102,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207777102/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207777102/large.jpg",
-    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/122702640",
+    "id": 454415301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454415301/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454415301/large.jpg",
+    "attribution": "(c) William K, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/253751727",
     "place": "Bumthang, Bhutan",
-    "date": "2017-04-08"
+    "date": "2024-11-13"
    },
    {
-    "id": 236247699,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236247699/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236247699/large.jpeg",
-    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/138241049",
-    "place": "Munsyari",
-    "date": "2022-10-02"
+    "id": 454430446,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454430446/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454430446/large.jpg",
+    "attribution": "(c) William K, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/253777730",
+    "place": "Bumthang, Bhutan",
+    "date": "2024-11-13"
    },
    {
-    "id": 257250489,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257250489/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257250489/large.jpg",
-    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149302509",
-    "place": "Kumaon Division, Uttarakhand, India",
-    "date": "2023-02-20"
+    "id": 189834729,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189834729/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189834729/large.jpg",
+    "attribution": "(c) Kalyan Singh Sajwan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112392017",
+    "place": "Chopta, Uttarakhand 246495, India",
+    "date": "2016-04-28"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 658511497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658511497/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658511497/large.jpg",
+    "attribution": "(c) Peter Ericsson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360857123",
+    "place": "Trongsa, Bhutan",
+    "date": "2015-06-06"
+   }
+  ],
   "hero": {
-   "id": 150510992,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150510992/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150510992/large.jpg",
-   "attribution": "(c) Jörg Hempel, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/150510992",
+   "id": 297667126,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297667126/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/297667126/large.jpg",
+   "attribution": "(c) Avinash Bhagat, some rights reserved (CC BY-NC), uploaded by Avinash Bhagat",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/297667126",
    "place": null,
    "date": null
   }
@@ -167,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +192,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

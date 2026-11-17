@@ -2,7 +2,7 @@
  "key": "iduna-opaca",
  "name": "Iduna opaca",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:31:49.849Z",
+ "fetchedAt": "2026-11-17T20:05:42.945Z",
  "names": {
   "da": "Vestlig Bleg Gulbug",
   "en": null,
@@ -22,28 +22,48 @@
   "observations": 422
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 121340041,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121340041/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121340041/large.jpeg",
-    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/74259282",
-    "place": "Almería, Spain",
-    "date": "2019-06-09"
+    "id": 678895887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/678895887/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/678895887/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/371567367",
+    "place": "Málaga, España",
+    "date": "2026-05-19"
+   },
+   {
+    "id": 678896067,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/678896067/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/678896067/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/371567368",
+    "place": "Málaga, España",
+    "date": "2026-05-19"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 315986898,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315986898/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315986898/large.jpg",
+    "attribution": "(c) Ricardo Rodero Henández, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181321558",
+    "place": "Granada, España",
+    "date": "2023-08-27"
    }
   ],
   "hero": {
-   "id": 1525993,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1525993/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1525993/large.jpg",
-   "attribution": "(c) Ron Knight, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1525993",
+   "id": 182708916,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182708916/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182708916/large.jpg",
+   "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/182708916",
    "place": null,
    "date": null
   }
@@ -65,7 +85,7 @@
    0,
    0
   ],
-  "worldTotal": 15896,
+  "worldTotal": 15899,
   "topCountries": [
    {
     "code": "ES",
@@ -77,7 +97,7 @@
    },
    {
     "code": "GM",
-    "count": 1505
+    "count": 1508
    },
    {
     "code": "SN",
@@ -117,8 +137,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -133,5 +151,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

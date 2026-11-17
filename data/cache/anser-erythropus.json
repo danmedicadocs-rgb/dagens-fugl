@@ -2,7 +2,7 @@
  "key": "anser-erythropus",
  "name": "Anser erythropus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:00.546Z",
+ "fetchedAt": "2026-11-17T19:32:04.725Z",
  "names": {
   "da": "Dværggås",
   "en": "Lesser white-fronted goose",
@@ -19,13 +19,44 @@
  },
  "inat": {
   "id": 7013,
-  "observations": 736
+  "observations": 740
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 241750627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241750627/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241750627/large.jpg",
+    "attribution": "(c) Sakern | 永隔一江水, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141154831",
+    "place": "Wuhan, CN-HU, CN",
+    "date": "2022-10-23"
+   },
+   {
+    "id": 592237164,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592237164/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592237164/large.jpg",
+    "attribution": "(c) nar_scol, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/326948617",
+    "place": "Japan",
+    "date": "2025-11-16"
+   }
+  ],
   "adult": [
+   {
+    "id": 114629074,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114629074/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114629074/large.jpeg",
+    "attribution": "(c) heliastes21, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70502839",
+    "place": "Norfolk, England, GB",
+    "date": "2021-03-03"
+   },
    {
     "id": 546197009,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546197009/medium.jpg",
@@ -37,23 +68,23 @@
     "date": "2024-01-31"
    },
    {
-    "id": 183109283,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183109283/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/183109283/large.jpeg",
-    "attribution": "(c) Michael Grundner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/108722035",
-    "place": null,
-    "date": "2022-03-16"
+    "id": 762499773,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762499773/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762499773/large.jpg",
+    "attribution": "(c) gabidoc, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/414218171",
+    "place": "Netherlands",
+    "date": "2026-11-11"
    }
   ],
   "hero": {
-   "id": 209902298,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209902298/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209902298/large.jpg",
-   "attribution": "(c) Ross Elliott, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/209902298",
+   "id": 1954607,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1954607/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1954607/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1954607",
    "place": null,
    "date": null
   }
@@ -75,15 +106,15 @@
    70,
    36
   ],
-  "worldTotal": 73521,
+  "worldTotal": 73571,
   "topCountries": [
    {
     "code": "SE",
-    "count": 40868
+    "count": 40882
    },
    {
     "code": "NL",
-    "count": 16890
+    "count": 16922
    },
    {
     "code": "NO",
@@ -127,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -143,5 +172,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

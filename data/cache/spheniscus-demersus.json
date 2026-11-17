@@ -2,7 +2,7 @@
  "key": "spheniscus-demersus",
  "name": "Spheniscus demersus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:34:22.128Z",
+ "fetchedAt": "2026-11-17T20:08:21.577Z",
  "names": {
   "da": "Brillepingvin",
   "en": "African Penguin",
@@ -19,82 +19,71 @@
  },
  "inat": {
   "id": 3813,
-  "observations": 6907
+  "observations": 6923
  },
  "photos": {
   "male": [],
-  "female": [],
-  "juvenile": [
+  "female": [
    {
-    "id": 227376784,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/227376784/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/227376784/large.jpg",
-    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/133486623",
-    "place": "City of Cape Town, Western Cape, South Africa",
-    "date": "2007-01-07"
+    "id": 633849333,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/633849333/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/633849333/large.jpg",
+    "attribution": "(c) rita duvenhage, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/347621075",
+    "place": "Simon's Town, Cape Town, 7975, South Africa",
+    "date": "2026-04-05"
    },
    {
-    "id": 380517822,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380517822/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380517822/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/215236585",
-    "place": "Boulders Beach, Simon's Town, Cape Town, 7995, South Africa",
-    "date": "2024-05-12"
-   },
-   {
-    "id": 439304828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/439304828/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/439304828/large.jpeg",
-    "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/246113793",
-    "place": "Overberg, Western Cape, South Africa",
-    "date": "2015-09-19"
+    "id": 510807854,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510807854/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510807854/large.jpg",
+    "attribution": "(c) Dee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/284238582",
+    "place": "Simon's Town, Cape Town, 7975, South Africa",
+    "date": "2025-05-08"
    }
   ],
-  "adult": [
+  "juvenile": [
    {
-    "id": 345171429,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345171429/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345171429/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/196105254",
-    "place": "False Bay, WC, ZA",
-    "date": "2024-01-08"
+    "id": 92671730,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92671730/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92671730/large.jpeg",
+    "attribution": "(c) ChristianRM, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/58066662",
+    "place": "South Africa",
+    "date": "2020-08-08"
    },
    {
-    "id": 249376136,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249376136/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249376136/large.jpg",
-    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/145200019",
-    "place": "Robben Island, 7400, South Africa",
-    "date": "2006-02-10"
+    "id": 152161153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/152161153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/152161153/large.jpg",
+    "attribution": "(c) concalvinator, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/91943688",
+    "place": "Farms Port Elizabeth, Gqeberha, 6018, South Africa",
+    "date": "2021-08-21"
    },
    {
-    "id": 281363432,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281363432/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281363432/large.jpeg",
-    "attribution": "(c) Allan T. Souza, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/162713087",
-    "place": "Simon's Town, Cape Town, 7975, South Africa",
-    "date": "2022-06-29"
+    "id": 259478059,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259478059/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259478059/large.jpg",
+    "attribution": "(c) Penelope Lind, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/150475407",
+    "place": "Betty's Bay, 7141, South Africa",
+    "date": "2023-02-26"
    }
   ],
   "hero": {
-   "id": 39662,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39662/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39662/large.jpg",
-   "attribution": "(c) 116916927065934112165, some rights reserved (CC BY), uploaded by 116916927065934112165",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/39662",
+   "id": 88160952,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/88160952/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/88160952/large.jpeg",
+   "attribution": "(c) gillbsydney, some rights reserved (CC BY-NC), uploaded by gillbsydney",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/88160952",
    "place": null,
    "date": null
   }
@@ -116,11 +105,11 @@
    1,
    0
   ],
-  "worldTotal": 16366,
+  "worldTotal": 16371,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 15478
+    "count": 15483
    },
    {
     "code": "NA",
@@ -168,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +171,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

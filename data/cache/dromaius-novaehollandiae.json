@@ -2,7 +2,7 @@
  "key": "dromaius-novaehollandiae",
  "name": "Dromaius novaehollandiae",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:59.802Z",
+ "fetchedAt": "2026-11-17T20:12:54.579Z",
  "names": {
   "da": "Emu",
   "en": "Emu",
@@ -19,34 +19,94 @@
  },
  "inat": {
   "id": 20504,
-  "observations": 13676
+  "observations": 13747
  },
  "photos": {
   "male": [
    {
-    "id": 587229233,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229233/large.jpg",
-    "attribution": "(c) SNSSO, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/324443387",
-    "place": "Goulburn Mulwaree Bal, AU-NS, AU",
-    "date": "2025-11-01"
+    "id": 1382768,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1382768/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1382768/large.jpg",
+    "attribution": "(c) Chris Nash, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1047887",
+    "place": "Near Warwick, Queensland, Australia.",
+    "date": "2010-09-13"
+   },
+   {
+    "id": 12864927,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12864927/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12864927/large.jpeg",
+    "attribution": "(c) Wnature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9457622",
+    "place": "Tower Hill Wildlife Reserve",
+    "date": "2016-12-01"
+   },
+   {
+    "id": 384715731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384715731/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384715731/large.jpg",
+    "attribution": "(c) Gayle Marien, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/217463906",
+    "place": "Wonthaggi VIC 3995, Australia",
+    "date": "2024-05-22"
    }
   ],
   "female": [
    {
-    "id": 587229232,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229232/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587229232/large.jpg",
-    "attribution": "(c) SNSSO, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/324443378",
-    "place": "Goulburn Mulwaree Bal, AU-NS, AU",
-    "date": "2025-11-01"
+    "id": 733457301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/733457301/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/733457301/large.jpg",
+    "attribution": "(c) AldingaRoo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/399771542",
+    "place": "Inneston SA 5577, Australia",
+    "date": "2026-09-07"
+   },
+   {
+    "id": 733457274,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/733457274/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/733457274/large.jpg",
+    "attribution": "(c) AldingaRoo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/399771540",
+    "place": "Inneston SA 5577, Australia",
+    "date": "2026-09-07"
+   },
+   {
+    "id": 732300358,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732300358/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732300358/large.jpg",
+    "attribution": "(c) AldingaRoo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/399156274",
+    "place": "Flinders Ranges SA 5434, Australia",
+    "date": "2026-09-03"
    }
   ],
   "juvenile": [
+   {
+    "id": 254264801,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254264801/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254264801/large.jpeg",
+    "attribution": "(c) Abbey Dean, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147734171",
+    "place": "Flinders Ranges SA 5434, Australia",
+    "date": "2020-07-30"
+   },
+   {
+    "id": 384716286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384716286/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384716286/large.jpg",
+    "attribution": "(c) Gayle Marien, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/217464201",
+    "place": "Wonthaggi Wetlands VIC 3995, Australia",
+    "date": "2024-05-22"
+   },
    {
     "id": 327607884,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327607884/medium.jpeg",
@@ -56,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/187344660",
     "place": "Chatham Islands Territory, New Zealand",
     "date": "2023-10-06"
-   },
-   {
-    "id": 586860206,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586860206/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586860206/large.jpg",
-    "attribution": "(c) Zara, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/324258045",
-    "place": "Broken Hill NSW 2880, Australia",
-    "date": "2025-07-16"
-   },
-   {
-    "id": 247053181,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247053181/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247053181/large.jpg",
-    "attribution": "(c) Rosario Douglas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/143996167",
-    "place": "Walpole-Nornalup National Park, Broke, WA, AU",
-    "date": "2022-12-09"
    }
   ],
   "hero": {
-   "id": 187562031,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562031/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562031/large.jpg",
-   "attribution": "(c) patrickkavanagh, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/187562031",
+   "id": 187562017,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562017/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187562017/large.jpg",
+   "attribution": "(c) David Cook, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/187562017",
    "place": null,
    "date": null
   }
@@ -106,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 168445,
+  "worldTotal": 168443,
   "topCountries": [
    {
     "code": "AU",
-    "count": 166999
+    "count": 167002
    },
    {
     "code": "NZ",
@@ -158,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +212,7 @@
   "type": "Emus, 10, drinking",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

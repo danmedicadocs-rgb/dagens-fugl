@@ -2,7 +2,7 @@
  "key": "pyrrhocorax-graculus",
  "name": "Pyrrhocorax graculus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:40.485Z",
+ "fetchedAt": "2026-11-17T20:03:22.799Z",
  "names": {
   "da": "Alpeallike",
   "en": "Alpine Chough",
@@ -19,63 +19,73 @@
  },
  "inat": {
   "id": 8350,
-  "observations": 13078
+  "observations": 13112
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 150687605,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150687605/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150687605/large.jpeg",
-    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/91138684",
-    "place": "Alto Adige, Italia",
-    "date": "2021-08-09"
+    "id": 65517320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65517320/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65517320/large.jpeg",
+    "attribution": "(c) Marco, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41307203",
+    "place": "38054 San Martino di Castrozza TN, Italia",
+    "date": "2014-08-10"
    },
    {
-    "id": 715432425,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715432425/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715432425/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/390508237",
-    "place": "Kazbegi Municipality, Georgia",
-    "date": "2026-08-07"
+    "id": 66562195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66562195/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66562195/large.jpeg",
+    "attribution": "(c) Nello, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41944524",
+    "place": "Città Metropolitana di Torino, Italia",
+    "date": "2011-08-31"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 111798407,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111798407/large.jpg",
-    "attribution": "(c) rainerburkard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68963903",
-    "place": "Hungerberg, 6020 Innsbruck, Österreich",
-    "date": "2020-08-07"
+    "id": 641451538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/641451538/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/641451538/large.jpg",
+    "attribution": "(c) Mileta Čeković, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/351502410",
+    "place": "Nišava District, Serbia",
+    "date": "2026-04-19"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 91433879,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91433879/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91433879/large.jpeg",
+    "attribution": "(c) Lukas Mohr, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/57328723",
+    "place": "Männlichen GGM, 3818 Grindelwald, Schweiz",
+    "date": "2020-08-16"
    },
    {
-    "id": 327048861,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327048861/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327048861/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/187060646",
-    "place": "Zugspitze, Garmisch-Partenkirchen, Bavaria, DE",
-    "date": "2023-10-06"
+    "id": 571481047,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571481047/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571481047/large.jpg",
+    "attribution": "(c) Tom Roth, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/316310064",
+    "place": "4274 Doslovče, Slovenia",
+    "date": "2025-08-04"
    },
    {
-    "id": 715431818,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715431818/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715431818/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/390508230",
-    "place": "Kazbegi Municipality, Georgia",
-    "date": "2026-08-07"
+    "id": 307722677,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307722677/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307722677/large.jpg",
+    "attribution": "(c) martagalloni, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176964091",
+    "place": "St. Vigil, 18, 39040 Siusi BZ, Italia",
+    "date": "2023-08-02"
    }
   ],
   "hero": {
@@ -106,27 +116,27 @@
    0,
    0
   ],
-  "worldTotal": 114588,
+  "worldTotal": 136140,
   "topCountries": [
    {
     "code": "FR",
-    "count": 36943
-   },
-   {
-    "code": "ES",
-    "count": 14636
+    "count": 37008
    },
    {
     "code": "CH",
-    "count": 12756
+    "count": 33993
+   },
+   {
+    "code": "ES",
+    "count": 14640
    },
    {
     "code": "AT",
-    "count": 12113
+    "count": 12191
    },
    {
     "code": "IT",
-    "count": 10649
+    "count": 10746
    },
    {
     "code": "IN",
@@ -134,11 +144,11 @@
    },
    {
     "code": "DE",
-    "count": 4378
+    "count": 4387
    },
    {
     "code": "MA",
-    "count": 2306
+    "count": 2311
    },
    {
     "code": "NP",
@@ -158,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

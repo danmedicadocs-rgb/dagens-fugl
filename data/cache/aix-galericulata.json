@@ -2,7 +2,7 @@
  "key": "aix-galericulata",
  "name": "Aix galericulata",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:35.420Z",
+ "fetchedAt": "2026-11-17T19:32:43.271Z",
  "names": {
   "da": "Mandarinand",
   "en": "Mandarin Duck",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7106,
-  "observations": 28391
+  "observations": 28532
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2021-11-30"
    },
    {
+    "id": 120764538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120764538/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120764538/large.jpg",
+    "attribution": "(c) Olena Shvets, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73927430",
+    "place": "Подільський район, Київ, Україна, 02000",
+    "date": "2021-02-09"
+   },
+   {
     "id": 344426994,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344426994/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344426994/large.jpg",
@@ -42,19 +52,19 @@
     "source": "https://www.inaturalist.org/observations/195735333",
     "place": "Berliner Innenstadt, Berlin, Germany",
     "date": "2024-01-03"
-   },
-   {
-    "id": 361382505,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361382505/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361382505/large.jpeg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/204451732",
-    "place": "Cedeira, La Coruña, España",
-    "date": "2024-03-29"
    }
   ],
   "female": [
+   {
+    "id": 473091710,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473091710/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473091710/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263351939",
+    "place": "Ełk, Polska",
+    "date": "2025-02-24"
+   },
    {
     "id": 126445276,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126445276/medium.jpeg",
@@ -66,27 +76,27 @@
     "date": "2021-05-04"
    },
    {
-    "id": 718741405,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/718741405/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/718741405/large.jpg",
-    "attribution": "(c) ikelman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/392209048",
-    "place": "Keptie Pond, Arbroath DD11 3EA, UK",
-    "date": "2026-08-17"
-   },
-   {
-    "id": 699007963,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699007963/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699007963/large.jpg",
-    "attribution": "(c) jirki88, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/381987574",
-    "place": "Stockholms län",
-    "date": "2026-07-16"
+    "id": 58716240,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58716240/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58716240/large.jpg",
+    "attribution": "(c) Bjarne Amstrup, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37076209",
+    "place": "Mølledam, 2800 Lyngby, Denmark",
+    "date": "2014-02-02"
    }
   ],
   "juvenile": [
+   {
+    "id": 531399649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531399649/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531399649/large.jpg",
+    "attribution": "(c) caxora, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295196195",
+    "place": "Ujazdów, Warszawa, Polska",
+    "date": "2025-07-04"
+   },
    {
     "id": 146773122,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146773122/medium.jpeg",
@@ -98,24 +108,14 @@
     "date": "2021-07-05"
    },
    {
-    "id": 149927355,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149927355/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149927355/large.jpeg",
-    "attribution": "(c) Michael Grundner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/90702275",
-    "place": "Hietzing, 1130 Wien, Österreich",
-    "date": "2014-06-06"
-   },
-   {
-    "id": 97184784,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97184784/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97184784/large.jpg",
-    "attribution": "(c) raibums, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/60764964",
-    "place": "Aoba, Miyagi, Japan",
-    "date": "2019-07-07"
+    "id": 136321709,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136321709/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136321709/large.jpeg",
+    "attribution": "(c) Tanja, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/83025905",
+    "place": "Berliner Innenstadt, Berlin, Deutschland",
+    "date": "2021-06-10"
    }
   ],
   "hero": {
@@ -146,7 +146,7 @@
    242,
    476
   ],
-  "worldTotal": 288605,
+  "worldTotal": 289285,
   "topCountries": [
    {
     "code": "GB",
@@ -158,19 +158,19 @@
    },
    {
     "code": "NL",
-    "count": 32360
+    "count": 32394
    },
    {
     "code": "DE",
-    "count": 27139
+    "count": 27288
    },
    {
     "code": "SE",
-    "count": 22570
+    "count": 22583
    },
    {
     "code": "JP",
-    "count": 17765
+    "count": 17766
    },
    {
     "code": "KR",
@@ -186,11 +186,11 @@
    },
    {
     "code": "FR",
-    "count": 7699
+    "count": 7703
    },
    {
     "code": "NO",
-    "count": 7479
+    "count": 7485
    },
    {
     "code": "DK",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, duet, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

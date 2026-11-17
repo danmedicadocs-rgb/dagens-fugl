@@ -2,7 +2,7 @@
  "key": "dendrocoptes-medius",
  "name": "Dendrocoptes medius",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:18:52.760Z",
+ "fetchedAt": "2026-11-17T19:50:06.314Z",
  "names": {
   "da": "Mellemflagspætte",
   "en": "Middle Spotted Woodpecker",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 792985,
-  "observations": 14989
+  "observations": 15082
  },
  "photos": {
   "male": [
+   {
+    "id": 586336293,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586336293/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586336293/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/323996074",
+    "place": "Заволжский р-н, Тверь, Тверская обл., Россия",
+    "date": "2025-10-30"
+   },
    {
     "id": 344507595,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/medium.jpg",
@@ -34,99 +44,89 @@
     "date": "2024-01-04"
    },
    {
-    "id": 261317123,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261317123/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261317123/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/151448857",
-    "place": "San Giovanni in Fiore",
-    "date": "2023-03-16"
-   },
-   {
-    "id": 346876967,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346876967/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346876967/large.jpeg",
-    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/197009701",
-    "place": "74560 Monnetier-Mornex, France",
-    "date": "2023-12-29"
+    "id": 58480454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58480454/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58480454/large.jpeg",
+    "attribution": "(c) Edgar Stich, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36943288",
+    "place": "Worringen, Cologne, Germany",
+    "date": "2019-12-07"
    }
   ],
   "female": [
    {
-    "id": 289097541,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097541/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097541/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/166921389",
-    "place": "San Giovanni in Fiore",
-    "date": "2023-06-09"
+    "id": 84759677,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84759677/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84759677/large.jpg",
+    "attribution": "(c) Ляшенко Изабелла, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/53297060",
+    "place": "Кирово",
+    "date": "2020-07-16"
    },
    {
-    "id": 289088099,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289088099/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289088099/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/166916456",
-    "place": "San Giovanni in Fiore",
-    "date": "2023-06-09"
+    "id": 262050331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262050331/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262050331/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/151839705",
+    "place": "Dealul Lempes, Romania",
+    "date": "2021-03-07"
    },
    {
-    "id": 289099617,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289099617/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289099617/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/166922504",
-    "place": "San Giovanni in Fiore",
-    "date": "2023-06-08"
+    "id": 595925499,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595925499/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595925499/large.jpg",
+    "attribution": "(c) Andrea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328820612",
+    "place": "15732 Eichwalde, Deutschland",
+    "date": "2025-11-14"
    }
   ],
   "juvenile": [
    {
-    "id": 289097642,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097642/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289097642/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/166921493",
-    "place": "San Giovanni in Fiore",
-    "date": "2023-06-09"
+    "id": 82927538,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82927538/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82927538/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/52176849",
+    "place": "02160 Craonne, France",
+    "date": "2020-07-04"
    },
    {
-    "id": 530262166,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530262166/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530262166/large.jpg",
-    "attribution": "(c) Михаил Малышев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/294595498",
-    "place": "Ленинский р-н, Владимир, Владимирская обл., Россия",
-    "date": "2025-06-26"
+    "id": 736331184,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/736331184/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/736331184/large.jpg",
+    "attribution": "(c) Diboan Tremelo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/401206518",
+    "place": "23460 Royère-de-Vassivière, France",
+    "date": "2026-06-07"
    },
    {
-    "id": 361755128,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361755128/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361755128/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/204650694",
-    "place": "San Giovanni",
-    "date": "2024-03-30"
+    "id": 731868048,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731868048/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731868048/large.jpg",
+    "attribution": "(c) J.E. Arndt and L. Federwisch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398930425",
+    "place": "Oberdöbling, 1190 Wien, Österreich",
+    "date": "2026-06-27"
    }
   ],
   "hero": {
-   "id": 344507595,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344507595/large.jpg",
-   "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/195776638",
-   "place": "Новомосковский Адм. округ, Москва, Россия",
-   "date": "2024-01-04"
+   "id": 76207,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76207/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76207/large.jpg",
+   "attribution": "(c) Margrit, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/76207",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,19 +146,23 @@
    58,
    286
   ],
-  "worldTotal": 299139,
+  "worldTotal": 325948,
   "topCountries": [
    {
     "code": "FR",
-    "count": 81126
+    "count": 81612
    },
    {
     "code": "NL",
-    "count": 77080
+    "count": 77161
    },
    {
     "code": "DE",
-    "count": 46197
+    "count": 47270
+   },
+   {
+    "code": "CH",
+    "count": 27808
    },
    {
     "code": "RU",
@@ -190,16 +194,10 @@
    },
    {
     "code": "UA",
-    "count": 3877
-   },
-   {
-    "code": "HU",
-    "count": 3326
+    "count": 3880
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

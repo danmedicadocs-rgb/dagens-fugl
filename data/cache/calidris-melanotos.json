@@ -2,7 +2,7 @@
  "key": "calidris-melanotos",
  "name": "Calidris melanotos",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:12:08.578Z",
+ "fetchedAt": "2026-11-17T19:42:32.200Z",
  "names": {
   "da": "Stribet ryle",
   "en": "Pectoral Sandpiper",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3865,
-  "observations": 18792
+  "observations": 18816
  },
  "photos": {
   "male": [
@@ -34,47 +34,78 @@
     "date": "2026-07-19"
    },
    {
-    "id": 55295871,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55295871/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55295871/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/35080661",
-    "place": "Middletown, Pennsylvania, United States",
-    "date": "2010-08-30"
+    "id": 26013173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26013173/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26013173/large.jpg",
+    "attribution": "(c) Alexander Yakovlev, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/17167479",
+    "place": "Ямальский р-н, Ямало-Ненецкий автономный округ, Россия",
+    "date": "2018-06-25"
+   },
+   {
+    "id": 445036110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445036110/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445036110/large.jpg",
+    "attribution": "(c) Eddy Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/248489571",
+    "place": "Gillman SA 5013, Australia",
+    "date": "2024-10-21"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 95876227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95876227/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95876227/large.jpg",
+    "attribution": "(c) Ty Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59979750",
+    "place": "Farmville Municipal Airport, Farmville, VA, US",
+    "date": "2020-09-17"
+   },
+   {
+    "id": 64467998,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64467998/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64467998/large.jpg",
+    "attribution": "(c) David Monroy R, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/40671092",
+    "place": "Laguna de Sonso, Guadalajara de Buga, Valle del Cauca, Colombia",
+    "date": "2019-11-09"
+   }
+  ],
   "juvenile": [
    {
-    "id": 614001685,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001685/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001685/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/337734030",
-    "place": "Tacumshin",
-    "date": "2010-09-17"
+    "id": 234408909,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/234408909/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/234408909/large.jpeg",
+    "attribution": "(c) Jeremy Barker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/137269123",
+    "place": "Bodensee, DE-BW, DE",
+    "date": "2022-10-02"
    },
    {
-    "id": 95416023,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95416023/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95416023/large.jpeg",
-    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/59705926",
-    "place": "Putnam, ON N0L 2B0, Canada",
-    "date": "2020-09-15"
+    "id": 53076322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53076322/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53076322/large.jpeg",
+    "attribution": "(c) Michael Ferguson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33771851",
+    "place": "Regional Municipality of Durham, ON, Canada",
+    "date": "2019-10-02"
    },
    {
-    "id": 573348779,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573348779/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573348779/large.jpg",
-    "attribution": "(c) Tracy Gould, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/317303443",
-    "place": "Topsham EX3, UK",
-    "date": "2025-09-28"
+    "id": 670653497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670653497/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670653497/large.jpg",
+    "attribution": "(c) Michael G. Shepard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/367250614",
+    "place": "Chetwynd, BC, Canada",
+    "date": "2009-09-06"
    }
   ],
   "hero": {
@@ -105,7 +136,7 @@
    0,
    0
   ],
-  "worldTotal": 788760,
+  "worldTotal": 788763,
   "topCountries": [
    {
     "code": "US",
@@ -117,7 +148,7 @@
    },
    {
     "code": "NL",
-    "count": 13885
+    "count": 13887
    },
    {
     "code": "SE",
@@ -141,7 +172,7 @@
    },
    {
     "code": "BR",
-    "count": 2733
+    "count": 2734
    },
    {
     "code": "ES",
@@ -157,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +202,7 @@
   "type": "uncertain, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

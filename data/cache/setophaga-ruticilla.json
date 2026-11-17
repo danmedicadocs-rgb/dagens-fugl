@@ -2,7 +2,7 @@
  "key": "setophaga-ruticilla",
  "name": "Setophaga ruticilla",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:35.906Z",
+ "fetchedAt": "2026-11-17T20:18:05.405Z",
  "names": {
   "da": "Amerikansk Ildstjert",
   "en": "American Redstart",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 10247,
-  "observations": 57670
+  "observations": 57733
  },
  "photos": {
   "male": [
@@ -34,6 +34,60 @@
     "date": "2024-06-23"
    },
    {
+    "id": 2770073,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2770073/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2770073/large.jpg",
+    "attribution": "(c) Scott Buckel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2474433",
+    "place": "Galveston, Texas, United States",
+    "date": "2013-04-26"
+   },
+   {
+    "id": 31539046,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/large.jpg",
+    "attribution": "(c) Casey Weissburg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20428688",
+    "place": "7355 Padre Blvd, South Padre Island, TX 78597, USA",
+    "date": "2018-10-24"
+   }
+  ],
+  "female": [
+   {
+    "id": 38657836,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38657836/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38657836/large.jpg",
+    "attribution": "(c) Kyle Tansley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24985195",
+    "place": "Essex Town, Jericho, VT, USA",
+    "date": "2019-05-11"
+   },
+   {
+    "id": 241690552,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241690552/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241690552/large.jpg",
+    "attribution": "(c) Jing-Yi Lu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141124748",
+    "place": "Promontory Point, Chicago, IL, USA",
+    "date": "2022-09-19"
+   },
+   {
+    "id": 435988261,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435988261/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/435988261/large.jpg",
+    "attribution": "(c) Carol Ann Vermeer, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/244423278",
+    "place": "River East, Winnipeg, MB R2G, Canada",
+    "date": "2024-09-07"
+   }
+  ],
+  "juvenile": [
+   {
     "id": 71956210,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71956210/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71956210/large.jpg",
@@ -44,87 +98,33 @@
     "date": "2017-05-18"
    },
    {
-    "id": 503344266,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503344266/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503344266/large.jpg",
-    "attribution": "(c) sofi v, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/280263928",
-    "place": "St Marie Rd, Princeton, WI, US",
-    "date": "2025-05-11"
-   }
-  ],
-  "female": [
-   {
-    "id": 435988261,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435988261/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/435988261/large.jpg",
-    "attribution": "(c) Carol Ann Vermeer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/244423278",
-    "place": "River East, Winnipeg, MB R2G, Canada",
-    "date": "2024-09-07"
+    "id": 468986767,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468986767/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468986767/large.jpg",
+    "attribution": "(c) Luis Agosto, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261086319",
+    "place": "Santurce, San Juan, Puerto Rico",
+    "date": "2025-01-03"
    },
    {
-    "id": 72182346,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72182346/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72182346/large.jpg",
-    "attribution": "(c) Brian White, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/45520799",
-    "place": "Chester County, PA, USA",
-    "date": "2020-05-10"
-   },
-   {
-    "id": 309888110,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309888110/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309888110/large.jpg",
-    "attribution": "(c) Marilynn Miller, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/178119559",
-    "place": "Fort Snelling State Park, Hennepin County, MN, USA",
-    "date": "2023-08-12"
-   }
-  ],
-  "juvenile": [
-   {
-    "id": 80738696,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80738696/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80738696/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/50833928",
-    "place": "Mountain Lake Park, San Francisco, CA, US",
-    "date": "2020-06-24"
-   },
-   {
-    "id": 564695372,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/564695372/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/564695372/large.jpg",
-    "attribution": "(c) Rudyard, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/312744348",
-    "place": "Golden Gate Park, San Francisco, CA, USA",
-    "date": "2025-09-06"
-   },
-   {
-    "id": 91722422,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91722422/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91722422/large.jpeg",
-    "attribution": "(c) gpete, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57500863",
-    "place": "Bangor Tt, Bay, MI, USA",
-    "date": "2020-08-23"
+    "id": 721286984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/721286984/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/721286984/large.jpg",
+    "attribution": "(c) Shandra P, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/393510389",
+    "place": "Grand Island Township, MI 49862, USA",
+    "date": "2026-08-09"
    }
   ],
   "hero": {
-   "id": 618581507,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581507/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581507/large.jpg",
-   "attribution": "no rights reserved, uploaded by Adam Jackson",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/618581507",
+   "id": 509780593,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/509780593/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/509780593/large.jpg",
+   "attribution": "(c) Leo Weiskittel, some rights reserved (CC BY-NC), uploaded by Leo Weiskittel",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/509780593",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 3857899,
+  "worldTotal": 3857904,
   "topCountries": [
    {
     "code": "US",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

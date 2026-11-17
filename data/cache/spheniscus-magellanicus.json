@@ -2,7 +2,7 @@
  "key": "spheniscus-magellanicus",
  "name": "Spheniscus magellanicus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:48:05.642Z",
+ "fetchedAt": "2026-11-17T20:23:30.689Z",
  "names": {
   "da": "Magellanpingvin",
   "en": "Magellanic Penguin",
@@ -19,32 +19,52 @@
  },
  "inat": {
   "id": 3812,
-  "observations": 9203
+  "observations": 9244
  },
  "photos": {
   "male": [
    {
-    "id": 351299373,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351299373/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351299373/large.jpeg",
-    "attribution": "(c) Facu Lamela, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199222792",
-    "place": "Chubut, AR",
-    "date": "2024-02-13"
+    "id": 118855857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118855857/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118855857/large.jpeg",
+    "attribution": "(c) Sandra Desposito, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72851513",
+    "place": "Buenos Aires, AR",
+    "date": "2021-03-19"
    },
    {
-    "id": 351297641,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351297641/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351297641/large.jpeg",
-    "attribution": "(c) Facu Lamela, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199221882",
+    "id": 231683388,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231683388/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231683388/large.jpeg",
+    "attribution": "(c) Gastón García, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/135805135",
     "place": "Chubut, AR",
-    "date": "2024-02-13"
+    "date": "2022-09-17"
+   },
+   {
+    "id": 514121372,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514121372/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514121372/large.jpg",
+    "attribution": "(c) Neptu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286008481",
+    "place": "Argentina",
+    "date": "2025-01-04"
    }
   ],
   "female": [
+   {
+    "id": 263966403,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263966403/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263966403/large.jpeg",
+    "attribution": "(c) Sandra Desposito, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152878675",
+    "place": "Buenos Aires, AR",
+    "date": "2023-03-30"
+   },
    {
     "id": 351298051,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351298051/medium.jpeg",
@@ -56,55 +76,55 @@
     "date": "2024-02-13"
    },
    {
-    "id": 351295109,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351295109/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351295109/large.jpeg",
-    "attribution": "(c) Facu Lamela, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199220398",
-    "place": "Chubut, AR",
-    "date": "2024-02-13"
+    "id": 677362663,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/677362663/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/677362663/large.jpg",
+    "attribution": "(c) Johanna Vidal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/370764565",
+    "place": "São José do Norte - RS, 96225-000, Brasil",
+    "date": "2026-06-11"
    }
   ],
   "juvenile": [
    {
-    "id": 407847662,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407847662/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407847662/large.jpeg",
-    "attribution": "(c) Agustina Medina, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/229745150",
-    "place": "Canelones, UY",
-    "date": "2024-07-15"
+    "id": 123099295,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123099295/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123099295/large.jpeg",
+    "attribution": "(c) Magenta, M.A.G., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/75260781",
+    "place": "Avenida Bartolomeu de Gusmão, 126, Santos - SP, 11030-000, Brasil",
+    "date": "2020-06-23"
    },
    {
-    "id": 145476758,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145476758/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145476758/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/88190362",
+    "id": 150645731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150645731/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150645731/large.jpg",
+    "attribution": "(c) Alejandro Duvieilh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/91105616",
     "place": "Buenos Aires, AR",
-    "date": "2021-07-22"
+    "date": "2021-08-14"
    },
    {
-    "id": 422917258,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422917258/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422917258/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/237618241",
-    "place": "Argentina",
-    "date": "2024-08-22"
+    "id": 398264843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398264843/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398264843/large.jpeg",
+    "attribution": "(c) COA Lobería., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224691856",
+    "place": "Buenos Aires, AR",
+    "date": "2024-06-22"
    }
   ],
   "hero": {
-   "id": 4115244,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4115244/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4115244/large.jpg",
-   "attribution": "(c) John Barkla, some rights reserved (CC BY), uploaded by John Barkla",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/4115244",
+   "id": 172295470,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172295470/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172295470/large.jpg",
+   "attribution": "(c) David Cook, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/172295470",
    "place": null,
    "date": null
   }
@@ -126,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 35961,
+  "worldTotal": 35963,
   "topCountries": [
    {
     "code": "AR",
-    "count": 12642
+    "count": 12643
    },
    {
     "code": "CL",
@@ -142,7 +162,7 @@
    },
    {
     "code": "BR",
-    "count": 5810
+    "count": 5811
    },
    {
     "code": "UY",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

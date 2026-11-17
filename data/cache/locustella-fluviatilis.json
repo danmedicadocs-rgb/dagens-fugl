@@ -2,7 +2,7 @@
  "key": "locustella-fluviatilis",
  "name": "Locustella fluviatilis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:42.979Z",
+ "fetchedAt": "2026-11-17T19:54:38.949Z",
  "names": {
   "da": "Flodsanger",
   "en": null,
@@ -24,25 +24,56 @@
  "photos": {
   "male": [
    {
-    "id": 13487643,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13487643/large.jpeg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/9846923",
-    "place": "Nord, Münster, Deutschland",
-    "date": "2010-05-20"
+    "id": 292877773,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/292877773/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/292877773/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/168958140",
+    "place": "Киров, Кировская обл., Россия",
+    "date": "2023-06-22"
+   },
+   {
+    "id": 55256781,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55256781/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55256781/large.jpeg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35057546",
+    "place": "Юнтоловский заказник, Санкт-Петербург, Россия",
+    "date": "2011-06-04"
+   },
+   {
+    "id": 395900935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395900935/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395900935/large.jpeg",
+    "attribution": "(c) Ирина Рогова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/223436714",
+    "place": "Гатчинский р-н, Ленинградская обл., Россия",
+    "date": "2024-06-17"
    }
   ],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 295979510,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295979510/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295979510/large.jpg",
+    "attribution": "(c) Елена Устюжанина, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/170633334",
+    "place": "Орджоникидзевский р-н, Екатеринбург, Свердловская обл., Россия",
+    "date": "2023-07-01"
+   }
+  ],
   "hero": {
-   "id": 1431037,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1431037/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1431037/large.jpg",
-   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1431037",
+   "id": 133610841,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133610841/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133610841/large.jpeg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/133610841",
    "place": null,
    "date": null
   }
@@ -64,11 +95,11 @@
    0,
    0
   ],
-  "worldTotal": 80071,
+  "worldTotal": 80118,
   "topCountries": [
    {
     "code": "SE",
-    "count": 40864
+    "count": 40871
    },
    {
     "code": "NL",
@@ -76,19 +107,19 @@
    },
    {
     "code": "RU",
-    "count": 5503
+    "count": 5504
    },
    {
     "code": "PL",
-    "count": 4294
+    "count": 4295
    },
    {
     "code": "EE",
-    "count": 4010
+    "count": 4011
    },
    {
     "code": "FI",
-    "count": 3516
+    "count": 3535
    },
    {
     "code": "DK",
@@ -96,7 +127,7 @@
    },
    {
     "code": "DE",
-    "count": 2238
+    "count": 2251
    },
    {
     "code": "NO",
@@ -108,7 +139,7 @@
    },
    {
     "code": "UA",
-    "count": 952
+    "count": 956
    },
    {
     "code": "AT",
@@ -116,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -132,5 +161,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

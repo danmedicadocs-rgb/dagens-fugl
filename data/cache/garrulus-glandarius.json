@@ -2,7 +2,7 @@
  "key": "garrulus-glandarius",
  "name": "Garrulus glandarius",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:26.063Z",
+ "fetchedAt": "2026-11-17T19:50:46.495Z",
  "names": {
   "da": "Skovskade",
   "en": "Eurasian Jay",
@@ -19,61 +19,71 @@
  },
  "inat": {
   "id": 8088,
-  "observations": 112262
+  "observations": 112671
  },
  "photos": {
   "male": [
    {
-    "id": 183687990,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183687990/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/183687990/large.jpg",
-    "attribution": "(c) Alexandra Luckyanchenko, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/109031582",
-    "place": "Потсдам Норд, Потсдам, Германия",
-    "date": "2022-03-19"
+    "id": 381816472,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381816472/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381816472/large.jpg",
+    "attribution": "(c) s_nowosad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/215926633",
+    "place": "Rybaki, 87-100 Toruń, Polska",
+    "date": "2024-05-14"
    },
    {
-    "id": 671652000,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671652000/large.jpg",
-    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/367772511",
-    "place": "Nordrhein-Westfalen, DE",
-    "date": "2026-06-02"
+    "id": 262780881,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262780881/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262780881/large.jpeg",
+    "attribution": "(c) Роман, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152237197",
+    "place": "Софиевская Борщаговка, Киевская область, Украина, 08131",
+    "date": "2023-03-25"
    },
    {
-    "id": 265660218,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265660218/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265660218/large.jpeg",
-    "attribution": "(c) Valentin Moreau, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/153787472",
-    "place": "Gemeinde Landeck, 6500 Landeck, Österreich",
-    "date": "2023-04-07"
+    "id": 472060605,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472060605/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472060605/large.jpeg",
+    "attribution": "(c) Rob Westerduijn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/262835994",
+    "place": "Voorburg, Nederland",
+    "date": "2025-02-22"
    }
   ],
   "female": [
    {
-    "id": 363975501,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363975501/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363975501/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/205101564",
-    "place": "Obchodní centrum Hostivař, 102 00 Praha-Praha 15, Česko",
-    "date": "2024-04-02"
+    "id": 370061361,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370061361/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370061361/large.jpeg",
+    "attribution": "(c) olexandrzhmurko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/209124041",
+    "place": "Вінниця, Вінницька область, Україна, 21000",
+    "date": "2019-05-20"
    },
    {
-    "id": 671654018,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/671654018/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/671654018/large.jpg",
-    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/367772512",
-    "place": "Nordrhein-Westfalen, DE",
-    "date": "2026-06-02"
+    "id": 684185980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684185980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684185980/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/374328751",
+    "place": "Alicante, España",
+    "date": "2026-06-21"
+   },
+   {
+    "id": 526316900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/526316900/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/526316900/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/292469000",
+    "place": "03819 Jijona, Alicante, España",
+    "date": "2025-06-24"
    }
   ],
   "juvenile": [
@@ -88,24 +98,24 @@
     "date": "2026-07-15"
    },
    {
-    "id": 143595287,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/143595287/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/143595287/large.jpg",
-    "attribution": "(c) Evgenij Samarin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/87120085",
-    "place": "Республика Башкортостан, RU",
-    "date": "2021-07-15"
+    "id": 460242317,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460242317/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460242317/large.jpeg",
+    "attribution": "(c) lastovka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256664777",
+    "place": "Jennersdorf, Österreich",
+    "date": "2023-06-01"
    },
    {
-    "id": 169131318,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169131318/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169131318/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/101281913",
-    "place": "Zorilor, Cluj-Napoca, Romania",
-    "date": "2021-06-30"
+    "id": 221206603,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/221206603/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/221206603/large.jpeg",
+    "attribution": "(c) К. Руслан и Ф. Виктория, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/130106503",
+    "place": "Пятигорск, Ставропольский край, Россия",
+    "date": "2022-08-03"
    }
   ],
   "hero": {
@@ -121,75 +131,73 @@
  },
  "gbif": {
   "key": 5229493,
-  "dkTotal": 239956,
+  "dkTotal": 239958,
   "dkMonths": [
    23492,
    17866,
    22968,
    27035,
-   20690,
+   20691,
    12829,
    8840,
-   11381,
+   11382,
    25511,
    32606,
    19796,
    16882
   ],
-  "worldTotal": 4518801,
+  "worldTotal": 4592184,
   "topCountries": [
    {
     "code": "FR",
-    "count": 685666
+    "count": 686302
    },
    {
     "code": "NL",
-    "count": 624514
+    "count": 625744
    },
    {
     "code": "SE",
-    "count": 548446
+    "count": 549418
    },
    {
     "code": "GB",
-    "count": 425135
+    "count": 425136
    },
    {
     "code": "DE",
-    "count": 410390
+    "count": 413500
    },
    {
     "code": "DK",
-    "count": 239956
+    "count": 239958
    },
    {
     "code": "ES",
-    "count": 198889
+    "count": 198904
    },
    {
     "code": "NO",
-    "count": 180892
+    "count": 181156
    },
    {
     "code": "FI",
-    "count": 173405
+    "count": 173439
    },
    {
     "code": "BE",
-    "count": 151891
+    "count": 151892
    },
    {
     "code": "PT",
-    "count": 111364
+    "count": 111365
    },
    {
     "code": "IT",
-    "count": 98477
+    "count": 98915
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "subsong",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

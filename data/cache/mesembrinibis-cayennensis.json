@@ -2,7 +2,7 @@
  "key": "mesembrinibis-cayennensis",
  "name": "Mesembrinibis cayennensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:51:29.198Z",
+ "fetchedAt": "2026-11-17T20:27:21.019Z",
  "names": {
   "da": "Grøn Ibis",
   "en": "Green ibis",
@@ -19,51 +19,61 @@
  },
  "inat": {
   "id": 3770,
-  "observations": 4281
+  "observations": 4297
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 175628881,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175628881/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175628881/large.jpg",
+    "attribution": "(c) steffie22, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104769354",
+    "place": "Lake Sandoval, Madre de Dios, PE",
+    "date": "2019-09-24"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 422469837,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422469837/large.jpeg",
-    "attribution": "(c) Carlos Alexandre Mattos Raposo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/237386777",
-    "place": "Campos do Jordão - SP, 12460-000, Brasil",
-    "date": "2024-08-19"
+    "id": 605768420,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605768420/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605768420/large.jpg",
+    "attribution": "(c) Júlio César Espíndola, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/333667965",
+    "place": "Delfim Moreira - MG, 37514-000, Brasil",
+    "date": "2026-01-05"
    },
    {
-    "id": 710634165,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710634165/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710634165/large.jpg",
-    "attribution": "(c) Caroline Galassi, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/388039633",
-    "place": "Amparo, SP, Brasil",
-    "date": "2025-10-25"
+    "id": 621320556,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621320556/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621320556/large.jpg",
+    "attribution": "(c) Cristian Barragán, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341317161",
+    "place": "Piedecuesta, CO-ST, CO",
+    "date": "2024-08-16"
    },
    {
-    "id": 310425058,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310425058/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/310425058/large.jpeg",
-    "attribution": "(c) Rodrigo Paiva Lázaro, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/178398495",
-    "place": "Perove, Embu das Artes - SP, 06845, Brasil",
-    "date": "2023-08-06"
+    "id": 742525024,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/742525024/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/742525024/large.jpg",
+    "attribution": "(c) Guillermo Menéndez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/404339153",
+    "place": "Arroyo Yhaka, Valenzuela, Cordillera, Paraguay",
+    "date": "2026-09-28"
    }
   ],
   "hero": {
-   "id": 106922022,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106922022/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106922022/large.jpeg",
-   "attribution": "(c) Daniel Cavallari, some rights reserved (CC BY-SA), uploaded by Daniel Cavallari",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/106922022",
+   "id": 739170999,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739170999/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739170999/large.jpg",
+   "attribution": "(c) Matt Blue, some rights reserved (CC BY-NC), uploaded by Matt Blue",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/739170999",
    "place": null,
    "date": null
   }
@@ -85,11 +95,11 @@
    0,
    0
   ],
-  "worldTotal": 121462,
+  "worldTotal": 121463,
   "topCountries": [
    {
     "code": "BR",
-    "count": 49164
+    "count": 49165
    },
    {
     "code": "CR",
@@ -137,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +161,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

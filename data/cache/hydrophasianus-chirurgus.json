@@ -2,7 +2,7 @@
  "key": "hydrophasianus-chirurgus",
  "name": "Hydrophasianus chirurgus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:55.112Z",
+ "fetchedAt": "2026-11-17T20:12:49.781Z",
  "names": {
   "da": "Fasanbladhøne",
   "en": "Pheasant-tailed Jacana",
@@ -19,29 +19,39 @@
  },
  "inat": {
   "id": 4589,
-  "observations": 6281
+  "observations": 6296
  },
  "photos": {
   "male": [
    {
-    "id": 698802902,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698802902/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698802902/large.jpg",
-    "attribution": "(c) MIMI, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/381879363",
-    "place": "Taiwan",
-    "date": "2026-07-15"
+    "id": 704816008,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/704816008/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/704816008/large.jpg",
+    "attribution": "(c) Shubhabrata Sarker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/385052048",
+    "place": "Rajshahi District, Bangladesh",
+    "date": "2024-08-09"
    },
    {
-    "id": 698576059,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698576059/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698576059/large.jpg",
-    "attribution": "(c) MIMI, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/381766213",
-    "place": "Taiwan",
-    "date": "2026-07-15"
+    "id": 189767077,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189767077/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189767077/large.jpeg",
+    "attribution": "(c) Bijoy Venugopal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112347910",
+    "place": "Bengaluru",
+    "date": "2022-04-18"
+   },
+   {
+    "id": 388674330,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388674330/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388674330/large.jpeg",
+    "attribution": "(c) pandiantensingh, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/219582756",
+    "place": "Sengarai, Tamil Nadu, India",
+    "date": "2000-01-01"
    }
   ],
   "female": [
@@ -56,57 +66,67 @@
     "date": "2026-03-14"
    },
    {
-    "id": 687066625,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687066625/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687066625/large.jpg",
-    "attribution": "(c) white_cheeked_barbet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/375806723",
-    "place": "Polachira, Kerala, India",
-    "date": "2026-03-14"
+    "id": 555927894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555927894/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555927894/large.jpg",
+    "attribution": "(c) metalquip, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308156266",
+    "place": "Mandhar, Chhattisgarh 493111, India",
+    "date": "2017-10-15"
+   },
+   {
+    "id": 58681970,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58681970/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58681970/large.jpg",
+    "attribution": "(c) Kinmatsu Lin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37056695",
+    "place": "斯里蘭卡漢班托特",
+    "date": "2019-11-28"
    }
   ],
   "juvenile": [
    {
-    "id": 739251670,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/739251670/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/739251670/large.jpg",
-    "attribution": "(c) Wolfgang Ahlmer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/402678297",
-    "place": "Hambantota, Sri Lanka",
-    "date": "2026-08-12"
+    "id": 488714836,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488714836/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488714836/large.jpeg",
+    "attribution": "(c) Arpit_nature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271679789",
+    "place": "Pune Division, Maharashtra, India",
+    "date": "2025-03-23"
    },
    {
-    "id": 120401247,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120401247/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120401247/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/73725758",
-    "place": "Taiwan",
-    "date": "2021-02-11"
+    "id": 282372425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282372425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282372425/large.jpg",
+    "attribution": "(c) Anna, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/163267233",
+    "place": "Поттувил Дивижен 2, Arugam Bay, Шри-Ланка",
+    "date": "2023-05-16"
    },
    {
-    "id": 246972499,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246972499/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246972499/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/143953957",
-    "place": "Sila, Mueang Khon Kaen District, Khon Kaen 40000, Thaïlande",
-    "date": "2022-11-09"
+    "id": 517676994,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517676994/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/517676994/large.jpg",
+    "attribution": "(c) kavinezhilanm, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/287892630",
+    "place": "Tamil Nadu, India",
+    "date": "2025-03-31"
    }
   ],
   "hero": {
-   "id": 698802902,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698802902/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698802902/large.jpg",
-   "attribution": "(c) MIMI, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/381879363",
-   "place": "Taiwan",
-   "date": "2026-07-15"
+   "id": 165350030,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165350030/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165350030/large.jpg",
+   "attribution": "(c) rupperrt78, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/165350030",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -126,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 124849,
+  "worldTotal": 124855,
   "topCountries": [
    {
     "code": "IN",
-    "count": 70636
+    "count": 70640
    },
    {
     "code": "TW",
@@ -154,7 +174,7 @@
    },
    {
     "code": "OM",
-    "count": 1191
+    "count": 1193
    },
    {
     "code": "PH",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

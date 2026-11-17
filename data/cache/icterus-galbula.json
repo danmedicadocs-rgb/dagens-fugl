@@ -2,7 +2,7 @@
  "key": "icterus-galbula",
  "name": "Icterus galbula",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:53.938Z",
+ "fetchedAt": "2026-11-17T20:18:26.860Z",
  "names": {
   "da": "Baltimoretrupial",
   "en": "Baltimore Oriole",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 9346,
-  "observations": 77630
+  "observations": 77685
  },
  "photos": {
   "male": [
    {
-    "id": 511623350,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511623350/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/511623350/large.jpg",
-    "attribution": "(c) Jake McCumber, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/284673231",
-    "place": "Restricted Access: Camp Edwards, Bourne, MA, USA",
-    "date": "2025-05-27"
+    "id": 38902123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38902123/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38902123/large.jpeg",
+    "attribution": "(c) Jeremy Hussell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25134856",
+    "place": "Norfolk County, ON, Canada",
+    "date": "2019-05-14"
    },
    {
-    "id": 510927863,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510927863/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/284311444",
-    "place": "1PVille",
-    "date": "2025-05-21"
+    "id": 8467192,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8467192/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8467192/large.jpeg",
+    "attribution": "(c) Tom Preney, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/6679944",
+    "place": "5200 Matchette Rd, Windsor, ON N9C 4E8, Canada",
+    "date": "2015-05-09"
    },
    {
-    "id": 659502655,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659502655/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659502655/large.jpg",
-    "attribution": "(c) Dmitry Mozzherin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/361373397",
-    "place": "Vermilion, Illinois, United States",
-    "date": "2026-05-13"
+    "id": 38283254,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38283254/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38283254/large.jpeg",
+    "attribution": "(c) Daniel Onea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24756232",
+    "place": "Medford, MA, USA",
+    "date": "2019-05-07"
    }
   ],
   "female": [
+   {
+    "id": 563334921,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563334921/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563334921/large.jpg",
+    "attribution": "(c) Mike Stewart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/312038078",
+    "place": "Port Aransas, TX, USA",
+    "date": "2025-09-06"
+   },
+   {
+    "id": 280498865,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280498865/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280498865/large.jpg",
+    "attribution": "(c) Karl Kroeker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162232615",
+    "place": "Clanwilliam, MB R0J, Canada",
+    "date": "2023-05-17"
+   },
    {
     "id": 280805021,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280805021/medium.jpg",
@@ -64,67 +84,47 @@
     "source": "https://www.inaturalist.org/observations/162401491",
     "place": "Talbot, London, ON N6P, Canada",
     "date": "2023-05-18"
-   },
-   {
-    "id": 545571421,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571421/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545571421/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/302728743",
-    "place": "Floracliff Trails End Lodge pinpointed",
-    "date": "2025-07-15"
-   },
-   {
-    "id": 658198561,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658198561/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658198561/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/360700254",
-    "place": "Oklahoma, US",
-    "date": "2026-05-10"
    }
   ],
   "juvenile": [
    {
-    "id": 680111000,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680111000/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680111000/large.jpg",
-    "attribution": "(c) sofi v, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/372198454",
-    "place": "Dead End Rd, Princeton, WI, US",
-    "date": "2026-06-15"
+    "id": 689043858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689043858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689043858/large.jpg",
+    "attribution": "(c) gonature1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/376834369",
+    "place": "St-Francois-La Baie, Gatineau, QC, CA",
+    "date": "2026-06-30"
    },
    {
-    "id": 291828378,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291828378/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291828378/large.jpg",
-    "attribution": "(c) Lisa Wiencek Gerbec, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/168394341",
-    "place": "W Washburn St, New London, OH, US",
-    "date": "2023-06-19"
+    "id": 398793088,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398793088/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398793088/large.jpeg",
+    "attribution": "(c) hylerhunter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224966649",
+    "place": "Stratford, IA 50249, USA",
+    "date": "2024-06-24"
    },
    {
-    "id": 415599946,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415599946/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415599946/large.jpg",
-    "attribution": "(c) Andrew Murray, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/233828803",
-    "place": "Talbot, London, ON N6P, Canada",
-    "date": "2024-08-03"
+    "id": 21090533,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21090533/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21090533/large.jpeg",
+    "attribution": "(c) Caroline S., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14216915",
+    "place": "Wisconsin, US",
+    "date": "2018-06-23"
    }
   ],
   "hero": {
-   "id": 145445553,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145445553/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145445553/large.jpg",
-   "attribution": "no rights reserved, uploaded by Chrissy McClarren and Andy Reago",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/145445553",
+   "id": 155708903,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155708903/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155708903/large.jpg",
+   "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/155708903",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 4143117,
+  "worldTotal": 4143115,
   "topCountries": [
    {
     "code": "US",
-    "count": 3254435
+    "count": 3254434
    },
    {
     "code": "CA",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

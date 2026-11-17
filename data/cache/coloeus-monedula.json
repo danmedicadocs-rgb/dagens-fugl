@@ -2,7 +2,7 @@
  "key": "coloeus-monedula",
  "name": "Coloeus monedula",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:40.313Z",
+ "fetchedAt": "2026-11-17T19:51:04.903Z",
  "names": {
   "da": "Allike",
   "en": "Western Jackdaw",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 336399,
-  "observations": 111263
+  "observations": 111608
  },
  "photos": {
   "male": [
@@ -34,39 +34,79 @@
     "date": "2022-06-01"
    },
    {
-    "id": 464297355,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/464297355/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/464297355/large.jpeg",
-    "attribution": "(c) Mal Wilkinson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/258738662",
-    "place": "Church, Dipton, Stanley DH9 9EU, UK",
-    "date": "2025-01-17"
+    "id": 465212101,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465212101/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465212101/large.jpeg",
+    "attribution": "(c) Fatih AKKOC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259055375",
+    "place": "Sümer, 26140 Odunpazarı/Eskişehir, Türkiye",
+    "date": "2025-01-20"
+   },
+   {
+    "id": 724088086,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/724088086/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/724088086/large.jpg",
+    "attribution": "(c) Teo Giurea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/394933851",
+    "place": "General Balan, Sibiu, România",
+    "date": "2026-08-27"
    }
   ],
   "female": [
    {
-    "id": 462496032,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462496032/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462496032/large.jpeg",
-    "attribution": "(c) Karol Filo III, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257787550",
-    "place": "625 00 Brno-Bohunice, Česko",
-    "date": "2025-01-08"
+    "id": 178008539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178008539/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178008539/large.jpeg",
+    "attribution": "(c) Lasse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106014517",
+    "place": "45721 Haltern am See, Deutschland",
+    "date": "2022-02-02"
    },
    {
-    "id": 375628499,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375628499/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375628499/large.jpeg",
-    "attribution": "(c) Karol Filo III, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/212558351",
-    "place": "639 00 Brno 39, Česko",
-    "date": "2024-05-01"
+    "id": 262758626,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262758626/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262758626/large.jpeg",
+    "attribution": "(c) Veronika Abukenova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152224371",
+    "place": "Q6CQ+XPG, Уштобе 100000, Казахстан",
+    "date": "2023-03-25"
+   },
+   {
+    "id": 478888519,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478888519/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478888519/large.jpeg",
+    "attribution": "(c) Анастасия Шаповалова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/266524368",
+    "place": "Новомосковск, Тульская обл., Россия, 301650",
+    "date": "2025-03-23"
    }
   ],
   "juvenile": [
+   {
+    "id": 138789800,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138789800/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138789800/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84442688",
+    "place": "Δημοτικός Κήπος Δράμας, Δράμας, Δράμα, GR",
+    "date": "2021-06-23"
+   },
+   {
+    "id": 293428909,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293428909/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293428909/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169261604",
+    "place": "Πλατεία Ελευθερίας, Δράμα, Ανατολικής Μακεδονίας και Θράκης, GR",
+    "date": "2023-06-23"
+   },
    {
     "id": 110341782,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110341782/medium.jpg",
@@ -76,110 +116,88 @@
     "source": "https://www.inaturalist.org/observations/68184638",
     "place": "استان تهران، ایران",
     "date": "2019-07-12"
-   },
-   {
-    "id": 135918570,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135918570/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135918570/large.jpg",
-    "attribution": "(c) Evgenij Samarin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/82793417",
-    "place": "Оренбургская область, RU",
-    "date": "2021-06-12"
-   },
-   {
-    "id": 288220637,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288220637/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288220637/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/166437489",
-    "place": "Carlisle CA3, UK",
-    "date": "2023-06-09"
    }
   ],
   "hero": {
-   "id": 66946657,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66946657/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66946657/large.jpeg",
-   "attribution": "(c) Gergely Nigg, some rights reserved (CC BY), uploaded by Gergely Nigg",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/66946657",
+   "id": 189714380,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189714380/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/189714380",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 6100954,
-  "dkTotal": 347579,
+  "dkTotal": 347586,
   "dkMonths": [
    36619,
    31846,
    48673,
    40106,
-   34276,
+   34278,
    20183,
    12704,
    14891,
-   21049,
+   21052,
    38035,
-   26348,
+   26350,
    22720
   ],
-  "worldTotal": 5174897,
+  "worldTotal": 5186318,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1282801
+    "count": 1282819
    },
    {
     "code": "SE",
-    "count": 871202
+    "count": 872007
    },
    {
     "code": "NL",
-    "count": 730057
+    "count": 731120
    },
    {
     "code": "DK",
-    "count": 347579
+    "count": 347586
    },
    {
     "code": "FR",
-    "count": 338742
+    "count": 338866
    },
    {
     "code": "BE",
-    "count": 230145
+    "count": 230148
    },
    {
     "code": "FI",
-    "count": 203866
-   },
-   {
-    "code": "NO",
-    "count": 199483
+    "count": 203899
    },
    {
     "code": "DE",
-    "count": 198825
+    "count": 200818
+   },
+   {
+    "code": "NO",
+    "count": 199681
    },
    {
     "code": "ES",
-    "count": 182321
+    "count": 182335
    },
    {
     "code": "IE",
-    "count": 71520
+    "count": 71521
    },
    {
     "code": "PL",
-    "count": 67169
+    "count": 67170
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

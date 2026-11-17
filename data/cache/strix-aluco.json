@@ -2,7 +2,7 @@
  "key": "strix-aluco",
  "name": "Strix aluco",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:37.953Z",
+ "fetchedAt": "2026-11-17T19:48:38.058Z",
  "names": {
   "da": "Natugle",
   "en": "Tawny owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 19898,
-  "observations": 24908
+  "observations": 25027
  },
  "photos": {
   "male": [
@@ -34,56 +34,56 @@
     "date": "2019-04-17"
    },
    {
-    "id": 468896522,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/468896522/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/468896522/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/261041086",
-    "place": "Maxwell Park, Pollokshields, Glasgow, UK",
-    "date": "2025-02-08"
+    "id": 500929261,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500929261/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500929261/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278969523",
+    "place": "Bolzano, Trentino-Alto Adige, IT",
+    "date": "2025-04-14"
    },
    {
-    "id": 375103942,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375103942/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375103942/large.jpeg",
-    "attribution": "(c) Merrcurys, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/212257222",
-    "place": "Юж. административный округ, Москва, Россия",
-    "date": "2024-04-28"
+    "id": 116496437,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116496437/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116496437/large.jpeg",
+    "attribution": "(c) Stefan Gey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/71543052",
+    "place": "Tharandt, Deutschland",
+    "date": "2021-03-07"
    }
   ],
   "female": [
    {
-    "id": 280721499,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280721499/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280721499/large.jpeg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/162355890",
-    "place": "Mokyklos g. 3, Dabikinės kaimas, LT-85365, 85365 Akmenė III, Lietuva",
-    "date": "2023-05-18"
+    "id": 666999924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666999924/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666999924/large.jpg",
+    "attribution": "(c) Jakob Stanič, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365329454",
+    "place": "8220 Zbure, Slovenia",
+    "date": "2026-05-25"
    },
    {
-    "id": 556670227,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670227/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556670227/large.jpg",
-    "attribution": "(c) Liz, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/308549310",
-    "place": "Abbots Leigh Cricket Club, Bristol BS8 3QF, UK",
-    "date": "2025-08-23"
+    "id": 658695318,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658695318/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658695318/large.jpg",
+    "attribution": "(c) andrewfelstead, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360954388",
+    "place": "Appley Bridge, UK",
+    "date": "2026-05-12"
    },
    {
-    "id": 620298249,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620298249/large.jpg",
-    "attribution": "(c) Susanne Primdahl, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/340823102",
-    "place": "Ørregårdsvej 10, 8831 Løgstrup, Danmark",
-    "date": "2026-03-01"
+    "id": 500929128,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500929128/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500929128/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278969520",
+    "place": "Bolzano, Trentino-Alto Adige, IT",
+    "date": "2025-04-14"
    }
   ],
   "juvenile": [
@@ -131,7 +131,7 @@
  },
  "gbif": {
   "key": 9282206,
-  "dkTotal": 66218,
+  "dkTotal": 66219,
   "dkMonths": [
    7074,
    6550,
@@ -140,21 +140,21 @@
    7515,
    4770,
    2737,
-   3694,
+   3695,
    5030,
    4640,
    5032,
    4744
   ],
-  "worldTotal": 1049122,
+  "worldTotal": 1087265,
   "topCountries": [
    {
     "code": "SE",
-    "count": 304486
+    "count": 304678
    },
    {
     "code": "FR",
-    "count": 151336
+    "count": 152136
    },
    {
     "code": "GB",
@@ -162,19 +162,19 @@
    },
    {
     "code": "FI",
-    "count": 97588
+    "count": 97638
    },
    {
     "code": "DK",
-    "count": 66218
+    "count": 66219
    },
    {
     "code": "NO",
-    "count": 65713
+    "count": 65768
    },
    {
     "code": "NL",
-    "count": 57859
+    "count": 58016
    },
    {
     "code": "BE",
@@ -182,24 +182,22 @@
    },
    {
     "code": "ES",
-    "count": 46597
+    "count": 46599
+   },
+   {
+    "code": "CH",
+    "count": 39764
    },
    {
     "code": "DE",
-    "count": 30205
+    "count": 30832
    },
    {
     "code": "PT",
     "count": 15891
-   },
-   {
-    "code": "IT",
-    "count": 8999
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

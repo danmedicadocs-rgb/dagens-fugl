@@ -2,7 +2,7 @@
  "key": "melanitta-nigra",
  "name": "Melanitta nigra",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:04:49.097Z",
+ "fetchedAt": "2026-11-17T19:34:10.115Z",
  "names": {
   "da": "Sortand",
   "en": "Common Scoter",
@@ -19,10 +19,84 @@
  },
  "inat": {
   "id": 144221,
-  "observations": 3965
+  "observations": 4017
  },
  "photos": {
   "male": [
+   {
+    "id": 86950614,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86950614/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86950614/large.jpeg",
+    "attribution": "(c) ilyakravchuk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/54638574",
+    "place": "Гатчина",
+    "date": "2020-07-28"
+   },
+   {
+    "id": 236537669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236537669/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236537669/large.jpg",
+    "attribution": "(c) François Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/138395272",
+    "place": "Val-d'Or, QC, Canada",
+    "date": "2022-10-11"
+   },
+   {
+    "id": 634090841,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/634090841/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/634090841/large.jpg",
+    "attribution": "(c) Claudia Pogoreutz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/347739633",
+    "place": "Spiekeroog, Spiekeroog, Lower Saxony, DE",
+    "date": "2026-04-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 60486375,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60486375/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60486375/large.jpg",
+    "attribution": "(c) Gerben ter Haar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38089212",
+    "place": "9133 Anjum, Nederland",
+    "date": "2020-01-26"
+   },
+   {
+    "id": 57021749,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57021749/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57021749/large.jpg",
+    "attribution": "(c) Игорь Двуреков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36099984",
+    "place": "Василеостровский р-н, Санкт-Петербург, Россия",
+    "date": "2019-11-22"
+   },
+   {
+    "id": 580884083,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/580884083/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/580884083/large.jpg",
+    "attribution": "(c) stevebailey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321212787",
+    "place": "Tintwistle SK13, UK",
+    "date": "2025-10-16"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 450424111,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/450424111/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/450424111/large.jpg",
+    "attribution": "(c) Lioneska, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251704019",
+    "place": "Praha 5, Česko",
+    "date": "2024-11-14"
+   },
    {
     "id": 264301774,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264301774/medium.jpg",
@@ -34,121 +108,57 @@
     "date": "2023-04-01"
    },
    {
-    "id": 284559290,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284559290/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/284559290/large.jpg",
-    "attribution": "(c) Michael Bakker Paiva, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/164464704",
-    "place": "Vlieland, Friesland, Netherlands",
-    "date": "2023-03-31"
-   },
-   {
-    "id": 172304019,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172304019/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172304019/large.jpg",
-    "attribution": "(c) nmoorhatch, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103005185",
-    "place": "Bertsch-Oceanview, CA 95531, USA",
-    "date": "2015-02-13"
-   }
-  ],
-  "female": [
-   {
-    "id": 588741838,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588741838/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588741838/large.jpg",
-    "attribution": "(c) Gazza, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/325195464",
-    "place": "United Kingdom",
-    "date": "2025-11-06"
-   },
-   {
-    "id": 735826107,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/735826107/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/735826107/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/400931720",
-    "place": "Fen Drayton Lakes RSPB",
-    "date": "2016-11-13"
-   },
-   {
-    "id": 28682073,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28682073/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28682073/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/18731797",
-    "place": "Donaustadt, 1220 Wien, Österreich",
-    "date": "2016-12-10"
-   }
-  ],
-  "juvenile": [
-   {
-    "id": 545198216,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545198216/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545198216/large.jpg",
-    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/302516413",
-    "place": "Þingeyjarsveit, Islande",
-    "date": "2025-07-17"
-   },
-   {
-    "id": 545197672,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545197672/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545197672/large.jpg",
-    "attribution": "(c) Louis Imbeau, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/302516404",
-    "place": "Þingeyjarsveit, Islande",
-    "date": "2025-07-17"
+    "id": 752347092,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752347092/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752347092/large.jpg",
+    "attribution": "(c) Petteri Mäkelä, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/409207040",
+    "place": "Säppi, Luvia, Suomi",
+    "date": "2026-10-16"
    }
   ],
   "hero": {
-   "id": 208675342,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208675342/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208675342/large.jpg",
-   "attribution": "(c) Griha Hasanov, some rights reserved (CC BY), uploaded by Griha Hasanov",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/208675342",
+   "id": 426743822,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426743822/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426743822/large.jpeg",
+   "attribution": "(c) Mark, some rights reserved (CC BY-NC), uploaded by Mark",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/426743822",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2498247,
-  "dkTotal": 198067,
+  "dkTotal": 198075,
   "dkMonths": [
    18685,
    18281,
    20742,
    21103,
-   13544,
+   13547,
    5425,
-   13748,
+   13752,
    17161,
-   21195,
+   21196,
    22951,
    15627,
    9585
   ],
-  "worldTotal": 988460,
+  "worldTotal": 989633,
   "topCountries": [
    {
     "code": "SE",
-    "count": 308780
+    "count": 309132
    },
    {
     "code": "DK",
-    "count": 198067
+    "count": 198075
    },
    {
     "code": "NO",
-    "count": 164183
+    "count": 164513
    },
    {
     "code": "GB",
@@ -156,7 +166,7 @@
    },
    {
     "code": "NL",
-    "count": 63014
+    "count": 63452
    },
    {
     "code": "US",
@@ -164,7 +174,7 @@
    },
    {
     "code": "DE",
-    "count": 34294
+    "count": 34314
    },
    {
     "code": "EE",
@@ -172,15 +182,15 @@
    },
    {
     "code": "FR",
-    "count": 14902
+    "count": 14906
    },
    {
     "code": "ES",
-    "count": 13081
+    "count": 13087
    },
    {
     "code": "FI",
-    "count": 12318
+    "count": 12331
    },
    {
     "code": "BE",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "alarm call, call, wings in flight",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

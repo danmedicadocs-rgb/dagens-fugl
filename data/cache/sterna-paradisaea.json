@@ -2,7 +2,7 @@
  "key": "sterna-paradisaea",
  "name": "Sterna paradisaea",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:57.719Z",
+ "fetchedAt": "2026-11-17T19:46:40.744Z",
  "names": {
   "da": "Havterne",
   "en": "Arctic Tern",
@@ -19,84 +19,84 @@
  },
  "inat": {
   "id": 4449,
-  "observations": 12109
+  "observations": 12124
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 107581880,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107581880/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107581880/large.jpeg",
-    "attribution": "(c) bigayon, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66698491",
-    "place": "59760 Grande-Synthe, France",
-    "date": "2019-11-01"
-   },
-   {
-    "id": 149439362,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149439362/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149439362/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/90421518",
-    "place": "Rif, Islande",
-    "date": "2021-07-24"
-   },
-   {
-    "id": 23287545,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23287545/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23287545/large.jpeg",
-    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/15569616",
-    "place": "Westfjords Region, Iceland",
-    "date": "2018-08-08"
+    "id": 669541043,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669541043/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669541043/large.jpg",
+    "attribution": "(c) Marie Verecken, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/366667699",
+    "place": "Tierp, Suède",
+    "date": "2026-05-23"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 417731161,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/large.jpeg",
-    "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/234932679",
-    "place": "W7RW+QP, Azhikode North, Kerala, India",
-    "date": "2024-07-17"
+    "id": 541198901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541198901/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541198901/large.jpg",
+    "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/300369424",
+    "place": "Hamarøy, Norway",
+    "date": "2025-07-16"
    },
    {
-    "id": 417449065,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417449065/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417449065/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/234785325",
-    "place": "Petersburg Borough, AK, USA",
-    "date": "2024-08-09"
+    "id": 410270283,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410270283/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410270283/large.jpg",
+    "attribution": "(c) soulmusic1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231027095",
+    "place": "Ивашка, Камчатский край, Россия, 688713",
+    "date": "2024-06-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 327619524,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327619524/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327619524/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/187351842",
+    "place": "Великий Новгород, Новгородская обл., Россия",
+    "date": "2023-10-13"
    },
    {
-    "id": 207740184,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207740184/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207740184/large.jpg",
-    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/122682510",
-    "place": "Kökar, Ahvenanmaa",
-    "date": "2022-06-19"
+    "id": 330726763,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330726763/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330726763/large.jpg",
+    "attribution": "(c) alexander_semenov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/188882986",
+    "place": "Loukhskiy rayon, RU-KI, RU",
+    "date": "2021-06-29"
+   },
+   {
+    "id": 327865100,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327865100/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327865100/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/187475220",
+    "place": "Великий Новгород, Новгородская обл., Россия",
+    "date": "2023-10-14"
    }
   ],
   "hero": {
-   "id": 417731161,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/large.jpeg",
-   "attribution": "(c) Afsar Nayakkan, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/234932679",
-   "place": "W7RW+QP, Azhikode North, Kerala, India",
-   "date": "2024-07-17"
+   "id": 149865822,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149865822/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149865822/large.jpg",
+   "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC), uploaded by pelagicgraf",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/149865822",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,15 +116,15 @@
    179,
    8
   ],
-  "worldTotal": 802368,
+  "worldTotal": 802653,
   "topCountries": [
    {
     "code": "SE",
-    "count": 218693
+    "count": 218727
    },
    {
     "code": "FI",
-    "count": 133821
+    "count": 133823
    },
    {
     "code": "US",
@@ -136,11 +136,11 @@
    },
    {
     "code": "NO",
-    "count": 56014
+    "count": 56039
    },
    {
     "code": "GB",
-    "count": 50989
+    "count": 50990
    },
    {
     "code": "IS",
@@ -152,7 +152,7 @@
    },
    {
     "code": "SJ",
-    "count": 11826
+    "count": 11830
    },
    {
     "code": "EE",
@@ -160,16 +160,14 @@
    },
    {
     "code": "NL",
-    "count": 7496
+    "count": 7553
    },
    {
     "code": "DE",
-    "count": 6650
+    "count": 6666
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +182,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

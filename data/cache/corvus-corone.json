@@ -2,7 +2,7 @@
  "key": "corvus-corone",
  "name": "Corvus corone",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:49.373Z",
+ "fetchedAt": "2026-11-17T19:51:15.969Z",
  "names": {
   "da": "Sortkrage",
   "en": "Carrion crow",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 204496,
-  "observations": 123531
+  "observations": 123848
  },
  "photos": {
   "male": [
+   {
+    "id": 66374843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66374843/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66374843/large.jpeg",
+    "attribution": "(c) Marco, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41830320",
+    "place": "35030 Selvazzano Dentro PD, Italia",
+    "date": "2016-09-24"
+   },
+   {
+    "id": 611263148,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611263148/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611263148/large.jpg",
+    "attribution": "(c) ardea22bombus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336380673",
+    "place": "Glasgow A82, Glasgow G12 0UE, UK",
+    "date": "2026-01-25"
+   },
    {
     "id": 487427226,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487427226/medium.jpeg",
@@ -32,26 +52,6 @@
     "source": "https://www.inaturalist.org/observations/270998011",
     "place": "602 00 Brno-Brno 2, Česko",
     "date": "2025-04-17"
-   },
-   {
-    "id": 557685414,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557685414/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/557685414/large.jpg",
-    "attribution": "(c) 2018-2026 SgobboVista. Inh.: Larissa und Sonja Sgobbo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309075840",
-    "place": "Nordrhein-Westfalen, DE",
-    "date": "2025-08-25"
-   },
-   {
-    "id": 682870345,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682870345/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682870345/large.jpg",
-    "attribution": "(c) E. A., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/373647477",
-    "place": "Murtal, Österreich",
-    "date": "2026-06-20"
    }
   ],
   "female": [
@@ -88,43 +88,43 @@
   ],
   "juvenile": [
    {
-    "id": 698614372,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698614372/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698614372/large.jpg",
-    "attribution": "(c) emilyd47, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/381787415",
-    "place": "Edinburgh Zoo, 134 Corstorphine Rd, Corstorphine, Edinburgh EH12 6TS, UK",
-    "date": "2026-07-15"
+    "id": 388732969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388732969/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388732969/large.jpeg",
+    "attribution": "(c) tanwag, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219612509",
+    "place": "38 Wolfsburg-Sonderbezirk, Deutschland",
+    "date": "2024-05-31"
    },
    {
-    "id": 298966431,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/298966431/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/298966431/large.jpeg",
-    "attribution": "(c) Dave, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/172236052",
-    "place": "England, GB",
-    "date": "2023-05-28"
+    "id": 701366662,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/701366662/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/701366662/large.jpg",
+    "attribution": "(c) mobbini, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/383215067",
+    "place": "Dunckerviertel",
+    "date": "2026-06-27"
    },
    {
-    "id": 690386920,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690386920/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690386920/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/377529272",
-    "place": "WWMH+MP, 50674 Cologne, Germany",
-    "date": "2026-07-02"
+    "id": 217068541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217068541/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217068541/large.jpg",
+    "attribution": "(c) chalulu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/127833958",
+    "place": "Rue du Carmel, Laval, Pays de la Loire, FR",
+    "date": "2022-07-18"
    }
   ],
   "hero": {
-   "id": 34579728,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34579728/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34579728/large.jpeg",
-   "attribution": "(c) Charlotte Kirchner, some rights reserved (CC BY), uploaded by Charlotte Kirchner",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/34579728",
+   "id": 451700759,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451700759/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451700759/large.jpg",
+   "attribution": "(c) Eidiu, some rights reserved (CC BY-NC), uploaded by Eidiu",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/451700759",
    "place": null,
    "date": null
   }
@@ -146,60 +146,58 @@
    5859,
    5070
   ],
-  "worldTotal": 6259391,
+  "worldTotal": 6453984,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1783748
+    "count": 1783770
    },
    {
     "code": "FR",
-    "count": 1209320
+    "count": 1210791
    },
    {
     "code": "NL",
-    "count": 1036842
+    "count": 1038554
    },
    {
     "code": "DE",
-    "count": 685481
+    "count": 692884
    },
    {
     "code": "ES",
-    "count": 408291
+    "count": 408310
    },
    {
     "code": "BE",
-    "count": 310319
+    "count": 310321
+   },
+   {
+    "code": "CH",
+    "count": 272082
    },
    {
     "code": "PT",
-    "count": 170150
+    "count": 170151
    },
    {
     "code": "JP",
-    "count": 114149
+    "count": 114152
    },
    {
     "code": "DK",
     "count": 102482
    },
    {
-    "code": "CH",
-    "count": 91336
-   },
-   {
     "code": "AT",
-    "count": 63555
+    "count": 63842
    },
    {
     "code": "FI",
-    "count": 57869
+    "count": 57908
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

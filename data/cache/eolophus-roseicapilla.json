@@ -2,7 +2,7 @@
  "key": "eolophus-roseicapilla",
  "name": "Eolophus roseicapilla",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:39:21.613Z",
+ "fetchedAt": "2026-11-17T20:13:16.497Z",
  "names": {
   "da": "Rosa kakadue",
   "en": "Galah",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 144560,
-  "observations": 33706
+  "observations": 33823
  },
  "photos": {
   "male": [
+   {
+    "id": 292167944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/292167944/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/292167944/large.jpeg",
+    "attribution": "(c) Vik Dunis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/168575733",
+    "place": "Jarrahmond VIC 3888, Australia",
+    "date": "2023-06-21"
+   },
    {
     "id": 272218112,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/272218112/medium.jpg",
@@ -34,27 +44,27 @@
     "date": "2023-04-28"
    },
    {
-    "id": 602654235,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602654235/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602654235/large.jpg",
-    "attribution": "(c) Liam Sultana, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/332119857",
-    "place": "Melbourne VIC, Australia",
-    "date": "2025-12-24"
-   },
-   {
-    "id": 550778576,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550778576/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550778576/large.jpg",
-    "attribution": "(c) Patrick Connolly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/305506285",
-    "place": "Dunwich QLD, Australia",
-    "date": "2025-08-09"
+    "id": 469643112,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469643112/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469643112/large.jpg",
+    "attribution": "(c) Ryan Shofner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261416697",
+    "place": "Gibson Desert North WA 0872, Australia",
+    "date": "2015-09-17"
    }
   ],
   "female": [
+   {
+    "id": 95783920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95783920/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95783920/large.jpg",
+    "attribution": "(c) Michael Hains, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59923274",
+    "place": "Gunderbooka NSW 2840, Australia",
+    "date": "2020-09-14"
+   },
    {
     "id": 147415773,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147415773/medium.jpg",
@@ -74,48 +84,38 @@
     "source": "https://www.inaturalist.org/observations/147070837",
     "place": "Alice Springs NT, Australia",
     "date": "2022-12-11"
-   },
-   {
-    "id": 246358377,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246358377/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246358377/large.jpg",
-    "attribution": "(c) Proteros, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/143624653",
-    "place": "New South Wales, AU",
-    "date": "2022-12-04"
    }
   ],
   "juvenile": [
    {
-    "id": 598964948,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598964948/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598964948/large.jpg",
-    "attribution": "(c) Wooden Box, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/330327043",
-    "place": "Ashwood Wetlands, Ashwood VIC, Australia",
-    "date": "2025-12-11"
+    "id": 112057453,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112057453/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112057453/large.jpg",
+    "attribution": "(c) hotpotofnoodles, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/69103802",
+    "place": "Miles Racecourse, Cunnamulla, QLD, AU",
+    "date": "2021-02-03"
    },
    {
-    "id": 460367417,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460367417/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460367417/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/256726611",
-    "place": "Cygnet TAS 7112, Australia",
-    "date": "2024-12-30"
+    "id": 625549554,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625549554/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625549554/large.jpg",
+    "attribution": "(c) Christine Rand, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343410211",
+    "place": "Forster - Tuncurry NSW 2428, Australia",
+    "date": "2026-03-17"
    },
    {
-    "id": 591225108,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591225108/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591225108/large.jpg",
-    "attribution": "(c) graeme lunt, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/326442188",
-    "place": "Lal Lal VIC 3352, Australia",
-    "date": "2025-11-14"
+    "id": 336269858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336269858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336269858/large.jpg",
+    "attribution": "(c) ethmostigmus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191654103",
+    "place": "Weedon Reserve, East Melbourne VIC 3002, Australia",
+    "date": "2023-11-20"
    }
   ],
   "hero": {
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 1598575,
+  "worldTotal": 1598576,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1597954
+    "count": 1597956
    },
    {
     "code": "NZ",
@@ -174,7 +174,7 @@
    },
    {
     "code": "DE",
-    "count": 9
+    "count": 8
    },
    {
     "code": "IE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

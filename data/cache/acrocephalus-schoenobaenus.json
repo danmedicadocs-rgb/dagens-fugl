@@ -2,7 +2,7 @@
  "key": "acrocephalus-schoenobaenus",
  "name": "Acrocephalus schoenobaenus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:57.667Z",
+ "fetchedAt": "2026-11-17T19:54:56.439Z",
  "names": {
   "da": "Sivsanger",
   "en": null,
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 116804,
-  "observations": 19154
+  "observations": 19179
  },
  "photos": {
   "male": [
    {
-    "id": 666289511,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666289511/large.jpg",
-    "attribution": "(c) oskar0710, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/364957446",
-    "place": "Świętokrzyskie, PL",
-    "date": "2026-05-24"
+    "id": 652838788,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/652838788/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/652838788/large.jpg",
+    "attribution": "(c) nicandra711ph, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/357904746",
+    "place": "Zingst, Deutschland",
+    "date": "2026-05-03"
    },
    {
-    "id": 514820068,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820068/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820068/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286374273",
-    "place": "Statzendorf, Österreich",
-    "date": "2025-05-31"
+    "id": 138219924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138219924/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138219924/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84118195",
+    "place": "Приморский р-н, Санкт-Петербург, Россия",
+    "date": "2021-05-31"
    },
    {
-    "id": 641347039,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/641347039/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/641347039/large.jpg",
-    "attribution": "(c) uxbridgebirder, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/351442430",
-    "place": "Romney Marsh, England, GB",
-    "date": "2026-04-19"
+    "id": 128426610,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128426610/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128426610/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78470981",
+    "place": "Октябрьский р-н, Киров, Кировская обл., Россия",
+    "date": "2021-05-12"
    }
   ],
   "female": [
+   {
+    "id": 563290664,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563290664/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563290664/large.jpg",
+    "attribution": "(c) Dmytro Melnyk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/312014941",
+    "place": "Darnyts'kyi District, Kyiv, Ukraine, 02000",
+    "date": "2025-09-01"
+   },
    {
     "id": 209250365,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209250365/medium.jpeg",
@@ -78,56 +88,56 @@
   ],
   "juvenile": [
    {
-    "id": 697005954,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697005954/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697005954/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/380952910",
-    "place": "Alesd, Bihor, RO",
-    "date": "2026-07-13"
+    "id": 454727173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454727173/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454727173/large.jpeg",
+    "attribution": "(c) alcedo39, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/253924841",
+    "place": "Суздаль, Владимирская обл., Россия",
+    "date": "2024-04-21"
    },
    {
-    "id": 691303244,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691303244/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691303244/large.jpg",
-    "attribution": "(c) Сергей Грабчак, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/378002365",
-    "place": "Санкт-Петербург, Россия, 195252",
-    "date": "2026-07-03"
+    "id": 313216314,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313216314/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313216314/large.jpeg",
+    "attribution": "(c) Olivier Benoist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179867856",
+    "place": "Oudalle, France",
+    "date": "2023-08-23"
    },
    {
-    "id": 703231912,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/703231912/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/703231912/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/384183081",
-    "place": "Zwettl, Österreich",
-    "date": "2026-07-17"
+    "id": 308688836,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308688836/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308688836/large.jpg",
+    "attribution": "(c) illenicras, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177481680",
+    "place": "Viale delle Nazioni, Modena, Emilia-Romagna, IT",
+    "date": "2023-08-09"
    }
   ],
   "hero": {
-   "id": 65320,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65320/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65320/large.jpg",
-   "attribution": "(c) Billy Lindblom, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/65320",
+   "id": 522886635,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/522886635/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/522886635/large.jpg",
+   "attribution": "(c) David Kaliss, some rights reserved (CC BY-NC), uploaded by David Kaliss",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/522886635",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2493129,
-  "dkTotal": 62413,
+  "dkTotal": 62418,
   "dkMonths": [
    0,
    0,
    1,
    6508,
-   30953,
+   30958,
    13017,
    7254,
    3393,
@@ -136,35 +146,35 @@
    1,
    4
   ],
-  "worldTotal": 1974580,
+  "worldTotal": 1974886,
   "topCountries": [
    {
     "code": "FI",
-    "count": 479142
+    "count": 479156
    },
    {
     "code": "SE",
-    "count": 387082
+    "count": 387115
    },
    {
     "code": "NL",
-    "count": 353589
+    "count": 353620
    },
    {
     "code": "GB",
-    "count": 191392
+    "count": 191395
    },
    {
     "code": "FR",
-    "count": 115386
+    "count": 115390
    },
    {
     "code": "DK",
-    "count": 62413
+    "count": 62418
    },
    {
     "code": "PL",
-    "count": 59173
+    "count": 59178
    },
    {
     "code": "ES",
@@ -172,7 +182,7 @@
    },
    {
     "code": "NO",
-    "count": 54688
+    "count": 54689
    },
    {
     "code": "BE",
@@ -180,16 +190,14 @@
    },
    {
     "code": "EE",
-    "count": 21368
+    "count": 21369
    },
    {
     "code": "DE",
-    "count": 16894
+    "count": 17082
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

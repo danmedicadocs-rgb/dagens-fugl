@@ -2,7 +2,7 @@
  "key": "surnia-ulula",
  "name": "Surnia ulula",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:33.264Z",
+ "fetchedAt": "2026-11-17T19:48:32.066Z",
  "names": {
   "da": "Høgeugle",
   "en": "Hawk Owl",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 20372,
-  "observations": 4615
+  "observations": 4625
  },
  "photos": {
   "male": [
@@ -32,48 +32,99 @@
     "source": "https://www.inaturalist.org/observations/68346338",
     "place": "Pennsylvania, US",
     "date": "1991-02-26"
+   },
+   {
+    "id": 62110172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62110172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62110172/large.jpg",
+    "attribution": "(c) Chris Cheatle, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39169350",
+    "place": "Ontario, CA",
+    "date": "2020-02-16"
+   },
+   {
+    "id": 182086222,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182086222/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182086222/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/108177320",
+    "place": "Kirov, RU",
+    "date": "2022-02-27"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 185635529,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185635529/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185635529/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110077352",
+    "place": "Orichevskiy rayon, RU-KV, RU",
+    "date": "2022-03-31"
+   },
+   {
+    "id": 615039689,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615039689/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615039689/large.jpg",
+    "attribution": "(c) shubunkinmn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338228939",
+    "place": "St. Louis County, US-MN, US",
+    "date": "2026-02-06"
+   },
+   {
+    "id": 182084099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182084099/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182084099/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/108176147",
+    "place": "Kirov, RU",
+    "date": "2022-02-27"
+   }
+  ],
   "juvenile": [
    {
-    "id": 47908320,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47908320/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47908320/large.jpg",
-    "attribution": "(c) Donald Hampton, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/30658116",
-    "place": "Valdez-Cordova County, US-AK, US",
-    "date": "2015-07-08"
+    "id": 178584703,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178584703/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178584703/large.jpg",
+    "attribution": "(c) Al Losk (Lifebra), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106322618",
+    "place": "Aleksandrovsk gorsovet, RU-PE, RU",
+    "date": "2010-08-14"
    },
    {
-    "id": 9068189,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9068189/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9068189/large.jpeg",
-    "attribution": "(c) Cheryl McCleary-Catalano, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/7063098",
+    "id": 421533355,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421533355/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421533355/large.jpg",
+    "attribution": "(c) Ken Kertell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/236901966",
     "place": "Denali National Park, Denali County, US-AK, US",
-    "date": "2017-07-04"
+    "date": "1980-06-24"
    },
    {
-    "id": 197332890,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197332890/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197332890/large.jpg",
-    "attribution": "(c) Jay Pruett, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/116880910",
-    "place": "Härjedalen, SE-JA, SE",
-    "date": "2018-06-07"
+    "id": 421531017,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421531017/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421531017/large.jpg",
+    "attribution": "(c) Ken Kertell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/236900577",
+    "place": "Denali National Park, Denali County, US-AK, US",
+    "date": "1980-06-28"
    }
   ],
   "hero": {
-   "id": 112012199,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112012199/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112012199/large.jpeg",
-   "attribution": "(c) Syd Cannings, some rights reserved (CC BY), uploaded by Syd Cannings",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/112012199",
+   "id": 22530903,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22530903/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22530903/large.jpg",
+   "attribution": "(c) Terry Gray, some rights reserved (CC BY-NC), uploaded by Terry Gray",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/22530903",
    "place": null,
    "date": null
   }
@@ -95,19 +146,19 @@
    736,
    771
   ],
-  "worldTotal": 98137,
+  "worldTotal": 98194,
   "topCountries": [
    {
     "code": "SE",
-    "count": 48540
+    "count": 48560
    },
    {
     "code": "NO",
-    "count": 24888
+    "count": 24904
    },
    {
     "code": "FI",
-    "count": 9771
+    "count": 9781
    },
    {
     "code": "DK",
@@ -115,7 +166,7 @@
    },
    {
     "code": "NL",
-    "count": 3639
+    "count": 3650
    },
    {
     "code": "CA",
@@ -147,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "song, subsong",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "larus-hyperboreus",
  "name": "Larus hyperboreus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:19.339Z",
+ "fetchedAt": "2026-11-17T19:46:02.357Z",
  "names": {
   "da": "Gråmåge",
   "en": "Glaucous Gull",
@@ -19,82 +19,61 @@
  },
  "inat": {
   "id": 4349,
-  "observations": 9078
+  "observations": 9090
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 698724360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698724360/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698724360/large.jpg",
+    "attribution": "(c) dougiewainwright, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/381842025",
+    "place": "Avannaata Municipality, Greenland",
+    "date": "2026-07-11"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 114002234,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114002234/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114002234/large.jpg",
-    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70159965",
-    "place": "Западный административный округ, Москва, Россия",
-    "date": "2021-02-23"
+    "id": 28114907,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28114907/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28114907/large.jpeg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18394616",
+    "place": "Yukon, YT, Canada",
+    "date": "2013-08-11"
    },
    {
-    "id": 1661428,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1661428/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1661428/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/1342554",
-    "place": "Pennsylvania, United States",
-    "date": "2010-01-17"
+    "id": 176885764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176885764/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176885764/large.jpg",
+    "attribution": "(c) African, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105425250",
+    "place": "Dniprovs'kyi district, Kamianske, Dnipropetrovsk Oblast, Ukraine, 51900",
+    "date": "2021-02-21"
    },
    {
-    "id": 56688944,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56688944/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56688944/large.png",
-    "attribution": "(c) Paolo Zucca, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/35911039",
-    "place": "Islanda",
-    "date": "2018-06-22"
-   }
-  ],
-  "adult": [
-   {
-    "id": 180757863,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180757863/large.jpg",
-    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/107469094",
-    "place": "Lorain, OH, USA",
-    "date": "2022-02-23"
-   },
-   {
-    "id": 597770414,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597770414/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597770414/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/329738719",
-    "place": "Barents Sea",
-    "date": "2025-11-24"
-   },
-   {
-    "id": 531932786,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531932786/large.jpg",
-    "attribution": "(c) Ingvild Riska, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/295477822",
-    "place": "Amutsivimmut Aqqut, Avannaata, GL",
-    "date": "2025-07-05"
+    "id": 610244203,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610244203/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610244203/large.jpg",
+    "attribution": "(c) silliestgoober, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335869546",
+    "place": "Spiddal Pier, Bohoona East, An Spidéal, Co. Galway, Ireland",
+    "date": "2026-01-23"
    }
   ],
   "hero": {
-   "id": 168808686,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168808686/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168808686/large.jpg",
-   "attribution": "(c) Alastair Rae, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/168808686",
+   "id": 8050013,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050013/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050013/large.jpg",
+   "attribution": "(c) Matt Goff, some rights reserved (CC BY-NC-SA), uploaded by Matt Goff",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/8050013",
    "place": null,
    "date": null
   }
@@ -116,7 +95,7 @@
    159,
    416
   ],
-  "worldTotal": 385956,
+  "worldTotal": 385994,
   "topCountries": [
    {
     "code": "US",
@@ -128,23 +107,23 @@
    },
    {
     "code": "IS",
-    "count": 27882
+    "count": 27883
    },
    {
     "code": "SJ",
-    "count": 22295
+    "count": 22300
    },
    {
     "code": "NO",
-    "count": 17871
+    "count": 17875
    },
    {
     "code": "NL",
-    "count": 15398
+    "count": 15421
    },
    {
     "code": "SE",
-    "count": 15398
+    "count": 15404
    },
    {
     "code": "GB",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

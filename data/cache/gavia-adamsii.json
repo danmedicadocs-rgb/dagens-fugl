@@ -2,7 +2,7 @@
  "key": "gavia-adamsii",
  "name": "Gavia adamsii",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:05:52.518Z",
+ "fetchedAt": "2026-11-17T19:35:23.038Z",
  "names": {
   "da": "Hvidnæbbet lom",
   "en": "Yellow-billed Diver",
@@ -19,11 +19,42 @@
  },
  "inat": {
   "id": 4622,
-  "observations": 1280
+  "observations": 1285
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 57167914,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57167914/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57167914/large.jpeg",
+    "attribution": "(c) Данилова Валерия, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36185024",
+    "place": "Чаунский р-н, Чукотский автономный округ, Россия",
+    "date": "2019-06-28"
+   }
+  ],
   "female": [
+   {
+    "id": 108533093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108533093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108533093/large.jpg",
+    "attribution": "(c) aclassfreeman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67210642",
+    "place": "Nicomekl River, Surrey, BC, CA",
+    "date": "2020-12-28"
+   },
+   {
+    "id": 114477441,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114477441/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114477441/large.jpeg",
+    "attribution": "(c) graeme45, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70420398",
+    "place": "Surrey, BC, Canada",
+    "date": "2021-03-01"
+   },
    {
     "id": 454013645,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/medium.jpeg",
@@ -33,49 +64,49 @@
     "source": "https://www.inaturalist.org/observations/253550434",
     "place": "Douglas County, CO, USA",
     "date": "2020-02-08"
-   },
-   {
-    "id": 108644911,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108644911/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108644911/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/67270393",
-    "place": "Surrey, BC V3S, Canada",
-    "date": "2020-12-29"
    }
   ],
   "juvenile": [
    {
-    "id": 29454969,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454969/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29454969/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/19178820",
-    "place": "Kassel, Deutschland",
-    "date": "2016-12-22"
+    "id": 758731327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758731327/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758731327/large.jpg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412349169",
+    "place": "Schwatka Lake, Whitehorse, YT, CA",
+    "date": "2026-11-01"
    },
    {
-    "id": 318824705,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318824705/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318824705/large.jpeg",
-    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/182823666",
-    "place": "Cascade County, MT, USA",
-    "date": "2017-12-17"
+    "id": 600898009,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600898009/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600898009/large.jpg",
+    "attribution": "(c) kevinhintsa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/331262473",
+    "place": "Crab Cove , Alameda , CA USA",
+    "date": "2025-12-18"
+   },
+   {
+    "id": 28233189,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28233189/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28233189/large.jpg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18464793",
+    "place": "1091 Front St, Whitehorse, YT, CA",
+    "date": "2016-01-05"
    }
   ],
   "hero": {
-   "id": 454013645,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454013645/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/253550434",
-   "place": "Douglas County, CO, USA",
-   "date": "2020-02-08"
+   "id": 99941538,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/99941538/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/99941538/large.jpeg",
+   "attribution": "(c) gramandy, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/99941538",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,7 +126,7 @@
    134,
    24
   ],
-  "worldTotal": 60521,
+  "worldTotal": 60524,
   "topCountries": [
    {
     "code": "US",
@@ -107,7 +138,7 @@
    },
    {
     "code": "SE",
-    "count": 9266
+    "count": 9268
    },
    {
     "code": "CA",
@@ -115,7 +146,7 @@
    },
    {
     "code": "NL",
-    "count": 2751
+    "count": 2753
    },
    {
     "code": "DK",
@@ -143,12 +174,10 @@
    },
    {
     "code": "DE",
-    "count": 202
+    "count": 201
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

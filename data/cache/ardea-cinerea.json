@@ -2,7 +2,7 @@
  "key": "ardea-cinerea",
  "name": "Ardea cinerea",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:32.583Z",
+ "fetchedAt": "2026-11-17T19:37:23.142Z",
  "names": {
   "da": "Fiskehejre",
   "en": "Grey Heron",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 4954,
-  "observations": 274404
+  "observations": 275242
  },
  "photos": {
   "male": [
+   {
+    "id": 469130391,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469130391/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469130391/large.jpeg",
+    "attribution": "(c) Dragonfyre, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261159881",
+    "place": "London, UK",
+    "date": "2025-02-08"
+   },
+   {
+    "id": 732946485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732946485/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732946485/large.jpg",
+    "attribution": "(c) ☮️Momo🇵🇸Proske🏳️‍🌈🏳️‍⚧️, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/399487266",
+    "place": "Rheinland-Pfalz, DE",
+    "date": "2026-09-12"
+   },
    {
     "id": 573877669,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573877669/medium.jpg",
@@ -32,58 +52,38 @@
     "source": "https://www.inaturalist.org/observations/317555624",
     "place": "Chilton Moor, Houghton le Spring DH4 6PU, UK",
     "date": "2025-09-29"
-   },
-   {
-    "id": 345254566,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345254566/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345254566/large.jpg",
-    "attribution": "(c) Dr. Sven Gippner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/196148818",
-    "place": "38 Braunschweig-Wabe-Schunter-Beberbach, Germany",
-    "date": "2024-01-08"
-   },
-   {
-    "id": 204082651,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/204082651/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/204082651/large.jpeg",
-    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120648098",
-    "place": "Сосницький район, Чернігівська область, Україна",
-    "date": "2019-05-12"
    }
   ],
   "female": [
    {
-    "id": 84944561,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84944561/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84944561/large.jpeg",
-    "attribution": "(c) João Pedro Gato, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/53408126",
-    "place": "Castedo e Cotas, 5070, Portugal",
-    "date": "2020-07-17"
+    "id": 618118179,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618118179/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618118179/large.jpg",
+    "attribution": "(c) weesue, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/339751068",
+    "place": "Glasgow G5 0DX, UK",
+    "date": "2026-02-18"
    },
    {
-    "id": 184460795,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184460795/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184460795/large.jpeg",
-    "attribution": "(c) Carman Chew, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/109443786",
-    "place": "Singapore",
-    "date": "2022-03-25"
+    "id": 172515915,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172515915/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172515915/large.jpeg",
+    "attribution": "(c) gardatxanae, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103115967",
+    "place": "Aranguren, 31192, Navarra, España",
+    "date": "2021-12-14"
    },
    {
-    "id": 182703838,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182703838/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182703838/large.jpeg",
-    "attribution": "(c) inatadedi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/108507911",
-    "place": "Ripollet, Barcelona, España",
-    "date": "2022-03-13"
+    "id": 450553282,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/450553282/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/450553282/large.jpeg",
+    "attribution": "(c) Alexandra Richter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251767352",
+    "place": "09 Mittweida, Alemania",
+    "date": "2024-11-15"
    }
   ],
   "juvenile": [
@@ -98,24 +98,24 @@
     "date": "2021-12-19"
    },
    {
-    "id": 442832710,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442832710/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442832710/large.jpeg",
-    "attribution": "(c) Brenda Black, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/247894024",
-    "place": "80 München-Neuhausen-Nymphenburg, Deutschland",
-    "date": "2024-10-18"
+    "id": 308803903,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308803903/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308803903/large.jpg",
+    "attribution": "(c) jamesbot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177544257",
+    "place": "Восточный административный округ, Москва, Россия",
+    "date": "2023-08-09"
    },
    {
-    "id": 595797744,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595797744/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595797744/large.jpg",
-    "attribution": "(c) Marco Zaccaria Di Fraia, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/328755903",
-    "place": "Rye Hill Park (Stop EH), London SE15 3JG, UK",
-    "date": "2025-11-29"
+    "id": 469337887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469337887/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469337887/large.jpeg",
+    "attribution": "(c) Petra Marija, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261261930",
+    "place": "Park Maksimir, 10000, Maksimir, Zagreb, Hrvatska",
+    "date": "2021-05-07"
    }
   ],
   "hero": {
@@ -131,75 +131,73 @@
  },
  "gbif": {
   "key": 9797180,
-  "dkTotal": 636037,
+  "dkTotal": 636050,
   "dkMonths": [
    55929,
    43739,
    55971,
    65311,
-   60516,
+   60522,
    46263,
-   55300,
-   62045,
-   56699,
+   55303,
+   62046,
+   56702,
    53880,
    41113,
    39203
   ],
-  "worldTotal": 8115735,
+  "worldTotal": 8139637,
   "topCountries": [
    {
     "code": "NL",
-    "count": 1146903
+    "count": 1149014
    },
    {
     "code": "SE",
-    "count": 890887
+    "count": 891602
    },
    {
     "code": "GB",
-    "count": 830651
+    "count": 830667
    },
    {
     "code": "FR",
-    "count": 662777
+    "count": 662951
    },
    {
     "code": "DK",
-    "count": 636037
+    "count": 636050
    },
    {
     "code": "ES",
-    "count": 505868
+    "count": 505944
    },
    {
     "code": "DE",
-    "count": 434302
+    "count": 438337
    },
    {
     "code": "NO",
-    "count": 388707
+    "count": 389039
    },
    {
     "code": "BE",
-    "count": 308027
+    "count": 308031
    },
    {
     "code": "IN",
-    "count": 266851
+    "count": 266854
    },
    {
     "code": "TW",
-    "count": 229852
+    "count": 229853
    },
    {
     "code": "ZA",
-    "count": 226951
+    "count": 226956
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

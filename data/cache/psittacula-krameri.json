@@ -2,7 +2,7 @@
  "key": "psittacula-krameri",
  "name": "Psittacula krameri",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:36:22.879Z",
+ "fetchedAt": "2026-11-17T20:10:28.685Z",
  "names": {
   "da": "Alexanderparakit",
   "en": "Rose-ringed Parakeet",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 18911,
-  "observations": 49757
+  "observations": 49970
  },
  "photos": {
   "male": [
+   {
+    "id": 2035460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035460/large.jpg",
+    "attribution": "(c) Mousam Ray, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1669400",
+    "place": "Jalpaiguri, IN-WB, IN",
+    "date": "2015-02-25"
+   },
    {
     "id": 105189664,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105189664/medium.jpeg",
@@ -34,27 +44,27 @@
     "date": "2020-11-21"
    },
    {
-    "id": 92421709,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92421709/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92421709/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57915508",
-    "place": "Hambantota, Sri Lanka",
-    "date": "2011-01-23"
-   },
-   {
-    "id": 92408087,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92408087/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92408087/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57908085",
-    "place": "Moneragala, Sri Lanka",
-    "date": "2011-01-20"
+    "id": 58748685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58748685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58748685/large.jpg",
+    "attribution": "(c) Kinmatsu Lin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37094048",
+    "place": "斯里蘭卡漢班托特",
+    "date": "2019-11-28"
    }
   ],
   "female": [
+   {
+    "id": 13352990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13352990/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13352990/large.jpg",
+    "attribution": "(c) Michel NOËL, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9752870",
+    "place": "Creteil, Ile-de-France, France",
+    "date": "2018-02-01"
+   },
    {
     "id": 49619112,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49619112/medium.png",
@@ -66,65 +76,55 @@
     "date": "2019-08-28"
    },
    {
-    "id": 113608106,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113608106/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113608106/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69942829",
-    "place": "Père-Lachaise, 75020 Paris, France",
-    "date": "2021-02-21"
-   },
-   {
-    "id": 445692409,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445692409/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445692409/large.jpeg",
-    "attribution": "(c) Alexandr Stanislavschi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/249337172",
-    "place": "Strada Nicolae Bălcescu, Iaşi, Iași, RO",
-    "date": "2024-10-27"
+    "id": 354342267,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354342267/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354342267/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200800782",
+    "place": "Nissankamallapura, Sri Lanka",
+    "date": "2024-01-24"
    }
   ],
   "juvenile": [
    {
-    "id": 522605178,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/522605178/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/522605178/large.jpg",
-    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/290502896",
-    "place": "92230 Gennevilliers, France",
-    "date": "2025-06-17"
+    "id": 175618105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175618105/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175618105/large.jpeg",
+    "attribution": "(c) Hans Holbrook, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104763557",
+    "place": "Anne Arundel County, MD, USA",
+    "date": "2014-09-09"
    },
    {
-    "id": 667625666,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667625666/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667625666/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/365657063",
-    "place": "Dole St + UH Law School, Honolulu, HI 96822, USA",
-    "date": "2026-05-26"
+    "id": 633057857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/633057857/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/633057857/large.jpg",
+    "attribution": "(c) Rishit, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/347218447",
+    "place": "Dwarkadheesh Residency, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411027, India",
+    "date": "2026-04-04"
    },
    {
-    "id": 514126441,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514126441/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514126441/large.jpg",
-    "attribution": "(c) Rhys, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286011350",
-    "place": "Wren's Nest, Dudley DY1, UK",
-    "date": "2025-06-01"
+    "id": 288627175,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288627175/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288627175/large.jpg",
+    "attribution": "(c) Eliana Donna Vagabonda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166664621",
+    "place": "Parco della Vernavola",
+    "date": "2023-06-10"
    }
   ],
   "hero": {
-   "id": 454937257,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454937257/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454937257/large.jpg",
-   "attribution": "(c) Cristian Hurtado Cusnir, some rights reserved (CC BY), uploaded by Cristian Hurtado Cusnir",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/454937257",
+   "id": 2035460,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035460/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2035460/large.jpg",
+   "attribution": "(c) Mousam Ray, some rights reserved (CC BY-NC), uploaded by Mousam Ray",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/2035460",
    "place": null,
    "date": null
   }
@@ -146,15 +146,15 @@
    4,
    4
   ],
-  "worldTotal": 1959757,
+  "worldTotal": 1960568,
   "topCountries": [
    {
     "code": "IN",
-    "count": 943163
+    "count": 943170
    },
    {
     "code": "GB",
-    "count": 192716
+    "count": 192722
    },
    {
     "code": "BE",
@@ -162,19 +162,19 @@
    },
    {
     "code": "NL",
-    "count": 122719
+    "count": 122948
    },
    {
     "code": "IL",
-    "count": 91704
+    "count": 91711
    },
    {
     "code": "FR",
-    "count": 89064
+    "count": 89074
    },
    {
     "code": "ES",
-    "count": 59819
+    "count": 59838
    },
    {
     "code": "LK",
@@ -182,11 +182,11 @@
    },
    {
     "code": "DE",
-    "count": 34775
+    "count": 35275
    },
    {
     "code": "PT",
-    "count": 28764
+    "count": 28766
    },
    {
     "code": "ZA",
@@ -194,12 +194,10 @@
    },
    {
     "code": "IT",
-    "count": 23955
+    "count": 23960
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

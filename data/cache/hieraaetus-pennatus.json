@@ -2,7 +2,7 @@
  "key": "hieraaetus-pennatus",
  "name": "Hieraaetus pennatus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:09:10.684Z",
+ "fetchedAt": "2026-11-17T19:39:15.336Z",
  "names": {
   "da": "Dværgørn",
   "en": "Booted Eagle",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 5154,
-  "observations": 18295
+  "observations": 18328
  },
  "photos": {
   "male": [
+   {
+    "id": 494110166,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/494110166/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/494110166/large.jpeg",
+    "attribution": "(c) Антон Волков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/274912384",
+    "place": "Челябинская обл., Россия, 456010",
+    "date": "2025-04-26"
+   },
    {
     "id": 729437102,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729437102/medium.jpg",
@@ -32,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/397686467",
     "place": "64310 Sare, Frankreich",
     "date": "2026-08-27"
+   },
+   {
+    "id": 665636105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665636105/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665636105/large.jpg",
+    "attribution": "(c) Barnabas B, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364613041",
+    "place": "Tiszaújlak, Kárpátalja, Ukrajna",
+    "date": "2026-05-24"
    }
   ],
   "female": [
@@ -44,6 +64,16 @@
     "source": "https://www.inaturalist.org/observations/204924161",
     "place": "24570 Condat-sur-Vézère, France",
     "date": "2024-04-01"
+   },
+   {
+    "id": 145338419,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145338419/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/145338419/large.jpeg",
+    "attribution": "(c) Andreea Curcan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/88111366",
+    "place": "Homocea, Romania",
+    "date": "2021-07-20"
    }
   ],
   "juvenile": [
@@ -58,33 +88,33 @@
     "date": "2017-12-29"
    },
    {
-    "id": 612378190,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612378190/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612378190/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/336928581",
-    "place": "Swellendam, 6740, South Africa",
-    "date": "2026-02-01"
+    "id": 410941374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410941374/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410941374/large.jpg",
+    "attribution": "(c) Angel Turrado Barrio, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231376178",
+    "place": "Castilla y León, ES",
+    "date": "2024-07-24"
    },
    {
-    "id": 283512800,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283512800/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/283512800/large.jpg",
-    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/163889369",
-    "place": "Beja, PT",
-    "date": "2023-05-24"
+    "id": 596722626,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596722626/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596722626/large.jpg",
+    "attribution": "(c) catherinapagani, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329219399",
+    "place": "Crofters Valley, Cape Town, 7979, South Africa",
+    "date": "2025-11-22"
    }
   ],
   "hero": {
-   "id": 154211338,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154211338/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154211338/large.jpg",
-   "attribution": "(c) Дмитрий Еременко, some rights reserved (CC BY), uploaded by Дмитрий Еременко",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/154211338",
+   "id": 304208892,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304208892/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304208892/large.jpeg",
+   "attribution": "(c) Михаил Анурьев, some rights reserved (CC BY-NC), uploaded by Михаил Анурьев",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/304208892",
    "place": null,
    "date": null
   }
@@ -106,11 +136,11 @@
    0,
    0
   ],
-  "worldTotal": 502369,
+  "worldTotal": 502424,
   "topCountries": [
    {
     "code": "ES",
-    "count": 233045
+    "count": 233072
    },
    {
     "code": "GE",
@@ -126,7 +156,7 @@
    },
    {
     "code": "FR",
-    "count": 35691
+    "count": 35693
    },
    {
     "code": "ZA",
@@ -142,11 +172,11 @@
    },
    {
     "code": "TR",
-    "count": 4915
+    "count": 4916
    },
    {
     "code": "MA",
-    "count": 3545
+    "count": 3550
    },
    {
     "code": "BG",
@@ -154,12 +184,10 @@
    },
    {
     "code": "RU",
-    "count": 2851
+    "count": 2853
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +202,7 @@
   "type": "call, flight call, song, several pairs displaying",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "milvago-chimachima",
  "name": "Milvago chimachima",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:57.500Z",
+ "fetchedAt": "2026-11-17T20:26:47.997Z",
  "names": {
   "da": "Lys caracara",
   "en": "Yellow-headed Caracara",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 181323504,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181323504/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181323504/large.jpeg",
+   "attribution": "(c) David Ángel-Vasco, some rights reserved (CC BY-NC), uploaded by David Ángel-Vasco",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/181323504",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2481066,
@@ -46,7 +55,7 @@
    0,
    0
   ],
-  "worldTotal": 16639,
+  "worldTotal": 16641,
   "topCountries": [
    {
     "code": "CO",
@@ -69,12 +78,12 @@
     "count": 125
    },
    {
-    "code": "PY",
-    "count": 82
+    "code": "PA",
+    "count": 83
    },
    {
-    "code": "PA",
-    "count": 81
+    "code": "PY",
+    "count": 82
    },
    {
     "code": "BO",
@@ -98,8 +107,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -114,5 +121,7 @@
   "type": "call, display song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

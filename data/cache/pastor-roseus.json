@@ -2,7 +2,7 @@
  "key": "pastor-roseus",
  "name": "Pastor roseus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:56.638Z",
+ "fetchedAt": "2026-11-17T19:56:04.721Z",
  "names": {
   "da": "Rosenstær",
   "en": "Rosy Starling",
@@ -19,71 +19,102 @@
  },
  "inat": {
   "id": 145108,
-  "observations": 4800
+  "observations": 4813
  },
  "photos": {
   "male": [
    {
-    "id": 734437272,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734437272/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/400246210",
-    "place": "Светлый, Оренбургская обл., Россия, 462740",
-    "date": "2026-06-16"
+    "id": 80300684,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/80300684/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/80300684/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/50570686",
+    "place": "West Yorkshire, UK",
+    "date": "2020-06-14"
    },
    {
-    "id": 734430057,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734430057/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734430057/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/400242961",
-    "place": "Светлый, Оренбургская обл., Россия, 462740",
-    "date": "2026-06-15"
+    "id": 196596495,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196596495/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196596495/large.jpeg",
+    "attribution": "(c) mihai_leu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/116465168",
+    "place": "Carasova, Romania",
+    "date": "2020-05-30"
+   },
+   {
+    "id": 418447628,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418447628/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418447628/large.jpg",
+    "attribution": "(c) Theodore, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/235300453",
+    "place": "Israel",
+    "date": "2024-08-10"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 151124660,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151124660/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151124660/large.jpeg",
+    "attribution": "(c) Мария Пахлеванова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/91371631",
+    "place": "Геленджик, Краснодарский край, Россия",
+    "date": "2021-08-15"
+   },
+   {
+    "id": 559734883,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559734883/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559734883/large.jpg",
+    "attribution": "(c) Samarth Chaudhary, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/310149226",
+    "place": "Narolgam, Ahmedabad, Gujarat, India",
+    "date": "2025-08-30"
+   }
+  ],
   "juvenile": [
    {
-    "id": 729590366,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729590366/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729590366/large.jpg",
-    "attribution": "(c) Suhas Saya, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397783914",
-    "place": "Kegen District, Kazakhstan",
-    "date": "2026-07-15"
+    "id": 179702195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179702195/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179702195/large.jpeg",
+    "attribution": "(c) Benoît Segerer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106909092",
+    "place": "Ouessant, France",
+    "date": "2005-09-22"
    },
    {
-    "id": 157240510,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157240510/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157240510/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/94766826",
-    "place": "Craig Y Don, Amlwch, Anglesey, Wales, UK",
-    "date": "2021-09-12"
+    "id": 173231125,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173231125/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173231125/large.png",
+    "attribution": "(c) Noam Markus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103497189",
+    "place": "Bay of Bengal",
+    "date": "2016-10-24"
    },
    {
-    "id": 668391853,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668391853/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668391853/large.jpg",
-    "attribution": "(c) Johannes S., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/366062009",
-    "place": "Pinneberg, DE-SH, DE",
-    "date": "2015-08-24"
+    "id": 174590132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174590132/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174590132/large.jpg",
+    "attribution": "(c) Aurelie Laurent, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/99487093",
+    "place": "29242 Ouessant, France",
+    "date": "2021-10-26"
    }
   ],
   "hero": {
-   "id": 137124372,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137124372/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137124372/large.jpeg",
-   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY), uploaded by Andrew Bazdyrev",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/137124372",
+   "id": 299373712,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299373712/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299373712/large.jpg",
+   "attribution": "(c) Бобаченко Елена, some rights reserved (CC BY-NC), uploaded by Бобаченко Елена",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/299373712",
    "place": null,
    "date": null
   }
@@ -105,19 +136,19 @@
    14,
    0
   ],
-  "worldTotal": 138644,
+  "worldTotal": 138661,
   "topCountries": [
    {
     "code": "IN",
-    "count": 93984
+    "count": 93985
    },
    {
     "code": "NL",
-    "count": 7932
+    "count": 7933
    },
    {
     "code": "SE",
-    "count": 5326
+    "count": 5328
    },
    {
     "code": "LK",
@@ -125,15 +156,15 @@
    },
    {
     "code": "GB",
-    "count": 2923
+    "count": 2924
    },
    {
     "code": "NO",
-    "count": 2279
+    "count": 2283
    },
    {
     "code": "TR",
-    "count": 2132
+    "count": 2134
    },
    {
     "code": "KZ",
@@ -153,12 +184,10 @@
    },
    {
     "code": "RU",
-    "count": 1189
+    "count": 1192
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

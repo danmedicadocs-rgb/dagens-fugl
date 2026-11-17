@@ -2,7 +2,7 @@
  "key": "thryothorus-ludovicianus",
  "name": "Thryothorus ludovicianus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:46.708Z",
+ "fetchedAt": "2026-11-17T20:21:56.667Z",
  "names": {
   "da": "Carolinasmutte",
   "en": "Carolina Wren",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 7513,
-  "observations": 110447
+  "observations": 110649
  },
  "photos": {
   "male": [
+   {
+    "id": 186483298,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186483298/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186483298/large.jpg",
+    "attribution": "(c) tracminhvu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110537782",
+    "place": "Lake Creek Trail, Austin, TX 78729, USA",
+    "date": "2022-03-28"
+   },
+   {
+    "id": 72137625,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72137625/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72137625/large.jpeg",
+    "attribution": "(c) kristicallat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34505694",
+    "place": "South Carolina, US",
+    "date": "2019-08-13"
+   },
    {
     "id": 482596744,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482596744/medium.jpeg",
@@ -32,101 +52,81 @@
     "source": "https://www.inaturalist.org/observations/268478518",
     "place": "South Baton Rouge, Baton Rouge, LA, USA",
     "date": "2025-04-03"
-   },
-   {
-    "id": 327137998,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327137998/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327137998/large.jpeg",
-    "attribution": "(c) Brandon Johnson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/187105028",
-    "place": "East Feliciana Parish, LA, USA",
-    "date": "2023-10-09"
-   },
-   {
-    "id": 147253682,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147253682/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147253682/large.jpeg",
-    "attribution": "(c) sarah1862, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89186658",
-    "place": "Buckner Terrace / Everglade Park, Dallas, TX, USA",
-    "date": "2021-07-30"
    }
   ],
   "female": [
    {
-    "id": 186811420,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186811420/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186811420/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/110715703",
-    "place": "Windsor Forest, Savannah, GA, USA",
-    "date": "2022-04-07"
+    "id": 397540541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397540541/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397540541/large.jpeg",
+    "attribution": "(c) Lisa Appelbaum, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224309237",
+    "place": "Texas, US",
+    "date": "2024-05-28"
    },
    {
-    "id": 79934557,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79934557/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79934557/large.jpeg",
-    "attribution": "(c) Jeff, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/50340229",
-    "place": "Raleigh",
-    "date": "2020-06-20"
+    "id": 406472093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406472093/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/406472093/large.jpeg",
+    "attribution": "(c) skinnerpro24, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229013924",
+    "place": "Hope Valley, Durham, NC, USA",
+    "date": "2024-07-12"
    },
    {
-    "id": 138219362,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138219362/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138219362/large.jpg",
-    "attribution": "(c) Lexi Amico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/84117136",
-    "place": "Garrett Rd, Durham, NC, US",
-    "date": "2021-06-22"
+    "id": 251292916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251292916/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251292916/large.jpg",
+    "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/146194822",
+    "place": "Taylor Creek Park, Toronto, ON, Canada",
+    "date": "2023-01-01"
    }
   ],
   "juvenile": [
    {
-    "id": 395737178,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395737178/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395737178/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/223351111",
-    "place": "Windsor Forest, Savannah, GA, USA",
-    "date": "2024-06-17"
+    "id": 338504764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338504764/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338504764/large.jpg",
+    "attribution": "(c) haley.ann.123, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192781445",
+    "place": "Old Willow Ct, Richmond, VA, US",
+    "date": "2023-08-14"
    },
    {
-    "id": 35618398,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35618398/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35618398/large.jpg",
-    "attribution": "(c) Melissa McMasters, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/22977356",
-    "place": "Overton Park, TN, US",
-    "date": "2019-04-23"
+    "id": 489247467,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489247467/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489247467/large.jpg",
+    "attribution": "(c) Lisa Powers, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271957970",
+    "place": "Shawnee Cir, Evansville, IN, US",
+    "date": "2025-04-20"
    },
    {
-    "id": 668114326,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668114326/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668114326/large.jpg",
-    "attribution": "(c) northerly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/365916405",
-    "place": "Georgia, US",
-    "date": "2026-05-23"
+    "id": 6745239,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6745239/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6745239/large.jpeg",
+    "attribution": "(c) vikadeak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/5477657",
+    "place": "3400 Green Briar Circle Gulf Breeze, FL 32563",
+    "date": "2017-03-26"
    }
   ],
   "hero": {
-   "id": 482596744,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482596744/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482596744/large.jpeg",
-   "attribution": "(c) Brandon Johnson, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/268478518",
-   "place": "South Baton Rouge, Baton Rouge, LA, USA",
-   "date": "2025-04-03"
+   "id": 461889083,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/461889083/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/461889083/large.jpg",
+   "attribution": "(c) Tom Murray, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/461889083",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -190,8 +190,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -206,5 +204,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

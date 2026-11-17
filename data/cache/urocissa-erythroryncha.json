@@ -2,7 +2,7 @@
  "key": "urocissa-erythroryncha",
  "name": "Urocissa erythroryncha",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:37.498Z",
+ "fetchedAt": "2026-11-17T20:12:31.136Z",
  "names": {
   "da": "Rødnæbbet Kitta",
   "en": "Red-billed Blue Magpie",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 495200,
-  "observations": 7856
+  "observations": 7882
  },
  "photos": {
   "male": [
@@ -36,6 +36,16 @@
   ],
   "female": [
    {
+    "id": 459813957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459813957/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459813957/large.jpeg",
+    "attribution": "(c) olamgnowk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256453822",
+    "place": "香港太平山樂古道10號地上層A鋪",
+    "date": "2024-12-28"
+   },
+   {
     "id": 679658933,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658933/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658933/large.jpg",
@@ -48,33 +58,43 @@
   ],
   "juvenile": [
    {
-    "id": 418803493,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418803493/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418803493/large.jpeg",
-    "attribution": "(c) Sagnik Dutta Roy, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/235480406",
-    "place": "Godawari, Nepal",
-    "date": "2024-07-30"
+    "id": 500760405,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500760405/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500760405/large.jpg",
+    "attribution": "(c) silencehoi77, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278876456",
+    "place": "Wan Tau Kok Lane, Tai Po, New Territories, HK",
+    "date": "2025-05-06"
    },
    {
-    "id": 679658952,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658952/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679658952/large.jpg",
-    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/371967065",
-    "place": "Лунцюаньи, Чэнду, Сычуань, Китай",
-    "date": "2026-06-12"
+    "id": 715057853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715057853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715057853/large.jpg",
+    "attribution": "(c) Adrien F., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390314421",
+    "place": "Yanggongdi Hangzhou West Lake Scenery Spot-Hangzhou Parterre (Southwest Corner), Hangzhou, Zhejiang, CN",
+    "date": "2026-08-11"
+   },
+   {
+    "id": 489169379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489169379/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/489169379/large.jpeg",
+    "attribution": "(c) Goofy Ko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271917989",
+    "place": null,
+    "date": "2025-04-21"
    }
   ],
   "hero": {
-   "id": 289501720,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289501720/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289501720/large.jpg",
-   "attribution": "(c) Koshy Koshy, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/289501720",
+   "id": 251164920,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251164920/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251164920/large.jpeg",
+   "attribution": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC), uploaded by 小铖/Smalltown",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/251164920",
    "place": null,
    "date": null
   }
@@ -96,11 +116,11 @@
    0,
    0
   ],
-  "worldTotal": 94166,
+  "worldTotal": 94169,
   "topCountries": [
    {
     "code": "CN",
-    "count": 35272
+    "count": 35274
    },
    {
     "code": "IN",
@@ -116,7 +136,7 @@
    },
    {
     "code": "TH",
-    "count": 4848
+    "count": 4849
    },
    {
     "code": "KH",
@@ -148,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

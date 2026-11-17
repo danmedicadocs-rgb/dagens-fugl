@@ -2,7 +2,7 @@
  "key": "larus-marinus",
  "name": "Larus marinus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:24.300Z",
+ "fetchedAt": "2026-11-17T19:46:08.101Z",
  "names": {
   "da": "Svartbag",
   "en": "Great Black-backed Gull",
@@ -19,11 +19,52 @@
  },
  "inat": {
   "id": 4368,
-  "observations": 49971
+  "observations": 50120
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 596620202,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596620202/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596620202/large.jpg",
+    "attribution": "(c) Paul Seaman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329167689",
+    "place": "Ipswich, MA, USA",
+    "date": "2025-10-23"
+   },
+   {
+    "id": 561513689,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/561513689/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/561513689/large.jpg",
+    "attribution": "(c) adamowski_13, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/311077746",
+    "place": "Kołobrzeg, Polska",
+    "date": "2025-02-07"
+   },
+   {
+    "id": 168905701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168905701/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168905701/large.jpg",
+    "attribution": "(c) jdsommer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101161805",
+    "place": "Michigan, US",
+    "date": "2021-01-24"
+   }
+  ],
   "female": [
+   {
+    "id": 3720238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3720238/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3720238/large.jpg",
+    "attribution": "(c) David Remsen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/3213251",
+    "place": "eel Pond, Woods Hole MA",
+    "date": "2016-05-19"
+   },
    {
     "id": 489312554,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/489312554/medium.jpg",
@@ -33,69 +74,79 @@
     "source": "https://www.inaturalist.org/observations/271995568",
     "place": "Saint-Hilaire-de-Riez, FR",
     "date": "2025-04-21"
+   },
+   {
+    "id": 471919548,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471919548/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471919548/large.jpeg",
+    "attribution": "(c) Micah Grove, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/262764274",
+    "place": "Coeur d'Alene, ID, USA",
+    "date": "2025-02-22"
    }
   ],
   "juvenile": [
    {
-    "id": 91081096,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91081096/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91081096/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57117633",
-    "place": "7680 Thyborøn, Dänemark",
-    "date": "2008-03-24"
+    "id": 688396465,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/688396465/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/688396465/large.jpg",
+    "attribution": "(c) M Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/375826584",
+    "place": "Saltee Island Great, Co. Wexford, Ireland",
+    "date": "2026-06-25"
    },
    {
-    "id": 330350179,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330350179/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330350179/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/188671800",
-    "place": "22100 Lanvallay, France",
-    "date": "2023-10-23"
+    "id": 2858780,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2858780/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2858780/large.jpg",
+    "attribution": "(c) Mark Rosenstein, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2565128",
+    "place": "Essex, Massachusetts, United States",
+    "date": "2016-01-08"
    },
    {
-    "id": 72712942,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72712942/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72712942/large.jpg",
-    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/45846193",
-    "place": "Boston Fish Pier, Boston, MA 02210, USA",
-    "date": "2017-07-01"
+    "id": 102878078,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102878078/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102878078/large.jpeg",
+    "attribution": "(c) Joe Bourget, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/64034877",
+    "place": "Race Point Beach",
+    "date": "2015-10-10"
    }
   ],
   "hero": {
-   "id": 118677944,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118677944/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118677944/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/118677944",
+   "id": 179379095,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179379095/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179379095/large.jpeg",
+   "attribution": "(c) Alex Shure, some rights reserved (CC BY-NC), uploaded by Alex Shure",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/179379095",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481172,
-  "dkTotal": 306960,
+  "dkTotal": 306968,
   "dkMonths": [
    33732,
    24544,
    27424,
    24480,
-   22965,
+   22969,
    20165,
-   25004,
+   25007,
    31037,
-   26821,
+   26822,
    27582,
    21870,
    20675
   ],
-  "worldTotal": 4768855,
+  "worldTotal": 4770288,
   "topCountries": [
    {
     "code": "US",
@@ -107,31 +158,31 @@
    },
    {
     "code": "NO",
-    "count": 472076
+    "count": 472901
    },
    {
     "code": "SE",
-    "count": 470871
+    "count": 471220
    },
    {
     "code": "GB",
-    "count": 462614
+    "count": 462622
    },
    {
     "code": "DK",
-    "count": 306960
+    "count": 306968
    },
    {
     "code": "FI",
-    "count": 71139
+    "count": 71142
    },
    {
     "code": "FR",
-    "count": 70383
+    "count": 70407
    },
    {
     "code": "NL",
-    "count": 67694
+    "count": 67822
    },
    {
     "code": "IE",
@@ -143,12 +194,10 @@
    },
    {
     "code": "BE",
-    "count": 44062
+    "count": 44063
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

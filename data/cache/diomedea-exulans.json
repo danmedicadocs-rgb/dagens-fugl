@@ -2,7 +2,7 @@
  "key": "diomedea-exulans",
  "name": "Diomedea exulans",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:18.499Z",
+ "fetchedAt": "2026-11-17T20:15:23.132Z",
  "names": {
   "da": "Vandrealbatros",
   "en": "Wandering Albatross",
@@ -19,82 +19,72 @@
  },
  "inat": {
   "id": 4117,
-  "observations": 1275
+  "observations": 1281
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 276622166,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276622166/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/160089618",
-    "place": "Isla Prión, SIQQ 1ZZ, Islas Georgias del Sur y Sandwich del Sur",
-    "date": "2017-11-01"
-   },
-   {
-    "id": 628162060,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628162060/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628162060/large.jpg",
-    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/344734933",
-    "place": "Île de la Possession, French Southern Territories, TF",
-    "date": "2023-11-06"
-   },
-   {
-    "id": 628179975,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628179975/large.jpg",
-    "attribution": "(c) eloise kerroux, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/344746401",
-    "place": "Grande Terre, TF",
-    "date": "2024-09-03"
+    "id": 266953846,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266953846/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266953846/large.jpg",
+    "attribution": "(c) Sam Gordon, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/154494882",
+    "place": null,
+    "date": "2017-05-14"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 229775488,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775488/large.jpg",
-    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/134771621",
-    "place": "Bay of Isles, South Georgia and the South Sandwich Islands",
-    "date": "2020-03-03"
+    "id": 345257053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345257053/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345257053/large.jpg",
+    "attribution": "(c) Michael G. Shepard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196030754",
+    "place": "Drake Passage",
+    "date": "2014-02-09"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 91529090,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91529090/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91529090/large.jpeg",
+    "attribution": "(c) pougeon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57387291",
+    "place": "Kerguelen, TF",
+    "date": "2016-11-30"
    },
    {
-    "id": 251370610,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370610/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251370610/large.jpeg",
-    "attribution": "(c) Brooke Smith, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146236084",
-    "place": "Prion Island, SIQQ 1ZZ, South Georgia and the South Sandwich Islands",
-    "date": "2022-12-06"
+    "id": 133657666,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133657666/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133657666/large.jpg",
+    "attribution": "(c) Alejandro Duvieilh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81484113",
+    "place": "Océano Atlántico, General Alvarado, Buenos Aires, AR",
+    "date": "2021-03-30"
    },
    {
-    "id": 229775460,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775460/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229775460/large.jpg",
-    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/134771619",
-    "place": "Bay of Isles, South Georgia and the South Sandwich Islands",
-    "date": "2020-03-03"
+    "id": 669367871,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669367871/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669367871/large.jpg",
+    "attribution": "(c) Chandler Patel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/363660115",
+    "place": null,
+    "date": "2025-06-14"
    }
   ],
   "hero": {
-   "id": 455287454,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/455287454/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/455287454/large.jpeg",
-   "attribution": "(c) eloise kerroux, some rights reserved (CC BY), uploaded by eloise kerroux",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/455287454",
+   "id": 220485,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220485/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220485/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/220485",
    "place": null,
    "date": null
   }
@@ -116,7 +106,7 @@
    0,
    0
   ],
-  "worldTotal": 172034,
+  "worldTotal": 172037,
   "topCountries": [
    {
     "code": "AU",
@@ -124,7 +114,7 @@
    },
    {
     "code": "AQ",
-    "count": 15164
+    "count": 15166
    },
    {
     "code": "GS",
@@ -168,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +172,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

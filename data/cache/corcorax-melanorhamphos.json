@@ -2,7 +2,7 @@
  "key": "corcorax-melanorhamphos",
  "name": "Corcorax melanorhamphos",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:50.197Z",
+ "fetchedAt": "2026-11-17T20:16:00.400Z",
  "names": {
   "da": "Hvidvinget Fløjteskade",
   "en": "White-winged chough",
@@ -19,62 +19,72 @@
  },
  "inat": {
   "id": 8658,
-  "observations": 6559
+  "observations": 6594
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 106368368,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106368368/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106368368/large.jpeg",
-    "attribution": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66034718",
-    "place": "Wategora Reserve along Duck River, Sydney, New South Wales",
-    "date": "2020-12-03"
+    "id": 140551043,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140551043/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140551043/large.jpg",
+    "attribution": "(c) Brian Rosenberg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/85424788",
+    "place": "Millthorpe NSW 2798, Australia",
+    "date": "2021-06-29"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 127957758,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127957758/large.jpg",
-    "attribution": "(c) Third Silence, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/78205833",
-    "place": "Australia",
-    "date": "2019-07-11"
+    "id": 755834831,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755834831/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755834831/large.jpg",
+    "attribution": "(c) Julie Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410914113",
+    "place": "Long Forest VIC 3340, Australia",
+    "date": "2024-09-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 295619861,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/295619861/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/295619861/large.jpg",
+    "attribution": "(c) jimchurches, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/170441226",
+    "place": "Majura, ACT 2609, Australia",
+    "date": "2022-10-15"
    },
    {
-    "id": 570893121,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/570893121/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/570893121/large.jpg",
-    "attribution": "(c) Vicki Archer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/315994246",
-    "place": "Khancoban NSW 2642, Australia",
-    "date": "2025-09-23"
+    "id": 277728176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/277728176/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/277728176/large.jpeg",
+    "attribution": "(c) Chris Jonkers, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160708467",
+    "place": "New South Wales, AU",
+    "date": "2017-10-21"
    },
    {
-    "id": 442134684,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442134684/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442134684/large.jpg",
-    "attribution": "(c) Martin Kalfatovic, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/247543171",
-    "place": "Canberra Central, ACT, Australia",
-    "date": "2024-10-15"
+    "id": 309250172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309250172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309250172/large.jpg",
+    "attribution": "(c) rogstanden, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177780550",
+    "place": "Wandown Nature Conservation Reserve, Victoria, Australia",
+    "date": "2005-11-18"
    }
   ],
   "hero": {
-   "id": 21036,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21036/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21036/large.jpg",
-   "attribution": "(c) Lip Kee Yap, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/21036",
+   "id": 21034,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21034/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21034/large.jpg",
+   "attribution": "(c) David Cook Wildlife Photography, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/21034",
    "place": null,
    "date": null
   }
@@ -112,8 +122,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -128,5 +136,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

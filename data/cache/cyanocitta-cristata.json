@@ -2,7 +2,7 @@
  "key": "cyanocitta-cristata",
  "name": "Cyanocitta cristata",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:42:09.300Z",
+ "fetchedAt": "2026-11-17T20:16:21.393Z",
  "names": {
   "da": "Blå Skovskade",
   "en": "Blue Jay",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 8229,
-  "observations": 212280
+  "observations": 212699
  },
  "photos": {
   "male": [
@@ -34,24 +34,24 @@
     "date": "2021-07-08"
    },
    {
-    "id": 541276756,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541276756/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541276756/large.jpg",
-    "attribution": "(c) Alexia Lorentz, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/300410233",
-    "place": "Zanesville, OH 43701, USA",
-    "date": "2025-07-23"
+    "id": 257131021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257131021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257131021/large.jpg",
+    "attribution": "(c) lauren w., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149237685",
+    "place": "Nebraska, US",
+    "date": "2023-02-20"
    },
    {
-    "id": 314395546,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314395546/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314395546/large.jpeg",
-    "attribution": "(c) Kelsey Champagne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/180484626",
-    "place": "Québec, CA",
-    "date": "2023-08-26"
+    "id": 46909333,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46909333/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46909333/large.jpg",
+    "attribution": "(c) Susan M Dozzler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30038333",
+    "place": "915 Jungle Dr, Duncanville, TX, US",
+    "date": "2019-08-01"
    }
   ],
   "female": [
@@ -66,27 +66,47 @@
     "date": "2025-12-29"
    },
    {
-    "id": 1824573,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1824573/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1824573/large.jpg",
-    "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/1471790",
-    "place": "Lochwood Neighborhood, Dallas, TX",
-    "date": "2015-05-09"
+    "id": 81046247,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81046247/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81046247/large.jpeg",
+    "attribution": "(c) felidaeee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/51022959",
+    "place": "Terre Haute, IN 47803, USA",
+    "date": "2020-02-28"
    },
    {
-    "id": 144864183,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144864183/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/144864183/large.jpeg",
-    "attribution": "(c) sarah1862, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/87837312",
-    "place": "Buckner Terrace / Everglade Park, Dallas, TX, USA",
-    "date": "2021-06-18"
+    "id": 663309312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/663309312/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/663309312/large.jpg",
+    "attribution": "(c) noname, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/363381573",
+    "place": "4923 Airport/50th, Austin, TX 78751, USA",
+    "date": "2026-05-20"
    }
   ],
   "juvenile": [
+   {
+    "id": 208102398,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208102398/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208102398/large.jpeg",
+    "attribution": "(c) Rebecca Louise Goddammit, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/122880687",
+    "place": "Bouldin Creek, Austin, TX 78704, USA",
+    "date": "2021-04-07"
+   },
+   {
+    "id": 40131272,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40131272/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40131272/large.jpg",
+    "attribution": "(c) biophiliagram, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25877126",
+    "place": "New Jersey, US",
+    "date": "2019-05-26"
+   },
    {
     "id": 517281614,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517281614/medium.jpg",
@@ -96,26 +116,6 @@
     "source": "https://www.inaturalist.org/observations/287685988",
     "place": "Brooklyn, NY, USA",
     "date": "2025-06-07"
-   },
-   {
-    "id": 215650488,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215650488/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215650488/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/127051774",
-    "place": "Newport, MN, USA",
-    "date": "2022-07-06"
-   },
-   {
-    "id": 201356381,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201356381/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201356381/large.jpeg",
-    "attribution": "(c) Mila C., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/119134805",
-    "place": "Northwest Philadelphia, Philadelphia, PA, USA",
-    "date": "2022-05-28"
    }
   ],
   "hero": {
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song, pumphandle call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

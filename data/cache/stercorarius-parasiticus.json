@@ -2,7 +2,7 @@
  "key": "stercorarius-parasiticus",
  "name": "Stercorarius parasiticus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:04.115Z",
+ "fetchedAt": "2026-11-17T19:44:38.565Z",
  "names": {
   "da": "Almindelig kjove",
   "en": "Parasitic Jaeger",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4489,
-  "observations": 7946
+  "observations": 7959
  },
  "photos": {
   "male": [],
@@ -47,40 +47,40 @@
     "date": "2025-11-23"
    },
    {
-    "id": 757995021,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/757995021/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/757995021/large.jpg",
-    "attribution": "(c) James Heal, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/411991092",
-    "place": "Rainham, UK",
-    "date": "2026-10-31"
+    "id": 26682428,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26682428/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26682428/large.jpg",
+    "attribution": "(c) Dawn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/17530117",
+    "place": "North Slope, AK, USA",
+    "date": "2018-07-14"
    },
    {
-    "id": 431909718,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431909718/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431909718/large.jpeg",
-    "attribution": "(c) er-birds, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242281197",
-    "place": null,
-    "date": "2024-09-08"
+    "id": 52498803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52498803/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52498803/large.jpeg",
+    "attribution": "(c) ziervogl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33425921",
+    "place": "Amstetten, Österreich",
+    "date": "2019-09-05"
    }
   ],
   "hero": {
-   "id": 47366128,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47366128/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47366128/large.jpg",
-   "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/30323167",
-   "place": "Лоухский р-н, Респ. Карелия, Россия",
-   "date": "2019-07-17"
+   "id": 247492,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247492/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247492/large.jpg",
+   "attribution": "(c) Mark Rosenstein, some rights reserved (CC BY-NC), uploaded by Mark Rosenstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/247492",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481621,
-  "dkTotal": 54024,
+  "dkTotal": 54027,
   "dkMonths": [
    13,
    5,
@@ -88,18 +88,18 @@
    5067,
    8286,
    1649,
-   4455,
+   4457,
    12381,
-   16066,
+   16067,
    5792,
    103,
    32
   ],
-  "worldTotal": 468474,
+  "worldTotal": 468502,
   "topCountries": [
    {
     "code": "SE",
-    "count": 96160
+    "count": 96164
    },
    {
     "code": "US",
@@ -107,11 +107,11 @@
    },
    {
     "code": "DK",
-    "count": 54024
+    "count": 54027
    },
    {
     "code": "NO",
-    "count": 45078
+    "count": 45088
    },
    {
     "code": "GB",
@@ -127,15 +127,15 @@
    },
    {
     "code": "FI",
-    "count": 12268
+    "count": 12272
    },
    {
     "code": "SJ",
-    "count": 12188
+    "count": 12190
    },
    {
     "code": "NL",
-    "count": 9908
+    "count": 9913
    },
    {
     "code": "AU",
@@ -147,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +161,7 @@
   "type": "call, flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

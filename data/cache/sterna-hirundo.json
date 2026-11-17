@@ -2,7 +2,7 @@
  "key": "sterna-hirundo",
  "name": "Sterna hirundo",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:52.044Z",
+ "fetchedAt": "2026-11-17T19:46:35.322Z",
  "names": {
   "da": "Fjordterne",
   "en": "Common Tern",
@@ -19,11 +19,73 @@
  },
  "inat": {
   "id": 4450,
-  "observations": 72264
+  "observations": 72366
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 582475875,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582475875/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582475875/large.jpg",
+    "attribution": "(c) Ксения Соварцева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/322026483",
+    "place": "Одинцовский городской округ, Московская обл., Россия",
+    "date": "2025-05-16"
+   },
+   {
+    "id": 282472130,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282472130/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282472130/large.jpg",
+    "attribution": "(c) janvano1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/163324901",
+    "place": "9131 Ie, Nederland",
+    "date": "2023-05-12"
+   },
+   {
+    "id": 537973779,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537973779/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537973779/large.jpg",
+    "attribution": "(c) Михаил Рыбкин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/298648029",
+    "place": "Ivanovo, RU",
+    "date": "2025-07-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 362990260,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362990260/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362990260/large.jpg",
+    "attribution": "(c) Ben Ackerley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/205299396",
+    "place": "Sefton, New Zealand",
+    "date": "2024-03-16"
+   },
+   {
+    "id": 171310697,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171310697/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171310697/large.jpg",
+    "attribution": "(c) Alain Maire, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102476101",
+    "place": "Québec, Canada",
+    "date": "2010-05-31"
+   },
+   {
+    "id": 353136479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353136479/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353136479/large.jpg",
+    "attribution": "(c) Ксения Соварцева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200196277",
+    "place": "Одинцовский р-н, Московская обл., Россия",
+    "date": "2019-05-13"
+   }
+  ],
   "juvenile": [
    {
     "id": 22243644,
@@ -36,56 +98,24 @@
     "date": "2018-07-22"
    },
    {
-    "id": 22247771,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22247771/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22247771/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/14904845",
-    "place": "Suffolk County, NY, USA",
-    "date": "2018-07-26"
+    "id": 595323061,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595323061/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595323061/large.jpg",
+    "attribution": "(c) Michael Friedman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328522410",
+    "place": "Nickerson Beach Park, 880 Lido Blvd, Lido Beach, NY 11561, USA",
+    "date": "2025-06-29"
    },
    {
-    "id": 712636064,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712636064/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712636064/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/389075453",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2026-08-07"
-   }
-  ],
-  "adult": [
-   {
-    "id": 172940581,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172940581/large.jpeg",
-    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103345873",
-    "place": "Tivaouane, Senegal",
-    "date": "2016-04-18"
-   },
-   {
-    "id": 533458379,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533458379/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533458379/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2599993",
-    "place": "New Jersey, United States",
-    "date": "2015-07-08"
-   },
-   {
-    "id": 177944085,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177944085/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177944085/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/105980261",
-    "place": "Glentana, Groot Brakrivier, 6525, South Africa",
-    "date": "2020-02-01"
+    "id": 262724909,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262724909/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262724909/large.jpg",
+    "attribution": "(c) Юлия Урюпина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152155827",
+    "place": "Поселение Московский, Москва, Москва, RU",
+    "date": "2022-07-06"
    }
   ],
   "hero": {
@@ -101,22 +131,22 @@
  },
  "gbif": {
   "key": 9367409,
-  "dkTotal": 133552,
+  "dkTotal": 133562,
   "dkMonths": [
    28,
    1,
    29,
    10668,
-   27463,
+   27467,
    17211,
-   30379,
-   32683,
-   13527,
+   30383,
+   32684,
+   13528,
    1303,
    67,
    10
   ],
-  "worldTotal": 2997043,
+  "worldTotal": 3004781,
   "topCountries": [
    {
     "code": "US",
@@ -124,11 +154,11 @@
    },
    {
     "code": "SE",
-    "count": 486922
+    "count": 486989
    },
    {
     "code": "NL",
-    "count": 310214
+    "count": 310305
    },
    {
     "code": "CA",
@@ -136,23 +166,23 @@
    },
    {
     "code": "FI",
-    "count": 218283
+    "count": 218287
    },
    {
     "code": "GB",
-    "count": 205742
+    "count": 205745
    },
    {
     "code": "DK",
-    "count": 133552
+    "count": 133562
    },
    {
     "code": "NO",
-    "count": 118042
+    "count": 118672
    },
    {
     "code": "FR",
-    "count": 109025
+    "count": 109044
    },
    {
     "code": "BE",
@@ -160,7 +190,7 @@
    },
    {
     "code": "ES",
-    "count": 47555
+    "count": 47560
    },
    {
     "code": "ZA",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

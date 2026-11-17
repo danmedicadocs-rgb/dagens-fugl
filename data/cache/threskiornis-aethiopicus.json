@@ -2,7 +2,7 @@
  "key": "threskiornis-aethiopicus",
  "name": "Threskiornis aethiopicus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:34:48.133Z",
+ "fetchedAt": "2026-11-17T20:08:48.219Z",
  "names": {
   "da": "Hellig ibis",
   "en": "African Sacred Ibis",
@@ -19,84 +19,83 @@
  },
  "inat": {
   "id": 3739,
-  "observations": 17326
+  "observations": 17365
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 317902060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317902060/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317902060/large.jpg",
+    "attribution": "(c) Deb Peak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/182339607",
+    "place": "Kajiado Central, Kajiado, Kajiado, KE",
+    "date": "2023-08-25"
+   },
+   {
+    "id": 644807841,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/644807841/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/644807841/large.jpg",
+    "attribution": "(c) Keith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/353384670",
+    "place": "Parow, Cape Town, 7499, South Africa",
+    "date": "2026-04-25"
+   },
+   {
+    "id": 146787175,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146787175/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146787175/large.jpg",
+    "attribution": "(c) David Morris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/88924525",
+    "place": "Grassy Park, Cape Town, 7941, South Africa",
+    "date": "2017-09-20"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 65619807,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65619807/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65619807/large.jpg",
-    "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/41367400",
-    "place": "Harare, Zimbabwe",
-    "date": "2020-04-04"
+    "id": 169905173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169905173/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/169905173/large.jpeg",
+    "attribution": "(c) Gigi Laidler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101722742",
+    "place": "Velddrif, 7365, South Africa",
+    "date": "2021-09-18"
    },
    {
-    "id": 723558011,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723558011/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723558011/large.jpg",
-    "attribution": "(c) Marco Mussita, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/394666272",
-    "place": "Province of Pavia, Italy",
-    "date": "2026-08-26"
+    "id": 721408537,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/721408537/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/721408537/large.jpg",
+    "attribution": "(c) Willemijn Heijster, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/393576399",
+    "place": "Pavia, Lombardia, IT",
+    "date": "2026-08-19"
    },
    {
-    "id": 636196053,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/636196053/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/636196053/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/348801819",
-    "place": "Near Barkly East, South Africa",
-    "date": "2026-03-28"
-   }
-  ],
-  "adult": [
-   {
-    "id": 106573526,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106573526/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106573526/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/66148679",
-    "place": "Humansdorp District, South Africa",
-    "date": "2020-12-04"
-   },
-   {
-    "id": 312252208,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312252208/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312252208/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/179384247",
-    "place": "Namakwa, Northern Cape, South Africa",
-    "date": "2023-08-19"
-   },
-   {
-    "id": 597254766,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597254766/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597254766/large.jpg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/329482922",
-    "place": "Klein Brak River, 6503, South Africa",
-    "date": "2025-12-04"
+    "id": 559343254,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559343254/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559343254/large.jpg",
+    "attribution": "(c) MSTour, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309948876",
+    "place": "Waterval 211-Iq, Randburg, South Africa",
+    "date": "2025-08-29"
    }
   ],
   "hero": {
-   "id": 106573526,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/106573526/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/106573526/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/66148679",
-   "place": "Humansdorp District, South Africa",
-   "date": "2020-12-04"
+   "id": 385585788,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385585788/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385585788/large.jpeg",
+   "attribution": "(c) CI Jay, some rights reserved (CC BY-NC), uploaded by CI Jay",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/385585788",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,11 +115,11 @@
    5,
    66
   ],
-  "worldTotal": 439132,
+  "worldTotal": 439164,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 267081
+    "count": 267089
    },
    {
     "code": "TW",
@@ -128,15 +127,15 @@
    },
    {
     "code": "KE",
-    "count": 34268
+    "count": 34274
    },
    {
     "code": "IT",
-    "count": 24048
+    "count": 24057
    },
    {
     "code": "TZ",
-    "count": 9423
+    "count": 9424
    },
    {
     "code": "FR",
@@ -144,7 +143,7 @@
    },
    {
     "code": "BW",
-    "count": 7305
+    "count": 7306
    },
    {
     "code": "ZW",
@@ -168,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

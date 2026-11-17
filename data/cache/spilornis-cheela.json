@@ -2,7 +2,7 @@
  "key": "spilornis-cheela",
  "name": "Spilornis cheela",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:07.635Z",
+ "fetchedAt": "2026-11-17T20:12:04.029Z",
  "names": {
   "da": "Toppet Slangeørn",
   "en": "Crested Serpent Eagle",
@@ -19,11 +19,42 @@
  },
  "inat": {
   "id": 5158,
-  "observations": 16618
+  "observations": 16684
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 591205603,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591205603/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591205603/large.jpg",
+    "attribution": "(c) priyanshu_chowdhary, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/326431566",
+    "place": "Sariska Tiger Reserve",
+    "date": "2025-11-14"
+   },
+   {
+    "id": 527390463,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527390463/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527390463/large.jpg",
+    "attribution": "(c) Navneel Neeraj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293031598",
+    "place": "FJRW+JHH, Palia Kalan, Uttar Pradesh 262902, India",
+    "date": "2024-01-05"
+   }
+  ],
   "female": [
+   {
+    "id": 632748466,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/632748466/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/632748466/large.jpg",
+    "attribution": "(c) Manu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/347065599",
+    "place": "Parsili, Madhya Pradesh 486666, India",
+    "date": "2026-04-03"
+   },
    {
     "id": 59895241,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/medium.jpg",
@@ -37,45 +68,45 @@
   ],
   "juvenile": [
    {
-    "id": 33729244,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33729244/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33729244/large.jpg",
-    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/21776515",
-    "place": "台灣彰化縣芬園鄉芬園",
-    "date": "2019-03-30"
+    "id": 153859725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153859725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153859725/large.jpg",
+    "attribution": "(c) Dishara Ranasinghe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/92881418",
+    "place": "Polonnaruwa, Sri Lanka",
+    "date": "2018-08-25"
    },
    {
-    "id": 32122189,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32122189/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32122189/large.jpg",
-    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/20825389",
-    "place": "台灣彰化縣",
-    "date": "2019-02-21"
+    "id": 761907560,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761907560/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/761907560/large.jpg",
+    "attribution": "(c) jeffyimmanuel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413925228",
+    "place": "Bawean Island. Sangkapura District, Gresik Regency, East Java, Indonesia",
+    "date": "2026-11-10"
    },
    {
-    "id": 61312360,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61312360/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61312360/large.jpg",
-    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/38566275",
-    "place": "台灣彰化縣",
-    "date": "2020-02-12"
+    "id": 311810813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311810813/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311810813/large.jpeg",
+    "attribution": "(c) Davide Diana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179124685",
+    "place": "Sandakan, Sabah, Malesia",
+    "date": "2023-08-18"
    }
   ],
   "hero": {
-   "id": 59895241,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59895241/large.jpg",
-   "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/37742755",
-   "place": "台灣彰化縣",
-   "date": "2020-01-18"
+   "id": 10099169,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10099169/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10099169/large.jpg",
+   "attribution": "(c) Saurabh Agrawal, some rights reserved (CC BY-NC), uploaded by Saurabh Agrawal",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/10099169",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,7 +126,7 @@
    0,
    0
   ],
-  "worldTotal": 313773,
+  "worldTotal": 313776,
   "topCountries": [
    {
     "code": "TW",
@@ -103,11 +134,11 @@
    },
    {
     "code": "IN",
-    "count": 113476
+    "count": 113477
    },
    {
     "code": "MY",
-    "count": 21800
+    "count": 21802
    },
    {
     "code": "LK",
@@ -147,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +192,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

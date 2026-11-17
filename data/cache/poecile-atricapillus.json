@@ -2,7 +2,7 @@
  "key": "poecile-atricapillus",
  "name": "Poecile atricapillus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:26.786Z",
+ "fetchedAt": "2026-11-17T20:17:52.924Z",
  "names": {
   "da": "Amerikansk Fyrremejse",
   "en": "Black-capped Chickadee",
@@ -19,64 +19,94 @@
  },
  "inat": {
   "id": 144815,
-  "observations": 171929
+  "observations": 172315
  },
  "photos": {
   "male": [
    {
-    "id": 462624139,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462624139/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462624139/large.jpeg",
-    "attribution": "(c) Indio Brown, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257884873",
-    "place": "Durango, CO, USA",
-    "date": "2025-01-08"
+    "id": 206465836,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206465836/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/206465836/large.jpeg",
+    "attribution": "(c) Jeremy Gatten, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/121974170",
+    "place": "Cowichan Valley, BC, Canada",
+    "date": "2022-06-11"
    },
    {
-    "id": 452602512,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452602512/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452602512/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/252812078",
-    "place": "Platteville, WI 53818, USA",
-    "date": "2024-11-23"
+    "id": 180498562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180498562/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180498562/large.jpeg",
+    "attribution": "(c) joe dziewa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107332877",
+    "place": "New York, US",
+    "date": "2022-02-23"
    },
    {
-    "id": 231351275,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231351275/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231351275/large.jpg",
-    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/135625820",
-    "place": "Regina, SK, Canada",
-    "date": "2022-09-18"
+    "id": 334032524,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334032524/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334032524/large.jpeg",
+    "attribution": "(c) joe dziewa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190530704",
+    "place": "New York, US",
+    "date": "2023-11-09"
    }
   ],
   "female": [
    {
-    "id": 488993075,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488993075/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488993075/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/271830328",
-    "place": "North Central Edmonton, Edmonton, AB, Canada",
-    "date": "2025-04-20"
+    "id": 641177829,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/641177829/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/641177829/large.jpg",
+    "attribution": "(c) Mike Leveille, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/351359841",
+    "place": "District de Hull, Gatineau, QC, Canada",
+    "date": "2026-04-19"
    },
    {
-    "id": 631783863,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/631783863/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/631783863/large.jpg",
-    "attribution": "(c) deefinder200 - Adam, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/346577942",
-    "place": "Madison, WI 53719, USA",
-    "date": "2026-04-01"
+    "id": 280780197,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280780197/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280780197/large.jpg",
+    "attribution": "(c) joe dziewa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162389217",
+    "place": "New York, US",
+    "date": "2023-05-17"
+   },
+   {
+    "id": 263927012,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263927012/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263927012/large.jpeg",
+    "attribution": "(c) joe dziewa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152857222",
+    "place": "New York, US",
+    "date": "2016-06-18"
    }
   ],
   "juvenile": [
+   {
+    "id": 136197722,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136197722/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136197722/large.jpeg",
+    "attribution": "(c) tantor, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/82954735",
+    "place": "Lower Avenues, Salt Lake City, UT, USA",
+    "date": "2021-06-10"
+   },
+   {
+    "id": 305566304,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305566304/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305566304/large.jpeg",
+    "attribution": "(c) Cynthia Beaulieu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175805816",
+    "place": "Madawaska, CA-NB, CA",
+    "date": "2023-07-30"
+   },
    {
     "id": 548216148,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/548216148/medium.jpg",
@@ -86,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/304121204",
     "place": "Madison, WI 53719, USA",
     "date": "2025-08-05"
-   },
-   {
-    "id": 288726737,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288726737/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288726737/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/166715645",
-    "place": "Greater Vancouver, CA-BC, CA",
-    "date": "2023-06-10"
-   },
-   {
-    "id": 207503613,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207503613/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207503613/large.jpeg",
-    "attribution": "(c) sprcrkwild, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/122553543",
-    "place": "Licton Springs, Seattle, WA, USA",
-    "date": "2022-06-19"
    }
   ],
   "hero": {
-   "id": 155785914,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155785914/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155785914/large.jpg",
-   "attribution": "(c) Blake Ross, some rights reserved (CC BY), uploaded by Blake Ross",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/155785914",
+   "id": 178279576,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/large.jpg",
+   "attribution": "(c) Kent Ross, some rights reserved (CC BY-NC), uploaded by Kent Ross",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/178279576",
    "place": null,
    "date": null
   }
@@ -136,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 18603589,
+  "worldTotal": 18603588,
   "topCountries": [
    {
     "code": "US",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "alarm call, call, song, gurgle song, various calls",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

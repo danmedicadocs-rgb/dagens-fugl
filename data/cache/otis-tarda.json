@@ -2,7 +2,7 @@
  "key": "otis-tarda",
  "name": "Otis tarda",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:29:55.731Z",
+ "fetchedAt": "2026-11-17T20:03:39.750Z",
  "names": {
   "da": "Stortrappe",
   "en": "Great Bustard",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 77,
-  "observations": 3793
+  "observations": 3799
  },
  "photos": {
   "male": [
+   {
+    "id": 456190343,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456190343/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456190343/large.jpeg",
+    "attribution": "(c) Jakob Neuenschwander, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/254660501",
+    "place": "Potsdam-Mittelmark, DE-BR, DE",
+    "date": "2023-04-30"
+   },
    {
     "id": 181119858,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181119858/medium.jpeg",
@@ -34,27 +44,27 @@
     "date": "2022-02-28"
    },
    {
-    "id": 364409518,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/364409518/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/364409518/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/206052711",
-    "place": null,
-    "date": "2024-03-30"
-   },
-   {
-    "id": 290359525,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290359525/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290359525/large.jpg",
-    "attribution": "(c) Nuno Fialho, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/167609903",
-    "place": "Beja, PT",
-    "date": "2023-06-12"
+    "id": 188274570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188274570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188274570/large.jpg",
+    "attribution": "(c) petrahallbauer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/111522985",
+    "place": "Brandenburg, DE",
+    "date": "2022-04-14"
    }
   ],
   "female": [
+   {
+    "id": 638506193,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/638506193/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/638506193/large.jpg",
+    "attribution": "(c) doug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/349981277",
+    "place": "Wiltshire, England, GB",
+    "date": "2026-04-15"
+   },
    {
     "id": 274912525,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/274912525/medium.jpeg",
@@ -74,26 +84,27 @@
     "source": "https://www.inaturalist.org/observations/167609901",
     "place": "Beja, PT",
     "date": "2023-06-12"
-   },
-   {
-    "id": 56097029,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56097029/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56097029/large.jpg",
-    "attribution": "(c) Mike Kerry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/35567788",
-    "place": "England, GB",
-    "date": "2019-11-11"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 416148698,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/416148698/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/416148698/large.jpeg",
+    "attribution": "(c) ildikorab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/234114354",
+    "place": "Hungary",
+    "date": "2024-08-06"
+   }
+  ],
   "hero": {
-   "id": 529750298,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529750298/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529750298/large.jpg",
-   "attribution": "(c) Luiz Lapa, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/529750298",
+   "id": 102883570,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102883570/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102883570/large.jpg",
+   "attribution": "(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/102883570",
    "place": null,
    "date": null
   }
@@ -115,11 +126,11 @@
    0,
    0
   ],
-  "worldTotal": 64500,
+  "worldTotal": 64525,
   "topCountries": [
    {
     "code": "ES",
-    "count": 43861
+    "count": 43867
    },
    {
     "code": "PT",
@@ -127,11 +138,11 @@
    },
    {
     "code": "DE",
-    "count": 3072
+    "count": 3083
    },
    {
     "code": "NL",
-    "count": 2428
+    "count": 2430
    },
    {
     "code": "HU",
@@ -139,11 +150,11 @@
    },
    {
     "code": "UA",
-    "count": 1439
+    "count": 1443
    },
    {
     "code": "AT",
-    "count": 1085
+    "count": 1086
    },
    {
     "code": "CN",
@@ -167,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +192,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "cyanocitta-stelleri",
  "name": "Cyanocitta stelleri",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:42:13.608Z",
+ "fetchedAt": "2026-11-17T20:16:26.600Z",
  "names": {
   "da": "Fyrreskade",
   "en": "Steller's Jay",
@@ -19,92 +19,112 @@
  },
  "inat": {
   "id": 8234,
-  "observations": 66107
+  "observations": 66257
  },
  "photos": {
   "male": [
    {
-    "id": 33401112,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33401112/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33401112/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/21578886",
-    "place": "San Francisco Golf Club, San Francisco, CA, US",
-    "date": "2019-03-24"
+    "id": 743462634,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743462634/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743462634/large.jpg",
+    "attribution": "(c) Jeffery, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/404815126",
+    "place": "Payson, UT, USA",
+    "date": "2026-09-30"
    },
    {
-    "id": 27803211,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27803211/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27803211/large.jpg",
-    "attribution": "(c) CK2AZ, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/18191665",
-    "place": "Lincoln National Forest, Cloudcroft, NM, US",
-    "date": "2018-11-06"
+    "id": 434827483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434827483/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434827483/large.jpeg",
+    "attribution": "(c) Cornelio Chablé, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243823784",
+    "place": "Sololá, Guatemala",
+    "date": "2024-09-19"
    },
    {
-    "id": 490037166,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490037166/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490037166/large.jpeg",
-    "attribution": "(c) Christina Nguyen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/272380387",
-    "place": "Port Renfrew, BC V0S 1K0, Canada",
-    "date": "2025-04-21"
+    "id": 434827720,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434827720/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434827720/large.jpeg",
+    "attribution": "(c) Cornelio Chablé, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243823791",
+    "place": "Sololá, Guatemala",
+    "date": "2024-09-19"
    }
   ],
   "female": [
    {
-    "id": 42162762,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42162762/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42162762/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/27121500",
-    "place": "Alum Rock Park, San Jose, CA, USA",
-    "date": "2019-06-16"
+    "id": 133185065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133185065/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133185065/large.jpeg",
+    "attribution": "(c) Dave Manley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81213474",
+    "place": "Penngrove, CA, USA",
+    "date": "2021-06-01"
+   },
+   {
+    "id": 519366945,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519366945/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/519366945/large.jpg",
+    "attribution": "(c) YourHollyness, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/288785861",
+    "place": "Fall City, WA 98024, USA",
+    "date": "2025-06-10"
+   },
+   {
+    "id": 2300535,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2300535/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2300535/large.JPG",
+    "attribution": "(c) R.J. Adams, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1886896",
+    "place": "Aromas, Monterey Co., California",
+    "date": "2015-08-23"
    }
   ],
   "juvenile": [
    {
-    "id": 211025006,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211025006/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211025006/large.jpg",
-    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124497408",
-    "place": "Sunshine Valley Rd, Moss Beach, CA, US",
-    "date": "2022-07-02"
+    "id": 176971659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176971659/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176971659/large.jpeg",
+    "attribution": "(c) Tayler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105470609",
+    "place": "Haller Lake, Seattle, WA, USA",
+    "date": "2021-04-30"
    },
    {
-    "id": 213040148,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213040148/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213040148/large.jpg",
-    "attribution": "(c) Nancy Overholtz, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/125616065",
-    "place": "Inyo County, CA, USA",
-    "date": "2022-07-08"
+    "id": 10154298,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10154298/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10154298/large.jpeg",
+    "attribution": "(c) kmcglothen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/7737544",
+    "place": "Kenai Peninsula County, US-AK, US",
+    "date": "2016-06-27"
    },
    {
-    "id": 298680164,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/298680164/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/298680164/large.jpeg",
-    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/172083600",
-    "place": "Moss Beach, CA, USA",
-    "date": "2023-07-09"
+    "id": 534259913,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/534259913/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/534259913/large.jpg",
+    "attribution": "(c) song_dog, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/296693194",
+    "place": "King County, US-WA, US",
+    "date": "2025-07-08"
    }
   ],
   "hero": {
-   "id": 42731844,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42731844/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42731844/large.jpeg",
-   "attribution": "no rights reserved, uploaded by Zoltán Stekkelpak",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/42731844",
+   "id": 462234787,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462234787/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462234787/large.jpg",
+   "attribution": "(c) Atlee Hargis, some rights reserved (CC BY-NC), uploaded by Atlee Hargis",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/462234787",
    "place": null,
    "date": null
   }
@@ -126,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 2634496,
+  "worldTotal": 2634502,
   "topCountries": [
    {
     "code": "US",
@@ -138,7 +158,7 @@
    },
    {
     "code": "MX",
-    "count": 18297
+    "count": 18303
    },
    {
     "code": "GT",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

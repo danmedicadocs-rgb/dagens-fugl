@@ -2,7 +2,7 @@
  "key": "jabiru-mycteria",
  "name": "Jabiru mycteria",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:48:57.263Z",
+ "fetchedAt": "2026-11-17T20:24:33.992Z",
  "names": {
   "da": "Jabiru",
   "en": "Jabiru",
@@ -19,61 +19,81 @@
  },
  "inat": {
   "id": 4773,
-  "observations": 5317
+  "observations": 5329
  },
  "photos": {
   "male": [
    {
-    "id": 112882473,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112882473/large.jpeg",
-    "attribution": "(c) Vincent A. Vos, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69555689",
-    "place": "Vaca Diez, Bolivia",
-    "date": "2021-02-13"
+    "id": 434044243,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434044243/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434044243/large.jpeg",
+    "attribution": "(c) Cornelio Chablé, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243418934",
+    "place": "Livingston, Guatemala",
+    "date": "2024-09-16"
+   },
+   {
+    "id": 582086169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582086169/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582086169/large.jpg",
+    "attribution": "(c) Cornelio Chablé, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321830292",
+    "place": "San Andres, Guatemala",
+    "date": "2025-10-05"
+   },
+   {
+    "id": 279447800,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279447800/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279447800/large.jpeg",
+    "attribution": "(c) jackestive, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161662718",
+    "place": "Ribeirão Preto, SP, Brasil",
+    "date": "2023-05-13"
    }
   ],
   "female": [],
   "juvenile": [
    {
-    "id": 490939472,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490939472/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490939472/large.jpeg",
-    "attribution": "(c) EDMILSON FERNANDO JARQUIN LOPEZ, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/272882197",
-    "place": "San Carlos, Nicaragua",
-    "date": "2025-03-01"
+    "id": 10091915,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10091915/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10091915/large.jpg",
+    "attribution": "(c) Julio Acosta Naturalist Guide El Salvador, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/7699335",
+    "place": "Jujutla, El Salvador",
+    "date": "2017-07-26"
    },
    {
-    "id": 462927886,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462927886/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462927886/large.jpeg",
-    "attribution": "(c) Miguel A. Paixão, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/258051450",
-    "place": "Miranda - MS, 79380-000, Brasil",
-    "date": "2025-01-07"
+    "id": 277985877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/277985877/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/277985877/large.jpeg",
+    "attribution": "(c) Kathleen Dobson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160851541",
+    "place": "Belize District, Belize",
+    "date": "2023-05-05"
    },
    {
-    "id": 279854547,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/279854547/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/279854547/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/161885239",
-    "place": "Ituzaingó, Corrientes, Argentina",
-    "date": "2014-12-27"
+    "id": 239065057,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239065057/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239065057/large.jpeg",
+    "attribution": "(c) isabellafigueira, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139737916",
+    "place": "Itaúba - MT, Brasil",
+    "date": "2022-10-22"
    }
   ],
   "hero": {
-   "id": 263745861,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263745861/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263745861/large.jpg",
-   "attribution": "(c) Alastair Rae, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/263745861",
+   "id": 215472273,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/215472273/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/215472273/large.jpg",
+   "attribution": "(c) Robin Gwen Agarwal, some rights reserved (CC BY-NC), uploaded by Robin Gwen Agarwal",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/215472273",
    "place": null,
    "date": null
   }
@@ -95,11 +115,11 @@
    0,
    0
   ],
-  "worldTotal": 49008,
+  "worldTotal": 49014,
   "topCountries": [
    {
     "code": "BR",
-    "count": 19188
+    "count": 19194
    },
    {
     "code": "CR",
@@ -147,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +181,7 @@
   "type": "wing sound",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

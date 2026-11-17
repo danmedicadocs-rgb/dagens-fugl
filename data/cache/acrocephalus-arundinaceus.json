@@ -2,7 +2,7 @@
  "key": "acrocephalus-arundinaceus",
  "name": "Acrocephalus arundinaceus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:16.013Z",
+ "fetchedAt": "2026-11-17T19:55:18.667Z",
  "names": {
   "da": "Drosselrørsanger",
   "en": "Great Reed Warbler",
@@ -19,62 +19,83 @@
  },
  "inat": {
   "id": 204456,
-  "observations": 11098
+  "observations": 11112
  },
  "photos": {
   "male": [
    {
-    "id": 127738402,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127738402/large.jpeg",
-    "attribution": "(c) xulescu_g, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/78080753",
-    "place": "Ghimbav, Rumänien",
-    "date": "2021-05-09"
+    "id": 209325020,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209325020/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209325020/large.jpg",
+    "attribution": "(c) Mikhail Ezdakov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/123557871",
+    "place": "Западный административный округ, Москва, Россия",
+    "date": "2022-06-26"
    },
    {
-    "id": 511900150,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511900150/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/511900150/large.jpg",
-    "attribution": "(c) oskar0710, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/284814774",
-    "place": "Silesian, PL",
-    "date": "2025-05-28"
+    "id": 661536931,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/661536931/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/661536931/large.jpg",
+    "attribution": "(c) Dawid Wojtachnio, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362453522",
+    "place": "Powiat poznański, Polska",
+    "date": "2026-05-17"
    },
    {
-    "id": 70315346,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70315346/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70315346/large.jpeg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/44349980",
-    "place": "Favoriten, 1100 Wien, Österreich",
-    "date": "2020-04-26"
+    "id": 518851951,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518851951/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518851951/large.jpg",
+    "attribution": "(c) Yelena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/288518331",
+    "place": "Каякентский р-н, Респ. Дагестан, Россия",
+    "date": "2025-05-08"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 407795417,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407795417/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407795417/large.jpg",
+    "attribution": "(c) s_nowosad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229718140",
+    "place": "Rybaki, 87-100 Toruń, Polska",
+    "date": "2024-07-15"
+   }
+  ],
   "juvenile": [
    {
-    "id": 147251294,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147251294/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/147251294/large.jpg",
-    "attribution": "(c) Attila Oláh, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/89185404",
-    "place": "North Bačka District, Serbia",
-    "date": "2021-07-30"
+    "id": 100511473,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100511473/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/100511473/large.jpeg",
+    "attribution": "(c) gaborz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/62703732",
+    "place": "Debrecen, Magyarország",
+    "date": "2016-06-07"
    },
    {
-    "id": 700095338,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700095338/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700095338/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/382553726",
-    "place": "Iernut, Maros, RO",
-    "date": "2026-07-18"
+    "id": 710795494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710795494/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710795494/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388118695",
+    "place": "Feldioara, Romania",
+    "date": "2026-07-26"
+   },
+   {
+    "id": 345717775,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345717775/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345717775/large.jpeg",
+    "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196377201",
+    "place": "West Macedonia Region, Greece",
+    "date": "2023-07-21"
    }
   ],
   "hero": {
@@ -105,23 +126,27 @@
    0,
    1
   ],
-  "worldTotal": 448889,
+  "worldTotal": 480453,
   "topCountries": [
    {
     "code": "ES",
-    "count": 105178
+    "count": 105183
    },
    {
     "code": "SE",
-    "count": 66502
+    "count": 66506
    },
    {
     "code": "FR",
-    "count": 41631
+    "count": 41679
    },
    {
     "code": "PL",
-    "count": 40275
+    "count": 40278
+   },
+   {
+    "code": "CH",
+    "count": 34569
    },
    {
     "code": "NL",
@@ -129,7 +154,7 @@
    },
    {
     "code": "DE",
-    "count": 20310
+    "count": 20669
    },
    {
     "code": "IL",
@@ -137,7 +162,7 @@
    },
    {
     "code": "UA",
-    "count": 9461
+    "count": 9470
    },
    {
     "code": "TR",
@@ -145,20 +170,14 @@
    },
    {
     "code": "CZ",
-    "count": 8422
+    "count": 8423
    },
    {
     "code": "GR",
-    "count": 8282
-   },
-   {
-    "code": "ZA",
-    "count": 7699
+    "count": 8286
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +192,7 @@
   "type": "alarm call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

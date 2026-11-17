@@ -2,7 +2,7 @@
  "key": "motacilla-citreola",
  "name": "Motacilla citreola",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:26:34.667Z",
+ "fetchedAt": "2026-11-17T19:59:18.979Z",
  "names": {
   "da": "Citronvipstjert",
   "en": "Citrine Wagtail",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 13687,
-  "observations": 15453
+  "observations": 15476
  },
  "photos": {
   "male": [
    {
-    "id": 291176513,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291176513/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291176513/large.jpg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/168043545",
-    "place": "Томский р-н, Томская обл., Россия",
+    "id": 287820657,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287820657/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287820657/large.jpg",
+    "attribution": "(c) Olga Bogatova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166219968",
+    "place": "Рязанский р-н, Рязанская обл., Россия",
+    "date": "2023-06-08"
+   },
+   {
+    "id": 69697140,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69697140/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/69697140/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/43951975",
+    "place": "35410 Hungen, Deutschland",
+    "date": "2020-04-27"
+   },
+   {
+    "id": 273117415,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273117415/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/273117415/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/158011368",
+    "place": "Новгородский р-н, Новгородская обл., Россия",
     "date": "2023-04-30"
-   },
-   {
-    "id": 122365431,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122365431/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122365431/large.jpeg",
-    "attribution": "(c) Юлия, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/74837746",
-    "place": "Иркутск, Иркутская обл., Россия, 664022",
-    "date": "2021-04-22"
-   },
-   {
-    "id": 653514506,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/653514506/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/653514506/large.jpg",
-    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/358250731",
-    "place": "Uusimaa, FI-ES, FI",
-    "date": "2026-05-04"
    }
   ],
   "female": [
+   {
+    "id": 293697575,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293697575/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293697575/large.jpg",
+    "attribution": "(c) Наталья Бондарева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169410034",
+    "place": "Воскресенский р-н, Московская обл., Россия",
+    "date": "2023-06-18"
+   },
    {
     "id": 136998518,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136998518/medium.jpg",
@@ -66,36 +76,36 @@
     "date": "2021-06-17"
    },
    {
-    "id": 378475095,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378475095/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378475095/large.jpg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/214141824",
-    "place": "Томский р-н, Томская обл., Россия",
-    "date": "2024-05-04"
-   },
-   {
-    "id": 289229660,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289229660/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289229660/large.jpg",
-    "attribution": "(c) Irina Ganochenko, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/166991382",
-    "place": "Центральный округ, Тюмень, Тюменская обл., Россия",
-    "date": "2023-06-12"
+    "id": 40876940,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40876940/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40876940/large.jpeg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26329410",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2019-06-01"
    }
   ],
   "juvenile": [
    {
-    "id": 56782562,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56782562/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56782562/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/35964064",
-    "place": "Luohu, Shenzhen, Guangdong, China",
-    "date": "2019-11-21"
+    "id": 395211675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395211675/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395211675/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/223070737",
+    "place": "Ушерско, Новгородская обл., Россия, 173020",
+    "date": "2024-06-16"
+   },
+   {
+    "id": 538411439,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538411439/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538411439/large.jpg",
+    "attribution": "(c) denisat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/298876678",
+    "place": "Западный административный округ, Москва, Россия",
+    "date": "2025-06-28"
    },
    {
     "id": 309272024,
@@ -104,16 +114,6 @@
     "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
     "license": "cc-by",
     "source": "https://www.inaturalist.org/observations/177791827",
-    "place": "Арский р-н, Респ. Татарстан, Россия",
-    "date": "2023-08-09"
-   },
-   {
-    "id": 309273301,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309273301/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309273301/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/177791833",
     "place": "Арский р-н, Респ. Татарстан, Россия",
     "date": "2023-08-09"
    }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 154081,
+  "worldTotal": 154125,
   "topCountries": [
    {
     "code": "IN",
-    "count": 57894
+    "count": 57902
    },
    {
     "code": "RU",
@@ -174,11 +174,11 @@
    },
    {
     "code": "EE",
-    "count": 4213
+    "count": 4214
    },
    {
     "code": "OM",
-    "count": 3986
+    "count": 3996
    },
    {
     "code": "MN",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

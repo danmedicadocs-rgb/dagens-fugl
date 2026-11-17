@@ -2,7 +2,7 @@
  "key": "hippolais-icterina",
  "name": "Hippolais icterina",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:20.615Z",
+ "fetchedAt": "2026-11-17T19:55:24.127Z",
  "names": {
   "da": "Gulbug",
   "en": null,
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 116918,
-  "observations": 5824
+  "observations": 5825
  },
  "photos": {
   "male": [
+   {
+    "id": 662846740,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662846740/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662846740/large.jpg",
+    "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/363139201",
+    "place": "X34G+G2, 39397 Schwanebeck, Germany",
+    "date": "2026-05-17"
+   },
    {
     "id": 135677348,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135677348/medium.jpg",
@@ -34,48 +44,69 @@
     "date": "2021-06-11"
    },
    {
-    "id": 201233808,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201233808/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201233808/large.jpeg",
-    "attribution": "(c) Дарья Орлова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/118740815",
-    "place": "Железнодорожный р-н, Екатеринбург, Свердловская обл., Россия",
-    "date": "2022-05-26"
-   },
-   {
-    "id": 281100092,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281100092/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/281100092/large.jpeg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/162564821",
-    "place": "Leibnitz, Österreich",
-    "date": "2023-05-18"
+    "id": 389317317,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389317317/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389317317/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219923353",
+    "place": "Великий Новгород, Новгородская обл., Россия, 173014",
+    "date": "2024-06-02"
    }
   ],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 553735800,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553735800/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553735800/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307025742",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2025-08-17"
+   },
+   {
+    "id": 410568354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410568354/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410568354/large.jpeg",
+    "attribution": "(c) Ирина Рогова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231183561",
+    "place": "Красносельский р-н, Санкт-Петербург, Россия",
+    "date": "2024-07-23"
+   },
+   {
+    "id": 301463880,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301463880/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301463880/large.jpg",
+    "attribution": "(c) Анна Салтыкова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/173586420",
+    "place": "Ступинский р-н, Московская обл., Россия",
+    "date": "2023-07-12"
+   }
+  ],
   "hero": {
-   "id": 1966661,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1966661/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1966661/large.jpg",
-   "attribution": "(c) Ron Knight, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1966661",
+   "id": 100390771,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100390771/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/100390771/large.jpg",
+   "attribution": "(c) Radovan Václav, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/100390771",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2493220,
-  "dkTotal": 74377,
+  "dkTotal": 74379,
   "dkMonths": [
    0,
    0,
    0,
    4,
-   31221,
+   31223,
    28822,
    9058,
    4893,
@@ -84,23 +115,23 @@
    0,
    2
   ],
-  "worldTotal": 536896,
+  "worldTotal": 539295,
   "topCountries": [
    {
     "code": "SE",
-    "count": 230275
+    "count": 230289
    },
    {
     "code": "DK",
-    "count": 74377
+    "count": 74379
    },
    {
     "code": "NL",
-    "count": 47847
+    "count": 47856
    },
    {
     "code": "NO",
-    "count": 44396
+    "count": 44397
    },
    {
     "code": "BE",
@@ -108,19 +139,19 @@
    },
    {
     "code": "DE",
-    "count": 19891
+    "count": 20177
    },
    {
     "code": "FI",
-    "count": 16816
+    "count": 16826
    },
    {
     "code": "PL",
-    "count": 13953
+    "count": 13954
    },
    {
     "code": "EE",
-    "count": 9962
+    "count": 9965
    },
    {
     "code": "RU",
@@ -136,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -152,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

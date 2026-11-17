@@ -2,7 +2,7 @@
  "key": "falco-sparverius",
  "name": "Falco sparverius",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:37.352Z",
+ "fetchedAt": "2026-11-17T20:20:38.946Z",
  "names": {
   "da": "Amerikansk Tårnfalk",
   "en": "American kestrel",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 4665,
-  "observations": 133452
+  "observations": 133876
  },
  "photos": {
   "male": [
+   {
+    "id": 27291377,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27291377/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27291377/large.jpg",
+    "attribution": "(c) George Armistead/Hillstar Nature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/17874369",
+    "place": "Pennypack Trl, Philadelphia, PA, US",
+    "date": "2018-10-26"
+   },
    {
     "id": 75920516,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75920516/medium.jpg",
@@ -34,97 +44,87 @@
     "date": "2020-05-29"
    },
    {
-    "id": 211639190,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211639190/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211639190/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124836781",
-    "place": "Yolo County, CA, USA",
-    "date": "2022-06-24"
-   },
-   {
-    "id": 749855805,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/749855805/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/749855805/large.jpg",
-    "attribution": "(c) Brooke J., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/407984389",
-    "place": "Marin County, CA, USA",
-    "date": "2026-10-11"
+    "id": 254347950,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254347950/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254347950/large.jpg",
+    "attribution": "(c) katalinacarretta, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147778232",
+    "place": "Isla Grande de Tierra del Fuego, Timaukel, Magallanes y de la Antártica Chilena, CL",
+    "date": "2023-01-31"
    }
   ],
   "female": [
    {
-    "id": 370279108,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370279108/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370279108/large.jpg",
-    "attribution": "(c) RAP, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/209237412",
-    "place": "Villa General Mitre, CABA, Argentina",
-    "date": "2023-11-08"
+    "id": 14916953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14916953/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/14916953/large.jpeg",
+    "attribution": "(c) mamu_man, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10683524",
+    "place": "Marathon, FL 33050, USA",
+    "date": "2014-10-25"
    },
    {
-    "id": 111240994,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111240994/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111240994/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68664128",
-    "place": "Yolo Bypass Wildlife Area, Yolo, California, United States",
-    "date": "2021-01-26"
+    "id": 6133418,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6133418/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6133418/large.jpeg",
+    "attribution": "(c) Dave Sutherland, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/5014276",
+    "place": "Boulder, Colorado USA",
+    "date": "2007-01-02"
    },
    {
-    "id": 180143049,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180143049/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180143049/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/107143166",
-    "place": "Yolo County, CA, USA",
-    "date": "2022-02-18"
+    "id": 479839817,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479839817/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479839817/large.jpg",
+    "attribution": "(c) emfraser, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/267035946",
+    "place": "Munger St, Middlebury, VT, US",
+    "date": "2025-03-25"
    }
   ],
   "juvenile": [
    {
-    "id": 203350427,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203350427/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203350427/large.jpg",
-    "attribution": "(c) Michael Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/120245077",
-    "place": "Solano County, CA, USA",
-    "date": "2022-06-04"
+    "id": 246898110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246898110/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246898110/large.jpeg",
+    "attribution": "(c) Luis Prevedel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/143913306",
+    "place": "La Paz, Entre Ríos, Argentina",
+    "date": "2022-12-07"
    },
    {
-    "id": 140096089,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140096089/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140096089/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/85172569",
-    "place": "Yolo, California, United States",
-    "date": "2021-06-30"
+    "id": 514500048,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514500048/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514500048/large.jpg",
+    "attribution": "(c) Kevin Merrell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286202025",
+    "place": "Ada County, ID, USA",
+    "date": "2025-06-01"
    },
    {
-    "id": 173335307,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173335307/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173335307/large.jpg",
-    "attribution": "(c) Cricket Raspet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103549980",
-    "place": "Green St, Bridgeport, CA, US",
-    "date": "2012-07-31"
+    "id": 293931452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293931452/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293931452/large.jpeg",
+    "attribution": "(c) Paulo Valencia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169532994",
+    "place": "Concepción, Bío Bío, Chile",
+    "date": "2022-12-02"
    }
   ],
   "hero": {
-   "id": 180143049,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180143049/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180143049/large.jpg",
-   "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY), uploaded by Jonathan Eisen",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/180143049",
+   "id": 222349765,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/222349765/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/222349765/large.jpeg",
+   "attribution": "(c) SINEAD, some rights reserved (CC BY-NC), uploaded by SINEAD",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/222349765",
    "place": null,
    "date": null
   }
@@ -149,8 +149,6 @@
   "worldTotal": 0,
   "topCountries": []
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -165,5 +163,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

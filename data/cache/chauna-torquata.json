@@ -2,7 +2,7 @@
  "key": "chauna-torquata",
  "name": "Chauna torquata",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:50:13.390Z",
+ "fetchedAt": "2026-11-17T20:25:53.761Z",
  "names": {
   "da": "Sorthalset Chaja",
   "en": "Southern Screamer",
@@ -19,11 +19,42 @@
  },
  "inat": {
   "id": 6910,
-  "observations": 6943
+  "observations": 6964
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 170936991,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170936991/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170936991/large.jpg",
+    "attribution": "(c) John Eppler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102279505",
+    "place": "Poconé - State of Mato Grosso, 78175-000, Brazil",
+    "date": "2014-10-07"
+   },
+   {
+    "id": 165111771,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165111771/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165111771/large.jpeg",
+    "attribution": "(c) Ricardo Baglieri, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99088193",
+    "place": "Conhelo, La Pampa, Argentina",
+    "date": "2015-02-21"
+   }
+  ],
   "female": [
+   {
+    "id": 588684486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588684486/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588684486/large.jpg",
+    "attribution": "(c) jeremias posse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/325165421",
+    "place": "General Belgrano Department, La Rioja, La Rioja Province, Argentina",
+    "date": "2025-10-26"
+   },
    {
     "id": 362316753,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362316753/medium.jpg",
@@ -37,6 +68,16 @@
   ],
   "juvenile": [
    {
+    "id": 338070441,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338070441/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338070441/large.jpeg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192594178",
+    "place": "San Martín Department, Corrientes Province, Argentina",
+    "date": "2023-11-10"
+   },
+   {
     "id": 445222569,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222569/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445222569/large.jpeg",
@@ -47,33 +88,23 @@
     "date": "2024-10-08"
    },
    {
-    "id": 34737905,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34737905/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/34737905/large.jpeg",
-    "attribution": "(c) Gonzalo Roget, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/22428714",
-    "place": "Col. Carlos Pellegrini, Corrientes, Argentina",
-    "date": "2015-10-12"
-   },
-   {
-    "id": 338417101,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338417101/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338417101/large.jpeg",
-    "attribution": "(c) Naelin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/192737695",
-    "place": "Puerto Madero, Buenos Aires, Argentina",
-    "date": "2023-08-07"
+    "id": 577210871,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577210871/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577210871/large.jpg",
+    "attribution": "(c) Gustavo Fernando Brahamian, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/319322110",
+    "place": "Puerto Madero, Cdad. Autónoma de Buenos Aires, Argentina",
+    "date": "2025-09-26"
    }
   ],
   "hero": {
-   "id": 244230211,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244230211/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244230211/large.jpg",
-   "attribution": "no rights reserved, uploaded by Hugo Hulsberg",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/244230211",
+   "id": 249989101,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249989101/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249989101/large.jpg",
+   "attribution": "(c) Antonino Gonçalves Medina, some rights reserved (CC BY-NC), uploaded by Antonino Gonçalves Medina",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/249989101",
    "place": null,
    "date": null
   }
@@ -95,15 +126,15 @@
    0,
    0
   ],
-  "worldTotal": 79061,
+  "worldTotal": 79069,
   "topCountries": [
    {
     "code": "AR",
-    "count": 47628
+    "count": 47630
    },
    {
     "code": "BR",
-    "count": 15493
+    "count": 15499
    },
    {
     "code": "UY",
@@ -147,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

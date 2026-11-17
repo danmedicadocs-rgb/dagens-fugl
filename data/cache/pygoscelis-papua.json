@@ -2,7 +2,7 @@
  "key": "pygoscelis-papua",
  "name": "Pygoscelis papua",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:01.018Z",
+ "fetchedAt": "2026-11-17T20:15:06.550Z",
  "names": {
   "da": "Æselpingvin",
   "en": "Gentoo Penguin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 3808,
-  "observations": 5817
+  "observations": 5866
  },
  "photos": {
   "male": [],
@@ -36,6 +36,16 @@
     "date": "2004-01-12"
    },
    {
+    "id": 610049029,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610049029/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610049029/large.jpg",
+    "attribution": "(c) vivistu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335774193",
+    "place": "Antarctica",
+    "date": "2026-01-21"
+   },
+   {
     "id": 6414054,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414054/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414054/large.jpeg",
@@ -44,57 +54,47 @@
     "source": "https://www.inaturalist.org/observations/5197681",
     "place": "Australia",
     "date": "2017-01-21"
-   },
-   {
-    "id": 6729477,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6729477/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6729477/large.jpg",
-    "attribution": "(c) Erasmo Macaya Horta, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/5389615",
-    "place": "Antarctica",
-    "date": "2017-02-09"
    }
   ],
   "adult": [
    {
-    "id": 601892981,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601892981/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/331750763",
-    "place": "Neko Harbor, Antarctica",
-    "date": "2025-12-20"
-   },
-   {
-    "id": 600445805,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600445805/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600445805/large.jpg",
-    "attribution": "(c) yongestation, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/331042688",
-    "place": "Antártica Chilena, Magallanes y Antártica Chilena, Chile",
-    "date": "2025-12-16"
-   },
-   {
-    "id": 604003803,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604003803/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604003803/large.jpg",
-    "attribution": "(c) Alex Brown, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/332776888",
+    "id": 53742213,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53742213/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53742213/large.jpg",
+    "attribution": "(c) dtvmcdonald, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34170355",
     "place": "Antarctica",
-    "date": "2025-12-29"
+    "date": "2012-12-28"
+   },
+   {
+    "id": 459316872,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459316872/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459316872/large.jpeg",
+    "attribution": "(c) bs_cheese, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256211628",
+    "place": "Antarctica",
+    "date": "2024-12-25"
+   },
+   {
+    "id": 601579802,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601579802/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601579802/large.jpg",
+    "attribution": "(c) Oscar Thomas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/331598292",
+    "place": "Isthmus, Macquarie Island, Australia",
+    "date": "2025-12-11"
    }
   ],
   "hero": {
-   "id": 6414042,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414042/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6414042/large.jpeg",
-   "attribution": "(c) Alex Fergus, some rights reserved (CC BY), uploaded by Alex Fergus",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/6414042",
+   "id": 44210941,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/44210941/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/44210941/large.jpg",
+   "attribution": "(c) Sebastián Lescano, some rights reserved (CC BY-NC), uploaded by Sebastián Lescano",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/44210941",
    "place": null,
    "date": null
   }
@@ -168,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +182,7 @@
   "type": "begging call, call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

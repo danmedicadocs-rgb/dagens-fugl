@@ -2,7 +2,7 @@
  "key": "egretta-garzetta",
  "name": "Egretta garzetta",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:22.751Z",
+ "fetchedAt": "2026-11-17T19:37:12.226Z",
  "names": {
   "da": "Silkehejre",
   "en": "Little Egret",
@@ -19,52 +19,103 @@
  },
  "inat": {
   "id": 4943,
-  "observations": 141684
+  "observations": 142261
  },
  "photos": {
   "male": [
    {
-    "id": 525786489,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525786489/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525786489/large.jpg",
-    "attribution": "(c) Eric Toro Delgado, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/292189673",
-    "place": "L'Escala, Girona, España",
-    "date": "2025-06-21"
+    "id": 41964380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41964380/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41964380/large.jpeg",
+    "attribution": "(c) Nathaniel Sharp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26999877",
+    "place": "Rye, NH 03870, USA",
+    "date": "2019-06-14"
+   },
+   {
+    "id": 286640665,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286640665/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286640665/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165588082",
+    "place": "Doncaster, UK",
+    "date": "2023-06-03"
+   },
+   {
+    "id": 514082734,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514082734/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514082734/large.jpg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/285989584",
+    "place": "Bramley, Leeds, UK",
+    "date": "2025-05-31"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 367491111,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367491111/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367491111/large.jpg",
+    "attribution": "(c) jitensha2021, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207740593",
+    "place": "Higashicho, Odawara, Kanagawa 250-0003, Japan",
+    "date": "2024-04-17"
+   },
+   {
+    "id": 175734071,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175734071/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175734071/large.jpg",
+    "attribution": "(c) Andrea Peterlongo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104825272",
+    "place": "01023 Bolsena, VT, Italy",
+    "date": "2021-09-06"
+   },
+   {
+    "id": 42199715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42199715/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42199715/large.jpg",
+    "attribution": "(c) Alan Kwok (King Lun), Ada Tai (Ah Heung) / 阿達蘭 AdAlan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27141795",
+    "place": "天水圍 週邊",
+    "date": "2016-07-16"
+   }
+  ],
   "juvenile": [
    {
-    "id": 460589484,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460589484/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460589484/large.jpeg",
-    "attribution": "(c) Tim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/256845136",
-    "place": "Karagita, Kenya",
-    "date": "2024-08-11"
+    "id": 515435523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515435523/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515435523/large.jpg",
+    "attribution": "(c) 桃子, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286696857",
+    "place": null,
+    "date": "2025-06-02"
    },
    {
-    "id": 487723833,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487723833/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487723833/large.jpeg",
-    "attribution": "(c) Scott W. Gavins, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/271156377",
-    "place": "Boonooroo QLD, Australia",
-    "date": "2025-04-18"
+    "id": 694612588,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/694612588/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/694612588/large.jpg",
+    "attribution": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/379721047",
+    "place": "浙江省湖州市安吉县杭垓镇黄浦江源生态湿地公园",
+    "date": "2026-07-08"
    },
    {
-    "id": 213019506,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213019506/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213019506/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/125296684",
-    "place": "Rye TN31 7TX, UK",
-    "date": "2022-07-08"
+    "id": 764234278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/764234278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/764234278/large.jpg",
+    "attribution": "(c) mikhailbelousov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/415072129",
+    "place": "Бакчар, Томская обл., Россия, 636200",
+    "date": "2026-09-24"
    }
   ],
   "hero": {
@@ -95,31 +146,31 @@
    249,
    218
   ],
-  "worldTotal": 3881844,
+  "worldTotal": 3882658,
   "topCountries": [
    {
     "code": "GB",
-    "count": 523521
+    "count": 523527
    },
    {
     "code": "IN",
-    "count": 456581
+    "count": 456582
    },
    {
     "code": "TW",
-    "count": 451604
+    "count": 451605
    },
    {
     "code": "ES",
-    "count": 378411
+    "count": 378513
    },
    {
     "code": "FR",
-    "count": 371032
+    "count": 371119
    },
    {
     "code": "NL",
-    "count": 235177
+    "count": 235587
    },
    {
     "code": "AU",
@@ -127,11 +178,11 @@
    },
    {
     "code": "PT",
-    "count": 135697
+    "count": 135702
    },
    {
     "code": "ZA",
-    "count": 129643
+    "count": 129646
    },
    {
     "code": "CN",
@@ -139,16 +190,14 @@
    },
    {
     "code": "IT",
-    "count": 85880
+    "count": 85898
    },
    {
     "code": "TH",
-    "count": 72030
+    "count": 72036
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

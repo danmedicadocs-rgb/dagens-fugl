@@ -2,7 +2,7 @@
  "key": "circaetus-gallicus",
  "name": "Circaetus gallicus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:18.094Z",
+ "fetchedAt": "2026-11-17T19:38:11.025Z",
  "names": {
   "da": "Slangeørn",
   "en": "Short-toed Snake Eagle",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 5242,
-  "observations": 17699
+  "observations": 17713
  },
  "photos": {
   "male": [
+   {
+    "id": 500573938,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500573938/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500573938/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/278778886",
+    "place": "Autonomous Province of Bolzano – South Tyrol, Italy",
+    "date": "2025-04-12"
+   },
+   {
+    "id": 550992355,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550992355/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550992355/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305590125",
+    "place": "Gračac, Croatia",
+    "date": "2025-07-24"
+   },
    {
     "id": 213312792,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213312792/medium.jpg",
@@ -32,90 +52,70 @@
     "source": "https://www.inaturalist.org/observations/125765078",
     "place": "07110 Vinezac, France",
     "date": "2022-07-09"
-   },
-   {
-    "id": 472706753,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472706753/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472706753/large.jpg",
-    "attribution": "(c) Pål A. Olsvik, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/263156060",
-    "place": "Lakhmanon Ki Basti, Rajasthan 345001, India",
-    "date": "2024-12-19"
-   },
-   {
-    "id": 386329980,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/386329980/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/386329980/large.jpeg",
-    "attribution": "(c) Yves Bas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/218326194",
-    "place": "Hérault, Languedoc-Roussillon, FR",
-    "date": "2024-05-04"
    }
   ],
   "female": [
    {
-    "id": 566386675,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566386675/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566386675/large.jpg",
-    "attribution": "(c) Jacky Judas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/313629358",
-    "place": "Tanomah Arabie saoudite",
-    "date": "2025-09-12"
+    "id": 481225131,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/481225131/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/481225131/large.jpg",
+    "attribution": "(c) dimitris kaliakoudas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/267761423",
+    "place": "Εορδαία, Ελλάδα",
+    "date": "2025-03-30"
    },
    {
-    "id": 524424377,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524424377/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524424377/large.jpg",
-    "attribution": "(c) Lasse W., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/291471200",
-    "place": "24 Osterrönfeld, Deutschland",
-    "date": "2025-06-21"
+    "id": 549300478,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549300478/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549300478/large.jpg",
+    "attribution": "(c) thtp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/304688787",
+    "place": "9280 Storvorde, Danmark",
+    "date": "2025-06-18"
    },
    {
-    "id": 315282094,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315282094/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315282094/large.jpeg",
-    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/180949171",
-    "place": "Kobuleti Municipality, Georgia",
-    "date": "2013-10-01"
+    "id": 367142525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367142525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367142525/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207553964",
+    "place": "Bolzano, Trentino-Alto Adige, IT",
+    "date": "2024-03-25"
    }
   ],
   "juvenile": [
    {
-    "id": 566295180,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/566295180/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/566295180/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/313581718",
-    "place": "Gardabani Municipality, Georgia",
-    "date": "2025-09-12"
+    "id": 740836008,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740836008/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740836008/large.jpg",
+    "attribution": "(c) Gaetano Valentini, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/403486375",
+    "place": "Provincia dell'Aquila, Italia",
+    "date": "2026-09-08"
    },
    {
-    "id": 326697160,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/326697160/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/326697160/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/186888023",
-    "place": "8650 Sagres, Portugal",
-    "date": "2023-10-07"
+    "id": 150228593,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150228593/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150228593/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/90870787",
+    "place": "Νίκαιας, Νίκαιας, Λάρισα, GR",
+    "date": "2021-08-12"
    },
    {
-    "id": 240487166,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240487166/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240487166/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/140486503",
-    "place": "Фаришский район, Узбекистан",
-    "date": "2022-10-21"
+    "id": 444810660,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444810660/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444810660/large.jpg",
+    "attribution": "(c) Monika Pastrykiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/248891411",
+    "place": "Opole, PL",
+    "date": "2020-10-11"
    }
   ],
   "hero": {
@@ -146,19 +146,19 @@
    0,
    0
   ],
-  "worldTotal": 488088,
+  "worldTotal": 488155,
   "topCountries": [
    {
     "code": "FR",
-    "count": 153663
+    "count": 153669
    },
    {
     "code": "ES",
-    "count": 124876
+    "count": 124884
    },
    {
     "code": "IL",
-    "count": 55322
+    "count": 55324
    },
    {
     "code": "PT",
@@ -170,7 +170,7 @@
    },
    {
     "code": "NL",
-    "count": 16046
+    "count": 16047
    },
    {
     "code": "GE",
@@ -182,11 +182,11 @@
    },
    {
     "code": "GR",
-    "count": 11214
+    "count": 11215
    },
    {
     "code": "IT",
-    "count": 6777
+    "count": 6779
    },
    {
     "code": "BG",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

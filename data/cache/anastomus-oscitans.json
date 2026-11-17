@@ -2,7 +2,7 @@
  "key": "anastomus-oscitans",
  "name": "Anastomus oscitans",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:49.350Z",
+ "fetchedAt": "2026-11-17T20:12:41.809Z",
  "names": {
   "da": "Asiatisk Gabenæb",
   "en": "Asian Open-bill Stork",
@@ -19,84 +19,104 @@
  },
  "inat": {
   "id": 4775,
-  "observations": 15467
+  "observations": 15557
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 635796730,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635796730/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635796730/large.jpg",
-    "attribution": "(c) sweemeng ng, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/348603590",
-    "place": "Taman Selayang Jaya (Timur), Taman Selayang Jaya, 68100 Batu Caves, Selangor, Malaysia",
-    "date": "2026-04-10"
+    "id": 575482789,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/575482789/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/575482789/large.jpg",
+    "attribution": "(c) Sayantani Roychowdhury, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/318420078",
+    "place": "FX3W+XXW, Jhargram, West Bengal 721507, India",
+    "date": "2025-10-03"
    },
    {
-    "id": 628479230,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628479230/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/628479230/large.jpg",
-    "attribution": "(c) Rainer Breitling, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/344913314",
-    "place": "Lim Chu Kang, Singapore",
-    "date": "2026-03-24"
+    "id": 411394852,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/411394852/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/411394852/large.jpeg",
+    "attribution": "(c) Wayne Godbehere, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231617439",
+    "place": "Krong Siem Reap, Cambodia",
+    "date": "2018-05-05"
    },
    {
-    "id": 60017633,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60017633/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60017633/large.jpg",
-    "attribution": "(c) Aravinth, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37811404",
-    "place": "Erlalai South, Sri Lanka",
-    "date": "2020-01-21"
+    "id": 527389786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527389786/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527389786/large.jpg",
+    "attribution": "(c) Navneel Neeraj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293031250",
+    "place": "R24C+3J, Ahmamau, Uttar Pradesh 226002, India",
+    "date": "2024-12-07"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 542661662,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542661662/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542661662/large.jpg",
-    "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/301158315",
-    "place": "Longai Forest",
-    "date": "2025-02-28"
+    "id": 411382808,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/411382808/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/411382808/large.jpeg",
+    "attribution": "(c) Wayne Godbehere, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231608687",
+    "place": "Prasat Bakong, Cambodia",
+    "date": "2018-05-05"
    },
    {
-    "id": 629550123,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/629550123/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/629550123/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/345444785",
-    "place": "Kusgaon P.m., Maharashtra, India",
-    "date": "2026-02-24"
+    "id": 33440899,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33440899/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33440899/large.jpg",
+    "attribution": "(c) Rahul kumar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21602845",
+    "place": "SH 78, Naraura, Bihar 803113, India",
+    "date": "2019-01-31"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 611433246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611433246/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611433246/large.jpg",
+    "attribution": "(c) Dan Sharon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336465403",
+    "place": "Matara, סרי לנקה",
+    "date": "2026-01-14"
    },
    {
-    "id": 462658681,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462658681/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462658681/large.jpeg",
-    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257902140",
-    "place": "FELCRA Plantation Services Sdn Bhd Seberang Perak, 36800, 36110, Perak, Malaysia",
-    "date": "2024-12-18"
+    "id": 467060214,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467060214/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467060214/large.jpeg",
+    "attribution": "(c) SURESH KUMAR S, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/260114424",
+    "place": "2XHX+FPH, Andaman and Nicobar Islands 744211, India",
+    "date": "2025-01-31"
+   },
+   {
+    "id": 466137168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466137168/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466137168/large.jpeg",
+    "attribution": "(c) Marc Thibault, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259648003",
+    "place": "Purani Motapung No-5, Assam, Inde",
+    "date": "2024-12-22"
    }
   ],
   "hero": {
-   "id": 542661662,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542661662/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542661662/large.jpg",
-   "attribution": "(c) Rejoice Gassah, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/301158315",
-   "place": "Longai Forest",
-   "date": "2025-02-28"
+   "id": 1473804,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1473804/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1473804/large.jpg",
+   "attribution": "(c) J. Maughn, some rights reserved (CC BY-NC), uploaded by J. Maughn",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1473804",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,15 +136,15 @@
    0,
    0
   ],
-  "worldTotal": 318810,
+  "worldTotal": 318819,
   "topCountries": [
    {
     "code": "IN",
-    "count": 213168
+    "count": 213174
    },
    {
     "code": "TH",
-    "count": 60836
+    "count": 60837
    },
    {
     "code": "LK",
@@ -136,7 +156,7 @@
    },
    {
     "code": "SG",
-    "count": 4498
+    "count": 4500
    },
    {
     "code": "MY",
@@ -168,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +202,7 @@
   "type": null,
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

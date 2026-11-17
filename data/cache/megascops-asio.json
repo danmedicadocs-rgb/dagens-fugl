@@ -2,7 +2,7 @@
  "key": "megascops-asio",
  "name": "Megascops asio",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:43:03.833Z",
+ "fetchedAt": "2026-11-17T20:17:25.723Z",
  "names": {
   "da": "Østamerikansk Dværghornugle",
   "en": "Eastern Screech Owl",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 19765,
-  "observations": 27060
+  "observations": 27132
  },
  "photos": {
   "male": [
+   {
+    "id": 679170181,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679170181/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679170181/large.jpg",
+    "attribution": "(c) Matt and Kaysea Bruce, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/371715899",
+    "place": "Florida, US",
+    "date": "2026-06-13"
+   },
+   {
+    "id": 255603642,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255603642/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255603642/large.jpeg",
+    "attribution": "(c) Carol Mackey Shaffer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/148428808",
+    "place": "North Central, Carrollton, TX, USA",
+    "date": "2023-02-09"
+   },
    {
     "id": 657047211,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/medium.jpg",
@@ -32,101 +52,81 @@
     "source": "https://www.inaturalist.org/observations/360088208",
     "place": "Mustoe, VA 24465, USA",
     "date": "2026-05-02"
-   },
-   {
-    "id": 659880766,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659880766/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659880766/large.jpg",
-    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/361571757",
-    "place": "Mustoe, VA 24465, USA",
-    "date": "2026-05-14"
-   },
-   {
-    "id": 74685311,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74685311/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74685311/large.jpeg",
-    "attribution": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/47090910",
-    "place": "Texas, US",
-    "date": "2020-05-22"
    }
   ],
   "female": [
    {
-    "id": 35541539,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35541539/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35541539/large.jpeg",
-    "attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/22938371",
-    "place": "South River City, Austin, TX, USA",
-    "date": "2019-04-14"
+    "id": 373727552,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/373727552/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/373727552/large.jpeg",
+    "attribution": "(c) Marie Asscherick, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/211378386",
+    "place": "Russ Pitman Park, 7112 Newcastle St, Bellaire, TX 77401, USA",
+    "date": "2024-04-27"
    },
    {
-    "id": 657047254,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047254/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047254/large.jpg",
-    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/360088239",
-    "place": "Mustoe, VA 24465, USA",
-    "date": "2026-05-02"
+    "id": 6320338,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6320338/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6320338/large.jpeg",
+    "attribution": "(c) Debra Hendricks, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/5134543",
+    "place": "Hays County, TX, USA",
+    "date": "2017-02-18"
    },
    {
-    "id": 669225680,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669225680/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669225680/large.jpg",
-    "attribution": "(c) jrsweet, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/366498747",
-    "place": "Mustoe, VA 24465, USA",
-    "date": "2026-05-29"
+    "id": 598627673,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598627673/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598627673/large.jpg",
+    "attribution": "(c) Anora Johnson Ballard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330158996",
+    "place": "Champaign County, US-IL, US",
+    "date": "2025-12-09"
    }
   ],
   "juvenile": [
    {
-    "id": 72405236,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72405236/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/72405236/large.jpg",
-    "attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/45656028",
-    "place": "South River City, Austin, TX, USA",
-    "date": "2020-05-03"
+    "id": 690362868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690362868/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690362868/large.jpg",
+    "attribution": "(c) sybnee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377517223",
+    "place": "Olbrich Botanical Gardens, Madison, WI, US",
+    "date": "2026-07-02"
    },
    {
-    "id": 32327031,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32327031/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32327031/large.jpg",
-    "attribution": "(c) Clifton Ladd, C.W.B., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/20941596",
-    "place": "1509 Newning Ave, Austin, TX, US",
-    "date": "2015-05-18"
+    "id": 278609523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278609523/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278609523/large.png",
+    "attribution": "(c) Stephane Le Tirant, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161194450",
+    "place": "LaSalle, Montréal, QC, Canada",
+    "date": "2023-05-09"
    },
    {
-    "id": 387186652,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387186652/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387186652/large.jpeg",
-    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/218784938",
-    "place": "Leamington, ON N8H 3V4, Canada",
-    "date": "2024-05-24"
+    "id": 180069587,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180069587/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180069587/large.jpeg",
+    "attribution": "(c) jeff bizjak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107103611",
+    "place": "Summit County, OH, USA",
+    "date": "2021-05-20"
    }
   ],
   "hero": {
-   "id": 657047211,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657047211/large.jpg",
-   "attribution": "(c) jrsweet, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/360088208",
-   "place": "Mustoe, VA 24465, USA",
-   "date": "2026-05-02"
+   "id": 5651,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5651/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5651/large.jpg",
+   "attribution": "(c) Michael Hodge, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/5651",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -194,8 +194,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -210,5 +208,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "perdix-perdix",
  "name": "Perdix perdix",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:05:25.855Z",
+ "fetchedAt": "2026-11-17T19:34:50.134Z",
  "names": {
   "da": "Agerhøne",
   "en": "Grey Partridge",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 831,
-  "observations": 16185
+  "observations": 16223
  },
  "photos": {
   "male": [
+   {
+    "id": 261706698,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261706698/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261706698/large.jpg",
+    "attribution": "(c) kiborgubiyca, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/151137717",
+    "place": "Юго-Восточный административный округ, Москва, Россия",
+    "date": "2023-03-14"
+   },
    {
     "id": 338779728,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338779728/medium.png",
@@ -34,123 +44,113 @@
     "date": "2023-11-05"
    },
    {
-    "id": 621776167,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621776167/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621776167/large.jpg",
-    "attribution": "(c) Leon Haag-Fank, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/341539958",
-    "place": "68 Mannheim, Germany",
-    "date": "2026-03-05"
-   },
-   {
-    "id": 621776103,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621776103/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621776103/large.jpg",
-    "attribution": "(c) Leon Haag-Fank, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/341539956",
-    "place": "68542 Heddesheim, Germany",
-    "date": "2026-03-05"
+    "id": 599219301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599219301/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599219301/large.jpg",
+    "attribution": "(c) Taras Rodych / Тарас Родич, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330449366",
+    "place": "Сихівський район, Львів, Львівська область, Україна, 79000",
+    "date": "2017-06-01"
    }
   ],
   "female": [
    {
-    "id": 705472422,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/705472422/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/705472422/large.jpg",
-    "attribution": "(c) Dani Alba, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/385377596",
-    "place": "Redwood County, MN, USA",
-    "date": "2026-07-02"
-   },
-   {
-    "id": 258491325,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258491325/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258491325/large.jpg",
-    "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149960804",
-    "place": "Рубцовский р-н, Алтайский край, Россия",
-    "date": "2023-02-25"
-   },
-   {
-    "id": 434604801,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434604801/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434604801/large.jpg",
-    "attribution": "(c) Daughter Dad, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/243711133",
+    "id": 433597025,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433597025/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433597025/large.jpg",
+    "attribution": "(c) Stanley Wood, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243183233",
     "place": "Lake County, MT, USA",
     "date": "2024-09-19"
+   },
+   {
+    "id": 157461124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157461124/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157461124/large.jpg",
+    "attribution": "(c) lauren_elizabeth, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/94889548",
+    "place": "Edmonton, AB, Canada",
+    "date": "2021-06-18"
+   },
+   {
+    "id": 488878634,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488878634/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488878634/large.jpeg",
+    "attribution": "(c) rosomak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/271768993",
+    "place": "Milanów, Polska",
+    "date": "2025-04-20"
    }
   ],
   "juvenile": [
    {
-    "id": 699602814,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/699602814/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/699602814/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/382296820",
-    "place": "Jokniai, Kėdainių r. sav., Lietuva",
-    "date": "2026-07-17"
+    "id": 690020463,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/690020463/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/690020463/large.jpg",
+    "attribution": "(c) Антон Виноградов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377340767",
+    "place": "Bezhetskiy rayon, RU-TV, RU",
+    "date": "2026-06-21"
    },
    {
-    "id": 686410323,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686410323/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686410323/large.jpg",
-    "attribution": "(c) Dmitriy Bochkov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/375470871",
-    "place": "Ilovlinsky District, Volgograd Oblast, Russia",
-    "date": "2026-06-18"
+    "id": 405119485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405119485/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405119485/large.jpg",
+    "attribution": "(c) Кирилл Никифоров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/228305816",
+    "place": "City of St. Petersburg, Sankt-Peterburg gorsovet, RU",
+    "date": "2024-06-13"
    },
    {
-    "id": 695012777,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695012777/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695012777/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/379924469",
-    "place": "Laumėnai II, 85210 Akmenės r. sav., Lietuva",
-    "date": "2026-07-10"
+    "id": 599087000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599087000/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599087000/large.jpg",
+    "attribution": "(c) Taras Rodych / Тарас Родич, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330383561",
+    "place": "Личаківський район, Львів, Львівська область, Україна, 79000",
+    "date": "2016-07-24"
    }
   ],
   "hero": {
-   "id": 340760633,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340760633/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340760633/large.jpeg",
-   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/340760633",
+   "id": 344182442,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344182442/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344182442/large.jpg",
+   "attribution": "(c) patrickgoa, some rights reserved (CC BY-NC), uploaded by patrickgoa",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/344182442",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2473958,
-  "dkTotal": 67813,
+  "dkTotal": 67815,
   "dkMonths": [
    5473,
    5210,
    6360,
    9502,
-   11967,
+   11968,
    6298,
-   3977,
+   3978,
    3874,
    3947,
    4783,
    3120,
    3135
   ],
-  "worldTotal": 696748,
+  "worldTotal": 697655,
   "topCountries": [
    {
     "code": "NL",
-    "count": 138260
+    "count": 138343
    },
    {
     "code": "GB",
@@ -158,15 +158,15 @@
    },
    {
     "code": "SE",
-    "count": 80659
+    "count": 80703
    },
    {
     "code": "DK",
-    "count": 67813
+    "count": 67815
    },
    {
     "code": "FR",
-    "count": 67035
+    "count": 67039
    },
    {
     "code": "CA",
@@ -182,15 +182,15 @@
    },
    {
     "code": "DE",
-    "count": 18295
+    "count": 18638
    },
    {
     "code": "FI",
-    "count": 17826
+    "count": 17828
    },
    {
     "code": "PL",
-    "count": 10814
+    "count": 10815
    },
    {
     "code": "RU",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

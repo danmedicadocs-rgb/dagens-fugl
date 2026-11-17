@@ -2,7 +2,7 @@
  "key": "ixobrychus-minutus",
  "name": "Ixobrychus minutus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:11.983Z",
+ "fetchedAt": "2026-11-17T19:36:59.813Z",
  "names": {
   "da": "Dværghejre",
   "en": null,
@@ -23,12 +23,12 @@
   "adult": [],
   "general": [],
   "hero": {
-   "id": 5693451,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5693451/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5693451/large.jpeg",
-   "attribution": "(c) Carles Pastor, some rights reserved (CC BY-SA), uploaded by Carles Pastor",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/5693451",
+   "id": 322880590,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/322880590/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/322880590/large.jpeg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/322880590",
    "place": null,
    "date": null
   }
@@ -50,11 +50,11 @@
    0,
    0
   ],
-  "worldTotal": 61548,
+  "worldTotal": 61402,
   "topCountries": [
    {
     "code": "FR",
-    "count": 23344
+    "count": 23342
    },
    {
     "code": "BE",
@@ -66,15 +66,15 @@
    },
    {
     "code": "ES",
-    "count": 6606
+    "count": 6607
    },
    {
     "code": "DE",
-    "count": 1534
+    "count": 1559
    },
    {
     "code": "UA",
-    "count": 1283
+    "count": 1288
    },
    {
     "code": "IL",
@@ -98,12 +98,10 @@
    },
    {
     "code": "AT",
-    "count": 501
+    "count": 499
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -118,5 +116,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

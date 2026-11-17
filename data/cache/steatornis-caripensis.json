@@ -2,7 +2,7 @@
  "key": "steatornis-caripensis",
  "name": "Steatornis caripensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:49:13.849Z",
+ "fetchedAt": "2026-11-17T20:24:50.603Z",
  "names": {
   "da": "Fedtfugl",
   "en": "Oilbird",
@@ -19,42 +19,62 @@
  },
  "inat": {
   "id": 19727,
-  "observations": 671
+  "observations": 672
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 210668283,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210668283/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210668283/large.jpeg",
+    "attribution": "(c) Juan Sebastián León Lleras, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124300081",
+    "place": "Sopo, Sopó, Cundinamarca, Colombia",
+    "date": "2008-08-23"
+   },
+   {
+    "id": 490548399,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490548399/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490548399/large.jpeg",
+    "attribution": "(c) Diana Morales, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/272661788",
+    "place": "Jardín, Antioquia, Colombia",
+    "date": "2025-03-23"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 230280566,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230280566/large.jpg",
-    "attribution": "(c) Zac Peterson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/135045414",
-    "place": "Sonsón, Antioquia, Colombia",
-    "date": "2022-05-19"
+    "id": 653170245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/653170245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/653170245/large.jpg",
+    "attribution": "(c) Fundación Dodo Colombia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/358078755",
+    "place": "BU Canal Boyacá Modelia, Bogotá, Colombia",
+    "date": "2026-05-03"
    },
    {
-    "id": 104822177,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104822177/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104822177/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/65152867",
-    "place": "Stadt Quito, Ecuador",
-    "date": "2019-08-25"
+    "id": 107590507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107590507/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107590507/large.jpg",
+    "attribution": "(c) José Ramiro Imba Chontasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66703034",
+    "place": "Guamote, Ecuador",
+    "date": "2020-11-25"
    },
    {
-    "id": 329733877,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329733877/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329733877/large.jpg",
-    "attribution": "(c) Aitor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/188400371",
-    "place": "Avenida 5A B Sur, Panama City, Provincia de Panamá, PA",
-    "date": "2023-10-21"
+    "id": 62388331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62388331/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62388331/large.jpeg",
+    "attribution": "(c) Bruno F. Parada, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39333941",
+    "place": "Cota Cota, La Paz, Bolivia",
+    "date": "2020-02-27"
    }
   ],
   "hero": {
@@ -85,7 +105,7 @@
    0,
    0
   ],
-  "worldTotal": 10585,
+  "worldTotal": 10584,
   "topCountries": [
    {
     "code": "CO",
@@ -137,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +171,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

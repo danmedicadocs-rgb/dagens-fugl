@@ -2,7 +2,7 @@
  "key": "branta-bernicla",
  "name": "Branta bernicla",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:15.448Z",
+ "fetchedAt": "2026-11-17T19:32:21.817Z",
  "names": {
   "da": "Knortegås",
   "en": "Ensis (bird)",
@@ -19,12 +19,94 @@
  },
  "inat": {
   "id": 7087,
-  "observations": 26928
+  "observations": 27066
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 59096964,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59096964/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59096964/large.jpg",
+    "attribution": "(c) Дмитрий Ерохин ( Dmitri Erokhin), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37294456",
+    "place": "Центр, Петрозаводск, Респ. Карелия, Россия",
+    "date": "2018-10-18"
+   },
+   {
+    "id": 526573333,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/526573333/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/526573333/large.jpg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/292600902",
+    "place": "Laura Madison St, Utqiagvik, AK, US",
+    "date": "2025-06-15"
+   },
+   {
+    "id": 23004795,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23004795/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23004795/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15355053",
+    "place": "Mission Bay, San Diego, CA, USA",
+    "date": "2016-12-26"
+   }
+  ],
+  "female": [
+   {
+    "id": 62030946,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62030946/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62030946/large.jpg",
+    "attribution": "(c) David Jeffrey Ringer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39094866",
+    "place": "Manhattan, New York, NY, USA",
+    "date": "2020-02-23"
+   },
+   {
+    "id": 61656134,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61656134/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61656134/large.jpg",
+    "attribution": "(c) David Jeffrey Ringer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38762005",
+    "place": "Manhattan, New York, NY, USA",
+    "date": "2020-02-17"
+   },
+   {
+    "id": 29218641,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29218641/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29218641/large.jpg",
+    "attribution": "(c) Дмитрий Ерохин ( Dmitri Erokhin), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/19048176",
+    "place": "Респ. Карелия, Россия",
+    "date": "2017-10-12"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 2277586,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2277586/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2277586/large.JPG",
+    "attribution": "(c) James Bailey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1870619",
+    "place": "Normandy Marshes, Hampshire, England",
+    "date": "2014-11-30"
+   },
+   {
+    "id": 607281395,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607281395/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607281395/large.jpg",
+    "attribution": "(c) jayce-the-creature-creator, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334409991",
+    "place": "Ocean City Inlet, Ocean City, MD, US",
+    "date": "2026-01-11"
+   },
    {
     "id": 170761390,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170761390/medium.jpeg",
@@ -34,80 +116,28 @@
     "source": "https://www.inaturalist.org/observations/102183902",
     "place": "Newport, UK",
     "date": "2021-11-29"
-   },
-   {
-    "id": 604272639,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604272639/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604272639/large.jpg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/332907198",
-    "place": "Newport, UK",
-    "date": "2025-12-31"
-   },
-   {
-    "id": 58685725,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58685725/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58685725/large.jpg",
-    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37058856",
-    "place": "New Jersey, United States",
-    "date": "2011-01-03"
-   }
-  ],
-  "adult": [
-   {
-    "id": 6822790,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822790/large.jpg",
-    "attribution": "(c) Donald Hobern, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/5529591",
-    "place": "Tendring District, England, United Kingdom",
-    "date": "2017-04-01"
-   },
-   {
-    "id": 28515725,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28515725/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28515725/large.jpg",
-    "attribution": "(c) Christina Moresi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/18630143",
-    "place": "North Beach Haven, Long Beach Township, NJ 08008, USA",
-    "date": "2018-11-25"
-   },
-   {
-    "id": 110982856,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110982856/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110982856/large.jpg",
-    "attribution": "(c) Andrew Hrycyna, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68526887",
-    "place": "Boston, MA, USA",
-    "date": "2021-01-23"
    }
   ],
   "hero": {
-   "id": 184003261,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184003261/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184003261/large.jpeg",
-   "attribution": "(c) Liam Steele, some rights reserved (CC BY), uploaded by Liam Steele",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/184003261",
+   "id": 264933012,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264933012/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264933012/large.jpeg",
+   "attribution": "(c) Wendy Feltham, some rights reserved (CC BY-NC), uploaded by Wendy Feltham",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/264933012",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5232446,
-  "dkTotal": 128825,
+  "dkTotal": 128827,
   "dkMonths": [
    8970,
    7243,
    11604,
-   15556,
-   16388,
+   15557,
+   16389,
    2934,
    1030,
    907,
@@ -116,7 +146,7 @@
    12077,
    5358
   ],
-  "worldTotal": 1437661,
+  "worldTotal": 1438167,
   "topCountries": [
    {
     "code": "US",
@@ -124,15 +154,15 @@
    },
    {
     "code": "NL",
-    "count": 194987
+    "count": 195282
    },
    {
     "code": "DK",
-    "count": 128825
+    "count": 128827
    },
    {
     "code": "SE",
-    "count": 124317
+    "count": 124468
    },
    {
     "code": "GB",
@@ -144,19 +174,19 @@
    },
    {
     "code": "FR",
-    "count": 40788
+    "count": 40794
    },
    {
     "code": "IE",
-    "count": 13931
+    "count": 13932
    },
    {
     "code": "NO",
-    "count": 13451
+    "count": 13453
    },
    {
     "code": "DE",
-    "count": 9799
+    "count": 9844
    },
    {
     "code": "BE",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

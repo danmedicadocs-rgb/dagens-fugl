@@ -2,7 +2,7 @@
  "key": "ardea-purpurea",
  "name": "Ardea purpurea",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:38.708Z",
+ "fetchedAt": "2026-11-17T19:37:29.031Z",
  "names": {
   "da": "Purpurhejre",
   "en": "Purple Heron",
@@ -19,82 +19,112 @@
  },
  "inat": {
   "id": 4951,
-  "observations": 29219
+  "observations": 29317
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 356294484,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356294484/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356294484/large.jpg",
-    "attribution": "(c) Dave Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/201803867",
-    "place": "Stellenbosch Rural, Stellenbosch, WC, ZA",
-    "date": "2024-03-09"
+    "id": 529737425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/529737425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/529737425/large.jpg",
+    "attribution": "(c) Jayden Ang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/294310957",
+    "place": "XM7V+VX Taman Flamingo Wetland, Presint 13, 62300 Putrajaya, Malaysia",
+    "date": "2025-06-28"
    },
    {
-    "id": 555234060,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555234060/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555234060/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/307800055",
-    "place": "Sila Grande",
-    "date": "2025-08-18"
+    "id": 487147374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487147374/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487147374/large.jpeg",
+    "attribution": "(c) velocidromeus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/270850534",
+    "place": "XVFM+57 Rhino park and garden, Chișinău, Moldova",
+    "date": "2025-04-16"
    },
    {
-    "id": 448620730,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448620730/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448620730/large.jpeg",
-    "attribution": "(c) Joshua Chen 陳是語, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/250800105",
-    "place": "265台灣宜蘭縣羅東鎮",
-    "date": "2024-03-16"
+    "id": 121290315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121290315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121290315/large.jpg",
+    "attribution": "(c) Eloïse 🌻, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74226000",
+    "place": "Lège-Cap-Ferret, France",
+    "date": "2021-04-14"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 63646830,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63646830/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63646830/large.jpg",
-    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/40073818",
-    "place": "Pegu, Bago, Myanmar",
-    "date": "2016-02-27"
+    "id": 556361844,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556361844/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556361844/large.jpg",
+    "attribution": "(c) Tomislav Mandir, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308382372",
+    "place": "Beravci, Hrvatska",
+    "date": "2025-08-23"
    },
    {
-    "id": 415838224,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415838224/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415838224/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/233952270",
-    "place": "Apaj, 2345 Ungarn",
-    "date": "2024-07-22"
+    "id": 278063988,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278063988/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278063988/large.jpeg",
+    "attribution": "(c) Patricia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160893072",
+    "place": "48123 Ravenna, Italien",
+    "date": "2023-05-09"
    },
    {
-    "id": 754991422,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754991422/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754991422/large.jpg",
-    "attribution": "(c) Юля и Ваня «Чай», some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/410505252",
-    "place": "Северо-Восточный административный округ, Москва, Россия",
-    "date": "2026-10-24"
+    "id": 537432961,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537432961/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537432961/large.jpg",
+    "attribution": "(c) Nova Lehman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/298374965",
+    "place": "R310 Baden Powell Dr, Stellenbosch, 7603, South Africa",
+    "date": "2024-03-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 156346920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156346920/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/156346920/large.jpeg",
+    "attribution": "(c) Daniel Raposo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/94264773",
+    "place": "Vila Franca de Xira, Portugal",
+    "date": "2021-09-05"
+   },
+   {
+    "id": 77693131,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77693131/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77693131/large.jpeg",
+    "attribution": "(c) chrismography, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/48951712",
+    "place": "Germany",
+    "date": "2020-06-05"
+   },
+   {
+    "id": 356761800,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356761800/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356761800/large.jpeg",
+    "attribution": "(c) Stefan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202043830",
+    "place": "Baden-Württemberg, DE",
+    "date": "2022-07-07"
    }
   ],
   "hero": {
-   "id": 57022806,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57022806/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57022806/large.jpg",
-   "attribution": "(c) Imran Shah, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/57022806",
+   "id": 278940859,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278940859/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278940859/large.jpg",
+   "attribution": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/278940859",
    "place": null,
    "date": null
   }
@@ -116,23 +146,23 @@
    2,
    0
   ],
-  "worldTotal": 812312,
+  "worldTotal": 813438,
   "topCountries": [
    {
     "code": "IN",
-    "count": 242918
+    "count": 242921
    },
    {
     "code": "ES",
-    "count": 83274
+    "count": 83285
    },
    {
     "code": "NL",
-    "count": 73705
+    "count": 73754
    },
    {
     "code": "FR",
-    "count": 70381
+    "count": 70467
    },
    {
     "code": "ZA",
@@ -140,7 +170,7 @@
    },
    {
     "code": "PT",
-    "count": 18944
+    "count": 18945
    },
    {
     "code": "LK",
@@ -156,7 +186,7 @@
    },
    {
     "code": "MY",
-    "count": 15321
+    "count": 15322
    },
    {
     "code": "TW",
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "nocturnal flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

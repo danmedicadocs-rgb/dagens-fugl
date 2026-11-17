@@ -2,7 +2,7 @@
  "key": "gallinago-gallinago",
  "name": "Gallinago gallinago",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:12:18.644Z",
+ "fetchedAt": "2026-11-17T19:42:44.294Z",
  "names": {
   "da": "Dobbeltbekkasin",
   "en": null,
@@ -19,22 +19,63 @@
  },
  "inat": {
   "id": 318836,
-  "observations": 30468
+  "observations": 30597
  },
  "photos": {
   "male": [
    {
-    "id": 453458574,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453458574/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453458574/large.jpg",
-    "attribution": "(c) gwynmwilliams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/253270791",
-    "place": "Ammuta, 90406 Lääne County, Estonia",
-    "date": "2024-03-31"
+    "id": 334150954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334150954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334150954/large.jpg",
+    "attribution": "(c) Ксения Самодурова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190589845",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2023-05-07"
+   },
+   {
+    "id": 760900176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760900176/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760900176/large.jpg",
+    "attribution": "(c) Михаил Рыбкин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413427439",
+    "place": "Ивановский р-н, Ивановская обл., Россия",
+    "date": "2026-06-08"
+   },
+   {
+    "id": 658084676,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658084676/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658084676/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360647917",
+    "place": "Московский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-05-11"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 369722145,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369722145/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369722145/large.jpg",
+    "attribution": "(c) olexandrzhmurko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208940628",
+    "place": "Вінницький район, Вінницька область, Україна",
+    "date": "2015-08-10"
+   },
+   {
+    "id": 165635691,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165635691/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165635691/large.jpeg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99370728",
+    "place": "Κεντρική Μακεδονία, Ελλάδα",
+    "date": "2021-10-23"
+   }
+  ],
   "juvenile": [
    {
     "id": 102020340,
@@ -47,6 +88,16 @@
     "date": "2020-07-18"
    },
    {
+    "id": 755112109,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755112109/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755112109/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410564055",
+    "place": "Alicante, España",
+    "date": "2026-10-24"
+   },
+   {
     "id": 208810856,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208810856/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208810856/large.jpg",
@@ -55,51 +106,41 @@
     "source": "https://www.inaturalist.org/observations/123272132",
     "place": "Båtsfjord Municipality, Norway",
     "date": "2016-08-01"
-   },
-   {
-    "id": 547365247,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547365247/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547365247/large.jpg",
-    "attribution": "(c) Wiljam Eklund, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/302096403",
-    "place": "Ostrobothnia, FI-LS, FI",
-    "date": "2025-07-25"
    }
   ],
   "hero": {
-   "id": 5685435,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5685435/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5685435/large.jpeg",
-   "attribution": "(c) Carles Pastor, some rights reserved (CC BY-SA), uploaded by Carles Pastor",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/5685435",
+   "id": 323397,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323397/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323397/large.jpg",
+   "attribution": "(c) Agustín Povedano, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/323397",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481819,
-  "dkTotal": 195987,
+  "dkTotal": 195990,
   "dkMonths": [
    6405,
    4703,
    9657,
    24747,
-   13910,
+   13911,
    8301,
-   13226,
+   13227,
    37133,
-   33074,
+   33075,
    27848,
    11923,
    4967
   ],
-  "worldTotal": 2422568,
+  "worldTotal": 2424005,
   "topCountries": [
    {
     "code": "SE",
-    "count": 562709
+    "count": 562971
    },
    {
     "code": "GB",
@@ -107,23 +148,23 @@
    },
    {
     "code": "NL",
-    "count": 268457
+    "count": 268921
    },
    {
     "code": "DK",
-    "count": 195987
+    "count": 195990
    },
    {
     "code": "NO",
-    "count": 185126
+    "count": 185240
    },
    {
     "code": "FR",
-    "count": 154368
+    "count": 154423
    },
    {
     "code": "ES",
-    "count": 111138
+    "count": 111158
    },
    {
     "code": "BE",
@@ -131,11 +172,11 @@
    },
    {
     "code": "FI",
-    "count": 62308
+    "count": 62313
    },
    {
     "code": "DE",
-    "count": 48605
+    "count": 49045
    },
    {
     "code": "TW",
@@ -147,8 +188,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +202,7 @@
   "type": "flight call, song, aerial display",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

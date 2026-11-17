@@ -2,7 +2,7 @@
  "key": "grus-japonensis",
  "name": "Grus japonensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:49.631Z",
+ "fetchedAt": "2026-11-17T20:09:51.768Z",
  "names": {
   "da": "Japansk Trane",
   "en": "Red-crowned Crane",
@@ -19,51 +19,92 @@
  },
  "inat": {
   "id": 39,
-  "observations": 1806
+  "observations": 1821
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 2655507,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2655507/large.jpg",
-    "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2382482",
-    "place": "Gangwon-do, KR",
-    "date": "2001-03-07"
+    "id": 611830293,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611830293/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611830293/large.jpg",
+    "attribution": "(c) Paul Ha, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336661555",
+    "place": "대한민국 강원특별자치도 철원군 동송읍",
+    "date": "2026-01-25"
    },
    {
-    "id": 593684050,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593684050/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593684050/large.jpg",
-    "attribution": "(c) Jacob She, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/327678746",
+    "id": 621123012,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621123012/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621123012/large.jpg",
+    "attribution": "(c) Екатерина Бословяк, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341217497",
+    "place": "Leningrad, RU",
+    "date": "2025-03-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 376990729,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376990729/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/376990729/large.jpeg",
+    "attribution": "(c) zxz_ld, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/213319026",
+    "place": "Baicheng, CN-JL, CN",
+    "date": "2024-05-03"
+   },
+   {
+    "id": 345133273,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345133273/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345133273/large.jpg",
+    "attribution": "(c) Максим Логунов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196087008",
+    "place": "Amur, RU",
+    "date": "2022-09-10"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 595699099,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595699099/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595699099/large.jpg",
+    "attribution": "(c) zgy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328709371",
     "place": "Shandong, CN",
-    "date": "2024-11-19"
+    "date": "2025-11-26"
    },
    {
-    "id": 471364931,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471364931/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471364931/large.jpeg",
-    "attribution": "(c) Benjamin Mako Hill, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/262357542",
-    "place": "Tsurumidai, Shimosetsuri, Tsurui, Akan District, Hokkaido 085-1211, Japan",
-    "date": "2025-02-20"
+    "id": 607653857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607653857/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607653857/large.jpg",
+    "attribution": "(c) Anton Sasin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334591776",
+    "place": "Amur, RU",
+    "date": "2024-09-05"
+   },
+   {
+    "id": 475511632,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/475511632/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/475511632/large.jpg",
+    "attribution": "(c) Рагимов Михаил, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/264788577",
+    "place": "Kuril'skiy rayon, RU-SL, RU",
+    "date": "2025-03-10"
    }
   ],
   "hero": {
-   "id": 267664057,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/267664057/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/267664057/large.jpg",
-   "attribution": "(c) \nNesnad, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/267664057",
+   "id": 122932380,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122932380/large.jpg",
+   "attribution": "(c) naturepower2021, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/122932380",
    "place": null,
    "date": null
   }
@@ -85,11 +126,11 @@
    12,
    20
   ],
-  "worldTotal": 8155,
+  "worldTotal": 8158,
   "topCountries": [
    {
     "code": "JP",
-    "count": 3570
+    "count": 3571
    },
    {
     "code": "KR",
@@ -113,7 +154,7 @@
    },
    {
     "code": "NL",
-    "count": 202
+    "count": 205
    },
    {
     "code": "ES",
@@ -125,7 +166,7 @@
    },
    {
     "code": "DE",
-    "count": 36
+    "count": 35
    },
    {
     "code": "MN",
@@ -137,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +192,7 @@
   "type": "duet, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

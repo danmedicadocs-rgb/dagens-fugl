@@ -2,7 +2,7 @@
  "key": "numida-meleagris",
  "name": "Numida meleagris",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:33:21.417Z",
+ "fetchedAt": "2026-11-17T20:07:16.509Z",
  "names": {
   "da": "Perlehøne",
   "en": "Helmeted Guineafowl",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 1428,
-  "observations": 28301
+  "observations": 28370
  },
  "photos": {
   "male": [
+   {
+    "id": 596455818,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596455818/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596455818/large.jpg",
+    "attribution": "(c) stephenardo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329084862",
+    "place": "Chesterfield County, VA, USA",
+    "date": "2023-08-12"
+   },
    {
     "id": 220507529,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220507529/medium.jpg",
@@ -34,27 +44,27 @@
     "date": "2022-07-26"
    },
    {
-    "id": 220507548,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220507548/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220507548/large.jpg",
-    "attribution": "(c) B. Phalan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/129732495",
-    "place": "Foz do Iguaçu, State of Paraná, Brazil",
-    "date": "2022-07-30"
-   },
-   {
-    "id": 421255375,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421255375/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421255375/large.jpeg",
-    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/236761627",
-    "place": "Kirstenbosch National Botanical Garden, Rhodes Dr, Newlands, Cape Town, 7735, South Africa",
-    "date": "2024-08-19"
+    "id": 260174722,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260174722/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260174722/large.jpg",
+    "attribution": "(c) Jan Pérez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/150842382",
+    "place": "Yopal, Casanare, Colombia",
+    "date": "2023-03-11"
    }
   ],
   "female": [
+   {
+    "id": 158313091,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/158313091/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/158313091/large.jpeg",
+    "attribution": "(c) schwartz_k_13, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/95366029",
+    "place": "The Lost River General Store & Cafe",
+    "date": "2010-08-13"
+   },
    {
     "id": 324381244,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/324381244/medium.jpeg",
@@ -66,17 +76,27 @@
     "date": "2023-10-01"
    },
    {
-    "id": 713316112,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/713316112/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/713316112/large.jpg",
-    "attribution": "(c) The Great Walter, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/389424151",
-    "place": "Indaiatuba - SP, 13343, Brasil",
-    "date": "2026-08-08"
+    "id": 527930539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527930539/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527930539/large.jpg",
+    "attribution": "(c) jean hirons, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293325250",
+    "place": "Gorah Loop, Addo, Sarah Baartman District Municipality, South Africa",
+    "date": "2025-06-06"
    }
   ],
   "juvenile": [
+   {
+    "id": 12405931,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12405931/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12405931/large.jpg",
+    "attribution": "(c) Stuart Shearer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9170531",
+    "place": "Greyton, 7233, South Africa",
+    "date": "2017-12-15"
+   },
    {
     "id": 65994199,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65994199/medium.jpeg",
@@ -88,24 +108,14 @@
     "date": "2020-01-24"
    },
    {
-    "id": 128171966,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128171966/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128171966/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/78326115",
-    "place": "National Botanical Gardens, Pretoria, 0186, South Africa",
-    "date": "2021-05-02"
-   },
-   {
-    "id": 649296807,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/649296807/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/649296807/large.jpg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/356065949",
-    "place": "Eden, Western Cape, South Africa",
-    "date": "2026-04-27"
+    "id": 471956155,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471956155/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471956155/large.jpeg",
+    "attribution": "(c) thusomj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/262781712",
+    "place": "Atlantis, South Africa",
+    "date": "2025-02-23"
    }
   ],
   "hero": {
@@ -136,15 +146,15 @@
    0,
    0
   ],
-  "worldTotal": 505553,
+  "worldTotal": 505579,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 358612
+    "count": 358620
    },
    {
     "code": "KE",
-    "count": 26228
+    "count": 26232
    },
    {
     "code": "NA",
@@ -152,7 +162,7 @@
    },
    {
     "code": "TZ",
-    "count": 15227
+    "count": 15228
    },
    {
     "code": "ZW",
@@ -188,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

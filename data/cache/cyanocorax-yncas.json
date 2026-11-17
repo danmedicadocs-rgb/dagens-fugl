@@ -2,7 +2,7 @@
  "key": "cyanocorax-yncas",
  "name": "Cyanocorax yncas",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:48:33.502Z",
+ "fetchedAt": "2026-11-17T20:24:04.050Z",
  "names": {
   "da": "Grøn Skade",
   "en": null,
@@ -19,30 +19,102 @@
  },
  "inat": {
   "id": 8474,
-  "observations": 14978
+  "observations": 15025
  },
  "photos": {
   "male": [
    {
-    "id": 535027822,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535027822/large.jpg",
-    "attribution": "(c) J Alejandro González Castillo, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/297098281",
-    "place": "Nicté-ha",
-    "date": "2025-05-19"
+    "id": 706966731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/706966731/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/706966731/large.jpg",
+    "attribution": "(c) Oswaldo Hernández, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/386134405",
+    "place": "Guaicaipuro, Miranda, Venezuela",
+    "date": "2025-05-27"
+   },
+   {
+    "id": 219016221,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219016221/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219016221/large.jpeg",
+    "attribution": "(c) juanmanuellinaresc, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/128916297",
+    "place": "250010, Cota, Cundinamarca, Colombia",
+    "date": "2022-07-30"
+   },
+   {
+    "id": 749207400,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/749207400/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/749207400/large.jpg",
+    "attribution": "(c) Javier Dlujnewsky, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407669916",
+    "place": "1167, La Guaira, Venezuela",
+    "date": "2026-10-11"
    }
   ],
-  "female": [],
-  "juvenile": [],
+  "female": [
+   {
+    "id": 148373147,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148373147/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148373147/large.jpeg",
+    "attribution": "(c) Daniel Higuita Tamayo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/89824114",
+    "place": null,
+    "date": "2021-08-03"
+   },
+   {
+    "id": 62325860,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62325860/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62325860/large.jpeg",
+    "attribution": "(c) jazieli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39295676",
+    "place": "Tinum, Yuc., México",
+    "date": "2019-12-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 90953627,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90953627/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90953627/large.jpg",
+    "attribution": "(c) shed73, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57042021",
+    "place": "City South, Elmendorf, TX, US",
+    "date": "2020-08-20"
+   },
+   {
+    "id": 710526508,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/710526508/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/710526508/large.jpg",
+    "attribution": "(c) puffleg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388013909",
+    "place": "Mera, Ecuador",
+    "date": "2018-09-27"
+   },
+   {
+    "id": 393871957,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393871957/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393871957/large.jpeg",
+    "attribution": "(c) Tim Brush, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/222356888",
+    "place": "Edinburg, TX 78539, USA",
+    "date": "2024-06-12"
+   }
+  ],
   "hero": {
-   "id": 111061806,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111061806/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111061806/large.jpeg",
-   "attribution": "(c) Esteban Poveda, some rights reserved (CC BY), uploaded by Esteban Poveda",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/111061806",
+   "id": 186227042,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186227042/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/186227042/large.jpg",
+   "attribution": "(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/186227042",
    "place": null,
    "date": null
   }
@@ -64,7 +136,7 @@
    0,
    0
   ],
-  "worldTotal": 371746,
+  "worldTotal": 371745,
   "topCountries": [
    {
     "code": "US",
@@ -111,13 +183,11 @@
     "count": 23
    },
    {
-    "code": "DE",
+    "code": "HK",
     "count": 2
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -132,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

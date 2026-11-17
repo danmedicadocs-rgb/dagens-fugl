@@ -2,7 +2,7 @@
  "key": "hydrobates-pelagicus",
  "name": "Hydrobates pelagicus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:06:39.753Z",
+ "fetchedAt": "2026-11-17T19:36:20.089Z",
  "names": {
   "da": "Lille stormsvale",
   "en": "European Storm Petrel",
@@ -19,51 +19,82 @@
  },
  "inat": {
   "id": 4170,
-  "observations": 853
+  "observations": 854
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 61730253,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61730253/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61730253/large.jpg",
+    "attribution": "(c) Albert Fernandez Chacon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38805688",
+    "place": "Le Conquet, França",
+    "date": "2018-07-10"
+   },
+   {
+    "id": 447990840,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447990840/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447990840/large.jpeg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/250483771",
+    "place": "Kilkilloge, Mullaghmore, Co. Sligo, Ireland",
+    "date": "2024-11-04"
+   },
+   {
+    "id": 610700173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610700173/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610700173/large.jpg",
+    "attribution": "(c) Kenn Papadopoulo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336099348",
+    "place": "Pontevedra, Spain",
+    "date": "2026-01-25"
+   }
+  ],
   "adult": [
    {
-    "id": 720848988,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/720848988/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/720848988/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/393285790",
-    "place": "Provincia di Vibo Valentia",
-    "date": "2026-08-12"
+    "id": 545118434,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/545118434/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/545118434/large.jpg",
+    "attribution": "(c) Geneviève Gauthier, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/302474031",
+    "place": "Saint-Louis Parish, NB, Canada",
+    "date": "2025-07-26"
    },
    {
-    "id": 353158449,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353158449/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353158449/large.jpeg",
-    "attribution": "(c) Lucy Keith-Diagne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/200194490",
-    "place": "Delta du Saloum, SN-FK-FD, SN-FK, SN",
-    "date": "2024-02-12"
+    "id": 506314745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506314745/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506314745/large.jpg",
+    "attribution": "(c) Antón Vázquez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/281841445",
+    "place": "Miño, 15630 Miño, A Coruña, Spain",
+    "date": "2025-05-16"
    },
    {
-    "id": 325589417,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325589417/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325589417/large.jpeg",
-    "attribution": "(c) Duarte Frade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/186323319",
-    "place": "Vila do Bispo, Faro, Portugal",
-    "date": "2023-10-05"
+    "id": 527168902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527168902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527168902/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/292917605",
+    "place": "Alicante, España",
+    "date": "2025-06-26"
    }
   ],
   "hero": {
-   "id": 9765046,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9765046/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9765046/large.jpg",
-   "attribution": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/9765046",
+   "id": 146446194,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146446194/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146446194/large.jpg",
+   "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC), uploaded by Andrew Thompson",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/146446194",
    "place": null,
    "date": null
   }
@@ -85,7 +116,7 @@
    41,
    12
   ],
-  "worldTotal": 112459,
+  "worldTotal": 112457,
   "topCountries": [
    {
     "code": "ES",
@@ -109,7 +140,7 @@
    },
    {
     "code": "NO",
-    "count": 5635
+    "count": 5636
    },
    {
     "code": "FO",
@@ -121,7 +152,7 @@
    },
    {
     "code": "SE",
-    "count": 663
+    "count": 664
    },
    {
     "code": "ZA",
@@ -133,12 +164,10 @@
    },
    {
     "code": "NL",
-    "count": 441
+    "count": 442
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +182,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

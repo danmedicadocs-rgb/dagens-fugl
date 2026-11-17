@@ -2,7 +2,7 @@
  "key": "glareola-pratincola",
  "name": "Glareola pratincola",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:30:17.078Z",
+ "fetchedAt": "2026-11-17T20:04:02.747Z",
  "names": {
   "da": "Rødvinget Braksvale",
   "en": "Collared Pratincole",
@@ -19,84 +19,63 @@
  },
  "inat": {
   "id": 4604,
-  "observations": 3992
+  "observations": 4000
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 244007284,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/244007284/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/244007284/large.jpeg",
+    "attribution": "(c) Russ Hoverman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/142340500",
+    "place": "Dukuduku, South Africa",
+    "date": "2022-10-09"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 42800882,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42800882/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42800882/large.jpeg",
-    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/27503892",
-    "place": "Kasese, Uganda",
-    "date": "2019-06-04"
+    "id": 264270460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264270460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264270460/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/153041112",
+    "place": "Lacul Nuntasi, Romania",
+    "date": "2022-09-10"
    },
    {
-    "id": 89616868,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/89616868/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/89616868/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/56246189",
-    "place": "Westgriechenland, Griechenland",
-    "date": "2020-07-04"
+    "id": 264270472,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/264270472/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/264270472/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/153041123",
+    "place": "Lacul Nuntasi, Romania",
+    "date": "2022-09-10"
    },
    {
-    "id": 467625530,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467625530/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467625530/large.jpeg",
-    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/260396909",
-    "place": "uMkhanyakude District Municipality, South Africa",
-    "date": "2025-02-01"
-   }
-  ],
-  "adult": [
-   {
-    "id": 327770656,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/large.jpg",
-    "attribution": "(c) Romilson Silva Lopes Junior, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/187428340",
-    "place": "Caucaia - CE",
-    "date": "2015-04-26"
-   },
-   {
-    "id": 365188276,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365188276/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365188276/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/206480873",
-    "place": "Algeciras, Cádiz, Spain",
-    "date": "2024-04-07"
-   },
-   {
-    "id": 75021725,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75021725/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75021725/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/47275212",
-    "place": "Muzi Pan, Mkuze River, Kwa-Zulu Natal, South Africa",
-    "date": "2005-10-12"
+    "id": 16069449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16069449/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/16069449/large.jpg",
+    "attribution": "(c) magdastlucia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/11295408",
+    "place": "Western Shores Loop Road",
+    "date": "2016-12-10"
    }
   ],
   "hero": {
-   "id": 327770656,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327770656/large.jpg",
-   "attribution": "(c) Romilson Silva Lopes Junior, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/187428340",
-   "place": "Caucaia - CE",
-   "date": "2015-04-26"
+   "id": 329263128,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/329263128/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/329263128/large.jpg",
+   "attribution": "(c) Tomasz Wilk, some rights reserved (CC BY-NC), uploaded by Tomasz Wilk",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/329263128",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,15 +95,15 @@
    0,
    0
   ],
-  "worldTotal": 94764,
+  "worldTotal": 94782,
   "topCountries": [
    {
     "code": "ES",
-    "count": 30008
+    "count": 30017
    },
    {
     "code": "ZA",
-    "count": 6019
+    "count": 6020
    },
    {
     "code": "FR",
@@ -144,7 +123,7 @@
    },
    {
     "code": "GR",
-    "count": 2784
+    "count": 2786
    },
    {
     "code": "IN",
@@ -160,16 +139,14 @@
    },
    {
     "code": "KE",
-    "count": 2303
+    "count": 2304
    },
    {
     "code": "TZ",
-    "count": 1870
+    "count": 1869
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

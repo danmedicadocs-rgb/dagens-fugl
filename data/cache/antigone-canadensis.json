@@ -2,7 +2,7 @@
  "key": "antigone-canadensis",
  "name": "Antigone canadensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:46.091Z",
+ "fetchedAt": "2026-11-17T20:20:49.055Z",
  "names": {
   "da": null,
   "en": null,
@@ -14,19 +14,39 @@
  "wiki": null,
  "inat": {
   "id": 508048,
-  "observations": 87438
+  "observations": 87715
  },
  "photos": {
   "male": [
    {
-    "id": 293063609,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/large.jpeg",
-    "attribution": "(c) datadan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/169062838",
-    "place": "Jefferson County, ID, USA",
-    "date": "2023-06-16"
+    "id": 55312471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55312471/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55312471/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35091107",
+    "place": "Bartelshagen II bei Barth, Deutschland",
+    "date": "2013-09-28"
+   },
+   {
+    "id": 601764679,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601764679/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601764679/large.jpg",
+    "attribution": "(c) That's Rick, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/331686021",
+    "place": "Multnomah County, OR, USA",
+    "date": "2023-01-20"
+   },
+   {
+    "id": 487335175,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487335175/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487335175/large.jpeg",
+    "attribution": "(c) kimcwren, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/270950728",
+    "place": "Minnesota, US",
+    "date": "2025-04-15"
    }
   ],
   "female": [
@@ -41,6 +61,16 @@
     "date": "2023-03-07"
    },
    {
+    "id": 181487080,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181487080/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181487080/large.jpg",
+    "attribution": "(c) Michael E Drummond, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107858867",
+    "place": "Putnam County, FL, USA",
+    "date": "2022-03-03"
+   },
+   {
     "id": 66748144,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66748144/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/66748144/large.jpg",
@@ -49,16 +79,6 @@
     "source": "https://www.inaturalist.org/observations/42055436",
     "place": "Mississippi, US",
     "date": "2020-04-12"
-   },
-   {
-    "id": 51246308,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/51246308/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/51246308/large.jpeg",
-    "attribution": "(c) Sheelagh Halsey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/32662524",
-    "place": "Delta, BC, Canada",
-    "date": "2019-05-23"
    }
   ],
   "juvenile": [
@@ -73,35 +93,35 @@
     "date": "2024-05-27"
    },
    {
-    "id": 397544387,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397544387/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/397544387/large.jpeg",
-    "attribution": "(c) Linzy L., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/224312483",
-    "place": "Turnagain, Anchorage, AK, USA",
-    "date": "2024-06-19"
+    "id": 191316847,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191316847/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191316847/large.jpg",
+    "attribution": "(c) Erika Simons, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/113228057",
+    "place": "Alachua County, FL, USA",
+    "date": "2022-04-24"
    },
    {
-    "id": 195509378,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195509378/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195509378/large.jpeg",
-    "attribution": "(c) Eric Schmidt, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/115839282",
-    "place": "Pewaukee, WI, USA",
-    "date": "2022-05-06"
+    "id": 2715946,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2715946/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2715946/large.JPG",
+    "attribution": "(c) Bridget Spencer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2436118",
+    "place": "Burnaby Lake, BC",
+    "date": "2015-06-29"
    }
   ],
   "hero": {
-   "id": 293063609,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/293063609/large.jpeg",
-   "attribution": "(c) datadan, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/169062838",
-   "place": "Jefferson County, ID, USA",
-   "date": "2023-06-16"
+   "id": 252362424,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252362424/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252362424/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/252362424",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -121,7 +141,7 @@
    0,
    1
   ],
-  "worldTotal": 2362364,
+  "worldTotal": 2362361,
   "topCountries": [
    {
     "code": "US",
@@ -153,7 +173,7 @@
    },
    {
     "code": "DE",
-    "count": 439
+    "count": 437
    },
    {
     "code": "NO",
@@ -173,8 +193,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -189,5 +207,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

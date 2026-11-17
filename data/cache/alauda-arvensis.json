@@ -2,7 +2,7 @@
  "key": "alauda-arvensis",
  "name": "Alauda arvensis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:07.443Z",
+ "fetchedAt": "2026-11-17T19:52:47.417Z",
  "names": {
   "da": "Sanglærke",
   "en": "Eurasian Skylark",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 7347,
-  "observations": 39221
+  "observations": 39296
  },
  "photos": {
   "male": [
@@ -44,18 +44,59 @@
     "date": "2021-06-08"
    },
    {
-    "id": 513065446,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513065446/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513065446/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/285442747",
-    "place": "87053 Celico CS, Italia",
-    "date": "2025-05-23"
+    "id": 189650428,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189650428/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189650428/large.jpg",
+    "attribution": "(c) Дмитрий, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112283758",
+    "place": "Некоузский р-н, Ярославская обл., Россия",
+    "date": "2022-04-21"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 478560824,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/478560824/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/478560824/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/266354149",
+    "place": "Новгородский р-н, Новгородская обл., Россия",
+    "date": "2025-03-22"
+   },
+   {
+    "id": 289200786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289200786/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289200786/large.jpeg",
+    "attribution": "(c) Алексей, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166974763",
+    "place": "г. Казань, Респ. Татарстан, Россия",
+    "date": "2023-06-11"
+   },
+   {
+    "id": 588067730,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588067730/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588067730/large.jpg",
+    "attribution": "(c) zgy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/324854287",
+    "place": "中国山东省威海市荣成市",
+    "date": "2025-11-01"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 31312315,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31312315/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31312315/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20283685",
+    "place": "Топорня, Вологодская обл., Россия",
+    "date": "2017-06-25"
+   },
    {
     "id": 202919734,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202919734/medium.jpg",
@@ -67,24 +108,14 @@
     "date": "1998-07-11"
    },
    {
-    "id": 202126822,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202126822/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202126822/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/119559542",
-    "place": "Burgos, España",
-    "date": "2022-05-28"
-   },
-   {
-    "id": 29402597,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29402597/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29402597/large.jpg",
-    "attribution": "(c) Mike Bowie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/19150002",
-    "place": "Eyrewell Forest, New Zealand",
-    "date": "2018-12-19"
+    "id": 697655017,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697655017/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697655017/large.jpg",
+    "attribution": "(c) frostheart__, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/381289144",
+    "place": "Region Hannover, DE-NI, DE",
+    "date": "2026-07-13"
    }
   ],
   "hero": {
@@ -100,50 +131,50 @@
  },
  "gbif": {
   "key": 8077224,
-  "dkTotal": 387679,
+  "dkTotal": 387695,
   "dkMonths": [
    7392,
    44006,
    75411,
    62872,
-   52741,
+   52752,
    37726,
-   27698,
-   11411,
+   27702,
+   11412,
    18328,
    38663,
    7678,
    3506
   ],
-  "worldTotal": 3811807,
+  "worldTotal": 3913183,
   "topCountries": [
    {
     "code": "SE",
-    "count": 661648
-   },
-   {
-    "code": "GB",
-    "count": 522799
+    "count": 661827
    },
    {
     "code": "FR",
-    "count": 522385
+    "count": 523326
+   },
+   {
+    "code": "GB",
+    "count": 522807
    },
    {
     "code": "DK",
-    "count": 387679
+    "count": 387695
    },
    {
     "code": "NL",
-    "count": 327489
+    "count": 327605
    },
    {
     "code": "NO",
-    "count": 211183
+    "count": 211167
    },
    {
     "code": "DE",
-    "count": 149931
+    "count": 151690
    },
    {
     "code": "BE",
@@ -151,24 +182,22 @@
    },
    {
     "code": "ES",
-    "count": 134533
+    "count": 134538
    },
    {
     "code": "AU",
-    "count": 109925
+    "count": 109926
+   },
+   {
+    "code": "CH",
+    "count": 107825
    },
    {
     "code": "NZ",
     "count": 102061
-   },
-   {
-    "code": "FI",
-    "count": 76293
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song, song in flight",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

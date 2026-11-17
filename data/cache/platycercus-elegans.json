@@ -2,7 +2,7 @@
  "key": "platycercus-elegans",
  "name": "Platycercus elegans",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:40:32.576Z",
+ "fetchedAt": "2026-11-17T20:14:38.228Z",
  "names": {
   "da": "Pennants Parakit",
   "en": "Crimson Rosella",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 18921,
-  "observations": 30823
+  "observations": 30940
  },
  "photos": {
   "male": [
@@ -44,29 +44,59 @@
     "date": "2023-08-11"
    },
    {
-    "id": 369043577,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369043577/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369043577/large.jpeg",
-    "attribution": "(c) Phil Price, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/208574102",
-    "place": "Mount Wilson NSW 2786, Australia",
-    "date": "2024-04-21"
+    "id": 400451503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400451503/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400451503/large.jpeg",
+    "attribution": "(c) Julie K, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/225837492",
+    "place": "Bucketty NSW 2250, Australia",
+    "date": "2024-06-28"
    }
   ],
   "female": [
    {
-    "id": 383530521,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/383530521/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/383530521/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/216841518",
-    "place": "Melbourne VIC, Australia",
-    "date": "2023-08-11"
+    "id": 717666285,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717666285/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717666285/large.jpg",
+    "attribution": "(c) Linda J Wilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391651824",
+    "place": "Belconnen, ACT, Australia",
+    "date": "2026-08-15"
+   },
+   {
+    "id": 522752181,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/522752181/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/522752181/large.jpg",
+    "attribution": "(c) David Spencer Muirhead, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/290580467",
+    "place": "South Australia, AU",
+    "date": "2025-06-18"
+   },
+   {
+    "id": 434291477,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434291477/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434291477/large.jpeg",
+    "attribution": "(c) Louise Merigot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/243544660",
+    "place": "Lewiston SA 5501, Australia",
+    "date": "2024-09-23"
    }
   ],
   "juvenile": [
+   {
+    "id": 111341508,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111341508/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111341508/large.jpg",
+    "attribution": "(c) deborod, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68717576",
+    "place": "Australian National Botanic Gardens, ACT, Australia\t",
+    "date": "2021-01-27"
+   },
    {
     "id": 335638522,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335638522/medium.jpg",
@@ -78,33 +108,23 @@
     "date": "2023-11-18"
    },
    {
-    "id": 463814491,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463814491/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463814491/large.jpg",
-    "attribution": "(c) jirau, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/258503094",
-    "place": "Ring Rd, Bedford Park, SA, AU",
-    "date": "2025-01-15"
-   },
-   {
-    "id": 30422161,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30422161/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30422161/large.jpg",
-    "attribution": "(c) Terra Occ, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/19744480",
-    "place": "Victoria, AU",
-    "date": "2019-01-19"
+    "id": 107340681,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107340681/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107340681/large.jpg",
+    "attribution": "(c) Sandy Horne, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66568058",
+    "place": "Auburn SA 5451, Australia",
+    "date": "2020-12-14"
    }
   ],
   "hero": {
-   "id": 159068173,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159068173/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159068173/large.jpg",
-   "attribution": "(c) patrickkavanagh, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/159068173",
+   "id": 159068167,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159068167/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159068167/large.jpg",
+   "attribution": "(c) David Cook, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/159068167",
    "place": null,
    "date": null
   }
@@ -126,11 +146,11 @@
    0,
    1
   ],
-  "worldTotal": 953093,
+  "worldTotal": 953107,
   "topCountries": [
    {
     "code": "AU",
-    "count": 949720
+    "count": 949721
    },
    {
     "code": "NF",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

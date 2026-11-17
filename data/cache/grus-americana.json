@@ -2,7 +2,7 @@
  "key": "grus-americana",
  "name": "Grus americana",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:45:41.635Z",
+ "fetchedAt": "2026-11-17T20:20:43.802Z",
  "names": {
   "da": "Trompetértrane",
   "en": "Whooping crane",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 34,
-  "observations": 5060
+  "observations": 5078
  },
  "photos": {
   "male": [
@@ -34,6 +34,16 @@
     "date": "2026-05-09"
    },
    {
+    "id": 71307564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71307564/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71307564/large.png",
+    "attribution": "(c) srndpty, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/44978301",
+    "place": "Florida, US",
+    "date": "2019-06-19"
+   },
+   {
     "id": 22761255,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22761255/medium.jpeg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22761255/large.jpeg",
@@ -42,60 +52,70 @@
     "source": "https://www.inaturalist.org/observations/15214359",
     "place": "CH-101, Chanhassen, Minnesota, US",
     "date": "2018-08-07"
-   },
-   {
-    "id": 236540407,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236540407/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236540407/large.jpg",
-    "attribution": "(c) Gratias Brent, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/138396736",
-    "place": "Last Mountain Lake, Wreford No. 280, SK, CA",
-    "date": "2022-10-10"
    }
   ],
   "female": [
    {
-    "id": 9937138,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9937138/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/9937138/large.jpeg",
-    "attribution": "(c) Jody Shugart, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/7604388",
-    "place": "Louisiana, US",
-    "date": "2017-08-03"
+    "id": 371238300,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/371238300/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/371238300/large.jpeg",
+    "attribution": "(c) dtwilliams, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/209826303",
+    "place": "Ridott Township, Stephenson County, IL, USA",
+    "date": "2024-04-26"
+   },
+   {
+    "id": 727998727,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727998727/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727998727/large.jpg",
+    "attribution": "(c) Corrie McAliley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/396954187",
+    "place": null,
+    "date": "2026-09-02"
+   },
+   {
+    "id": 334800090,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334800090/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334800090/large.jpg",
+    "attribution": "(c) Matt and Kaysea Bruce, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190919742",
+    "place": "Florida, US",
+    "date": "2023-11-12"
    }
   ],
   "juvenile": [
    {
-    "id": 590088044,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590088044/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590088044/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/325870467",
-    "place": "Indiana, US",
-    "date": "2025-11-07"
-   },
-   {
-    "id": 607685930,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607685930/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607685930/large.jpg",
-    "attribution": "(c) Lauren McLaurin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/334607659",
-    "place": "Alabama, US",
-    "date": "2026-01-11"
-   },
-   {
-    "id": 469108465,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469108465/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469108465/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/261148142",
+    "id": 662526568,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662526568/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662526568/large.jpg",
+    "attribution": "(c) Rachel Moy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362968588",
     "place": "Texas, US",
-    "date": "2025-02-07"
+    "date": "2025-11-21"
+   },
+   {
+    "id": 253319675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253319675/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253319675/large.jpeg",
+    "attribution": "(c) laurasare, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147237203",
+    "place": "Texas, US",
+    "date": "2012-02-18"
+   },
+   {
+    "id": 609130853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/609130853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/609130853/large.jpg",
+    "attribution": "(c) Evan Kidd, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335319289",
+    "place": "Meigs County, TN, USA",
+    "date": "2026-01-18"
    }
   ],
   "hero": {
@@ -126,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 76864,
+  "worldTotal": 76863,
   "topCountries": [
    {
     "code": "US",
@@ -145,17 +165,11 @@
     "count": 2
    },
    {
-    "code": "DE",
-    "count": 1
-   },
-   {
     "code": "NG",
     "count": 1
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -170,5 +184,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

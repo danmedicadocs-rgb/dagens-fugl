@@ -2,7 +2,7 @@
  "key": "alectura-lathami",
  "name": "Alectura lathami",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:54.468Z",
+ "fetchedAt": "2026-11-17T20:16:05.628Z",
  "names": {
   "da": "Kratkalkun",
   "en": "Australian Brushturkey",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 2038,
-  "observations": 24741
+  "observations": 24826
  },
  "photos": {
   "male": [
    {
-    "id": 430649545,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/430649545/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/430649545/large.png",
-    "attribution": "(c) Jane G., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/241624443",
-    "place": "O'Reilly QLD 4275, Australia",
-    "date": "2019-10-02"
+    "id": 336622754,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336622754/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336622754/large.jpeg",
+    "attribution": "(c) pratyeka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191828120",
+    "place": "Thornleigh NSW 2120, Australia",
+    "date": "2023-11-23"
    },
    {
-    "id": 323822996,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323822996/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323822996/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/185416127",
-    "place": "Cairns Queensland, Australie",
-    "date": "2023-08-01"
+    "id": 55850021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55850021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55850021/large.jpg",
+    "attribution": "(c) Michael Hains, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35420071",
+    "place": "Coffs Harbour - Pt A, New South Wales, Australia",
+    "date": "2019-11-05"
    },
    {
-    "id": 588884722,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/588884722/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/588884722/large.jpg",
-    "attribution": "(c) ian_mcallan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/325269412",
-    "place": "Sydney NSW, Australia",
-    "date": "2025-10-26"
+    "id": 312865845,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312865845/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312865845/large.jpeg",
+    "attribution": "(c) penguingough, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179685090",
+    "place": "Marrickville NSW 2204, Australia",
+    "date": "2023-08-22"
    }
   ],
   "female": [
+   {
+    "id": 71731635,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71731635/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/71731635/large.jpg",
+    "attribution": "(c) Ashleigh Miller, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/45240745",
+    "place": "Hastings Street, Noosa Heads, QLD, AU",
+    "date": "2020-05-08"
+   },
    {
     "id": 326255683,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/326255683/medium.jpg",
@@ -66,24 +76,14 @@
     "date": "2023-10-08"
    },
    {
-    "id": 257417008,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257417008/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257417008/large.jpeg",
-    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/149390807",
-    "place": "Sydney NSW, Australia",
-    "date": "2014-07-02"
-   },
-   {
-    "id": 231591720,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231591720/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231591720/large.jpeg",
-    "attribution": "(c) Natasha Taylor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/135754567",
-    "place": "Graceville Parks",
-    "date": "2022-09-20"
+    "id": 759554350,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/759554350/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/759554350/large.jpg",
+    "attribution": "(c) Max Fulham, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412756798",
+    "place": "Glenview QLD 4553, Australia",
+    "date": "2026-11-02"
    }
   ],
   "juvenile": [
@@ -98,24 +98,24 @@
     "date": "2023-10-16"
    },
    {
-    "id": 458142868,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458142868/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458142868/large.jpeg",
-    "attribution": "(c) Greg Tasney, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/255628187",
-    "place": "Wickham Terrace Stop 133 at Brisbane Private Hosp, Spring Hill QLD 4000, Australia",
-    "date": "2024-12-20"
+    "id": 347880858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347880858/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347880858/large.jpg",
+    "attribution": "(c) thomaswald, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197506198",
+    "place": "Taronga Zoo Sydney, Mosman, NSW, AU",
+    "date": "2024-01-01"
    },
    {
-    "id": 249349818,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249349818/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249349818/large.jpeg",
-    "attribution": "(c) Nathan Ruser, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145185894",
-    "place": "New South Wales, AU",
-    "date": "2022-12-27"
+    "id": 469561502,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469561502/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469561502/large.jpg",
+    "attribution": "(c) David, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261375606",
+    "place": "O'Connell St, Newtown, NSW, AU",
+    "date": "2025-02-12"
    }
   ],
   "hero": {
@@ -146,11 +146,11 @@
    1,
    0
   ],
-  "worldTotal": 289674,
+  "worldTotal": 289676,
   "topCountries": [
    {
     "code": "AU",
-    "count": 289476
+    "count": 289478
    },
    {
     "code": "ZZ",
@@ -190,8 +190,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -206,5 +204,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

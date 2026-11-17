@@ -2,7 +2,7 @@
  "key": "trichoglossus-moluccanus",
  "name": "Trichoglossus moluccanus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:39:34.805Z",
+ "fetchedAt": "2026-11-17T20:13:32.550Z",
  "names": {
   "da": "Regnbuelori",
   "en": "Rainbow Lorikeet",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 980095,
-  "observations": 44477
+  "observations": 44611
  },
  "photos": {
   "male": [
+   {
+    "id": 344084200,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344084200/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344084200/large.jpeg",
+    "attribution": "(c) Poppy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195564945",
+    "place": "Mooroolbark VIC 3138, Australia",
+    "date": "2021-10-01"
+   },
+   {
+    "id": 614452228,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614452228/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614452228/large.jpg",
+    "attribution": "(c) Marsden Allan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/266242099",
+    "place": "Cooloola Cove QLD, Australia",
+    "date": "2025-03-20"
+   },
    {
     "id": 181273542,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273542/medium.jpeg",
@@ -32,51 +52,51 @@
     "source": "https://www.inaturalist.org/observations/107744013",
     "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
     "date": "2022-03-01"
-   },
-   {
-    "id": 181515597,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181515597/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181515597/large.jpeg",
-    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/107873772",
-    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
-    "date": "2022-03-04"
-   },
-   {
-    "id": 17301651,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17301651/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/17301651/large.jpeg",
-    "attribution": "(c) Dragonette, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/12065690",
-    "place": "New South Wales, AU",
-    "date": "2018-05-03"
    }
   ],
   "female": [
    {
-    "id": 181273563,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273563/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181273563/large.jpeg",
-    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/107744034",
-    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
-    "date": "2022-03-01"
+    "id": 403166444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403166444/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403166444/large.jpg",
+    "attribution": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/227272065",
+    "place": "Alfred Cove Nature Reserve, Attadale WA 6156 ออสเตรเลีย",
+    "date": "2015-05-30"
    },
    {
-    "id": 184588912,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184588912/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184588912/large.jpeg",
-    "attribution": "(c) Sofia Zvolanek, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/109512798",
-    "place": "Kissing Point Rd at Benning Ave, South Turramurra NSW 2074, Australia",
-    "date": "2022-03-26"
+    "id": 626899460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626899460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626899460/large.jpg",
+    "attribution": "(c) samarah2, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/344086399",
+    "place": "Mount Waverley VIC 3149, Australia",
+    "date": "2026-03-21"
+   },
+   {
+    "id": 614452232,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614452232/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614452232/large.jpg",
+    "attribution": "(c) Marsden Allan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/337941297",
+    "place": "Cooloola Cove QLD, Australia",
+    "date": "2025-03-20"
    }
   ],
   "juvenile": [
+   {
+    "id": 466917463,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466917463/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466917463/large.jpg",
+    "attribution": "(c) RattyExplores, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/260041908",
+    "place": "Coffs Harbour NSW, Australia",
+    "date": "2025-01-30"
+   },
    {
     "id": 381973797,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381973797/medium.jpeg",
@@ -88,24 +108,14 @@
     "date": "2021-04-04"
    },
    {
-    "id": 250964402,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250964402/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250964402/large.jpg",
-    "attribution": "(c) Proteros, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146028312",
-    "place": "New South Wales, AU",
-    "date": "2023-01-07"
-   },
-   {
-    "id": 602657988,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602657988/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602657988/large.jpg",
-    "attribution": "(c) Liam Sultana, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/332119885",
-    "place": "Melbourne VIC, Australia",
-    "date": "2025-12-25"
+    "id": 12051267,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12051267/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12051267/large.jpg",
+    "attribution": "(c) Simon Grove, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8944046",
+    "place": "Taroona, Tasmania, Australia",
+    "date": "2017-01-28"
    }
   ],
   "hero": {
@@ -136,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 1684320,
+  "worldTotal": 1684327,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1683358
+    "count": 1683365
    },
    {
     "code": "PG",
@@ -188,8 +198,8 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": null,
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "emberiza-calandra",
  "name": "Emberiza calandra",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:28:17.834Z",
+ "fetchedAt": "2026-11-17T20:01:42.712Z",
  "names": {
   "da": "Bomlærke",
   "en": "Corn Bunting",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 145291,
-  "observations": 25809
+  "observations": 25853
  },
  "photos": {
   "male": [
@@ -54,37 +54,68 @@
     "date": "2023-05-23"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 107664054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107664054/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107664054/large.jpg",
+    "attribution": "(c) Andy Gooden, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66743390",
+    "place": "Essex, UK",
+    "date": "2020-12-17"
+   },
+   {
+    "id": 707257063,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707257063/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707257063/large.jpg",
+    "attribution": "(c) DidierLC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/386285027",
+    "place": "Les Hauts de Saint-Aubin, Angers, France",
+    "date": "2026-07-29"
+   },
+   {
+    "id": 174031413,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174031413/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174031413/large.jpeg",
+    "attribution": "(c) michel_kilcher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103909865",
+    "place": "Switzerland",
+    "date": "2020-05-09"
+   }
+  ],
   "juvenile": [
    {
-    "id": 291741257,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291741257/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291741257/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/168348129",
-    "place": "Sila",
-    "date": "2023-06-17"
+    "id": 53813002,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53813002/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53813002/large.jpg",
+    "attribution": "(c) José Ríos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34210530",
+    "place": "Canal del Guadalmellato, Córdoba, Andalucía, ES",
+    "date": "2018-04-17"
    },
    {
-    "id": 291740706,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291740706/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291740706/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/168347914",
-    "place": "Sila",
-    "date": "2023-06-17"
+    "id": 286294153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286294153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286294153/large.jpg",
+    "attribution": "(c) en Tomeu ros roua, dels roues dels damunts, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165395309",
+    "place": "Sa Casa Blanca, Palma, Illes Balears, España",
+    "date": "2023-06-01"
    },
    {
-    "id": 401312744,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/401312744/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/401312744/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/226293916",
-    "place": "Parco nazionale della Sila",
-    "date": "2024-06-27"
+    "id": 685281495,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/685281495/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/685281495/large.jpg",
+    "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/374890406",
+    "place": "Provincia di Pavia, Italia",
+    "date": "2026-06-21"
    }
   ],
   "hero": {
@@ -100,13 +131,13 @@
  },
  "gbif": {
   "key": 7634625,
-  "dkTotal": 83361,
+  "dkTotal": 83364,
   "dkMonths": [
    5665,
    5102,
    7148,
    13061,
-   18129,
+   18132,
    11288,
    10093,
    2856,
@@ -115,23 +146,23 @@
    3267,
    3289
   ],
-  "worldTotal": 1163104,
+  "worldTotal": 1185485,
   "topCountries": [
    {
     "code": "ES",
-    "count": 369155
+    "count": 369177
    },
    {
     "code": "FR",
-    "count": 206181
+    "count": 206227
    },
    {
     "code": "PT",
-    "count": 129744
+    "count": 129745
    },
    {
     "code": "DK",
-    "count": 83361
+    "count": 83364
    },
    {
     "code": "GB",
@@ -143,32 +174,30 @@
    },
    {
     "code": "DE",
-    "count": 28385
+    "count": 28718
    },
    {
     "code": "TR",
-    "count": 27695
+    "count": 27703
    },
    {
     "code": "GR",
-    "count": 25315
+    "count": 25326
+   },
+   {
+    "code": "CH",
+    "count": 24123
    },
    {
     "code": "PL",
-    "count": 23589
+    "count": 23592
    },
    {
     "code": "SE",
-    "count": 21137
-   },
-   {
-    "code": "IL",
-    "count": 20130
+    "count": 21144
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

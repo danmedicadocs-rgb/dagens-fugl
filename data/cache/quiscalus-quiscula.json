@@ -2,7 +2,7 @@
  "key": "quiscalus-quiscula",
  "name": "Quiscalus quiscula",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:41.962Z",
+ "fetchedAt": "2026-11-17T20:21:51.275Z",
  "names": {
   "da": "Sortgrackel",
   "en": "Common Grackle",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 9602,
-  "observations": 121431
+  "observations": 121513
  },
  "photos": {
   "male": [
    {
-    "id": 259736067,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259736067/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259736067/large.jpeg",
-    "attribution": "(c) Mike Brady, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/150611145",
-    "place": "Wilkerson Creek Park, The Villages, FL, USA",
-    "date": "2023-03-08"
+    "id": 7275325,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7275325/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/7275325/large.jpg",
+    "attribution": "(c) Joelle Belmonte, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/5846425",
+    "place": "Cook, Illinois, United States",
+    "date": "2017-04-17"
    },
    {
-    "id": 70371239,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70371239/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70371239/large.jpg",
-    "attribution": "(c) Peter Chen 2.0, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/44384528",
-    "place": " Montrose Point Bird Sanctuary, Chicago, IL, USA",
-    "date": "2016-05-29"
+    "id": 213626110,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213626110/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213626110/large.jpeg",
+    "attribution": "(c) Nathaniel Sharp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125937326",
+    "place": "Stowe, VT 05672, USA",
+    "date": "2022-07-07"
    },
    {
-    "id": 132804457,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132804457/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132804457/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/80997105",
-    "place": "Madison, WI, USA",
-    "date": "2021-05-30"
+    "id": 212296336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212296336/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212296336/large.jpg",
+    "attribution": "(c) lauren w., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125198363",
+    "place": "Nebraska, US",
+    "date": "2022-07-07"
    }
   ],
   "female": [
+   {
+    "id": 222083757,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/222083757/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/222083757/large.jpg",
+    "attribution": "(c) lauren w., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/130575061",
+    "place": "Nebraska, US",
+    "date": "2022-08-11"
+   },
    {
     "id": 390912873,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/390912873/medium.jpeg",
@@ -66,27 +76,27 @@
     "date": "2024-06-05"
    },
    {
-    "id": 24088004,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24088004/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24088004/large.jpeg",
-    "attribution": "(c) Bobby McCabe, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/16083082",
-    "place": "3001 Connecticut Ave NW, Washington, DC 20008, USA",
-    "date": "2018-08-27"
-   },
-   {
-    "id": 75340380,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75340380/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75340380/large.jpeg",
-    "attribution": "(c) Louise Woodrich, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/47500672",
-    "place": "Henrico County, VA, USA",
-    "date": "2020-05-26"
+    "id": 46799902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46799902/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46799902/large.jpg",
+    "attribution": "(c) pixie7girl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29968576",
+    "place": "631 Maple Dr, Skaneateles Falls, NY, US",
+    "date": "2019-07-29"
    }
   ],
   "juvenile": [
+   {
+    "id": 388431129,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/388431129/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/388431129/large.jpeg",
+    "attribution": "(c) mothsperhour, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219451524",
+    "place": "Lincoln Square, Chicago, IL, USA",
+    "date": "2024-05-26"
+   },
    {
     "id": 124901553,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/124901553/medium.jpg",
@@ -98,35 +108,25 @@
     "date": "2021-05-01"
    },
    {
-    "id": 28371360,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28371360/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28371360/large.jpeg",
-    "attribution": "(c) mfeaver, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/18545439",
-    "place": "Jackson County, FL, USA",
-    "date": "2015-05-17"
-   },
-   {
-    "id": 140093559,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140093559/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140093559/large.jpeg",
-    "attribution": "(c) Alexis Williams, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/85170934",
-    "place": "Kettles Ridge",
-    "date": "2021-06-30"
+    "id": 280937518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280937518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280937518/large.jpeg",
+    "attribution": "(c) Sarah Bowman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162473302",
+    "place": "King East, Kitchener, ON, Canada",
+    "date": "2023-05-19"
    }
   ],
   "hero": {
-   "id": 259736067,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259736067/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259736067/large.jpeg",
-   "attribution": "(c) Mike Brady, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/150611145",
-   "place": "Wilkerson Creek Park, The Villages, FL, USA",
-   "date": "2023-03-08"
+   "id": 265296529,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/large.jpg",
+   "attribution": "(c) brian stahls, some rights reserved (CC BY-NC), uploaded by brian stahls",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/265296529",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 12095145,
+  "worldTotal": 12095146,
   "topCountries": [
    {
     "code": "US",
-    "count": 9842116
+    "count": 9842117
    },
    {
     "code": "CA",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

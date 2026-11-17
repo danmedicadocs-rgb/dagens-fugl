@@ -2,7 +2,7 @@
  "key": "curruca-nisoria",
  "name": "Curruca nisoria",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:33.857Z",
+ "fetchedAt": "2026-11-17T19:54:27.900Z",
  "names": {
   "da": "Høgesanger",
   "en": null,
@@ -19,32 +19,73 @@
  },
  "inat": {
   "id": 1289488,
-  "observations": 2198
+  "observations": 2203
  },
  "photos": {
   "male": [
    {
-    "id": 527739777,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527739777/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527739777/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/293219635",
-    "place": "Brandenburg, DE",
-    "date": "2025-06-09"
+    "id": 503720521,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503720521/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503720521/large.jpeg",
+    "attribution": "(c) Axel Gosseries, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/280460562",
+    "place": "Mtskheta Municipality, Géorgie",
+    "date": "2025-05-12"
    },
    {
-    "id": 675171246,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675171246/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675171246/large.jpg",
-    "attribution": "(c) Jono, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/369615142",
-    "place": "786Q+HP, 04416 Markkleeberg, Germany",
-    "date": "2026-06-08"
+    "id": 134257853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134257853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134257853/large.jpg",
+    "attribution": "(c) igorkonstr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81837653",
+    "place": "Оболонский район, Киев, Украина, 02000",
+    "date": "2021-06-05"
+   },
+   {
+    "id": 246228268,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246228268/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246228268/large.jpg",
+    "attribution": "(c) kuzeycem, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/143563128",
+    "place": "Atakent Sitesi, İncek",
+    "date": "2020-05-18"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 199686980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199686980/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199686980/large.jpeg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/118205151",
+    "place": "Majid Abad, District 4, Tehran, Tehran Province, Iran",
+    "date": "2022-05-19"
+   },
+   {
+    "id": 309409304,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309409304/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309409304/large.jpeg",
+    "attribution": "(c) marina_gavrikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177868139",
+    "place": "Юж. административный округ, Москва, Россия",
+    "date": "2023-07-01"
+   },
+   {
+    "id": 42673933,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42673933/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42673933/large.jpeg",
+    "attribution": "(c) Полина Яковлевна Нехаева (Лихачева), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27426450",
+    "place": "Михайловский р-н, Рязанская обл., Россия",
+    "date": "2019-06-22"
+   }
+  ],
   "juvenile": [
    {
     "id": 591350337,
@@ -57,6 +98,16 @@
     "date": "2007-10-13"
    },
    {
+    "id": 611253129,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611253129/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611253129/large.jpg",
+    "attribution": "(c) Ксения Соварцева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336376721",
+    "place": "Староселье, Тверская обл., Россия, 172517",
+    "date": "2016-08-07"
+   },
+   {
     "id": 93106237,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/93106237/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/93106237/large.jpg",
@@ -65,27 +116,17 @@
     "source": "https://www.inaturalist.org/observations/58323741",
     "place": "East Riding of Yorkshire, UK",
     "date": "2020-09-01"
-   },
-   {
-    "id": 108783572,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108783572/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108783572/large.jpeg",
-    "attribution": "(c) Anthony McDonald, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67343844",
-    "place": "Flamborough, East Riding of Yorkshire, UK",
-    "date": "2020-09-21"
    }
   ],
   "hero": {
-   "id": 527739777,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527739777/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527739777/large.jpg",
-   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/293219635",
-   "place": "Brandenburg, DE",
-   "date": "2025-06-09"
+   "id": 211458488,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211458488/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211458488/large.jpeg",
+   "attribution": "(c) sooloovey, some rights reserved (CC BY-NC), uploaded by sooloovey",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/211458488",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -105,7 +146,7 @@
    197,
    35
   ],
-  "worldTotal": 89310,
+  "worldTotal": 89387,
   "topCountries": [
    {
     "code": "SE",
@@ -117,7 +158,7 @@
    },
    {
     "code": "NL",
-    "count": 5307
+    "count": 5310
    },
    {
     "code": "PL",
@@ -133,7 +174,7 @@
    },
    {
     "code": "FI",
-    "count": 3371
+    "count": 3373
    },
    {
     "code": "EE",
@@ -145,11 +186,11 @@
    },
    {
     "code": "TR",
-    "count": 2322
+    "count": 2323
    },
    {
     "code": "DE",
-    "count": 2184
+    "count": 2199
    },
    {
     "code": "DK",
@@ -157,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +212,7 @@
   "type": "alarm call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "prunella-modularis",
  "name": "Prunella modularis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:25:36.062Z",
+ "fetchedAt": "2026-11-17T19:58:12.956Z",
  "names": {
   "da": "Jernspurv",
   "en": "Dunnock",
@@ -19,19 +19,29 @@
  },
  "inat": {
   "id": 13988,
-  "observations": 46831
+  "observations": 46971
  },
  "photos": {
   "male": [
    {
-    "id": 191787058,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191787058/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191787058/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/113525048",
-    "place": "Bebington, Wirral, UK",
-    "date": "2022-04-29"
+    "id": 360935825,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/360935825/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/360935825/large.jpeg",
+    "attribution": "(c) Małgorzata Śliż, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/204222599",
+    "place": "Powiat żywiecki, Polska",
+    "date": "2023-05-05"
+   },
+   {
+    "id": 121165824,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121165824/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121165824/large.jpeg",
+    "attribution": "(c) Graeme Baxter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74156641",
+    "place": "Aberdeen, UK",
+    "date": "2021-04-16"
    },
    {
     "id": 67941057,
@@ -42,16 +52,6 @@
     "source": "https://www.inaturalist.org/observations/42790583",
     "place": "266 01 Beroun, Česko",
     "date": "2020-04-18"
-   },
-   {
-    "id": 341324984,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341324984/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341324984/large.jpeg",
-    "attribution": "(c) Tom Garner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/194214549",
-    "place": "Lancashire, UK",
-    "date": "2022-12-04"
    }
   ],
   "female": [
@@ -66,27 +66,37 @@
     "date": "2022-03-02"
    },
    {
-    "id": 216475620,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216475620/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216475620/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/127508183",
-    "place": "Nannerth Fawr",
-    "date": "2022-07-11"
+    "id": 355048562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355048562/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/355048562/large.jpg",
+    "attribution": "(c) marcos_wildlife, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/201161888",
+    "place": "Leicestershire, UK",
+    "date": "2023-05-16"
    },
    {
-    "id": 191773919,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191773919/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191773919/large.jpeg",
-    "attribution": "(c) Roy Lowry, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/113516699",
-    "place": "Bebington, Wirral, UK",
-    "date": "2022-04-29"
+    "id": 646338835,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/646338835/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/646338835/large.jpg",
+    "attribution": "(c) Åge Blomstadli, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/354289757",
+    "place": "Drangedal, Norge",
+    "date": "2026-04-26"
    }
   ],
   "juvenile": [
+   {
+    "id": 339770440,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339770440/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339770440/large.jpg",
+    "attribution": "(c) Ben Ackerley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/193417655",
+    "place": "King Park, Christchurch, Canterbury, NZ",
+    "date": "2023-12-09"
+   },
    {
     "id": 443094983,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443094983/medium.jpeg",
@@ -98,79 +108,69 @@
     "date": "2024-10-17"
    },
    {
-    "id": 62639051,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62639051/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62639051/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/39477538",
-    "place": "Makara, Wellington 6972, New Zealand",
-    "date": "2020-03-03"
-   },
-   {
-    "id": 722134971,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/722134971/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/722134971/large.jpg",
-    "attribution": "(c) Roger A. Morales-Flores, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/393948817",
-    "place": "Norfolk, UK",
-    "date": "2026-07-13"
+    "id": 357851623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/357851623/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/357851623/large.jpeg",
+    "attribution": "(c) Pete Woodall, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202607189",
+    "place": "Lake Tekapo 7999, New Zealand",
+    "date": "2024-02-17"
    }
   ],
   "hero": {
-   "id": 487246115,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487246115/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/487246115/large.jpg",
-   "attribution": "(c) peterichman, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/487246115",
+   "id": 409496277,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409496277/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409496277/large.jpg",
+   "attribution": "(c) Ben Ackerley, some rights reserved (CC BY-NC), uploaded by Ben Ackerley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/409496277",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5231763,
-  "dkTotal": 218253,
+  "dkTotal": 218255,
   "dkMonths": [
    8242,
    6573,
    35496,
    56392,
-   31645,
+   31646,
    16959,
-   7705,
+   7706,
    5473,
    18512,
    19406,
    6504,
    5282
   ],
-  "worldTotal": 4171622,
+  "worldTotal": 4264169,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1089768
+    "count": 1089781
    },
    {
     "code": "FR",
-    "count": 542283
+    "count": 542531
    },
    {
     "code": "SE",
-    "count": 528457
+    "count": 528609
    },
    {
     "code": "NL",
-    "count": 501437
+    "count": 501935
    },
    {
     "code": "FI",
-    "count": 242888
+    "count": 242897
    },
    {
     "code": "DK",
-    "count": 218253
+    "count": 218255
    },
    {
     "code": "BE",
@@ -178,28 +178,26 @@
    },
    {
     "code": "DE",
-    "count": 191322
+    "count": 192801
    },
    {
     "code": "NO",
-    "count": 165429
+    "count": 165431
    },
    {
     "code": "ES",
-    "count": 131732
+    "count": 131740
    },
    {
     "code": "NZ",
     "count": 113636
    },
    {
-    "code": "IE",
-    "count": 42278
+    "code": "CH",
+    "count": 96711
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

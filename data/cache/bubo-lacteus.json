@@ -2,7 +2,7 @@
  "key": "bubo-lacteus",
  "name": "Bubo lacteus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:33:59.746Z",
+ "fetchedAt": "2026-11-17T20:07:58.525Z",
  "names": {
   "da": "Savannehornugle",
   "en": "Verreaux's Eagle-Owl",
@@ -27,7 +27,16 @@
   "juvenile": [],
   "adult": [],
   "general": [],
-  "hero": null
+  "hero": {
+   "id": 195370000,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195370000/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195370000/large.jpg",
+   "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/195370000",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 5959139,
@@ -46,7 +55,7 @@
    0,
    0
   ],
-  "worldTotal": 29924,
+  "worldTotal": 29929,
   "topCountries": [
    {
     "code": "ZA",
@@ -54,7 +63,7 @@
    },
    {
     "code": "KE",
-    "count": 4899
+    "count": 4900
    },
    {
     "code": "TZ",
@@ -74,7 +83,7 @@
    },
    {
     "code": "GM",
-    "count": 1195
+    "count": 1199
    },
    {
     "code": "NA",
@@ -98,8 +107,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -114,5 +121,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

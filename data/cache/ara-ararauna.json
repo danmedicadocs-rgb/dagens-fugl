@@ -2,7 +2,7 @@
  "key": "ara-ararauna",
  "name": "Ara ararauna",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:34.388Z",
+ "fetchedAt": "2026-11-17T20:22:53.010Z",
  "names": {
   "da": "Blågul Ara",
   "en": "Blue-and-yellow Macaw",
@@ -19,62 +19,112 @@
  },
  "inat": {
   "id": 19018,
-  "observations": 14087
+  "observations": 14135
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 714317185,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714317185/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714317185/large.jpg",
-    "attribution": "(c) Vinicius Gerolin Ceballos, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/389937963",
-    "place": "Mato Grosso do Sul, BR",
-    "date": "2021-11-25"
+    "id": 621322503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/621322503/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/621322503/large.jpg",
+    "attribution": "(c) Fabrizio Migliore, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341317998",
+    "place": "Venezuela",
+    "date": "2024-11-10"
+   },
+   {
+    "id": 714082450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714082450/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714082450/large.jpg",
+    "attribution": "(c) Marina Windevoxhel L., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/389818382",
+    "place": "Venezuela",
+    "date": "2026-08-07"
+   },
+   {
+    "id": 69580929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69580929/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/69580929/large.jpg",
+    "attribution": "(c) Cintia Garron peñaranda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/43874742",
+    "place": "Santa Cruz, BO",
+    "date": "2020-04-14"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 711230016,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711230016/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711230016/large.jpg",
-    "attribution": "(c) willengarg, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/388342873",
-    "place": "Mato Grosso, BR",
-    "date": "2026-08-04"
-   },
-   {
-    "id": 527736147,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527736147/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527736147/large.jpg",
-    "attribution": "(c) Gabriel Augusto Faria, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/293217256",
+    "id": 457863997,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457863997/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457863997/large.jpg",
+    "attribution": "(c) Julio César Schadek Barbosa, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255493120",
     "place": "São Paulo, BR",
-    "date": "2025-06-21"
+    "date": "2024-12-14"
    },
    {
-    "id": 58796206,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58796206/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58796206/large.jpg",
-    "attribution": "(c) Greg Barrett, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37121237",
-    "place": "J11–J31 Calle Bilbao, Guaynabo, PR, US",
-    "date": "2019-12-30"
+    "id": 304196231,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/304196231/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/304196231/large.jpeg",
+    "attribution": "(c) blockitect, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175058060",
+    "place": "Antioquia, CO",
+    "date": "2023-07-24"
+   },
+   {
+    "id": 615265157,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615265157/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615265157/large.jpg",
+    "attribution": "(c) Esteban Cabrera, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338338357",
+    "place": "Antioquia, CO",
+    "date": "2026-02-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 96614210,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96614210/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96614210/large.jpeg",
+    "attribution": "(c) Alexis Deniz M, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/60420882",
+    "place": "Venezuela",
+    "date": "2020-09-21"
+   },
+   {
+    "id": 620866819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620866819/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620866819/large.jpg",
+    "attribution": "(c) Fernando Tavares., some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341096241",
+    "place": "Bahia, BR",
+    "date": "2026-03-02"
+   },
+   {
+    "id": 253960984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253960984/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253960984/large.jpg",
+    "attribution": "(c) Laurent Quéno, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147574656",
+    "place": "Goiás, BR",
+    "date": "2023-01-28"
    }
   ],
   "hero": {
-   "id": 64882144,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64882144/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64882144/large.jpg",
-   "attribution": "(c) Frank Dietze, some rights reserved (CC BY), uploaded by Frank Dietze",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/64882144",
+   "id": 414331079,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414331079/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414331079/large.jpeg",
+   "attribution": "(c) KENNEDY BORGES, some rights reserved (CC BY-NC), uploaded by KENNEDY BORGES",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/414331079",
    "place": null,
    "date": null
   }
@@ -96,11 +146,11 @@
    2,
    0
   ],
-  "worldTotal": 117986,
+  "worldTotal": 117988,
   "topCountries": [
    {
     "code": "BR",
-    "count": 38668
+    "count": 38670
    },
    {
     "code": "VE",
@@ -148,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

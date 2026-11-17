@@ -2,7 +2,7 @@
  "key": "apus-apus",
  "name": "Apus apus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:18:06.030Z",
+ "fetchedAt": "2026-11-17T19:49:10.850Z",
  "names": {
   "da": "Mursejler",
   "en": "Common Swift",
@@ -19,104 +19,124 @@
  },
  "inat": {
   "id": 6638,
-  "observations": 38587
+  "observations": 38601
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 409936452,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409936452/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409936452/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/230851928",
-    "place": "Ponte de Lima, Portugal",
-    "date": "2024-07-08"
+    "id": 673848547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673848547/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673848547/large.jpg",
+    "attribution": "(c) Тимур Ильин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368917053",
+    "place": "улица Пушкина, Брянск, Брянская область, RU",
+    "date": "2026-06-06"
    },
    {
-    "id": 98143808,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98143808/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98143808/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/61339675",
-    "place": "Юж. административный округ, Москва, Россия",
-    "date": "2010-07-25"
-   },
-   {
-    "id": 218733930,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218733930/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/218733930/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/128758608",
-    "place": "Вадский р-н, Нижегородская обл., Россия",
-    "date": "2022-07-30"
+    "id": 203399442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203399442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203399442/large.jpg",
+    "attribution": "(c) Irina Krug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/120270866",
+    "place": "Новоалтайск, Алтайский край, Россия",
+    "date": "2022-05-14"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 282703050,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282703050/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282703050/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/163450373",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2023-05-24"
+    "id": 290509984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290509984/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290509984/large.jpeg",
+    "attribution": "(c) Вадим Рыбаков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/167681341",
+    "place": "Заволжский р-н, Тверь, Тверская обл., Россия",
+    "date": "2023-06-16"
    },
    {
-    "id": 382277341,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/382277341/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/382277341/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/216170697",
-    "place": "2770 Paço de Arcos, Portugal",
-    "date": "2024-05-11"
+    "id": 689476879,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689476879/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689476879/large.jpg",
+    "attribution": "(c) Alexis MIRETTI, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377057755",
+    "place": "Gard, Languedoc-Roussillon, FR",
+    "date": "2026-06-30"
    },
    {
-    "id": 362324312,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/362324312/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/362324312/large.png",
-    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/204953412",
-    "place": "Scandellara, Bologna BO, Italy",
-    "date": "2024-04-01"
+    "id": 517231752,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/517231752/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/517231752/large.jpg",
+    "attribution": "(c) Alice, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/287654649",
+    "place": "Bianchi 3, 56123 Pisa PI, Italia",
+    "date": "2025-06-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 219954162,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219954162/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219954162/large.jpg",
+    "attribution": "(c) mobbini, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/129433725",
+    "place": "Alt-West, Leipzig, Deutschland",
+    "date": "2022-07-28"
+   },
+   {
+    "id": 46746570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46746570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46746570/large.jpg",
+    "attribution": "(c) Václav Dvořák, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29936113",
+    "place": "Olomouc, Česko",
+    "date": "2019-07-14"
+   },
+   {
+    "id": 238913716,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238913716/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238913716/large.jpeg",
+    "attribution": "(c) Eszter Fazekas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139661897",
+    "place": "Budapest, Óbuda, Hungary",
+    "date": "2011-07-21"
    }
   ],
   "hero": {
-   "id": 57115088,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57115088/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57115088/large.jpg",
-   "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY), uploaded by Константин Селивёрстов",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/57115088",
+   "id": 40612214,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40612214/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40612214/large.jpg",
+   "attribution": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/40612214",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5228676,
-  "dkTotal": 190448,
+  "dkTotal": 190453,
   "dkMonths": [
    1,
    0,
    9,
    461,
-   52201,
+   52202,
    47674,
-   44212,
-   33921,
+   44214,
+   33923,
    11775,
    124,
    22,
    2
   ],
-  "worldTotal": 3217649,
+  "worldTotal": 3302918,
   "topCountries": [
    {
     "code": "GB",
@@ -124,35 +144,39 @@
    },
    {
     "code": "SE",
-    "count": 479753
+    "count": 479793
    },
    {
     "code": "ES",
-    "count": 355065
+    "count": 355076
    },
    {
     "code": "FR",
-    "count": 330864
+    "count": 331602
    },
    {
     "code": "NL",
-    "count": 310247
+    "count": 310260
    },
    {
     "code": "DK",
-    "count": 190448
+    "count": 190453
    },
    {
     "code": "DE",
-    "count": 176933
+    "count": 180166
    },
    {
     "code": "NO",
-    "count": 148064
+    "count": 148082
    },
    {
     "code": "FI",
-    "count": 109049
+    "count": 109055
+   },
+   {
+    "code": "CH",
+    "count": 102758
    },
    {
     "code": "BE",
@@ -160,16 +184,10 @@
    },
    {
     "code": "PT",
-    "count": 84961
-   },
-   {
-    "code": "IT",
-    "count": 43913
+    "count": 84963
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +202,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "polysticta-stelleri",
  "name": "Polysticta stelleri",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:04:44.507Z",
+ "fetchedAt": "2026-11-17T19:34:05.248Z",
  "names": {
   "da": "Stellersand",
   "en": "Steller’s Eider",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 7164,
-  "observations": 513
+  "observations": 515
  },
  "photos": {
   "male": [
+   {
+    "id": 210960950,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210960950/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210960950/large.jpg",
+    "attribution": "(c) Stephen John Davies, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/124470328",
+    "place": "North Slope County, US-AK, US",
+    "date": "2022-06-17"
+   },
+   {
+    "id": 250826262,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250826262/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250826262/large.jpeg",
+    "attribution": "(c) Людмила Михайлова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/145957143",
+    "place": "Priozerskiy rayon, RU-LN, RU",
+    "date": "2023-01-04"
+   },
    {
     "id": 2963206,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2963206/medium.jpg",
@@ -32,37 +52,59 @@
     "source": "https://www.inaturalist.org/observations/2641198",
     "place": "North Slope County, US-AK, US",
     "date": "2015-06-15"
-   },
-   {
-    "id": 179316077,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179316077/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179316077/large.jpg",
-    "attribution": "(c) Vsevolod Rudyi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/106708956",
-    "place": "Båtsfjord, NO-FI, NO",
-    "date": "2022-02-13"
-   },
-   {
-    "id": 98254463,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98254463/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98254463/large.jpeg",
-    "attribution": "(c) Mikael Nyman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/61403292",
-    "place": "Southwest Finland, FI-LS, FI",
-    "date": "2019-05-19"
    }
   ],
-  "female": [],
-  "juvenile": [],
+  "female": [
+   {
+    "id": 452003102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452003102/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452003102/large.jpeg",
+    "attribution": "(c) Iuliia Bogomolova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252490838",
+    "place": "Nenetskiy AOk, RU-NN, RU",
+    "date": "2024-07-27"
+   },
+   {
+    "id": 352469771,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352469771/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352469771/large.jpeg",
+    "attribution": "(c) Maksymilian Wojtkiewicz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199837185",
+    "place": "Puck, PL-PM, PL",
+    "date": "2024-02-19"
+   },
+   {
+    "id": 589337310,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589337310/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589337310/large.jpg",
+    "attribution": "(c) thorsten1974, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/325493048",
+    "place": "Schleswig-Holstein, DE",
+    "date": "2013-04-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 585539582,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585539582/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585539582/large.jpg",
+    "attribution": "(c) Jeremy Gatten, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/323590249",
+    "place": "Mount Waddington, CA-BC, CA",
+    "date": "2025-10-10"
+   }
+  ],
   "hero": {
-   "id": 453305254,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453305254/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453305254/large.jpg",
-   "attribution": "(c) gwynmwilliams, some rights reserved (CC BY), uploaded by gwynmwilliams",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/453305254",
+   "id": 580020782,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/580020782/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/580020782/large.jpg",
+   "attribution": "(c) Liam Ragan, some rights reserved (CC BY-NC), uploaded by Liam Ragan",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/580020782",
    "place": null,
    "date": null
   }
@@ -84,7 +126,7 @@
    15,
    34
   ],
-  "worldTotal": 105274,
+  "worldTotal": 105279,
   "topCountries": [
    {
     "code": "US",
@@ -92,11 +134,11 @@
    },
    {
     "code": "SE",
-    "count": 13347
+    "count": 13351
    },
    {
     "code": "NO",
-    "count": 8364
+    "count": 8365
    },
    {
     "code": "EE",
@@ -136,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -152,5 +192,7 @@
   "type": "wing noise",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

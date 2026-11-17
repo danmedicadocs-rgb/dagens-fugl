@@ -2,7 +2,7 @@
  "key": "xenus-cinereus",
  "name": "Xenus cinereus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:34.224Z",
+ "fetchedAt": "2026-11-17T19:44:03.406Z",
  "names": {
   "da": "Terekklire",
   "en": "Terek Sandpiper",
@@ -19,62 +19,61 @@
  },
  "inat": {
   "id": 3969,
-  "observations": 7116
+  "observations": 7140
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 661221638,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/661221638/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/661221638/large.jpg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362231295",
+    "place": "ул. Антоново, Великий Новгород, Новгородская обл., Россия, 173014",
+    "date": "2026-05-17"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 128792822,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128792822/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128792822/large.jpeg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/78678992",
-    "place": "Уфа, Респ. Башкортостан, Россия",
-    "date": "2019-06-02"
-   }
-  ],
-  "adult": [
-   {
-    "id": 254572987,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254572987/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254572987/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/147893536",
-    "place": "г. Карабаш, Челябинская обл., Россия",
-    "date": "2016-05-17"
+    "id": 258974967,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258974967/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258974967/large.jpg",
+    "attribution": "(c) Калиногорский Юрий, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/150216564",
+    "place": "Нолинский р-н, Кировская обл., Россия",
+    "date": "2021-06-27"
    },
    {
-    "id": 155306951,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155306951/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155306951/large.jpeg",
-    "attribution": "(c) Samuel Lee, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/93687077",
-    "place": "Lim Chu Kang, Singapore",
-    "date": "2021-09-05"
+    "id": 530152153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530152153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530152153/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/294532694",
+    "place": "Сыктывкар, Респ. Коми, Россия",
+    "date": "2025-06-21"
    },
    {
-    "id": 568564055,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/568564055/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/568564055/large.jpg",
-    "attribution": "(c) lunarjade, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/314774093",
-    "place": "Kuala Muda District, Kedah, Malaysia",
-    "date": "2025-09-14"
+    "id": 407411964,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407411964/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407411964/large.jpg",
+    "attribution": "(c) naturalisttt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229476555",
+    "place": "Респ. Саха (Якутия), Россия, 678202",
+    "date": "2024-07-15"
    }
   ],
   "hero": {
-   "id": 2662139,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2662139/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2662139/large.jpg",
-   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/2662139",
+   "id": 209189029,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209189029/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209189029/large.jpeg",
+   "attribution": "(c) Phuwarin Suchartbunmak, some rights reserved (CC BY-NC), uploaded by Phuwarin Suchartbunmak",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/209189029",
    "place": null,
    "date": null
   }
@@ -96,7 +95,7 @@
    1,
    0
   ],
-  "worldTotal": 120537,
+  "worldTotal": 120554,
   "topCountries": [
    {
     "code": "AU",
@@ -124,7 +123,7 @@
    },
    {
     "code": "NL",
-    "count": 4396
+    "count": 4397
    },
    {
     "code": "SE",
@@ -140,7 +139,7 @@
    },
    {
     "code": "TH",
-    "count": 3483
+    "count": 3485
    },
    {
     "code": "MY",
@@ -148,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +161,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

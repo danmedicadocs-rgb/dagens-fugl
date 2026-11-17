@@ -2,7 +2,7 @@
  "key": "alca-torda",
  "name": "Alca torda",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:22.706Z",
+ "fetchedAt": "2026-11-17T19:47:07.533Z",
  "names": {
   "da": "Alk",
   "en": "Razorbill",
@@ -19,72 +19,82 @@
  },
  "inat": {
   "id": 4501,
-  "observations": 12542
+  "observations": 12562
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 237522921,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237522921/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237522921/large.jpg",
-    "attribution": "(c) Blake Ross, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/138926968",
-    "place": "Charlotte, CA-NB, CA",
-    "date": "2022-08-01"
-   },
-   {
-    "id": 142621140,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142621140/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/142621140/large.jpeg",
-    "attribution": "(c) rowan_m, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/86561850",
-    "place": "Eilean Siar, Scotland, GB",
-    "date": "2021-07-11"
+    "id": 659185819,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659185819/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659185819/large.jpg",
+    "attribution": "(c) Fenri, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/361209334",
+    "place": "Nowa Karczma, Krynica Morska, Polska",
+    "date": "2012-03-18"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 498925677,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498925677/large.jpg",
-    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/277865541",
-    "place": null,
-    "date": "2025-04-15"
+    "id": 677043965,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/677043965/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/677043965/large.jpg",
+    "attribution": "(c) Francisco J. Serrano Eizaguerri, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/370600244",
+    "place": "Vesturbyggð, Islandia",
+    "date": "2021-07-26"
    },
    {
-    "id": 194962541,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194962541/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194962541/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/115519222",
-    "place": null,
-    "date": "2022-04-14"
+    "id": 348494744,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/348494744/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/348494744/large.jpeg",
+    "attribution": "(c) Guilhem Tellier, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197813468",
+    "place": "Finistère, Bretagne, FR",
+    "date": "2024-01-27"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 391874252,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/391874252/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/391874252/large.jpg",
+    "attribution": "(c) Amiel Hopkins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/221286513",
+    "place": "Maine, US",
+    "date": "2024-06-07"
    },
    {
-    "id": 41298260,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41298260/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41298260/large.jpg",
-    "attribution": "(c) Don Loarie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/25165545",
-    "place": "North Sea, Anstruther, Scotland, GB",
-    "date": "2019-05-15"
+    "id": 335597706,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335597706/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335597706/large.jpeg",
+    "attribution": "(c) Lukas Lattwein, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191318569",
+    "place": "Cuxhaven, Deutschland",
+    "date": "2023-11-11"
+   },
+   {
+    "id": 128828454,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128828454/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128828454/large.jpg",
+    "attribution": "(c) António Terra, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78700015",
+    "place": "Vila Nova de Gaia, Portugal",
+    "date": "2014-04-22"
    }
   ],
   "hero": {
-   "id": 4166476,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4166476/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4166476/large.jpg",
-   "attribution": "(c) Melissa McMasters, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/4166476",
+   "id": 135801313,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135801313/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135801313/large.jpeg",
+   "attribution": "(c) António Terra, some rights reserved (CC BY-NC), uploaded by António Terra",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/135801313",
    "place": null,
    "date": null
   }
@@ -106,15 +116,15 @@
    11655,
    6434
   ],
-  "worldTotal": 717510,
+  "worldTotal": 717955,
   "topCountries": [
    {
     "code": "GB",
-    "count": 145598
+    "count": 145604
    },
    {
     "code": "SE",
-    "count": 132253
+    "count": 132406
    },
    {
     "code": "US",
@@ -122,7 +132,7 @@
    },
    {
     "code": "NO",
-    "count": 65989
+    "count": 66072
    },
    {
     "code": "DK",
@@ -134,19 +144,19 @@
    },
    {
     "code": "FI",
-    "count": 32796
+    "count": 32799
    },
    {
     "code": "NL",
-    "count": 24467
+    "count": 24601
    },
    {
     "code": "FR",
-    "count": 16944
+    "count": 16945
    },
    {
     "code": "IE",
-    "count": 14718
+    "count": 14719
    },
    {
     "code": "ES",
@@ -158,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -174,5 +182,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

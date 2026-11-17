@@ -2,7 +2,7 @@
  "key": "anas-platyrhynchos",
  "name": "Anas platyrhynchos",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:03:53.793Z",
+ "fetchedAt": "2026-11-17T19:33:04.312Z",
  "names": {
   "da": "Gråand",
   "en": "Mallard",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 6930,
-  "observations": 989459
+  "observations": 991904
  },
  "photos": {
   "male": [
+   {
+    "id": 10826265,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10826265/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10826265/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8174772",
+    "place": "Reeves, Texas, United States",
+    "date": "2017-09-26"
+   },
    {
     "id": 32774133,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32774133/medium.jpeg",
@@ -42,80 +52,70 @@
     "source": "https://www.inaturalist.org/observations/71710579",
     "place": "Warmond, Zuid-Holland, Netherlands",
     "date": "2021-03-21"
-   },
-   {
-    "id": 177479326,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177479326/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177479326/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/105737491",
-    "place": "Breite, Basel, Switzerland",
-    "date": "2022-01-28"
    }
   ],
   "female": [
    {
-    "id": 126405965,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126405965/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126405965/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/77299726",
-    "place": "Aberdeen, UK",
-    "date": "2021-05-04"
+    "id": 62559471,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62559471/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62559471/large.jpeg",
+    "attribution": "(c) raymie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39432879",
+    "place": "Green Bay, WI, USA",
+    "date": "2020-01-20"
    },
    {
-    "id": 271487982,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271487982/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/271487982/large.jpg",
-    "attribution": "(c) Brandon Corder, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/156979670",
-    "place": "University of Wisconsin-Madison, Madison, WI, US",
-    "date": "2023-04-27"
+    "id": 152058977,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/152058977/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/152058977/large.jpeg",
+    "attribution": "(c) Nils Helstrom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/91886652",
+    "place": "Pompton Lakes, NJ, USA",
+    "date": "2004-07-17"
    },
    {
-    "id": 476349977,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476349977/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476349977/large.jpeg",
-    "attribution": "(c) Skyler Principe, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/265221098",
-    "place": "Macomb County, MI, USA",
-    "date": "2024-05-02"
+    "id": 335451547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335451547/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335451547/large.jpeg",
+    "attribution": "(c) sfreeman7, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191244599",
+    "place": "James Gardens 99 Edenbridge Dr, Etobicoke, ON M9A 3G4, Canada",
+    "date": "2023-11-16"
    }
   ],
   "juvenile": [
    {
-    "id": 290373164,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290373164/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290373164/large.jpg",
-    "attribution": "(c) Carol Ann Vermeer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/167610980",
-    "place": "Kildonan Park, Winnipeg, MB, Canada",
-    "date": "2023-06-11"
+    "id": 19738755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19738755/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19738755/large.jpg",
+    "attribution": "(c) Kyle Tansley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/13447878",
+    "place": "South End, Burlington, VT, USA",
+    "date": "2018-06-10"
    },
    {
-    "id": 495113315,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/495113315/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/495113315/large.jpg",
-    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/275552771",
-    "place": "Independence Pkwy, Chesapeake, VA, US",
-    "date": "2025-04-28"
+    "id": 124710229,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/124710229/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/124710229/large.jpeg",
+    "attribution": "(c) Steven Schulting, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/76247875",
+    "place": "Spandau, Berlin, Germany",
+    "date": "2021-05-01"
    },
    {
-    "id": 201292995,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201292995/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201292995/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/119097897",
-    "place": "29640 Schneverdingen, Deutschland",
-    "date": "2022-05-28"
+    "id": 440473097,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/440473097/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/440473097/large.jpg",
+    "attribution": "(c) KF, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/246707048",
+    "place": "Concord, Vaughan, ON L4K, Canada",
+    "date": "2024-09-22"
    }
   ],
   "hero": {
@@ -131,75 +131,73 @@
  },
  "gbif": {
   "key": 9761484,
-  "dkTotal": 788650,
+  "dkTotal": 788660,
   "dkMonths": [
    84719,
    70655,
    92691,
    92734,
-   85345,
+   85350,
    59003,
    47087,
-   50684,
-   47007,
+   50685,
+   47011,
    57036,
    50138,
    51182
   ],
-  "worldTotal": 32874478,
+  "worldTotal": 33009873,
   "topCountries": [
    {
     "code": "US",
-    "count": 18946185
+    "count": 18946187
    },
    {
     "code": "CA",
-    "count": 3661720
+    "count": 3661725
    },
    {
     "code": "SE",
-    "count": 1499715
+    "count": 1500939
    },
    {
     "code": "GB",
-    "count": 1384760
+    "count": 1384772
    },
    {
     "code": "NL",
-    "count": 1152108
+    "count": 1154012
    },
    {
     "code": "NO",
-    "count": 797158
+    "count": 797745
    },
    {
     "code": "DK",
-    "count": 788650
+    "count": 788660
    },
    {
     "code": "FR",
-    "count": 764953
+    "count": 765979
    },
    {
     "code": "ES",
-    "count": 696374
+    "count": 696434
    },
    {
     "code": "DE",
-    "count": 531579
+    "count": 536817
    },
    {
     "code": "BE",
-    "count": 440129
+    "count": 440133
    },
    {
-    "code": "RU",
-    "count": 192701
+    "code": "CH",
+    "count": 195011
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

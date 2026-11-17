@@ -2,7 +2,7 @@
  "key": "cepphus-grylle",
  "name": "Cepphus grylle",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:28.985Z",
+ "fetchedAt": "2026-11-17T19:47:12.748Z",
  "names": {
   "da": "Tejst",
   "en": "Black Guillemot",
@@ -19,73 +19,72 @@
  },
  "inat": {
   "id": 4418,
-  "observations": 11422
+  "observations": 11439
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 35280617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35280617/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/35280617/large.jpg",
+    "attribution": "(c) Jonny Campbell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/22765837",
+    "place": "Irish Sea, , Isle of Man, GB",
+    "date": "2019-04-20"
+   },
+   {
+    "id": 203488669,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203488669/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203488669/large.jpeg",
+    "attribution": "(c) Matteo Gioia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/120305687",
+    "place": "Dublin City, Co. Dublin, Ireland",
+    "date": "2022-04-10"
+   },
+   {
+    "id": 53600675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53600675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53600675/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34086345",
+    "place": "Reykhólahreppur, IS-VF, IS",
+    "date": "2019-07-05"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 179189214,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179189214/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179189214/large.jpg",
-    "attribution": "(c) Renee MacQuarrie, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/106643532",
-    "place": "Halifax Harbour, Halifax, NS, CA",
-    "date": "2022-02-06"
+    "id": 337019246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337019246/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337019246/large.jpeg",
+    "attribution": "(c) alllife2023, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192028424",
+    "place": "Hampton Bays, NY, USA",
+    "date": "2023-11-24"
    },
    {
-    "id": 719769631,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/719769631/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/719769631/large.jpg",
-    "attribution": "(c) Leo Cantiran, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/392734145",
-    "place": "Nesseby, Norvège",
-    "date": "2026-08-17"
+    "id": 179473727,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179473727/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179473727/large.jpg",
+    "attribution": "(c) Steve Holmes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106790172",
+    "place": "Dalvik, Iceland",
+    "date": "2021-08-26"
    },
    {
-    "id": 353864306,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353864306/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353864306/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/200552840",
-    "place": "Hancock County, US-ME, US",
-    "date": "2024-02-26"
-   }
-  ],
-  "adult": [
-   {
-    "id": 596520689,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596520689/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596520689/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/329117778",
-    "place": "Новая Земля р-н, Архангельская обл., Россия",
-    "date": "2025-11-12"
-   },
-   {
-    "id": 251297015,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251297015/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251297015/large.jpeg",
-    "attribution": "(c) Martin Hannan-Jones, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/146196982",
-    "place": "Belfast, UK",
-    "date": "2018-06-18"
-   },
-   {
-    "id": 596513393,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596513393/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596513393/large.jpg",
-    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/329113885",
-    "place": "Novaya Zemlya, RU-AR, RU",
-    "date": "2025-11-04"
+    "id": 615997566,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615997566/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615997566/large.jpg",
+    "attribution": "(c) Ben, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338698545",
+    "place": "South End, Halifax, NS, Canada",
+    "date": "2026-02-14"
    }
   ],
   "hero": {
@@ -116,11 +115,11 @@
    2864,
    1268
   ],
-  "worldTotal": 660983,
+  "worldTotal": 661205,
   "topCountries": [
    {
     "code": "SE",
-    "count": 138309
+    "count": 138390
    },
    {
     "code": "CA",
@@ -128,7 +127,7 @@
    },
    {
     "code": "NO",
-    "count": 97126
+    "count": 97231
    },
    {
     "code": "US",
@@ -140,7 +139,7 @@
    },
    {
     "code": "FI",
-    "count": 37669
+    "count": 37671
    },
    {
     "code": "DK",
@@ -152,7 +151,7 @@
    },
    {
     "code": "SJ",
-    "count": 14906
+    "count": 14915
    },
    {
     "code": "IE",
@@ -160,7 +159,7 @@
    },
    {
     "code": "NL",
-    "count": 11573
+    "count": 11575
    },
    {
     "code": "IM",
@@ -168,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +181,7 @@
   "type": "song, wingbeats",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

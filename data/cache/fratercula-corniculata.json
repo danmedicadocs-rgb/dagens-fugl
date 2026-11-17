@@ -2,7 +2,7 @@
  "key": "fratercula-corniculata",
  "name": "Fratercula corniculata",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:46:07.795Z",
+ "fetchedAt": "2026-11-17T20:21:12.360Z",
  "names": {
   "da": "Hornet Lunde",
   "en": "Horned Puffin",
@@ -19,42 +19,53 @@
  },
  "inat": {
   "id": 4508,
-  "observations": 1858
+  "observations": 1860
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 571390129,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571390129/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571390129/large.jpg",
+    "attribution": "(c) Anastasiia Merkulova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/316260995",
+    "place": "Ol'skiy rayon, RU-MG, RU",
+    "date": "2025-08-26"
+   }
+  ],
   "adult": [
    {
-    "id": 112499599,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112499599/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112499599/large.jpeg",
-    "attribution": "(c) Judith Kerman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69337654",
-    "place": "Kenai Peninsula Borough, AK, USA",
-    "date": "2008-08-12"
+    "id": 323309284,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323309284/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323309284/large.jpg",
+    "attribution": "(c) Jeffrey Lane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/185148252",
+    "place": "Izembek National Wildlife Refuge, Cold Bay, AK, US",
+    "date": "2018-08-14"
    },
    {
-    "id": 459061262,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459061262/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459061262/large.jpg",
-    "attribution": "(c) Dan Vickers, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/256086979",
-    "place": "Gambell, AK, USA",
-    "date": "2022-06-01"
+    "id": 463980323,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463980323/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463980323/large.jpg",
+    "attribution": "(c) IanLJones, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258584377",
+    "place": "Buldir",
+    "date": "2012-08-08"
    },
    {
-    "id": 237681208,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237681208/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237681208/large.jpg",
-    "attribution": "(c) Dan Harville, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/139012332",
-    "place": "Kenai Peninsula Borough, AK, USA",
-    "date": "2022-09-30"
+    "id": 25576218,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25576218/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25576218/large.jpg",
+    "attribution": "(c) Paul Prappas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16925510",
+    "place": "St. Paul Island",
+    "date": "2018-09-24"
    }
   ],
   "hero": {
@@ -133,8 +144,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -149,5 +158,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

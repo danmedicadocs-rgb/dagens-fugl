@@ -2,7 +2,7 @@
  "key": "corvus-frugilegus",
  "name": "Corvus frugilegus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:44.699Z",
+ "fetchedAt": "2026-11-17T19:51:10.520Z",
  "names": {
   "da": "Råge",
   "en": "Rook",
@@ -19,32 +19,52 @@
  },
  "inat": {
   "id": 8029,
-  "observations": 62473
+  "observations": 62819
  },
  "photos": {
   "male": [
    {
-    "id": 378167744,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378167744/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378167744/large.jpeg",
-    "attribution": "(c) Merrcurys, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/213974826",
-    "place": "Середа, Московская обл., Россия, 143721",
-    "date": "2024-04-29"
+    "id": 750492263,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750492263/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750492263/large.jpg",
+    "attribution": "(c) teodor21219, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/408293626",
+    "place": "557260 Șelimbăr, Romania",
+    "date": "2026-10-06"
    },
    {
-    "id": 461854532,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/461854532/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/461854532/large.jpeg",
-    "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257459100",
-    "place": "Pitești, Romania",
-    "date": "2025-01-01"
+    "id": 168689301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168689301/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168689301/large.jpg",
+    "attribution": "(c) katesorokina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101033709",
+    "place": "Сеймский административный округ, Курск, Курская обл., Россия",
+    "date": "2021-11-13"
+   },
+   {
+    "id": 168689320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/168689320/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/168689320/large.jpg",
+    "attribution": "(c) katesorokina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101033710",
+    "place": "Сеймский административный округ, Курск, Курская обл., Россия",
+    "date": "2021-11-13"
    }
   ],
   "female": [
+   {
+    "id": 54543227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54543227/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54543227/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34642958",
+    "place": "Helgoland, Deutschland",
+    "date": "2019-09-30"
+   },
    {
     "id": 349452414,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349452414/medium.jpeg",
@@ -56,37 +76,17 @@
     "date": "2024-02-03"
    },
    {
-    "id": 458603110,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/458603110/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/458603110/large.jpeg",
-    "attribution": "(c) Karol Filo III, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/255854610",
-    "place": "615 00 Brno-Brno-Židenice, Česko",
-    "date": "2024-12-22"
-   },
-   {
-    "id": 351938828,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351938828/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351938828/large.jpeg",
-    "attribution": "(c) Karol Filo III, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/199555752",
-    "place": "603 00 Brno-Brno 3, Česko",
-    "date": "2024-02-17"
+    "id": 749451853,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/749451853/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/749451853/large.jpg",
+    "attribution": "(c) Teo Giurea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407786133",
+    "place": "Bariera Țiglari 2, Sibiu, România",
+    "date": "2026-10-12"
    }
   ],
   "juvenile": [
-   {
-    "id": 78914062,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78914062/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78914062/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/49707811",
-    "place": "Tartu, Tartu, Estonia",
-    "date": "2020-06-15"
-   },
    {
     "id": 406061866,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/406061866/medium.jpeg",
@@ -98,30 +98,40 @@
     "date": "2024-07-12"
    },
    {
-    "id": 217462239,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217462239/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217462239/large.jpg",
-    "attribution": "(c) greatest_auk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/127990341",
-    "place": "R629, Midleton, Co. Cork, IE",
-    "date": "2022-07-25"
+    "id": 78914062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78914062/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78914062/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/49707811",
+    "place": "Tartu, Tartu, Estonia",
+    "date": "2020-06-15"
+   },
+   {
+    "id": 200243032,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/200243032/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/200243032/large.jpeg",
+    "attribution": "(c) Malte, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/118512158",
+    "place": "38106 Braunschweig, Deutschland",
+    "date": "2022-05-24"
    }
   ],
   "hero": {
-   "id": 62108561,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62108561/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62108561/large.jpg",
-   "attribution": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/62108561",
+   "id": 593429045,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593429045/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593429045/large.jpg",
+   "attribution": "(c) esdena, some rights reserved (CC BY-NC), uploaded by esdena",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/593429045",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2482513,
-  "dkTotal": 277321,
+  "dkTotal": 277323,
   "dkMonths": [
    30826,
    24892,
@@ -130,66 +140,64 @@
    24764,
    16532,
    12829,
-   14829,
+   14830,
    19962,
    29104,
-   20810,
+   20811,
    18442
   ],
-  "worldTotal": 1985849,
+  "worldTotal": 1997309,
   "topCountries": [
    {
     "code": "GB",
-    "count": 590095
+    "count": 590102
    },
    {
     "code": "DK",
-    "count": 277321
+    "count": 277323
    },
    {
     "code": "SE",
-    "count": 260352
+    "count": 260550
    },
    {
     "code": "FR",
-    "count": 145992
+    "count": 146445
    },
    {
     "code": "DE",
-    "count": 135010
+    "count": 135925
    },
    {
     "code": "NL",
-    "count": 74887
+    "count": 74942
    },
    {
     "code": "IE",
-    "count": 70287
+    "count": 70290
    },
    {
     "code": "PL",
-    "count": 51051
+    "count": 51052
    },
    {
     "code": "NO",
-    "count": 50541
+    "count": 50605
    },
    {
     "code": "RU",
-    "count": 47715
+    "count": 47716
    },
    {
     "code": "BE",
     "count": 43095
    },
    {
-    "code": "UA",
-    "count": 21051
+    "code": "CH",
+    "count": 23705
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "phylloscopus-trochiloides",
  "name": "Phylloscopus trochiloides",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:00.856Z",
+ "fetchedAt": "2026-11-17T19:53:48.539Z",
  "names": {
   "da": "Lundsanger",
   "en": "Greenish Warbler",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 117054,
-  "observations": 5043
+  "observations": 5067
  },
  "photos": {
   "male": [
+   {
+    "id": 185038320,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185038320/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185038320/large.jpg",
+    "attribution": "(c) Alexandr Mesiats, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109754029",
+    "place": "Barysaw, Belarus",
+    "date": "2021-06-10"
+   },
+   {
+    "id": 282408788,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282408788/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282408788/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/163288043",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2023-05-20"
+   },
    {
     "id": 380581488,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/medium.jpeg",
@@ -32,39 +52,51 @@
     "source": "https://www.inaturalist.org/observations/215271935",
     "place": "Зональный, Бердск, Новосибирская обл., Россия",
     "date": "2024-05-12"
-   },
-   {
-    "id": 243482229,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243482229/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243482229/large.jpeg",
-    "attribution": "(c) Chayant Gonsalves, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/142053529",
-    "place": "Lahul & Spiti, IN-HP, IN",
-    "date": "2022-07-10"
-   },
-   {
-    "id": 666066124,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666066124/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666066124/large.jpg",
-    "attribution": "(c) uxbridgebirder, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/364844991",
-    "place": "Romney Marsh, England, GB",
-    "date": "2026-05-24"
    }
   ],
-  "female": [],
-  "juvenile": [],
+  "female": [
+   {
+    "id": 614767401,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614767401/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614767401/large.jpg",
+    "attribution": "(c) Petteri Mäkelä, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338094764",
+    "place": "28760 Pori, Suomi",
+    "date": "2025-06-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 237698686,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/237698686/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/237698686/large.jpg",
+    "attribution": "(c) lappuggla, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139021251",
+    "place": "Ottenby södra udden, Mörbylånga, Sverige",
+    "date": "2014-08-08"
+   },
+   {
+    "id": 407731964,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407731964/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407731964/large.jpeg",
+    "attribution": "(c) Наталья Ященко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229683604",
+    "place": "Барнаул, Алтайский край, Россия, 656050",
+    "date": "2024-07-14"
+   }
+  ],
   "hero": {
-   "id": 380581488,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/380581488/large.jpeg",
-   "attribution": "(c) Fedotova Elena, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/215271935",
-   "place": "Зональный, Бердск, Новосибирская обл., Россия",
-   "date": "2024-05-12"
+   "id": 153892605,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153892605/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153892605/large.jpg",
+   "attribution": "(c) Александр, some rights reserved (CC BY-NC-SA), uploaded by Александр",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/153892605",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -84,15 +116,15 @@
    0,
    0
   ],
-  "worldTotal": 217942,
+  "worldTotal": 218047,
   "topCountries": [
    {
     "code": "IN",
-    "count": 150048
+    "count": 150050
    },
    {
     "code": "SE",
-    "count": 22003
+    "count": 22005
    },
    {
     "code": "RU",
@@ -104,19 +136,19 @@
    },
    {
     "code": "FI",
-    "count": 5168
+    "count": 5201
    },
    {
     "code": "CN",
     "count": 3979
    },
    {
-    "code": "DK",
-    "count": 2474
+    "code": "NL",
+    "count": 2475
    },
    {
-    "code": "NL",
-    "count": 2472
+    "code": "DK",
+    "count": 2474
    },
    {
     "code": "BD",
@@ -136,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -152,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

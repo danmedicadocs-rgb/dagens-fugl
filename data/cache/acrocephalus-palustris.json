@@ -2,7 +2,7 @@
  "key": "acrocephalus-palustris",
  "name": "Acrocephalus palustris",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:11.234Z",
+ "fetchedAt": "2026-11-17T19:55:13.525Z",
  "names": {
   "da": "Kærsanger",
   "en": "Marsh Warbler",
@@ -19,83 +19,94 @@
  },
  "inat": {
   "id": 116802,
-  "observations": 9360
+  "observations": 9368
  },
  "photos": {
   "male": [
    {
-    "id": 546567887,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546567887/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546567887/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/303255612",
-    "place": "Obersee Bielefeld",
-    "date": "2015-06-24"
+    "id": 42253419,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42253419/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42253419/large.jpeg",
+    "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27174766",
+    "place": "NSG Riddagshausen",
+    "date": "2019-06-15"
    },
    {
-    "id": 514820047,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820047/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514820047/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286374268",
-    "place": "Statzendorf, Österreich",
-    "date": "2025-05-31"
+    "id": 666388389,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666388389/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666388389/large.jpg",
+    "attribution": "(c) nicandra711ph, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365010532",
+    "place": "29308 Winsen (Aller)-Meißendorf, Deutschland",
+    "date": "2026-05-25"
    },
    {
-    "id": 508262347,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/508262347/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/508262347/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/282881232",
-    "place": "St. Pölten, Österreich",
-    "date": "2025-05-21"
+    "id": 305832353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305832353/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305832353/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/175946172",
+    "place": "Семион, Рязанская обл., Россия, 391232",
+    "date": "2023-06-06"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 202021795,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202021795/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202021795/large.jpeg",
+    "attribution": "(c) Ярослав, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/119504733",
+    "place": "республика Удмуртия, Россия, 426038",
+    "date": "2022-05-30"
+   }
+  ],
   "juvenile": [
    {
-    "id": 555420650,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/555420650/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/555420650/large.jpg",
-    "attribution": "(c) SIA, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/307893061",
-    "place": "Опукский заповедник,Крым",
-    "date": "2025-08-20"
+    "id": 702048120,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/702048120/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/702048120/large.jpg",
+    "attribution": "(c) Antti Henttonen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/383567956",
+    "place": "Kerkonjoensuu, Pohjois-Savo, FI",
+    "date": "2026-07-20"
    },
    {
-    "id": 681008895,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681008895/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681008895/large.jpg",
-    "attribution": "(c) Jonas Haase, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/372671264",
-    "place": "Niedersachsen, DE",
-    "date": "2026-06-17"
+    "id": 46540714,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46540714/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46540714/large.jpg",
+    "attribution": "(c) Nelly Semenova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29808801",
+    "place": "Северо-Западный административный округ, Москва, Россия",
+    "date": "2019-07-29"
    },
    {
-    "id": 58312508,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58312508/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58312508/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36846562",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2016-07-18"
+    "id": 698291397,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/698291397/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/698291397/large.jpg",
+    "attribution": "(c) Абакумов Николай Викторович, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/381617171",
+    "place": "Павловский р-н, Нижегородская обл., Россия",
+    "date": "2026-07-14"
    }
   ],
   "hero": {
-   "id": 546567887,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546567887/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546567887/large.jpg",
-   "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/observations/303255612",
-   "place": "Obersee Bielefeld",
-   "date": "2015-06-24"
+   "id": 42253420,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42253420/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42253420/large.jpeg",
+   "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC), uploaded by Jakob Fahr",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/42253420",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,11 +126,11 @@
    3,
    3
   ],
-  "worldTotal": 667567,
+  "worldTotal": 706664,
   "topCountries": [
    {
     "code": "SE",
-    "count": 236634
+    "count": 236650
    },
    {
     "code": "DK",
@@ -131,19 +142,23 @@
    },
    {
     "code": "NL",
-    "count": 47186
+    "count": 47303
+   },
+   {
+    "code": "CH",
+    "count": 40442
    },
    {
     "code": "NO",
-    "count": 40278
+    "count": 40281
    },
    {
     "code": "FR",
-    "count": 30724
+    "count": 30876
    },
    {
     "code": "DE",
-    "count": 28466
+    "count": 29130
    },
    {
     "code": "LU",
@@ -151,24 +166,18 @@
    },
    {
     "code": "PL",
-    "count": 23125
+    "count": 23126
    },
    {
     "code": "FI",
-    "count": 18573
+    "count": 18581
    },
    {
     "code": "RU",
-    "count": 11818
-   },
-   {
-    "code": "ZA",
-    "count": 9971
+    "count": 11819
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +192,7 @@
   "type": "imitation, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "delichon-urbicum",
  "name": "Delichon urbicum",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:32.377Z",
+ "fetchedAt": "2026-11-17T19:53:14.908Z",
  "names": {
   "da": "Bysvale",
   "en": "Common House Martin",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 64705,
-  "observations": 39342
+  "observations": 39372
  },
  "photos": {
   "male": [],
@@ -33,9 +33,39 @@
     "source": "https://www.inaturalist.org/observations/154410422",
     "place": "25000 Besançon, France",
     "date": "2018-05-17"
+   },
+   {
+    "id": 407016800,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407016800/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407016800/large.jpeg",
+    "attribution": "(c) Bruno Durand, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229307461",
+    "place": "Fouesnant 29170, France",
+    "date": "2024-07-13"
+   },
+   {
+    "id": 620353503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620353503/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620353503/large.jpg",
+    "attribution": "(c) Ханиэль Юдицки, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340847979",
+    "place": "Ленинградская обл., Россия, 188422",
+    "date": "2024-05-20"
    }
   ],
   "juvenile": [
+   {
+    "id": 694227563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/694227563/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/694227563/large.jpg",
+    "attribution": "(c) Goro Saber Animal, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/379520936",
+    "place": "Parque Azahara, Poniente Nte., 14005 Córdoba, Spain",
+    "date": "2026-07-02"
+   },
    {
     "id": 697896235,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896235/medium.jpg",
@@ -47,108 +77,96 @@
     "date": "2026-07-14"
    },
    {
-    "id": 697896395,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896395/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697896395/large.jpg",
-    "attribution": "(c) Holly Hodges, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/381414882",
-    "place": "Cambridge, England, GB",
-    "date": "2026-07-14"
-   },
-   {
-    "id": 558901368,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558901368/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558901368/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309705055",
-    "place": "4292 Dobri dol, Bulgaria",
-    "date": "2025-08-28"
+    "id": 29162169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29162169/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29162169/large.jpg",
+    "attribution": "(c) Jakob Fahr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/19015947",
+    "place": "Tropojës, AL-KK, AL",
+    "date": "2018-07-15"
    }
   ],
   "hero": {
-   "id": 120619248,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120619248/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120619248/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/120619248",
+   "id": 323621902,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323621902/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323621902/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/323621902",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2489214,
-  "dkTotal": 199675,
+  "dkTotal": 199686,
   "dkMonths": [
    1,
    1,
    35,
    13568,
-   49178,
+   49180,
    38552,
-   34277,
-   41364,
-   22522,
+   34281,
+   41368,
+   22523,
    55,
    68,
    1
   ],
-  "worldTotal": 2705803,
+  "worldTotal": 2785501,
   "topCountries": [
    {
     "code": "ES",
-    "count": 421067
+    "count": 421088
    },
    {
     "code": "GB",
-    "count": 362982
+    "count": 362987
    },
    {
     "code": "SE",
-    "count": 345769
+    "count": 345797
    },
    {
     "code": "FR",
-    "count": 280122
+    "count": 280960
    },
    {
     "code": "DK",
-    "count": 199675
+    "count": 199686
    },
    {
     "code": "DE",
-    "count": 191678
+    "count": 194877
    },
    {
     "code": "PT",
-    "count": 128068
+    "count": 128072
    },
    {
     "code": "NO",
-    "count": 116112
+    "count": 116129
    },
    {
     "code": "NL",
-    "count": 110016
+    "count": 110036
+   },
+   {
+    "code": "CH",
+    "count": 95778
    },
    {
     "code": "FI",
-    "count": 68125
+    "count": 68134
    },
    {
     "code": "BE",
     "count": 56940
-   },
-   {
-    "code": "PL",
-    "count": 43653
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +181,7 @@
   "type": "flight call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

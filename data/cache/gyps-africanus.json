@@ -2,7 +2,7 @@
  "key": "gyps-africanus",
  "name": "Gyps africanus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:33:11.010Z",
+ "fetchedAt": "2026-11-17T20:07:06.496Z",
  "names": {
   "da": "Hvidrygget grib",
   "en": "White-backed Vulture",
@@ -19,82 +19,61 @@
  },
  "inat": {
   "id": 5363,
-  "observations": 9645
+  "observations": 9676
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 56446248,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56446248/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56446248/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35772329",
+    "place": null,
+    "date": "2017-04-13"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
-    "id": 625955660,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955660/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955660/large.jpg",
-    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/343608629",
-    "place": "Khomas, NA-KH-WR, NA",
-    "date": "2026-03-18"
+    "id": 212462601,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212462601/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212462601/large.jpeg",
+    "attribution": "(c) apusaffinis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125282318",
+    "place": "St Lucia Park, South Africa",
+    "date": "2022-07-08"
    },
    {
-    "id": 521901501,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521901501/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521901501/large.jpg",
-    "attribution": "(c) Paul Hoekman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/290133350",
-    "place": "Mopani, Kruger National Park, Limpopo, South Africa",
-    "date": "2025-06-06"
+    "id": 597494020,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597494020/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597494020/large.jpg",
+    "attribution": "(c) Africa Gomez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329599076",
+    "place": "Kruger National Park, ZA-MP-EH, ZA-MP, ZA",
+    "date": "2025-12-05"
    },
    {
-    "id": 442071404,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/442071404/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/442071404/large.jpeg",
-    "attribution": "(c) Tommy Andriollo, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/151132350",
-    "place": "Oromia, ET",
-    "date": "2023-03-14"
-   }
-  ],
-  "adult": [
-   {
-    "id": 431932273,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431932273/large.jpeg",
-    "attribution": "(c) Jo Roberts, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/242271275",
-    "place": "Hluhluwe-iMfolozi Park, ZA-NL-UY, ZA-NL, ZA",
-    "date": "2024-09-07"
-   },
-   {
-    "id": 521905288,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521905288/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521905288/large.jpg",
-    "attribution": "(c) Paul Hoekman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/290135231",
-    "place": "Mopani, Kruger National Park, Limpopo, South Africa",
-    "date": "2025-06-06"
-   },
-   {
-    "id": 625955607,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/625955607/large.jpg",
-    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/343608628",
-    "place": "Khomas, NA-KH-WR, NA",
-    "date": "2026-03-18"
+    "id": 159334512,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/159334512/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/159334512/large.jpeg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/95941297",
+    "place": "Atherstone NR, Maroela camp, Bosveld, South Africa",
+    "date": "2021-09-21"
    }
   ],
   "hero": {
-   "id": 150470903,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470903/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470903/large.jpg",
-   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/150470903",
+   "id": 150470465,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470465/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470465/large.jpg",
+   "attribution": "(c) Ian White, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/150470465",
    "place": null,
    "date": null
   }
@@ -116,7 +95,7 @@
    0,
    0
   ],
-  "worldTotal": 143503,
+  "worldTotal": 143502,
   "topCountries": [
    {
     "code": "ZA",
@@ -124,11 +103,11 @@
    },
    {
     "code": "KE",
-    "count": 16045
+    "count": 16046
    },
    {
     "code": "TZ",
-    "count": 10744
+    "count": 10743
    },
    {
     "code": "NA",
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

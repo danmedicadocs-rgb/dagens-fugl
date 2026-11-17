@@ -2,7 +2,7 @@
  "key": "lanius-collurio",
  "name": "Lanius collurio",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:19:01.793Z",
+ "fetchedAt": "2026-11-17T19:50:17.701Z",
  "names": {
   "da": "Rødrygget tornskade",
   "en": "Red-backed Shrike",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 12038,
-  "observations": 55480
+  "observations": 55533
  },
  "photos": {
   "male": [
+   {
+    "id": 197615438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197615438/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197615438/large.jpeg",
+    "attribution": "(c) Tiziana Dinolfo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/117040022",
+    "place": "Nucleo Oratorio, 26041 Casalmaggiore CR, Italia",
+    "date": "2022-05-08"
+   },
+   {
+    "id": 133593504,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133593504/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133593504/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81448155",
+    "place": "France",
+    "date": "2021-06-02"
+   },
    {
     "id": 424066109,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424066109/medium.jpg",
@@ -32,26 +52,6 @@
     "source": "https://www.inaturalist.org/observations/238212871",
     "place": "4292 Dobri dol, Bulgaria",
     "date": "2024-08-26"
-   },
-   {
-    "id": 311234722,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/311234722/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/311234722/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/178822066",
-    "place": "Parvomay, Bulgaria",
-    "date": "2023-08-17"
-   },
-   {
-    "id": 278365673,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278365673/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278365673/large.jpg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/161059968",
-    "place": "4292 Dobri Dol, Bulgaria",
-    "date": "2023-05-11"
    }
   ],
   "female": [
@@ -76,14 +76,14 @@
     "date": "2026-05-14"
    },
    {
-    "id": 592316649,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/592316649/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/592316649/large.jpg",
-    "attribution": "(c) Кирилл, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/326990151",
-    "place": "Смоленский р-н, Смоленская обл., Россия",
-    "date": "2025-07-12"
+    "id": 314643426,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314643426/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314643426/large.jpeg",
+    "attribution": "(c) dieguteluise, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/180611355",
+    "place": "13405 Berlin, Germany",
+    "date": "2023-08-26"
    }
   ],
   "juvenile": [
@@ -108,25 +108,25 @@
     "date": "2026-09-12"
    },
    {
-    "id": 28733991,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28733991/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28733991/large.jpg",
-    "attribution": "(c) carnifex, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/18763314",
-    "place": "Althangrund, Wien, Österreich",
-    "date": "2016-08-04"
+    "id": 707657775,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707657775/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707657775/large.jpg",
+    "attribution": "(c) Владимир Пенькевич (Vladimir Penkevich), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/386494728",
+    "place": "Смиловичи. берег р. Волма. Червенский район, Минская область, Беларусь",
+    "date": "2026-07-29"
    }
   ],
   "hero": {
-   "id": 424066109,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424066109/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/424066109/large.jpg",
-   "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/238212871",
-   "place": "4292 Dobri dol, Bulgaria",
-   "date": "2024-08-26"
+   "id": 13160268,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13160268/large.jpg",
+   "attribution": "(c) Radovan Václav, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/13160268",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,15 +146,19 @@
    13,
    35
   ],
-  "worldTotal": 1329522,
+  "worldTotal": 1465457,
   "topCountries": [
    {
     "code": "SE",
-    "count": 295552
+    "count": 295600
    },
    {
     "code": "FR",
-    "count": 199468
+    "count": 200072
+   },
+   {
+    "code": "CH",
+    "count": 141016
    },
    {
     "code": "DK",
@@ -162,44 +166,38 @@
    },
    {
     "code": "NL",
-    "count": 87147
+    "count": 87155
    },
    {
     "code": "DE",
-    "count": 78016
+    "count": 79847
    },
    {
     "code": "ZA",
-    "count": 66778
+    "count": 66781
    },
    {
     "code": "FI",
-    "count": 58802
+    "count": 58817
    },
    {
     "code": "NO",
-    "count": 40573
+    "count": 40574
    },
    {
     "code": "PL",
-    "count": 35992
+    "count": 35997
    },
    {
     "code": "ES",
-    "count": 35934
+    "count": 35936
    },
    {
     "code": "TR",
-    "count": 26792
-   },
-   {
-    "code": "RU",
-    "count": 25511
+    "count": 26795
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

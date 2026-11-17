@@ -2,7 +2,7 @@
  "key": "porzana-porzana",
  "name": "Porzana porzana",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:10:07.362Z",
+ "fetchedAt": "2026-11-17T19:40:12.568Z",
  "names": {
   "da": "Plettet rørvagtel",
   "en": "Spotted Crake",
@@ -19,53 +19,83 @@
  },
  "inat": {
   "id": 178,
-  "observations": 2046
+  "observations": 2049
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 38858692,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38858692/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38858692/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25107256",
+    "place": "Филимоновка, Томская обл., Россия",
+    "date": "2019-05-12"
+   },
+   {
+    "id": 38853713,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38853713/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38853713/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25104260",
+    "place": "Филимоновка, Томская обл., Россия",
+    "date": "2019-05-10"
+   },
+   {
+    "id": 278420115,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/278420115/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/278420115/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/161091538",
+    "place": "Филимоновка, Томская обл., Россия",
+    "date": "2023-05-09"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 591075689,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/326368739",
-    "place": "KwaDukuza, South Africa",
-    "date": "2016-03-27"
+    "id": 596090700,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/596090700/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/596090700/large.jpg",
+    "attribution": "(c) Svit_Stramšak, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328902522",
+    "place": "2331 Stari Log, Slovenija",
+    "date": "2025-11-30"
    },
    {
-    "id": 740111106,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740111106/large.jpg",
-    "attribution": "(c) Tim Aßmus, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/403120381",
-    "place": null,
-    "date": "2026-09-19"
+    "id": 712416835,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712416835/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712416835/large.jpg",
+    "attribution": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388948472",
+    "place": "Кирово-Чепецкий р-н, Кировская обл., Россия",
+    "date": "2026-08-02"
    },
    {
-    "id": 185899382,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185899382/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185899382/large.jpeg",
-    "attribution": "(c) Codrin Bucur, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/110221913",
-    "place": "79639 Grenzach-Wyhlen, Germany",
-    "date": "2022-04-02"
+    "id": 318500503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318500503/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318500503/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/182649828",
+    "place": "Сыктывдинский р-н, Респ. Коми, Россия",
+    "date": "2023-08-20"
    }
   ],
   "hero": {
-   "id": 591075689,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/591075689/large.jpg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/326368739",
-   "place": "KwaDukuza, South Africa",
-   "date": "2016-03-27"
+   "id": 41827491,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41827491/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41827491/large.jpg",
+   "attribution": "(c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC), uploaded by Dmitry Dubikovskiy",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/41827491",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -85,15 +115,15 @@
    3,
    0
   ],
-  "worldTotal": 119680,
+  "worldTotal": 120368,
   "topCountries": [
    {
     "code": "SE",
-    "count": 45071
+    "count": 45075
    },
    {
     "code": "NL",
-    "count": 19584
+    "count": 19582
    },
    {
     "code": "FR",
@@ -105,7 +135,7 @@
    },
    {
     "code": "NO",
-    "count": 5016
+    "count": 5018
    },
    {
     "code": "BE",
@@ -117,7 +147,7 @@
    },
    {
     "code": "FI",
-    "count": 3447
+    "count": 3463
    },
    {
     "code": "GB",
@@ -125,7 +155,7 @@
    },
    {
     "code": "DE",
-    "count": 2425
+    "count": 2443
    },
    {
     "code": "EE",
@@ -137,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

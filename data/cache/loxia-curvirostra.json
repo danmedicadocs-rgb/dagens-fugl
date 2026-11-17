@@ -2,7 +2,7 @@
  "key": "loxia-curvirostra",
  "name": "Loxia curvirostra",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:41.530Z",
+ "fetchedAt": "2026-11-17T20:00:48.071Z",
  "names": {
   "da": "Lille korsnæb",
   "en": "Red Crossbill",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 10411,
-  "observations": 30936
+  "observations": 31053
  },
  "photos": {
   "male": [
+   {
+    "id": 631907943,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/631907943/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/631907943/large.jpg",
+    "attribution": "(c) veb74, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/346642862",
+    "place": "Kurshskaya Kosa, Svetlogorsk, Kaliningrad, Russia",
+    "date": "2026-03-31"
+   },
+   {
+    "id": 178961056,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178961056/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178961056/large.jpeg",
+    "attribution": "(c) Robert G. Buckert, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/106523665",
+    "place": "28N Bridge Over Boreas River, Minerva, NY 12851, USA",
+    "date": "2022-02-06"
+   },
    {
     "id": 113332162,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113332162/medium.jpeg",
@@ -32,61 +52,51 @@
     "source": "https://www.inaturalist.org/observations/69792375",
     "place": "Cherán",
     "date": "2021-02-17"
-   },
-   {
-    "id": 5892227,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5892227/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5892227/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/4854117",
-    "place": "Salisbury, MA, USA",
-    "date": "2016-12-27"
-   },
-   {
-    "id": 81355912,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81355912/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81355912/large.jpg",
-    "attribution": "(c) David Batchelor, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/51214120",
-    "place": "Pine Spring, Clark County, NV, USA",
-    "date": "2019-11-17"
    }
   ],
   "female": [
    {
-    "id": 342217227,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342217227/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/342217227/large.jpg",
-    "attribution": "(c) Mary Krieger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/194653894",
-    "place": "Division No. 13, MB, Canada",
-    "date": "2023-12-14"
+    "id": 2099694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2099694/medium.JPG",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2099694/large.JPG",
+    "attribution": "(c) Warren Cronan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1732639",
+    "place": "Ripple Rock Hiking Trail",
+    "date": "2015-07-06"
    },
    {
-    "id": 222674036,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/222674036/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/222674036/large.jpeg",
-    "attribution": "(c) Quinn, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/130897790",
-    "place": "qathet Regional District, BC, Canada",
-    "date": "2022-08-06"
+    "id": 344565725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344565725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344565725/large.jpg",
+    "attribution": "(c) Don Henise, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195804493",
+    "place": "Jackson County, MI, USA",
+    "date": "2024-01-04"
    },
    {
-    "id": 594990708,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594990708/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594990708/large.jpg",
-    "attribution": "(c) Donsky, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/328363071",
-    "place": "Bakuriani, Georgia",
-    "date": "2025-11-23"
+    "id": 13643299,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13643299/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13643299/large.jpeg",
+    "attribution": "(c) Randy Bodkins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9940686",
+    "place": "Randolph County, WV, USA",
+    "date": "2018-02-20"
    }
   ],
   "juvenile": [
+   {
+    "id": 38463797,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38463797/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38463797/large.jpeg",
+    "attribution": "(c) fritzu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24867773",
+    "place": "Canyon Meadows, Calgary, AB T2W, Canada",
+    "date": "2016-05-08"
+   },
    {
     "id": 314683652,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314683652/medium.jpeg",
@@ -98,33 +108,23 @@
     "date": "2023-08-26"
    },
    {
-    "id": 314683604,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/314683604/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/314683604/large.jpeg",
-    "attribution": "(c) Sean Frey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/180634763",
-    "place": "Park, MB R0J, Canada",
-    "date": "2023-08-26"
-   },
-   {
-    "id": 250715186,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250715186/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250715186/large.jpeg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/145901479",
-    "place": "Parco Nazionale della Sila",
-    "date": "2023-01-04"
+    "id": 485237356,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/485237356/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/485237356/large.png",
+    "attribution": "(c) Sergey_Cher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/269850433",
+    "place": "Козельский р-н, Калужская обл., Россия",
+    "date": "2021-06-11"
    }
   ],
   "hero": {
-   "id": 303309597,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/303309597/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/303309597/large.jpg",
-   "attribution": "(c) Stanley Davis, some rights reserved (CC BY), uploaded by Stanley Davis",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/303309597",
+   "id": 60551275,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60551275/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60551275/large.jpg",
+   "attribution": "(c) Bob Lalonde, some rights reserved (CC BY-NC), uploaded by Bob Lalonde",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/60551275",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    9074,
    5375
   ],
-  "worldTotal": 1502636,
+  "worldTotal": 1526763,
   "topCountries": [
    {
     "code": "US",
@@ -154,7 +154,7 @@
    },
    {
     "code": "SE",
-    "count": 289453
+    "count": 289840
    },
    {
     "code": "CA",
@@ -166,23 +166,27 @@
    },
    {
     "code": "NO",
-    "count": 91814
+    "count": 91902
    },
    {
     "code": "ES",
-    "count": 79137
+    "count": 79140
    },
    {
     "code": "FI",
-    "count": 68150
+    "count": 68154
    },
    {
     "code": "FR",
-    "count": 54507
+    "count": 54594
    },
    {
     "code": "GB",
-    "count": 40269
+    "count": 40270
+   },
+   {
+    "code": "CH",
+    "count": 29811
    },
    {
     "code": "BE",
@@ -190,16 +194,10 @@
    },
    {
     "code": "DE",
-    "count": 17424
-   },
-   {
-    "code": "RU",
-    "count": 14404
+    "count": 17494
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "flight call, song, excitement call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "columba-oenas",
  "name": "Columba oenas",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:51.439Z",
+ "fetchedAt": "2026-11-17T19:47:34.742Z",
  "names": {
   "da": "Huldue",
   "en": "Stock Dove",
@@ -19,52 +19,83 @@
  },
  "inat": {
   "id": 3033,
-  "observations": 16024
+  "observations": 16056
  },
  "photos": {
   "male": [
    {
-    "id": 656051696,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656051696/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656051696/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/359571228",
-    "place": "England, GB",
-    "date": "2026-05-03"
+    "id": 352640506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352640506/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352640506/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199929658",
+    "place": "Bramley, Leeds, UK",
+    "date": "2024-02-18"
+   },
+   {
+    "id": 367945694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367945694/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367945694/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207986249",
+    "place": "Bramley, Leeds, UK",
+    "date": "2024-04-14"
+   },
+   {
+    "id": 642412474,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/642412474/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/642412474/large.jpg",
+    "attribution": "(c) irunaortik, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/351992096",
+    "place": "Святошинські пруди, Київ",
+    "date": "2026-04-20"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 715048704,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715048704/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715048704/large.jpg",
+    "attribution": "(c) deniztri, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390309355",
+    "place": "Remscheid, DE-NW, DE",
+    "date": "2026-08-11"
+   }
+  ],
   "juvenile": [
    {
-    "id": 320481656,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320481656/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320481656/large.jpg",
-    "attribution": "(c) Andrew Skotnicki, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/183672833",
-    "place": "Fishponds Park, Surbiton, London, UK",
-    "date": "2023-09-17"
+    "id": 513035383,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/513035383/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/513035383/large.jpg",
+    "attribution": "(c) natalia_pakhomova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/285426017",
+    "place": "По́ддорский район, Новгородская область, RU",
+    "date": "2025-05-30"
    },
    {
-    "id": 312133980,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312133980/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312133980/large.jpg",
-    "attribution": "(c) Andrew Skotnicki, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/179303124",
-    "place": "Hogsmill River, Kingston upon Thames, London, UK",
-    "date": "2023-08-19"
+    "id": 695886207,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/695886207/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/695886207/large.jpg",
+    "attribution": "(c) Ирина Рогова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/380381221",
+    "place": "Gatchinskiy rayon, Leningrad, Russia",
+    "date": "2026-07-11"
    },
    {
-    "id": 212033331,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212033331/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212033331/large.jpg",
-    "attribution": "(c) Stuart Fisher, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/125054234",
-    "place": "Norfolk, UK",
-    "date": "2022-07-06"
+    "id": 575215380,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/575215380/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/575215380/large.jpg",
+    "attribution": "(c) tnaturalist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/318282797",
+    "place": "18 Lohme, Deutschland",
+    "date": "2025-08-14"
    }
   ],
   "hero": {
@@ -95,19 +126,19 @@
    2108,
    1213
   ],
-  "worldTotal": 1623614,
+  "worldTotal": 1658790,
   "topCountries": [
    {
     "code": "GB",
-    "count": 440241
+    "count": 440242
    },
    {
     "code": "SE",
-    "count": 367635
+    "count": 367711
    },
    {
     "code": "NL",
-    "count": 256964
+    "count": 257211
    },
    {
     "code": "DK",
@@ -115,40 +146,38 @@
    },
    {
     "code": "BE",
-    "count": 93834
+    "count": 93835
    },
    {
     "code": "FR",
-    "count": 92861
+    "count": 93656
    },
    {
     "code": "DE",
-    "count": 56728
+    "count": 57493
    },
    {
     "code": "NO",
-    "count": 44801
+    "count": 44803
    },
    {
     "code": "ES",
-    "count": 42414
+    "count": 42415
    },
    {
     "code": "FI",
-    "count": 38596
+    "count": 38602
+   },
+   {
+    "code": "CH",
+    "count": 38536
    },
    {
     "code": "PL",
-    "count": 10260
-   },
-   {
-    "code": "CZ",
-    "count": 9944
+    "count": 10261
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

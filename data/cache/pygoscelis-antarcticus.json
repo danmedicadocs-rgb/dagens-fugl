@@ -2,7 +2,7 @@
  "key": "pygoscelis-antarcticus",
  "name": "Pygoscelis antarcticus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:06.795Z",
+ "fetchedAt": "2026-11-17T20:15:13.437Z",
  "names": {
   "da": "Rempingvin",
   "en": "Chinstrap Penguin",
@@ -19,51 +19,82 @@
  },
  "inat": {
   "id": 54549,
-  "observations": 2147
+  "observations": 2148
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 611858203,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611858203/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611858203/large.jpg",
+    "attribution": "(c) Brian Butcher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336671919",
+    "place": "Antarctica",
+    "date": "2026-01-29"
+   },
+   {
+    "id": 644381818,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/644381818/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/644381818/large.jpg",
+    "attribution": "(c) Ray Duffy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/353138512",
+    "place": "Antarctica",
+    "date": "2024-02-15"
+   },
+   {
+    "id": 612649438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/612649438/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/612649438/large.jpg",
+    "attribution": "(c) marionfr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/337025697",
+    "place": "Antarktika",
+    "date": "2026-01-29"
+   }
+  ],
   "adult": [
    {
-    "id": 617204755,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617204755/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/339298367",
+    "id": 6007237,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6007237/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6007237/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/4929154",
+    "place": "Bailey Head, Deception Island, Antarctica",
+    "date": "2002-01-29"
+   },
+   {
+    "id": 67003312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67003312/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67003312/large.jpg",
+    "attribution": "(c) Paddy Kemner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/42207699",
     "place": "Orne Harbour, Antarctica",
-    "date": "2026-02-16"
+    "date": "2012-11-26"
    },
    {
-    "id": 59464930,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59464930/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59464930/large.jpeg",
-    "attribution": "(c) María Regina Silva, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/37503770",
-    "place": "Ushuaia, AR-TF, AR",
-    "date": "2020-01-11"
-   },
-   {
-    "id": 67125901,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67125901/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67125901/large.jpg",
-    "attribution": "(c) Evee Krojmal, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/42281390",
-    "place": "Isla Rey Jorge, Antártida",
-    "date": "2020-02-01"
+    "id": 122328735,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122328735/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122328735/large.jpg",
+    "attribution": "(c) whale_nerd, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74818900",
+    "place": null,
+    "date": "2019-02-23"
    }
   ],
   "hero": {
-   "id": 248704,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248704/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248704/large.jpg",
-   "attribution": "(c) Sterling Sheehy, some rights reserved (CC BY), uploaded by Sterling Sheehy",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/248704",
+   "id": 67003315,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67003315/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67003315/large.jpg",
+   "attribution": "(c) Paddy Kemner, some rights reserved (CC BY-NC), uploaded by Paddy Kemner",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/67003315",
    "place": null,
    "date": null
   }
@@ -132,13 +163,11 @@
     "count": 10
    },
    {
-    "code": "CL",
+    "code": "CA",
     "count": 7
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +182,7 @@
   "type": "begging call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

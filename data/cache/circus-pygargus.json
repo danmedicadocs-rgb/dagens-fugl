@@ -2,7 +2,7 @@
  "key": "circus-pygargus",
  "name": "Circus pygargus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:08:31.316Z",
+ "fetchedAt": "2026-11-17T19:38:27.364Z",
  "names": {
   "da": "Hedehøg",
   "en": "Montagu's Harrier",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 5167,
-  "observations": 14416
+  "observations": 14451
  },
  "photos": {
   "male": [
    {
-    "id": 171076888,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171076888/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171076888/large.jpg",
-    "attribution": "(c) Сергей Неклюдов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/102357068",
-    "place": "г. Казань, Респ. Татарстан, Россия",
-    "date": "2018-07-09"
+    "id": 286450560,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286450560/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286450560/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165475457",
+    "place": "Киров, Кировская обл., Россия",
+    "date": "2023-06-03"
    },
    {
-    "id": 3403364,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3403364/medium.JPG",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3403364/large.JPG",
-    "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/2964266",
-    "place": "Armenia",
-    "date": "2016-04-17"
+    "id": 67232553,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67232553/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67232553/large.jpeg",
+    "attribution": "(c) carlosmurias, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/42346095",
+    "place": "Spain",
+    "date": "2020-04-12"
    },
    {
-    "id": 654178637,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654178637/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654178637/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/358591717",
-    "place": "Castilla y León, ES",
-    "date": "2026-05-01"
+    "id": 589645401,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589645401/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589645401/large.jpg",
+    "attribution": "(c) Evgeny Komarov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/325648853",
+    "place": "Котельниковский р-н, Волгоградская обл., Россия",
+    "date": "2012-05-24"
    }
   ],
   "female": [
+   {
+    "id": 128651685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128651685/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128651685/large.jpeg",
+    "attribution": "(c) Michael Betke, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78599767",
+    "place": "88427 Bad Schussenried, Deutschland",
+    "date": "2021-04-24"
+   },
    {
     "id": 90117304,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117304/medium.jpg",
@@ -66,27 +76,27 @@
     "date": "2020-08-15"
    },
    {
-    "id": 57795840,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57795840/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57795840/large.jpg",
-    "attribution": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36552789",
-    "place": "Глазовский р-н, республика Удмуртия, Россия",
-    "date": "2018-08-19"
-   },
-   {
-    "id": 536168233,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/536168233/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/536168233/large.jpg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/297708868",
-    "place": "Респ. Башкортостан, Россия, 453351",
-    "date": "2025-07-09"
+    "id": 381009330,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381009330/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381009330/large.jpeg",
+    "attribution": "(c) Tobias Gratzer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/215499279",
+    "place": "Apetlon, Austria",
+    "date": "2024-05-10"
    }
   ],
   "juvenile": [
+   {
+    "id": 235734562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235734562/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/235734562/large.jpeg",
+    "attribution": "(c) robertopegolo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/137970995",
+    "place": "Piemonte, IT",
+    "date": "2022-10-08"
+   },
    {
     "id": 28081389,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28081389/medium.jpg",
@@ -98,24 +108,14 @@
     "date": "2018-08-24"
    },
    {
-    "id": 90117320,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117320/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90117320/large.jpg",
-    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/56545895",
-    "place": "Дальнеконстантиновский р-н, Нижегородская обл., Россия",
-    "date": "2020-08-15"
-   },
-   {
-    "id": 743364071,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743364071/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743364071/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/404716171",
-    "place": "Laumėnai II, 85210 Akmenės r. sav., Lietuva",
-    "date": "2026-09-30"
+    "id": 59369476,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59369476/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59369476/large.jpg",
+    "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37449356",
+    "place": "Вачский р-н, Нижегородская обл., Россия",
+    "date": "2013-06-18"
    }
   ],
   "hero": {
@@ -131,7 +131,7 @@
  },
  "gbif": {
   "key": 2480495,
-  "dkTotal": 24474,
+  "dkTotal": 24475,
   "dkMonths": [
    0,
    0,
@@ -140,21 +140,21 @@
    9923,
    4198,
    5212,
-   3549,
+   3550,
    289,
    18,
    3,
    0
   ],
-  "worldTotal": 531290,
+  "worldTotal": 531424,
   "topCountries": [
    {
     "code": "FR",
-    "count": 110172
+    "count": 110173
    },
    {
     "code": "ES",
-    "count": 87532
+    "count": 87538
    },
    {
     "code": "ML",
@@ -162,11 +162,11 @@
    },
    {
     "code": "SE",
-    "count": 47238
+    "count": 47248
    },
    {
     "code": "NL",
-    "count": 31545
+    "count": 31542
    },
    {
     "code": "GE",
@@ -174,7 +174,7 @@
    },
    {
     "code": "DK",
-    "count": 24474
+    "count": 24475
    },
    {
     "code": "BE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

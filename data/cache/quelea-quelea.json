@@ -2,7 +2,7 @@
  "key": "quelea-quelea",
  "name": "Quelea quelea",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:33:41.010Z",
+ "fetchedAt": "2026-11-17T20:07:39.982Z",
  "names": {
   "da": "Blodnæbsvæver",
   "en": "Red-billed Quelea",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 14005,
-  "observations": 4408
+  "observations": 4422
  },
  "photos": {
   "male": [
@@ -44,14 +44,14 @@
     "date": "2004-07-24"
    },
    {
-    "id": 121571517,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/121571517/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/121571517/large.jpg",
-    "attribution": "(c) Timothy Whitehead, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/74389480",
-    "place": "Overberg District Municipality, South Africa",
-    "date": "2021-04-18"
+    "id": 308066786,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308066786/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308066786/large.jpeg",
+    "attribution": "(c) moxcalvitiumtorgos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177151051",
+    "place": "P296-D301 west of Tayside (Buffalo River Valley-R34), KZN",
+    "date": "2019-12-14"
    }
   ],
   "female": [
@@ -66,27 +66,58 @@
     "date": "2013-11-24"
    },
    {
-    "id": 176459861,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176459861/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176459861/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/105201613",
-    "place": "Western District, South Africa",
-    "date": "2022-01-13"
+    "id": 21595286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21595286/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21595286/large.jpeg",
+    "attribution": "(c) copper, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14506634",
+    "place": "Augrabies Falls NP",
+    "date": "2018-05-26"
    },
    {
-    "id": 573701429,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573701429/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573701429/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/317486496",
-    "place": "Dodoma Urban, Tanzania",
-    "date": "2025-09-28"
+    "id": 715072107,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715072107/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715072107/large.jpg",
+    "attribution": "(c) Marion Maclean, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390327263",
+    "place": "Buffelsdrift, Ladismith, Western Cape",
+    "date": "2025-03-12"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 461943620,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/461943620/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/461943620/large.jpeg",
+    "attribution": "(c) Gigi Laidler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/257505079",
+    "place": "Overberg District Municipality, South Africa",
+    "date": "2024-10-25"
+   },
+   {
+    "id": 740482890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740482890/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740482890/large.jpg",
+    "attribution": "(c) Marion Maclean, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/403311219",
+    "place": "Bdrift gdn, Ladismith, Western Cape",
+    "date": "2026-02-16"
+   },
+   {
+    "id": 53270436,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53270436/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53270436/large.jpeg",
+    "attribution": "(c) Joni Overbosch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33885860",
+    "place": "Impala, Kenya",
+    "date": "2018-01-31"
+   }
+  ],
   "hero": {
    "id": 782446,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/782446/medium.jpg",
@@ -115,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 422652,
+  "worldTotal": 422663,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 332385
+    "count": 332389
    },
    {
     "code": "NA",
@@ -159,7 +190,7 @@
    },
    {
     "code": "GM",
-    "count": 2101
+    "count": 2107
    },
    {
     "code": "NG",
@@ -167,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

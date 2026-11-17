@@ -2,7 +2,7 @@
  "key": "megalaima-virens",
  "name": "Megalaima virens",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:38:20.351Z",
+ "fetchedAt": "2026-11-17T20:12:15.718Z",
  "names": {
   "da": null,
   "en": null,
@@ -14,53 +14,63 @@
  "wiki": null,
  "inat": {
   "id": 367525,
-  "observations": 2246
+  "observations": 2255
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 315804901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315804901/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315804901/large.jpeg",
+    "attribution": "(c) Maitrey Chhaya, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181220426",
+    "place": "Almora",
+    "date": "2022-04-12"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 608415951,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/large.jpg",
-    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/334966098",
-    "place": "Tawang, Arunachal Pradesh, India",
-    "date": "2023-02-28"
+    "id": 325459602,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325459602/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325459602/large.jpg",
+    "attribution": "(c) Peeyush Sekhsaria, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186256051",
+    "place": "Kullu, Gandhi Nagar, HP",
+    "date": "2023-09-29"
    },
    {
-    "id": 79191435,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79191435/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/79191435/large.jpg",
-    "attribution": "(c) Ramnarayan K, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/49878109",
-    "place": "Mukteshwar, Uttarakhand, India",
-    "date": "2019-10-23"
+    "id": 582513731,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582513731/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582513731/large.jpg",
+    "attribution": "(c) Namrata Rai, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/322044256",
+    "place": "86G9+9XR, Melliaching, Sikkim 737113, India",
+    "date": "2025-10-20"
    },
    {
-    "id": 263039604,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263039604/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263039604/large.jpg",
-    "attribution": "(c) Jagdish Singh Negi, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/152376571",
-    "place": "Mukteshwar, Uttarakhand, India",
-    "date": "2023-03-26"
+    "id": 655830876,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/655830876/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/655830876/large.jpg",
+    "attribution": "(c) GURSEWAK SINGH, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/359450759",
+    "place": "5FV2+262, Chandar Bhan, Himachal Pradesh 176052, India",
+    "date": "2026-05-07"
    }
   ],
   "hero": {
-   "id": 608415951,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/608415951/large.jpg",
-   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/334966098",
-   "place": "Tawang, Arunachal Pradesh, India",
-   "date": "2023-02-28"
+   "id": 297079553,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297079553/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/297079553/large.jpg",
+   "attribution": "(c) Avinash Bhagat, some rights reserved (CC BY-NC), uploaded by Avinash Bhagat",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/297079553",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -80,11 +90,11 @@
    0,
    0
   ],
-  "worldTotal": 105162,
+  "worldTotal": 105176,
   "topCountries": [
    {
     "code": "IN",
-    "count": 64692
+    "count": 64706
    },
    {
     "code": "NP",
@@ -132,8 +142,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -148,5 +156,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

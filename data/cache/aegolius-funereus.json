@@ -2,7 +2,7 @@
  "key": "aegolius-funereus",
  "name": "Aegolius funereus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:17:51.364Z",
+ "fetchedAt": "2026-11-17T19:48:54.357Z",
  "names": {
   "da": "Perleugle",
   "en": "Boreal Owl",
@@ -19,23 +19,94 @@
  },
  "inat": {
   "id": 20359,
-  "observations": 2165
+  "observations": 2168
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 754598969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754598969/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754598969/large.jpg",
+    "attribution": "(c) Dmitriewskii, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410313619",
+    "place": "ст. м. Динамо, Екатеринбург, Свердловская обл., Россия, 620027",
+    "date": "2026-10-23"
+   },
+   {
+    "id": 74349406,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74349406/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74349406/large.jpeg",
+    "attribution": "(c) Анна Мостовая, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/46882760",
+    "place": "Nizhegorod, RU",
+    "date": "2019-05-25"
+   },
+   {
+    "id": 367149694,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/367149694/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/367149694/large.jpeg",
+    "attribution": "(c) chiarimax, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/207556408",
+    "place": "Provincia di Brescia, Italia",
+    "date": "2024-04-13"
+   }
+  ],
   "female": [
    {
-    "id": 444694139,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/248831091",
-    "place": "Ontario, CA",
-    "date": "2024-10-23"
+    "id": 637686181,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/637686181/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/637686181/large.jpg",
+    "attribution": "(c) Merja Karhunen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/349560112",
+    "place": "Lapland, Lapland, FI",
+    "date": "2026-04-13"
+   },
+   {
+    "id": 450870892,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/450870892/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/450870892/large.jpeg",
+    "attribution": "(c) nosenco_av, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251927007",
+    "place": "Володарский р-н, Нижегородская обл., Россия",
+    "date": "2023-05-30"
+   },
+   {
+    "id": 280394062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280394062/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280394062/large.jpeg",
+    "attribution": "(c) Irina Mashina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/162176262",
+    "place": "Нижегородская обл., Россия, 606091",
+    "date": "2023-05-08"
    }
   ],
   "juvenile": [
+   {
+    "id": 390739701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/390739701/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/390739701/large.jpeg",
+    "attribution": "(c) Татьяна Косых, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/220681860",
+    "place": "Volodarskiy rayon, RU-NZ, RU",
+    "date": "2024-06-01"
+   },
+   {
+    "id": 13914304,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13914304/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13914304/large.jpg",
+    "attribution": "(c) Jamie Spence, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10097864",
+    "place": "Webequie, ON P0V, Canada",
+    "date": "2016-06-27"
+   },
    {
     "id": 218524657,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218524657/medium.jpg",
@@ -45,37 +116,17 @@
     "source": "https://www.inaturalist.org/observations/128641579",
     "place": "Åre Municipality, Sweden",
     "date": "2010-08-11"
-   },
-   {
-    "id": 92104512,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/92104512/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/92104512/large.jpeg",
-    "attribution": "(c) Christoph Moning, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/57725790",
-    "place": "St. Oswald-Riedlhütte, Deutschland",
-    "date": "2010-05-09"
-   },
-   {
-    "id": 137192343,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137192343/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137192343/large.jpeg",
-    "attribution": "(c) John Powers, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/83528657",
-    "place": "Gunnison County, CO, USA",
-    "date": "2021-06-16"
    }
   ],
   "hero": {
-   "id": 444694139,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444694139/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/248831091",
-   "place": "Ontario, CA",
-   "date": "2024-10-23"
+   "id": 43710040,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43710040/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43710040/large.jpg",
+   "attribution": "(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/43710040",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -95,27 +146,31 @@
    44,
    9
   ],
-  "worldTotal": 299067,
+  "worldTotal": 305368,
   "topCountries": [
    {
     "code": "FI",
-    "count": 165775
+    "count": 165779
    },
    {
     "code": "SE",
-    "count": 73921
+    "count": 73935
    },
    {
     "code": "NO",
-    "count": 17019
+    "count": 17022
    },
    {
     "code": "FR",
-    "count": 12550
+    "count": 12979
    },
    {
     "code": "CA",
     "count": 9699
+   },
+   {
+    "code": "CH",
+    "count": 6513
    },
    {
     "code": "US",
@@ -127,7 +182,7 @@
    },
    {
     "code": "DE",
-    "count": 1124
+    "count": 1130
    },
    {
     "code": "PL",
@@ -140,15 +195,9 @@
    {
     "code": "DK",
     "count": 955
-   },
-   {
-    "code": "RU",
-    "count": 931
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

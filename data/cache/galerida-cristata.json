@@ -2,7 +2,7 @@
  "key": "galerida-cristata",
  "name": "Galerida cristata",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:20:51.242Z",
+ "fetchedAt": "2026-11-17T19:52:30.583Z",
  "names": {
   "da": "Toplærke",
   "en": "Crested Lark",
@@ -28,12 +28,12 @@
   "adult": [],
   "general": [],
   "hero": {
-   "id": 4947,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4947/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4947/large.jpg",
-   "attribution": "(c) hhhalberto, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/4947",
+   "id": 4945,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4945/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4945/large.jpg",
+   "attribution": "(c) Valter Jacinto, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/4945",
    "place": null,
    "date": null
   }
@@ -55,31 +55,31 @@
    161,
    132
   ],
-  "worldTotal": 982397,
+  "worldTotal": 982688,
   "topCountries": [
    {
     "code": "ES",
-    "count": 395731
+    "count": 395794
    },
    {
     "code": "PT",
-    "count": 118691
+    "count": 118694
    },
    {
     "code": "IL",
-    "count": 83369
+    "count": 83374
    },
    {
     "code": "FR",
-    "count": 64362
+    "count": 64369
    },
    {
     "code": "TR",
-    "count": 42014
+    "count": 42045
    },
    {
     "code": "GR",
-    "count": 36851
+    "count": 36870
    },
    {
     "code": "AE",
@@ -91,11 +91,11 @@
    },
    {
     "code": "IT",
-    "count": 16217
+    "count": 16218
    },
    {
     "code": "CY",
-    "count": 12312
+    "count": 12313
    },
    {
     "code": "BG",
@@ -103,12 +103,10 @@
    },
    {
     "code": "MA",
-    "count": 10574
+    "count": 10601
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -123,5 +121,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

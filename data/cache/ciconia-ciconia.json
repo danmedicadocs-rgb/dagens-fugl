@@ -2,7 +2,7 @@
  "key": "ciconia-ciconia",
  "name": "Ciconia ciconia",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:43.184Z",
+ "fetchedAt": "2026-11-17T19:37:34.647Z",
  "names": {
   "da": "Hvid stork",
   "en": "White stork",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 4733,
-  "observations": 86411
+  "observations": 86537
  },
  "photos": {
   "male": [
@@ -34,49 +34,69 @@
     "date": "2025-07-16"
    },
    {
-    "id": 161218542,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/161218542/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/161218542/large.jpeg",
-    "attribution": "(c) Jens Gyldenkærne Jensen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/96993552",
-    "place": "3670 Veksø, Danmark",
-    "date": "2021-10-03"
+    "id": 479129234,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479129234/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479129234/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/266667892",
+    "place": "8263 Großwilfersdorf, Austria",
+    "date": "2025-03-23"
    },
    {
-    "id": 58124826,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58124826/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58124826/large.jpg",
-    "attribution": "(c) lugachev_vitaly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/36739949",
-    "place": "Западный округ, Краснодар, Краснодарский край, Россия",
-    "date": "2019-09-07"
+    "id": 223958052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223958052/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223958052/large.jpeg",
+    "attribution": "(c) Роман, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131569281",
+    "place": "Стольне",
+    "date": "2022-08-20"
    }
   ],
   "female": [
    {
-    "id": 498724367,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498724367/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498724367/large.jpeg",
-    "attribution": "(c) Matteo Negro, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/277752758",
-    "place": "Piemonte, IT",
-    "date": "2025-05-02"
+    "id": 675311943,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675311943/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675311943/large.jpg",
+    "attribution": "(c) Teo Giurea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/369678075",
+    "place": "Tiglarilor 1, Sibiu, România",
+    "date": "2026-06-08"
    },
    {
-    "id": 358878915,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358878915/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358878915/large.jpeg",
-    "attribution": "(c) Filipi Miranda Soares, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/203148107",
-    "place": "26001 Logroño, La Rioja, Spain",
-    "date": "2024-03-19"
+    "id": 190098718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190098718/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190098718/large.jpeg",
+    "attribution": "(c) Silviu Petrovan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112545154",
+    "place": "Scăiuș, Romania",
+    "date": "2022-04-23"
+   },
+   {
+    "id": 479129257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/479129257/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/479129257/large.jpg",
+    "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/266667896",
+    "place": "8263 Großwilfersdorf, Austria",
+    "date": "2025-03-23"
    }
   ],
   "juvenile": [
+   {
+    "id": 126001221,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126001221/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126001221/large.jpeg",
+    "attribution": "(c) Nadja Baumgartner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/77048273",
+    "place": "Zürich",
+    "date": "2021-05-01"
+   },
    {
     "id": 667252917,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667252917/medium.jpg",
@@ -88,24 +108,14 @@
     "date": "2026-05-22"
    },
    {
-    "id": 514839073,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/514839073/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/514839073/large.jpg",
-    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/286385718",
-    "place": "85710 Châteauneuf, France",
-    "date": "2025-05-30"
-   },
-   {
-    "id": 77209717,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77209717/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77209717/large.jpeg",
-    "attribution": "(c) RAUL DAL SANTO, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/48652775",
-    "place": "13866 Masserano BI, Italia",
-    "date": "2020-06-06"
+    "id": 689697929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689697929/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689697929/large.jpg",
+    "attribution": "(c) Frederik Jensen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/377175749",
+    "place": "Budy 48, 17-230, Poland",
+    "date": "2026-07-01"
    }
   ],
   "hero": {
@@ -136,39 +146,43 @@
    166,
    96
   ],
-  "worldTotal": 2019598,
+  "worldTotal": 2045966,
   "topCountries": [
    {
     "code": "NL",
-    "count": 578472
+    "count": 578891
    },
    {
     "code": "ES",
-    "count": 427486
+    "count": 427508
    },
    {
     "code": "DE",
-    "count": 170373
+    "count": 173242
    },
    {
     "code": "FR",
-    "count": 167154
+    "count": 167202
    },
    {
     "code": "PT",
-    "count": 135589
+    "count": 135597
    },
    {
     "code": "PL",
-    "count": 84087
+    "count": 84092
    },
    {
     "code": "SE",
-    "count": 54865
+    "count": 54884
    },
    {
     "code": "BE",
     "count": 47974
+   },
+   {
+    "code": "CH",
+    "count": 36886
    },
    {
     "code": "BG",
@@ -176,20 +190,14 @@
    },
    {
     "code": "ZA",
-    "count": 30320
+    "count": 30321
    },
    {
     "code": "IL",
     "count": 28457
-   },
-   {
-    "code": "TR",
-    "count": 28212
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

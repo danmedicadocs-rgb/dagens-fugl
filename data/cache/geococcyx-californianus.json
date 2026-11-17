@@ -2,7 +2,7 @@
  "key": "geococcyx-californianus",
  "name": "Geococcyx californianus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:42:54.899Z",
+ "fetchedAt": "2026-11-17T20:17:15.626Z",
  "names": {
   "da": "Jordgøg",
   "en": "Greater Roadrunner",
@@ -19,7 +19,7 @@
  },
  "inat": {
   "id": 1986,
-  "observations": 45029
+  "observations": 45112
  },
  "photos": {
   "male": [
@@ -34,27 +34,47 @@
     "date": "2017-07-04"
    },
    {
-    "id": 306038428,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306038428/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306038428/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/176056313",
-    "place": "Cook at Berger, Palm Desert, CA 92211, USA",
-    "date": "2023-07-26"
+    "id": 8940812,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8940812/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8940812/large.jpg",
+    "attribution": "(c) Becky Hansis-O'Neill, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/6984751",
+    "place": "2901 Candelaria Rd NW, Albuquerque, NM 87107, USA",
+    "date": "2017-07-09"
    },
    {
-    "id": 199747746,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199747746/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199747746/large.jpg",
-    "attribution": "(c) Richard Peters, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/118240683",
-    "place": "Marble Ave NE, Albuquerque, NM, US",
-    "date": "2022-05-22"
+    "id": 682364857,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/682364857/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/682364857/large.jpg",
+    "attribution": "(c) Mark K. James, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/373381800",
+    "place": "Mission Trails Regional Park, San Diego, CA, US",
+    "date": "2026-06-19"
    }
   ],
   "female": [
+   {
+    "id": 558343052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558343052/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558343052/large.jpg",
+    "attribution": "(c) Angel Martinez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309415108",
+    "place": "(HMW) Morelos, Coah., Mexico",
+    "date": "2025-08-22"
+   },
+   {
+    "id": 77984555,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/77984555/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/77984555/large.jpg",
+    "attribution": "(c) Clayton Bownds, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/49130633",
+    "place": "Montgomery County, TX, USA",
+    "date": "2020-06-10"
+   },
    {
     "id": 115786244,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115786244/medium.jpeg",
@@ -64,29 +84,19 @@
     "source": "https://www.inaturalist.org/observations/71146251",
     "place": "Cougar Loop NE, Albuquerque, NM 87122, USA",
     "date": "2021-03-13"
-   },
-   {
-    "id": 99874498,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/99874498/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/99874498/large.jpeg",
-    "attribution": "(c) Diana, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/62344895",
-    "place": "Riverside County, CA, USA",
-    "date": "2020-10-10"
-   },
-   {
-    "id": 155005917,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155005917/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155005917/large.jpeg",
-    "attribution": "(c) Diana, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/93517578",
-    "place": "Riverside, California, United States",
-    "date": "2021-09-03"
    }
   ],
   "juvenile": [
+   {
+    "id": 242135480,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242135480/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242135480/large.jpg",
+    "attribution": "(c) P Sаntori Jr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141351334",
+    "place": "New River, AZ, USA",
+    "date": "2022-04-18"
+   },
    {
     "id": 245984956,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245984956/medium.jpg",
@@ -98,33 +108,23 @@
     "date": "2019-04-16"
    },
    {
-    "id": 701807476,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/701807476/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/701807476/large.jpg",
-    "attribution": "(c) Katrina Smith, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/383443292",
-    "place": "Las Vegas, NV, US",
-    "date": "2026-07-20"
-   },
-   {
-    "id": 2336556,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2336556/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2336556/large.jpg",
-    "attribution": "(c) Jason Eckberg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/1913378",
-    "place": "Warm Springs Natural Area",
-    "date": "2015-08-05"
+    "id": 242137235,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242137235/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242137235/large.jpg",
+    "attribution": "(c) P Sаntori Jr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141352225",
+    "place": "New River, AZ, USA",
+    "date": "2022-04-26"
    }
   ],
   "hero": {
-   "id": 243403713,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243403713/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243403713/large.jpg",
-   "attribution": "(c) MarvalPhotography19, some rights reserved (CC BY), uploaded by MarvalPhotography19",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/243403713",
+   "id": 128132945,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128132945/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128132945/large.jpg",
+   "attribution": "(c) jefferykarafa, some rights reserved (CC BY-NC), uploaded by jefferykarafa",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/128132945",
    "place": null,
    "date": null
   }
@@ -150,7 +150,7 @@
   "topCountries": [
    {
     "code": "US",
-    "count": 499633
+    "count": 499634
    },
    {
     "code": "MX",
@@ -174,8 +174,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -190,5 +188,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

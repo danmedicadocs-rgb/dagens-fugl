@@ -2,7 +2,7 @@
  "key": "calidris-temminckii",
  "name": "Calidris temminckii",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:40.718Z",
+ "fetchedAt": "2026-11-17T19:41:59.274Z",
  "names": {
   "da": "Temmincksryle",
   "en": "Temminck's Stint",
@@ -19,12 +19,22 @@
  },
  "inat": {
   "id": 3837,
-  "observations": 8212
+  "observations": 8231
  },
  "photos": {
   "male": [],
   "female": [],
   "juvenile": [
+   {
+    "id": 573040491,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573040491/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573040491/large.jpg",
+    "attribution": "(c) Hiroki Shudo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/317141532",
+    "place": "Okinawa, JP",
+    "date": "2025-09-17"
+   },
    {
     "id": 707912755,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707912755/medium.jpg",
@@ -44,59 +54,49 @@
     "source": "https://www.inaturalist.org/observations/397846097",
     "place": "Анадырский р-н, Чукотский автономный округ, Россия",
     "date": "2026-07-02"
-   },
-   {
-    "id": 583249376,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/583249376/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/583249376/large.jpg",
-    "attribution": "(c) Phil James, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/322412284",
-    "place": "Gloucestershire, UK",
-    "date": "2025-10-21"
    }
   ],
   "adult": [
    {
-    "id": 559304477,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/large.jpg",
-    "attribution": "(c) Olivier Morel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/309915156",
-    "place": "42210 Unias, France",
-    "date": "2025-08-21"
+    "id": 755941978,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755941978/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755941978/large.jpg",
+    "attribution": "(c) 游魂, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410968288",
+    "place": "Zhanjiang, CN-GD, CN",
+    "date": "2026-10-25"
    },
    {
-    "id": 349324974,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349324974/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349324974/large.jpeg",
-    "attribution": "(c) Andrew Simon, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/198222513",
-    "place": "Татарбунарський район, Одеська область, Україна",
-    "date": "2021-05-09"
+    "id": 520106392,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520106392/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520106392/large.jpg",
+    "attribution": "(c) Vimal Rajyaguru, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/289181423",
+    "place": "Vadodara, Gujarat, India",
+    "date": "2025-05-02"
    },
    {
-    "id": 729702362,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729702362/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729702362/large.jpg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397829031",
-    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
-    "date": "2026-07-02"
+    "id": 595760632,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595760632/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595760632/large.jpg",
+    "attribution": "(c) Dhruva Punde, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328736924",
+    "place": "Anand Nagar, Pune, Maharashtra, India",
+    "date": "2025-11-29"
    }
   ],
   "hero": {
-   "id": 559304477,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559304477/large.jpg",
-   "attribution": "(c) Olivier Morel, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/309915156",
-   "place": "42210 Unias, France",
-   "date": "2025-08-21"
+   "id": 199039788,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199039788/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199039788/large.jpg",
+   "attribution": "(c) Filipp Suvorov, some rights reserved (CC BY-NC), uploaded by Filipp Suvorov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/199039788",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -116,19 +116,19 @@
    0,
    0
   ],
-  "worldTotal": 346029,
+  "worldTotal": 346102,
   "topCountries": [
    {
     "code": "SE",
-    "count": 129450
+    "count": 129456
    },
    {
     "code": "IN",
-    "count": 39307
+    "count": 39310
    },
    {
     "code": "NO",
-    "count": 28370
+    "count": 28372
    },
    {
     "code": "DK",
@@ -136,11 +136,11 @@
    },
    {
     "code": "FI",
-    "count": 14845
+    "count": 14850
    },
    {
     "code": "NL",
-    "count": 10371
+    "count": 10386
    },
    {
     "code": "AE",
@@ -148,7 +148,7 @@
    },
    {
     "code": "ES",
-    "count": 8533
+    "count": 8535
    },
    {
     "code": "IL",
@@ -168,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +182,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

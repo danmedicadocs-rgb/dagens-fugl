@@ -2,7 +2,7 @@
  "key": "gallus-gallus",
  "name": "Gallus gallus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:32.123Z",
+ "fetchedAt": "2026-11-17T20:09:36.662Z",
  "names": {
   "da": "Røde junglehøns",
   "en": "Red Junglefowl",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 882,
-  "observations": 82320
+  "observations": 82543
  },
  "photos": {
   "male": [
+   {
+    "id": 277353770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/277353770/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/277353770/large.jpeg",
+    "attribution": "(c) Adam, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160503056",
+    "place": "Nuuanu - Punchbowl, Honolulu, HI, USA",
+    "date": "2023-05-07"
+   },
    {
     "id": 43973343,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43973343/medium.jpeg",
@@ -34,88 +44,78 @@
     "date": "2016-05-26"
    },
    {
-    "id": 111522587,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111522587/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111522587/large.jpg",
-    "attribution": "(c) John Powers, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68816299",
-    "place": "Gunnison County, CO, USA",
-    "date": "2019-07-05"
-   },
-   {
-    "id": 3784873,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3784873/large.jpg",
-    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/3273189",
-    "place": "Kaeng Krachan, Lung Sing ",
-    "date": "2016-02-29"
+    "id": 762256362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762256362/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762256362/large.jpg",
+    "attribution": "(c) zencapyy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/414098049",
+    "place": "Opp University Hall, Singapore 117551",
+    "date": "2026-11-11"
    }
   ],
   "female": [
    {
-    "id": 309572732,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309572732/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/309572732/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/177951886",
-    "place": "Domain Rd, Glenfield, Auckland, NZ",
-    "date": "2023-08-12"
+    "id": 339115169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339115169/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339115169/large.jpg",
+    "attribution": "(c) Sequoia Janirella Wrens, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/193083836",
+    "place": "Grand Cayman, George Town, George, KY",
+    "date": "2023-12-04"
    },
    {
-    "id": 686343113,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686343113/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686343113/large.jpg",
-    "attribution": "(c) Doreen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/375434812",
-    "place": "Chinatown, Singapore",
-    "date": "2026-03-30"
+    "id": 359332990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359332990/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359332990/large.jpg",
+    "attribution": "(c) Erin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203383752",
+    "place": "Grand Cayman, George Town, George, KY",
+    "date": "2010-03-17"
    },
    {
-    "id": 614435339,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614435339/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614435339/large.jpg",
-    "attribution": "(c) Gerard Chartier, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/337932865",
-    "place": "Thma Bang, KH, KK",
-    "date": "2025-12-07"
+    "id": 505584544,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/505584544/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/505584544/large.jpg",
+    "attribution": "(c) evilynlee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/281446499",
+    "place": "Pasir Ris Park, Singapore",
+    "date": "2022-01-23"
    }
   ],
   "juvenile": [
    {
-    "id": 117887965,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117887965/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117887965/large.jpeg",
-    "attribution": "(c) Rachel Stringham, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/72319326",
-    "place": "Maui County, HI, USA",
-    "date": "2021-03-09"
+    "id": 190041533,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190041533/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190041533/large.jpg",
+    "attribution": "(c) Sam Hambly, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112510719",
+    "place": "Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+    "date": "2022-04-23"
    },
    {
-    "id": 668999281,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668999281/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668999281/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/366381363",
-    "place": "Waco, KY 40385, USA",
-    "date": "2026-05-25"
+    "id": 345703920,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345703920/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345703920/large.jpeg",
+    "attribution": "(c) Batriti Lamare, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/196369386",
+    "place": "Nongjrong",
+    "date": "2024-01-03"
    },
    {
-    "id": 162751256,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162751256/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162751256/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/97822160",
-    "place": "Artemisa Province, CU",
-    "date": "2018-11-18"
+    "id": 190041331,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190041331/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190041331/large.jpg",
+    "attribution": "(c) Sam Hambly, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/112510697",
+    "place": "Bang Kruai, Bang Kruai District, Nonthaburi 11130, Thailand",
+    "date": "2022-04-23"
    }
   ],
   "hero": {
@@ -146,7 +146,7 @@
    93,
    3
   ],
-  "worldTotal": 298715,
+  "worldTotal": 298827,
   "topCountries": [
    {
     "code": "US",
@@ -154,11 +154,11 @@
    },
    {
     "code": "IN",
-    "count": 55098
+    "count": 55103
    },
    {
     "code": "SG",
-    "count": 35282
+    "count": 35294
    },
    {
     "code": "TH",
@@ -186,11 +186,11 @@
    },
    {
     "code": "VN",
-    "count": 3413
+    "count": 3417
    },
    {
     "code": "ID",
-    "count": 3149
+    "count": 3162
    },
    {
     "code": "NL",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "ephippiorhynchus-senegalensis",
  "name": "Ephippiorhynchus senegalensis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:34:16.435Z",
+ "fetchedAt": "2026-11-17T20:08:16.604Z",
  "names": {
   "da": "Saddelnæb",
   "en": null,
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 4754,
-  "observations": 4575
+  "observations": 4596
  },
  "photos": {
   "male": [
    {
-    "id": 334356269,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334356269/medium.png",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334356269/large.png",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/190696952",
-    "place": "Unnamed Road, Botswana",
-    "date": "2023-11-09"
+    "id": 167016483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167016483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/167016483/large.jpg",
+    "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/100096866",
+    "place": "Babati Rural, Tanzania",
+    "date": "2021-10-15"
    },
    {
-    "id": 96619407,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96619407/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96619407/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/60425427",
-    "place": "Gweru, Zimbabwe",
-    "date": "2020-09-19"
+    "id": 228758545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/228758545/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/228758545/large.jpg",
+    "attribution": "(c) sjaak-neefjes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/134228099",
+    "place": "Serengeti, TZ",
+    "date": "2022-08-10"
    },
    {
-    "id": 579368143,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579368143/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579368143/large.jpg",
-    "attribution": "(c) B Pulman005, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/320441244",
-    "place": "Bagamoyo, TZ-PW, TZ",
-    "date": "2025-10-11"
+    "id": 338806525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338806525/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338806525/large.jpeg",
+    "attribution": "(c) jorge1884, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192932221",
+    "place": "Q963+HR8, Moremi, Botsuana",
+    "date": "2023-09-19"
    }
   ],
   "female": [
+   {
+    "id": 20952308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20952308/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20952308/large.jpeg",
+    "attribution": "(c) magdastlucia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14142656",
+    "place": "iSimangaliso, South Africa",
+    "date": "2018-07-07"
+   },
    {
     "id": 13753257,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13753257/medium.jpg",
@@ -66,65 +76,55 @@
     "date": "2018-02-25"
    },
    {
-    "id": 365986215,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365986215/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365986215/large.jpeg",
-    "attribution": "(c) Karen Eichholz, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/206954370",
+    "id": 445409425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/445409425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/445409425/large.jpg",
+    "attribution": "(c) vince929, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/249196016",
     "place": "Ehlanzeni District Municipality, South Africa",
-    "date": "2023-10-28"
-   },
-   {
-    "id": 190287779,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190287779/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/190287779/large.jpeg",
-    "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/112650961",
-    "place": "Lolgorian, Kenya",
-    "date": "2021-12-21"
+    "date": "2024-09-18"
    }
   ],
   "juvenile": [
    {
-    "id": 336405134,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336405134/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336405134/large.jpeg",
-    "attribution": "(c) Reiner Jakubowski, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/191721986",
-    "place": "Lavushimanda, Zambia",
-    "date": "2023-11-06"
+    "id": 490603769,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490603769/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490603769/large.jpg",
+    "attribution": "(c) Peter Hollinger, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/272692506",
+    "place": "Rra Dinare Private Reserve, Okavango Delta, Botswana",
+    "date": "2025-03-22"
    },
    {
-    "id": 585206315,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585206315/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585206315/large.jpg",
-    "attribution": "(c) sableplains, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/323422058",
-    "place": "Thabazimbi, Limpopo, ZA",
-    "date": "2025-10-27"
+    "id": 111395168,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111395168/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111395168/large.jpeg",
+    "attribution": "(c) Becky Bohlmeyer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68746891",
+    "place": "Tarangire National Park",
+    "date": "2017-07-10"
    },
    {
-    "id": 37690278,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37690278/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/37690278/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/24376725",
-    "place": "Iringa, Tanzania",
-    "date": "2012-12-10"
+    "id": 343239449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343239449/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343239449/large.jpg",
+    "attribution": "(c) Jeanette Zitzer, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/195150266",
+    "place": "Kruger-Nationalpark, MP, ZA",
+    "date": "2023-11-14"
    }
   ],
   "hero": {
-   "id": 13753257,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13753257/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13753257/large.jpg",
-   "attribution": "(c) Wynand Uys, some rights reserved (CC BY), uploaded by Wynand Uys",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/13753257",
+   "id": 394701847,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394701847/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394701847/large.jpg",
+   "attribution": "(c) Tristan Scholze, some rights reserved (CC BY-NC), uploaded by Tristan Scholze",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/394701847",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 49603,
+  "worldTotal": 49619,
   "topCountries": [
    {
     "code": "ZA",
-    "count": 24253
+    "count": 24264
    },
    {
     "code": "BW",
@@ -158,11 +158,11 @@
    },
    {
     "code": "KE",
-    "count": 4565
+    "count": 4568
    },
    {
     "code": "TZ",
-    "count": 3737
+    "count": 3741
    },
    {
     "code": "ZM",
@@ -198,8 +198,8 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": null,
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

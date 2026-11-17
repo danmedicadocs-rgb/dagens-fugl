@@ -2,7 +2,7 @@
  "key": "tringa-ochropus",
  "name": "Tringa ochropus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:21.273Z",
+ "fetchedAt": "2026-11-17T19:43:45.649Z",
  "names": {
   "da": "Svaleklire",
   "en": "Green Sandpiper",
@@ -19,75 +19,95 @@
  },
  "inat": {
   "id": 3885,
-  "observations": 29594
+  "observations": 29659
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 556519190,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556519190/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556519190/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/308473713",
-    "place": "Grimsargh, Preston PR2, UK",
-    "date": "2025-08-23"
+    "id": 120592630,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120592630/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/120592630/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/73830729",
+    "place": "Московская обл., Россия",
+    "date": "2021-04-13"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 216434479,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/large.jpeg",
-    "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/127483136",
-    "place": "Сосницький район, Чернігівська область, Україна",
-    "date": "2021-04-04"
+    "id": 292743414,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/292743414/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/292743414/large.jpeg",
+    "attribution": "(c) Иннокентий Паршков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/168888935",
+    "place": "Балашиха, Московская обл., Россия",
+    "date": "2023-06-15"
    },
    {
-    "id": 370690344,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370690344/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370690344/large.jpeg",
-    "attribution": "(c) Евгений Маринкин, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/209476440",
-    "place": "Аргаяшский р-н, Челябинская обл., Россия",
-    "date": "2024-04-26"
+    "id": 368835268,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/368835268/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/368835268/large.jpeg",
+    "attribution": "(c) Sega Black - Sea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208458995",
+    "place": "Краснодарский край, Россия, 353918",
+    "date": "2024-04-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 117455030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117455030/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117455030/large.jpeg",
+    "attribution": "(c) Irina Kalashnikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72076692",
+    "place": "Turkey",
+    "date": "2021-03-22"
    },
    {
-    "id": 366800488,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/366800488/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/366800488/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/207371893",
-    "place": "Karpinsk gorsovet, Sverdlovsk, Russia",
-    "date": "2024-04-15"
+    "id": 520656758,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520656758/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520656758/large.jpg",
+    "attribution": "(c) Teppo Lehtola, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/289470843",
+    "place": "40930 Muurame, Suomi",
+    "date": "2025-06-12"
+   },
+   {
+    "id": 257575336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257575336/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257575336/large.jpeg",
+    "attribution": "(c) Alexia M. A. DIEVART, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149474172",
+    "place": "71430 Saint-Vincent-Bragny, France",
+    "date": "2023-02-08"
    }
   ],
   "hero": {
-   "id": 216434479,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216434479/large.jpeg",
-   "attribution": "(c) Petro Miroshnyk, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/127483136",
-   "place": "Сосницький район, Чернігівська область, Україна",
-   "date": "2021-04-04"
+   "id": 262067607,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262067607/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262067607/large.jpg",
+   "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC), uploaded by Gabi Rusu",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/262067607",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 2481728,
-  "dkTotal": 100524,
+  "dkTotal": 100525,
   "dkMonths": [
    768,
    551,
    2393,
    24272,
-   4952,
+   4953,
    13683,
    24787,
    23830,
@@ -96,23 +116,23 @@
    450,
    478
   ],
-  "worldTotal": 1684318,
+  "worldTotal": 1684868,
   "topCountries": [
    {
     "code": "SE",
-    "count": 392855
+    "count": 392900
    },
    {
     "code": "ES",
-    "count": 147857
+    "count": 147884
    },
    {
     "code": "NL",
-    "count": 146131
+    "count": 146202
    },
    {
     "code": "FR",
-    "count": 127535
+    "count": 127552
    },
    {
     "code": "GB",
@@ -124,7 +144,7 @@
    },
    {
     "code": "DK",
-    "count": 100524
+    "count": 100525
    },
    {
     "code": "BE",
@@ -132,15 +152,15 @@
    },
    {
     "code": "NO",
-    "count": 68823
+    "count": 68821
    },
    {
     "code": "FI",
-    "count": 38348
+    "count": 38354
    },
    {
     "code": "DE",
-    "count": 36989
+    "count": 37333
    },
    {
     "code": "PT",
@@ -148,8 +168,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -164,5 +182,7 @@
   "type": "alarm call, call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

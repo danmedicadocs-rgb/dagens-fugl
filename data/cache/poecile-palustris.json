@@ -2,7 +2,7 @@
  "key": "poecile-palustris",
  "name": "Poecile palustris",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:20:35.664Z",
+ "fetchedAt": "2026-11-17T19:52:12.141Z",
  "names": {
   "da": "Sumpmejse",
   "en": "Marsh Tit",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 144809,
-  "observations": 28435
+  "observations": 28566
  },
  "photos": {
   "male": [
+   {
+    "id": 184805514,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184805514/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184805514/large.jpeg",
+    "attribution": "(c) Rob Westerduijn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109629154",
+    "place": "Leidschendam, Nederland",
+    "date": "2022-03-22"
+   },
    {
     "id": 116667412,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/medium.jpg",
@@ -67,25 +77,25 @@
     "date": "2026-06-27"
    },
    {
-    "id": 201073422,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201073422/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/201073422/large.jpeg",
-    "attribution": "(c) Валерия Ковалева, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/118973637",
-    "place": "Корсаков",
-    "date": "2022-05-26"
+    "id": 680815381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/680815381/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/680815381/large.jpg",
+    "attribution": "(c) timashtree, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/372565675",
+    "place": "Территория Берёзка-2 Снт, Усолье-Сибирское, Иркутская область, RU",
+    "date": "2026-06-17"
    }
   ],
   "hero": {
-   "id": 116667412,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116667412/large.jpg",
-   "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/71639853",
-   "place": "Saint-Cloud, Hauts-de-Seine, Île-de-France, FR",
-   "date": "2021-03-20"
+   "id": 340559353,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340559353/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340559353/large.jpg",
+   "attribution": "(c) Vulpes_podšitá, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/340559353",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -105,19 +115,19 @@
    12583,
    14356
   ],
-  "worldTotal": 1592572,
+  "worldTotal": 1641232,
   "topCountries": [
    {
     "code": "SE",
-    "count": 455221
+    "count": 455813
    },
    {
     "code": "FR",
-    "count": 295687
+    "count": 295969
    },
    {
     "code": "DE",
-    "count": 175318
+    "count": 176490
    },
    {
     "code": "DK",
@@ -125,23 +135,27 @@
    },
    {
     "code": "NO",
-    "count": 96056
+    "count": 96169
    },
    {
     "code": "GB",
     "count": 83874
    },
    {
+    "code": "CH",
+    "count": 64872
+   },
+   {
     "code": "KR",
     "count": 39206
    },
    {
-    "code": "NL",
-    "count": 26402
+    "code": "IT",
+    "count": 26485
    },
    {
-    "code": "IT",
-    "count": 26278
+    "code": "NL",
+    "count": 26484
    },
    {
     "code": "PL",
@@ -150,15 +164,9 @@
    {
     "code": "CN",
     "count": 21081
-   },
-   {
-    "code": "BE",
-    "count": 19356
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

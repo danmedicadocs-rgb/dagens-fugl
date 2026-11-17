@@ -2,7 +2,7 @@
  "key": "alle-alle",
  "name": "Alle alle",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:16:35.057Z",
+ "fetchedAt": "2026-11-17T19:47:17.851Z",
  "names": {
   "da": "Søkonge",
   "en": "Little Auk",
@@ -19,42 +19,42 @@
  },
  "inat": {
   "id": 4524,
-  "observations": 2088
+  "observations": 2089
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 480703005,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/480703005/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/480703005/large.jpg",
+    "attribution": "(c) shiriken-imori, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/267485520",
+    "place": "Nordfriesland, DE-SH, DE",
+    "date": "2024-11-20"
+   }
+  ],
   "female": [],
-  "juvenile": [],
-  "adult": [
+  "juvenile": [
    {
-    "id": 344000523,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000523/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344000523/large.jpeg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/195524477",
-    "place": "Rudee Inlet, Virginia Beach, VA, USA",
-    "date": "2023-12-31"
+    "id": 282494199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282494199/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282494199/large.jpg",
+    "attribution": "(c) bev435, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/163337026",
+    "place": "Sussex County, DE, USA",
+    "date": "2021-01-16"
    },
    {
-    "id": 521401545,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/521401545/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/521401545/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/289871602",
-    "place": "Spitsbergen, Longyearbyen, Svalbard, NO",
-    "date": "2025-06-15"
-   },
-   {
-    "id": 110758403,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110758403/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110758403/large.jpeg",
-    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68406860",
-    "place": "Virginia Beach, VA, USA",
-    "date": "2021-01-18"
+    "id": 282519156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282519156/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282519156/large.jpeg",
+    "attribution": "(c) bev435, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/163352265",
+    "place": "Sussex County, DE, USA",
+    "date": "2021-01-16"
    }
   ],
   "hero": {
@@ -85,11 +85,11 @@
    4145,
    1092
   ],
-  "worldTotal": 126373,
+  "worldTotal": 126397,
   "topCountries": [
    {
     "code": "NO",
-    "count": 27859
+    "count": 27873
    },
    {
     "code": "US",
@@ -97,7 +97,7 @@
    },
    {
     "code": "SE",
-    "count": 16150
+    "count": 16154
    },
    {
     "code": "CA",
@@ -109,7 +109,7 @@
    },
    {
     "code": "SJ",
-    "count": 9181
+    "count": 9185
    },
    {
     "code": "GB",
@@ -117,7 +117,7 @@
    },
    {
     "code": "NL",
-    "count": 6605
+    "count": 6607
    },
    {
     "code": "GL",
@@ -137,8 +137,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -153,5 +151,7 @@
   "type": "flight call, song, barking",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

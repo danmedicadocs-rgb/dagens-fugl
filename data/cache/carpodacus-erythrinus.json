@@ -2,7 +2,7 @@
  "key": "carpodacus-erythrinus",
  "name": "Carpodacus erythrinus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:06.405Z",
+ "fetchedAt": "2026-11-17T19:59:58.635Z",
  "names": {
   "da": "Karmindompap",
   "en": "Common Rosefinch",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 9639,
-  "observations": 15299
+  "observations": 15325
  },
  "photos": {
   "male": [
+   {
+    "id": 28920664,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28920664/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28920664/large.jpg",
+    "attribution": "(c) Геннадий, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18874569",
+    "place": "Левино, Нижегородская обл., Россия, 606559",
+    "date": "2016-05-28"
+   },
+   {
+    "id": 110772362,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110772362/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110772362/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68414444",
+    "place": "Баташи, Кировская обл., Россия, 613115",
+    "date": "2020-06-17"
+   },
    {
     "id": 78182968,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182968/medium.jpeg",
@@ -32,61 +52,61 @@
     "source": "https://www.inaturalist.org/observations/49253323",
     "place": "Пермский р-н, Пермский край, Россия",
     "date": "2020-05-31"
-   },
-   {
-    "id": 74905312,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74905312/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74905312/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/47229669",
-    "place": "Tähtvere, Tartu, Estonia",
-    "date": "2020-05-23"
-   },
-   {
-    "id": 75925081,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/75925081/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/75925081/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/47863487",
-    "place": "Ключевая, Петрозаводск, Респ. Карелия, Россия",
-    "date": "2020-05-30"
    }
   ],
   "female": [
    {
-    "id": 41262482,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41262482/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41262482/large.jpg",
-    "attribution": "(c) Антон, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/26567860",
-    "place": "Центр, Петрозаводск, Респ. Карелия, Россия",
-    "date": "2019-06-06"
+    "id": 657212151,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657212151/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657212151/large.jpg",
+    "attribution": "(c) awakening_ofi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360176478",
+    "place": "山东省青岛市崂山区青岛崂山国家级风景名胜区-奇石馆崂山风景区太清游览区",
+    "date": "2026-03-29"
    },
    {
-    "id": 661443364,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/661443364/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/661443364/large.jpg",
-    "attribution": "(c) Hanna U., some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/362405238",
-    "place": "Põlva, Põlva County, Estonia",
-    "date": "2026-05-17"
+    "id": 131655805,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131655805/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131655805/large.jpeg",
+    "attribution": "(c) Екатерина Нестерова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80332047",
+    "place": "Октябрьский р-н, Иваново, Ивановская обл., Россия",
+    "date": "2021-05-26"
    },
    {
-    "id": 131968533,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131968533/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131968533/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/80513275",
-    "place": "Tartu, Tartu, Estonia",
-    "date": "2021-05-27"
+    "id": 312575523,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312575523/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312575523/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179531432",
+    "place": "Сыктывдинский р-н, Респ. Коми, Россия",
+    "date": "2023-06-06"
    }
   ],
   "juvenile": [
+   {
+    "id": 759796420,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/759796420/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/759796420/large.jpg",
+    "attribution": "(c) Михаил Рыбкин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412879202",
+    "place": "Ленинский р-н, Иваново, Ивановская обл., Россия",
+    "date": "2026-06-01"
+   },
+   {
+    "id": 585929436,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/585929436/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/585929436/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/312423643",
+    "place": "Софьино, Тверская обл., Россия, 170007",
+    "date": "2025-06-16"
+   },
    {
     "id": 293737415,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/293737415/medium.jpeg",
@@ -96,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/169432543",
     "place": "Шадринский р-н, Курганская обл., Россия",
     "date": "2023-06-24"
-   },
-   {
-    "id": 321743342,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/321743342/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/321743342/large.jpeg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/184330853",
-    "place": "Республика Адыгея, Россия, 385797",
-    "date": "2023-09-09"
-   },
-   {
-    "id": 81334114,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81334114/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/81334114/large.jpg",
-    "attribution": "(c) Eleanor Pate, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/51200780",
-    "place": "Шушенский р-н, Красноярский край, Россия",
-    "date": "2020-06-28"
    }
   ],
   "hero": {
-   "id": 78182979,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182979/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182979/large.jpeg",
-   "attribution": "no rights reserved, uploaded by Лариса Артемьева",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/photos/78182979",
+   "id": 28920664,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28920664/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28920664/large.jpg",
+   "attribution": "(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/28920664",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    4,
    4
   ],
-  "worldTotal": 417769,
+  "worldTotal": 420777,
   "topCountries": [
    {
     "code": "SE",
@@ -154,7 +154,7 @@
    },
    {
     "code": "FI",
-    "count": 69655
+    "count": 69663
    },
    {
     "code": "IN",
@@ -162,11 +162,11 @@
    },
    {
     "code": "RU",
-    "count": 27326
+    "count": 27328
    },
    {
     "code": "NO",
-    "count": 22679
+    "count": 22684
    },
    {
     "code": "DK",
@@ -174,11 +174,11 @@
    },
    {
     "code": "EE",
-    "count": 15213
+    "count": 15218
    },
    {
     "code": "PL",
-    "count": 11486
+    "count": 11489
    },
    {
     "code": "NL",
@@ -189,17 +189,15 @@
     "count": 6330
    },
    {
-    "code": "TR",
-    "count": 2780
+    "code": "CH",
+    "count": 3427
    },
    {
-    "code": "GB",
-    "count": 2703
+    "code": "TR",
+    "count": 2780
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

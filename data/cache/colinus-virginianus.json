@@ -2,7 +2,7 @@
  "key": "colinus-virginianus",
  "name": "Colinus virginianus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:42:50.432Z",
+ "fetchedAt": "2026-11-17T20:17:10.378Z",
  "names": {
   "da": "Bobwhite",
   "en": "Northern Bobwhite",
@@ -19,74 +19,84 @@
  },
  "inat": {
   "id": 1280,
-  "observations": 11546
+  "observations": 11566
  },
  "photos": {
   "male": [
    {
-    "id": 287031775,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/165794755",
-    "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
-    "date": "2023-05-29"
+    "id": 62210675,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62210675/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62210675/large.jpg",
+    "attribution": "(c) Bill Chambers, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39228924",
+    "place": "Arizona, US",
+    "date": "2017-12-11"
    },
    {
-    "id": 195517487,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195517487/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195517487/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/115843412",
-    "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
-    "date": "2022-05-01"
+    "id": 2668670,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2668670/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2668670/large.jpg",
+    "attribution": "(c) Scott Buckel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/2395103",
+    "place": "Starr, Texas, United States",
+    "date": "2015-11-14"
    },
    {
-    "id": 210578224,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210578224/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/210578224/large.jpg",
-    "attribution": "(c) Laura Mae, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/124242207",
-    "place": "Blue Ridge Rd, Chesapeake, VA, US",
-    "date": "2022-07-01"
+    "id": 217108429,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217108429/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217108429/large.jpg",
+    "attribution": "(c) John Serrao, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/127859501",
+    "place": "Merritt Island National Wildlife Refuge, Titusville, FL, USA",
+    "date": "2021-05-21"
    }
   ],
   "female": [
    {
-    "id": 372391199,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/372391199/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/372391199/large.jpg",
-    "attribution": "(c) Hannah Jones, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/210091574",
-    "place": "Pennsylvania, US",
-    "date": "2024-04-27"
+    "id": 346266379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346266379/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/346266379/large.jpeg",
+    "attribution": "(c) Tobin Brown, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196709312",
+    "place": "Branched Oak Lake",
+    "date": "2024-01-14"
    },
    {
-    "id": 246036575,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246036575/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246036575/large.jpg",
-    "attribution": "(c) John Rosford, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/143461934",
-    "place": "Mission, TX, USA",
-    "date": "2017-04-16"
+    "id": 164933869,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164933869/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164933869/large.jpeg",
+    "attribution": "(c) Carlos G Velazco-Macias, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/98992680",
+    "place": "Hidalgo, Coah., Mexico",
+    "date": "2021-10-18"
    },
    {
-    "id": 354541842,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354541842/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354541842/large.jpg",
-    "attribution": "(c) Matt Felperin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/200371611",
-    "place": "Falcon State Park, Falcon, TX, US",
-    "date": "2024-01-24"
+    "id": 432834123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432834123/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432834123/large.jpeg",
+    "attribution": "(c) Diane Bricmont, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/242776938",
+    "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
+    "date": "2024-09-19"
    }
   ],
   "juvenile": [
+   {
+    "id": 740697483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740697483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740697483/large.jpg",
+    "attribution": "(c) Chery Brummett, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/403418905",
+    "place": "Cactus Creek Ranch, 36763 General Brant Rd, Rio Hondo, TX 78583, USA",
+    "date": "2026-08-26"
+   },
    {
     "id": 12497659,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12497659/medium.jpeg",
@@ -98,35 +108,25 @@
     "date": "2017-12-21"
    },
    {
-    "id": 45262102,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45262102/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45262102/large.jpg",
-    "attribution": "(c) Ryan Donnelly, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/29014968",
-    "place": "66502, Manhattan, KS, US",
-    "date": "2019-07-17"
-   },
-   {
-    "id": 220408687,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/220408687/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/220408687/large.jpg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/129675976",
-    "place": "Henry Beadel Dr, Tallahassee, FL, US",
-    "date": "2022-06-23"
+    "id": 315284718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315284718/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315284718/large.jpg",
+    "attribution": "(c) Roberto Puga, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/180948321",
+    "place": "Poncitlán, Jal., México",
+    "date": "2023-08-30"
    }
   ],
   "hero": {
-   "id": 287031775,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287031775/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/165794755",
-   "place": "Columbia Bottom Conservation Area, 801 Strodtman Rd, St. Louis, MO 63138, USA",
-   "date": "2023-05-29"
+   "id": 188718574,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188718574/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188718574/large.jpg",
+   "attribution": "(c) Andrej Chudý, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/188718574",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 476041,
+  "worldTotal": 476042,
   "topCountries": [
    {
     "code": "US",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song, crickets",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

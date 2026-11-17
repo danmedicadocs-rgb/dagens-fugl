@@ -2,7 +2,7 @@
  "key": "bubulcus-ibis",
  "name": "Bubulcus ibis",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:07:17.727Z",
+ "fetchedAt": "2026-11-17T19:37:07.027Z",
  "names": {
   "da": "Kohejre",
   "en": null,
@@ -31,15 +31,15 @@
    530,
    351
   ],
-  "worldTotal": 3378938,
+  "worldTotal": 3379592,
   "topCountries": [
    {
     "code": "US",
-    "count": 1143580
+    "count": 1143581
    },
    {
     "code": "ES",
-    "count": 295350
+    "count": 295453
    },
    {
     "code": "ZA",
@@ -51,11 +51,11 @@
    },
    {
     "code": "FR",
-    "count": 145604
+    "count": 145636
    },
    {
     "code": "CR",
-    "count": 109409
+    "count": 109410
    },
    {
     "code": "AU",
@@ -67,24 +67,22 @@
    },
    {
     "code": "PT",
-    "count": 90634
+    "count": 90638
    },
    {
     "code": "NL",
-    "count": 64943
+    "count": 65244
    },
    {
     "code": "IL",
-    "count": 60884
+    "count": 60886
    },
    {
     "code": "BR",
-    "count": 60060
+    "count": 60064
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -99,5 +97,7 @@
   "type": "nocturnal flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

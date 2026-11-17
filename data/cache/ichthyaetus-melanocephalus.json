@@ -2,7 +2,7 @@
  "key": "ichthyaetus-melanocephalus",
  "name": "Ichthyaetus melanocephalus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:14:43.290Z",
+ "fetchedAt": "2026-11-17T19:45:19.966Z",
  "names": {
   "da": "Sorthovedet måge",
   "en": "Mediterranean Gull",
@@ -19,29 +19,39 @@
  },
  "inat": {
   "id": 144517,
-  "observations": 13554
+  "observations": 13633
  },
  "photos": {
   "male": [
    {
-    "id": 730338609,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/large.jpg",
-    "attribution": "(c) Xosé Veiras, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/398150437",
-    "place": "Cee, A Coruña, España",
-    "date": "2026-09-06"
+    "id": 622671667,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/622671667/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/622671667/large.jpg",
+    "attribution": "(c) Víctor Martínez Suárez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/341986605",
+    "place": "A Coruña, España",
+    "date": "2026-02-28"
    },
    {
-    "id": 94046712,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94046712/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94046712/large.jpeg",
-    "attribution": "(c) Paulo Martins, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/58888577",
-    "place": "Sesimbra, Portugal",
-    "date": "2020-09-07"
+    "id": 46074113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/46074113/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/46074113/large.jpeg",
+    "attribution": "(c) Joaquim Pedroso, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29518648",
+    "place": "2840 Seixal, Portugal",
+    "date": "2019-06-25"
+   },
+   {
+    "id": 262801438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262801438/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262801438/large.jpg",
+    "attribution": "(c) Bjarne Amstrup, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152249204",
+    "place": "Vedbæk Havn, Vedbæk Strandvej 366, 2950 Vedbæk, Danmark",
+    "date": "2012-03-10"
    }
   ],
   "female": [
@@ -78,57 +88,57 @@
     "date": "2010-02-14"
    },
    {
-    "id": 532787983,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532787983/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532787983/large.jpg",
-    "attribution": "(c) Ian Ballam, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/295924728",
-    "place": "Dorset, UK",
-    "date": "2025-07-06"
+    "id": 223759486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223759486/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223759486/large.jpeg",
+    "attribution": "(c) Mirko Tomasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131481946",
+    "place": "21020 Monvalle VA, Italia",
+    "date": "2022-08-19"
    }
   ],
   "hero": {
-   "id": 730338609,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/730338609/large.jpg",
-   "attribution": "(c) Xosé Veiras, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/398150437",
-   "place": "Cee, A Coruña, España",
-   "date": "2026-09-06"
+   "id": 65316,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65316/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65316/large.jpg",
+   "attribution": "(c) Vitaliy Khustochka, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/65316",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
   "key": 8151548,
-  "dkTotal": 20060,
+  "dkTotal": 20062,
   "dkMonths": [
    646,
    422,
    2723,
    4239,
-   3494,
+   3495,
    1490,
    1542,
    1355,
-   1852,
+   1853,
    1419,
    463,
    372
   ],
-  "worldTotal": 782901,
+  "worldTotal": 783521,
   "topCountries": [
    {
     "code": "FR",
-    "count": 170582
+    "count": 170591
    },
    {
     "code": "GB",
-    "count": 148000
+    "count": 148002
    },
    {
     "code": "NL",
-    "count": 113720
+    "count": 113724
    },
    {
     "code": "BE",
@@ -136,15 +146,15 @@
    },
    {
     "code": "ES",
-    "count": 92048
+    "count": 92063
    },
    {
     "code": "PT",
-    "count": 45225
+    "count": 45227
    },
    {
     "code": "DK",
-    "count": 20060
+    "count": 20062
    },
    {
     "code": "SE",
@@ -168,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

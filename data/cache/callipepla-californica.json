@@ -2,7 +2,7 @@
  "key": "callipepla-californica",
  "name": "Callipepla californica",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:13.931Z",
+ "fetchedAt": "2026-11-17T20:22:31.418Z",
  "names": {
   "da": "Californisk Topvagtel",
   "en": "California Quail",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 1409,
-  "observations": 53737
+  "observations": 53823
  },
  "photos": {
   "male": [
+   {
+    "id": 358008826,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/358008826/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/358008826/large.jpeg",
+    "attribution": "(c) Tom Rickman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202692024",
+    "place": "Lassen County, CA, USA",
+    "date": "2024-03-16"
+   },
    {
     "id": 148825399,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825399/medium.jpg",
@@ -34,24 +44,14 @@
     "date": "2021-08-04"
    },
    {
-    "id": 115151080,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115151080/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115151080/large.jpg",
-    "attribution": "(c) tlaloc27, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70793104",
-    "place": "Abbotts Lagoon, Inverness, CA, US",
-    "date": "2021-03-07"
-   },
-   {
-    "id": 182593108,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182593108/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182593108/large.jpeg",
-    "attribution": "(c) Michael Warner, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/108448439",
-    "place": "Richmond, CA, USA",
-    "date": "2022-03-12"
+    "id": 116471441,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116471441/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116471441/large.jpg",
+    "attribution": "(c) uzun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/71528890",
+    "place": "San Diego County, CA, USA",
+    "date": "2021-03-18"
    }
   ],
   "female": [
@@ -66,27 +66,47 @@
     "date": "2026-03-25"
    },
    {
-    "id": 112136986,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112136986/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112136986/large.jpeg",
-    "attribution": "(c) Liam Steele, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/69147506",
-    "place": "Ladysmith, BC, Canada",
-    "date": "2021-02-05"
+    "id": 404315643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/404315643/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/404315643/large.jpg",
+    "attribution": "(c) Liam Huber, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/227891611",
+    "place": "Tehama County, CA, USA",
+    "date": "2021-11-16"
    },
    {
-    "id": 433657264,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433657264/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433657264/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/243213314",
-    "place": "Country Park Rd, Salinas, CA, US",
-    "date": "2024-09-21"
+    "id": 630674145,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630674145/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630674145/large.jpg",
+    "attribution": "(c) Sam Moynan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/346019624",
+    "place": "Tasman, NZ-NE, NZ",
+    "date": "2026-03-28"
    }
   ],
   "juvenile": [
+   {
+    "id": 246458781,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246458781/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246458781/large.jpeg",
+    "attribution": "(c) jesu_vs, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/143683412",
+    "place": "Buin, Región Metropolitana, Chile",
+    "date": "2022-12-04"
+   },
+   {
+    "id": 207245799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/207245799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/207245799/large.jpg",
+    "attribution": "(c) Kayla Echols, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/122408719",
+    "place": "Oak Hills, Provo, UT 84604, USA",
+    "date": "2022-06-18"
+   },
    {
     "id": 670072425,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670072425/medium.jpg",
@@ -96,35 +116,15 @@
     "source": "https://www.inaturalist.org/observations/366941172",
     "place": "Los Angeles County, CA, USA",
     "date": "2026-05-30"
-   },
-   {
-    "id": 413252361,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/413252361/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/413252361/large.jpg",
-    "attribution": "(c) Jonathan Eisen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/232597997",
-    "place": "Dillon Beach, CA, USA",
-    "date": "2024-07-28"
-   },
-   {
-    "id": 356909079,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356909079/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356909079/large.jpg",
-    "attribution": "(c) Tom Field, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/202120497",
-    "place": "Karori, Wellington, New Zealand",
-    "date": "2022-11-26"
    }
   ],
   "hero": {
-   "id": 148825462,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825462/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/148825462/large.jpg",
-   "attribution": "(c) Barry Langdon-Lassagne, some rights reserved (CC BY), uploaded by Barry Langdon-Lassagne",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/148825462",
+   "id": 443842323,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/443842323/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/443842323/large.jpg",
+   "attribution": "(c) Caiden, some rights reserved (CC BY-NC), uploaded by Caiden",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/443842323",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 1394388,
+  "worldTotal": 1394390,
   "topCountries": [
    {
     "code": "US",
-    "count": 1158760
+    "count": 1158763
    },
    {
     "code": "CA",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "loxia-leucoptera",
  "name": "Loxia leucoptera",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:27:50.141Z",
+ "fetchedAt": "2026-11-17T20:01:00.722Z",
  "names": {
   "da": "Hvidvinget korsnæb",
   "en": "White-winged Crossbill",
@@ -19,83 +19,114 @@
  },
  "inat": {
   "id": 10423,
-  "observations": 6266
+  "observations": 6277
  },
  "photos": {
   "male": [
    {
-    "id": 433288996,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/large.jpeg",
-    "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/243015862",
-    "place": "Haliburton, ON K0M 1S0, Canada",
-    "date": "2022-02-25"
+    "id": 59483662,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59483662/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59483662/large.jpeg",
+    "attribution": "(c) Nathaniel Sharp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37513694",
+    "place": "Ferdinand, VT, USA",
+    "date": "2020-01-11"
    },
    {
-    "id": 482192447,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482192447/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482192447/large.jpeg",
-    "attribution": "(c) Chris Friesen, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/268269470",
-    "place": "Division No. 14, CA-MB, CA",
-    "date": "2025-04-02"
+    "id": 179412153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179412153/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179412153/large.jpg",
+    "attribution": "(c) Stephen Flynn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/106758209",
+    "place": "Foxtrap Access Rd, Conception Bay South, NL, CA",
+    "date": "2022-02-12"
    },
    {
-    "id": 717549022,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717549022/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717549022/large.jpg",
-    "attribution": "(c) Donald Hampton, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/391589858",
-    "place": "Goldstream, AK 99709, USA",
-    "date": "2026-08-15"
+    "id": 343097450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343097450/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343097450/large.jpg",
+    "attribution": "(c) Pekka Malinen, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/195080967",
+    "place": "Helsinki, Itäkeskus, Suomi",
+    "date": "2008-12-31"
    }
   ],
   "female": [
    {
-    "id": 110364554,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110364554/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110364554/large.jpeg",
-    "attribution": "(c) Mary Krieger, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/68197217",
-    "place": "Division No. 1, MB, Canada",
-    "date": "2021-01-16"
+    "id": 243319518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243319518/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243319518/large.jpg",
+    "attribution": "(c) Tracy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141967616",
+    "place": "Alaska Hwy, Teslin, YT, CA",
+    "date": "2022-11-13"
    },
    {
-    "id": 258682193,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258682193/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258682193/large.jpeg",
-    "attribution": "(c) Lauren Markewicz, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/150061681",
-    "place": "Waskesiu Lake, SK S0J, Canada",
-    "date": "2023-03-02"
+    "id": 465264451,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465264451/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465264451/large.jpg",
+    "attribution": "(c) Laura H, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259214483",
+    "place": "New Toronto, Etobicoke, ON, Canada",
+    "date": "2025-01-12"
    },
    {
-    "id": 717549021,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717549021/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717549021/large.jpg",
-    "attribution": "(c) Donald Hampton, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/391589860",
-    "place": "Goldstream, AK 99709, USA",
-    "date": "2026-08-15"
+    "id": 243319637,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243319637/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243319637/large.jpg",
+    "attribution": "(c) Tracy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141967648",
+    "place": "Alaska Hwy, Teslin, YT, CA",
+    "date": "2022-11-13"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 12914081,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12914081/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12914081/large.jpg",
+    "attribution": "(c) Paul Prappas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9485702",
+    "place": "409 Sixth Street, Nelson, BC",
+    "date": "2017-10-31"
+   },
+   {
+    "id": 153098292,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153098292/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153098292/large.jpg",
+    "attribution": "(c) jupiter13, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/92460952",
+    "place": "Kluane National Park and Reserve, YT, CA",
+    "date": "2021-08-22"
+   },
+   {
+    "id": 345431364,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/345431364/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/345431364/large.jpg",
+    "attribution": "(c) jeffmander, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/196236221",
+    "place": "Moose Jaw, SK, Canada",
+    "date": "2017-05-14"
+   }
+  ],
   "hero": {
-   "id": 433288996,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433288996/large.jpeg",
-   "attribution": "(c) Derek Spencer, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/243015862",
-   "place": "Haliburton, ON K0M 1S0, Canada",
-   "date": "2022-02-25"
+   "id": 353039022,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353039022/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353039022/large.jpeg",
+   "attribution": "(c) edporopat, some rights reserved (CC BY-NC), uploaded by edporopat",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/353039022",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -115,7 +146,7 @@
    605,
    268
   ],
-  "worldTotal": 314377,
+  "worldTotal": 314409,
   "topCountries": [
    {
     "code": "CA",
@@ -127,15 +158,15 @@
    },
    {
     "code": "SE",
-    "count": 42386
+    "count": 42410
    },
    {
     "code": "NO",
-    "count": 10138
+    "count": 10142
    },
    {
     "code": "FI",
-    "count": 3845
+    "count": 3847
    },
    {
     "code": "DK",
@@ -143,7 +174,7 @@
    },
    {
     "code": "NL",
-    "count": 1605
+    "count": 1610
    },
    {
     "code": "RU",
@@ -167,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -183,5 +212,7 @@
   "type": "call, song, trumpeting call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

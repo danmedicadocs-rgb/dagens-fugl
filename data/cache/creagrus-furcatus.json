@@ -2,7 +2,7 @@
  "key": "creagrus-furcatus",
  "name": "Creagrus furcatus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:52:33.421Z",
+ "fetchedAt": "2026-11-17T20:28:33.762Z",
  "names": {
   "da": "Svalehalemåge",
   "en": "Swallow-tailed Gull",
@@ -19,12 +19,44 @@
  },
  "inat": {
   "id": 4564,
-  "observations": 2922
+  "observations": 2932
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 620426447,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/620426447/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/620426447/large.jpg",
+    "attribution": "(c) Diandra Ordoñez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340883182",
+    "place": "9MP3+6WH Parque Nacional Galápagos, El cascajo, Ecuador",
+    "date": "2026-03-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 82875396,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82875396/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82875396/large.jpg",
+    "attribution": "(c) Suhas Gurjar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/52144380",
+    "place": "San Cristobal, Ecuador",
+    "date": "2014-08-23"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 228678033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/228678033/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/228678033/large.jpg",
+    "attribution": "(c) zimmwisdom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/134185717",
+    "place": "San Cristóbal, EC-GA, EC",
+    "date": "2022-08-16"
+   },
    {
     "id": 340955563,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340955563/medium.jpeg",
@@ -44,59 +76,17 @@
     "source": "https://www.inaturalist.org/observations/145056384",
     "place": "Galápagos Islands, Ecuador",
     "date": "2008-12-24"
-   },
-   {
-    "id": 287738560,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287738560/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287738560/large.jpeg",
-    "attribution": "(c) Tyler Vogel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/166174695",
-    "place": "Bellavista, Ecuador",
-    "date": "2023-06-07"
-   }
-  ],
-  "adult": [
-   {
-    "id": 29412731,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/19155796",
-    "place": "Galápagos Islands, Ecuador",
-    "date": "2018-09-20"
-   },
-   {
-    "id": 39758227,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/39758227/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/39758227/large.jpg",
-    "attribution": "(c) John Brew, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/25652857",
-    "place": "Galapagos Islands, , , ",
-    "date": "2019-05-21"
-   },
-   {
-    "id": 525112238,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525112238/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525112238/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/291838284",
-    "place": "Pacific Ocean, Baltra, Galapagos, EC",
-    "date": "2025-06-06"
    }
   ],
   "hero": {
-   "id": 29412731,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29412731/large.jpeg",
-   "attribution": "no rights reserved",
-   "license": "cc0",
-   "source": "https://www.inaturalist.org/observations/19155796",
-   "place": "Galápagos Islands, Ecuador",
-   "date": "2018-09-20"
+   "id": 228214,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/228214/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/228214/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/228214",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -168,8 +158,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +172,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

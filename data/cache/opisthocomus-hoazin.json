@@ -2,7 +2,7 @@
  "key": "opisthocomus-hoazin",
  "name": "Opisthocomus hoazin",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:53.118Z",
+ "fetchedAt": "2026-11-17T20:23:16.883Z",
  "names": {
   "da": "Hoatzin",
   "en": "Hoatzin",
@@ -19,10 +19,31 @@
  },
  "inat": {
   "id": 1626,
-  "observations": 4536
+  "observations": 4545
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 56057842,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56057842/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56057842/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35544875",
+    "place": "Manú Province, Peru",
+    "date": "2016-07-24"
+   },
+   {
+    "id": 62820997,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62820997/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62820997/large.jpg",
+    "attribution": "(c) Victor Mozqueda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39588511",
+    "place": "Ucayali, PE",
+    "date": "2019-10-19"
+   }
+  ],
   "female": [
    {
     "id": 172303634,
@@ -33,18 +54,48 @@
     "source": "https://www.inaturalist.org/observations/103004875",
     "place": "Villavicencio, Meta, CO",
     "date": "2021-12-13"
+   },
+   {
+    "id": 493266513,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/493266513/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/493266513/large.jpeg",
+    "attribution": "(c) Angie Daniela Bejarano Arcila, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/274366059",
+    "place": "San José Del Guaviare, Guaviare, Colombia",
+    "date": "2024-11-28"
    }
   ],
   "juvenile": [
    {
-    "id": 188504347,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188504347/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188504347/large.jpg",
-    "attribution": "(c) Morten Ross, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111651459",
-    "place": "Tambopata, Peru",
-    "date": "2014-12-12"
+    "id": 102506659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102506659/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102506659/large.jpeg",
+    "attribution": "(c) hdcooper, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/63827695",
+    "place": "Sani Lodge, Shushufindi, Ecuador",
+    "date": "2019-01-16"
+   },
+   {
+    "id": 398212687,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398212687/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/398212687/large.jpeg",
+    "attribution": "(c) carlene gomes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/224667158",
+    "place": "Cocalinho - MT, 78680-000, Brasil",
+    "date": "2024-04-21"
+   },
+   {
+    "id": 551893177,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/551893177/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/551893177/large.jpg",
+    "attribution": "(c) swsankt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306058422",
+    "place": "Manaquiri - Amazonas, 69435-000, Brasilien",
+    "date": "2025-07-08"
    }
   ],
   "hero": {
@@ -75,11 +126,11 @@
    0,
    0
   ],
-  "worldTotal": 52338,
+  "worldTotal": 52332,
   "topCountries": [
    {
     "code": "EC",
-    "count": 15129
+    "count": 15130
    },
    {
     "code": "PE",
@@ -127,8 +178,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -143,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

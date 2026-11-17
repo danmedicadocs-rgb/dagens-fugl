@@ -2,7 +2,7 @@
  "key": "actitis-hypoleucos",
  "name": "Actitis hypoleucos",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:13:40.086Z",
+ "fetchedAt": "2026-11-17T19:44:09.387Z",
  "names": {
   "da": "Mudderklire",
   "en": "Common Sandpiper",
@@ -19,12 +19,84 @@
  },
  "inat": {
   "id": 3978,
-  "observations": 68304
+  "observations": 68528
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 183507619,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/183507619/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/183507619/large.jpeg",
+    "attribution": "(c) Kevin Timothy Rahman, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/108934085",
+    "place": "Kabupaten Malinau, Kalimantan Utara, Indonesia",
+    "date": "2021-11-27"
+   },
+   {
+    "id": 503314823,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503314823/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503314823/large.jpeg",
+    "attribution": "(c) Pavel (father) and Timofey (student, son), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/280247973",
+    "place": "Санкт-Петербург, Россия",
+    "date": "2025-05-02"
+   },
+   {
+    "id": 374987155,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/374987155/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/374987155/large.jpeg",
+    "attribution": "(c) Владимир Джерихов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/212188008",
+    "place": "Великий Новгород, Новгородская обл., Россия",
+    "date": "2024-04-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 8823535,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8823535/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8823535/large.jpeg",
+    "attribution": "(c) Parham Beyhaghi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/6911675",
+    "place": "Avanak, Tehran Province, Iran",
+    "date": "2017-04-11"
+   },
+   {
+    "id": 516982651,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/516982651/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/516982651/large.jpg",
+    "attribution": "(c) Craig Peter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/287516784",
+    "place": "Kariega estuary between the R72 bridge and the causeway, Kenton-on-Sea, Eastern Cape, South Africa, [3326DA]",
+    "date": "2019-07-28"
+   },
+   {
+    "id": 530698864,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530698864/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/530698864/large.jpg",
+    "attribution": "(c) Андрей Бородкин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/294821119",
+    "place": "Железнодорожный р-н, Красноярск, Красноярский край, Россия",
+    "date": "2025-07-03"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 136788705,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136788705/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136788705/large.jpg",
+    "attribution": "(c) Natalia Melnikova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/83296588",
+    "place": "г. Владимир, Владимирская обл., Россия",
+    "date": "2021-06-16"
+   },
    {
     "id": 330289130,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330289130/medium.jpg",
@@ -36,115 +108,73 @@
     "date": "2023-10-18"
    },
    {
-    "id": 52212900,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52212900/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52212900/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/33252435",
-    "place": "Tsuha, Ōgimi, Kunigami District, Okinawa 905-1318, Japan",
-    "date": "2019-09-22"
-   },
-   {
-    "id": 32111819,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32111819/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32111819/large.jpg",
-    "attribution": "(c) 尹若宇, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/20819427",
-    "place": "台灣彰化縣",
-    "date": "2019-02-20"
-   }
-  ],
-  "adult": [
-   {
-    "id": 611391587,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611391587/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611391587/large.jpg",
-    "attribution": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/257745919",
-    "place": "Wallacetown, New Zealand",
-    "date": "2025-01-08"
-   },
-   {
-    "id": 30299493,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30299493/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30299493/large.jpg",
-    "attribution": "(c) Lek Khauv, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/19143005",
-    "place": "Point Cook VIC 3030, Australia",
-    "date": "2018-12-22"
-   },
-   {
-    "id": 128081383,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081383/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128081383/large.jpeg",
-    "attribution": "(c) rober025, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/78275932",
-    "place": "Remerschen ",
-    "date": "2021-05-02"
+    "id": 687670735,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687670735/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687670735/large.jpg",
+    "attribution": "(c) Elena Koval, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/376121879",
+    "place": "Выборгский р-н, Ленинградская обл., Россия",
+    "date": "2026-06-27"
    }
   ],
   "hero": {
-   "id": 59334374,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334374/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59334374/large.jpg",
-   "attribution": "(c) Imran Shah, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/59334374",
+   "id": 405355875,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405355875/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405355875/large.jpg",
+   "attribution": "(c) Sergey Pisarevskiy, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/405355875",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2481800,
-  "dkTotal": 149995,
+  "dkTotal": 150000,
   "dkMonths": [
    65,
    40,
    46,
    9351,
-   35147,
+   35151,
    3260,
    39477,
-   50408,
+   50409,
    11448,
    631,
    47,
    64
   ],
-  "worldTotal": 2798711,
+  "worldTotal": 2800807,
   "topCountries": [
    {
     "code": "SE",
-    "count": 401736
+    "count": 401776
    },
    {
     "code": "ES",
-    "count": 255005
+    "count": 255064
    },
    {
     "code": "NO",
-    "count": 212816
+    "count": 212853
    },
    {
     "code": "IN",
-    "count": 206365
+    "count": 206366
    },
    {
     "code": "NL",
-    "count": 175777
+    "count": 175827
    },
    {
     "code": "GB",
-    "count": 173272
+    "count": 173275
    },
    {
     "code": "FR",
-    "count": 171209
+    "count": 171235
    },
    {
     "code": "TW",
@@ -152,24 +182,22 @@
    },
    {
     "code": "DK",
-    "count": 149995
+    "count": 150000
    },
    {
     "code": "PT",
-    "count": 86795
+    "count": 86798
    },
    {
     "code": "BE",
-    "count": 77236
+    "count": 77238
    },
    {
     "code": "FI",
-    "count": 58435
+    "count": 58438
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

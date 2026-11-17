@@ -2,7 +2,7 @@
  "key": "troglodytes-troglodytes",
  "name": "Troglodytes troglodytes",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:47.487Z",
+ "fetchedAt": "2026-11-17T19:55:53.973Z",
  "names": {
   "da": "Gærdesmutte",
   "en": null,
@@ -28,70 +28,74 @@
   "adult": [],
   "general": [],
   "hero": {
-   "id": 113892317,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113892317/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113892317/large.jpg",
-   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/113892317",
+   "id": 447128005,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447128005/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447128005/large.jpg",
+   "attribution": "(c) Samuel Beyertt, einige Rechte vorbehalten (CC BY-NC), hochgeladen von Samuel Beyertt",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/447128005",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5231438,
-  "dkTotal": 462574,
+  "dkTotal": 462581,
   "dkMonths": [
    36842,
    29879,
    53555,
    68004,
-   55389,
+   55394,
    39284,
-   30307,
-   19266,
+   30308,
+   19267,
    22708,
    43949,
    35106,
    28205
   ],
-  "worldTotal": 6273441,
+  "worldTotal": 6511715,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1314254
+    "count": 1314259
    },
    {
     "code": "SE",
-    "count": 898226
+    "count": 899224
    },
    {
     "code": "FR",
-    "count": 788566
+    "count": 789984
    },
    {
     "code": "NL",
-    "count": 687985
+    "count": 688849
    },
    {
     "code": "DK",
-    "count": 462574
+    "count": 462581
    },
    {
     "code": "DE",
-    "count": 375226
+    "count": 378753
    },
    {
     "code": "ES",
-    "count": 329184
+    "count": 329200
    },
    {
     "code": "BE",
-    "count": 322397
+    "count": 322398
    },
    {
     "code": "NO",
-    "count": 303500
+    "count": 303924
+   },
+   {
+    "code": "CH",
+    "count": 260675
    },
    {
     "code": "PT",
@@ -99,16 +103,10 @@
    },
    {
     "code": "IT",
-    "count": 75521
-   },
-   {
-    "code": "IE",
-    "count": 68076
+    "count": 76699
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -123,5 +121,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

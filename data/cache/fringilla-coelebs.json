@@ -2,7 +2,7 @@
  "key": "fringilla-coelebs",
  "name": "Fringilla coelebs",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:26:48.272Z",
+ "fetchedAt": "2026-11-17T19:59:36.206Z",
  "names": {
   "da": "Bogfinke",
   "en": "Eurasian Chaffinch",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 10070,
-  "observations": 213446
+  "observations": 213898
  },
  "photos": {
   "male": [
+   {
+    "id": 619867455,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/619867455/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/619867455/large.jpg",
+    "attribution": "(c) Holly, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/340607754",
+    "place": "Greenmount Road, Antrim, Northern Ireland, GB",
+    "date": "2026-02-21"
+   },
+   {
+    "id": 253239,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253239/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253239/large.jpg",
+    "attribution": "(c) Mark Rosenstein, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199419",
+    "place": "Waltham, MA",
+    "date": "2009-12-16"
+   },
    {
     "id": 136408520,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136408520/medium.jpg",
@@ -32,26 +52,6 @@
     "source": "https://www.inaturalist.org/observations/83075710",
     "place": "20170 Levie, France",
     "date": "2021-06-06"
-   },
-   {
-    "id": 729609564,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/729609564/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/729609564/large.jpg",
-    "attribution": "(c) Павел Кунгуров, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/397779576",
-    "place": "Северо-Восточный административный округ, Москва, Россия",
-    "date": "2026-04-19"
-   },
-   {
-    "id": 681146589,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/681146589/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/681146589/large.jpg",
-    "attribution": "(c) harry beaman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/372742290",
-    "place": "Route de la Canourgue, La Malène, Occitanie, FR",
-    "date": "2026-06-17"
    }
   ],
   "female": [
@@ -66,6 +66,16 @@
     "date": "2023-12-15"
    },
    {
+    "id": 61785963,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61785963/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61785963/large.jpeg",
+    "attribution": "(c) marksd, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38844336",
+    "place": "National Trust - Castle Drogo",
+    "date": "2020-02-19"
+   },
+   {
     "id": 112941859,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/large.jpg",
@@ -74,16 +84,6 @@
     "source": "https://www.inaturalist.org/observations/69586283",
     "place": "Steppingley, Bedford MK45, UK",
     "date": "2021-02-14"
-   },
-   {
-    "id": 606662819,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606662819/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606662819/large.jpg",
-    "attribution": "(c) Cara Ennis, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/334106390",
-    "place": "WWT, Gloucester, England, GB",
-    "date": "2026-01-08"
    }
   ],
   "juvenile": [
@@ -98,108 +98,106 @@
     "date": "2022-07-04"
    },
    {
-    "id": 507975333,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507975333/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507975333/large.jpg",
-    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/282729540",
-    "place": "I Giganti della Sila",
-    "date": "2025-05-18"
+    "id": 528046889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/528046889/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/528046889/large.jpg",
+    "attribution": "(c) Ramunė Vakarė, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/293381525",
+    "place": "Eičiai, 73145 Tauragės r. sav., Lietuva",
+    "date": "2025-06-28"
    },
    {
-    "id": 196584715,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196584715/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196584715/large.jpeg",
-    "attribution": "(c) Claude Kolwelter, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/116476712",
-    "place": "2906 Chevenez, Schweiz",
-    "date": "2011-07-11"
+    "id": 602505877,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602505877/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602505877/large.jpg",
+    "attribution": "(c) Taras Rodych / Тарас Родич, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/332046485",
+    "place": "Франківський район, Львів, Львівська область, Україна, 79000",
+    "date": "2017-05-11"
    }
   ],
   "hero": {
-   "id": 112941859,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112941859/large.jpg",
-   "attribution": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/112941859",
+   "id": 151143058,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151143058/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151143058/large.jpg",
+   "attribution": "(c) Jonny Andrews, some rights reserved (CC BY-NC), uploaded by Jonny Andrews",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/151143058",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2494422,
-  "dkTotal": 540813,
+  "dkTotal": 540821,
   "dkMonths": [
    44980,
    38037,
    77559,
    82660,
-   73706,
-   50294,
+   73712,
+   50295,
    25038,
-   14308,
+   14309,
    30912,
    44918,
    29415,
    28894
   ],
-  "worldTotal": 10744308,
+  "worldTotal": 11267807,
   "topCountries": [
    {
     "code": "FR",
-    "count": 1818972
+    "count": 1821984
    },
    {
     "code": "SE",
-    "count": 1324703
+    "count": 1325450
    },
    {
     "code": "NL",
-    "count": 1149475
+    "count": 1150679
    },
    {
     "code": "GB",
-    "count": 1095851
+    "count": 1095861
    },
    {
     "code": "ES",
-    "count": 838518
+    "count": 838578
    },
    {
     "code": "DE",
-    "count": 668917
+    "count": 676667
    },
    {
     "code": "FI",
-    "count": 626928
+    "count": 626952
+   },
+   {
+    "code": "CH",
+    "count": 579273
    },
    {
     "code": "NO",
-    "count": 564039
+    "count": 564257
    },
    {
     "code": "DK",
-    "count": 540813
+    "count": 540821
    },
    {
     "code": "BE",
-    "count": 364803
+    "count": 364805
    },
    {
     "code": "NZ",
     "count": 258150
-   },
-   {
-    "code": "PT",
-    "count": 187258
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

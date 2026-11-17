@@ -2,7 +2,7 @@
  "key": "turdus-iliacus",
  "name": "Turdus iliacus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:24:14.890Z",
+ "fetchedAt": "2026-11-17T19:56:27.956Z",
  "names": {
   "da": "Vindrossel",
   "en": "Redwing",
@@ -19,39 +19,39 @@
  },
  "inat": {
   "id": 12749,
-  "observations": 29831
+  "observations": 29952
  },
  "photos": {
   "male": [
    {
-    "id": 187764537,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187764537/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187764537/large.jpeg",
-    "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/111240355",
-    "place": "Уфа, Респ. Башкортостан, Россия",
-    "date": "2022-04-12"
+    "id": 286936376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/286936376/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/286936376/large.jpg",
+    "attribution": "(c) Алексей Сальников, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165743223",
+    "place": "Laishevskiy rayon, Tatarstan, Russia",
+    "date": "2023-04-23"
    },
    {
-    "id": 453343411,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453343411/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453343411/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/253213524",
-    "place": "Bridgend, UK",
-    "date": "2024-11-25"
+    "id": 659173884,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659173884/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659173884/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/361205748",
+    "place": "Московский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-05-13"
    },
    {
-    "id": 269533802,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/269533802/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/269533802/large.jpeg",
-    "attribution": "(c) Наталья Усова, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/155902264",
-    "place": "Ярославская обл., Россия, 150507",
-    "date": "2023-04-21"
+    "id": 56633650,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56633650/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56633650/large.jpeg",
+    "attribution": "(c) Вотинцевы Елена и Сергей, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35814656",
+    "place": "Кирово-Чепецк, Кировская обл., Россия",
+    "date": "2017-05-19"
    }
   ],
   "female": [
@@ -74,9 +74,29 @@
     "source": "https://www.inaturalist.org/observations/79280101",
     "place": "Москва, Россия, 117570",
     "date": "2021-05-18"
+   },
+   {
+    "id": 125806052,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125806052/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/125806052/large.jpeg",
+    "attribution": "(c) elenamelnikovaozersk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/76936111",
+    "place": "Озёрск, Челябинская обл., Россия",
+    "date": "2021-05-03"
    }
   ],
   "juvenile": [
+   {
+    "id": 550858386,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550858386/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550858386/large.jpg",
+    "attribution": "(c) Stijn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305513487",
+    "place": "Húsavík, Northeastern Region, IS",
+    "date": "2025-06-07"
+   },
    {
     "id": 19102805,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19102805/medium.jpeg",
@@ -88,35 +108,25 @@
     "date": "2018-05-31"
    },
    {
-    "id": 153304118,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/153304118/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/153304118/large.jpeg",
-    "attribution": "(c) Макар Михайлов, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/92575640",
-    "place": "Priozerskiy rayon, RU-LN, RU",
-    "date": "2021-08-26"
-   },
-   {
-    "id": 23312375,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23312375/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23312375/large.jpeg",
-    "attribution": "(c) Millie Basden, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/15591057",
-    "place": "Stöðvarfjörður, Iceland",
-    "date": "2018-08-12"
+    "id": 110674170,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110674170/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110674170/large.jpeg",
+    "attribution": "(c) Andrew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68362811",
+    "place": "Öngulsstadir III 601, Akureyri, Iceland",
+    "date": "2014-07-27"
    }
   ],
   "hero": {
-   "id": 187764537,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187764537/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/187764537/large.jpeg",
-   "attribution": "(c) Марат Адиев, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/observations/111240355",
-   "place": "Уфа, Респ. Башкортостан, Россия",
-   "date": "2022-04-12"
+   "id": 28746692,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28746692/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28746692/large.jpg",
+   "attribution": "(c) Aleksey Levashkin, some rights reserved (CC BY-NC), uploaded by Aleksey Levashkin",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/28746692",
+   "place": null,
+   "date": null
   }
  },
  "gbif": {
@@ -136,27 +146,27 @@
    21589,
    13566
   ],
-  "worldTotal": 2262134,
+  "worldTotal": 2263367,
   "topCountries": [
    {
     "code": "SE",
-    "count": 493704
+    "count": 494025
    },
    {
     "code": "NO",
-    "count": 338832
+    "count": 338998
    },
    {
     "code": "GB",
-    "count": 338152
+    "count": 338153
    },
    {
     "code": "FI",
-    "count": 337356
+    "count": 337368
    },
    {
     "code": "NL",
-    "count": 177325
+    "count": 177829
    },
    {
     "code": "DK",
@@ -164,7 +174,7 @@
    },
    {
     "code": "FR",
-    "count": 108947
+    "count": 108977
    },
    {
     "code": "IS",
@@ -176,20 +186,18 @@
    },
    {
     "code": "DE",
-    "count": 43023
+    "count": 43211
    },
    {
     "code": "ES",
-    "count": 34677
+    "count": 34678
    },
    {
     "code": "RU",
-    "count": 26342
+    "count": 26343
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -204,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

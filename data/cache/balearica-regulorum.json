@@ -2,7 +2,7 @@
  "key": "balearica-regulorum",
  "name": "Balearica regulorum",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:32:04.407Z",
+ "fetchedAt": "2026-11-17T20:05:59.278Z",
  "names": {
   "da": "Grå krontrane",
   "en": "Grey Crowned Crane",
@@ -19,41 +19,81 @@
  },
  "inat": {
   "id": 53,
-  "observations": 6534
+  "observations": 6551
  },
  "photos": {
   "male": [
    {
-    "id": 174128742,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174128742/large.jpeg",
-    "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/103964275",
-    "place": "Loitokitok, Kenya",
-    "date": "2008-07-15"
+    "id": 556468616,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556468616/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556468616/large.jpg",
+    "attribution": "(c) Eliana Donna Vagabonda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308441458",
+    "place": "Kiryandongo, Uganda",
+    "date": "2025-08-11"
+   },
+   {
+    "id": 70896827,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70896827/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70896827/large.jpg",
+    "attribution": "(c) Gareth Yearsley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/44721232",
+    "place": "Amathole, ZA-EC, ZA",
+    "date": "2020-05-03"
+   },
+   {
+    "id": 76820972,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76820972/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76820972/large.jpg",
+    "attribution": "(c) joshua_sam, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/48414334",
+    "place": "Maasai Mara National Reserve, Narok, Rift Valley, KE",
+    "date": "2019-04-10"
    }
   ],
   "female": [],
   "juvenile": [
    {
-    "id": 463536901,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/463536901/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/463536901/large.jpeg",
-    "attribution": "(c) Tim, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/258368404",
-    "place": "Loitokitok, Kenya",
-    "date": "2024-08-13"
+    "id": 275980343,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/275980343/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/275980343/large.jpg",
+    "attribution": "(c) Blythe Nilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/159726494",
+    "place": "Serengeti, Tanzania",
+    "date": "2023-04-27"
+   },
+   {
+    "id": 357072404,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/357072404/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/357072404/large.jpeg",
+    "attribution": "(c) guhof, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202202943",
+    "place": "Ngorongoro, Tansania",
+    "date": "2023-06-13"
+   },
+   {
+    "id": 146048758,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146048758/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146048758/large.jpg",
+    "attribution": "(c) Victor HOYEAU, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/88511739",
+    "place": "Ngorongoro, TZ-AS, TZ",
+    "date": "2021-07-20"
    }
   ],
   "hero": {
-   "id": 130851540,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/130851540/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/130851540/large.jpg",
-   "attribution": "(c) Ronald van der Graaf, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/130851540",
+   "id": 261339008,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/261339008/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/261339008/large.jpg",
+   "attribution": "(c) Wayne and Pam Osborn, some rights reserved (CC BY-NC), uploaded by Wayne and Pam Osborn",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/261339008",
    "place": null,
    "date": null
   }
@@ -75,7 +115,7 @@
    0,
    0
   ],
-  "worldTotal": 76948,
+  "worldTotal": 76962,
   "topCountries": [
    {
     "code": "ZA",
@@ -83,15 +123,15 @@
    },
    {
     "code": "KE",
-    "count": 20423
+    "count": 20425
    },
    {
     "code": "UG",
-    "count": 8685
+    "count": 8692
    },
    {
     "code": "TZ",
-    "count": 7230
+    "count": 7235
    },
    {
     "code": "ZM",
@@ -119,7 +159,7 @@
    },
    {
     "code": "NL",
-    "count": 275
+    "count": 276
    },
    {
     "code": "BW",
@@ -127,8 +167,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -143,5 +181,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

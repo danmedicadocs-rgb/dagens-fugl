@@ -2,7 +2,7 @@
  "key": "gallinago-media",
  "name": "Gallinago media",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:12:24.634Z",
+ "fetchedAt": "2026-11-17T19:42:49.202Z",
  "names": {
   "da": "Tredækker",
   "en": "Great Snipe",
@@ -22,29 +22,59 @@
   "observations": 812
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [
+  "male": [
    {
-    "id": 378270641,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378270641/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378270641/large.jpeg",
-    "attribution": "(c) Philip Schaffer, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/214050131",
-    "place": "7100 Neusiedl am See, Österreich",
-    "date": "2024-05-05"
+    "id": 110022703,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110022703/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110022703/large.jpg",
+    "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68008922",
+    "place": "Вознесенский р-н, Нижегородская обл., Россия",
+    "date": "2015-05-05"
    },
    {
-    "id": 503302805,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/503302805/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/503302805/large.jpeg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/280240782",
-    "place": "Подольский район, Московская обл., Россия",
-    "date": "2025-05-11"
+    "id": 108829013,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108829013/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108829013/large.jpg",
+    "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67368897",
+    "place": "Unnamed Road, Торжок, Нижегородская обл., Россия, 607353",
+    "date": "2015-05-04"
+   },
+   {
+    "id": 60197034,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60197034/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60197034/large.jpg",
+    "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37924488",
+    "place": "Вознесенский р-н, Нижегородская обл., Россия",
+    "date": "2015-05-03"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 740535851,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/740535851/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/740535851/large.jpg",
+    "attribution": "(c) Дмитрий Шитиков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/403337040",
+    "place": "Кирилловский р-н, Вологодская обл., Россия",
+    "date": "2015-06-12"
+   },
+   {
+    "id": 404502374,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/404502374/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/404502374/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/227977480",
+    "place": "Сыктывдинский р-н, Респ. Коми, Россия",
+    "date": "2024-06-30"
    }
   ],
   "hero": {
@@ -75,11 +105,11 @@
    4,
    1
   ],
-  "worldTotal": 40640,
+  "worldTotal": 40648,
   "topCountries": [
    {
     "code": "SE",
-    "count": 25052
+    "count": 25054
    },
    {
     "code": "NO",
@@ -91,7 +121,7 @@
    },
    {
     "code": "NL",
-    "count": 1313
+    "count": 1314
    },
    {
     "code": "RU",
@@ -99,7 +129,7 @@
    },
    {
     "code": "EE",
-    "count": 1091
+    "count": 1092
    },
    {
     "code": "FI",
@@ -111,7 +141,7 @@
    },
    {
     "code": "UA",
-    "count": 399
+    "count": 404
    },
    {
     "code": "PL",
@@ -127,8 +157,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -143,5 +171,7 @@
   "type": "dawn song, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

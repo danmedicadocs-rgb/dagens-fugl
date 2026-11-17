@@ -2,7 +2,7 @@
  "key": "geospiza-fortis",
  "name": "Geospiza fortis",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:52:27.211Z",
+ "fetchedAt": "2026-11-17T20:28:29.035Z",
  "names": {
   "da": "Mellemdarwinfinke",
   "en": "Medium Ground Finch",
@@ -19,10 +19,30 @@
  },
  "inat": {
   "id": 9479,
-  "observations": 2379
+  "observations": 2389
  },
  "photos": {
   "male": [
+   {
+    "id": 262902483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262902483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262902483/large.jpg",
+    "attribution": "(c) Blythe Nilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152304661",
+    "place": "General Rodriguez Lara 629 Puerto Ayora, Santa Cruz 200350, Ecuador",
+    "date": "2017-05-27"
+   },
+   {
+    "id": 679336742,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/679336742/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/679336742/large.jpg",
+    "attribution": "(c) Mateusz Ciechanowski, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/371801632",
+    "place": "Santa Cruz, Ekwador",
+    "date": "2024-12-23"
+   },
    {
     "id": 65006734,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65006734/medium.jpeg",
@@ -32,26 +52,6 @@
     "source": "https://www.inaturalist.org/observations/41001093",
     "place": "Santa Cruz, Ecuador",
     "date": "2013-01-27"
-   },
-   {
-    "id": 108093661,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108093661/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108093661/large.jpg",
-    "attribution": "(c) ajott, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/66974093",
-    "place": "Isabela, Ecuador",
-    "date": "2019-12-25"
-   },
-   {
-    "id": 78585840,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/78585840/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/78585840/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/49504067",
-    "place": "Santa Cruz Island, Ecuador",
-    "date": "2006-07-12"
    }
   ],
   "female": [
@@ -64,16 +64,47 @@
     "source": "https://www.inaturalist.org/observations/41001094",
     "place": "Santa Cruz, Ecuador",
     "date": "2013-01-27"
+   },
+   {
+    "id": 452917062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452917062/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452917062/large.jpeg",
+    "attribution": "(c) Joel Brant, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252982872",
+    "place": "Puerto Baquerizo Moreno, Ecuador",
+    "date": "2024-11-24"
+   },
+   {
+    "id": 359514465,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359514465/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359514465/large.jpeg",
+    "attribution": "(c) Ria Vogels, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203478986",
+    "place": "Isabela, Ecuador",
+    "date": "2016-10-05"
    }
   ],
-  "juvenile": [],
+  "juvenile": [
+   {
+    "id": 96252659,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/96252659/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/96252659/large.jpg",
+    "attribution": "(c) Guenther Eichhorn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/60208662",
+    "place": "Santa Cruz Island, Ecuador",
+    "date": "2004-03-05"
+   }
+  ],
   "hero": {
-   "id": 25538711,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25538711/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25538711/large.jpg",
-   "attribution": "(c) Santiago Ron, some rights reserved (CC BY), uploaded by Santiago Ron",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/25538711",
+   "id": 424455194,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424455194/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/424455194/large.jpg",
+   "attribution": "(c) jack_oldham, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/424455194",
    "place": null,
    "date": null
   }
@@ -95,7 +126,7 @@
    0,
    0
   ],
-  "worldTotal": 17013,
+  "worldTotal": 17012,
   "topCountries": [
    {
     "code": "EC",
@@ -111,8 +142,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -127,5 +156,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

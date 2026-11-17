@@ -2,7 +2,7 @@
  "key": "aegithalos-caudatus",
  "name": "Aegithalos caudatus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:22:11.890Z",
+ "fetchedAt": "2026-11-17T19:54:00.178Z",
  "names": {
   "da": "Halemejse",
   "en": "Long-tailed Tit",
@@ -19,33 +19,84 @@
  },
  "inat": {
   "id": 7278,
-  "observations": 84629
+  "observations": 84936
  },
  "photos": {
   "male": [
    {
-    "id": 745293577,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/745293577/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/405727161",
-    "place": "Светлый, Оренбургская обл., Россия, 462740",
-    "date": "2026-10-04"
+    "id": 632740988,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/632740988/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/632740988/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/347061459",
+    "place": "Alicante, ES-VC, ES",
+    "date": "2026-04-02"
    },
    {
-    "id": 250541545,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250541545/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/250541545/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/145812225",
-    "place": "Quintanalara, Burgos, España",
-    "date": "2022-12-26"
+    "id": 758393733,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758393733/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758393733/large.jpg",
+    "attribution": "(c) Teo Giurea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412185873",
+    "place": "Sibiu, România",
+    "date": "2026-11-01"
+   },
+   {
+    "id": 758393132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/758393132/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/758393132/large.jpg",
+    "attribution": "(c) Teo Giurea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/412185609",
+    "place": "Sibiu, România",
+    "date": "2026-11-01"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 369691937,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369691937/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369691937/large.jpeg",
+    "attribution": "(c) olexandrzhmurko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/208924444",
+    "place": "Вінницький район, Вінницька область, Україна",
+    "date": "2024-04-22"
+   },
+   {
+    "id": 471368743,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471368743/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471368743/large.jpeg",
+    "attribution": "(c) Mick Simpson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/262375245",
+    "place": "Pontefract WF8, UK",
+    "date": "2025-02-20"
+   },
+   {
+    "id": 661251486,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/661251486/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/661251486/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362297434",
+    "place": "Alicante, España",
+    "date": "2026-05-14"
+   }
+  ],
   "juvenile": [
+   {
+    "id": 723463379,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723463379/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723463379/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/394617121",
+    "place": "Alicante, ES-VC, ES",
+    "date": "2026-08-25"
+   },
    {
     "id": 537896721,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537896721/medium.jpg",
@@ -57,33 +108,23 @@
     "date": "2025-05-07"
    },
    {
-    "id": 73379104,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73379104/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73379104/large.jpeg",
-    "attribution": "(c) Gabriele Vaudano, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/46268363",
-    "place": "13867 Flecchia BI, Italia",
-    "date": "2020-05-17"
-   },
-   {
-    "id": 381390538,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381390538/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381390538/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/215699700",
-    "place": "Wembdon, Bridgwater, UK",
-    "date": "2024-05-14"
+    "id": 389061738,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389061738/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389061738/large.jpeg",
+    "attribution": "(c) Ирина Рогова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219792246",
+    "place": "Курортный р-н, Санкт-Петербург, Россия",
+    "date": "2024-06-01"
    }
   ],
   "hero": {
-   "id": 340558404,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340558404/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340558404/large.jpg",
-   "attribution": "(c) caroline legg, some rights reserved (CC BY)",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/340558404",
+   "id": 115550098,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115550098/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115550098/large.jpg",
+   "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/115550098",
    "place": null,
    "date": null
   }
@@ -105,35 +146,35 @@
    9515,
    9153
   ],
-  "worldTotal": 3509607,
+  "worldTotal": 3542821,
   "topCountries": [
    {
     "code": "GB",
-    "count": 745927
+    "count": 745929
    },
    {
     "code": "NL",
-    "count": 521041
+    "count": 522097
    },
    {
     "code": "FR",
-    "count": 401216
+    "count": 401489
    },
    {
     "code": "SE",
-    "count": 390111
+    "count": 390413
    },
    {
     "code": "ES",
-    "count": 324414
+    "count": 324427
    },
    {
     "code": "DE",
-    "count": 176790
+    "count": 177838
    },
    {
     "code": "FI",
-    "count": 150482
+    "count": 150545
    },
    {
     "code": "DK",
@@ -145,7 +186,7 @@
    },
    {
     "code": "IT",
-    "count": 78776
+    "count": 78998
    },
    {
     "code": "PL",
@@ -157,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -173,5 +212,7 @@
   "type": "call, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

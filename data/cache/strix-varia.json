@@ -2,7 +2,7 @@
  "key": "strix-varia",
  "name": "Strix varia",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:47:09.518Z",
+ "fetchedAt": "2026-11-17T20:22:25.815Z",
  "names": {
   "da": "Båndet Natugle",
   "en": "Barred Owl",
@@ -19,42 +19,52 @@
  },
  "inat": {
   "id": 19893,
-  "observations": 85261
+  "observations": 85481
  },
  "photos": {
   "male": [
    {
-    "id": 363874135,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363874135/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/363874135/large.jpg",
-    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/205770052",
-    "place": "West Side, Vancouver, BC, Canada",
-    "date": "2024-04-06"
+    "id": 635011644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635011644/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635011644/large.jpg",
+    "attribution": "(c) featherandtrail, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/348206562",
+    "place": "Williamson County, TX, USA",
+    "date": "2026-04-07"
    },
    {
-    "id": 330755322,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/330755322/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/330755322/large.jpg",
-    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/188898653",
-    "place": "West Side, Vancouver, BC, Canada",
-    "date": "2019-05-29"
+    "id": 624802903,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624802903/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624802903/large.jpg",
+    "attribution": "(c) featherandtrail, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343044202",
+    "place": "Texas, US",
+    "date": "2026-03-14"
    },
    {
-    "id": 421268203,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421268203/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421268203/large.jpg",
-    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/236767677",
-    "place": "West Side, Vancouver, BC, Canada",
-    "date": "2024-08-18"
+    "id": 469215998,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/469215998/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/469215998/large.jpg",
+    "attribution": "(c) David Yeager, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261201349",
+    "place": "Gloucester County, VA, USA",
+    "date": "2025-02-09"
    }
   ],
   "female": [
+   {
+    "id": 352807201,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352807201/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352807201/large.gif",
+    "attribution": "(c) Isabelle Cormier, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200015047",
+    "place": "Sandy Springs, GA, USA",
+    "date": "2024-02-21"
+   },
    {
     "id": 432975755,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432975755/medium.jpg",
@@ -66,65 +76,55 @@
     "date": "2024-09-18"
    },
    {
-    "id": 336437743,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/336437743/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/336437743/large.jpg",
-    "attribution": "(c) Marcel_Pepin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/191737438",
-    "place": "West Side, Vancouver, BC, Canada",
-    "date": "2023-05-03"
-   },
-   {
-    "id": 263595089,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263595089/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263595089/large.jpeg",
-    "attribution": "(c) Matthew Gerke, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/152682229",
-    "place": "Wheaton, Wheaton-Glenmont, MD, USA",
-    "date": "2023-03-28"
+    "id": 601767590,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601767590/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601767590/large.jpg",
+    "attribution": "(c) Nik Bayer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/331687346",
+    "place": "Austin",
+    "date": "2025-12-22"
    }
   ],
   "juvenile": [
    {
-    "id": 604916381,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/604916381/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/604916381/large.jpg",
-    "attribution": "(c) Neil Hauta, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/333088517",
-    "place": "Coupeville, WA 98239, USA",
-    "date": "2026-01-01"
+    "id": 291869158,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/291869158/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/291869158/large.jpeg",
+    "attribution": "(c) Lexy Reinhardt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/168416459",
+    "place": "Capital, BC, Canada",
+    "date": "2023-06-19"
    },
    {
-    "id": 68626525,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/68626525/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/68626525/large.jpg",
-    "attribution": "(c) Edward Hurme, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/43235595",
-    "place": "Smithsonian’s National Zoo & Conservation Biology Institute, Washington, DC, US",
-    "date": "2020-04-24"
+    "id": 381943906,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/381943906/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/381943906/large.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/215994270",
+    "place": "Vermont, US",
+    "date": "2024-05-15"
    },
    {
-    "id": 212888942,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212888942/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212888942/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/125535255",
-    "place": "Lane, Oregon, United States",
-    "date": "2022-07-09"
+    "id": 403282384,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403282384/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403282384/large.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/227333959",
+    "place": "Heather Ln, Rutland, VT, USA",
+    "date": "2024-07-05"
    }
   ],
   "hero": {
-   "id": 10214389,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10214389/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10214389/large.jpg",
-   "attribution": "(c) Bill Majoros, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/10214389",
+   "id": 359094470,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359094470/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359094470/large.jpg",
+   "attribution": "(c) David Yeager, some rights reserved (CC BY-NC), uploaded by David Yeager",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/359094470",
    "place": null,
    "date": null
   }
@@ -146,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 1302385,
+  "worldTotal": 1302393,
   "topCountries": [
    {
     "code": "US",
-    "count": 1171524
+    "count": 1171532
    },
    {
     "code": "CA",
@@ -194,8 +194,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -210,5 +208,7 @@
   "type": "duet, song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

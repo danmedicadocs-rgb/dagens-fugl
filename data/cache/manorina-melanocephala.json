@@ -2,7 +2,7 @@
  "key": "manorina-melanocephala",
  "name": "Manorina melanocephala",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:41:44.521Z",
+ "fetchedAt": "2026-11-17T20:15:54.247Z",
  "names": {
   "da": "Hvidpandet Bjældefugl",
   "en": null,
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 12231,
-  "observations": 34141
+  "observations": 34271
  },
  "photos": {
   "male": [
+   {
+    "id": 595240588,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595240588/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595240588/large.jpg",
+    "attribution": "(c) teena-verrall1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328481021",
+    "place": "Lalina Av, Tweed Heads West, NSW, AU",
+    "date": "2025-09-11"
+   },
    {
     "id": 239244389,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239244389/medium.jpeg",
@@ -32,39 +42,80 @@
     "source": "https://www.inaturalist.org/observations/139833803",
     "place": "Forge Creek VIC 3875, Australia",
     "date": "2019-06-12"
+   },
+   {
+    "id": 589665479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/589665479/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/589665479/large.jpg",
+    "attribution": "(c) Zoë Davis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/325658185",
+    "place": "Victoria, AU",
+    "date": "2025-11-08"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 94581617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94581617/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94581617/large.jpeg",
+    "attribution": "(c) defiantpanda, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59202860",
+    "place": "Dandenong VIC 3175, Australia",
+    "date": "2020-09-03"
+   },
+   {
+    "id": 259105596,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259105596/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259105596/large.jpeg",
+    "attribution": "(c) Vireya Jacquard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/150284033",
+    "place": "Melton VIC, Australia",
+    "date": "2023-03-05"
+   },
+   {
+    "id": 98057837,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98057837/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98057837/large.jpeg",
+    "attribution": "(c) Beat Akeret, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/61287987",
+    "place": "Sydney New South Wales, Australien",
+    "date": "2005-01-01"
+   }
+  ],
   "juvenile": [
    {
-    "id": 328144103,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/328144103/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/328144103/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/187616204",
-    "place": "St Lucia QLD 4067, Australia",
-    "date": "2023-10-15"
+    "id": 100210460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100210460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/100210460/large.jpg",
+    "attribution": "(c) bronkilks, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/62534556",
+    "place": "Patty Street, Mentone, VIC, AU",
+    "date": "2020-10-14"
    },
    {
-    "id": 325915787,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325915787/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325915787/large.jpg",
-    "attribution": "(c) Sockrosma, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/186488310",
-    "place": "City Botanic Gardens, Brisbane, QLD, AU",
-    "date": "2023-10-07"
+    "id": 600222087,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600222087/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600222087/large.jpg",
+    "attribution": "(c) verdine, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330935449",
+    "place": "President Ave after Hotham Rd, Gymea NSW 2227, Australia",
+    "date": "2025-12-15"
    },
    {
-    "id": 63924664,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63924664/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63924664/large.jpeg",
-    "attribution": "(c) Gergely Nigg, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/40239920",
-    "place": "Brisbane QLD, Australia",
-    "date": "2017-07-23"
+    "id": 238619205,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238619205/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238619205/large.jpg",
+    "attribution": "(c) Suzanne B, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/139504407",
+    "place": "Woodland Park, Croydon South VIC 3136, Australia",
+    "date": "2022-10-20"
    }
   ],
   "hero": {
@@ -95,11 +146,11 @@
    0,
    0
   ],
-  "worldTotal": 1472453,
+  "worldTotal": 1472458,
   "topCountries": [
    {
     "code": "AU",
-    "count": 1472101
+    "count": 1472106
    },
    {
     "code": "US",
@@ -123,8 +174,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -139,5 +188,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "sterna-dougallii",
  "name": "Sterna dougallii",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:15:46.206Z",
+ "fetchedAt": "2026-11-17T19:46:29.599Z",
  "names": {
   "da": "Rosenterne",
   "en": "Roseate Tern",
@@ -19,10 +19,21 @@
  },
  "inat": {
   "id": 4436,
-  "observations": 2553
+  "observations": 2557
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 348572280,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/348572280/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/348572280/large.jpg",
+    "attribution": "(c) Corey Husic, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/197850602",
+    "place": "Bremen, ME, USA",
+    "date": "2023-06-23"
+   }
+  ],
   "female": [],
   "juvenile": [
    {
@@ -46,46 +57,14 @@
     "date": "2018-07-21"
    },
    {
-    "id": 654355679,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654355679/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654355679/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/358694742",
-    "place": "Rockabill",
-    "date": "2011-07-26"
-   }
-  ],
-  "adult": [
-   {
-    "id": 654353632,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/654353632/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/654353632/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/358694737",
-    "place": "Rockabill",
-    "date": "2011-07-26"
-   },
-   {
-    "id": 459557432,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459557432/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459557432/large.jpeg",
-    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/256330055",
-    "place": "Ipswich, MA, USA",
-    "date": "2024-07-18"
-   },
-   {
-    "id": 131513017,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131513017/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131513017/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/80248895",
-    "place": "Cape Recife, Gqeberha, South Africa",
-    "date": "2021-05-24"
+    "id": 415457053,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415457053/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415457053/large.jpeg",
+    "attribution": "(c) wormridley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/233752697",
+    "place": "St George, ME 04860, USA",
+    "date": "2023-06-23"
    }
   ],
   "hero": {
@@ -168,8 +147,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +161,7 @@
   "type": "alarm call, flight call",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "lullula-arborea",
  "name": "Lullula arborea",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:21:02.711Z",
+ "fetchedAt": "2026-11-17T19:52:41.467Z",
  "names": {
   "da": "Hedelærke",
   "en": "Woodlark",
@@ -19,95 +19,105 @@
  },
  "inat": {
   "id": 7363,
-  "observations": 10112
+  "observations": 10120
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 403004594,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/403004594/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/403004594/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/227189254",
-    "place": "62039 Castelsantangelo sul Nera MC, Italia",
-    "date": "2024-07-04"
+    "id": 670174854,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670174854/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670174854/large.jpg",
+    "attribution": "(c) Sergey_Cher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/366995648",
+    "place": "Селижаровский р-н, Тверская обл., Россия",
+    "date": "2026-05-29"
    },
    {
-    "id": 524012633,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524012633/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524012633/large.jpg",
-    "attribution": "(c) Aurelijus Narbutas, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/291253631",
-    "place": "85201, Lietuva",
-    "date": "2025-06-20"
+    "id": 473624547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/473624547/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/473624547/large.jpeg",
+    "attribution": "(c) Maxime Fousse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263621630",
+    "place": "Planet’air Hangar 610, Chambley, 54470, 54470, 54470 Dommartin-la-Chaussée, France",
+    "date": "2025-02-21"
    },
    {
-    "id": 131564008,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131564008/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131564008/large.jpg",
-    "attribution": "(c) euqirneto, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/80278762",
-    "place": "San Juan de Ortega, Burgos, España",
-    "date": "2021-05-23"
+    "id": 356773327,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356773327/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356773327/large.jpeg",
+    "attribution": "(c) m-polzin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202049507",
+    "place": "19 Buchberg, Deutschland",
+    "date": "2024-03-09"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 181635911,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181635911/large.jpg",
-    "attribution": "(c) carabus123, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/107938930",
-    "place": "Buttenbergweg, Inzlingen, Baden-Württemberg, DE",
-    "date": "2022-03-05"
+    "id": 687706924,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687706924/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687706924/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/376140224",
+    "place": "Alicante, España",
+    "date": "2013-07-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 352814901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352814901/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352814901/large.jpeg",
+    "attribution": "(c) Pascal Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200019182",
+    "place": "Province de Ciudad Real, Espagne",
+    "date": "2006-04-30"
    },
    {
-    "id": 491469767,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/491469767/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/491469767/large.jpeg",
-    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/273239255",
-    "place": "Ступино, Московская обл., Россия",
-    "date": "2025-04-20"
+    "id": 387335393,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/387335393/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/387335393/large.jpeg",
+    "attribution": "(c) podalonia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/218864659",
+    "place": "Kaub, Deutschland",
+    "date": "2024-05-19"
    },
    {
-    "id": 476818589,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/476818589/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/476818589/large.jpeg",
-    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/265457405",
-    "place": "Sliven municipality, Bulgaria",
-    "date": "2025-03-14"
+    "id": 332648762,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332648762/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332648762/large.jpeg",
+    "attribution": "(c) Philippe Geniez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/189830209",
+    "place": "Pont sur la Galcerana (= El Reart), à la sortie nord de Fourques direction Thuir, 1 Rte de Trouillas, 66300 Fourques, France",
+    "date": "2013-06-05"
    }
   ],
   "hero": {
-   "id": 1742882,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1742882/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1742882/large.jpg",
-   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/1742882",
+   "id": 2421482,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2421482/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2421482/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/2421482",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2490604,
-  "dkTotal": 49168,
+  "dkTotal": 49169,
   "dkMonths": [
    221,
    601,
    12517,
    10322,
-   6813,
+   6814,
    3761,
    1245,
    369,
@@ -116,23 +126,23 @@
    66,
    98
   ],
-  "worldTotal": 922640,
+  "worldTotal": 934988,
   "topCountries": [
    {
     "code": "FR",
-    "count": 223365
+    "count": 223508
    },
    {
     "code": "SE",
-    "count": 160804
+    "count": 160822
    },
    {
     "code": "NL",
-    "count": 139670
+    "count": 139722
    },
    {
     "code": "ES",
-    "count": 122076
+    "count": 122092
    },
    {
     "code": "PT",
@@ -140,11 +150,11 @@
    },
    {
     "code": "DK",
-    "count": 49168
+    "count": 49169
    },
    {
     "code": "BE",
-    "count": 38475
+    "count": 38476
    },
    {
     "code": "GB",
@@ -152,7 +162,11 @@
    },
    {
     "code": "DE",
-    "count": 17047
+    "count": 17205
+   },
+   {
+    "code": "CH",
+    "count": 13022
    },
    {
     "code": "EE",
@@ -161,15 +175,9 @@
    {
     "code": "PL",
     "count": 9618
-   },
-   {
-    "code": "FI",
-    "count": 8453
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +192,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "calidris-minuta",
  "name": "Calidris minuta",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:11:34.719Z",
+ "fetchedAt": "2026-11-17T19:41:52.811Z",
  "names": {
   "da": "Dværgryle",
   "en": "Little Stint",
@@ -19,10 +19,21 @@
  },
  "inat": {
   "id": 3838,
-  "observations": 14810
+  "observations": 14848
  },
  "photos": {
-  "male": [],
+  "male": [
+   {
+    "id": 483089746,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/483089746/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/483089746/large.jpg",
+    "attribution": "(c) Soumendra Mukhopadhyay, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/268735866",
+    "place": "Karave Village, Sector 34, Nerul, Navi Mumbai, Maharashtra 400706, India",
+    "date": "2025-04-05"
+   }
+  ],
   "female": [
    {
     "id": 578962694,
@@ -37,43 +48,43 @@
   ],
   "juvenile": [
    {
-    "id": 602211977,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602211977/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602211977/large.jpg",
-    "attribution": "(c) Antoine Thivolle, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/331905519",
-    "place": "Arles, France",
-    "date": "2024-08-24"
+    "id": 315975666,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315975666/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315975666/large.jpg",
+    "attribution": "(c) Niall Keogh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181313021",
+    "place": "Dublin Bay, IE",
+    "date": "2023-09-01"
    },
    {
-    "id": 614001004,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001004/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614001004/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/337734027",
-    "place": "Tacumshin",
-    "date": "2010-09-17"
+    "id": 746839472,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746839472/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746839472/large.jpg",
+    "attribution": "(c) Jef-B, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406491538",
+    "place": "Richland, WA, USA",
+    "date": "2026-10-06"
    },
    {
-    "id": 569389006,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569389006/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569389006/large.jpg",
-    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/315201311",
-    "place": "Musselburgh Lagoons",
-    "date": "2025-09-14"
+    "id": 562376525,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/562376525/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/562376525/large.jpg",
+    "attribution": "(c) Sam Shutt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/311527768",
+    "place": "East Lothian, UK",
+    "date": "2025-09-02"
    }
   ],
   "hero": {
-   "id": 61212026,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61212026/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61212026/large.jpg",
-   "attribution": "(c) Imran Shah, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/61212026",
+   "id": 29188802,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29188802/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29188802/large.jpg",
+   "attribution": "(c) Данилова Валерия, some rights reserved (CC BY-NC), uploaded by Данилова Валерия",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/29188802",
    "place": null,
    "date": null
   }
@@ -95,19 +106,19 @@
    25,
    0
   ],
-  "worldTotal": 595270,
+  "worldTotal": 595377,
   "topCountries": [
    {
     "code": "SE",
-    "count": 99036
+    "count": 99040
    },
    {
     "code": "ES",
-    "count": 52992
+    "count": 53002
    },
    {
     "code": "ZA",
-    "count": 48862
+    "count": 48867
    },
    {
     "code": "IN",
@@ -119,7 +130,7 @@
    },
    {
     "code": "FR",
-    "count": 33942
+    "count": 33944
    },
    {
     "code": "NO",
@@ -139,16 +150,14 @@
    },
    {
     "code": "PT",
-    "count": 14352
+    "count": 14354
    },
    {
     "code": "FI",
-    "count": 13672
+    "count": 13674
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -163,5 +172,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

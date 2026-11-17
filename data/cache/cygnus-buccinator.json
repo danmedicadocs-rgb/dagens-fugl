@@ -2,7 +2,7 @@
  "key": "cygnus-buccinator",
  "name": "Cygnus buccinator",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:44:53.831Z",
+ "fetchedAt": "2026-11-17T20:19:41.042Z",
  "names": {
   "da": "Trompetérsvane",
   "en": "Trumpeter Swan",
@@ -19,74 +19,84 @@
  },
  "inat": {
   "id": 6915,
-  "observations": 52807
+  "observations": 52969
  },
  "photos": {
   "male": [
    {
-    "id": 164414520,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164414520/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164414520/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/98713756",
-    "place": "Lanark County, ON, Canada",
-    "date": "2021-10-19"
+    "id": 352482408,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352482408/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352482408/large.jpg",
+    "attribution": "(c) Gary James, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199843895",
+    "place": "Pickering, ON, Canada",
+    "date": "2024-02-19"
    },
    {
-    "id": 13019785,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13019785/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13019785/large.jpeg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/9543816",
-    "place": "Cliffcrest, Toronto, ON, Canada",
-    "date": "2018-01-20"
+    "id": 45499613,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45499613/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45499613/large.jpg",
+    "attribution": "(c) Gary Lane, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29160976",
+    "place": "LaSalle Park, Burlington, ON, Canada",
+    "date": "2014-02-17"
    },
    {
-    "id": 155174997,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155174997/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/155174997/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/93612214",
-    "place": "Tommy Thompson Park, Toronto, ON, CA",
-    "date": "2021-09-04"
+    "id": 150064973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/150064973/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/150064973/large.jpeg",
+    "attribution": "(c) Peeter Poldre, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/90780140",
+    "place": "J C Saddington Park",
+    "date": "2020-12-23"
    }
   ],
   "female": [
    {
-    "id": 116060298,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116060298/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116060298/large.jpeg",
-    "attribution": "(c) Jay Solanki, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/71298197",
-    "place": "Cambridge, ON, Canada",
-    "date": "2021-03-14"
+    "id": 62188484,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62188484/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62188484/large.jpg",
+    "attribution": "(c) Joanne Muis Redwood, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39216975",
+    "place": "LaSalle Park, Aldershot, Burlington, ON, Canada",
+    "date": "2013-12-17"
    },
    {
-    "id": 6822065,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822065/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6822065/large.jpeg",
-    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/5529010",
-    "place": "425 Leacock Lane Orillia, ON L3V 7T9",
-    "date": "2016-04-17"
+    "id": 124777933,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/124777933/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/124777933/large.jpeg",
+    "attribution": "(c) Jean-Sébastien Chartier-Dumais, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/76276818",
+    "place": "Tommy Thompson Park",
+    "date": "2021-05-01"
    },
    {
-    "id": 108443963,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108443963/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108443963/large.jpeg",
-    "attribution": "(c) Patrick Jackson, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/67199082",
-    "place": "Orillia, ON, Canada",
-    "date": "2020-12-18"
+    "id": 182651038,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182651038/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182651038/large.jpeg",
+    "attribution": "(c) Jean-Sébastien Chartier-Dumais, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/108480136",
+    "place": "Tommy Thompson Park",
+    "date": "2022-03-12"
    }
   ],
   "juvenile": [
+   {
+    "id": 74710793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74710793/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74710793/large.jpg",
+    "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/47107972",
+    "place": "Milliken Park, Toronto, ON, Canada",
+    "date": "2017-06-11"
+   },
    {
     "id": 435069608,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435069608/medium.jpg",
@@ -98,33 +108,23 @@
     "date": "2024-09-22"
    },
    {
-    "id": 327035782,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/327035782/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/327035782/large.jpeg",
-    "attribution": "(c) Sean Frey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/187055687",
-    "place": "Manitoba, Canada",
-    "date": "2023-10-09"
-   },
-   {
-    "id": 692440711,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/692440711/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/692440711/large.jpg",
-    "attribution": "(c) Sean Frey, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/378557939",
-    "place": "Lowe Lake, Grande Prairie County No. 1, AB, CA",
-    "date": "2026-07-05"
+    "id": 705640069,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/705640069/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/705640069/large.jpg",
+    "attribution": "(c) VeeLorelei, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/385444493",
+    "place": "Wisconsin, US",
+    "date": "2026-07-26"
    }
   ],
   "hero": {
-   "id": 116697018,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116697018/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116697018/large.jpg",
-   "attribution": "(c) brentnmoran, some rights reserved (CC BY-SA), uploaded by brentnmoran",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/116697018",
+   "id": 5930863,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5930863/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/5930863/large.jpeg",
+   "attribution": "(c) belyykit, some rights reserved (CC BY-NC), uploaded by belyykit",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/5930863",
    "place": null,
    "date": null
   }
@@ -146,7 +146,7 @@
    0,
    0
   ],
-  "worldTotal": 1038288,
+  "worldTotal": 1038289,
   "topCountries": [
    {
     "code": "US",
@@ -166,7 +166,7 @@
    },
    {
     "code": "DE",
-    "count": 32
+    "count": 33
    },
    {
     "code": "AE",
@@ -198,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -214,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

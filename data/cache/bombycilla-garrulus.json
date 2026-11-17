@@ -2,7 +2,7 @@
  "key": "bombycilla-garrulus",
  "name": "Bombycilla garrulus",
  "region": "dk",
- "fetchedAt": "2026-11-13T11:23:24.804Z",
+ "fetchedAt": "2026-11-17T19:55:29.056Z",
  "names": {
   "da": "Silkehale",
   "en": "Bohemian Waxwing",
@@ -19,10 +19,20 @@
  },
  "inat": {
   "id": 7429,
-  "observations": 42596
+  "observations": 42828
  },
  "photos": {
   "male": [
+   {
+    "id": 177450775,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177450775/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177450775/large.jpg",
+    "attribution": "(c) Andrée Weigel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105722068",
+    "place": "5485, Luxemburg ",
+    "date": "2022-01-28"
+   },
    {
     "id": 344298014,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344298014/medium.jpg",
@@ -34,27 +44,37 @@
     "date": "2024-01-03"
    },
    {
-    "id": 114829565,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114829565/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114829565/large.jpeg",
-    "attribution": "(c) Pavel Borodin, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/70613989",
-    "place": "Новосибирская обл., Россия, 630090",
-    "date": "2021-03-04"
-   },
-   {
-    "id": 185918318,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185918318/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185918318/large.jpg",
-    "attribution": "(c) Fotojunkie8’s, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/110232591",
-    "place": "Regina, SK, Canada",
-    "date": "2022-04-02"
+    "id": 334972292,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334972292/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334972292/large.jpeg",
+    "attribution": "(c) Graeme Baxter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191005662",
+    "place": "Aberdeen, UK",
+    "date": "2023-11-14"
    }
   ],
   "female": [
+   {
+    "id": 114634565,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114634565/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/114634565/large.jpg",
+    "attribution": "(c) Irina Krug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70505653",
+    "place": "Новоалтайск, Алтайский край, Россия",
+    "date": "2021-03-02"
+   },
+   {
+    "id": 108228935,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108228935/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108228935/large.jpg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67047292",
+    "place": "Phase 2, Pardis, Tehran Province, Iran",
+    "date": "2017-05-03"
+   },
    {
     "id": 761668481,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/761668481/medium.jpg",
@@ -68,43 +88,43 @@
   ],
   "juvenile": [
    {
-    "id": 744714006,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/744714006/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/744714006/large.jpg",
-    "attribution": "(c) Andrei Orekhov, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/405439060",
-    "place": "Дмитровский муниципальный округ, Московская обл., Россия",
-    "date": "2026-10-03"
+    "id": 748779299,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/748779299/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/748779299/large.jpg",
+    "attribution": "(c) Дмитрий Шитиков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/407456191",
+    "place": "Кирилловский р-н, Вологодская обл., Россия",
+    "date": "2002-06-30"
    },
    {
-    "id": 430815864,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/430815864/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/430815864/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/241710108",
-    "place": "Solovetskiye Ostrova, Архангельская обл., Россия, 164070",
-    "date": "2024-09-09"
+    "id": 734535684,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/734535684/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/734535684/large.jpg",
+    "attribution": "(c) Галина Катанова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/400295777",
+    "place": "Заберезник, Вологодская обл., Россия, 162165",
+    "date": "2019-09-16"
    },
    {
-    "id": 732047967,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/732047967/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/732047967/large.jpg",
-    "attribution": "(c) shadow_385, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/399027711",
-    "place": "Светлый, Респ. Марий Эл, Россия, 424913",
-    "date": "2026-09-10"
+    "id": 341478028,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341478028/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341478028/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/194288810",
+    "place": "Сыктывкар, Респ. Коми, Россия",
+    "date": "2012-09-16"
    }
   ],
   "hero": {
-   "id": 4836587,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4836587/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4836587/large.jpg",
-   "attribution": "(c) Fyn Kynd, some rights reserved (CC BY-SA), uploaded by Fyn Kynd",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/4836587",
+   "id": 59611753,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59611753/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59611753/large.jpeg",
+   "attribution": "(c) Илья Сухов, some rights reserved (CC BY-NC), uploaded by Илья Сухов",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/59611753",
    "place": null,
    "date": null
   }
@@ -126,11 +146,11 @@
    18815,
    12525
   ],
-  "worldTotal": 1158272,
+  "worldTotal": 1160176,
   "topCountries": [
    {
     "code": "SE",
-    "count": 418639
+    "count": 419858
    },
    {
     "code": "CA",
@@ -138,11 +158,11 @@
    },
    {
     "code": "FI",
-    "count": 169291
+    "count": 169345
    },
    {
     "code": "NO",
-    "count": 96512
+    "count": 97037
    },
    {
     "code": "US",
@@ -158,11 +178,11 @@
    },
    {
     "code": "NL",
-    "count": 31781
+    "count": 31865
    },
    {
     "code": "GB",
-    "count": 20988
+    "count": 20989
    },
    {
     "code": "EE",
@@ -170,7 +190,7 @@
    },
    {
     "code": "DE",
-    "count": 7139
+    "count": 7148
    },
    {
     "code": "BE",
@@ -178,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -194,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }

@@ -2,7 +2,7 @@
  "key": "melierax-canorus",
  "name": "Melierax canorus",
  "region": "verden",
- "fetchedAt": "2026-11-13T11:35:08.400Z",
+ "fetchedAt": "2026-11-17T20:09:09.716Z",
  "names": {
   "da": "Lys sanghøg",
   "en": "Pale Chanting Goshawk",
@@ -19,82 +19,112 @@
  },
  "inat": {
   "id": 5338,
-  "observations": 4374
+  "observations": 4389
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [
+  "male": [
    {
-    "id": 685595523,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/685595523/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/685595523/large.jpg",
-    "attribution": "no rights reserved",
-    "license": "cc0",
-    "source": "https://www.inaturalist.org/observations/375067735",
-    "place": "Oshikoto Region, Namibia",
-    "date": "1997-03-01"
+    "id": 13817438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13817438/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13817438/large.jpg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10042262",
+    "place": "Rhenosterpan, Bosveld, South Africa",
+    "date": "2018-02-27"
    },
    {
-    "id": 241459317,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/241459317/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/241459317/large.jpeg",
-    "attribution": "(c) douglaseustonbrown, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/141005738",
-    "place": "Cape Winelands, ZA-WC, ZA",
-    "date": "2022-09-22"
+    "id": 53547251,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53547251/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53547251/large.jpg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34052424",
+    "place": "R510, Virginia, Bosveld, South Africa",
+    "date": "2019-10-07"
    },
    {
-    "id": 453320342,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/453320342/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/453320342/large.jpeg",
-    "attribution": "(c) Noeleen du Toit, some rights reserved (CC BY-SA)",
-    "license": "cc-by-sa",
-    "source": "https://www.inaturalist.org/observations/253197410",
-    "place": "Sarah Baartman District Municipality, South Africa",
-    "date": "2024-11-25"
+    "id": 26036973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26036973/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26036973/large.jpeg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/17180491",
+    "place": "D2701, Wegdraai, Bosveld, South Africa",
+    "date": "2018-10-03"
    }
   ],
-  "adult": [
+  "female": [
    {
-    "id": 617147173,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/617147173/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/617147173/large.jpg",
-    "attribution": "(c) le0p0ld_d, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/339270774",
-    "place": "Khomas Region, Namibia",
-    "date": "2026-02-18"
+    "id": 56457945,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56457945/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56457945/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/35778596",
+    "place": "Oshikoto, Namibia",
+    "date": "2017-04-06"
    },
    {
-    "id": 407215169,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/407215169/large.jpeg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/229412885",
-    "place": "Chris Hani District Municipality, South Africa",
-    "date": "2024-07-14"
+    "id": 27923376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27923376/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27923376/large.jpeg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18278000",
+    "place": "D48, Pax Intrantibus 691, Bosveld, South Africa",
+    "date": "2018-11-08"
    },
    {
-    "id": 15763336,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15763336/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15763336/large.jpg",
-    "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/11142138",
-    "place": "Mountain Zebra National Park",
-    "date": "2015-06-10"
+    "id": 113168177,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113168177/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/113168177/large.jpeg",
+    "attribution": "(c) Joseph Heymans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/69707903",
+    "place": "D2001, Haaskraal, Bosveld, South Africa",
+    "date": "2021-02-15"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 22442919,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22442919/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22442919/large.jpeg",
+    "attribution": "(c) copper, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15036594",
+    "place": "Etosha NP, Namibia",
+    "date": "2018-06-04"
+   },
+   {
+    "id": 248253190,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248253190/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/248253190/large.jpg",
+    "attribution": "(c) bturnbull, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/144620840",
+    "place": "Oshikoto Region, Namibia",
+    "date": "2011-09-22"
+   },
+   {
+    "id": 665785117,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665785117/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665785117/large.jpg",
+    "attribution": "(c) Philippe PERRUISSEAU-CARRIER, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364717785",
+    "place": "ZF Mgcawu District Municipality, Afrique du Sud",
+    "date": "2026-04-09"
    }
   ],
   "hero": {
-   "id": 8646,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8646/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8646/large.jpg",
-   "attribution": "(c) Alastair Rae, some rights reserved (CC BY-SA)",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/8646",
+   "id": 688611539,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/688611539/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/688611539/large.jpg",
+   "attribution": "(c) Rails and roadtrips, some rights reserved (CC BY-NC), uploaded by Rails and roadtrips",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/688611539",
    "place": null,
    "date": null
   }
@@ -168,8 +198,6 @@
    }
   ]
  },
- "photoVersion": 2,
- "warnings": [],
  "sound": {
   "src": [
    {
@@ -184,5 +212,7 @@
   "type": "song",
   "via": "xeno-canto"
  },
- "soundVersion": 2
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
 }
