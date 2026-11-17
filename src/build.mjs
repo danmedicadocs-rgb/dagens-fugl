@@ -138,7 +138,17 @@ function plumageSection(d) {
 </section>`;
 }
 
+const TEXT_PARTS = [['kendetegn', 'Kendetegn'], ['stemme', 'Stemme'], ['levested', 'Hvor lever den?'], ['foede', 'Hvad spiser den?'], ['i_danmark', 'I Danmark']];
+
 function aboutSection(d) {
+  if (d.tekst) {
+    const wiki = d.wiki ? ` Vil du vide mere, så læs <a href="${esc(d.wiki.url)}" rel="noopener" target="_blank">artiklen på ${d.wiki.lang === 'da' ? 'dansk' : 'engelsk'} Wikipedia</a>.` : '';
+    return `<section class="block" id="om">
+  <h2>Om fuglen</h2>
+  <div class="prose facts">${TEXT_PARTS.filter(([k]) => d.tekst[k]).map(([k, h]) => `<h3>${h}</h3><p>${esc(d.tekst[k])}</p>`).join('')}</div>
+  <p class="source">Tekst: ${esc(SITE_NAME)}.${wiki}</p>
+</section>`;
+  }
   if (!d.wiki?.extract) return '';
   const lang = d.wiki.lang === 'da' ? 'dansk' : 'engelsk';
   return `<section class="block" id="om">
@@ -314,7 +324,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
   </header>
   ${hero}
   <nav class="jump" aria-label="Indhold">${[
-    d.wiki?.extract && '<a href="#om">Om fuglen</a>',
+    (d.tekst || d.wiki?.extract) && '<a href="#om">Om fuglen</a>',
     PLUMAGE.some((g) => d.photos?.[g.key]?.length) && '<a href="#dragt">Fjerdragt</a>',
     d.gbif && (d.gbif.dkTotal > 0 || d.region === 'verden') && '<a href="#hvornaar">Hvornår</a>',
     d.gbif?.worldTotal && '<a href="#hvor">Hvor</a>',
@@ -335,7 +345,8 @@ function metaDescription(d) {
   if (d.gbif?.worldTotal) bits.push('kort over hvor den findes');
   const base = `${name} (${d.names.accepted})`;
   const tail = bits.length ? `: ${bits.join(', ')}.` : '.';
-  const extra = d.wiki?.extract ? ` ${d.wiki.extract.split(/(?<=\.)\s/)[0]}` : '';
+  const first = d.tekst?.kendetegn || d.wiki?.extract || '';
+  const extra = first ? ` ${first.split(/(?<=\.)\s/)[0]}` : '';
   return clip(base + tail + extra, 158);
 }
 
@@ -433,6 +444,7 @@ function main() {
     const d = readCache(sp.key);
     if (!d) continue;
     d.region = sp.region; // listen bestemmer altid området
+    d.tekst = readJson(path.join(ROOT, 'data', 'tekster', `${sp.key}.json`), null);
     const hasContent = d.photos?.hero || d.wiki?.extract;
     if (!hasContent) continue; // ingen tom side
     d.slug = slugs[sp.key] || (d.names.da ? `${slugify(d.names.da)}-${sp.key}` : sp.key);
@@ -737,8 +749,9 @@ function main() {
 <p>Alt indhold på siden hentes automatisk fra åbne kilder. Hver art har sin egen kildeliste nederst, og hvert foto er krediteret direkte under billedet.</p>
 <h2>Billeder – iNaturalist</h2>
 <p>Fotos kommer fra <a href="https://www.inaturalist.org" rel="noopener" target="_blank">iNaturalist</a>, hvor fotograferne selv vælger licens. Vi viser kun fotos med licenserne ${ALLOW_NONCOMMERCIAL ? 'CC0, CC BY, CC BY-SA, CC BY-NC og CC BY-NC-SA. Siden er ikke-kommerciel' : 'CC0, CC BY og CC BY-SA, som tillader genbrug med kreditering'}. Fotografens navn, licensen og et link til den oprindelige observation står under hvert billede. Køn og alder (han, hun, ungfugl) er markeret af iNaturalist-brugerne selv og kan i sjældne tilfælde være forkert.</p>
-<h2>Tekster – Wikipedia</h2>
-<p>Beskrivelserne er indledningen fra <a href="https://da.wikipedia.org" rel="noopener" target="_blank">dansk Wikipedia</a> – eller engelsk Wikipedia, hvis der ikke findes en dansk artikel. Teksten bruges under <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.da" rel="license noopener" target="_blank">CC BY-SA 4.0</a> med link til artiklen.</p>
+<h2>Tekster</h2>
+<p>Mange arter har en beskrivelse skrevet til ${esc(SITE_NAME)} – kendetegn, stemme, levested, føde og forekomst i Danmark. Teksterne er skrevet fra bunden og bygger på almindelig kendt viden om fuglene; de er ikke kopieret fra andre sider. Finder du en fejl, hører vi gerne om det.</p>
+<p>For de øvrige arter er beskrivelsen indledningen fra <a href="https://da.wikipedia.org" rel="noopener" target="_blank">dansk Wikipedia</a> – eller engelsk Wikipedia, hvis der ikke findes en dansk artikel. Teksten bruges under <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.da" rel="license noopener" target="_blank">CC BY-SA 4.0</a> med link til artiklen.</p>
 <h2>Navne – Wikidata</h2>
 <p>Danske og engelske navne kommer fra <a href="https://www.wikidata.org" rel="noopener" target="_blank">Wikidata</a> (CC0) og i enkelte tilfælde fra GBIF.</p>
 <h2>Kort og sæson – GBIF</h2>
