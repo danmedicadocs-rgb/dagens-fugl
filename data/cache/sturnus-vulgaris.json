@@ -203,14 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/0/09/Sturnus_vulgaris_-_Common_Starling_XC516954.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1101011/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Marie-Lan Taÿ Pamart",
-  "page": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-_Common_Starling_XC516954.mp3"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Ulf Elman",
+  "page": "https://xeno-canto.org/1101011",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

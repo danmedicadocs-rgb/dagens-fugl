@@ -183,14 +183,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Common_Gull_%28Fiskem%C3%A5ke%29_%28Larus_canus%29_-_Troms%C3%B8%2C_Norway_2023-07-07_%2808%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1167643/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Ryan Hodnett",
-  "page": "https://commons.wikimedia.org/wiki/File:Common_Gull_(Fiskem%C3%A5ke)_(Larus_canus)_-_Troms%C3%B8,_Norway_2023-07-07_(08).mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1167643",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

@@ -183,14 +183,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/5/55/Emberiza_hortulana_-_Ortolan_Bunting_XC433274.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1138433/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Joost van Bruggen",
-  "page": "https://commons.wikimedia.org/wiki/File:Emberiza_hortulana_-_Ortolan_Bunting_XC433274.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Christian Kerihuel",
+  "page": "https://xeno-canto.org/1138433",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

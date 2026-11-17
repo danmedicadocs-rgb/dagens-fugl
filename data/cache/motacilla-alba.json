@@ -203,14 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/a/af/Motacilla_alba_-_White_Wagtail_XC466458.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/659807/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Pascal Christe",
-  "page": "https://commons.wikimedia.org/wiki/File:Motacilla_alba_-_White_Wagtail_XC466458.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Micha Luhn",
+  "page": "https://xeno-canto.org/659807",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

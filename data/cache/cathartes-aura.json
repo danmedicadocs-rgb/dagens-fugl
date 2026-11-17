@@ -180,6 +180,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/520288/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Cristian Pinto",
+  "page": "https://xeno-canto.org/520288",
+  "type": "alarm call, call, hatchling or nestling",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

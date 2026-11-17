@@ -172,14 +172,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Numenius_arquata_-_Eurasian_Curlew_XC466469.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1140522/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Pascal Christe",
-  "page": "https://commons.wikimedia.org/wiki/File:Numenius_arquata_-_Eurasian_Curlew_XC466469.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Lars Edenius",
+  "page": "https://xeno-canto.org/1140522",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

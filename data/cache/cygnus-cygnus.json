@@ -152,14 +152,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cygnus_cygnus_-_Whooper_Swan_XC561008.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/832336/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Olivier Grimm",
-  "page": "https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_-_Whooper_Swan_XC561008.mp3"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Agris Celmins",
+  "page": "https://xeno-canto.org/832336",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

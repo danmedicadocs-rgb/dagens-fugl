@@ -170,6 +170,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1163737/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "JAYRSON ARAUJO DE OLIVEIRA",
+  "page": "https://xeno-canto.org/1163737",
+  "type": "duet, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

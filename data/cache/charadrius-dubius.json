@@ -112,14 +112,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Charadrius_dubius_-_Little_Ringed_Plover_XC588230.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/999287/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Jens Loose",
-  "page": "https://commons.wikimedia.org/wiki/File:Charadrius_dubius_-_Little_Ringed_Plover_XC588230.mp3"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Ulf Elman",
+  "page": "https://xeno-canto.org/999287",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

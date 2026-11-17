@@ -132,14 +132,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bisbita_alpino_%28Anthus_spinoletta%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/941997/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC0",
-  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "artist": "Sonothèque ADVL",
-  "page": "https://commons.wikimedia.org/wiki/File:Bisbita_alpino_(Anthus_spinoletta).mp3"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Manuel Oudard",
+  "page": "https://xeno-canto.org/941997",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

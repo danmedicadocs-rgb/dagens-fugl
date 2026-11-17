@@ -173,14 +173,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ardea_purpurea_-_Purple_Heron_XC432223.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1194880/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Joost van Bruggen",
-  "page": "https://commons.wikimedia.org/wiki/File:Ardea_purpurea_-_Purple_Heron_XC432223.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "MILLON Xavier",
+  "page": "https://xeno-canto.org/1194880",
+  "type": "nocturnal flight call",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/Feh%C3%A9rh%C3%A1t%C3%BA_fakop%C3%A1ncs_dob_-_Dendrocopos_leucotos.ogg/Feh%C3%A9rh%C3%A1t%C3%BA_fakop%C3%A1ncs_dob_-_Dendrocopos_leucotos.ogg.mp3",
+    "u": "https://xeno-canto.org/1085637/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/4/40/Feh%C3%A9rh%C3%A1t%C3%BA_fakop%C3%A1ncs_dob_-_Dendrocopos_leucotos.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "Hangvadász",
-  "page": "https://commons.wikimedia.org/wiki/File:Feh%C3%A9rh%C3%A1t%C3%BA_fakop%C3%A1ncs_dob_-_Dendrocopos_leucotos.ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Lars Edenius",
+  "page": "https://xeno-canto.org/1085637",
+  "type": "pecking",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

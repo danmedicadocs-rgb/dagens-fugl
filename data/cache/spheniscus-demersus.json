@@ -170,6 +170,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/45149/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "artist": "Bernabe Lopez-Lanus",
+  "page": "https://xeno-canto.org/45149",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

@@ -100,6 +100,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1059971/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Robson Silva e Silva",
+  "page": "https://xeno-canto.org/1059971",
+  "type": "call, display song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

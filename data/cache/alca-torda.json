@@ -163,18 +163,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Razorbill_%28Alca_torda%29_%28W1CDR0001424_BD7%29.ogg/Razorbill_%28Alca_torda%29_%28W1CDR0001424_BD7%29.ogg.mp3",
+    "u": "https://xeno-canto.org/487892/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Razorbill_%28Alca_torda%29_%28W1CDR0001424_BD7%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Razorbill_(Alca_torda)_(W1CDR0001424_BD7).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/487892",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

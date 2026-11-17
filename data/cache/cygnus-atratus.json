@@ -183,18 +183,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Black_Swan_call_%28Cygnus_atratus%29.ogg/Black_Swan_call_%28Cygnus_atratus%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1154809/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/4/42/Black_Swan_call_%28Cygnus_atratus%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-  "artist": "Marc Anderson",
-  "page": "https://commons.wikimedia.org/wiki/File:Black_Swan_call_(Cygnus_atratus).ogg"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Khristos Nizamis",
+  "page": "https://xeno-canto.org/1154809",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

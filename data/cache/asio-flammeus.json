@@ -190,6 +190,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1166000/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Mike Douglas",
+  "page": "https://xeno-canto.org/1166000",
+  "type": "begging call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

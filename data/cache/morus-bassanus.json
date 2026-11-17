@@ -163,18 +163,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Northern_Gannet_%28Morus_bassanus%29_%28W1CDR0001422_BD11%29.ogg/Northern_Gannet_%28Morus_bassanus%29_%28W1CDR0001422_BD11%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1094241/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Northern_Gannet_%28Morus_bassanus%29_%28W1CDR0001422_BD11%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Northern_Gannet_(Morus_bassanus)_(W1CDR0001422_BD11).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Simon Gillings",
+  "page": "https://xeno-canto.org/1094241",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

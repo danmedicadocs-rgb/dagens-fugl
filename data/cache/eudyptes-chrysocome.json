@@ -160,6 +160,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1078315/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Meena Haribal",
+  "page": "https://xeno-canto.org/1078315",
+  "type": "call, duet, song, Female calling the chicks and leading them",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

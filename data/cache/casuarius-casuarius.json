@@ -200,6 +200,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/126083/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "artist": "Phil Gregory",
+  "page": "https://xeno-canto.org/126083",
+  "type": "alarm call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

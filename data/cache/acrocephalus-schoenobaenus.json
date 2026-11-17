@@ -193,14 +193,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Acrocephalus_schoenobaenus_-_Sedge_Warbler_XC489903.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1156376/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Hannu Varkki",
-  "page": "https://commons.wikimedia.org/wiki/File:Acrocephalus_schoenobaenus_-_Sedge_Warbler_XC489903.mp3"
+  "license": "CC BY-NC 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "artist": "SWIFT Olivier",
+  "page": "https://xeno-canto.org/1156376",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

@@ -203,14 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Erithacus_rubecula_-_European_Robin_XC559972.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1186394/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Marie-Lan Taÿ Pamart",
-  "page": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_-_European_Robin_XC559972.mp3"
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Philippe Grange",
+  "page": "https://xeno-canto.org/1186394",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

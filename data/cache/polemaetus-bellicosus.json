@@ -170,6 +170,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1148983/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Kileo Jumah",
+  "page": "https://xeno-canto.org/1148983",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

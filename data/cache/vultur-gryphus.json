@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Andean_Condor_call_%28Vultur_gryphus%29.ogg/Andean_Condor_call_%28Vultur_gryphus%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1166951/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Andean_Condor_call_%28Vultur_gryphus%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "artist": "Fernando Castro",
-  "page": "https://commons.wikimedia.org/wiki/File:Andean_Condor_call_(Vultur_gryphus).ogg"
+  "page": "https://xeno-canto.org/1166951",
+  "type": "alarm call",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

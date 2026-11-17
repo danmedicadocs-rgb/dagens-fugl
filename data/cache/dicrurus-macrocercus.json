@@ -163,14 +163,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/3/31/Dicrurus_macrocercus_-_Black_Drongo_XC152449.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1088310/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "Sudipto Roy",
-  "page": "https://commons.wikimedia.org/wiki/File:Dicrurus_macrocercus_-_Black_Drongo_XC152449.mp3"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Ding Li Yong",
+  "page": "https://xeno-canto.org/1088310",
+  "type": "song, subsong",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

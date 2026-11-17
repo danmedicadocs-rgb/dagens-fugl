@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Common_Eider_%28Somateria_mollissima%29_%28W1CDR0001491_BD11%29.ogg/Common_Eider_%28Somateria_mollissima%29_%28W1CDR0001491_BD11%29.ogg.mp3",
+    "u": "https://xeno-canto.org/383542/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Common_Eider_%28Somateria_mollissima%29_%28W1CDR0001491_BD11%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Common_Eider_(Somateria_mollissima)_(W1CDR0001491_BD11).ogg"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Terje Kolaas",
+  "page": "https://xeno-canto.org/383542",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

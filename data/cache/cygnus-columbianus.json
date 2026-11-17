@@ -173,18 +173,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Bewick%27s_Swan_%28Cygnus_columbianus%29_%28W1CDR0001383_BD2%29.ogg/Bewick%27s_Swan_%28Cygnus_columbianus%29_%28W1CDR0001383_BD2%29.ogg.mp3",
+    "u": "https://xeno-canto.org/704458/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bewick%27s_Swan_%28Cygnus_columbianus%29_%28W1CDR0001383_BD2%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Bewick%27s_Swan_(Cygnus_columbianus)_(W1CDR0001383_BD2).ogg"
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Agris Celmins",
+  "page": "https://xeno-canto.org/704458",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

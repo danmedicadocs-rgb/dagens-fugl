@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Mergus_serrator_-_Red-breasted_Merganser_XC139389.ogg/Mergus_serrator_-_Red-breasted_Merganser_XC139389.ogg.mp3",
+    "u": "https://xeno-canto.org/555280/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/4/42/Mergus_serrator_-_Red-breasted_Merganser_XC139389.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "Jonathon Jongsma",
-  "page": "https://commons.wikimedia.org/wiki/File:Mergus_serrator_-_Red-breasted_Merganser_XC139389.ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Lars Edenius",
+  "page": "https://xeno-canto.org/555280",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

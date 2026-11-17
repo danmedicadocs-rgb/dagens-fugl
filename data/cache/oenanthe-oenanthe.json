@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Northern_Wheatear_%28Oenanthe_oenanthe%29_%28W1CDR0001421_BD16%29.ogg/Northern_Wheatear_%28Oenanthe_oenanthe%29_%28W1CDR0001421_BD16%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1168556/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/3/30/Northern_Wheatear_%28Oenanthe_oenanthe%29_%28W1CDR0001421_BD16%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Northern_Wheatear_(Oenanthe_oenanthe)_(W1CDR0001421_BD16).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1168556",
+  "type": "flight call, song, song in flight",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

@@ -120,6 +120,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/777635/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "He Wenjin/文进",
+  "page": "https://xeno-canto.org/777635",
+  "type": "begging call, subsong",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

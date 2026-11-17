@@ -170,6 +170,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/114155/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "artist": "Eric DeFonso",
+  "page": "https://xeno-canto.org/114155",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

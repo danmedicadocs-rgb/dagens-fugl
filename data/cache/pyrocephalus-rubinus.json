@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/00/Pyrocephalus_rubinus_audio_%28162596086%29.wav/Pyrocephalus_rubinus_audio_%28162596086%29.wav.mp3",
+    "u": "https://xeno-canto.org/871819/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pyrocephalus_rubinus_audio_%28162596086%29.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "audio/wav"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Pablo H Capovilla",
-  "page": "https://commons.wikimedia.org/wiki/File:Pyrocephalus_rubinus_audio_(162596086).wav"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "María Emilia Pérez",
+  "page": "https://xeno-canto.org/871819",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

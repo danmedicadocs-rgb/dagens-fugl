@@ -200,6 +200,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1163370/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "artist": "Rachel Thurman",
+  "page": "https://xeno-canto.org/1163370",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

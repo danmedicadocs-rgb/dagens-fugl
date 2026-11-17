@@ -173,14 +173,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Red-throated_Diver_%28Sm%C3%A5lom%29_%28Gavia_stellata%29_-_Troms%C3%B8%2C_Norway_2023-07-07_%2806%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1157661/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Ryan Hodnett",
-  "page": "https://commons.wikimedia.org/wiki/File:Red-throated_Diver_(Sm%C3%A5lom)_(Gavia_stellata)_-_Troms%C3%B8,_Norway_2023-07-07_(06).mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Steven Van Garsse",
+  "page": "https://xeno-canto.org/1157661",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

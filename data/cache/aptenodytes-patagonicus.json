@@ -170,6 +170,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/879318/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "artist": "steve",
+  "page": "https://xeno-canto.org/879318",
+  "type": "begging call, call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

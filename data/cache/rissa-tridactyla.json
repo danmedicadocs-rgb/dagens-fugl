@@ -173,18 +173,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Kittiwake_%28Rissa_tridactyla%29_%28W1CDR0001389_BD30%29.ogg/Kittiwake_%28Rissa_tridactyla%29_%28W1CDR0001389_BD30%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1167636/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kittiwake_%28Rissa_tridactyla%29_%28W1CDR0001389_BD30%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Kittiwake_(Rissa_tridactyla)_(W1CDR0001389_BD30).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1167636",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

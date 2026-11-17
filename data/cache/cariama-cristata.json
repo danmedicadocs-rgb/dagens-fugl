@@ -142,18 +142,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/Cariama_cristata_call.flac/Cariama_cristata_call.flac.mp3",
+    "u": "https://xeno-canto.org/1180176/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cariama_cristata_call.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "audio/flac"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Zyoute",
-  "page": "https://commons.wikimedia.org/wiki/File:Cariama_cristata_call.flac"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Miguel Angelo Biz",
+  "page": "https://xeno-canto.org/1180176",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

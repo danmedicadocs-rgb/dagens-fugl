@@ -139,6 +139,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1154765/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Khristos Nizamis",
+  "page": "https://xeno-canto.org/1154765",
+  "type": "flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

@@ -132,18 +132,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/Montezuma_Oropendola_%28Psarocolius_montezuma%29_%28W_PSAROCOLIUS_MONTEZUMA_R1_C4%29.ogg/Montezuma_Oropendola_%28Psarocolius_montezuma%29_%28W_PSAROCOLIUS_MONTEZUMA_R1_C4%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1072565/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Montezuma_Oropendola_%28Psarocolius_montezuma%29_%28W_PSAROCOLIUS_MONTEZUMA_R1_C4%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Montezuma_Oropendola_(Psarocolius_montezuma)_(W_PSAROCOLIUS_MONTEZUMA_R1_C4).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "AUDEVARD Aurélien",
+  "page": "https://xeno-canto.org/1072565",
+  "type": "song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

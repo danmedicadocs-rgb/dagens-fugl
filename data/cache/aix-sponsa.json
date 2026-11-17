@@ -203,14 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/a/af/Aix_sponsa_-_Wood_Duck_XC101287.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1173163/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "Jonathon Jongsma",
-  "page": "https://commons.wikimedia.org/wiki/File:Aix_sponsa_-_Wood_Duck_XC101287.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Don Profota",
+  "page": "https://xeno-canto.org/1173163",
+  "type": "flight call",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

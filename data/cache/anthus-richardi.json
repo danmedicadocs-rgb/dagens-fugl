@@ -150,6 +150,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1180730/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Meena Haribal",
+  "page": "https://xeno-canto.org/1180730",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

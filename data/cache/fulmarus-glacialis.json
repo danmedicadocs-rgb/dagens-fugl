@@ -173,18 +173,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/Northern_Fulmar_%28Fulmarus_glacialis%29_%28W1CDR0001409_BD2%29.ogg/Northern_Fulmar_%28Fulmarus_glacialis%29_%28W1CDR0001409_BD2%29.ogg.mp3",
+    "u": "https://xeno-canto.org/487678/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/6/64/Northern_Fulmar_%28Fulmarus_glacialis%29_%28W1CDR0001409_BD2%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Northern_Fulmar_(Fulmarus_glacialis)_(W1CDR0001409_BD2).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/487678",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

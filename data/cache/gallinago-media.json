@@ -129,6 +129,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1133855/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "János Schadl",
+  "page": "https://xeno-canto.org/1133855",
+  "type": "dawn song, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

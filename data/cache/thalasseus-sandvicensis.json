@@ -152,18 +152,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/Sandwich_Tern_%28Thalasseus_sandvicensis%29_%28W1CDR0001504_BD9%29.ogg/Sandwich_Tern_%28Thalasseus_sandvicensis%29_%28W1CDR0001504_BD9%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1166306/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sandwich_Tern_%28Thalasseus_sandvicensis%29_%28W1CDR0001504_BD9%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Sandwich_Tern_(Thalasseus_sandvicensis)_(W1CDR0001504_BD9).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Clément Bruneau",
+  "page": "https://xeno-canto.org/1166306",
+  "type": "call",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

@@ -170,6 +170,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1042803/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Sonothèque ADVL",
+  "page": "https://xeno-canto.org/1042803",
+  "type": "alarm call, flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

@@ -173,18 +173,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/Atlantic_Puffin_%28Fratercula_arctica%29_%28W1CDR0001416_BD3%29.ogg/Atlantic_Puffin_%28Fratercula_arctica%29_%28W1CDR0001416_BD3%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1052663/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/3/33/Atlantic_Puffin_%28Fratercula_arctica%29_%28W1CDR0001416_BD3%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_(Fratercula_arctica)_(W1CDR0001416_BD3).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stein Ø. Nilsen",
+  "page": "https://xeno-canto.org/1052663",
+  "type": "call, song, wing flapping",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

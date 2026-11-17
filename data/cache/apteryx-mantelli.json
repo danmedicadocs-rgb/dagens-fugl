@@ -103,6 +103,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/955810/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Meena Haribal",
+  "page": "https://xeno-canto.org/955810",
+  "type": "song, I  dont know what the other sound is, Kiwi's different call?",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

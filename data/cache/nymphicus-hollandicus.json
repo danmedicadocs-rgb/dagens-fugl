@@ -172,18 +172,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Nymphicus_hollandicus_call.ogg/Nymphicus_hollandicus_call.ogg.mp3",
+    "u": "https://xeno-canto.org/824613/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nymphicus_hollandicus_call.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "ZooFari",
-  "page": "https://commons.wikimedia.org/wiki/File:Nymphicus_hollandicus_call.ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Andrew Galbraith",
+  "page": "https://xeno-canto.org/824613",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

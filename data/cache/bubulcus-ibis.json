@@ -88,14 +88,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bubulcus_ibis_-_Western_Cattle_Egret_XC463749.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/1172496/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": "Oliver Komar",
-  "page": "https://commons.wikimedia.org/wiki/File:Bubulcus_ibis_-_Western_Cattle_Egret_XC463749.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Paul Coiffard",
+  "page": "https://xeno-canto.org/1172496",
+  "type": "nocturnal flight call",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

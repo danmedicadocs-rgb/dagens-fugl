@@ -172,18 +172,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/Common_Guillemot_%28Uria_aalge%29_%28W1CDR0001424_BD6%29.ogg/Common_Guillemot_%28Uria_aalge%29_%28W1CDR0001424_BD6%29.ogg.mp3",
+    "u": "https://xeno-canto.org/1019244/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Common_Guillemot_%28Uria_aalge%29_%28W1CDR0001424_BD6%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Common_Guillemot_(Uria_aalge)_(W1CDR0001424_BD6).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Sven Normant",
+  "page": "https://xeno-canto.org/1019244",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

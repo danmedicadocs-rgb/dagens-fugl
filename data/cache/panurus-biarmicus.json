@@ -203,18 +203,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Bearded_Tit_%28Panurus_biarmicus%29_%28W1CDR0001379_BD5%29.ogg/Bearded_Tit_%28Panurus_biarmicus%29_%28W1CDR0001379_BD5%29.ogg.mp3",
+    "u": "https://xeno-canto.org/525891/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bearded_Tit_%28Panurus_biarmicus%29_%28W1CDR0001379_BD5%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-  "artist": null,
-  "page": "https://commons.wikimedia.org/wiki/File:Bearded_Tit_(Panurus_biarmicus)_(W1CDR0001379_BD5).ogg"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Jarek Matusiak",
+  "page": "https://xeno-canto.org/525891",
+  "type": "call, song",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

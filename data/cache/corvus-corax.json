@@ -183,18 +183,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a0/Corvus_corax_-_Northern_Raven_-_XC110257%2C_noisefiltered-cropped.oga/Corvus_corax_-_Northern_Raven_-_XC110257%2C_noisefiltered-cropped.oga.mp3",
+    "u": "https://xeno-canto.org/1099362/download",
     "type": "audio/mpeg"
-   },
-   {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Corvus_corax_-_Northern_Raven_-_XC110257%2C_noisefiltered-cropped.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "type": "application/ogg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "Jonathon Jongsma",
-  "page": "https://commons.wikimedia.org/wiki/File:Corvus_corax_-_Northern_Raven_-_XC110257,_noisefiltered-cropped.oga"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Romuald Mikusek",
+  "page": "https://xeno-canto.org/1099362",
+  "type": "call, flight call",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

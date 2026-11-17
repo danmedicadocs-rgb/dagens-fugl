@@ -169,6 +169,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/488986/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Arthur Monteiro Gomes",
+  "page": "https://xeno-canto.org/488986",
+  "type": "wing sounds",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

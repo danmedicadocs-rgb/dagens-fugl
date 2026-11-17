@@ -186,6 +186,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1175187/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Aran Rodrigues Cardoso",
+  "page": "https://xeno-canto.org/1175187",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }

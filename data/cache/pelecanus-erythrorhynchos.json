@@ -172,14 +172,16 @@
  "sound": {
   "src": [
    {
-    "u": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pelecanus_erythrorhynchos_-_American_White_Pelican_XC175255.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "u": "https://xeno-canto.org/486233/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-  "artist": "Jonathon Jongsma",
-  "page": "https://commons.wikimedia.org/wiki/File:Pelecanus_erythrorhynchos_-_American_White_Pelican_XC175255.mp3"
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Bruce Lagerquist",
+  "page": "https://xeno-canto.org/486233",
+  "type": "wing noise",
+  "via": "xeno-canto"
  },
- "soundVersion": 1
+ "soundVersion": 2
 }

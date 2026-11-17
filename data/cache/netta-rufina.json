@@ -200,6 +200,19 @@
  },
  "photoVersion": 2,
  "warnings": [],
- "sound": null,
- "soundVersion": 1
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/982110/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Jarek Matusiak",
+  "page": "https://xeno-canto.org/982110",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2
 }
