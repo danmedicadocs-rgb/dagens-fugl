@@ -161,6 +161,7 @@ html:not(.js) .quiz { display: none; }
 .quiz-steps li.used { text-decoration: line-through; opacity: 0.6; }
 .quiz-steps li.ok { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 600; }
 .quiz-stage { display: grid; gap: 14px; }
+.quiz-step-label { font-weight: 600; margin: 0 0 12px; min-height: 1.2em; }
 .quiz-listen { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 16px 18px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
 .quiz-listen-icon { font-size: 1.6rem; }
 .quiz-listen audio { flex: 1 1 260px; }

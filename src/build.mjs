@@ -452,7 +452,9 @@ function main() {
     species.push(d);
   }
   const byKey = new Map(species.map((d) => [d.key, d]));
-  const ready = new Set(byKey.keys());
+  // Dagens fugl skal kunne gættes ud fra både lyd og billede
+  const ready = new Set([...byKey.values()].filter((d) => d.sound?.src?.length && d.photos?.hero).map((d) => d.key));
+  const schedKeys = list.map((s) => s.key).filter((k) => ready.has(k)); // rækkefølgen laves kun over arter med lyd og billede
   const allKeys = list.map((s) => s.key);
 
   fs.rmSync(DIST_DIR, { recursive: true, force: true });
@@ -504,11 +506,11 @@ function main() {
   }
 
   // --- forside: dagens fugl ---
-  const todayKey = birdForDate(today, allKeys, ready);
+  const todayKey = birdForDate(today, schedKeys, ready);
   const recent = [];
   for (let i = 1; i <= 6; i++) {
     const iso = addDays(today, -i);
-    const k = birdForDate(iso, allKeys, ready);
+    const k = birdForDate(iso, schedKeys, ready);
     if (k) recent.push({ iso, d: byKey.get(k) });
   }
   let homeBody;
@@ -541,18 +543,27 @@ function main() {
     const now = seasonNow(d);
     const hints = [];
     if (d.tekst?.levested) hints.push(`Den lever her: ${d.tekst.levested}`);
+    if (d.tekst?.foede) hints.push(`Den spiser: ${d.tekst.foede.charAt(0).toLowerCase()}${d.tekst.foede.slice(1)}`);
     if (d.region === 'dk') {
       hints.push(now ? `I Danmark: ${now.text.charAt(0).toLowerCase()}${now.text.slice(1)}.` : 'Den kan ses i Danmark.');
     } else {
-      const lands = (d.gbif?.topCountries || []).filter((c) => c.code && c.code.length === 2).slice(0, 3)
-        .map((c) => { try { return regionNames.of(c.code); } catch { return null; } }).filter(Boolean);
+      const lands = (d.gbif?.topCountries || []).filter((c) => c.code && c.code.length === 2 && !/^(XZ|ZZ|AQ)$/.test(c.code)).slice(0, 3)
+        .map((c) => { try { return regionNames.of(c.code); } catch { return null; } }).filter((n) => n && !/ukendt/i.test(n));
       hints.push(lands.length ? `Det er en udenlandsk fugl. Flest fund i ${lands.length > 1 ? `${lands.slice(0, -1).join(', ')} og ${lands.at(-1)}` : lands[0]}.` : 'Det er en udenlandsk fugl.');
+    }
+    // Tre gæt: 1) kun lyden, 2) billedet, 3) fakta
+    // Uden egen tekst: brug starten af Wikipedia-teksten, men skjul fuglens navn
+    if (!d.tekst && d.wiki?.extract) {
+      const names = [d.names.da, d.names.en, d.names.accepted, ...d.names.accepted.split(' ')].filter(Boolean)
+        .sort((x, y) => y.length - x.length).map((n) => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+      const mask = new RegExp(`(${names.join('|')})\\p{L}*`, 'giu');
+      const sents = d.wiki.extract.split(/(?<=\.)\s+/).slice(0, 2).join(' ').replace(mask, '…');
+      if (sents.length > 40) hints.unshift(sents.length > 320 ? `${sents.slice(0, 317)}…` : sents);
     }
     const steps = [];
     if (d.sound?.src?.length) steps.push({ t: 'lyd', label: 'Lyt' });
-    if (ph) steps.push({ t: 'udsnit', label: 'Lille udsnit', z: 3.4 });
-    steps.push({ t: 'ledetraad', label: 'Ledetråd', z: 1.9 });
-    if (ph) steps.push({ t: 'hele', label: 'Hele billedet', z: 1 });
+    if (ph) steps.push({ t: 'billede', label: 'Se billedet', z: 1 });
+    steps.push({ t: 'fakta', label: 'Fakta', z: 1 });
     const data = {
       date: iso, no, steps, opts,
       a: Buffer.from(d.key).toString('base64'),
@@ -565,8 +576,9 @@ function main() {
     return `<section class="quiz" id="quiz">
   <p class="kicker">Dagens fugl #${no} · <time datetime="${iso}">${esc(capFirst(longDate(iso)))}</time></p>
   <h1>Hvilken fugl er det?</h1>
-  <p class="lede">Gæt dagens fugl. For hvert forkert gæt får du en ny ledetråd – når du er færdig, kan du læse alt om den.</p>
+  <p class="lede">Tre gæt: først hører du fuglen, så ser du den, og til sidst får du nogle fakta. Når du er færdig, kan du læse alt om den.</p>
   <ol class="quiz-steps" id="quiz-steps"></ol>
+  <p class="quiz-step-label" id="quiz-step-label"></p>
   <div class="quiz-stage">
     <div class="quiz-listen" id="quiz-listen" hidden><span class="quiz-listen-icon" aria-hidden="true">🔊</span><audio id="quiz-audio" controls preload="none"></audio><p class="source" id="quiz-audio-credit"></p></div>
     <div class="quiz-frame" id="quiz-frame" hidden><img id="quiz-img" alt="Udsnit af dagens fugl"></div>
@@ -632,7 +644,7 @@ function main() {
   const arch = [];
   for (let i = 0; i < 60; i++) {
     const iso = addDays(today, -i);
-    const k = birdForDate(iso, allKeys, ready);
+    const k = birdForDate(iso, schedKeys, ready);
     if (k) arch.push(card(byKey.get(k), i === 0 ? 'I dag' : shortDate(iso)));
   }
   write('arkiv/index.html', page({

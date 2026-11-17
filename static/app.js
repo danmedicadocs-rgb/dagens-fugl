@@ -133,6 +133,10 @@
 
     if (qd.sound) {
       qd.sound.src.forEach(function (x) { var so = document.createElement('source'); so.src = x.u; if (x.type) so.type = x.type; audio.appendChild(so); });
+      var srcs = audio.querySelectorAll('source');
+      if (srcs.length) srcs[srcs.length - 1].addEventListener('error', function () {
+        var m = document.getElementById('quiz-audio-credit'); m.textContent = 'Lyden kunne desværre ikke afspilles i din browser. Tryk »næste ledetråd« for at se billedet.';
+      });
       var cr = document.getElementById('quiz-audio-credit');
       var a = document.createElement('a'); a.href = qd.sound.page; a.target = '_blank'; a.rel = 'noopener'; a.textContent = qd.sound.credit; cr.appendChild(a);
     }
@@ -166,9 +170,13 @@
       if (day.done) z = 1;
       frame.hidden = !qd.img || z === null;
       if (z !== null) img.style.transform = 'scale(' + z + ')';
-      var hintAt = -1; steps.forEach(function (st, i) { if (st.t === 'ledetraad') hintAt = i; });
+      var hintAt = -1; steps.forEach(function (st, i) { if (st.t === 'fakta') hintAt = i; });
       hintEl.hidden = !(day.done || cur >= hintAt);
-      hintEl.textContent = '💡 ' + qd.hint;
+      hintEl.textContent = '💡 Fakta: ' + qd.hint;
+      // vis hvilket trin man er på
+      var st = steps[cur];
+      var lab = document.getElementById('quiz-step-label');
+      if (lab) lab.textContent = day.done ? '' : (st.t === 'lyd' ? 'Gæt 1 af ' + MAX + ': Lyt til fuglen – hvem synger?' : st.t === 'billede' ? 'Gæt ' + (cur + 1) + ' af ' + MAX + ': Nu kan du se den. Hvem er det?' : 'Sidste gæt: Her er nogle fakta om fuglen.');
     }
     function renderOpts() {
       optsEl.innerHTML = '';
@@ -182,6 +190,7 @@
         optsEl.appendChild(b);
       });
       skip.hidden = day.done || day.guesses.length >= MAX - 1;
+      skip.textContent = 'Jeg ved det ikke – gå videre';
     }
     function renderStats() {
       var played = 0, won = 0;
