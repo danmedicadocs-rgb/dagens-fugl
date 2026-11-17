@@ -254,11 +254,15 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
   const alt = d.names.da && d.names.en ? `<span class="alt">${esc(d.names.en)}</span>` : '';
   const tag = d.region === 'dk' ? '<span class="tag">Ses i Danmark</span>' : '<span class="tag">Udenlandsk fugl</span>';
   const hero = d.photos?.hero ? figure(d.photos.hero, name, 'hero', true) : '';
-  return `<article class="species">
+  return `<article class="species" data-key="${esc(d.key)}" data-region="${d.region}">
   <header class="species-head">
     ${kicker}
     <${headingTag}>${esc(name)}</${headingTag}>
     <p class="sci"><i>${esc(d.names.accepted)}</i>${alt}${tag}</p>
+    <div class="seen-box" hidden>
+      <button type="button" class="seen-btn" aria-pressed="false"><span class="seen-icon" aria-hidden="true"></span><span class="seen-label">Jeg har set den</span></button>
+      <a class="seen-count muted" href="${url('mine/')}"></a>
+    </div>
   </header>
   ${hero}
   <nav class="jump" aria-label="Indhold">${[
@@ -321,7 +325,7 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 <body>
 <header class="site">
   <a class="brand" href="${url('')}">${esc(SITE_NAME)}</a>
-  <nav><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a></nav>
+  <nav><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
 </header>
 <main>
 ${body}
@@ -331,6 +335,7 @@ ${body}
   <p><a href="${url('fugle/danske/')}">Danske fugle</a> · <a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a> · <a href="${url('maaned/')}">Fugle måned for måned</a></p>
   <p><a href="${url('kilder/')}">Kilder og licenser</a> · <a href="${url('privatliv/')}">Privatliv</a></p>
 </footer>
+<dialog class="lightbox" aria-label="Billede i stor størrelse"><button type="button" class="lb-close" aria-label="Luk">×</button><img alt=""><p class="lb-caption"></p></dialog>
 <script>window.DF_BASE=${JSON.stringify(BASE_PATH)};</script>
 <script src="${url('vendor/leaflet.js')}" defer></script>
 <script src="${url('app.js')}" defer></script>
@@ -477,7 +482,7 @@ function main() {
 
   function card(d, label) {
     const t = thumb(d.photos?.hero);
-    return `<li class="card" data-region="${d.region}" data-name="${esc(`${displayName(d)} ${d.names.accepted} ${d.names.en || ''}`.toLowerCase())}"><a href="${url(speciesUrl(d))}">${t ? `<img src="${esc(t)}" srcset="${srcset(d.photos.hero, [['small', 240], ['medium', 500]])}" sizes="(min-width: 900px) 220px, 45vw" alt="" loading="lazy" decoding="async">` : '<span class="noimg" aria-hidden="true"></span>'}<span class="card-text">${label ? `<span class="card-label">${esc(label)}</span>` : ''}<span class="card-name">${esc(displayName(d))}</span><i>${esc(d.names.accepted)}</i></span></a></li>`;
+    return `<li class="card" data-key="${esc(d.key)}" data-region="${d.region}" data-name="${esc(`${displayName(d)} ${d.names.accepted} ${d.names.en || ''}`.toLowerCase())}"><a href="${url(speciesUrl(d))}">${t ? `<img src="${esc(t)}" srcset="${srcset(d.photos.hero, [['small', 240], ['medium', 500]])}" sizes="(min-width: 900px) 220px, 45vw" alt="" loading="lazy" decoding="async">` : '<span class="noimg" aria-hidden="true"></span>'}<span class="card-text">${label ? `<span class="card-label">${esc(label)}</span>` : ''}<span class="card-name">${esc(displayName(d))}</span><i>${esc(d.names.accepted)}</i></span></a></li>`;
   }
 
   // --- alle fugle ---
@@ -598,6 +603,8 @@ function main() {
 <p>Siden drives af ${who}${CONTACT_EMAIL ? `. Har du spørgsmål om privatliv, kan du skrive til <a href="mailto:${esc(CONTACT_EMAIL)}">${esc(CONTACT_EMAIL)}</a>` : ''}.</p>
 <h2>Cookies</h2>
 <p>Siden bruger ingen cookies. Derfor er der heller ikke noget cookie-banner. Knappen »Tilfældig« henter blot listen over fugle fra siden selv.</p>
+<h2>»Jeg har set den« og Mine fugle</h2>
+<p>Når du markerer en fugl som set, gemmes det kun i din egen browser (såkaldt local storage) – det sendes ikke til os eller andre, og vi kan ikke se det. Det bruges kun til at vise din egen liste, fordi du selv har bedt om det. Du kan slette listen ved at rydde browserdata for dagensfugl.dk.</p>
 <h2>Hvad sker der, når du besøger siden?</h2>
 <p>Som på alle hjemmesider sender din browser din IP-adresse og oplysninger om browsertype, når den henter sidens indhold. Det sker hos disse tjenester:</p>
 <ul>
@@ -647,6 +654,21 @@ function main() {
 
   // --- data til "tilfældig" og søgning ---
   write('fugle.json', JSON.stringify(species.map((d) => url(speciesUrl(d)))));
+  write('arter.json', JSON.stringify(sorted.map((d) => ({ k: d.key, n: displayName(d), s: d.names.accepted, r: d.region, u: url(speciesUrl(d)), t: thumb(d.photos?.hero) }))));
+
+  // --- Mine fugle (vises i browseren ud fra det, man selv har markeret) ---
+  write('mine/index.html', page({
+    title: `Mine fugle | ${SITE_NAME}`,
+    description: 'De fugle du har markeret som set på Dagens Fugl.',
+    canonical: abs('mine/'),
+    noindex: true,
+    body: `<section class="listing" id="mine">
+  <h1>Mine fugle</h1>
+  <p class="lede" id="mine-status">Her samles de fugle, du har markeret med »Jeg har set den«. Listen gemmes kun i din egen browser – vi kan ikke se den.</p>
+  <ul class="cards" id="mine-list"></ul>
+  <p class="muted">Skifter du browser eller telefon, eller rydder du browserdata, starter listen forfra.</p>
+</section>`,
+  }));
 
   // --- sitemap og robots ---
   const urls = [

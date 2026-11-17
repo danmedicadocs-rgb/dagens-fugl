@@ -117,6 +117,27 @@ figcaption a { color: var(--muted); }
 .card a:hover .card-name { color: var(--accent); }
 .card[hidden] { display: none; }
 
+/* --- Klik for stort billede --- */
+.species figure img { cursor: zoom-in; }
+.lightbox { border: 0; padding: 0; background: transparent; max-width: 96vw; max-height: 96vh; overflow: visible; }
+.lightbox::backdrop { background: rgba(10, 12, 11, 0.88); }
+.lightbox img { max-width: 96vw; max-height: 86vh; width: auto; height: auto; border-radius: 6px; margin: 0 auto; background: #222; }
+.lb-caption { color: #d8dbd8; font-size: 0.82rem; text-align: center; margin: 10px 0 0; }
+.lb-caption a { color: #d8dbd8; }
+.lb-close { position: fixed; top: 14px; right: 18px; width: 44px; height: 44px; border-radius: 99px; border: 0; background: rgba(255,255,255,0.12); color: #fff; font-size: 28px; line-height: 1; cursor: pointer; }
+.lb-close:hover { background: rgba(255,255,255,0.22); }
+
+/* --- Jeg har set den --- */
+.seen-box { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; margin-top: 18px; }
+.seen-btn { display: inline-flex; align-items: center; gap: 8px; font: inherit; font-size: 0.95rem; font-weight: 600; padding: 9px 18px; border-radius: 99px; border: 1px solid var(--accent); background: transparent; color: var(--accent); cursor: pointer; }
+.seen-btn:hover { background: var(--accent-soft); }
+.seen-btn[aria-pressed="true"] { background: var(--accent); color: var(--bg); }
+.seen-icon { width: 16px; height: 16px; border-radius: 99px; border: 2px solid currentColor; display: inline-block; position: relative; }
+.seen-btn[aria-pressed="true"] .seen-icon::after { content: ""; position: absolute; left: 4px; top: 1px; width: 4px; height: 8px; border: solid currentColor; border-width: 0 2px 2px 0; transform: rotate(45deg); }
+.seen-count { text-decoration: none; }
+.card { position: relative; }
+.card.seen::after { content: "✓"; position: absolute; top: 8px; right: 8px; width: 26px; height: 26px; border-radius: 99px; background: var(--accent); color: var(--bg); font-size: 15px; font-weight: 700; display: grid; place-items: center; pointer-events: none; }
+
 @media (max-width: 700px) {
   body { font-size: 16px; }
   .maps.two { grid-template-columns: 1fr; }
