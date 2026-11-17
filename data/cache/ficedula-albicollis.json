@@ -189,5 +189,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/DM650_Ficedula_Albicollis_Song_Slovakia.ogg/DM650_Ficedula_Albicollis_Song_Slovakia.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/a/af/DM650_Ficedula_Albicollis_Song_Slovakia.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "SanoAK: Alexander Kürthy",
+  "page": "https://commons.wikimedia.org/wiki/File:DM650_Ficedula_Albicollis_Song_Slovakia.ogg"
+ },
+ "soundVersion": 1
 }

@@ -199,5 +199,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/Gavia_immer_-_Great_Northern_Loon_XC139387.ogg/Gavia_immer_-_Great_Northern_Loon_XC139387.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gavia_immer_-_Great_Northern_Loon_XC139387.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "Jonathon Jongsma",
+  "page": "https://commons.wikimedia.org/wiki/File:Gavia_immer_-_Great_Northern_Loon_XC139387.ogg"
+ },
+ "soundVersion": 1
 }

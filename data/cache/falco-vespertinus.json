@@ -199,5 +199,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/59/Falco_vespertinus.ogg/Falco_vespertinus.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/5/59/Falco_vespertinus.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "artist": "Bubulcus",
+  "page": "https://commons.wikimedia.org/wiki/File:Falco_vespertinus.ogg"
+ },
+ "soundVersion": 1
 }

@@ -169,5 +169,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Woodlark_%28Lullula_arborea%29_%28W1CDR0001500_BD8%29.ogg/Woodlark_%28Lullula_arborea%29_%28W1CDR0001500_BD8%29.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/d/da/Woodlark_%28Lullula_arborea%29_%28W1CDR0001500_BD8%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": null,
+  "page": "https://commons.wikimedia.org/wiki/File:Woodlark_(Lullula_arborea)_(W1CDR0001500_BD8).ogg"
+ },
+ "soundVersion": 1
 }

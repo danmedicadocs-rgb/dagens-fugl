@@ -199,5 +199,18 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/1/11/Carduelis_carduelis_-_European_Goldfinch_XC503634.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Jochem verweij",
+  "page": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_-_European_Goldfinch_XC503634.mp3"
+ },
+ "soundVersion": 1
 }

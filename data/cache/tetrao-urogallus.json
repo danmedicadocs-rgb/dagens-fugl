@@ -199,5 +199,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/Western_Capercaillie_%28Tetrao_urogallus%29_%28W1CDR0001418_BD47%29.ogg/Western_Capercaillie_%28Tetrao_urogallus%29_%28W1CDR0001418_BD47%29.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/3/31/Western_Capercaillie_%28Tetrao_urogallus%29_%28W1CDR0001418_BD47%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": null,
+  "page": "https://commons.wikimedia.org/wiki/File:Western_Capercaillie_(Tetrao_urogallus)_(W1CDR0001418_BD47).ogg"
+ },
+ "soundVersion": 1
 }

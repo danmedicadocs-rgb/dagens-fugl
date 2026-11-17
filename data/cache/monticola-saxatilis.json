@@ -199,5 +199,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Roquero_rojo_%28Monticola_saxatilis%29.wav/Roquero_rojo_%28Monticola_saxatilis%29.wav.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Roquero_rojo_%28Monticola_saxatilis%29.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "audio/wav"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Thomas SIGNEAU",
+  "page": "https://commons.wikimedia.org/wiki/File:Roquero_rojo_(Monticola_saxatilis).wav"
+ },
+ "soundVersion": 1
 }

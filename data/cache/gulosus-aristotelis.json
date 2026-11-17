@@ -148,5 +148,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/Cormoran_hupp%C3%A9_-_Gulosus_aristotelis.wav/Cormoran_hupp%C3%A9_-_Gulosus_aristotelis.wav.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cormoran_hupp%C3%A9_-_Gulosus_aristotelis.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "audio/wav"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Stanislas Wroza",
+  "page": "https://commons.wikimedia.org/wiki/File:Cormoran_hupp%C3%A9_-_Gulosus_aristotelis.wav"
+ },
+ "soundVersion": 1
 }

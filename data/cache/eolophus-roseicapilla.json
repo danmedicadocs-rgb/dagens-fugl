@@ -199,5 +199,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/Eolophus_roseicapilla_-_Pink_and_grey_cockatoo_%28galah%29_call%2C_near_the_Swan_River_in_Perth%2C_Western_Australia.ogg/Eolophus_roseicapilla_-_Pink_and_grey_cockatoo_%28galah%29_call%2C_near_the_Swan_River_in_Perth%2C_Western_Australia.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eolophus_roseicapilla_-_Pink_and_grey_cockatoo_%28galah%29_call%2C_near_the_Swan_River_in_Perth%2C_Western_Australia.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Ronnievonjohnson",
+  "page": "https://commons.wikimedia.org/wiki/File:Eolophus_roseicapilla_-_Pink_and_grey_cockatoo_(galah)_call,_near_the_Swan_River_in_Perth,_Western_Australia.ogg"
+ },
+ "soundVersion": 1
 }

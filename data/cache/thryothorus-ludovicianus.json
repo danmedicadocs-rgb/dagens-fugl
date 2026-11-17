@@ -191,5 +191,22 @@
   ]
  },
  "photoVersion": 2,
- "warnings": []
+ "warnings": [],
+ "sound": {
+  "src": [
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/Thryothorus_ludovicianus_song.ogg/Thryothorus_ludovicianus_song.ogg.mp3",
+    "type": "audio/mpeg"
+   },
+   {
+    "u": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Thryothorus_ludovicianus_song.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "type": "application/ogg"
+   }
+  ],
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "MeegsC",
+  "page": "https://commons.wikimedia.org/wiki/File:Thryothorus_ludovicianus_song.ogg"
+ },
+ "soundVersion": 1
 }
