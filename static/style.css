@@ -138,6 +138,7 @@ figcaption a { color: var(--muted); }
 .card { position: relative; }
 .card.seen::after { content: "✓"; position: absolute; top: 8px; right: 8px; width: 26px; height: 26px; border-radius: 99px; background: var(--accent); color: var(--bg); font-size: 15px; font-weight: 700; display: grid; place-items: center; pointer-events: none; }
 
+#lyd audio { width: 100%; max-width: 520px; }
 .facts h3 { margin: 1.2rem 0 0.2rem; font-size: 1rem; }
 .facts h3:first-child { margin-top: 0; }
 .facts p { margin: 0 0 0.4em; }

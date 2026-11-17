@@ -138,6 +138,16 @@ function plumageSection(d) {
 </section>`;
 }
 
+function soundSection(d) {
+  const so = d.sound;
+  if (!so?.src?.length) return '';
+  return `<section class="block small" id="lyd">
+  <h2>Hør den</h2>
+  <audio controls preload="none">${so.src.map((x) => `<source src="${esc(x.u)}"${x.type && x.type !== 'application/ogg' ? ` type="${esc(x.type)}"` : ''}>`).join('')}</audio>
+  <p class="source">Optagelse: ${esc(so.artist || 'ukendt')} · ${so.licenseUrl ? `<a href="${esc(so.licenseUrl)}" rel="license noopener" target="_blank">${esc(so.license)}</a>` : esc(so.license)} · <a href="${esc(so.page)}" rel="noopener" target="_blank">${esc(so.via || 'Wikimedia Commons')}</a>${so.type ? ` · ${esc(so.type)}` : ''}</p>
+</section>`;
+}
+
 const TEXT_PARTS = [['kendetegn', 'Kendetegn'], ['stemme', 'Stemme'], ['levested', 'Hvor lever den?'], ['foede', 'Hvad spiser den?'], ['i_danmark', 'I Danmark']];
 
 function aboutSection(d) {
@@ -328,7 +338,9 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     PLUMAGE.some((g) => d.photos?.[g.key]?.length) && '<a href="#dragt">Fjerdragt</a>',
     d.gbif && (d.gbif.dkTotal > 0 || d.region === 'verden') && '<a href="#hvornaar">Hvornår</a>',
     d.gbif?.worldTotal && '<a href="#hvor">Hvor</a>',
+    d.sound?.src?.length && '<a href="#lyd">Hør den</a>',
   ].filter(Boolean).join('')}</nav>
+  ${soundSection(d)}
   ${aboutSection(d)}
   ${plumageSection(d)}
   ${whenSection(d)}
@@ -570,7 +582,7 @@ function main() {
       img: ph ? ph.medium.replace('/medium.', '/large.') : null,
       fx: 35 + Math.floor(rnd() * 30), fy: 35 + Math.floor(rnd() * 30),
       hint: hints.join(' '),
-      sound: d.sound ? { src: d.sound.src, credit: `Lyd: ${d.sound.artist || 'ukendt'} · ${d.sound.license} · Wikimedia Commons`, page: d.sound.page } : null,
+      sound: d.sound ? { src: d.sound.src, credit: `Lyd: ${d.sound.artist || 'ukendt'} · ${d.sound.license} · ${d.sound.via || 'Wikimedia Commons'}`, page: d.sound.page } : null,
       name: displayName(d),
     };
     return `<section class="quiz" id="quiz">
@@ -746,6 +758,7 @@ function main() {
 <ul>
 <li><strong>GitHub Pages</strong> (GitHub Inc., USA) er sidens webhotel. GitHub registrerer IP-adresser af hensyn til sikkerhed og drift. Se <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener" target="_blank">GitHubs privatlivserklæring</a>.</li>
 <li><strong>iNaturalist</strong> (billederne ligger hos Amazon Web Services) leverer fotografierne. Se <a href="https://www.inaturalist.org/pages/privacy" rel="noopener" target="_blank">iNaturalists privatlivspolitik</a>.</li>
+<li><strong>xeno-canto</strong> (Holland) og <strong>Wikimedia Commons</strong> (Wikimedia Foundation, USA) leverer fuglestemmerne. Lyden hentes først, når du trykker afspil.</li>
 <li><strong>GBIF</strong> (Global Biodiversity Information Facility, København) leverer kortene. Se <a href="https://www.gbif.org/terms/privacy-policy" rel="noopener" target="_blank">GBIFs privatlivspolitik</a>.</li>
 </ul>
 <p>Oplysningerne bruges kun til at levere indholdet til din skærm. Overførsel til USA sker under EU-USA-rammen for databeskyttelse (Data Privacy Framework), som GitHub og Amazon er tilsluttet.</p>
@@ -773,6 +786,8 @@ function main() {
 <p>Danske og engelske navne kommer fra <a href="https://www.wikidata.org" rel="noopener" target="_blank">Wikidata</a> (CC0) og i enkelte tilfælde fra GBIF.</p>
 <h2>Kort og sæson – GBIF</h2>
 <p>Kort og fund pr. måned bygger på <a href="https://www.gbif.org" rel="noopener" target="_blank">GBIF – Global Biodiversity Information Facility</a>, som samler registrerede fund fra naturdatabaser og citizen science i hele verden. Tallene viser, hvor og hvornår fuglen er registreret – ikke nødvendigvis hvor mange fugle der er. Baggrundskortene er © <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a>-bidragydere og © OpenMapTiles, leveret af GBIF.</p>
+<h2>Fuglestemmer – xeno-canto og Wikimedia Commons</h2>
+<p>Optagelserne kommer fra <a href="https://xeno-canto.org" rel="noopener" target="_blank">xeno-canto</a> og <a href="https://commons.wikimedia.org" rel="noopener" target="_blank">Wikimedia Commons</a> under Creative Commons-licenser. Optager, licens og link til den oprindelige optagelse står ved hver lyd. Siden er ikke-kommerciel, så vi bruger også optagelser med ikke-kommercielle licenser.</p>
 <h2>Kortværktøj</h2>
 <p>Kortene vises med <a href="https://leafletjs.com" rel="noopener" target="_blank">Leaflet</a> (BSD-2-licens).</p>
 <h2>Fejl og rettelser</h2>

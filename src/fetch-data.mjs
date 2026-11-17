@@ -18,7 +18,7 @@ import { USER_AGENT, MAX_FETCH, REFRESH_DAYS, PHOTO_LICENSES } from './config.mj
 const HEADERS = { 'User-Agent': USER_AGENT, 'Accept': 'application/json', 'Api-User-Agent': USER_AGENT };
 
 // Minimum pause mellem kald pr. vært (ms). iNaturalist beder om højst ca. 1 kald i sekundet.
-const HOST_DELAY = { 'api.inaturalist.org': 1100, default: 250 };
+const HOST_DELAY = { 'api.inaturalist.org': 1100, 'xeno-canto.org': 1000, default: 250 };
 const lastCall = new Map();
 
 async function getJson(url, { allow404 = false } = {}) {
@@ -180,7 +180,61 @@ async function commonsSound(sciName) {
   scored.sort((a, b) => b.score - a.score);
   return scored[0]?.s || null;
 }
-const SOUND_VERSION = 1;
+// ---------- Lyd fra xeno-canto (kræver gratis API-nøgle i XC_KEY) ----------
+const XC_KEY = process.env.XC_KEY || '';
+const NEAR = new Set(['Denmark', 'Sweden', 'Norway', 'Germany', 'Netherlands', 'Poland', 'Finland', 'United Kingdom', 'Belgium', 'France', 'Estonia', 'Latvia', 'Lithuania']);
+function xcLicense(u) {
+  const m = String(u || '').match(/licenses\/([a-z-]+)\/([0-9.]+)/i);
+  if (m) return `CC ${m[1].toUpperCase()} ${m[2]}`;
+  if (/publicdomain|zero/i.test(u || '')) return 'CC0';
+  return null;
+}
+const secs = (t) => { const p = String(t || '').split(':').map(Number); return p.length === 2 ? p[0] * 60 + p[1] : NaN; };
+
+async function xenoCantoSound(sciName, region) {
+  if (!XC_KEY) return undefined; // ingen nøgle → spring over
+  let recs = [];
+  for (const query of [`sp:"${sciName}" q:A`, `sp:"${sciName}"`]) {
+    const d = await getJson(`https://xeno-canto.org/api/3/recordings?query=${q(query)}&per_page=100&key=${q(XC_KEY)}`, { allow404: true });
+    recs = d?.recordings || [];
+    if (recs.length) break;
+  }
+  const scored = recs
+    .filter((r) => r.file && xcLicense(r.lic))
+    .map((r) => {
+      const len = secs(r.length);
+      const type = String(r.type || '').toLowerCase();
+      let score = 0;
+      if (/song/.test(type)) score += 3;
+      if (r.q === 'A') score += 2; else if (r.q === 'B') score += 1;
+      if (len >= 8 && len <= 60) score += 2; else if (len > 60 && len <= 120) score += 1;
+      if (region === 'dk' && NEAR.has(r.cnt)) score += 1;
+      if (/background|bg:/.test(String(r.also || ''))) score -= 0;
+      return { r, score };
+    })
+    .sort((a, b) => b.score - a.score);
+  const best = scored[0]?.r;
+  if (!best) return null;
+  const file = best.file.startsWith('//') ? `https:${best.file}` : best.file;
+  return {
+    src: [{ u: file, type: 'audio/mpeg' }],
+    license: xcLicense(best.lic),
+    licenseUrl: best.lic?.startsWith('//') ? `https:${best.lic}` : best.lic || null,
+    artist: best.rec || null,
+    page: `https://xeno-canto.org/${best.id}`,
+    type: best.type || null,
+    via: 'xeno-canto',
+  };
+}
+
+async function findSound(sciName, region) {
+  let s;
+  try { s = await xenoCantoSound(sciName, region); } catch (e) { s = undefined; console.log(`    xeno-canto ${sciName}: ${e.message}`); }
+  if (s) return s;
+  const c = await commonsSound(sciName);
+  return c ? { ...c, via: 'Wikimedia Commons' } : null;
+}
+const SOUND_VERSION = XC_KEY ? 2 : 1;
 
 // ---------- GBIF ----------
 async function gbifKey(sciName, fromWikidata) {
@@ -250,7 +304,7 @@ async function fetchSpecies(sp, old) {
   }
 
   const gbif = gKey ? await step('gbif statistik', () => gbifStats(gKey)) : undefined;
-  const sound = await step('commons lyd', () => commonsSound(taxon?.name || sp.name));
+  const sound = await step('lyd', () => findSound(taxon?.name || sp.name, sp.region));
 
   // Hvis et trin fejlede, behold de gamle data for netop det felt.
   const keep = (val, oldVal) => (val === undefined ? (oldVal ?? null) : val);
@@ -309,11 +363,12 @@ async function main() {
 
   // Hent lyd til arter, der endnu ikke har været tjekket (let – kun ét kald pr. art).
   const SOUND_FETCH = Number(process.env.SOUND_FETCH || 700);
-  const noSound = list.map((sp) => ({ sp, d: readCache(sp.key) })).filter(({ d }) => d && d.soundVersion !== SOUND_VERSION).slice(0, SOUND_FETCH);
+  const noSound = list.map((sp) => ({ sp, d: readCache(sp.key) })).filter(({ d }) => d && (d.soundVersion || 0) < SOUND_VERSION).slice(0, SOUND_FETCH);
+  if (!XC_KEY) console.log('Ingen XC_KEY – bruger kun Wikimedia Commons til lyd.');
   let found = 0;
   for (const { sp, d } of noSound) {
     try {
-      d.sound = await commonsSound(d.names?.accepted || sp.name);
+      d.sound = await findSound(d.names?.accepted || sp.name, sp.region);
       d.soundVersion = SOUND_VERSION;
       if (d.sound) found++;
       writeJson(cachePath(sp.key), d);

@@ -47,6 +47,7 @@ jobs:
           MAX_FETCH: ${{ github.event_name == 'push' && '0' || inputs.max_fetch || '60' }}
           ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'false' }}
           CONTACT: ${{ vars.CONTACT }}
+          XC_KEY: ${{ secrets.XC_KEY }}
         run: node src/fetch-data.mjs
 
       - name: Gem hentede data i repoet
