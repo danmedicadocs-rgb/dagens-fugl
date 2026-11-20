@@ -13,7 +13,7 @@ export function loadSpeciesList() {
   const seen = new Set();
   const list = [];
   for (const raw of txt.split('\n')) {
-    const line = raw.trim();
+    const line = raw.replace(/#.*/, '').trim();
     if (!line || line.startsWith('#')) continue;
     const m = line.match(/^(dk|verden)\s+(.+)$/);
     if (!m) { console.warn(`Ukendt linje i species.txt: ${line}`); continue; }

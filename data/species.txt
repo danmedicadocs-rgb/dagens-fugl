@@ -361,43 +361,43 @@ dk Emberiza rustica
 
 # --- Europa (arter man typisk ikke ser i Danmark) ---
 verden Gypaetus barbatus
-verden Gyps fulvus
+dk Gyps fulvus   # på Den danske liste
 verden Aegypius monachus
-verden Neophron percnopterus
+dk Neophron percnopterus   # på Den danske liste
 verden Aquila adalberti
-verden Aquila heliaca
+dk Aquila heliaca   # på Den danske liste
 verden Tichodroma muraria
 verden Monticola solitarius
-verden Monticola saxatilis
+dk Monticola saxatilis   # på Den danske liste
 verden Pyrrhocorax pyrrhocorax
 verden Pyrrhocorax graculus
 verden Cyanopica cooki
-verden Curruca melanocephala
-verden Otis tarda
-verden Tetrax tetrax
+dk Curruca melanocephala   # på Den danske liste
+dk Otis tarda   # på Den danske liste
+dk Tetrax tetrax   # på Den danske liste
 verden Porphyrio porphyrio
-verden Himantopus himantopus
-verden Glareola pratincola
+dk Himantopus himantopus   # på Den danske liste
+dk Glareola pratincola   # på Den danske liste
 verden Tetrao urogallus
-verden Lyrurus tetrix
+dk Lyrurus tetrix   # på Den danske liste
 verden Lagopus muta
 verden Lagopus lagopus
 verden Tetrastes bonasia
 verden Strix nebulosa
 verden Strix uralensis
-verden Picoides tridactylus
+dk Picoides tridactylus   # på Den danske liste
 verden Dendrocopos leucotos
 verden Perisoreus infaustus
 verden Alectoris rufa
-verden Calonectris diomedea
+dk Calonectris diomedea   # på Den danske liste
 verden Phoenicopterus roseus
-verden Ardeola ralloides
-verden Emberiza cia
-verden Prunella collaris
-verden Montifringilla nivalis
-verden Oenanthe hispanica
+dk Ardeola ralloides   # på Den danske liste
+dk Emberiza cia   # på Den danske liste
+dk Prunella collaris   # på Den danske liste
+dk Montifringilla nivalis   # på Den danske liste
+dk Oenanthe hispanica   # på Den danske liste
 verden Iduna opaca
-verden Merops persicus
+dk Merops persicus   # på Den danske liste
 
 # --- Afrika ---
 verden Struthio camelus
@@ -446,7 +446,7 @@ verden Gallus gallus
 verden Chrysolophus pictus
 verden Lophophorus impejanus
 verden Grus japonensis
-verden Grus virgo
+dk Grus virgo   # på Den danske liste
 verden Leucogeranus leucogeranus
 verden Nipponia nippon
 verden Halcyon smyrnensis
@@ -495,7 +495,7 @@ verden Ptilonorhynchus violaceus
 verden Malurus cyaneus
 verden Strigops habroptilus
 verden Nestor notabilis
-verden Cygnus atratus
+dk Cygnus atratus   # på Den danske liste
 verden Pelecanus conspicillatus
 verden Podargus strigoides
 verden Gymnorhina tibicen
@@ -509,7 +509,7 @@ verden Pygoscelis papua
 verden Pygoscelis antarcticus
 verden Eudyptes chrysocome
 verden Diomedea exulans
-verden Thalassarche melanophris
+dk Thalassarche melanophris   # på Den danske liste
 verden Prosthemadera novaeseelandiae
 verden Threskiornis molucca
 verden Grallina cyanoleuca
@@ -522,19 +522,19 @@ verden Haliaeetus leucocephalus
 verden Cardinalis cardinalis
 verden Cyanocitta cristata
 verden Cyanocitta stelleri
-verden Turdus migratorius
+dk Turdus migratorius   # på Den danske liste
 verden Sialia sialis
 verden Archilochus colubris
 verden Calypte anna
 verden Selasphorus rufus
-verden Zenaida macroura
+dk Zenaida macroura   # på Den danske liste
 verden Meleagris gallopavo
 verden Colinus virginianus
 verden Geococcyx californianus
 verden Bubo virginianus
 verden Megascops asio
 verden Dryocopus pileatus
-verden Colaptes auratus
+dk Colaptes auratus   # på Den danske liste
 verden Melanerpes formicivorus
 verden Sitta carolinensis
 verden Poecile atricapillus
@@ -549,8 +549,8 @@ verden Sturnella magna
 verden Mimus polyglottos
 verden Dumetella carolinensis
 verden Spinus tristis
-verden Junco hyemalis
-verden Zonotrichia albicollis
+dk Junco hyemalis   # på Den danske liste
+dk Zonotrichia albicollis   # på Den danske liste
 verden Melospiza melodia
 verden Bombycilla cedrorum
 verden Tachycineta bicolor
@@ -565,16 +565,16 @@ verden Cathartes aura
 verden Coragyps atratus
 verden Gymnogyps californianus
 verden Buteo jamaicensis
-verden Falco sparverius
+dk Falco sparverius   # på Den danske liste
 verden Grus americana
-verden Antigone canadensis
+dk Antigone canadensis   # på Den danske liste
 verden Charadrius vociferus
 verden Megaceryle alcyon
 verden Fratercula cirrhata
 verden Fratercula corniculata
 verden Aphelocoma californica
 verden Pica hudsonia
-verden Leucophaeus atricilla
+dk Leucophaeus atricilla   # på Den danske liste
 verden Lophodytes cucullatus
 verden Histrionicus histrionicus
 verden Chordeiles minor
@@ -583,7 +583,7 @@ verden Thryothorus ludovicianus
 verden Dryobates pubescens
 verden Baeolophus bicolor
 verden Haemorhous mexicanus
-verden Pheucticus ludovicianus
+dk Pheucticus ludovicianus   # på Den danske liste
 verden Strix varia
 verden Callipepla californica
 
@@ -618,7 +618,7 @@ verden Harpia harpyja
 verden Eudocimus ruber
 verden Platalea ajaja
 verden Phoenicopterus ruber
-verden Fregata magnificens
+dk Fregata magnificens   # på Den danske liste
 verden Sula nebouxii
 verden Rynchops niger
 verden Momotus momota
@@ -652,3 +652,160 @@ verden Phoebastria irrorata
 verden Sula granti
 verden Geospiza fortis
 verden Creagrus furcatus
+
+# Sjældne gæster og øvrige arter fra Den danske liste (DOF, kategori A–C, 2025)
+dk Oxyura leucocephala
+dk Oxyura jamaicensis
+dk Anser indicus
+dk Anser rossii
+dk Tadorna ferruginea
+dk Melanitta americana
+dk Melanitta perspicillata
+dk Melanitta deglandi
+dk Melanitta stejnegeri
+dk Aythya collaris
+dk Aythya affinis
+dk Sibirionetta formosa
+dk Spatula discors
+dk Mareca americana
+dk Anas rubripes
+dk Gavia pacifica
+dk Chlamydotis macqueenii
+dk Clamator glandarius
+dk Coccyzus americanus
+dk Coccyzus erythropthalmus
+dk Syrrhaptes paradoxus
+dk Streptopelia orientalis
+dk Porphyrio alleni
+dk Zapornia parva
+dk Zapornia pusilla
+dk Pluvialis dominica
+dk Pluvialis fulva
+dk Vanellus gregarius
+dk Vanellus leucurus
+dk Anarhynchus asiaticus
+dk Anarhynchus atrifrons
+dk Anarhynchus mongolus
+dk Anarhynchus leschenaultii
+dk Bartramia longicauda
+dk Limosa haemastica
+dk Limnodromus scolopaceus
+dk Actitis macularius
+dk Phalaropus tricolor
+dk Tringa flavipes
+dk Tringa melanoleuca
+dk Calidris acuminata
+dk Calidris himantopus
+dk Calidris ruficollis
+dk Calidris subruficollis
+dk Calidris bairdii
+dk Calidris pusilla
+dk Calidris fuscicollis
+dk Cursorius cursor
+dk Glareola maldivarum
+dk Glareola nordmanni
+dk Uria lomvia
+dk Onychoprion anaethetus
+dk Chlidonias hybrida
+dk Thalasseus elegans
+dk Rhodostethia rosea
+dk Pagophila eburnea
+dk Chroicocephalus genei
+dk Chroicocephalus philadelphia
+dk Leucophaeus pipixcan
+dk Ichthyaetus ichthyaetus
+dk Ichthyaetus audouinii
+dk Larus delawarensis
+dk Larus armenicus
+dk Larus glaucescens
+dk Oceanites oceanicus
+dk Calonectris borealis
+dk Ardenna gravis
+dk Puffinus yelkouan
+dk Puffinus lherminieri
+dk Sula leucogaster
+dk Microcarbo pygmaeus
+dk Plegadis falcinellus
+dk Pelecanus crispus
+dk Botaurus lentiginosus
+dk Caprimulgus aegyptius
+dk Hirundapus caudacutus
+dk Apus pacificus
+dk Apus caffer
+dk Apus affinis
+dk Apus pallidus
+dk Otus scops
+dk Elanus caeruleus
+dk Pernis ptilorhynchus
+dk Aquila nipalensis
+dk Aquila fasciata
+dk Circus hudsonius
+dk Buteo rufinus
+dk Falco naumanni
+dk Falco eleonorae
+dk Falco cherrug
+dk Vireo olivaceus
+dk Lanius phoenicuroides
+dk Lanius schach
+dk Lanius cristatus
+dk Coloeus dauuricus
+dk Melanocorypha bimaculata
+dk Cisticola juncidis
+dk Hippolais polyglotta
+dk Iduna caligata
+dk Iduna pallida
+dk Acrocephalus agricola
+dk Helopsaltes fasciolatus
+dk Locustella lanceolata
+dk Ptyonoprogne rupestris
+dk Cecropis semirufa
+dk Cecropis rufula
+dk Cettia cetti
+dk Phylloscopus bonelli
+dk Phylloscopus humei
+dk Phylloscopus schwarzi
+dk Phylloscopus griseolus
+dk Phylloscopus ibericus
+dk Phylloscopus nitidus
+dk Phylloscopus plumbeitarsus
+dk Phylloscopus borealis
+dk Curruca nana
+dk Curruca sarda
+dk Curruca ruppeli
+dk Curruca subalpina
+dk Curruca iberiae
+dk Curruca cantillans
+dk Sturnus unicolor
+dk Zoothera aurea
+dk Catharus ustulatus
+dk Catharus guttatus
+dk Turdus atrogularis
+dk Turdus eunomus
+dk Turdus obscurus
+dk Muscicapa dauurica
+dk Calliope calliope
+dk Larvivora sibilans
+dk Ficedula albicilla
+dk Saxicola maurus
+dk Oenanthe deserti
+dk Oenanthe pleschanka
+dk Oenanthe melanoleuca
+dk Oenanthe isabellina
+dk Oenanthe leucopyga
+dk Prunella atrogularis
+dk Prunella montanella
+dk Passer hispaniolensis
+dk Motacilla tschutschensis
+dk Anthus godlewskii
+dk Bucanetes githagineus
+dk Emberiza chrysophrys
+dk Emberiza aureola
+dk Emberiza melanocephala
+dk Emberiza bruniceps
+dk Emberiza buchanani
+dk Emberiza cineracea
+dk Emberiza cirlus
+dk Emberiza leucocephalos
+dk Zonotrichia leucophrys
+dk Setophaga striata
+dk Setophaga aestiva

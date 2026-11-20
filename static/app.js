@@ -35,9 +35,18 @@
   }
 
   // ---- Jeg har set den (gemmes kun i browseren) ----
+  // Format: { art: { d: 'ÅÅÅÅ-MM-DD', p: 'sted' } } – ældre versioner gemte bare datoen som tekst.
   var KEY = 'dagensfugl-set';
-  function loadSeen() { try { return JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) { return null; } }
+  function loadSeen() {
+    try {
+      var o = JSON.parse(localStorage.getItem(KEY) || '{}') || {};
+      Object.keys(o).forEach(function (k) { if (typeof o[k] === 'string') o[k] = { d: o[k], p: '' }; });
+      return o;
+    } catch (e) { return null; }
+  }
   function saveSeen(o) { try { localStorage.setItem(KEY, JSON.stringify(o)); return true; } catch (e) { return false; } }
+  function todayIso() { return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Copenhagen' }).format(new Date()); }
+  function fmtDate(iso) { return new Date(iso + 'T12:00:00').toLocaleDateString('da-DK', { day: 'numeric', month: 'short', year: 'numeric' }); }
   var seen = loadSeen();
   if (seen) {
     var arterP = null;
@@ -51,13 +60,20 @@
       var btn = box.querySelector('.seen-btn');
       var label = box.querySelector('.seen-label');
       var count = box.querySelector('.seen-count');
+      var form = box.querySelector('.seen-note');
       var key = art.dataset.key;
       function render() {
-        var on = !!seen[key];
-        btn.setAttribute('aria-pressed', String(on));
-        label.textContent = on ? 'Set' : 'Jeg har set den';
+        var e = seen[key];
+        btn.setAttribute('aria-pressed', String(!!e));
+        box.classList.toggle('on', !!e);
+        label.textContent = e ? 'Set ' + fmtDate(e.d) + (e.p ? ' · ' + e.p : '') : 'Jeg har set den';
+        btn.title = e ? 'Klik for at fjerne den fra Mine fugle' : '';
+        if (form) {
+          form.hidden = !e;
+          if (e) { form.sted.value = e.p || ''; form.dato.value = e.d; }
+        }
         var n = Object.keys(seen).length;
-        if (!n) { count.textContent = ''; return; }
+        if (!n) { count.textContent = 'Saml dine egne fugle i Mine fugle →'; return; }
         arter().then(function (list) {
           var dk = list.filter(function (a) { return a.r === 'dk'; });
           var dkSeen = dk.filter(function (a) { return seen[a.k]; }).length;
@@ -65,9 +81,21 @@
         }).catch(function () { count.textContent = 'Du har set ' + n + ' fugle →'; });
       }
       btn.addEventListener('click', function () {
-        if (seen[key]) delete seen[key]; else seen[key] = new Date().toISOString().slice(0, 10);
-        saveSeen(seen);
-        render();
+        if (seen[key]) {
+          if (seen[key].p && !window.confirm('Fjern ' + (art.querySelector('h1, h2') || {}).textContent + ' fra Mine fugle?')) return;
+          delete seen[key];
+        } else {
+          seen[key] = { d: todayIso(), p: '' };
+        }
+        saveSeen(seen); render();
+        if (seen[key] && form) form.sted.focus();
+      });
+      if (form) form.addEventListener('submit', function (ev) {
+        ev.preventDefault();
+        if (!seen[key]) return;
+        seen[key] = { d: form.dato.value || seen[key].d, p: form.sted.value.trim().slice(0, 80) };
+        saveSeen(seen); render();
+        var ok = form.querySelector('.seen-saved'); ok.textContent = 'Gemt ✓'; setTimeout(function () { ok.textContent = ''; }, 2000);
       });
       box.hidden = false;
       render();
@@ -77,30 +105,33 @@
     if (mine) {
       arter().then(function (list) {
         var mineList = list.filter(function (a) { return seen[a.k]; })
-          .sort(function (a, b) { return seen[b.k] < seen[a.k] ? -1 : seen[b.k] > seen[a.k] ? 1 : 0; });
+          .sort(function (a, b) { return seen[b.k].d < seen[a.k].d ? -1 : seen[b.k].d > seen[a.k].d ? 1 : 0; });
         var status = document.getElementById('mine-status');
         var dk = list.filter(function (a) { return a.r === 'dk'; });
         var dkSeen = dk.filter(function (a) { return seen[a.k]; }).length;
         if (!mineList.length) {
-          status.textContent = 'Du har ikke markeret nogen fugle endnu. Tryk »Jeg har set den« på en fugleside, så kommer den her. Listen gemmes kun i din egen browser.';
+          status.textContent = 'Du har ikke markeret nogen fugle endnu. Tryk »Jeg har set den« på en fugleside, så kommer den her – og du kan skrive, hvor du så den. Listen gemmes kun i din egen browser.';
           return;
         }
         status.textContent = 'Du har set ' + mineList.length + (mineList.length === 1 ? ' fugl' : ' fugle') + ' – ' + dkSeen + ' af ' + dk.length + ' danske. Listen gemmes kun i din egen browser.';
+        var bar = document.getElementById('mine-progress');
+        if (bar) { bar.hidden = false; bar.querySelector('span').style.width = Math.round(100 * dkSeen / dk.length) + '%'; }
         mineList.forEach(function (a) {
+          var e = seen[a.k];
           var li = document.createElement('li'); li.className = 'card seen';
           var link = document.createElement('a'); link.href = a.u;
           if (a.t) { var im = document.createElement('img'); im.src = a.t; im.alt = ''; im.loading = 'lazy'; link.appendChild(im); }
           var tx = document.createElement('span'); tx.className = 'card-text';
-          var lab = document.createElement('span'); lab.className = 'card-label';
-          lab.textContent = new Date(seen[a.k] + 'T12:00:00').toLocaleDateString('da-DK', { day: 'numeric', month: 'short', year: 'numeric' });
+          var lab = document.createElement('span'); lab.className = 'card-label'; lab.textContent = fmtDate(e.d);
           var nm = document.createElement('span'); nm.className = 'card-name'; nm.textContent = a.n;
-          var sc = document.createElement('i'); sc.textContent = a.s;
-          tx.appendChild(lab); tx.appendChild(nm); tx.appendChild(sc); link.appendChild(tx); li.appendChild(link); mine.appendChild(li);
+          tx.appendChild(lab); tx.appendChild(nm);
+          if (e.p) { var pl = document.createElement('span'); pl.className = 'card-place'; pl.textContent = '📍 ' + e.p; tx.appendChild(pl); }
+          else { var sc = document.createElement('i'); sc.textContent = a.s; tx.appendChild(sc); }
+          link.appendChild(tx); li.appendChild(link); mine.appendChild(li);
         });
       });
     }
   }
-
 
   // ---- Dagens gætteleg ----
   var QKEY = 'dagensfugl-quiz';

@@ -1,0 +1,27 @@
+name: Morgenmail med dagens fugl
+
+on:
+  schedule:
+    # ca. kl. 7 dansk tid (vintertid) / kl. 8 (sommertid)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mail:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-save nodemailer@6
+      - name: Send mail
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: node src/send-mail.mjs

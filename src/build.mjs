@@ -12,7 +12,9 @@ import {
 
 // Hvem står bag siden (vises på privatlivssiden). Sættes som repository variables i GitHub.
 const OWNER_NAME = process.env.OWNER_NAME || '';
-const CONTACT_EMAIL = process.env.CONTACT_EMAIL || '';
+const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'dagensfugl1@gmail.com';
+const CF_BEACON = process.env.CF_BEACON || ''; // token til Cloudflare Web Analytics (uden cookies)
+const mailto = (subject, body = '') => `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}${body ? `&body=${encodeURIComponent(body)}` : ''}`;
 
 // ---------------- Hjælpere ----------------
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -319,7 +321,8 @@ function rangeText(idx) {
 function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
   const name = displayName(d);
   const alt = d.names.da && d.names.en ? `<span class="alt">${esc(d.names.en)}</span>` : '';
-  const tag = d.region === 'dk' ? '<span class="tag">Ses i Danmark</span>' : '<span class="tag">Udenlandsk fugl</span>';
+  const rare = d.region === 'dk' && (d.gbif?.dkTotal ?? 0) < 20;
+  const tag = rare ? '<span class="tag rare">Sjælden gæst i Danmark</span>' : d.region === 'dk' ? '<span class="tag">Ses i Danmark</span>' : '<span class="tag">Udenlandsk fugl</span>';
   const hero = d.photos?.hero ? figure(d.photos.hero, name, 'hero', true) : '';
   return `<article class="species" data-key="${esc(d.key)}" data-region="${d.region}">
   <header class="species-head">
@@ -328,8 +331,16 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     <p class="sci"><i>${esc(d.names.accepted)}</i>${alt}${tag}</p>
     ${(() => { const n = seasonNow(d); return n ? `<p class="now now-${n.level}"><span class="now-dot" aria-hidden="true"></span><strong>${esc(n.text)}</strong>${n.more ? ` <span>${esc(n.more)}</span>` : ''}</p>` : ''; })()}
     <div class="seen-box" hidden>
-      <button type="button" class="seen-btn" aria-pressed="false"><span class="seen-icon" aria-hidden="true"></span><span class="seen-label">Jeg har set den</span></button>
-      <a class="seen-count muted" href="${url('mine/')}"></a>
+      <div class="seen-row">
+        <button type="button" class="seen-btn" aria-pressed="false"><span class="seen-icon" aria-hidden="true"></span><span class="seen-label">Jeg har set den</span></button>
+        <a class="seen-count" href="${url('mine/')}"></a>
+      </div>
+      <form class="seen-note" hidden>
+        <label>Hvor så du den? <input type="text" name="sted" maxlength="80" placeholder="Fx Amager Fælled"></label>
+        <label>Hvornår? <input type="date" name="dato"></label>
+        <button type="submit" class="seen-save">Gem</button>
+        <span class="seen-saved" aria-live="polite"></span>
+      </form>
     </div>
   </header>
   ${hero}
@@ -408,11 +419,12 @@ ${body}
 <footer class="site">
   <div class="foot-brand"><strong>${esc(SITE_NAME)}</strong><p>En ny fugl at gætte og lære om hver dag. Billeder, lyde og kort fra åbne kilder – krediteret på hver side. Uden reklamer.</p></div>
   <div class="foot-col"><h4>Fugle</h4><a href="${url('fugle/danske/')}">Danske fugle</a><a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a><a href="${url('maaned/')}">Måned for måned</a><a href="${url('arkiv/')}">Tidligere dage</a></div>
-  <div class="foot-col"><h4>Om siden</h4><a href="${url('kilder/')}">Kilder og licenser</a><a href="${url('privatliv/')}">Privatliv</a><a href="${url('mine/')}">Mine fugle</a></div>
+  <div class="foot-col"><h4>Om siden</h4><a href="${url('kilder/')}">Kilder og licenser</a><a href="${url('privatliv/')}">Privatliv</a><a href="${url('mine/')}">Mine fugle</a><a href="${esc(mailto('Feedback til Dagens Fugl'))}">Giv feedback</a></div>
 </footer>
 <dialog class="lightbox" aria-label="Billede i stor størrelse"><button type="button" class="lb-close" aria-label="Luk">×</button><img alt=""><p class="lb-caption"></p></dialog>
 <script>window.DF_BASE=${JSON.stringify(BASE_PATH)};</script>
 <script src="${url('vendor/leaflet.js')}" defer></script>
+${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(CF_BEACON)}"}'></script>` : ''}
 <script src="${url('app.js')}" defer></script>
 </body>
 </html>`;
@@ -499,8 +511,13 @@ function main() {
       image: d.photos?.hero?.large || d.photos?.hero?.medium,
       type: 'article',
       jsonld: speciesJsonLd(d, canonical),
-      body: crumbs(d) + speciesBody(d) + related(d) + moreLinks(d),
+      body: crumbs(d) + speciesBody(d) + related(d) + moreLinks(d) + feedback(d),
     }));
+  }
+
+  function feedback(d) {
+    const u = abs(speciesUrl(d));
+    return `<aside class="feedback"><div><strong>Har du rettelser eller idéer?</strong><span>Ser du en fejl i teksten om ${esc(displayName(d).toLowerCase())}, eller har du et ønske til siden, så skriv gerne.</span></div><a class="button ghost" href="${esc(mailto(`Dagens Fugl: ${displayName(d)}`, `Side: ${u}\n\n`))}">Skriv til os</a></aside>`;
   }
 
   function crumbs(d) {
@@ -782,10 +799,13 @@ function main() {
 <ul>
 <li><strong>GitHub Pages</strong> (GitHub Inc., USA) er sidens webhotel. GitHub registrerer IP-adresser af hensyn til sikkerhed og drift. Se <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener" target="_blank">GitHubs privatlivserklæring</a>.</li>
 <li><strong>iNaturalist</strong> (billederne ligger hos Amazon Web Services) leverer fotografierne. Se <a href="https://www.inaturalist.org/pages/privacy" rel="noopener" target="_blank">iNaturalists privatlivspolitik</a>.</li>
+${CF_BEACON ? `<li><strong>Cloudflare Web Analytics</strong> (Cloudflare Inc., USA) tæller besøg anonymt, så vi kan se hvor mange der bruger siden. Der bruges ingen cookies, og der gemmes intet, der kan genkende dig fra dag til dag.</li>` : ''}
 <li><strong>xeno-canto</strong> (Holland) og <strong>Wikimedia Commons</strong> (Wikimedia Foundation, USA) leverer fuglestemmerne. Lyden hentes først, når du trykker afspil.</li>
 <li><strong>GBIF</strong> (Global Biodiversity Information Facility, København) leverer kortene. Se <a href="https://www.gbif.org/terms/privacy-policy" rel="noopener" target="_blank">GBIFs privatlivspolitik</a>.</li>
 </ul>
 <p>Oplysningerne bruges kun til at levere indholdet til din skærm. Overførsel til USA sker under EU-USA-rammen for databeskyttelse (Data Privacy Framework), som GitHub og Amazon er tilsluttet.</p>
+<h2>Morgenmail og feedback</h2>
+<p>Har du bedt om at få dagens fugl på mail, gemmer vi kun din mailadresse – og kun til det formål. Den sendes via Gmail (Google), og du kan til enhver tid afmelde dig ved at svare på mailen. Skriver du til os med feedback, bruger vi kun din mail til at svare dig.</p>
 <h2>Dine rettigheder</h2>
 <p>Da siden ikke selv gemmer oplysninger om dig, er der ikke noget at indsigte, rette eller slette her. Vil du klage over behandling af personoplysninger, kan du kontakte <a href="https://www.datatilsynet.dk" rel="noopener" target="_blank">Datatilsynet</a>.</p>
 <p class="muted">Senest opdateret ${esc(new Intl.DateTimeFormat('da-DK', { dateStyle: 'long' }).format(new Date('2026-11-13T12:00:00Z')))}.</p>
@@ -841,6 +861,7 @@ function main() {
     body: `<section class="listing" id="mine">
   <h1>Mine fugle</h1>
   <p class="lede" id="mine-status">Her samles de fugle, du har markeret med »Jeg har set den«. Listen gemmes kun i din egen browser – vi kan ikke se den.</p>
+  <div class="progress" id="mine-progress" hidden aria-hidden="true"><span></span></div>
   <ul class="cards" id="mine-list"></ul>
   <p class="muted">Skifter du browser eller telefon, eller rydder du browserdata, starter listen forfra.</p>
 </section>`,

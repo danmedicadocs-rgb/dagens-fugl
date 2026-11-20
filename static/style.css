@@ -285,3 +285,32 @@ footer.site strong { font-family: var(--serif); color: var(--text); font-size: 1
 .crumbs { margin: 22px 0 0; font-size: 0.85rem; }
 .crumbs a { color: var(--muted); }
 .crumbs + .species .species-head, .crumbs + article .species-head { padding-top: 20px; }
+
+/* --- Jeg har set den: tydeligere --- */
+.seen-box { display: block; margin-top: 22px; padding: 14px 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); max-width: 640px; }
+.seen-box.on { border-color: var(--accent); background: var(--accent-soft); }
+.seen-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; }
+.seen-btn { background: var(--accent); color: var(--bg); border-color: var(--accent); padding: 11px 20px; font-size: 1rem; box-shadow: 0 1px 0 rgba(0,0,0,0.05); }
+.seen-btn:hover { background: var(--accent); filter: brightness(1.08); }
+.seen-btn .seen-icon { border-color: currentColor; }
+.seen-btn[aria-pressed="true"] { background: var(--surface); color: var(--accent); }
+.seen-btn[aria-pressed="true"] .seen-icon { background: var(--accent); border-color: var(--accent); }
+.seen-btn[aria-pressed="true"] .seen-icon::after { border-color: var(--surface); }
+.seen-count { color: var(--accent); font-weight: 600; font-size: 0.92rem; text-decoration: none; }
+.seen-count:hover { text-decoration: underline; }
+.seen-note { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 12px; margin-top: 14px; padding-top: 14px; border-top: 1px solid color-mix(in srgb, var(--accent) 25%, transparent); }
+.seen-note label { display: flex; flex-direction: column; gap: 4px; font-size: 0.82rem; font-weight: 600; color: var(--muted); }
+.seen-note input { font: inherit; font-size: 0.95rem; padding: 9px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); }
+.seen-note input[name="sted"] { min-width: 220px; }
+.seen-note input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.seen-save { font: inherit; font-weight: 600; padding: 9px 16px; border-radius: 99px; border: 1px solid var(--accent); background: transparent; color: var(--accent); cursor: pointer; }
+.seen-save:hover { background: var(--surface); }
+.seen-saved { font-size: 0.85rem; color: var(--accent); font-weight: 600; }
+.card-place { font-size: 0.85rem; color: var(--muted); }
+.progress { height: 8px; border-radius: 99px; background: var(--line); overflow: hidden; max-width: 520px; margin: 4px 0 8px; }
+.progress span { display: block; height: 100%; background: var(--accent); border-radius: 99px; width: 0; transition: width 0.6s ease; }
+.tag.rare { background: transparent; border: 1px solid var(--accent); }
+
+.feedback { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-top: 48px; padding: 18px 20px; border-radius: 16px; border: 1px dashed var(--line); }
+.feedback div { display: flex; flex-direction: column; gap: 2px; }
+.feedback span { color: var(--muted); font-size: 0.92rem; }

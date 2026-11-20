@@ -65,6 +65,7 @@ jobs:
           ALLOW_NONCOMMERCIAL: ${{ vars.ALLOW_NONCOMMERCIAL || 'true' }}
           OWNER_NAME: ${{ vars.OWNER_NAME }}
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
+          CF_BEACON: ${{ vars.CF_BEACON }}
         run: node src/build.mjs
 
       - name: Gem rækkefølgen for dagens fugl
