@@ -67,6 +67,11 @@ jobs:
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
         run: node src/build.mjs
 
+      - name: Gem rækkefølgen for dagens fugl
+        run: |
+          git add data/raekkefoelge.json
+          git diff --cached --quiet || { git commit -m "Opdater rækkefølge [skip ci]" && git push || echo "Kunne ikke pushe rækkefølgen."; }
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

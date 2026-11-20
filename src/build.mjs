@@ -4,7 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {
-  ROOT, DIST_DIR, SLUGS_FILE, loadSpeciesList, readCache, readJson, slugify,
+  ROOT, DIST_DIR, SLUGS_FILE, loadSpeciesList, readCache, readJson, writeJson, slugify,
 } from './common.mjs';
 import {
   SITE_NAME, SITE_URL, BASE_PATH, TIMEZONE, SCHEDULE_START, SCHEDULE_SEED, ALLOW_NONCOMMERCIAL,
@@ -390,22 +390,25 @@ ${image ? `<meta property="og:image" content="${esc(image)}">\n<meta name="twitt
 <meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#151816" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="${url('favicon.svg')}" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="${esc(SITE_NAME)}" href="${url('feed.xml')}">
+<link rel="preload" href="${url('fonts/fraunces.woff2')}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="${url('fonts/inter.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${url('style.css')}">
 <link rel="stylesheet" href="${url('vendor/leaflet.css')}" media="print" onload="this.media='all'">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
 <body>
-<header class="site">
-  <a class="brand" href="${url('')}">${esc(SITE_NAME)}</a>
+<header class="site"><div class="site-inner">
+  <a class="brand" href="${url('')}"><svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="16" fill="currentColor"/><path d="M14 38c6-1 10-6 14-12 3-5 8-9 14-9 3 0 6 2 7 5l5 2-5 2c0 9-7 17-18 18-6 1-12-1-17-6z" fill="var(--bg)"/><circle cx="43" cy="22" r="1.8" fill="currentColor"/></svg><span>${esc(SITE_NAME)}</span></a>
   <nav><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
-</header>
+</div></header>
 <main>
 ${body}
 </main>
 <footer class="site">
-  <p>${esc(SITE_NAME)} viser en ny fugl hver dag. Tekster, billeder og kort hentes fra åbne kilder og krediteres på hver side.</p>
-  <p><a href="${url('fugle/danske/')}">Danske fugle</a> · <a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a> · <a href="${url('maaned/')}">Fugle måned for måned</a></p>
-  <p><a href="${url('kilder/')}">Kilder og licenser</a> · <a href="${url('privatliv/')}">Privatliv</a></p>
+  <div class="foot-brand"><strong>${esc(SITE_NAME)}</strong><p>En ny fugl at gætte og lære om hver dag. Billeder, lyde og kort fra åbne kilder – krediteret på hver side. Uden reklamer.</p></div>
+  <div class="foot-col"><h4>Fugle</h4><a href="${url('fugle/danske/')}">Danske fugle</a><a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a><a href="${url('maaned/')}">Måned for måned</a><a href="${url('arkiv/')}">Tidligere dage</a></div>
+  <div class="foot-col"><h4>Om siden</h4><a href="${url('kilder/')}">Kilder og licenser</a><a href="${url('privatliv/')}">Privatliv</a><a href="${url('mine/')}">Mine fugle</a></div>
 </footer>
 <dialog class="lightbox" aria-label="Billede i stor størrelse"><button type="button" class="lb-close" aria-label="Luk">×</button><img alt=""><p class="lb-caption"></p></dialog>
 <script>window.DF_BASE=${JSON.stringify(BASE_PATH)};</script>
@@ -518,11 +521,32 @@ function main() {
   }
 
   // --- forside: dagens fugl ---
-  const todayKey = birdForDate(today, schedKeys, ready);
+  // Fast rækkefølge: én art pr. dag fra SCHEDULE_START. Gemmes i data/raekkefoelge.json,
+  // så tidligere og kommende dage aldrig ændres – nye arter tilføjes kun i enden.
+  const ORDER_FILE = path.join(ROOT, 'data', 'raekkefoelge.json');
+  const dayIdx = (iso) => Math.round((Date.parse(`${iso}T12:00:00Z`) - Date.parse(`${SCHEDULE_START}T12:00:00Z`)) / 864e5);
+  let order = readJson(ORDER_FILE, null)?.dage;
+  const before = JSON.stringify(order || null);
+  if (!Array.isArray(order) || !order.length) {
+    // første gang: gem den rækkefølge, der allerede er blevet vist, og et helt omløb frem
+    order = [];
+    for (let i = 0; i <= dayIdx(today) + schedKeys.length; i++) order.push(birdForDate(addDays(SCHEDULE_START, i), schedKeys, ready));
+  }
+  // nye arter (med lyd og billede), der ikke findes efter i dag, sættes ind i enden
+  const upcoming = new Set(order.slice(dayIdx(today)));
+  const fresh = schedKeys.filter((k) => !upcoming.has(k));
+  if (fresh.length) order.push(...permutation(fresh, `nye-${order.length}`));
+  // når listen er ved at slippe op, tilføjes et nyt omløb
+  let round = 1;
+  while (order.length < dayIdx(today) + 60) order.push(...permutation(schedKeys, `omloeb-${order.length}-${round++}`));
+  if (JSON.stringify(order) !== before) writeJson(ORDER_FILE, { start: SCHEDULE_START, note: 'Én art pr. dag. Ret aldrig i eksisterende linjer – tilføj kun i enden.', dage: order });
+  const birdOn = (iso) => { const k = order[dayIdx(iso)]; return k && byKey.has(k) ? k : null; };
+
+  const todayKey = birdOn(today);
   const recent = [];
   for (let i = 1; i <= 6; i++) {
     const iso = addDays(today, -i);
-    const k = birdForDate(iso, schedKeys, ready);
+    const k = birdOn(iso);
     if (k) recent.push({ iso, d: byKey.get(k) });
   }
   let homeBody;
@@ -531,7 +555,7 @@ function main() {
     const dayNo = Math.round((Date.parse(`${today}T12:00:00Z`) - Date.parse(`${SCHEDULE_START}T12:00:00Z`)) / 864e5) + 1;
     const kicker = `<p class="kicker">Dagens fugl · <time datetime="${today}">${esc(capFirst(longDate(today)))}</time></p>`;
     homeBody = quizSection(todayBird, today, dayNo)
-      + `<div id="reveal" data-locked>`
+      + `<div id="reveal" data-locked data-nosnippet>`
       + speciesBody(todayBird, { kicker, headingTag: 'h2' })
       + `<aside class="more"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
       + `</div>`
@@ -656,7 +680,7 @@ function main() {
   const arch = [];
   for (let i = 0; i < 60; i++) {
     const iso = addDays(today, -i);
-    const k = birdForDate(iso, schedKeys, ready);
+    const k = birdOn(iso);
     if (k) arch.push(card(byKey.get(k), i === 0 ? 'I dag' : shortDate(iso)));
   }
   write('arkiv/index.html', page({
@@ -861,6 +885,25 @@ ${sorted.filter((d) => d.region !== 'dk').map(line).join('\n')}
 - [Kilder og licenser](${abs('kilder/')})
 - [Privatliv](${abs('privatliv/')})
 `);
+
+  // --- RSS-feed: dagens fugl (uden at afsløre dagens navn) ---
+  {
+    const items = [];
+    for (let i = 0; i < 14; i++) {
+      const iso = addDays(today, -i);
+      const k = birdOn(iso);
+      if (!k) continue;
+      const d = byKey.get(k);
+      const no = dayIdx(iso) + 1;
+      const pub = new Date(`${iso}T05:00:00Z`).toUTCString();
+      if (i === 0) {
+        items.push(`<item><title>Dagens fugl #${no} – kan du gætte den?</title><link>${abs('')}</link><guid isPermaLink="false">dagensfugl-${iso}</guid><pubDate>${pub}</pubDate><description>${esc(`Dagens fugl er klar. Lyt til stemmen, se billedet og gæt hvilken fugl det er – ${capFirst(longDate(iso))}.`)}</description></item>`);
+      } else {
+        items.push(`<item><title>${esc(`Dagens fugl #${no}: ${displayName(d)}`)}</title><link>${abs(speciesUrl(d))}</link><guid isPermaLink="false">dagensfugl-${iso}</guid><pubDate>${pub}</pubDate><description>${esc(d.tekst?.kendetegn || d.wiki?.extract?.split(/(?<=\.)\s/)[0] || '')}</description></item>`);
+      }
+    }
+    write('feed.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${esc(SITE_NAME)}</title><link>${abs('')}</link><description>En ny fugl at gætte hver dag.</description><language>da</language>${items.join('')}</channel></rss>\n`);
+  }
 
   write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${abs('sitemap.xml')}\n`);
   write('.nojekyll', '');

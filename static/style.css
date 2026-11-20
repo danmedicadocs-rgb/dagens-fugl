@@ -1,3 +1,5 @@
+@font-face { font-family: "Fraunces"; src: url("fonts/fraunces.woff2") format("woff2"); font-weight: 300 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("fonts/inter.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: swap; }
 :root {
   --bg: #f6f5f1;
   --surface: #ffffff;
@@ -8,8 +10,9 @@
   --accent-soft: #e4eee8;
   --radius: 10px;
   --wrap: 920px;
-  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
-  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --shadow: 0 1px 2px rgba(29, 33, 31, 0.04), 0 8px 24px rgba(29, 33, 31, 0.06);
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -197,3 +200,88 @@ html:not(.js) .quiz { display: none; }
   .grid figcaption .where { display: none; }
   header.site nav { gap: 16px; }
 }
+
+
+/* ================= Designløft ================= */
+body { font-size: 16.5px; -webkit-font-smoothing: antialiased; }
+h1, h2 { font-optical-sizing: auto; font-weight: 600; letter-spacing: -0.02em; }
+h1 { font-weight: 650; }
+
+/* Header: diskret, klæber til toppen */
+header.site { display: block; max-width: none; padding: 0; position: sticky; top: 0; z-index: 50; background: color-mix(in srgb, var(--bg) 86%, transparent); backdrop-filter: saturate(1.4) blur(10px); -webkit-backdrop-filter: saturate(1.4) blur(10px); border-bottom: 1px solid var(--line); }
+.site-inner { max-width: var(--wrap); margin: 0 auto; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; flex-wrap: wrap; }
+.brand { display: inline-flex; align-items: center; gap: 10px; font-size: 1.2rem; letter-spacing: -0.01em; }
+.brand-mark { width: 30px; height: 30px; color: var(--accent); flex: none; }
+header.site nav { gap: 6px; }
+header.site nav a { padding: 6px 12px; border-radius: 99px; font-weight: 500; font-size: 0.92rem; }
+header.site nav a:hover { background: var(--accent-soft); color: var(--accent); }
+
+/* Sektioner */
+.block { border-top: 0; margin-top: 24px; padding-top: 40px; }
+.block > h2 { display: flex; align-items: center; gap: 12px; }
+.block > h2::before { content: ""; width: 22px; height: 3px; border-radius: 3px; background: var(--accent); flex: none; }
+.kicker { font-size: 0.78rem; letter-spacing: 0.08em; }
+
+/* Billeder */
+figure img, .card img, .card .noimg, .map, .quiz-frame { border-radius: 14px; }
+.hero img { box-shadow: var(--shadow); }
+.species-head { padding-top: 44px; }
+
+/* Kort/oversigter */
+.cards { gap: 26px 20px; }
+.card a { border-radius: 16px; transition: transform 0.18s ease; }
+.card img, .card .noimg { transition: box-shadow 0.18s ease, transform 0.18s ease; }
+.card a:hover img { box-shadow: var(--shadow); transform: translateY(-2px); }
+.card-name { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; letter-spacing: -0.01em; }
+
+/* Knapper og piller */
+.button { padding: 12px 22px; box-shadow: 0 1px 0 rgba(0,0,0,0.04); transition: transform 0.15s ease, opacity 0.15s ease; }
+.button:hover { transform: translateY(-1px); opacity: 1; }
+.jump a { font-weight: 500; }
+
+/* Gætteleg som et kort */
+.quiz { max-width: 720px; margin: 36px auto 0; padding: 28px 28px 24px; background: var(--surface); border: 1px solid var(--line); border-radius: 22px; box-shadow: var(--shadow); }
+.quiz .kicker { margin-top: 0; }
+.quiz h1 { margin-bottom: 6px; }
+.quiz-steps { counter-reset: s; gap: 0; position: relative; }
+.quiz-steps li { border-radius: 0; border: 0; background: transparent; padding: 6px 14px 6px 0; display: inline-flex; align-items: center; gap: 8px; font-weight: 500; }
+.quiz-steps li::before { content: ""; width: 10px; height: 10px; border-radius: 99px; border: 2px solid var(--line); background: var(--surface); }
+.quiz-steps li.now { color: var(--accent); }
+.quiz-steps li.now::before { border-color: var(--accent); background: var(--accent); box-shadow: 0 0 0 4px var(--accent-soft); }
+.quiz-steps li.ok { background: transparent; color: var(--accent); }
+.quiz-steps li.ok::before { border-color: var(--accent); background: var(--accent); }
+.quiz-steps li.used::before { background: var(--line); }
+.quiz-listen { background: var(--bg); border: 0; }
+.quiz-opt { background: var(--bg); border-color: transparent; transition: transform 0.12s ease, border-color 0.12s ease; }
+.quiz-opt:hover:not(:disabled) { transform: translateY(-1px); background: var(--surface); }
+.quiz-stats { margin-top: 8px; }
+#reveal { max-width: var(--wrap); }
+#reveal .species-head { padding-top: 56px; }
+
+/* Footer */
+footer.site { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 28px; padding-top: 40px; margin-top: 40px; }
+footer.site p { margin: 6px 0 0; max-width: 42ch; }
+footer.site strong { font-family: var(--serif); color: var(--text); font-size: 1.1rem; }
+.foot-col { display: flex; flex-direction: column; gap: 6px; }
+.foot-col h4 { margin: 0 0 4px; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text); }
+.foot-col a { color: var(--muted); text-decoration: none; }
+.foot-col a:hover { color: var(--accent); }
+
+@media (max-width: 700px) {
+  .site-inner { padding: 10px 16px; }
+  header.site nav { width: 100%; overflow-x: auto; flex-wrap: nowrap; margin: 0 -6px; }
+  header.site nav a { white-space: nowrap; }
+  .quiz { margin-top: 20px; padding: 20px 16px; border-radius: 18px; }
+  .quiz-opts { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .quiz-opt { font-size: 0.92rem; padding: 12px 8px; }
+  .quiz h1 { font-size: 2rem; }
+  .quiz-listen { padding: 12px; }
+  .quiz-listen-icon { display: none; }
+  .quiz-listen audio { flex: 1 1 100%; min-width: 0; width: 100%; }
+  .quiz-stats .stat strong { font-size: 1.3rem; }
+  footer.site { grid-template-columns: 1fr 1fr; }
+  .foot-brand { grid-column: 1 / -1; }
+}
+.crumbs { margin: 22px 0 0; font-size: 0.85rem; }
+.crumbs a { color: var(--muted); }
+.crumbs + .species .species-head, .crumbs + article .species-head { padding-top: 20px; }
