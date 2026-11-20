@@ -1,0 +1,177 @@
+{
+ "key": "apus-affinis",
+ "name": "Apus affinis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:55:18.907Z",
+ "names": {
+  "da": "Lille Sejler",
+  "en": "Little Swift",
+  "accepted": "Apus affinis"
+ },
+ "wikidata": {
+  "id": "Q611324"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Little swift",
+  "extract": "The little swift is a small species of swift found in Africa and southwestern Asia, and are vagrants and local breeders in southern Europe. They are found both in urban areas and at rocky cliffs where they build nests in a way typical of all members of the order Apodiformes. The genus name Apus is Latin for a swift, thought by the ancients to be a type of swallow without feet. The Latin specific affinis means similar to or related to, but in this case the species that the little swift supposedly resembles is not clear from the description. The eastern subspecies of little swift have sometime been considered as a separated species, the house swift.",
+  "url": "https://en.wikipedia.org/wiki/Little_swift"
+ },
+ "inat": {
+  "id": 6612,
+  "observations": 7276
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 175541035,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175541035/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175541035/large.jpeg",
+    "attribution": "(c) Adedotun Ajibade, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104724657",
+    "place": "Orange Island",
+    "date": "2021-12-27"
+   },
+   {
+    "id": 328116153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/328116153/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/328116153/large.jpeg",
+    "attribution": "(c) Chen Zhiyang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/187602065",
+    "place": "莎阿南",
+    "date": "2023-10-14"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 64414759,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64414759/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64414759/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/40637712",
+    "place": "Buleleng Regency, Bali, Indonesia",
+    "date": "2013-12-26"
+   },
+   {
+    "id": 15436391,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15436391/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/15436391/large.jpg",
+    "attribution": "(c) Ryan van Huyssteen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/10966697",
+    "place": "Fox Odendaal St, Lephalale: Found in shopping centre parking lot.",
+    "date": "2014-02-01"
+   },
+   {
+    "id": 20846993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20846993/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/20846993/large.jpg",
+    "attribution": "(c) Edward Lin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14081420",
+    "place": "台灣屏東縣",
+    "date": "2017-08-13"
+   }
+  ],
+  "hero": {
+   "id": 173576219,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173576219/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/173576219/large.jpg",
+   "attribution": "(c) Niall Perrins, some rights reserved (CC BY-NC), uploaded by Niall Perrins",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/173576219",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5228662,
+  "dkTotal": 23,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   23,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 504870,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 201779
+   },
+   {
+    "code": "ZA",
+    "count": 183351
+   },
+   {
+    "code": "KE",
+    "count": 25755
+   },
+   {
+    "code": "LK",
+    "count": 12520
+   },
+   {
+    "code": "NA",
+    "count": 11204
+   },
+   {
+    "code": "TZ",
+    "count": 7894
+   },
+   {
+    "code": "NG",
+    "count": 6285
+   },
+   {
+    "code": "MA",
+    "count": 6039
+   },
+   {
+    "code": "GH",
+    "count": 5084
+   },
+   {
+    "code": "ZW",
+    "count": 4363
+   },
+   {
+    "code": "UG",
+    "count": 4318
+   },
+   {
+    "code": "ES",
+    "count": 3382
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/45086/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+  "artist": "Rory Nefdt",
+  "page": "https://xeno-canto.org/45086",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

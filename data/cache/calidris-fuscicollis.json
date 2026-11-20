@@ -1,0 +1,167 @@
+{
+ "key": "calidris-fuscicollis",
+ "name": "Calidris fuscicollis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:09.326Z",
+ "names": {
+  "da": "Hvidrygget ryle",
+  "en": "White-rumped Sandpiper",
+  "accepted": "Calidris fuscicollis"
+ },
+ "wikidata": {
+  "id": "Q599749"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidrygget ryle",
+  "extract": "Hvidrygget ryle er en vadefugl, der yngler i det nordlige Canada og Østsibirien. Den overvintrer i Sydamerika og er set nogle få gange i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Hvidrygget_ryle"
+ },
+ "inat": {
+  "id": 3866,
+  "observations": 9544
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 216958715,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216958715/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216958715/large.jpeg",
+    "attribution": "(c) Lindsay Gray Carlson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/127774296",
+    "place": "Prince Charles Island, Nunavut X0A, Canada",
+    "date": "2022-06-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 2660611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2660611/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2660611/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/2389152",
+    "place": "New Jersey, United States",
+    "date": "2010-10-10"
+   },
+   {
+    "id": 746646643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746646643/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746646643/large.jpg",
+    "attribution": "(c) Allison BP, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406398399",
+    "place": "Kyle Ln, Channel-Port aux Basques, NL, CA",
+    "date": "2026-10-06"
+   },
+   {
+    "id": 238390799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/238390799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/238390799/large.jpg",
+    "attribution": "(c) ewransky, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/139384906",
+    "place": "Impound",
+    "date": "2022-10-19"
+   }
+  ],
+  "hero": {
+   "id": 137964615,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/137964615/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/137964615/large.jpeg",
+   "attribution": "(c) Hannah Floyd, some rights reserved (CC BY-NC), uploaded by Hannah Floyd",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/137964615",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481756,
+  "dkTotal": 352,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   57,
+   13,
+   193,
+   84,
+   1,
+   2,
+   0,
+   0
+  ],
+  "worldTotal": 296361,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 166210
+   },
+   {
+    "code": "CA",
+    "count": 71995
+   },
+   {
+    "code": "AR",
+    "count": 16043
+   },
+   {
+    "code": "BR",
+    "count": 5208
+   },
+   {
+    "code": "UY",
+    "count": 4744
+   },
+   {
+    "code": "CL",
+    "count": 3758
+   },
+   {
+    "code": "NL",
+    "count": 2951
+   },
+   {
+    "code": "GB",
+    "count": 2396
+   },
+   {
+    "code": "PT",
+    "count": 2130
+   },
+   {
+    "code": "SE",
+    "count": 1911
+   },
+   {
+    "code": "FK",
+    "count": 1751
+   },
+   {
+    "code": "BM",
+    "count": 1212
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/836099/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Jacob Wijpkema",
+  "page": "https://xeno-canto.org/836099",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

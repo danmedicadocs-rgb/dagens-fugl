@@ -1,0 +1,218 @@
+{
+ "key": "melanitta-deglandi",
+ "name": "Melanitta deglandi",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:30.105Z",
+ "names": {
+  "da": "Amerikansk Fløjlsand",
+  "en": "White-winged Scoter",
+  "accepted": "Melanitta deglandi"
+ },
+ "wikidata": {
+  "id": "Q2020137"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "White-winged scoter",
+  "extract": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist Côme-Damien Degland.",
+  "url": "https://en.wikipedia.org/wiki/White-winged_scoter"
+ },
+ "inat": {
+  "id": 144222,
+  "observations": 12314
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 56053105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56053105/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/56053105/large.jpg",
+    "attribution": "(c) djkelly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/35541319",
+    "place": "Great Britain, Musselburgh, Scotland, GB",
+    "date": "2019-11-10"
+   },
+   {
+    "id": 467908975,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/467908975/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/467908975/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/260540701",
+    "place": "Great Lakes Waterfront Trail, Confederation Park B, Hamilton, ON, Canada",
+    "date": "2025-02-03"
+   },
+   {
+    "id": 615032581,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615032581/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/615032581/large.jpg",
+    "attribution": "(c) brian stahls, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338225719",
+    "place": "Ashbridges Bay Park, Toronto, ON, Canada",
+    "date": "2026-02-11"
+   }
+  ],
+  "female": [
+   {
+    "id": 188420455,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188420455/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188420455/large.jpg",
+    "attribution": "(c) Jing-Yi Lu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/111603118",
+    "place": "Promontory Point, Chicago, IL, USA",
+    "date": "2022-04-12"
+   },
+   {
+    "id": 602945557,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/602945557/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/602945557/large.jpg",
+    "attribution": "(c) Yimo Yang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/332260159",
+    "place": "San Diego, CA",
+    "date": "2025-12-26"
+   },
+   {
+    "id": 343805890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/343805890/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/343805890/large.jpg",
+    "attribution": "(c) peterselmayr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195429440",
+    "place": "Cape Elizabeth, ME, USA",
+    "date": "2023-12-31"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 613944019,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613944019/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613944019/large.jpg",
+    "attribution": "(c) Patrick Coin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/337694352",
+    "place": "Harnett Township, North Carolina, United States",
+    "date": "2026-01-27"
+   },
+   {
+    "id": 498391450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498391450/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498391450/large.jpg",
+    "attribution": "(c) Paul Tavares, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/277564755",
+    "place": "Burlington Bay, Hamilton, ON, Canada",
+    "date": "2025-04-22"
+   },
+   {
+    "id": 73707817,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73707817/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/73707817/large.jpg",
+    "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/46470989",
+    "place": "Colonel Samuel Smith Park, Toronto, ON, Canada",
+    "date": "2014-03-31"
+   }
+  ],
+  "hero": {
+   "id": 185020454,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185020454/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185020454/large.jpg",
+   "attribution": "(c) Steven McGrath, some rights reserved (CC BY-NC), uploaded by Steven McGrath",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/185020454",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498243,
+  "dkTotal": 217,
+  "dkMonths": [
+   9,
+   84,
+   18,
+   0,
+   0,
+   0,
+   0,
+   0,
+   21,
+   77,
+   7,
+   0
+  ],
+  "worldTotal": 653370,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 442095
+   },
+   {
+    "code": "CA",
+    "count": 208891
+   },
+   {
+    "code": "GB",
+    "count": 575
+   },
+   {
+    "code": "IS",
+    "count": 482
+   },
+   {
+    "code": "SE",
+    "count": 277
+   },
+   {
+    "code": "DK",
+    "count": 217
+   },
+   {
+    "code": "RU",
+    "count": 200
+   },
+   {
+    "code": "PM",
+    "count": 128
+   },
+   {
+    "code": "NO",
+    "count": 100
+   },
+   {
+    "code": "MX",
+    "count": 95
+   },
+   {
+    "code": "KR",
+    "count": 45
+   },
+   {
+    "code": "MN",
+    "count": 37
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/181618/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Andrew Spencer",
+  "page": "https://xeno-canto.org/181618",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

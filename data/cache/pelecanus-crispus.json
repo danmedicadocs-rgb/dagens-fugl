@@ -1,0 +1,177 @@
+{
+ "key": "pelecanus-crispus",
+ "name": "Pelecanus crispus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:54:42.387Z",
+ "names": {
+  "da": "Krøltoppet pelikan",
+  "en": "Dalmatian Pelican",
+  "accepted": "Pelecanus crispus"
+ },
+ "wikidata": {
+  "id": "Q184751"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Krøltoppet pelikan",
+  "extract": "Krøltoppet pelikan er en fugl, der lever ved søer, floder og flodmundinger. Dens primære fødekilde er fisk.",
+  "url": "https://da.wikipedia.org/wiki/Kr%C3%B8ltoppet_pelikan"
+ },
+ "inat": {
+  "id": 4333,
+  "observations": 5652
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 610144539,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610144539/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610144539/large.jpg",
+    "attribution": "(c) Sega Black - Sea, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335820387",
+    "place": "Морякам-Черноморцам, Новороссийск, Краснодарский край, Россия, 353905",
+    "date": "2026-01-22"
+   },
+   {
+    "id": 658120517,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658120517/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658120517/large.jpg",
+    "attribution": "(c) Спиридонов Александр Георгиевич, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360660636",
+    "place": "Красноармейский р-н, Челябинская обл., Россия",
+    "date": "2026-05-11"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 177592617,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177592617/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177592617/large.jpeg",
+    "attribution": "(c) Mohammad Amin Ghaffari, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105796297",
+    "place": "Tehran, IR",
+    "date": "2018-06-20"
+   },
+   {
+    "id": 540280278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/540280278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/540280278/large.jpg",
+    "attribution": "(c) cgbb2004, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/299884535",
+    "place": "Nordland, NO",
+    "date": "2025-07-11"
+   },
+   {
+    "id": 263539889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263539889/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263539889/large.jpg",
+    "attribution": "(c) Gabi Rusu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152648673",
+    "place": "Vâlcea, RO",
+    "date": "2022-04-29"
+   }
+  ],
+  "hero": {
+   "id": 466241273,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466241273/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/466241273/large.jpeg",
+   "attribution": "(c) David F. Belmonte, some rights reserved (CC BY), uploaded by David F. Belmonte",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/466241273",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480353,
+  "dkTotal": 82,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   54,
+   0,
+   7,
+   2,
+   0
+  ],
+  "worldTotal": 51725,
+  "topCountries": [
+   {
+    "code": "GR",
+    "count": 11951
+   },
+   {
+    "code": "IN",
+    "count": 8889
+   },
+   {
+    "code": "BG",
+    "count": 6209
+   },
+   {
+    "code": "TR",
+    "count": 5619
+   },
+   {
+    "code": "RO",
+    "count": 4353
+   },
+   {
+    "code": "RU",
+    "count": 2178
+   },
+   {
+    "code": "AL",
+    "count": 1682
+   },
+   {
+    "code": "KZ",
+    "count": 1295
+   },
+   {
+    "code": "SE",
+    "count": 1173
+   },
+   {
+    "code": "IR",
+    "count": 1118
+   },
+   {
+    "code": "CN",
+    "count": 1066
+   },
+   {
+    "code": "ME",
+    "count": 1001
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/331137/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Marco Dragonetti",
+  "page": "https://xeno-canto.org/331137",
+  "type": "alarm call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

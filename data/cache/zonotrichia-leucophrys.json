@@ -1,0 +1,218 @@
+{
+ "key": "zonotrichia-leucophrys",
+ "name": "Zonotrichia leucophrys",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:02:22.886Z",
+ "names": {
+  "da": "Hvidkronet Spurv",
+  "en": null,
+  "accepted": "Zonotrichia leucophrys"
+ },
+ "wikidata": {
+  "id": "Q686673"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "White-crowned sparrow",
+  "extract": "The white-crowned sparrow is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast. While southerly populations in the Rocky Mountains and coast are largely resident, the breeding populations of the northerly part of its range are migratory and can be found as wintering or passage visitors through most of North America south to central Mexico.",
+  "url": "https://en.wikipedia.org/wiki/White-crowned_sparrow"
+ },
+ "inat": {
+  "id": 9176,
+  "observations": 161639
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 662962929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/662962929/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/662962929/large.jpg",
+    "attribution": "(c) b1rb, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/363116835",
+    "place": "Harbor Bay Pkwy, Alameda, CA, US",
+    "date": "2026-05-19"
+   },
+   {
+    "id": 590583354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/590583354/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/590583354/large.jpg",
+    "attribution": "(c) Linda Jo Conn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/326119370",
+    "place": "5365 CR 326, Lexington, Lee Co, TX, USA",
+    "date": "2025-11-11"
+   },
+   {
+    "id": 640529995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/640529995/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/640529995/large.jpg",
+    "attribution": "(c) Linda Jo Conn, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/351027022",
+    "place": "5365 CR 326, Lexington, Lee Co, TX, USA",
+    "date": "2026-04-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 459301449,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/459301449/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/459301449/large.jpg",
+    "attribution": "(c) greyrabbit22, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256204709",
+    "place": "Maricopa County, US-AZ, US",
+    "date": "2024-12-25"
+   },
+   {
+    "id": 410548056,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410548056/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410548056/large.jpeg",
+    "attribution": "(c) pickin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231171283",
+    "place": "Agua Fria National Monument, Black Canyon City, AZ 85324, USA",
+    "date": "2024-02-28"
+   },
+   {
+    "id": 349214360,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349214360/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349214360/large.jpeg",
+    "attribution": "(c) deerly, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198168597",
+    "place": "Maricopa County, US-AZ, US",
+    "date": "2024-02-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 760257460,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/760257460/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/760257460/large.jpg",
+    "attribution": "(c) Adam Hess, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/413105670",
+    "place": "Richmond, UT 84333, USA",
+    "date": "2026-06-28"
+   },
+   {
+    "id": 752066906,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/752066906/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/752066906/large.jpg",
+    "attribution": "(c) Hal, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/409072814",
+    "place": "South Loop District, Bloomington, MN, USA",
+    "date": "2026-10-17"
+   },
+   {
+    "id": 708806452,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/708806452/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/708806452/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/387097393",
+    "place": "Point Lobos State Natural Reserve, Carmel, CA, US",
+    "date": "2026-07-31"
+   }
+  ],
+  "hero": {
+   "id": 27928,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/27928/large.jpg",
+   "attribution": "(c) Mike Baird, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/27928",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5231132,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 6285472,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 5411375
+   },
+   {
+    "code": "CA",
+    "count": 846797
+   },
+   {
+    "code": "MX",
+    "count": 25811
+   },
+   {
+    "code": "GB",
+    "count": 248
+   },
+   {
+    "code": "PM",
+    "count": 177
+   },
+   {
+    "code": "BM",
+    "count": 103
+   },
+   {
+    "code": "CU",
+    "count": 79
+   },
+   {
+    "code": "AR",
+    "count": 66
+   },
+   {
+    "code": "NO",
+    "count": 33
+   },
+   {
+    "code": "BS",
+    "count": 24
+   },
+   {
+    "code": "CO",
+    "count": 21
+   },
+   {
+    "code": "ZZ",
+    "count": 21
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1188713/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Scott Crabtree",
+  "page": "https://xeno-canto.org/1188713",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

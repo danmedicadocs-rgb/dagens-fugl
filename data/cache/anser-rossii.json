@@ -1,0 +1,167 @@
+{
+ "key": "anser-rossii",
+ "name": "Anser rossii",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:09.674Z",
+ "names": {
+  "da": "Dværgsnegås",
+  "en": "Ross's goose",
+  "accepted": "Anser rossii"
+ },
+ "wikidata": {
+  "id": "Q244320"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværgsnegås",
+  "extract": "Dværgsnegås er en andefugl, der lever i nærheden af de nordlige kyster af Canadas og Alaskas tundra.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgsneg%C3%A5s"
+ },
+ "inat": {
+  "id": 558427,
+  "observations": 7795
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 437396984,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/437396984/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/437396984/large.jpeg",
+    "attribution": "(c) Deryl Nethercott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/245146616",
+    "place": "Sarnia, ON, Canada",
+    "date": "2017-10-09"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 457750063,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/457750063/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/457750063/large.jpeg",
+    "attribution": "(c) Christine Beck, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/255426008",
+    "place": "Chula Vista, CA, USA",
+    "date": "2024-12-17"
+   },
+   {
+    "id": 170923868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170923868/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170923868/large.jpg",
+    "attribution": "(c) Alain Maire, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102272533",
+    "place": "Victoriaville, QC, Canada",
+    "date": "2013-10-23"
+   },
+   {
+    "id": 100436506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100436506/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/100436506/large.jpeg",
+    "attribution": "(c) Bonnie Kinder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/62661857",
+    "place": "Hamilton, Ontario, Canada",
+    "date": "2020-10-14"
+   }
+  ],
+  "hero": {
+   "id": 2716452,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2716452/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2716452/large.jpg",
+   "attribution": "(c) Andrew Cannizzaro, some rights reserved (CC BY), uploaded by Andrew Cannizzaro",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/2716452",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498161,
+  "dkTotal": 328,
+  "dkMonths": [
+   0,
+   52,
+   102,
+   8,
+   8,
+   0,
+   34,
+   8,
+   3,
+   10,
+   100,
+   1
+  ],
+  "worldTotal": 198592,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 171188
+   },
+   {
+    "code": "CA",
+    "count": 17305
+   },
+   {
+    "code": "NL",
+    "count": 4989
+   },
+   {
+    "code": "GB",
+    "count": 1647
+   },
+   {
+    "code": "SE",
+    "count": 1135
+   },
+   {
+    "code": "MX",
+    "count": 635
+   },
+   {
+    "code": "DE",
+    "count": 505
+   },
+   {
+    "code": "DK",
+    "count": 328
+   },
+   {
+    "code": "NO",
+    "count": 301
+   },
+   {
+    "code": "BE",
+    "count": 225
+   },
+   {
+    "code": "BM",
+    "count": 48
+   },
+   {
+    "code": "EE",
+    "count": 41
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/452083/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Paul Marvin",
+  "page": "https://xeno-canto.org/452083",
+  "type": "call, flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,187 @@
+{
+ "key": "curruca-subalpina",
+ "name": "Curruca subalpina",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:59:03.395Z",
+ "names": {
+  "da": "Makisanger",
+  "en": null,
+  "accepted": "Curruca subalpina"
+ },
+ "wikidata": {
+  "id": "Q110257513"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Moltoni's warbler",
+  "extract": "Moltoni's warbler is a small bird species belonging to the family Sylviidae, often referred to as the typical warblers. This species is native to Italy and islands of the Tyrrhenian Sea.",
+  "url": "https://en.wikipedia.org/wiki/Moltoni's_warbler"
+ },
+ "inat": {
+  "id": 1289201,
+  "observations": 522
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 205109543,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205109543/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205109543/large.jpg",
+    "attribution": "(c) Carlos Sanchez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/121222514",
+    "place": "Balearic Islands, Spain",
+    "date": "2022-05-11"
+   },
+   {
+    "id": 285178868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/285178868/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/285178868/large.jpeg",
+    "attribution": "(c) Mirko Tomasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/164814785",
+    "place": "27057 Varzi PV, Italia",
+    "date": "2023-05-30"
+   },
+   {
+    "id": 471473341,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/471473341/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/471473341/large.jpg",
+    "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39316527",
+    "place": "Provincia di Pavia, Italia",
+    "date": "2008-05-25"
+   }
+  ],
+  "female": [
+   {
+    "id": 720045249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/720045249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/720045249/large.jpg",
+    "attribution": "(c) DidierLC, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/392873479",
+    "place": "Corse, Santo-Pietro-di-Venaco, Corse, FR",
+    "date": "2026-08-20"
+   },
+   {
+    "id": 62358010,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62358010/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62358010/large.jpg",
+    "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39315730",
+    "place": "Provincia di Pavia, Italia",
+    "date": "2018-06-28"
+   },
+   {
+    "id": 586667263,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586667263/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586667263/large.jpg",
+    "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/324159847",
+    "place": "Provincia di Pavia, Italia",
+    "date": "1988-07-16"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 65423602,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65423602/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65423602/large.jpg",
+   "attribution": "(c) Roberto Ghiglia, some rights reserved (CC BY-NC), uploaded by Roberto Ghiglia",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/65423602",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9478399,
+  "dkTotal": 31,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   31,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 4821,
+  "topCountries": [
+   {
+    "code": "IT",
+    "count": 1763
+   },
+   {
+    "code": "FR",
+    "count": 1691
+   },
+   {
+    "code": "ES",
+    "count": 648
+   },
+   {
+    "code": "SE",
+    "count": 428
+   },
+   {
+    "code": "GB",
+    "count": 82
+   },
+   {
+    "code": "DK",
+    "count": 31
+   },
+   {
+    "code": "DZ",
+    "count": 28
+   },
+   {
+    "code": "DE",
+    "count": 20
+   },
+   {
+    "code": "MA",
+    "count": 16
+   },
+   {
+    "code": "SN",
+    "count": 15
+   },
+   {
+    "code": "TN",
+    "count": 9
+   },
+   {
+    "code": "MR",
+    "count": 8
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1165031/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Zsombor Károlyi",
+  "page": "https://xeno-canto.org/1165031",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

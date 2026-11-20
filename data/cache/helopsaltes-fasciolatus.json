@@ -1,0 +1,128 @@
+{
+ "key": "helopsaltes-fasciolatus",
+ "name": "Helopsaltes fasciolatus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:32.249Z",
+ "names": {
+  "da": "Stor græshoppesanger",
+  "en": null,
+  "accepted": "Helopsaltes fasciolatus"
+ },
+ "wikidata": {
+  "id": "Q62168641"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Gray's grasshopper warbler",
+  "extract": "Gray's grasshopper warbler, also known as Gray's warbler, is a species of bird in the family Locustellidae; it was formerly included in the \"Old World warbler\" assemblage.",
+  "url": "https://en.wikipedia.org/wiki/Gray's_grasshopper_warbler"
+ },
+ "inat": {
+  "id": 1289504,
+  "observations": 99
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 658533381,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/658533381/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/658533381/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36964521",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2018-07-05"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 2645600,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2645600/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2645600/large.jpg",
+   "attribution": "(c) Hiyashi Haka, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/2645600",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 10258717,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 1312,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 435
+   },
+   {
+    "code": "ID",
+    "count": 390
+   },
+   {
+    "code": "CN",
+    "count": 240
+   },
+   {
+    "code": "RU",
+    "count": 169
+   },
+   {
+    "code": "KR",
+    "count": 51
+   },
+   {
+    "code": "MN",
+    "count": 11
+   },
+   {
+    "code": "PH",
+    "count": 9
+   },
+   {
+    "code": "JP",
+    "count": 4
+   },
+   {
+    "code": "UA",
+    "count": 2
+   },
+   {
+    "code": "AU",
+    "count": 1
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1147562/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Peter Boesman",
+  "page": "https://xeno-canto.org/1147562",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

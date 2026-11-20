@@ -1,0 +1,218 @@
+{
+ "key": "plegadis-falcinellus",
+ "name": "Plegadis falcinellus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:54:37.625Z",
+ "names": {
+  "da": "Sort Ibis",
+  "en": "Glossy Ibis",
+  "accepted": "Plegadis falcinellus"
+ },
+ "wikidata": {
+  "id": "Q178811"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Glossy ibis",
+  "extract": "The glossy ibis is a water bird in the order Pelecaniformes and the ibis and spoonbill family Threskiornithidae. The scientific name derives from Ancient Greek plegados and Latin, falcis, both meaning \"sickle\" and referring to the distinctive shape of the bill.",
+  "url": "https://en.wikipedia.org/wiki/Glossy_ibis"
+ },
+ "inat": {
+  "id": 3756,
+  "observations": 41697
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 673148007,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673148007/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673148007/large.jpg",
+    "attribution": "(c) jesus morejon lopez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368547087",
+    "place": "Jimena de la Frontera, Cádiz, ES",
+    "date": "2026-02-08"
+   },
+   {
+    "id": 152385830,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/152385830/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/152385830/large.jpeg",
+    "attribution": "(c) Santosh Dalvi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/92068687",
+    "place": "4QQR+F8V, Pisavre, Maharashtra 412206, India",
+    "date": "2016-01-23"
+   },
+   {
+    "id": 418478595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418478595/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418478595/large.jpeg",
+    "attribution": "(c) Ahmad Tarek, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/235316122",
+    "place": "Al Giza, Giza Governorate 3726304, Egypt",
+    "date": "2024-07-23"
+   }
+  ],
+  "female": [
+   {
+    "id": 171009156,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171009156/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171009156/large.jpeg",
+    "attribution": "(c) Michael Weisensee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102318667",
+    "place": "6893 Palmer Blvd, Sarasota, FL 34240, USA",
+    "date": "2021-12-01"
+   },
+   {
+    "id": 714707570,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/714707570/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/714707570/large.jpg",
+    "attribution": "(c) Sam Hubbard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390135325",
+    "place": "Norwich NR4 7TQ, UK",
+    "date": "2022-04-16"
+   },
+   {
+    "id": 122870478,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122870478/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122870478/large.jpeg",
+    "attribution": "(c) alejamedina, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/75128298",
+    "place": "Tv 129 - DG 77B, Bogotá, Colombia",
+    "date": "2021-04-18"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 65375167,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65375167/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65375167/large.jpg",
+    "attribution": "(c) Bill Keim, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/41221886",
+    "place": "Foord Landing, Delaware, United States",
+    "date": "2011-07-31"
+   },
+   {
+    "id": 110047812,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110047812/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110047812/large.jpeg",
+    "attribution": "(c) Bonnie Kinder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68022834",
+    "place": "Port Hope, ON, Canada",
+    "date": "2016-11-27"
+   },
+   {
+    "id": 635612741,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/635612741/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/635612741/large.jpg",
+    "attribution": "(c) Laurimar Sepulveda, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/348509655",
+    "place": "GJ44+5G9, Lagunillas 5138, Mérida, Venezuela",
+    "date": "2024-07-26"
+   }
+  ],
+  "hero": {
+   "id": 247976267,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247976267/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247976267/large.jpg",
+   "attribution": "(c) Marc Henrion, some rights reserved (CC BY-NC), uploaded by Marc Henrion",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/247976267",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480773,
+  "dkTotal": 2197,
+  "dkMonths": [
+   3,
+   1,
+   190,
+   84,
+   636,
+   246,
+   138,
+   70,
+   353,
+   203,
+   216,
+   52
+  ],
+  "worldTotal": 1369185,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 607071
+   },
+   {
+    "code": "ES",
+    "count": 146954
+   },
+   {
+    "code": "IN",
+    "count": 144915
+   },
+   {
+    "code": "AU",
+    "count": 74801
+   },
+   {
+    "code": "ZA",
+    "count": 71827
+   },
+   {
+    "code": "FR",
+    "count": 45620
+   },
+   {
+    "code": "PT",
+    "count": 40913
+   },
+   {
+    "code": "IL",
+    "count": 40731
+   },
+   {
+    "code": "NL",
+    "count": 25592
+   },
+   {
+    "code": "GB",
+    "count": 11438
+   },
+   {
+    "code": "AE",
+    "count": 8573
+   },
+   {
+    "code": "PR",
+    "count": 7992
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/800221/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/800221",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

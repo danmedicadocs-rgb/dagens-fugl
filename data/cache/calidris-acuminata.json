@@ -1,0 +1,178 @@
+{
+ "key": "calidris-acuminata",
+ "name": "Calidris acuminata",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:35.476Z",
+ "names": {
+  "da": "Spidshalet ryle",
+  "en": "Sharp-tailed Sandpiper",
+  "accepted": "Calidris acuminata"
+ },
+ "wikidata": {
+  "id": "Q753760"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Spidshalet ryle",
+  "extract": "Spidshalet ryle er en vadefugl, der yngler i det nordøstlige Asien. Den overvintrer i Sydøstasien og Australasien, og er kun truffet nogle få gange i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Spidshalet_ryle"
+ },
+ "inat": {
+  "id": 3844,
+  "observations": 5336
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 755659305,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755659305/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755659305/large.jpg",
+    "attribution": "(c) Brendan Casey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410830113",
+    "place": "Forest Creek QLD 4873, Australia",
+    "date": "2026-10-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 755659714,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/755659714/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/755659714/large.jpg",
+    "attribution": "(c) Brendan Casey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410830392",
+    "place": "Forest Creek QLD 4873, Australia",
+    "date": "2026-10-20"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 328530661,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/328530661/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/328530661/large.jpg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/187809309",
+    "place": "Whitehorse, YT, CA",
+    "date": "2023-10-13"
+   },
+   {
+    "id": 582064200,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/582064200/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/582064200/large.jpg",
+    "attribution": "(c) J. Burke Korol, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321820243",
+    "place": "South East Passage, Eastern Passage, NS B3G, Canada",
+    "date": "2025-10-18"
+   },
+   {
+    "id": 307584526,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307584526/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307584526/large.jpg",
+    "attribution": "(c) Senna Bryce Robeson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176890666",
+    "place": "698 N, Muskegon, MI, US",
+    "date": "2019-10-07"
+   }
+  ],
+  "hero": {
+   "id": 447383422,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447383422/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447383422/large.jpg",
+   "attribution": "(c) Samuel Amaris, some rights reserved (CC BY-NC), uploaded by Samuel Amaris",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/447383422",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481769,
+  "dkTotal": 101,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   57,
+   0,
+   43,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 178318,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 128430
+   },
+   {
+    "code": "TW",
+    "count": 20123
+   },
+   {
+    "code": "US",
+    "count": 9961
+   },
+   {
+    "code": "CN",
+    "count": 4945
+   },
+   {
+    "code": "NZ",
+    "count": 3021
+   },
+   {
+    "code": "JP",
+    "count": 1813
+   },
+   {
+    "code": "CA",
+    "count": 1461
+   },
+   {
+    "code": "HK",
+    "count": 1264
+   },
+   {
+    "code": "NL",
+    "count": 1188
+   },
+   {
+    "code": "KR",
+    "count": 940
+   },
+   {
+    "code": "PH",
+    "count": 517
+   },
+   {
+    "code": "SE",
+    "count": 474
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/425083/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Andrew Spencer",
+  "page": "https://xeno-canto.org/425083",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

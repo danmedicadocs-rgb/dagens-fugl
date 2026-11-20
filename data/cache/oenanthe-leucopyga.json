@@ -1,0 +1,218 @@
+{
+ "key": "oenanthe-leucopyga",
+ "name": "Oenanthe leucopyga",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:00:48.731Z",
+ "names": {
+  "da": "Hvidkronet Stenpikker",
+  "en": "White-crowned Wheatear",
+  "accepted": "Oenanthe leucopyga"
+ },
+ "wikidata": {
+  "id": "Q912081"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hvidkronet stenpikker",
+  "extract": "Hvidkronet stenpikker er en lille spurvefugl, der lever i Nordafrika og Mellemøsten. Den blev tidligere regnet som en lille drossel, men anses nu snarere at tilhøre fluesnapper-familien Muscicapidae.",
+  "url": "https://da.wikipedia.org/wiki/Hvidkronet_stenpikker"
+ },
+ "inat": {
+  "id": 12832,
+  "observations": 2010
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 178332645,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178332645/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178332645/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106188954",
+    "place": "Tinzaouten, Algérie",
+    "date": "2022-01-28"
+   },
+   {
+    "id": 13856045,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13856045/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13856045/large.jpg",
+    "attribution": "(c) carnifex, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/10064782",
+    "place": "Wremen, 27638 Wurster Nordseeküste, Deutschland",
+    "date": "2010-10-30"
+   },
+   {
+    "id": 178812353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178812353/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178812353/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106446630",
+    "place": "Tamanrasset, Algérie",
+    "date": "2022-02-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 178812537,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178812537/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178812537/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/106446643",
+    "place": "Tamanrasset, Algérie",
+    "date": "2022-02-01"
+   },
+   {
+    "id": 76207578,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76207578/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/76207578/large.jpg",
+    "attribution": "(c) Karim Haddad, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/48042016",
+    "place": "Idles, Algérie",
+    "date": "2019-10-02"
+   },
+   {
+    "id": 624174611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/624174611/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/624174611/large.jpg",
+    "attribution": "(c) Михаил Голомысов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/342732644",
+    "place": "Errachidia Province, Марокко",
+    "date": "2026-02-25"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 12585649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12585649/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12585649/large.jpeg",
+    "attribution": "(c) iowabiologist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9285362",
+    "place": "Great Sand Sea, south of Siwa, Egypt",
+    "date": "2017-02-05"
+   },
+   {
+    "id": 180068153,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180068153/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180068153/large.jpeg",
+    "attribution": "(c) Mehdi Chetibi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/107103369",
+    "place": "Taghit, DZ-BC, DZ",
+    "date": "2022-01-30"
+   },
+   {
+    "id": 25494921,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25494921/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/25494921/large.jpg",
+    "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16879096",
+    "place": "Tinduf, Argelia",
+    "date": "2010-03-30"
+   }
+  ],
+  "hero": {
+   "id": 116680855,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116680855/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116680855/large.jpeg",
+   "attribution": "(c) Jan Ebr &amp; Ivana Ebrová, some rights reserved (CC BY), uploaded by Jan Ebr &amp; Ivana Ebrová",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/116680855",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5231253,
+  "dkTotal": 104,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   3,
+   100,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 33400,
+  "topCountries": [
+   {
+    "code": "MA",
+    "count": 13623
+   },
+   {
+    "code": "IL",
+    "count": 10368
+   },
+   {
+    "code": "EG",
+    "count": 2217
+   },
+   {
+    "code": "SA",
+    "count": 1355
+   },
+   {
+    "code": "JO",
+    "count": 1340
+   },
+   {
+    "code": "DZ",
+    "count": 937
+   },
+   {
+    "code": "NL",
+    "count": 882
+   },
+   {
+    "code": "PS",
+    "count": 622
+   },
+   {
+    "code": "TN",
+    "count": 376
+   },
+   {
+    "code": "EH",
+    "count": 345
+   },
+   {
+    "code": "MR",
+    "count": 271
+   },
+   {
+    "code": "KW",
+    "count": 226
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1146241/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/1146241",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,218 @@
+{
+ "key": "lanius-cristatus",
+ "name": "Lanius cristatus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:56:46.349Z",
+ "names": {
+  "da": "Brun Tornskade",
+  "en": "Brown Shrike",
+  "accepted": "Lanius cristatus"
+ },
+ "wikidata": {
+  "id": "Q790616"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Brown shrike",
+  "extract": "The brown shrike is a bird in the shrike family that is found mainly in Asia. It is closely related to the red-backed shrike and isabelline shrike. The genus name, Lanius, is derived from the Latin word for \"butcher\", and some shrikes are also known as \"butcher birds\" because of their feeding habits. The specific cristatus is Latin for \"crested\", used in a broader sense than in English. The common English name \"shrike\" is from Old English scríc, \"shriek\", referring to the shrill call.",
+  "url": "https://en.wikipedia.org/wiki/Brown_shrike"
+ },
+ "inat": {
+  "id": 12021,
+  "observations": 16731
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 185795640,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/185795640/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/185795640/large.jpg",
+    "attribution": "(c) Wich’yanan (Jay) Limparungpatthanakij, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/110163693",
+    "place": "Khlong Toei, Bangkok, Thailand",
+    "date": "2022-04-01"
+   },
+   {
+    "id": 451102438,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451102438/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451102438/large.jpeg",
+    "attribution": "(c) lava_chen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252043363",
+    "place": "中正紀念堂, Zhongzheng, Taipei, Taiwan",
+    "date": "2024-11-16"
+   },
+   {
+    "id": 176878138,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176878138/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176878138/large.jpeg",
+    "attribution": "(c) lava_chen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/105421255",
+    "place": "關渡自然公園, Beitou, Taipei, Taiwan",
+    "date": "2022-01-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 538045261,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538045261/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538045261/large.jpg",
+    "attribution": "(c) naturalisttt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/297780983",
+    "place": "Респ. Саха (Якутия), Россия, 678202",
+    "date": "2025-07-14"
+   },
+   {
+    "id": 623146832,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/623146832/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/623146832/large.jpg",
+    "attribution": "(c) ianlrzo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342215558",
+    "place": "Orchard Street, Biñan City, Laguna, PH",
+    "date": "2026-03-10"
+   },
+   {
+    "id": 52101641,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52101641/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52101641/large.jpg",
+    "attribution": "(c) Liu JimFood, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33186969",
+    "place": "台灣屏東縣",
+    "date": "2019-09-21"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 562199700,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/562199700/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/562199700/large.jpg",
+    "attribution": "(c) 维生素, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/311434309",
+    "place": "Qingdao, CN-SD, CN",
+    "date": "2025-09-03"
+   },
+   {
+    "id": 165084579,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165084579/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/165084579/large.jpg",
+    "attribution": "(c) Isuru Ranasingha, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/99073785",
+    "place": "Kahengama, Sri Lanka",
+    "date": "2021-10-23"
+   },
+   {
+    "id": 438759850,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438759850/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438759850/large.jpg",
+    "attribution": "(c) lenisutcliffe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/245839687",
+    "place": "Ayala Westgrove Heights, Silang, Cavite 4118, Philippines",
+    "date": "2024-10-04"
+   }
+  ],
+  "hero": {
+   "id": 472286950,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472286950/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472286950/large.jpg",
+   "attribution": "(c) Илья Уколов, some rights reserved (CC BY-NC), uploaded by Илья Уколов",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/472286950",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2492846,
+  "dkTotal": 376,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   47,
+   323,
+   5
+  ],
+  "worldTotal": 483268,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 195493
+   },
+   {
+    "code": "IN",
+    "count": 119967
+   },
+   {
+    "code": "TH",
+    "count": 44869
+   },
+   {
+    "code": "PH",
+    "count": 31012
+   },
+   {
+    "code": "CN",
+    "count": 17260
+   },
+   {
+    "code": "LK",
+    "count": 13795
+   },
+   {
+    "code": "MY",
+    "count": 11383
+   },
+   {
+    "code": "KH",
+    "count": 9285
+   },
+   {
+    "code": "SG",
+    "count": 8193
+   },
+   {
+    "code": "BD",
+    "count": 3578
+   },
+   {
+    "code": "VN",
+    "count": 3569
+   },
+   {
+    "code": "HK",
+    "count": 3185
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/925090/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Bo Shunqi 薄顺奇",
+  "page": "https://xeno-canto.org/925090",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

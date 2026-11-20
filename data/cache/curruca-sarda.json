@@ -1,0 +1,188 @@
+{
+ "key": "curruca-sarda",
+ "name": "Curruca sarda",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:58:53.377Z",
+ "names": {
+  "da": "Sardinsk sanger",
+  "en": null,
+  "accepted": "Curruca sarda"
+ },
+ "wikidata": {
+  "id": "Q110257519"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sardinsk sanger",
+  "extract": "Sardinsk sanger er en spurvefugl, der lever på Korsika, Sardinien og nærliggende øer.",
+  "url": "https://da.wikipedia.org/wiki/Sardinsk_sanger"
+ },
+ "inat": {
+  "id": 1289468,
+  "observations": 255
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 613967469,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/613967469/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/613967469/large.jpg",
+    "attribution": "(c) Stephen M., some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/337706037",
+    "place": "Blorenge",
+    "date": "2010-06-12"
+   },
+   {
+    "id": 104803693,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104803693/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104803693/large.jpeg",
+    "attribution": "(c) Beat Akeret, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/65139467",
+    "place": "Nuoro, Italien",
+    "date": "2016-04-26"
+   },
+   {
+    "id": 444227075,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/444227075/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/444227075/large.jpg",
+    "attribution": "(c) Mario Lietz-Finkel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/248598197",
+    "place": "Calvi, Frankreich",
+    "date": "2024-05-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 597246255,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597246255/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597246255/large.jpg",
+    "attribution": "(c) Koriba_Rachid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/329478839",
+    "place": "Bouira Lahdab, Algérie",
+    "date": "2021-12-11"
+   },
+   {
+    "id": 622815425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/622815425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/622815425/large.jpg",
+    "attribution": "(c) Georges Olioso, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342051114",
+    "place": "Sassari, Italie",
+    "date": "1980-04-08"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 149669485,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/149669485/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/149669485/large.jpeg",
+    "attribution": "(c) yotajohansen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/90552782",
+    "place": "20218 Popolasca, Frankreich",
+    "date": "2021-08-09"
+   }
+  ],
+  "hero": {
+   "id": 432278800,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432278800/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432278800/large.jpg",
+   "attribution": "(c) ulysse_lafond, some rights reserved (CC BY-NC), uploaded by ulysse_lafond",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/432278800",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2492965,
+  "dkTotal": 50,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   49,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 3978,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 2358
+   },
+   {
+    "code": "IT",
+    "count": 634
+   },
+   {
+    "code": "ES",
+    "count": 332
+   },
+   {
+    "code": "NL",
+    "count": 220
+   },
+   {
+    "code": "GB",
+    "count": 184
+   },
+   {
+    "code": "TN",
+    "count": 80
+   },
+   {
+    "code": "BE",
+    "count": 50
+   },
+   {
+    "code": "DK",
+    "count": 50
+   },
+   {
+    "code": "DZ",
+    "count": 34
+   },
+   {
+    "code": "MA",
+    "count": 7
+   },
+   {
+    "code": "MT",
+    "count": 2
+   },
+   {
+    "code": "AM",
+    "count": 1
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1024728/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Frantz Barrault",
+  "page": "https://xeno-canto.org/1024728",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

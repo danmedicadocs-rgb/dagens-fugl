@@ -1,0 +1,188 @@
+{
+ "key": "thalasseus-elegans",
+ "name": "Thalasseus elegans",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:49.635Z",
+ "names": {
+  "da": "Aztekerterne",
+  "en": "Elegant Tern",
+  "accepted": "Thalasseus elegans"
+ },
+ "wikidata": {
+  "id": "Q524893"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Elegant tern",
+  "extract": "The elegant tern is a tern in the family Laridae. It breeds on the Pacific coast of southern California in the United States and western Mexico, and migrates south to Peru, Ecuador and Chile for the northern winter; in the late summer and fall, some also disperse north to Oregon and more rarely Washington.",
+  "url": "https://en.wikipedia.org/wiki/Elegant_tern"
+ },
+ "inat": {
+  "id": 144542,
+  "observations": 10826
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 567053312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567053312/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567053312/large.jpg",
+    "attribution": "(c) Jose Luis Leon de la Luz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/313977816",
+    "place": "La Paz, B.C.S., México",
+    "date": "2025-09-14"
+   },
+   {
+    "id": 23410537,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23410537/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23410537/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/15687004",
+    "place": "San Diego County, CA, USA",
+    "date": "2018-08-17"
+   }
+  ],
+  "female": [
+   {
+    "id": 170332841,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170332841/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170332841/large.jpg",
+    "attribution": "(c) Thomas Bareyre, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/101952985",
+    "place": "Barbâtre, France",
+    "date": "2021-05-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 556242972,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556242972/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556242972/large.jpg",
+    "attribution": "(c) France Davis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308320745",
+    "place": "Presidio of San Francisco, San Francisco, CA, USA",
+    "date": "2025-08-22"
+   },
+   {
+    "id": 11478054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11478054/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11478054/large.jpeg",
+    "attribution": "(c) Linda Pardy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8588457",
+    "place": "Orange County, CA, USA",
+    "date": "2017-10-27"
+   },
+   {
+    "id": 422542329,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422542329/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422542329/large.jpg",
+    "attribution": "(c) ldjaffe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/237423389",
+    "place": "Corcoran Lagoon, California 95062, USA",
+    "date": "2024-08-22"
+   }
+  ],
+  "hero": {
+   "id": 184077990,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184077990/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184077990/large.jpg",
+   "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/184077990",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481285,
+  "dkTotal": 5,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 172847,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 132166
+   },
+   {
+    "code": "MX",
+    "count": 14694
+   },
+   {
+    "code": "CL",
+    "count": 10607
+   },
+   {
+    "code": "PE",
+    "count": 5417
+   },
+   {
+    "code": "CR",
+    "count": 3493
+   },
+   {
+    "code": "ES",
+    "count": 1617
+   },
+   {
+    "code": "EC",
+    "count": 1597
+   },
+   {
+    "code": "PA",
+    "count": 559
+   },
+   {
+    "code": "FR",
+    "count": 456
+   },
+   {
+    "code": "NI",
+    "count": 409
+   },
+   {
+    "code": "SV",
+    "count": 409
+   },
+   {
+    "code": "GT",
+    "count": 310
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/871346/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "José Dellacasa Bravo",
+  "page": "https://xeno-canto.org/871346",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

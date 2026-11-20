@@ -1,0 +1,198 @@
+{
+ "key": "acrocephalus-agricola",
+ "name": "Acrocephalus agricola",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:25.339Z",
+ "names": {
+  "da": "Lille Rørsanger",
+  "en": null,
+  "accepted": "Acrocephalus agricola"
+ },
+ "wikidata": {
+  "id": "Q827657"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Paddyfield warbler",
+  "extract": "The paddyfield warbler is a species of marsh warbler. It was formerly included in the \"Old World warbler\" assemblage. The Manchurian reed warbler was included in A. agricola as a subspecies.",
+  "url": "https://en.wikipedia.org/wiki/Paddyfield_warbler"
+ },
+ "inat": {
+  "id": 116791,
+  "observations": 2988
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 667293301,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667293301/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667293301/large.jpg",
+    "attribution": "(c) Андрей Радыгин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365488651",
+    "place": "Московский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-05-25"
+   },
+   {
+    "id": 128248559,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128248559/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128248559/large.jpg",
+    "attribution": "(c) Irina Krug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78371051",
+    "place": "Кулундинский р-н, Алтайский край, Россия",
+    "date": "2021-05-08"
+   },
+   {
+    "id": 128249209,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128249209/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128249209/large.jpg",
+    "attribution": "(c) Irina Krug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/78371481",
+    "place": "Кулундинский р-н, Алтайский край, Россия",
+    "date": "2021-05-08"
+   }
+  ],
+  "female": [
+   {
+    "id": 246778636,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246778636/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/246778636/large.jpeg",
+    "attribution": "(c) Сергей Квашнин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/143851649",
+    "place": "Сладковский р-н, Тюменская обл., Россия",
+    "date": "2022-07-12"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 340500592,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340500592/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340500592/large.jpeg",
+    "attribution": "(c) yury-redkin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/193803867",
+    "place": "Калининский р-н, Челябинск, Челябинская обл., Россия",
+    "date": "2019-07-11"
+   },
+   {
+    "id": 546198835,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/546198835/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/546198835/large.jpg",
+    "attribution": "(c) Artem Andryuchshenko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/303052157",
+    "place": "100000 Караганда, Казахстан",
+    "date": "2025-08-02"
+   },
+   {
+    "id": 572737288,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/572737288/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/572737288/large.jpg",
+    "attribution": "(c) shvarevandrey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/316977810",
+    "place": "Ленинский р-н, Челябинск, Челябинская обл., Россия",
+    "date": "2025-09-27"
+   }
+  ],
+  "hero": {
+   "id": 152057555,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/152057555/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/152057555/large.jpeg",
+   "attribution": "(c) Andrew Bazdyrev, some rights reserved (CC BY), uploaded by Andrew Bazdyrev",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/152057555",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2493137,
+  "dkTotal": 195,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   25,
+   77,
+   0,
+   7,
+   4,
+   81,
+   0,
+   0
+  ],
+  "worldTotal": 27617,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 16956
+   },
+   {
+    "code": "RU",
+    "count": 2353
+   },
+   {
+    "code": "UA",
+    "count": 1166
+   },
+   {
+    "code": "KZ",
+    "count": 855
+   },
+   {
+    "code": "MN",
+    "count": 554
+   },
+   {
+    "code": "SE",
+    "count": 523
+   },
+   {
+    "code": "RO",
+    "count": 488
+   },
+   {
+    "code": "TR",
+    "count": 388
+   },
+   {
+    "code": "CN",
+    "count": 347
+   },
+   {
+    "code": "NL",
+    "count": 342
+   },
+   {
+    "code": "AM",
+    "count": 329
+   },
+   {
+    "code": "BD",
+    "count": 321
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1194238/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Nick Sessink",
+  "page": "https://xeno-canto.org/1194238",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

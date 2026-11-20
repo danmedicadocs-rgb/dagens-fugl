@@ -1,0 +1,167 @@
+{
+ "key": "chlamydotis-macqueenii",
+ "name": "Chlamydotis macqueenii",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:49:15.246Z",
+ "names": {
+  "da": "Østlig Kravetrappe",
+  "en": "Macqueen's Bustard",
+  "accepted": "Chlamydotis macqueenii"
+ },
+ "wikidata": {
+  "id": "Q1262382"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Asian houbara",
+  "extract": "The Asian houbara, also known as MacQueen's bustard, is a large bird in the bustard family. It is native to the desert and steppe regions of Asia, east from the Sinai Peninsula extending across Iran and further north toward Kazakhstan and Mongolia. In the 19th century, vagrants were found as far west of their range as Great Britain. Populations have decreased by 20–50% between 1984 and 2004 mainly due to hunting and changes in land-use. The Asian houbara is a partial latitudinal migrant while the African houbara is more sedentary. These two species are the only members of the genus Chlamydotis. The Asian houbara used to be regarded as a subspecies of the African houbara.",
+  "url": "https://en.wikipedia.org/wiki/Asian_houbara"
+ },
+ "inat": {
+  "id": 144471,
+  "observations": 227
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 614754076,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/614754076/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/614754076/large.jpg",
+    "attribution": "(c) amyber, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/338053592",
+    "place": null,
+    "date": "2026-02-10"
+   },
+   {
+    "id": 693022494,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/693022494/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/693022494/large.jpg",
+    "attribution": "(c) kateryna_f, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/378903662",
+    "place": "Dubay, AE",
+    "date": "2024-12-14"
+   },
+   {
+    "id": 515429483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/515429483/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/515429483/large.jpg",
+    "attribution": "(c) shakulafedor, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/286693441",
+    "place": "Otrarskiy, KZ-SK, KZ",
+    "date": "2025-05-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 551674992,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/551674992/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/551674992/large.jpg",
+    "attribution": "(c) Malhaar Dhandha, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305941406",
+    "place": "Gujarat, IN",
+    "date": "2024-10-18"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 512781610,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/512781610/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/512781610/large.jpg",
+   "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA), uploaded by Kudaibergen Amirekul",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/512781610",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2474863,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "worldTotal": 4150,
+  "topCountries": [
+   {
+    "code": "IL",
+    "count": 2393
+   },
+   {
+    "code": "AE",
+    "count": 496
+   },
+   {
+    "code": "KZ",
+    "count": 468
+   },
+   {
+    "code": "UZ",
+    "count": 275
+   },
+   {
+    "code": "IR",
+    "count": 150
+   },
+   {
+    "code": "IN",
+    "count": 63
+   },
+   {
+    "code": "PS",
+    "count": 38
+   },
+   {
+    "code": "CN",
+    "count": 33
+   },
+   {
+    "code": "SA",
+    "count": 25
+   },
+   {
+    "code": "JO",
+    "count": 20
+   },
+   {
+    "code": "SE",
+    "count": 19
+   },
+   {
+    "code": "KW",
+    "count": 18
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1086261/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/1086261",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,168 @@
+{
+ "key": "cecropis-semirufa",
+ "name": "Cecropis semirufa",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:48.571Z",
+ "names": {
+  "da": "Rødbrystet Svale",
+  "en": "Red-breasted Swallow",
+  "accepted": "Cecropis semirufa"
+ },
+ "wikidata": {
+  "id": "Q781535"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-breasted swallow",
+  "extract": "The red-breasted swallow, also known as the rufous-chested swallow, is a member of the family Hirundinidae, found in Sub-Saharan Africa. It is confined to the tropical rainforest during the wet season.",
+  "url": "https://en.wikipedia.org/wiki/Red-breasted_swallow"
+ },
+ "inat": {
+  "id": 144796,
+  "observations": 925
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 307226010,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307226010/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307226010/large.jpg",
+    "attribution": "(c) Blythe Nilson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176695577",
+    "place": "Bariadi, Tanzania",
+    "date": "2023-04-27"
+   }
+  ],
+  "adult": [
+   {
+    "id": 465344929,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465344929/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465344929/large.jpeg",
+    "attribution": "(c) moxcalvitiumtorgos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259254820",
+    "place": "Eastern Shores, iSimangaliso WP",
+    "date": "2025-01-05"
+   },
+   {
+    "id": 308388581,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308388581/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308388581/large.jpeg",
+    "attribution": "(c) moxcalvitiumtorgos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177325842",
+    "place": "Mkhuze GR",
+    "date": "2019-12-31"
+   },
+   {
+    "id": 577740214,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/577740214/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/577740214/large.jpg",
+    "attribution": "(c) Darien Fiorino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/319604430",
+    "place": "Ehlanzeni District Municipality, South Africa",
+    "date": "2025-10-08"
+   }
+  ],
+  "hero": {
+   "id": 70546140,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70546140/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70546140/large.jpg",
+   "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/70546140",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 7342255,
+  "dkTotal": 224,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   224,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 54971,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 41943
+   },
+   {
+    "code": "NA",
+    "count": 3134
+   },
+   {
+    "code": "ZW",
+    "count": 2045
+   },
+   {
+    "code": "UG",
+    "count": 1162
+   },
+   {
+    "code": "BW",
+    "count": 1103
+   },
+   {
+    "code": "ZM",
+    "count": 929
+   },
+   {
+    "code": "KE",
+    "count": 660
+   },
+   {
+    "code": "GH",
+    "count": 488
+   },
+   {
+    "code": "SZ",
+    "count": 375
+   },
+   {
+    "code": "NG",
+    "count": 315
+   },
+   {
+    "code": "CG",
+    "count": 284
+   },
+   {
+    "code": "BJ",
+    "count": 281
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/978977/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Dries Van de Loock",
+  "page": "https://xeno-canto.org/978977",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

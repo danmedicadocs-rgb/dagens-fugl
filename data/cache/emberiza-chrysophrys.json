@@ -1,0 +1,127 @@
+{
+ "key": "emberiza-chrysophrys",
+ "name": "Emberiza chrysophrys",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:01:34.900Z",
+ "names": {
+  "da": "Gulbrynet Værling",
+  "en": "Yellow-browed Bunting",
+  "accepted": "Emberiza chrysophrys"
+ },
+ "wikidata": {
+  "id": "Q589548"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Yellow-browed bunting",
+  "extract": "The yellow-browed bunting is a passerine bird in the family Emberizidae, a group now separated by most modern taxonomists from the finches in the family Fringillidae. It breeds in eastern Russia and winters in southern China",
+  "url": "https://en.wikipedia.org/wiki/Yellow-browed_bunting"
+ },
+ "inat": {
+  "id": 9187,
+  "observations": 0
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
+  "hero": {
+   "id": 26834054,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26834054/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26834054/large.jpeg",
+   "attribution": "(c) Amaël Borzée, some rights reserved (CC BY-NC), uploaded by Amaël Borzée",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/26834054",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2491530,
+  "dkTotal": 99,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   55,
+   44,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 14588,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 5796
+   },
+   {
+    "code": "TW",
+    "count": 2817
+   },
+   {
+    "code": "KR",
+    "count": 2073
+   },
+   {
+    "code": "SE",
+    "count": 1277
+   },
+   {
+    "code": "NL",
+    "count": 1190
+   },
+   {
+    "code": "RU",
+    "count": 375
+   },
+   {
+    "code": "HK",
+    "count": 367
+   },
+   {
+    "code": "JP",
+    "count": 317
+   },
+   {
+    "code": "MN",
+    "count": 120
+   },
+   {
+    "code": "DK",
+    "count": 99
+   },
+   {
+    "code": "GB",
+    "count": 53
+   },
+   {
+    "code": "PH",
+    "count": 38
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1148206/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Lim Ying Hien 林勇贤",
+  "page": "https://xeno-canto.org/1148206",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

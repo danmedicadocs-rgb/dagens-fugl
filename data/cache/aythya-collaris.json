@@ -1,0 +1,218 @@
+{
+ "key": "aythya-collaris",
+ "name": "Aythya collaris",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:40.276Z",
+ "names": {
+  "da": "Halsbåndstroldand",
+  "en": "Ring-necked Duck",
+  "accepted": "Aythya collaris"
+ },
+ "wikidata": {
+  "id": "Q601055"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Ring-necked duck",
+  "extract": "The ring-necked duck is a diving duck from North America commonly found in freshwater ponds and lakes. The scientific name is derived from Greek aithuia, an unidentified seabird mentioned by authors including Hesychius and Aristotle, and Latin collaris, \"of the neck\" from collum, \"neck\".",
+  "url": "https://en.wikipedia.org/wiki/Ring-necked_duck"
+ },
+ "inat": {
+  "id": 7044,
+  "observations": 77401
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 254598036,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/254598036/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/254598036/large.jpeg",
+    "attribution": "(c) Andrea Kreuzhage, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147906377",
+    "place": "Legacy Park, Civic Center Way, Malibu, CA, USA",
+    "date": "2023-01-30"
+   },
+   {
+    "id": 188033032,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/188033032/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/188033032/large.jpeg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/111388945",
+    "place": "Lennox and Addington, CA-ON, CA",
+    "date": "2022-04-13"
+   },
+   {
+    "id": 31057462,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31057462/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31057462/large.jpeg",
+    "attribution": "(c) Bill Blauvelt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20137535",
+    "place": "4550 Mueller Blvd, Austin, TX 78723, USA",
+    "date": "2019-02-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 48863390,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/48863390/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/48863390/large.jpg",
+    "attribution": "(c) Alexander Yakovlev, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/31232749",
+    "place": "Чукотский р-н, Чукотский автономный округ, Россия",
+    "date": "2019-07-29"
+   },
+   {
+    "id": 262482326,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262482326/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262482326/large.jpg",
+    "attribution": "(c) brian stahls, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152075985",
+    "place": "Ashbridge's Bay Park, Toronto, ON, Canada",
+    "date": "2023-03-23"
+   },
+   {
+    "id": 607679693,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607679693/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607679693/large.jpg",
+    "attribution": "(c) James Weaver, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/334604424",
+    "place": "Byrd Park Court Historic District, Richmond, VA, USA",
+    "date": "2026-01-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 586416816,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/586416816/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/586416816/large.jpg",
+    "attribution": "(c) teasle7, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/324039116",
+    "place": "Helston TR13, UK",
+    "date": "2025-10-30"
+   },
+   {
+    "id": 409083663,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409083663/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409083663/large.jpg",
+    "attribution": "(c) François Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/230392673",
+    "place": "Rouyn-Noranda, QC, Canada",
+    "date": "2024-07-19"
+   },
+   {
+    "id": 418870665,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418870665/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418870665/large.jpeg",
+    "attribution": "(c) Mike Masse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/235518417",
+    "place": "Larimer County, CO, USA",
+    "date": "2024-08-12"
+   }
+  ],
+  "hero": {
+   "id": 352276771,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352276771/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352276771/large.jpeg",
+   "attribution": "(c) lonnyholmes, some rights reserved (CC BY-NC), uploaded by lonnyholmes",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/352276771",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498264,
+  "dkTotal": 3335,
+  "dkMonths": [
+   676,
+   1074,
+   563,
+   348,
+   41,
+   0,
+   0,
+   0,
+   31,
+   59,
+   254,
+   288
+  ],
+  "worldTotal": 3315777,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2699229
+   },
+   {
+    "code": "CA",
+    "count": 555655
+   },
+   {
+    "code": "MX",
+    "count": 8863
+   },
+   {
+    "code": "GB",
+    "count": 8131
+   },
+   {
+    "code": "NL",
+    "count": 7298
+   },
+   {
+    "code": "SE",
+    "count": 6830
+   },
+   {
+    "code": "PT",
+    "count": 4845
+   },
+   {
+    "code": "ES",
+    "count": 3355
+   },
+   {
+    "code": "DK",
+    "count": 3335
+   },
+   {
+    "code": "BM",
+    "count": 2532
+   },
+   {
+    "code": "NO",
+    "count": 2163
+   },
+   {
+    "code": "BS",
+    "count": 1431
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1013381/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1013381",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

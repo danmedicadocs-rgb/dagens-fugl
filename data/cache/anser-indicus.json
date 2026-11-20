@@ -1,0 +1,187 @@
+{
+ "key": "anser-indicus",
+ "name": "Anser indicus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:04.746Z",
+ "names": {
+  "da": "Indisk Gås",
+  "en": "Bar-headed goose",
+  "accepted": "Anser indicus"
+ },
+ "wikidata": {
+  "id": "Q191125"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Indisk gås",
+  "extract": "Indisk gås er en gås, som opholder sig i Centralasien i tusinder af kolonier nær søer ved bjerge. Den lægger 3-8 æg i sin rede, som er yndet spise for krager, ræve og havørne.",
+  "url": "https://da.wikipedia.org/wiki/Indisk_g%C3%A5s"
+ },
+ "inat": {
+  "id": 7008,
+  "observations": 6269
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 288862258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/288862258/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/288862258/large.jpg",
+    "attribution": "(c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166791300",
+    "place": "Кош-Агачский р-н, Респ. Алтай, Россия",
+    "date": "2023-05-29"
+   },
+   {
+    "id": 54244557,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244557/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244557/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34463929",
+    "place": "Helgoland, Deutschland",
+    "date": "2019-10-03"
+   },
+   {
+    "id": 351565638,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351565638/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/351565638/large.jpeg",
+    "attribution": "(c) Atul Deokar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/199358862",
+    "place": "Odisha, IN",
+    "date": "2024-02-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 307496289,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307496289/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307496289/large.jpeg",
+    "attribution": "(c) Tristan Jobin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/176845024",
+    "place": "Sabrevois, QC J0J, Canada",
+    "date": "2023-08-05"
+   },
+   {
+    "id": 232853306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/232853306/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/232853306/large.jpeg",
+    "attribution": "(c) Giorgio Elia, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/136436267",
+    "place": "72100 Brindisi BR, Italia",
+    "date": "2022-09-25"
+   },
+   {
+    "id": 214831072,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/214831072/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/214831072/large.jpeg",
+    "attribution": "(c) Andrea Kreuzhage, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/126602941",
+    "place": "Englischer Garten, Munich, Germany",
+    "date": "2022-07-11"
+   }
+  ],
+  "hero": {
+   "id": 151124905,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/151124905/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/151124905/large.jpg",
+   "attribution": "(c) Imran Shah, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/151124905",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498035,
+  "dkTotal": 4028,
+  "dkMonths": [
+   196,
+   193,
+   168,
+   276,
+   587,
+   610,
+   449,
+   638,
+   386,
+   234,
+   150,
+   138
+  ],
+  "worldTotal": 145146,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 40984
+   },
+   {
+    "code": "NL",
+    "count": 24407
+   },
+   {
+    "code": "BE",
+    "count": 21558
+   },
+   {
+    "code": "SE",
+    "count": 20159
+   },
+   {
+    "code": "DE",
+    "count": 7465
+   },
+   {
+    "code": "NO",
+    "count": 5600
+   },
+   {
+    "code": "FR",
+    "count": 4295
+   },
+   {
+    "code": "DK",
+    "count": 4028
+   },
+   {
+    "code": "CN",
+    "count": 3707
+   },
+   {
+    "code": "GB",
+    "count": 3531
+   },
+   {
+    "code": "MN",
+    "count": 2312
+   },
+   {
+    "code": "NP",
+    "count": 1119
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/992921/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Astrid Cervantes",
+  "page": "https://xeno-canto.org/992921",
+  "type": "nocturnal flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

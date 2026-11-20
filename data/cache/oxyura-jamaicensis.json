@@ -1,0 +1,218 @@
+{
+ "key": "oxyura-jamaicensis",
+ "name": "Oxyura jamaicensis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:47:59.868Z",
+ "names": {
+  "da": "Amerikansk Skarveand",
+  "en": "Ruddy Duck",
+  "accepted": "Oxyura jamaicensis"
+ },
+ "wikidata": {
+  "id": "Q647461"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Ruddy duck",
+  "extract": "The ruddy duck is a species of duck, one of six extant species of stiff-tailed duck. In the 1940s, the ruddy duck was introduced to the United Kingdom, where it established a population. Outside the Americas, the ruddy duck is considered a highly invasive species, prompting many countries to initiate culling projects to eradicate it from the native ecosystem.",
+  "url": "https://en.wikipedia.org/wiki/Ruddy_duck"
+ },
+ "inat": {
+  "id": 850859,
+  "observations": 62238
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 477727748,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477727748/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477727748/large.gif",
+    "attribution": "(c) DeanOfHumans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265921188",
+    "place": "Lane County, OR, USA",
+    "date": "2025-03-18"
+   },
+   {
+    "id": 260068406,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260068406/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260068406/large.jpeg",
+    "attribution": "(c) Jorge A. Pérez Torres, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/150786582",
+    "place": "Zoológico de San Juan de Aragón, 07920 Ciudad de México, CDMX, Mexico",
+    "date": "2023-01-22"
+   },
+   {
+    "id": 196250451,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196250451/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196250451/large.jpeg",
+    "attribution": "(c) Jorge A. Pérez Torres, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/116269606",
+    "place": "Zoológico de San Juan de Aragón, 07920 Ciudad de México, CDMX, Mexico",
+    "date": "2022-05-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 243416006,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243416006/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243416006/large.jpg",
+    "attribution": "(c) brian stahls, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/142018607",
+    "place": "Ashbridge's Bay Park, Toronto, ON, Canada",
+    "date": "2022-11-14"
+   },
+   {
+    "id": 472868517,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472868517/medium.gif",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472868517/large.gif",
+    "attribution": "(c) DeanOfHumans, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263238610",
+    "place": "Lane County, OR, USA",
+    "date": "2025-02-26"
+   },
+   {
+    "id": 711306132,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/711306132/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/711306132/large.jpg",
+    "attribution": "(c) sav_vy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/388384337",
+    "place": "Bridlewood, Calgary, AB, Canada",
+    "date": "2026-07-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 549188326,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549188326/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549188326/large.jpg",
+    "attribution": "(c) sundwnr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/304629137",
+    "place": "Castle Downs, Edmonton, AB, Canada",
+    "date": "2025-08-07"
+   },
+   {
+    "id": 448460034,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448460034/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/448460034/large.jpeg",
+    "attribution": "(c) prac_ensenada, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/250716592",
+    "place": "Carlos Pacheco 6, 22898 Ensenada, B.C., México",
+    "date": "2024-11-06"
+   },
+   {
+    "id": 269985444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/269985444/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/269985444/large.jpeg",
+    "attribution": "(c) manoloalvarez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/156154942",
+    "place": "Pista Olímpica Virgilio Uribe, Ciudad de México, CDMX, Mexico",
+    "date": "2023-01-30"
+   }
+  ],
+  "hero": {
+   "id": 399154969,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/399154969/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/399154969/large.jpg",
+   "attribution": "(c) Chris Fisher, some rights reserved (CC BY-NC), uploaded by Chris Fisher",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/399154969",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498305,
+  "dkTotal": 1659,
+  "dkMonths": [
+   42,
+   500,
+   124,
+   113,
+   91,
+   79,
+   88,
+   149,
+   122,
+   165,
+   107,
+   78
+  ],
+  "worldTotal": 2690559,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2389848
+   },
+   {
+    "code": "CA",
+    "count": 197234
+   },
+   {
+    "code": "GB",
+    "count": 33644
+   },
+   {
+    "code": "MX",
+    "count": 32432
+   },
+   {
+    "code": "FR",
+    "count": 6803
+   },
+   {
+    "code": "BE",
+    "count": 5946
+   },
+   {
+    "code": "NL",
+    "count": 5799
+   },
+   {
+    "code": "PR",
+    "count": 3773
+   },
+   {
+    "code": "SE",
+    "count": 2022
+   },
+   {
+    "code": "DK",
+    "count": 1659
+   },
+   {
+    "code": "CO",
+    "count": 1156
+   },
+   {
+    "code": "GT",
+    "count": 1094
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/423355/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Manuel Grosselet",
+  "page": "https://xeno-canto.org/423355",
+  "type": "song, runing on water",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

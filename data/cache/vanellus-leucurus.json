@@ -1,0 +1,178 @@
+{
+ "key": "vanellus-leucurus",
+ "name": "Vanellus leucurus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:50:26.365Z",
+ "names": {
+  "da": "Sumpvibe",
+  "en": "White-tailed Lapwing",
+  "accepted": "Vanellus leucurus"
+ },
+ "wikidata": {
+  "id": "Q827245"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sumpvibe",
+  "extract": "Sumpviben er en fugleart i slægten viber. Den er kun få gange set i Danmark som tilfældig gæst fra det vestlige Asien.",
+  "url": "https://da.wikipedia.org/wiki/Sumpvibe"
+ },
+ "inat": {
+  "id": 4860,
+  "observations": 913
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 47945564,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47945564/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47945564/large.jpeg",
+    "attribution": "(c) Jacky Judas, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/30681532",
+    "place": "Dubai - United Arab Emirates",
+    "date": "2019-08-11"
+   },
+   {
+    "id": 676028297,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/676028297/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/676028297/large.jpg",
+    "attribution": "(c) Shahrzad Fattahi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/370066838",
+    "place": "WCWF+H5P, Nazarabad, Iran",
+    "date": "2026-06-07"
+   }
+  ],
+  "adult": [
+   {
+    "id": 87409774,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87409774/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/87409774/large.jpeg",
+    "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/54915753",
+    "place": "Sachana, Gujarat, India",
+    "date": "2018-02-25"
+   },
+   {
+    "id": 707730867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707730867/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707730867/large.jpg",
+    "attribution": "(c) Remco Hofland, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/386532481",
+    "place": "Zevenhuizen, Netherlands",
+    "date": "2026-06-22"
+   },
+   {
+    "id": 390014906,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/390014906/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/390014906/large.jpg",
+    "attribution": "(c) Anastasiia Merkulova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/220298907",
+    "place": "Караулбазарский район, Бухара, Узбекистан",
+    "date": "2024-05-15"
+   }
+  ],
+  "hero": {
+   "id": 338982895,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/338982895/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/338982895/large.jpeg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/338982895",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229147,
+  "dkTotal": 241,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   128,
+   30,
+   72,
+   9,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 28616,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 11038
+   },
+   {
+    "code": "AE",
+    "count": 5687
+   },
+   {
+    "code": "IR",
+    "count": 1514
+   },
+   {
+    "code": "KW",
+    "count": 1341
+   },
+   {
+    "code": "SE",
+    "count": 1071
+   },
+   {
+    "code": "IL",
+    "count": 947
+   },
+   {
+    "code": "NL",
+    "count": 918
+   },
+   {
+    "code": "AM",
+    "count": 907
+   },
+   {
+    "code": "GB",
+    "count": 796
+   },
+   {
+    "code": "OM",
+    "count": 563
+   },
+   {
+    "code": "UZ",
+    "count": 548
+   },
+   {
+    "code": "PK",
+    "count": 350
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1094978/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Oscar Campbell",
+  "page": "https://xeno-canto.org/1094978",
+  "type": "call, flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

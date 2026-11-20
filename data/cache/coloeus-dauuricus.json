@@ -1,0 +1,162 @@
+{
+ "key": "coloeus-dauuricus",
+ "name": "Coloeus dauuricus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:56:53.705Z",
+ "names": {
+  "da": "Sibirisk Allike",
+  "en": null,
+  "accepted": "Coloeus dauuricus"
+ },
+ "wikidata": {
+  "id": "Q27075327"
+ },
+ "wiki": null,
+ "inat": {
+  "id": 1578721,
+  "observations": 1366
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 206976890,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/206976890/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/206976890/large.jpeg",
+    "attribution": "(c) Наталия, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/122256759",
+    "place": "Кош-Агачский р-н, Респ. Алтай, Россия",
+    "date": "2022-06-14"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 462954259,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462954259/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462954259/large.jpg",
+    "attribution": "(c) Сергей Кукуев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258066195",
+    "place": "Хорольский р-н, Приморский край, Россия",
+    "date": "2024-05-25"
+   },
+   {
+    "id": 462954306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/462954306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/462954306/large.jpg",
+    "attribution": "(c) Сергей Кукуев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/258066203",
+    "place": "Спасский р-н, Приморский край, Россия",
+    "date": "2024-05-25"
+   },
+   {
+    "id": 166267573,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166267573/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/166267573/large.jpg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/99704451",
+    "place": "中国河南省郑州市金水区",
+    "date": "2021-10-29"
+   }
+  ],
+  "hero": {
+   "id": 6587086,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6587086/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6587086/large.jpg",
+   "attribution": "(c) 贡嘎山@中国野鸟图库, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/6587086",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 6100955,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 12071,
+  "topCountries": [
+   {
+    "code": "CN",
+    "count": 6320
+   },
+   {
+    "code": "MN",
+    "count": 2711
+   },
+   {
+    "code": "RU",
+    "count": 1230
+   },
+   {
+    "code": "JP",
+    "count": 756
+   },
+   {
+    "code": "KR",
+    "count": 584
+   },
+   {
+    "code": "NL",
+    "count": 150
+   },
+   {
+    "code": "TW",
+    "count": 130
+   },
+   {
+    "code": "HK",
+    "count": 59
+   },
+   {
+    "code": "MG",
+    "count": 14
+   },
+   {
+    "code": "KP",
+    "count": 8
+   },
+   {
+    "code": "SE",
+    "count": 6
+   },
+   {
+    "code": "FI",
+    "count": 4
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/411919/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Frank Lambert",
+  "page": "https://xeno-canto.org/411919",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

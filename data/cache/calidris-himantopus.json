@@ -1,0 +1,188 @@
+{
+ "key": "calidris-himantopus",
+ "name": "Calidris himantopus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:42.115Z",
+ "names": {
+  "da": "Klireryle",
+  "en": "Stilt Sandpiper",
+  "accepted": "Calidris himantopus"
+ },
+ "wikidata": {
+  "id": "Q839820"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Klireryle",
+  "extract": "Klireryle er en vadefugl, der yngler i Nordamerikas arktiske tundra. Den overvintrer i det nordlige Sydamerika, og er en sjælden gæst i Europa. Den blev set i Vejlerne i Danmark i 1998.",
+  "url": "https://da.wikipedia.org/wiki/Klireryle"
+ },
+ "inat": {
+  "id": 3850,
+  "observations": 10035
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 45149755,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45149755/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45149755/large.jpeg",
+    "attribution": "(c) Martyn Obbard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/28946477",
+    "place": "Kenora District, ON, Canada",
+    "date": "2004-07-04"
+   },
+   {
+    "id": 49702690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49702690/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/49702690/large.jpeg",
+    "attribution": "(c) Quinten Wiegersma, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/31737008",
+    "place": "Longridge Point, Cochrane District, ON, Canada",
+    "date": "2019-08-23"
+   },
+   {
+    "id": 420939103,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/420939103/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/420939103/large.jpg",
+    "attribution": "(c) Nick Carter, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/236598595",
+    "place": "Strathcona County, AB, Canada",
+    "date": "2024-08-18"
+   }
+  ],
+  "adult": [
+   {
+    "id": 569317932,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/569317932/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/569317932/large.jpg",
+    "attribution": "(c) nancylightfoot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/315163468",
+    "place": "North Fork State Wildlife Refuge, Bloomington, IN 47401, USA",
+    "date": "2025-09-19"
+   },
+   {
+    "id": 470843861,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470843861/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470843861/large.jpeg",
+    "attribution": "(c) Owen Strickland, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/262043975",
+    "place": "Snow Lake, MB R0B 1M0, Canada",
+    "date": "2024-08-03"
+   },
+   {
+    "id": 426158000,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426158000/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426158000/large.jpeg",
+    "attribution": "(c) Pedro Guevara, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239293576",
+    "place": "25325 Coah., México",
+    "date": "2024-09-01"
+   }
+  ],
+  "hero": {
+   "id": 231298,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/231298/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/231298/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/231298",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229400,
+  "dkTotal": 199,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0,
+   194,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 322329,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 246479
+   },
+   {
+    "code": "CA",
+    "count": 36180
+   },
+   {
+    "code": "MX",
+    "count": 5100
+   },
+   {
+    "code": "PR",
+    "count": 4311
+   },
+   {
+    "code": "PE",
+    "count": 2217
+   },
+   {
+    "code": "CR",
+    "count": 2011
+   },
+   {
+    "code": "AR",
+    "count": 1970
+   },
+   {
+    "code": "GP",
+    "count": 1836
+   },
+   {
+    "code": "NL",
+    "count": 1582
+   },
+   {
+    "code": "EC",
+    "count": 1261
+   },
+   {
+    "code": "BQ",
+    "count": 1245
+   },
+   {
+    "code": "VE",
+    "count": 1170
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/76188/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+  "artist": "Doug Hynes",
+  "page": "https://xeno-canto.org/76188",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

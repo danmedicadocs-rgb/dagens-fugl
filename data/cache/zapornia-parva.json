@@ -1,0 +1,114 @@
+{
+ "key": "zapornia-parva",
+ "name": "Zapornia parva",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:49:54.958Z",
+ "names": {
+  "da": "Lille Rørvagtel",
+  "en": "Little Crake",
+  "accepted": "Porzana parva"
+ },
+ "wikidata": {
+  "id": "Q270680"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Little crake",
+  "extract": "The little crake is a very small waterbird of the family Rallidae. parva is Latin for \"small\". This species was long included in the genus Porzana.",
+  "url": "https://en.wikipedia.org/wiki/Little_crake"
+ },
+ "inat": {
+  "id": 183,
+  "observations": 0
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
+  "hero": {
+   "id": 8819,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8819/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8819/large.jpg",
+   "attribution": "(c) Harry Rutherford, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/8819",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2474627,
+  "dkTotal": 395,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   6,
+   164,
+   221,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 32648,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 4998
+   },
+   {
+    "code": "NL",
+    "count": 3710
+   },
+   {
+    "code": "IL",
+    "count": 3286
+   },
+   {
+    "code": "GR",
+    "count": 2012
+   },
+   {
+    "code": "FR",
+    "count": 1667
+   },
+   {
+    "code": "ES",
+    "count": 1381
+   },
+   {
+    "code": "PL",
+    "count": 1341
+   },
+   {
+    "code": "CY",
+    "count": 1310
+   },
+   {
+    "code": "TR",
+    "count": 1295
+   },
+   {
+    "code": "UA",
+    "count": 1055
+   },
+   {
+    "code": "IT",
+    "count": 868
+   },
+   {
+    "code": "BE",
+    "count": 661
+   }
+  ]
+ },
+ "sound": null,
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

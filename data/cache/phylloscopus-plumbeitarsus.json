@@ -1,0 +1,136 @@
+{
+ "key": "phylloscopus-plumbeitarsus",
+ "name": "Phylloscopus plumbeitarsus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:58:37.593Z",
+ "names": {
+  "da": "Østlig Lundsanger",
+  "en": "Two-barred Warbler",
+  "accepted": "Phylloscopus plumbeitarsus"
+ },
+ "wikidata": {
+  "id": "Q10912038"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Two-barred warbler",
+  "extract": "The two-barred warbler is a bird of the leaf warbler family (Phylloscopidae). The species was first described by Robert Swinhoe in 1861. It was formerly included in the \"Old World warbler\" assemblage. It is closely related to the greenish warbler, to which it was formerly considered conspecific.",
+  "url": "https://en.wikipedia.org/wiki/Two-barred_warbler"
+ },
+ "inat": {
+  "id": 367658,
+  "observations": 626
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 601977689,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601977689/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601977689/large.jpg",
+    "attribution": "(c) Sam Hambly, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/331790043",
+    "place": "Khlong Toei, Bangkok, Thailand",
+    "date": "2025-12-23"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 213560301,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213560301/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213560301/large.jpg",
+   "attribution": "(c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC), uploaded by Dmitry Dubikovskiy",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/213560301",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 4408813,
+  "dkTotal": 89,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   89,
+   0,
+   0
+  ],
+  "worldTotal": 21795,
+  "topCountries": [
+   {
+    "code": "TH",
+    "count": 8540
+   },
+   {
+    "code": "CN",
+    "count": 3249
+   },
+   {
+    "code": "KH",
+    "count": 2549
+   },
+   {
+    "code": "HK",
+    "count": 2446
+   },
+   {
+    "code": "NL",
+    "count": 1034
+   },
+   {
+    "code": "VN",
+    "count": 740
+   },
+   {
+    "code": "MN",
+    "count": 629
+   },
+   {
+    "code": "RU",
+    "count": 601
+   },
+   {
+    "code": "LA",
+    "count": 479
+   },
+   {
+    "code": "TW",
+    "count": 315
+   },
+   {
+    "code": "GB",
+    "count": 275
+   },
+   {
+    "code": "MM",
+    "count": 268
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1147714/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Peter Boesman",
+  "page": "https://xeno-canto.org/1147714",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

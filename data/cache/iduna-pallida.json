@@ -1,0 +1,156 @@
+{
+ "key": "iduna-pallida",
+ "name": "Iduna pallida",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:20.209Z",
+ "names": {
+  "da": "Afrikansk Bleg Gulbug",
+  "en": "Eastern Olivaceous Warbler",
+  "accepted": "Iduna pallida"
+ },
+ "wikidata": {
+  "id": "Q14753772"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eastern olivaceous warbler",
+  "extract": "The eastern olivaceous warbler, known simply as the olivaceous warbler when its western relative is referred to as the 'isabelline warbler', is a small passerine bird with drab plumage tones, that is native to the Old World. For the most part it breeds in southeastern Europe, the Middle East and adjacent western Asia, and winters in the northern Afrotropics.",
+  "url": "https://en.wikipedia.org/wiki/Eastern_olivaceous_warbler"
+ },
+ "inat": {
+  "id": 201180,
+  "observations": 1526
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 668822541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668822541/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668822541/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/366285465",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-05-29"
+   },
+   {
+    "id": 670160123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/670160123/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/670160123/large.jpg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/366986936",
+    "place": "4292 Dobri dol, Bulgaria",
+    "date": "2026-05-31"
+   },
+   {
+    "id": 659048208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/659048208/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/659048208/large.jpg",
+    "attribution": "(c) Mathieu Pélissié, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/361133909",
+    "place": "Kodër-Kamëz, Tiranë, Albanie",
+    "date": "2026-05-12"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 1358151,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1358151/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1358151/large.jpg",
+   "attribution": "(c) Ján Svetlík, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/1358151",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5739361,
+  "dkTotal": 80,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   79,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 106407,
+  "topCountries": [
+   {
+    "code": "IL",
+    "count": 27649
+   },
+   {
+    "code": "ES",
+    "count": 17592
+   },
+   {
+    "code": "GR",
+    "count": 13545
+   },
+   {
+    "code": "TR",
+    "count": 12860
+   },
+   {
+    "code": "AE",
+    "count": 6356
+   },
+   {
+    "code": "BG",
+    "count": 4302
+   },
+   {
+    "code": "CY",
+    "count": 3415
+   },
+   {
+    "code": "KE",
+    "count": 2212
+   },
+   {
+    "code": "PS",
+    "count": 1699
+   },
+   {
+    "code": "IR",
+    "count": 1578
+   },
+   {
+    "code": "EG",
+    "count": 1330
+   },
+   {
+    "code": "SA",
+    "count": 1138
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1178080/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "András Schmidt",
+  "page": "https://xeno-canto.org/1178080",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

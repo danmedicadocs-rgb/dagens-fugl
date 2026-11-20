@@ -1,0 +1,188 @@
+{
+ "key": "calidris-subruficollis",
+ "name": "Calidris subruficollis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:54.885Z",
+ "names": {
+  "da": "Prærieløber",
+  "en": "Buff-breasted Sandpiper",
+  "accepted": "Calidris subruficollis"
+ },
+ "wikidata": {
+  "id": "Q27452709"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Prærieløber",
+  "extract": "Prærieløber er en vadefugl, der i Danmark er en meget sjælden gæst fra det arktiske Nordamerika. Den overvintrer normalt i det sydlige Sydamerika. Prærieløber er den eneste art i slægten Tryngites. Nogle forskere har foreslået at flytte arten til en ny slægt kaldet Ereunetes\n.",
+  "url": "https://da.wikipedia.org/wiki/Pr%C3%A6riel%C3%B8ber"
+ },
+ "inat": {
+  "id": 339596,
+  "observations": 3193
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 426166365,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/426166365/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/426166365/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/239195208",
+    "place": "Cantabria, España",
+    "date": "2024-09-01"
+   },
+   {
+    "id": 24887901,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24887901/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/24887901/large.jpg",
+    "attribution": "(c) Andy Lazere, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/16532158",
+    "place": "San Joaquin Marsh, Irvine, CA 92612, USA",
+    "date": "2018-09-14"
+   },
+   {
+    "id": 58589339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58589339/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58589339/large.jpeg",
+    "attribution": "(c) davidthomasnz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37005192",
+    "place": "Canterbury, New Zealand",
+    "date": "2019-12-22"
+   }
+  ],
+  "adult": [
+   {
+    "id": 313827600,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313827600/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313827600/large.jpg",
+    "attribution": "(c) Matthew Thompson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/180188023",
+    "place": "Blaine Ave, Farmington, MN, US",
+    "date": "2023-08-25"
+   },
+   {
+    "id": 182160947,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182160947/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182160947/large.jpeg",
+    "attribution": "(c) Roger A. Morales-Flores, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/108217872",
+    "place": "Changuinola District, Panama",
+    "date": "2021-10-30"
+   },
+   {
+    "id": 438211173,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438211173/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/438211173/large.jpg",
+    "attribution": "(c) David McCorquodale, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/245556736",
+    "place": "Westport, NS B0V, Canada",
+    "date": "2024-09-20"
+   }
+  ],
+  "hero": {
+   "id": 725776328,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/725776328/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/725776328/large.jpg",
+   "attribution": "(c) zachsw, some rights reserved (CC BY-NC), uploaded by zachsw",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/725776328",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 8292425,
+  "dkTotal": 687,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   38,
+   7,
+   65,
+   160,
+   221,
+   195,
+   0,
+   0
+  ],
+  "worldTotal": 90760,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 56849
+   },
+   {
+    "code": "CA",
+    "count": 8206
+   },
+   {
+    "code": "SE",
+    "count": 6530
+   },
+   {
+    "code": "NL",
+    "count": 5158
+   },
+   {
+    "code": "GB",
+    "count": 1918
+   },
+   {
+    "code": "AR",
+    "count": 1895
+   },
+   {
+    "code": "ES",
+    "count": 985
+   },
+   {
+    "code": "BO",
+    "count": 872
+   },
+   {
+    "code": "BR",
+    "count": 799
+   },
+   {
+    "code": "FR",
+    "count": 750
+   },
+   {
+    "code": "AU",
+    "count": 749
+   },
+   {
+    "code": "DK",
+    "count": 687
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/997531/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/997531",
+  "type": "flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

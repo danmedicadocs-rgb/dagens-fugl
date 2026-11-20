@@ -1,0 +1,188 @@
+{
+ "key": "apus-pallidus",
+ "name": "Apus pallidus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:55:25.673Z",
+ "names": {
+  "da": "Gråsejler",
+  "en": "Pallid Swift",
+  "accepted": "Apus pallidus"
+ },
+ "wikidata": {
+  "id": "Q165923"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Pallid swift",
+  "extract": "The pallid swift is a swift. Swifts have very short legs which they use only for clinging to vertical surfaces. The genus name Apus is Latin for a swift, thought by the ancients to be a type of swallow with no feet, and pallidus is Latin for \"pale\". Like other swifts they never settle voluntarily on the ground, but spend most of their lives in the air, living on the insects they catch in their beaks. They drink on the wing.",
+  "url": "https://en.wikipedia.org/wiki/Pallid_swift"
+ },
+ "inat": {
+  "id": 6643,
+  "observations": 4887
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 122201266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122201266/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122201266/large.jpeg",
+    "attribution": "(c) kasikog, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/74745528",
+    "place": "Pueblar",
+    "date": "2017-07-04"
+   },
+   {
+    "id": 290875038,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/290875038/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/290875038/large.jpeg",
+    "attribution": "(c) Darío Calvente Viera, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167879174",
+    "place": "Cercadilla-Medina Azahara, Córdoba, España",
+    "date": "2023-06-17"
+   },
+   {
+    "id": 359984216,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/359984216/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/359984216/large.jpeg",
+    "attribution": "(c) Tyson Lee Holmes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/203722500",
+    "place": "Gibraltar GX11 1AA, Gibraltar",
+    "date": "2021-06-03"
+   }
+  ],
+  "adult": [
+   {
+    "id": 192796753,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/192796753/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/192796753/large.jpg",
+    "attribution": "(c) jjulio2000, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/114151468",
+    "place": "Alicante, España",
+    "date": "2022-04-30"
+   },
+   {
+    "id": 131199009,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131199009/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131199009/large.jpeg",
+    "attribution": "(c) Denis Ivanov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80068036",
+    "place": "Zelenodol'skiy rayon, RU-TT, RU",
+    "date": "2021-05-23"
+   },
+   {
+    "id": 587174881,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/587174881/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/587174881/large.jpg",
+    "attribution": "(c) Rui Daniel Ferreira, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/324416641",
+    "place": "Vila Nova de Gaia, Portugal",
+    "date": "2025-06-16"
+   }
+  ],
+  "hero": {
+   "id": 189184432,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189184432/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/189184432/large.jpg",
+   "attribution": "(c) cog2022, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/189184432",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5228695,
+  "dkTotal": 516,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0,
+   264,
+   244,
+   0
+  ],
+  "worldTotal": 221133,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 83946
+   },
+   {
+    "code": "PT",
+    "count": 47654
+   },
+   {
+    "code": "AE",
+    "count": 18269
+   },
+   {
+    "code": "FR",
+    "count": 11361
+   },
+   {
+    "code": "MA",
+    "count": 8461
+   },
+   {
+    "code": "IL",
+    "count": 8448
+   },
+   {
+    "code": "GR",
+    "count": 7261
+   },
+   {
+    "code": "IT",
+    "count": 5399
+   },
+   {
+    "code": "TR",
+    "count": 4203
+   },
+   {
+    "code": "NL",
+    "count": 3017
+   },
+   {
+    "code": "KW",
+    "count": 2931
+   },
+   {
+    "code": "BG",
+    "count": 2344
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1177745/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Gianluca Congi",
+  "page": "https://xeno-canto.org/1177745",
+  "type": "call, flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

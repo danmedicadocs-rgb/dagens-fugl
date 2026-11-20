@@ -1,0 +1,157 @@
+{
+ "key": "puffinus-lherminieri",
+ "name": "Puffinus lherminieri",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:54:19.368Z",
+ "names": {
+  "da": "Tropeskråpe",
+  "en": "Audubon's Shearwater",
+  "accepted": "Puffinus lherminieri"
+ },
+ "wikidata": {
+  "id": "Q1262671"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Sargasso shearwater",
+  "extract": "The Sargasso shearwater is a small tropical seabird in the petrel family. The only shearwater to nest primarily in the Caribbean, it ranges throughout the western Atlantic during the non-breeding season. Its specific epithet honours the French naturalist Félix Louis L'Herminier.",
+  "url": "https://en.wikipedia.org/wiki/Sargasso_shearwater"
+ },
+ "inat": {
+  "id": 201450,
+  "observations": 685
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 196659068,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/196659068/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/196659068/large.jpg",
+    "attribution": "(c) Ingrid Messbauer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/116499458",
+    "place": "North Atlantic Ocean",
+    "date": "2021-08-07"
+   },
+   {
+    "id": 292059685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/292059685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/292059685/large.jpg",
+    "attribution": "(c) beto_matheus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/168517832",
+    "place": "Straits of Florida, FL, US",
+    "date": "2023-06-11"
+   },
+   {
+    "id": 317721518,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317721518/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317721518/large.jpeg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/182251785",
+    "place": null,
+    "date": "2023-08-28"
+   }
+  ],
+  "hero": {
+   "id": 19483224,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19483224/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19483224/large.jpg",
+   "attribution": "(c) BJ Stacey, some rights reserved (CC BY-NC), uploaded by BJ Stacey",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/19483224",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229361,
+  "dkTotal": 2,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 26756,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 20362
+   },
+   {
+    "code": "RE",
+    "count": 1839
+   },
+   {
+    "code": "BS",
+    "count": 863
+   },
+   {
+    "code": "BM",
+    "count": 490
+   },
+   {
+    "code": "GP",
+    "count": 327
+   },
+   {
+    "code": "TT",
+    "count": 272
+   },
+   {
+    "code": "PT",
+    "count": 184
+   },
+   {
+    "code": "MQ",
+    "count": 173
+   },
+   {
+    "code": "CA",
+    "count": 167
+   },
+   {
+    "code": "MX",
+    "count": 129
+   },
+   {
+    "code": "ZZ",
+    "count": 127
+   },
+   {
+    "code": "PA",
+    "count": 113
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/871522/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "William Mackin",
+  "page": "https://xeno-canto.org/871522",
+  "type": "flight call, nocturnal flight call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

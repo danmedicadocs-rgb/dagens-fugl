@@ -1,0 +1,188 @@
+{
+ "key": "melanitta-stejnegeri",
+ "name": "Melanitta stejnegeri",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:35.408Z",
+ "names": {
+  "da": "Asiatisk fløjlsand",
+  "en": "Stejneger's Scoter",
+  "accepted": "Melanitta stejnegeri"
+ },
+ "wikidata": {
+  "id": "Q55111784"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Stejneger's scoter",
+  "extract": "Stejneger's scoter, also known as the Siberian scoter, is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\".",
+  "url": "https://en.wikipedia.org/wiki/Stejneger's_scoter"
+ },
+ "inat": {
+  "id": 144233,
+  "observations": 851
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 306069654,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306069654/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306069654/large.jpg",
+    "attribution": "(c) Алексей Сальников, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176074059",
+    "place": "Kosh-Agachskiy rayon, Gorno-Altay, Russia",
+    "date": "2023-05-24"
+   },
+   {
+    "id": 117787913,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117787913/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117787913/large.jpg",
+    "attribution": "(c) Gerben ter Haar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72262141",
+    "place": "Kawaguchicho, Choshi, Chiba 288-0001, Japan",
+    "date": "2020-03-05"
+   },
+   {
+    "id": 392757902,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392757902/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/392757902/large.jpeg",
+    "attribution": "(c) Нина Штейнбреннер, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/221763309",
+    "place": "Shirinskiy rayon, RU-KK, RU",
+    "date": "2024-06-09"
+   }
+  ],
+  "female": [
+   {
+    "id": 108429739,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108429739/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108429739/large.jpg",
+    "attribution": "(c) Gerben ter Haar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67155387",
+    "place": "Araoicho, Choshi, Chiba 288-0056, Japan",
+    "date": "2020-03-05"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 117786169,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/117786169/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/117786169/large.jpeg",
+    "attribution": "(c) Gerben ter Haar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72262141",
+    "place": "Kawaguchicho, Choshi, Chiba 288-0001, Japan",
+    "date": "2020-03-05"
+   },
+   {
+    "id": 452479151,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452479151/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452479151/large.jpeg",
+    "attribution": "(c) kindjay, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252741867",
+    "place": "Okinsky District, Buryatia, Russia",
+    "date": "2021-08-11"
+   }
+  ],
+  "hero": {
+   "id": 217058201,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/217058201/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/217058201/large.jpeg",
+   "attribution": "(c) Наталия, some rights reserved (CC BY-NC), uploaded by Наталия",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/217058201",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 10056448,
+  "dkTotal": 940,
+  "dkMonths": [
+   187,
+   351,
+   137,
+   10,
+   0,
+   0,
+   0,
+   0,
+   1,
+   117,
+   39,
+   98
+  ],
+  "worldTotal": 8085,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 1835
+   },
+   {
+    "code": "JP",
+    "count": 1447
+   },
+   {
+    "code": "RU",
+    "count": 944
+   },
+   {
+    "code": "DK",
+    "count": 940
+   },
+   {
+    "code": "MN",
+    "count": 695
+   },
+   {
+    "code": "NO",
+    "count": 558
+   },
+   {
+    "code": "CN",
+    "count": 546
+   },
+   {
+    "code": "KR",
+    "count": 368
+   },
+   {
+    "code": "GB",
+    "count": 270
+   },
+   {
+    "code": "US",
+    "count": 257
+   },
+   {
+    "code": "PL",
+    "count": 74
+   },
+   {
+    "code": "ES",
+    "count": 40
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/833157/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Martin Billard",
+  "page": "https://xeno-canto.org/833157",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

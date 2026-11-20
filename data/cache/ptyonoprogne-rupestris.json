@@ -1,0 +1,177 @@
+{
+ "key": "ptyonoprogne-rupestris",
+ "name": "Ptyonoprogne rupestris",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:42.247Z",
+ "names": {
+  "da": "Klippesvale",
+  "en": "Eurasian Crag Martin",
+  "accepted": "Ptyonoprogne rupestris"
+ },
+ "wikidata": {
+  "id": "Q213216"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eurasian crag martin",
+  "extract": "The Eurasian crag martin or just crag martin is a small passerine bird in the swallow family. It is about 14 cm (5.5 in) long with ash-brown upperparts and paler underparts, and a short, square tail that has distinctive white patches on most of its feathers. It breeds in the mountains of southern Europe, northwestern Africa and across the Palearctic. It can be confused with the three other species in its genus, but is larger with brighter tail spots and different plumage tone. Many European birds are resident, but some northern populations and most Asian breeders are migratory, wintering in northern Africa, the Middle East or India.",
+  "url": "https://en.wikipedia.org/wiki/Eurasian_crag_martin"
+ },
+ "inat": {
+  "id": 144788,
+  "observations": 11769
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 541907585,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541907585/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541907585/large.jpg",
+    "attribution": "(c) Emeline BESSE, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/300751506",
+    "place": "Télésiège de la Vagère, 73700 Bourg-Saint-Maurice, France",
+    "date": "2025-07-24"
+   },
+   {
+    "id": 103748887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103748887/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103748887/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/64523427",
+    "place": "Cádiz, Andalucía, Spain",
+    "date": "2020-10-26"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 305380294,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305380294/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305380294/large.jpeg",
+    "attribution": "(c) Mike G. Rutherford, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/174498035",
+    "place": "7320-190 Castelo de Vide, Portugal",
+    "date": "2023-07-21"
+   },
+   {
+    "id": 507831146,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/507831146/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/507831146/large.jpg",
+    "attribution": "(c) Irene, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/282651786",
+    "place": "Via Manzoni Pescheria, 31100 Treviso TV, Italia",
+    "date": "2025-05-20"
+   },
+   {
+    "id": 410931922,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/410931922/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/410931922/large.jpeg",
+    "attribution": "(c) Gianluca Congi🪶🦆🌲, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/231371015",
+    "place": "87050 Casali del Manco CS, Italia",
+    "date": "2024-07-13"
+   }
+  ],
+  "hero": {
+   "id": 501784601,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/501784601/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/501784601/large.jpg",
+   "attribution": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/501784601",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 4408796,
+  "dkTotal": 14,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   7,
+   0
+  ],
+  "worldTotal": 481890,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 201049
+   },
+   {
+    "code": "FR",
+    "count": 92984
+   },
+   {
+    "code": "PT",
+    "count": 59379
+   },
+   {
+    "code": "CH",
+    "count": 57686
+   },
+   {
+    "code": "IT",
+    "count": 20357
+   },
+   {
+    "code": "GR",
+    "count": 5875
+   },
+   {
+    "code": "AT",
+    "count": 5844
+   },
+   {
+    "code": "TR",
+    "count": 4996
+   },
+   {
+    "code": "BG",
+    "count": 4010
+   },
+   {
+    "code": "IN",
+    "count": 3698
+   },
+   {
+    "code": "MA",
+    "count": 3001
+   },
+   {
+    "code": "AM",
+    "count": 2716
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/904586/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/904586",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

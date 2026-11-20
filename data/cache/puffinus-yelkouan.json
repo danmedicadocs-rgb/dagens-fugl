@@ -1,0 +1,168 @@
+{
+ "key": "puffinus-yelkouan",
+ "name": "Puffinus yelkouan",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:54:12.757Z",
+ "names": {
+  "da": "Middelhavsskråpe",
+  "en": "Yelkouan Shearwater",
+  "accepted": "Puffinus yelkouan"
+ },
+ "wikidata": {
+  "id": "Q511566"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Yelkouan shearwater",
+  "extract": "The yelkouan shearwater, Levantine shearwater or Mediterranean shearwater is a medium-sized shearwater in the seabird family Procellariidae. It was formerly treated as a subspecies of the Manx shearwater.",
+  "url": "https://en.wikipedia.org/wiki/Yelkouan_shearwater"
+ },
+ "inat": {
+  "id": 4109,
+  "observations": 1391
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 549253584,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549253584/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549253584/large.jpg",
+    "attribution": "(c) jellygelletich, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/304662397",
+    "place": "Primorsko-Goranska, HR",
+    "date": "2025-08-07"
+   }
+  ],
+  "adult": [
+   {
+    "id": 212324429,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212324429/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/212324429/large.jpg",
+    "attribution": "(c) Dean Zagorac, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125214368",
+    "place": "Croatia",
+    "date": "2022-07-01"
+   },
+   {
+    "id": 391614118,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/391614118/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/391614118/large.jpg",
+    "attribution": "(c) Yann Geshors, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/221149316",
+    "place": "Valras-Plage, France",
+    "date": "2024-06-07"
+   },
+   {
+    "id": 251930888,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251930888/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251930888/large.jpg",
+    "attribution": "(c) Vincent Candela, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/146524931",
+    "place": "Le Grau-du-Roi, France",
+    "date": "2022-12-29"
+   }
+  ],
+  "hero": {
+   "id": 140249969,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140249969/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/140249969/large.jpeg",
+   "attribution": "(c) Julien Renoult, some rights reserved (CC BY), uploaded by Julien Renoult",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/140249969",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229377,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 30772,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 9489
+   },
+   {
+    "code": "TR",
+    "count": 6008
+   },
+   {
+    "code": "IT",
+    "count": 4017
+   },
+   {
+    "code": "ES",
+    "count": 3827
+   },
+   {
+    "code": "GR",
+    "count": 3304
+   },
+   {
+    "code": "IL",
+    "count": 923
+   },
+   {
+    "code": "BG",
+    "count": 608
+   },
+   {
+    "code": "HR",
+    "count": 479
+   },
+   {
+    "code": "UA",
+    "count": 413
+   },
+   {
+    "code": "GE",
+    "count": 325
+   },
+   {
+    "code": "MT",
+    "count": 197
+   },
+   {
+    "code": "CY",
+    "count": 144
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/973359/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Mathis Baudrin",
+  "page": "https://xeno-canto.org/973359",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

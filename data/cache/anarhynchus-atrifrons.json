@@ -1,0 +1,185 @@
+{
+ "key": "anarhynchus-atrifrons",
+ "name": "Anarhynchus atrifrons",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:50:40.572Z",
+ "names": {
+  "da": null,
+  "en": "Tibetan Sand Plover",
+  "accepted": "Anarhynchus atrifrons"
+ },
+ "wikidata": {
+  "id": "Q114843683"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Tibetan sand plover",
+  "extract": "The Tibetan sand plover is a small wader in the plover family of birds, breeds in Pamir Mountains, Tian Shan, Tibetan Plateau and south Mongolia, winters in east and south Africa, south, east and southeast Asia.",
+  "url": "https://en.wikipedia.org/wiki/Tibetan_sand_plover"
+ },
+ "inat": {
+  "id": 1505780,
+  "observations": 5775
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 460666243,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460666243/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460666243/large.jpg",
+    "attribution": "(c) Dina Nesterkova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/256875662",
+    "place": "оз. Сунгуль",
+    "date": "2024-06-08"
+   }
+  ],
+  "female": [
+   {
+    "id": 567721416,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567721416/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567721416/large.jpg",
+    "attribution": "(c) Arpit_nature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/314323922",
+    "place": "Kashid, Maharashtra, India",
+    "date": "2025-03-06"
+   },
+   {
+    "id": 567721441,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567721441/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567721441/large.jpg",
+    "attribution": "(c) Arpit_nature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/314323924",
+    "place": "Kashid, Maharashtra, India",
+    "date": "2025-03-06"
+   },
+   {
+    "id": 567721479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/567721479/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/567721479/large.jpg",
+    "attribution": "(c) Arpit_nature, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/314323926",
+    "place": "Kashid, Maharashtra, India",
+    "date": "2025-03-06"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 243363218,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243363218/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243363218/large.jpg",
+    "attribution": "(c) Hrishikesh Kadam, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/141990739",
+    "place": "Virar West, Virar, Maharashtra, India",
+    "date": "2021-10-16"
+   },
+   {
+    "id": 610121356,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610121356/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610121356/large.jpg",
+    "attribution": "(c) Tan Kok Hui, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/335809066",
+    "place": "301 Neo Tiew Cres, Sungei Buloh Wetland Reserve, Singapore 718925",
+    "date": "2023-09-09"
+   },
+   {
+    "id": 337349093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/337349093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/337349093/large.jpg",
+    "attribution": "(c) Tan Kok Hui, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/192197858",
+    "place": "Seletar Dam, Singapore",
+    "date": "2021-09-18"
+   }
+  ],
+  "hero": {
+   "id": 500551435,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/500551435/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/500551435/large.jpeg",
+   "attribution": "(c) Геннадий Дякин, some rights reserved (CC BY-NC), uploaded by Геннадий Дякин",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/500551435",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480251,
+  "dkTotal": 302,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   206,
+   67,
+   29,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 825981,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 295485
+   },
+   {
+    "code": "AU",
+    "count": 120260
+   },
+   {
+    "code": "NZ",
+    "count": 75038
+   },
+   {
+    "code": "IN",
+    "count": 31464
+   },
+   {
+    "code": "ZA",
+    "count": 28719
+   },
+   {
+    "code": "MX",
+    "count": 24111
+   },
+   {
+    "code": "AR",
+    "count": 21642
+   },
+   {
+    "code": "CL",
+    "count": 21287
+   },
+   {
+    "code": "TH",
+    "count": 13863
+   },
+   {
+    "code": "CR",
+    "count": 12078
+   },
+   {
+    "code": "BR",
+    "count": 9268
+   },
+   {
+    "code": "PE",
+    "count": 9150
+   }
+  ]
+ },
+ "sound": null,
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

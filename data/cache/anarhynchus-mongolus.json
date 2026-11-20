@@ -1,0 +1,180 @@
+{
+ "key": "anarhynchus-mongolus",
+ "name": "Anarhynchus mongolus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:50:46.182Z",
+ "names": {
+  "da": null,
+  "en": null,
+  "accepted": "Anarhynchus mongolus"
+ },
+ "wikidata": {
+  "id": "Q137161769"
+ },
+ "wiki": null,
+ "inat": {
+  "id": 1505781,
+  "observations": 3423
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 213240398,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/213240398/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/213240398/large.jpeg",
+    "attribution": "(c) ML, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/125725167",
+    "place": "Oregon, US",
+    "date": "2022-07-06"
+   },
+   {
+    "id": 374998969,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/374998969/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/374998969/large.jpeg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212207077",
+    "place": "Chiba, JP",
+    "date": "2024-04-29"
+   },
+   {
+    "id": 252119718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252119718/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252119718/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/146622036",
+    "place": "Providenskiy rayon, RU-CK, RU",
+    "date": "2011-05-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 11099773,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11099773/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11099773/large.jpeg",
+    "attribution": "(c) Daniel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8352928",
+    "place": "Cairns Esplanade, Queensland, Australia",
+    "date": "2017-09-30"
+   },
+   {
+    "id": 374994502,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/374994502/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/374994502/large.jpeg",
+    "attribution": "(c) Se Lena, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/212207076",
+    "place": "Chiba, JP",
+    "date": "2024-04-29"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 730691545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/730691545/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/730691545/large.jpg",
+    "attribution": "(c) zimcana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398326847",
+    "place": "Sakhalin, RU",
+    "date": "2026-09-05"
+   },
+   {
+    "id": 551137105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/551137105/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/551137105/large.jpg",
+    "attribution": "(c) Владимир Власенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/305658567",
+    "place": "Elizovskiy rayon, RU-KQ, RU",
+    "date": "2025-08-12"
+   }
+  ],
+  "hero": {
+   "id": 11099773,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11099773/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11099773/large.jpeg",
+   "attribution": "(c) Daniel, some rights reserved (CC BY-NC), uploaded by Daniel",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/11099773",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480251,
+  "dkTotal": 302,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   206,
+   67,
+   29,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 825981,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 295485
+   },
+   {
+    "code": "AU",
+    "count": 120260
+   },
+   {
+    "code": "NZ",
+    "count": 75038
+   },
+   {
+    "code": "IN",
+    "count": 31464
+   },
+   {
+    "code": "ZA",
+    "count": 28719
+   },
+   {
+    "code": "MX",
+    "count": 24111
+   },
+   {
+    "code": "AR",
+    "count": 21642
+   },
+   {
+    "code": "CL",
+    "count": 21287
+   },
+   {
+    "code": "TH",
+    "count": 13863
+   },
+   {
+    "code": "CR",
+    "count": 12078
+   },
+   {
+    "code": "BR",
+    "count": 9268
+   },
+   {
+    "code": "PE",
+    "count": 9150
+   }
+  ]
+ },
+ "sound": null,
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

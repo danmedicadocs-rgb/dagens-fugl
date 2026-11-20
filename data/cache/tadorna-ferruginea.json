@@ -1,0 +1,218 @@
+{
+ "key": "tadorna-ferruginea",
+ "name": "Tadorna ferruginea",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:15.119Z",
+ "names": {
+  "da": "Rustand",
+  "en": "Ruddy Shelduck",
+  "accepted": "Tadorna ferruginea"
+ },
+ "wikidata": {
+  "id": "Q170723"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rustand",
+  "extract": "Rustand er en fugleart blandt de egentlige andefugle. Den er fortrinsvis udbredt i Asien, men findes også i Europa og Afrika. Rustanden holdes som prydfugl i parker. Den er nært beslægtet med den lidt mindre gravand.",
+  "url": "https://da.wikipedia.org/wiki/Rustand"
+ },
+ "inat": {
+  "id": 7068,
+  "observations": 34328
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 571926999,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571926999/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571926999/large.jpg",
+    "attribution": "(c) Вадим Рыбаков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/316549032",
+    "place": "Заволжский р-н, Тверь, Тверская обл., Россия",
+    "date": "2025-09-25"
+   },
+   {
+    "id": 280349701,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280349701/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/280349701/large.jpg",
+    "attribution": "(c) holycrab, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/162151626",
+    "place": "Northern Administrative Okrug, Moscow, Russia",
+    "date": "2023-05-16"
+   },
+   {
+    "id": 626296081,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/626296081/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/626296081/large.jpg",
+    "attribution": "(c) Вадим Рыбаков, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/343779327",
+    "place": "Пролетарский р-н, Тверь, Тверская обл., Россия",
+    "date": "2026-03-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 731442623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731442623/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731442623/large.jpg",
+    "attribution": "(c) jamesbot, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398712727",
+    "place": "Восточный административный округ, Москва, Россия",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 344806803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/344806803/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/344806803/large.jpg",
+    "attribution": "(c) Jürgen Reichel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/195922789",
+    "place": "33775 Versmold, Deutschland",
+    "date": "2023-03-13"
+   },
+   {
+    "id": 126419632,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126419632/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/126419632/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/77306038",
+    "place": "Китай-город, Москва, Россия",
+    "date": "2021-05-03"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 715044310,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/715044310/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/715044310/large.jpg",
+    "attribution": "(c) Александр Каверин, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/390307498",
+    "place": "Казань, Респ. Татарстан, Россия, 420059",
+    "date": "2026-04-27"
+   },
+   {
+    "id": 85241516,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85241516/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85241516/large.jpg",
+    "attribution": "(c) ivncrtc, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/53589992",
+    "place": "Лиственничная аллея, Москва, Москва, RU",
+    "date": "2020-07-19"
+   },
+   {
+    "id": 385268769,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/385268769/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/385268769/large.jpeg",
+    "attribution": "(c) Антон Алябьев, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/217762318",
+    "place": "Долгопрудный, Московская обл., Россия",
+    "date": "2024-05-21"
+   }
+  ],
+  "hero": {
+   "id": 118676181,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118676181/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118676181/large.jpg",
+   "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/118676181",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498015,
+  "dkTotal": 2507,
+  "dkMonths": [
+   40,
+   39,
+   205,
+   193,
+   447,
+   819,
+   245,
+   256,
+   171,
+   56,
+   23,
+   10
+  ],
+  "worldTotal": 390632,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 81374
+   },
+   {
+    "code": "IN",
+    "count": 69577
+   },
+   {
+    "code": "DE",
+    "count": 36123
+   },
+   {
+    "code": "RU",
+    "count": 33579
+   },
+   {
+    "code": "ES",
+    "count": 26225
+   },
+   {
+    "code": "CN",
+    "count": 18447
+   },
+   {
+    "code": "BE",
+    "count": 16328
+   },
+   {
+    "code": "TR",
+    "count": 15307
+   },
+   {
+    "code": "SE",
+    "count": 8236
+   },
+   {
+    "code": "MN",
+    "count": 7708
+   },
+   {
+    "code": "FR",
+    "count": 7404
+   },
+   {
+    "code": "CH",
+    "count": 7127
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/469799/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Joost van Bruggen",
+  "page": "https://xeno-canto.org/469799",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

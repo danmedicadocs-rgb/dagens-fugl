@@ -1,0 +1,218 @@
+{
+ "key": "larus-glaucescens",
+ "name": "Larus glaucescens",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:53:49.306Z",
+ "names": {
+  "da": "Gråvinget Måge",
+  "en": "Glaucous-winged Gull",
+  "accepted": "Larus glaucescens"
+ },
+ "wikidata": {
+  "id": "Q768140"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Glaucous-winged gull",
+  "extract": "The glaucous-winged gull is a large, white-headed gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific glaucescens is Neo-Latin for \"glaucous\" from the Ancient Greek, glaukos, denoting the grey color of its wings.",
+  "url": "https://en.wikipedia.org/wiki/Glaucous-winged_gull"
+ },
+ "inat": {
+  "id": 4399,
+  "observations": 24476
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 229875238,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229875238/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229875238/large.jpeg",
+    "attribution": "(c) Kay, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/134823656",
+    "place": "Vancouver, BC V6Z 3B7, Canada",
+    "date": "2022-09-12"
+   },
+   {
+    "id": 593413841,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/593413841/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/593413841/large.jpg",
+    "attribution": "(c) Bryan P, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/327539708",
+    "place": "Thurston County, WA, USA",
+    "date": "2025-11-21"
+   },
+   {
+    "id": 74359937,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74359937/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74359937/large.jpg",
+    "attribution": "(c) Michelle, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/46887614",
+    "place": "North Vancouver, BC V7L 1A3, Canada",
+    "date": "2020-05-21"
+   }
+  ],
+  "female": [
+   {
+    "id": 171153176,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171153176/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/171153176/large.jpg",
+    "attribution": "(c) starship, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/102370459",
+    "place": "S J Willis Alternative School, Victoria, BC, CA",
+    "date": "2021-12-02"
+   },
+   {
+    "id": 600164431,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600164431/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600164431/large.jpg",
+    "attribution": "(c) Michael G. Shepard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330908223",
+    "place": "Beacon Hill Park,  Victoria, BC",
+    "date": "2003-02-12"
+   },
+   {
+    "id": 605703290,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605703290/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605703290/large.jpg",
+    "attribution": "(c) Franklin Charles Graham IV, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/333636115",
+    "place": "Mukilteo, WA, USA",
+    "date": "2026-01-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 251743483,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251743483/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/251743483/large.jpeg",
+    "attribution": "(c) Bob, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/146428163",
+    "place": "Vancouver, BC, Canada",
+    "date": "2008-09-16"
+   },
+   {
+    "id": 216047004,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216047004/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216047004/large.jpg",
+    "attribution": "(c) Kevin Krebs, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/127270621",
+    "place": "Greater Vancouver, CA-BC, CA",
+    "date": "2022-07-21"
+   },
+   {
+    "id": 571485386,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571485386/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/571485386/large.jpg",
+    "attribution": "(c) searching4critters, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/316312238",
+    "place": "Front St, Mukilteo, WA, US",
+    "date": "2025-09-23"
+   }
+  ],
+  "hero": {
+   "id": 6533141,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6533141/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/6533141/large.jpeg",
+   "attribution": "(c) Warren Cronan, some rights reserved (CC BY-NC), uploaded by Warren Cronan",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/6533141",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481196,
+  "dkTotal": 307,
+  "dkMonths": [
+   126,
+   154,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1,
+   13,
+   11
+  ],
+  "worldTotal": 1455747,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 862860
+   },
+   {
+    "code": "CA",
+    "count": 587609
+   },
+   {
+    "code": "JP",
+    "count": 2652
+   },
+   {
+    "code": "MX",
+    "count": 1000
+   },
+   {
+    "code": "RU",
+    "count": 625
+   },
+   {
+    "code": "DK",
+    "count": 307
+   },
+   {
+    "code": "NO",
+    "count": 233
+   },
+   {
+    "code": "KR",
+    "count": 140
+   },
+   {
+    "code": "UM",
+    "count": 101
+   },
+   {
+    "code": "GB",
+    "count": 42
+   },
+   {
+    "code": "ZZ",
+    "count": 20
+   },
+   {
+    "code": "IE",
+    "count": 15
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1165186/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "artist": "Rachel Thurman",
+  "page": "https://xeno-canto.org/1165186",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

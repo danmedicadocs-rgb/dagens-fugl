@@ -1,0 +1,218 @@
+{
+ "key": "pluvialis-fulva",
+ "name": "Pluvialis fulva",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:50:14.671Z",
+ "names": {
+  "da": "Sibirisk tundrahjejle",
+  "en": "Pacific Golden Plover",
+  "accepted": "Pluvialis fulva"
+ },
+ "wikidata": {
+  "id": "Q18865"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Sibirisk tundrahjejle",
+  "extract": "Den sibiriske tundrahjejle er en vadefugl, der minder om hjejlen. Arten er relativt sjælden i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Sibirisk_tundrahjejle"
+ },
+ "inat": {
+  "id": 4896,
+  "observations": 19949
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 349176916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349176916/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349176916/large.jpg",
+    "attribution": "(c) andrewm77, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/198149834",
+    "place": "Bethel, AK, US",
+    "date": "2023-05-21"
+   },
+   {
+    "id": 657129552,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657129552/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/657129552/large.jpg",
+    "attribution": "(c) Arthur Yang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/360131425",
+    "place": "Qingshui District, Taichung City, Taiwan",
+    "date": "2026-04-19"
+   },
+   {
+    "id": 369926624,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/369926624/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/369926624/large.jpeg",
+    "attribution": "(c) coanne, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/209048658",
+    "place": "Fraser Coast, QLD, Australia",
+    "date": "2024-04-10"
+   }
+  ],
+  "female": [
+   {
+    "id": 378814128,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/378814128/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/378814128/large.jpg",
+    "attribution": "(c) andrewm77, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/214320772",
+    "place": "Third Ave, Bethel, AK, US",
+    "date": "2024-05-04"
+   },
+   {
+    "id": 133004563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133004563/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/133004563/large.jpeg",
+    "attribution": "(c) Danny Nelson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/81112411",
+    "place": "Bethel County, US-AK, US",
+    "date": "2021-05-30"
+   },
+   {
+    "id": 95982190,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95982190/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95982190/large.jpeg",
+    "attribution": "(c) Bob Martin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/60042449",
+    "place": "Naalehu, HI 96772, USA",
+    "date": "2020-09-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 433398863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433398863/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/433398863/large.jpeg",
+    "attribution": "(c) Sinead Gómez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243074829",
+    "place": "Mexico",
+    "date": "2024-09-07"
+   },
+   {
+    "id": 731763148,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731763148/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731763148/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/398875465",
+    "place": "West Point Grey, Vancouver, BC, Canada",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 356796676,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356796676/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356796676/large.jpeg",
+    "attribution": "(c) Drew T Henderson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/202062403",
+    "place": "2481 Kaanapali Pkwy #1064, Lahaina, HI 96761, USA",
+    "date": "2024-03-02"
+   }
+  ],
+  "hero": {
+   "id": 262432635,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/262432635/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/262432635/large.jpg",
+   "attribution": "(c) Paul Donahue, some rights reserved (CC BY-NC), uploaded by Paul Donahue",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/262432635",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480331,
+  "dkTotal": 414,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   1,
+   57,
+   2,
+   211,
+   106,
+   4,
+   32,
+   0,
+   0
+  ],
+  "worldTotal": 387956,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 127065
+   },
+   {
+    "code": "TW",
+    "count": 70218
+   },
+   {
+    "code": "AU",
+    "count": 61883
+   },
+   {
+    "code": "IN",
+    "count": 25694
+   },
+   {
+    "code": "MN",
+    "count": 13665
+   },
+   {
+    "code": "TH",
+    "count": 10040
+   },
+   {
+    "code": "JP",
+    "count": 6659
+   },
+   {
+    "code": "CN",
+    "count": 5522
+   },
+   {
+    "code": "NZ",
+    "count": 4558
+   },
+   {
+    "code": "PH",
+    "count": 4446
+   },
+   {
+    "code": "LK",
+    "count": 4330
+   },
+   {
+    "code": "MY",
+    "count": 3837
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/992548/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Feather V",
+  "page": "https://xeno-canto.org/992548",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

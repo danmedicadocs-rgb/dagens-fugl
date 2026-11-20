@@ -1,0 +1,218 @@
+{
+ "key": "oxyura-leucocephala",
+ "name": "Oxyura leucocephala",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:47:54.277Z",
+ "names": {
+  "da": "Hvidhovedet Skarveand",
+  "en": "White-headed Duck",
+  "accepted": "Oxyura leucocephala"
+ },
+ "wikidata": {
+  "id": "Q241399"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "White-headed duck",
+  "extract": "The white-headed duck is a small diving duck some 45 cm (18 in) long. The male has a white head with a black crown, a blue bill, and reddish-grey plumage. The female has a dark bill and rather duller colouring. Its breeding habitat is lakes with open water and dense vegetation at the margin. It dives under water and feeds on aquatic vegetation as well as some animal matter. It is more likely to swim away from a perceived threat than to fly. This duck is known from Spain, North Africa, Western Asia and Central Asia. Populations are declining, mostly due to loss of habitat and pollution, and the International Union for Conservation of Nature has rated the bird's status as \"endangered\".",
+  "url": "https://en.wikipedia.org/wiki/White-headed_duck"
+ },
+ "inat": {
+  "id": 7081,
+  "observations": 4681
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 202438986,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202438986/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/202438986/large.jpg",
+    "attribution": "(c) Luca Ghiraldi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/119733439",
+    "place": "Toledo, ES-CM, ES",
+    "date": "2022-05-15"
+   },
+   {
+    "id": 470855695,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470855695/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470855695/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/262051752",
+    "place": "Andalucía, ES",
+    "date": "2025-02-14"
+   },
+   {
+    "id": 180215278,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180215278/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180215278/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107179988",
+    "place": "Andalucía, ES",
+    "date": "2022-02-08"
+   }
+  ],
+  "female": [
+   {
+    "id": 249777781,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249777781/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/249777781/large.jpg",
+    "attribution": "(c) Susanne Vogel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/145421130",
+    "place": "Málaga, ES-AN, ES",
+    "date": "2022-12-29"
+   },
+   {
+    "id": 576830172,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/576830172/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/576830172/large.jpg",
+    "attribution": "(c) Татьяна Пироженко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/319121954",
+    "place": "Crimea, UA",
+    "date": "2025-10-05"
+   },
+   {
+    "id": 296015171,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296015171/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296015171/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/170653052",
+    "place": "Málaga, ES-AN, ES",
+    "date": "2023-05-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 3502520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3502520/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3502520/large.jpg",
+    "attribution": "(c) Daniel Capilla, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/3042123",
+    "place": "Málaga, ES-AN, ES",
+    "date": "2015-07-14"
+   },
+   {
+    "id": 139515334,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/139515334/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/139515334/large.jpg",
+    "attribution": "(c) mohammad javad rostami ahmadvandi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84853208",
+    "place": "East Azarbaijan, IR",
+    "date": "2018-07-17"
+   },
+   {
+    "id": 525089479,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/525089479/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/525089479/large.jpg",
+    "attribution": "(c) franciscopicondiaz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291826391",
+    "place": "Spain",
+    "date": "2025-06-21"
+   }
+  ],
+  "hero": {
+   "id": 109604096,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109604096/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109604096/large.jpg",
+   "attribution": "(c) Otgonbayar Tsend, some rights reserved (CC BY-NC), uploaded by Otgonbayar Tsend",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/109604096",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498302,
+  "dkTotal": 651,
+  "dkMonths": [
+   0,
+   548,
+   101,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 57048,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 39588
+   },
+   {
+    "code": "IL",
+    "count": 3066
+   },
+   {
+    "code": "NL",
+    "count": 2774
+   },
+   {
+    "code": "TR",
+    "count": 2130
+   },
+   {
+    "code": "DZ",
+    "count": 1107
+   },
+   {
+    "code": "RU",
+    "count": 1007
+   },
+   {
+    "code": "KZ",
+    "count": 880
+   },
+   {
+    "code": "MA",
+    "count": 806
+   },
+   {
+    "code": "BE",
+    "count": 682
+   },
+   {
+    "code": "DK",
+    "count": 651
+   },
+   {
+    "code": "AM",
+    "count": 580
+   },
+   {
+    "code": "BG",
+    "count": 490
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/462959/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Geoffrey Monchaux",
+  "page": "https://xeno-canto.org/462959",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,147 @@
+{
+ "key": "vanellus-gregarius",
+ "name": "Vanellus gregarius",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:50:19.699Z",
+ "names": {
+  "da": "Steppevibe",
+  "en": "Sociable Lapwing",
+  "accepted": "Vanellus gregarius"
+ },
+ "wikidata": {
+  "id": "Q279307"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Steppevibe",
+  "extract": "Steppeviben er en fugleart i slægten viber. Fuglen er kun set få gange i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/Steppevibe"
+ },
+ "inat": {
+  "id": 4858,
+  "observations": 316
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 618151634,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618151634/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618151634/large.jpg",
+    "attribution": "(c) Sameer Shaik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/339767091",
+    "place": "Abu Dhabi, AE",
+    "date": "2026-02-21"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 561739561,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/561739561/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/561739561/large.jpg",
+    "attribution": "(c) jeremieb, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/311192088",
+    "place": null,
+    "date": "2025-09-01"
+   }
+  ],
+  "hero": {
+   "id": 320127133,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320127133/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/320127133/large.jpg",
+   "attribution": "(c) Shlomi Levi, some rights reserved (CC BY-NC), uploaded by Shlomi Levi",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/320127133",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5229138,
+  "dkTotal": 120,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   42,
+   0,
+   29,
+   48,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 10579,
+  "topCountries": [
+   {
+    "code": "NL",
+    "count": 3036
+   },
+   {
+    "code": "SE",
+    "count": 1175
+   },
+   {
+    "code": "AE",
+    "count": 1043
+   },
+   {
+    "code": "ES",
+    "count": 845
+   },
+   {
+    "code": "IL",
+    "count": 578
+   },
+   {
+    "code": "FR",
+    "count": 524
+   },
+   {
+    "code": "GB",
+    "count": 492
+   },
+   {
+    "code": "KZ",
+    "count": 367
+   },
+   {
+    "code": "BE",
+    "count": 332
+   },
+   {
+    "code": "OM",
+    "count": 329
+   },
+   {
+    "code": "DE",
+    "count": 231
+   },
+   {
+    "code": "PT",
+    "count": 196
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/566869/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Jarek Matusiak",
+  "page": "https://xeno-canto.org/566869",
+  "type": "flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,167 @@
+{
+ "key": "limnodromus-scolopaceus",
+ "name": "Limnodromus scolopaceus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:08.234Z",
+ "names": {
+  "da": "Langnæbbet sneppeklire",
+  "en": "Long-billed Dowitcher",
+  "accepted": "Limnodromus scolopaceus"
+ },
+ "wikidata": {
+  "id": "Q476350"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Langnæbbet sneppeklire",
+  "extract": "Langnæbbet sneppeklire er en nordamerikansk vadefugl, der kun er set få gange i Danmark. Den blev senest iagttaget i Lille Vildmose i maj 2010, hvor den dog var uheldig at blive taget af først en spurvehøg og senere en ræv\n.",
+  "url": "https://da.wikipedia.org/wiki/Langn%C3%A6bbet_sneppeklire"
+ },
+ "inat": {
+  "id": 3873,
+  "observations": 24120
+ },
+ "photos": {
+  "male": [],
+  "female": [
+   {
+    "id": 143752858,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/143752858/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/143752858/large.jpeg",
+    "attribution": "(c) Sally Anderson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/87216995",
+    "place": "University District, Seattle, WA, USA",
+    "date": "2021-07-10"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 573667098,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/573667098/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/573667098/large.jpg",
+    "attribution": "(c) Yimo Yang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/317468161",
+    "place": "San Joaquin Marsh, Irvine, CA",
+    "date": "2025-09-28"
+   },
+   {
+    "id": 319919542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/319919542/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/319919542/large.jpg",
+    "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/183379649",
+    "place": "Whitehorse, YT, CA",
+    "date": "2023-09-13"
+   },
+   {
+    "id": 431840531,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/431840531/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/431840531/large.jpg",
+    "attribution": "(c) Christopher Lindsey, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/242236507",
+    "place": "Richland, WA, USA",
+    "date": "2024-09-14"
+   }
+  ],
+  "hero": {
+   "id": 412478087,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412478087/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/412478087/large.jpeg",
+   "attribution": "(c) Wendy Feltham, some rights reserved (CC BY-NC), uploaded by Wendy Feltham",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/412478087",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481670,
+  "dkTotal": 1098,
+  "dkMonths": [
+   75,
+   0,
+   18,
+   201,
+   146,
+   33,
+   138,
+   53,
+   155,
+   79,
+   15,
+   184
+  ],
+  "worldTotal": 756220,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 655564
+   },
+   {
+    "code": "CA",
+    "count": 63955
+   },
+   {
+    "code": "MX",
+    "count": 13928
+   },
+   {
+    "code": "NL",
+    "count": 5397
+   },
+   {
+    "code": "GB",
+    "count": 3355
+   },
+   {
+    "code": "SE",
+    "count": 3350
+   },
+   {
+    "code": "TW",
+    "count": 1738
+   },
+   {
+    "code": "DK",
+    "count": 1098
+   },
+   {
+    "code": "BZ",
+    "count": 717
+   },
+   {
+    "code": "JP",
+    "count": 657
+   },
+   {
+    "code": "ES",
+    "count": 637
+   },
+   {
+    "code": "UM",
+    "count": 507
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1046345/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "AUDEVARD Aurélien",
+  "page": "https://xeno-canto.org/1046345",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

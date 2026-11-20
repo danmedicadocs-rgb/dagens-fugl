@@ -1,0 +1,218 @@
+{
+ "key": "melanitta-americana",
+ "name": "Melanitta americana",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:48:20.090Z",
+ "names": {
+  "da": "Amerikansk Sortand",
+  "en": "Black Scoter",
+  "accepted": "Melanitta americana"
+ },
+ "wikidata": {
+  "id": "Q529048"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black scoter",
+  "extract": "The black scoter or American scoter is a large sea duck, 43 to 49 cm in length. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name is from the Latin for \"American\".",
+  "url": "https://en.wikipedia.org/wiki/Black_scoter"
+ },
+ "inat": {
+  "id": 144220,
+  "observations": 10316
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 29354410,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29354410/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29354410/large.jpg",
+    "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/19123755",
+    "place": "Travis County, TX, USA",
+    "date": "2018-12-20"
+   },
+   {
+    "id": 449541954,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449541954/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/449541954/large.jpg",
+    "attribution": "(c) peterselmayr, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/251258464",
+    "place": "Cape Elizabeth, ME, USA",
+    "date": "2024-11-10"
+   },
+   {
+    "id": 109142264,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109142264/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109142264/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/67538721",
+    "place": "Unnamed Road, Bowen Island, BC V0N 1G2, Canada",
+    "date": "2021-01-03"
+   }
+  ],
+  "female": [
+   {
+    "id": 176007124,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176007124/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/176007124/large.jpg",
+    "attribution": "(c) dhjones4, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104967264",
+    "place": "North Atlantic Ocean, NC, US",
+    "date": "2022-01-15"
+   },
+   {
+    "id": 472158396,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/472158396/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/472158396/large.jpg",
+    "attribution": "(c) cjackson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/262882478",
+    "place": "San Diego County, CA, USA",
+    "date": "2025-02-21"
+   },
+   {
+    "id": 296159879,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/296159879/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/296159879/large.jpeg",
+    "attribution": "(c) Cheryl Stinchcomb, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/170728813",
+    "place": "Cape May, NJ 08204, USA",
+    "date": "2023-07-02"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 411596737,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/411596737/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/411596737/large.png",
+    "attribution": "(c) Leo Weiskittel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/231722716",
+    "place": "Gulf Shore Pkwy W lookout, Queens, Prince Edward Island, Canada",
+    "date": "2024-07-24"
+   },
+   {
+    "id": 256324398,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256324398/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/256324398/large.jpeg",
+    "attribution": "(c) wanderingeden, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/148807902",
+    "place": "Cape Elizabeth, ME, USA",
+    "date": "2023-02-13"
+   },
+   {
+    "id": 477154789,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477154789/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477154789/large.jpg",
+    "attribution": "(c) Luis Agosto, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265628505",
+    "place": "Harbor Islands- Long Island, Boston, MA, USA",
+    "date": "2025-03-15"
+   }
+  ],
+  "hero": {
+   "id": 29388209,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29388209/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/29388209/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/29388209",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2498250,
+  "dkTotal": 2906,
+  "dkMonths": [
+   513,
+   470,
+   402,
+   146,
+   44,
+   16,
+   16,
+   32,
+   243,
+   621,
+   259,
+   143
+  ],
+  "worldTotal": 509104,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 386559
+   },
+   {
+    "code": "CA",
+    "count": 108657
+   },
+   {
+    "code": "JP",
+    "count": 6074
+   },
+   {
+    "code": "DK",
+    "count": 2906
+   },
+   {
+    "code": "SE",
+    "count": 1721
+   },
+   {
+    "code": "RU",
+    "count": 713
+   },
+   {
+    "code": "GB",
+    "count": 689
+   },
+   {
+    "code": "NL",
+    "count": 562
+   },
+   {
+    "code": "KR",
+    "count": 262
+   },
+   {
+    "code": "PL",
+    "count": 181
+   },
+   {
+    "code": "PM",
+    "count": 147
+   },
+   {
+    "code": "CN",
+    "count": 103
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1013852/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1013852",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

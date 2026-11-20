@@ -1,0 +1,127 @@
+{
+ "key": "emberiza-bruniceps",
+ "name": "Emberiza bruniceps",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:01:57.823Z",
+ "names": {
+  "da": "Brunhovedet Værling",
+  "en": "Red-headed Bunting",
+  "accepted": "Emberiza bruniceps"
+ },
+ "wikidata": {
+  "id": "Q547159"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-headed bunting",
+  "extract": "The red-headed bunting is a small passerine bird in the Old World bunting family Emberizidae. It breeds in central Asia, including Afghanistan, Iran, Kazakhstan, Kyrgyzstan, Mongolia; Russia, Tajikistan, Turkmenistan, Uzbekistan and China. It is migratory, wintering in India and Bangladesh.",
+  "url": "https://en.wikipedia.org/wiki/Red-headed_bunting"
+ },
+ "inat": {
+  "id": 9215,
+  "observations": 0
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
+  "hero": {
+   "id": 67919730,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67919730/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/67919730/large.jpg",
+   "attribution": "(c) Dr. Raju Kasambe, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/67919730",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2491521,
+  "dkTotal": 4,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0
+  ],
+  "worldTotal": 12128,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 7641
+   },
+   {
+    "code": "KZ",
+    "count": 1867
+   },
+   {
+    "code": "IR",
+    "count": 544
+   },
+   {
+    "code": "KG",
+    "count": 420
+   },
+   {
+    "code": "UZ",
+    "count": 332
+   },
+   {
+    "code": "CN",
+    "count": 225
+   },
+   {
+    "code": "GB",
+    "count": 207
+   },
+   {
+    "code": "TJ",
+    "count": 153
+   },
+   {
+    "code": "AF",
+    "count": 116
+   },
+   {
+    "code": "HK",
+    "count": 75
+   },
+   {
+    "code": "RU",
+    "count": 61
+   },
+   {
+    "code": "PK",
+    "count": 52
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/912612/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Sławomir Karpicki",
+  "page": "https://xeno-canto.org/912612",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

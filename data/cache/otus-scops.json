@@ -1,0 +1,218 @@
+{
+ "key": "otus-scops",
+ "name": "Otus scops",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:55:30.999Z",
+ "names": {
+  "da": "Dværghornugle",
+  "en": "Eurasian Scops Owl",
+  "accepted": "Otus scops"
+ },
+ "wikidata": {
+  "id": "Q171563"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Dværghornugle",
+  "extract": "En dværghornugle  er en ugle med en længde på 19-20 centimeter og et vingefang på 50-54 centimeter.",
+  "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rghornugle"
+ },
+ "inat": {
+  "id": 20244,
+  "observations": 7501
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 253383354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/253383354/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/253383354/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/147270040",
+    "place": "Ζωγράφος, Αττική, GR",
+    "date": "2022-12-14"
+   },
+   {
+    "id": 697495900,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/697495900/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/697495900/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/381209155",
+    "place": "Santander, Cantabria, España",
+    "date": "2026-07-10"
+   },
+   {
+    "id": 127369159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/127369159/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/127369159/large.jpeg",
+    "attribution": "(c) Nurqoja Ersayın, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/77859673",
+    "place": "3 орбита, Алматы, Қазақстан",
+    "date": "2021-05-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 57192561,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57192561/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57192561/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36199047",
+    "place": "Άλσος Νέας Φιλαδελφειας, Νέας Φιλαδέλφειας, Αττική, GR",
+    "date": "2019-11-26"
+   },
+   {
+    "id": 65441616,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65441616/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/65441616/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/41262155",
+    "place": "Κλαζομενών, Καισαριανή, Αττική, GR",
+    "date": "2020-04-02"
+   },
+   {
+    "id": 537968319,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/537968319/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/537968319/large.jpg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/298646335",
+    "place": "Spain",
+    "date": "2025-07-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 425218370,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/425218370/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/425218370/large.jpeg",
+    "attribution": "(c) Álvaro Pérez Pérez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/238825276",
+    "place": "Galicia, ES",
+    "date": "2024-08-20"
+   },
+   {
+    "id": 465306231,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/465306231/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/465306231/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/259233396",
+    "place": "Κρήτη, Ηράκλειο, Κρήτη, GR",
+    "date": "2024-07-15"
+   },
+   {
+    "id": 156875685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156875685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/156875685/large.jpg",
+    "attribution": "(c) Aleksey Levashkin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/94562705",
+    "place": "Nizhegorod, RU",
+    "date": "2021-08-01"
+   }
+  ],
+  "hero": {
+   "id": 32019292,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/32019292/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/32019292/large.jpg",
+   "attribution": "(c) naturpel, some rights reserved (CC BY-NC), uploaded by naturpel",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/32019292",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2497701,
+  "dkTotal": 120,
+  "dkMonths": [
+   1,
+   0,
+   0,
+   0,
+   4,
+   110,
+   0,
+   0,
+   0,
+   0,
+   3,
+   0
+  ],
+  "worldTotal": 151758,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 61138
+   },
+   {
+    "code": "FR",
+    "count": 39972
+   },
+   {
+    "code": "GR",
+    "count": 7731
+   },
+   {
+    "code": "IT",
+    "count": 7221
+   },
+   {
+    "code": "IL",
+    "count": 4710
+   },
+   {
+    "code": "TR",
+    "count": 3368
+   },
+   {
+    "code": "PT",
+    "count": 2779
+   },
+   {
+    "code": "CH",
+    "count": 2732
+   },
+   {
+    "code": "BG",
+    "count": 2682
+   },
+   {
+    "code": "NL",
+    "count": 2122
+   },
+   {
+    "code": "HR",
+    "count": 1838
+   },
+   {
+    "code": "AE",
+    "count": 1474
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1011968/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "artist": "Lionel TRIBOULIN",
+  "page": "https://xeno-canto.org/1011968",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

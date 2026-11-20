@@ -1,0 +1,218 @@
+{
+ "key": "iduna-caligata",
+ "name": "Iduna caligata",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:15.397Z",
+ "names": {
+  "da": "Lille Gulbug",
+  "en": null,
+  "accepted": "Iduna caligata"
+ },
+ "wikidata": {
+  "id": "Q757116"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Booted warbler",
+  "extract": "The booted warbler is a species of passerine bird belonging to the family Acrocephalidae, the reed and tree warblers. This species breeds in Eastern Europe and western Asia, wintering in south Asia. it is a regular vagrant to Western Europe.",
+  "url": "https://en.wikipedia.org/wiki/Booted_warbler"
+ },
+ "inat": {
+  "id": 201178,
+  "observations": 7420
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 31335388,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31335388/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31335388/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/20296954",
+    "place": "Топорня, Вологодская обл., Россия",
+    "date": "2017-07-11"
+   },
+   {
+    "id": 30817305,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30817305/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/30817305/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/19970223",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2017-06-03"
+   },
+   {
+    "id": 40879643,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/40879643/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/40879643/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26331083",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2019-06-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 389048944,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389048944/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389048944/large.jpg",
+    "attribution": "(c) Alexey Katz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/219784210",
+    "place": "Ramensky District, Moscow Oblast, Russia",
+    "date": "2024-05-29"
+   },
+   {
+    "id": 520055246,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520055246/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520055246/large.jpg",
+    "attribution": "(c) Alexey Katz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/289162028",
+    "place": "Lubertsy Urban District, Moscow Oblast, Russia",
+    "date": "2025-06-11"
+   },
+   {
+    "id": 669059540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/669059540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/669059540/large.jpg",
+    "attribution": "(c) Fyodor Pudovikov, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/366413625",
+    "place": "Муниципальный округ Чехов, Московская обл., Россия",
+    "date": "2026-05-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 235473450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235473450/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/235473450/large.jpeg",
+    "attribution": "(c) Ira Han, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/137832366",
+    "place": "Berdsk, Novosibirsk Oblast, Russia",
+    "date": "2020-08-02"
+   },
+   {
+    "id": 700831336,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700831336/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700831336/large.jpg",
+    "attribution": "(c) igor_s08, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382938292",
+    "place": "Орджоникидзевский р-н, Магнитогорск, Челябинская обл., Россия",
+    "date": "2026-07-19"
+   },
+   {
+    "id": 700927758,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/700927758/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/700927758/large.jpg",
+    "attribution": "(c) Igor Derevskov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/382989342",
+    "place": "Орджоникидзевский р-н, Магнитогорск, Челябинская обл., Россия",
+    "date": "2026-07-19"
+   }
+  ],
+  "hero": {
+   "id": 90118879,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90118879/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/90118879/large.jpg",
+   "attribution": "(c) Anna Shipilova | Анна Шипилова, some rights reserved (CC BY-NC), uploaded by Anna Shipilova | Анна Шипилова",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/90118879",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5739359,
+  "dkTotal": 166,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   2,
+   71,
+   0,
+   0,
+   10,
+   82,
+   0,
+   0
+  ],
+  "worldTotal": 64480,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 49240
+   },
+   {
+    "code": "RU",
+    "count": 8199
+   },
+   {
+    "code": "SE",
+    "count": 1231
+   },
+   {
+    "code": "NL",
+    "count": 903
+   },
+   {
+    "code": "KZ",
+    "count": 718
+   },
+   {
+    "code": "GB",
+    "count": 614
+   },
+   {
+    "code": "EE",
+    "count": 568
+   },
+   {
+    "code": "FI",
+    "count": 363
+   },
+   {
+    "code": "BE",
+    "count": 209
+   },
+   {
+    "code": "AF",
+    "count": 197
+   },
+   {
+    "code": "CN",
+    "count": 186
+   },
+   {
+    "code": "GE",
+    "count": 171
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/914170/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Lars Edenius",
+  "page": "https://xeno-canto.org/914170",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,167 @@
+{
+ "key": "ichthyaetus-audouinii",
+ "name": "Ichthyaetus audouinii",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:53:33.824Z",
+ "names": {
+  "da": "Audouinsmåge",
+  "en": "Audouin's Gull",
+  "accepted": "Ichthyaetus audouinii"
+ },
+ "wikidata": {
+  "id": "Q519583"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Audouin's gull",
+  "extract": "Audouin's gull is a large gull restricted to the Mediterranean and the western coast of Saharan Africa and the Iberian Peninsula. The genus name is from Ancient Greek ikhthus, \"fish\", and aetos, \"eagle\", and \nthe specific audouinii and the English name are after the French naturalist Jean Victoire Audouin.",
+  "url": "https://en.wikipedia.org/wiki/Audouin's_gull"
+ },
+ "inat": {
+  "id": 144522,
+  "observations": 5800
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 415819159,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/415819159/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/415819159/large.jpeg",
+    "attribution": "(c) alvaromp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/233941614",
+    "place": "Castellón, ES-VC, ES",
+    "date": "2024-08-05"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 306538139,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306538139/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306538139/large.jpeg",
+    "attribution": "(c) Daniel Gaona Carrilero, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176326025",
+    "place": "Castellón, ES-VC, ES",
+    "date": "2023-08-02"
+   },
+   {
+    "id": 422928835,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422928835/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422928835/large.jpeg",
+    "attribution": "(c) Олексій, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/237624991",
+    "place": "Alicante, ES-VC, ES",
+    "date": "2024-08-01"
+   },
+   {
+    "id": 717786591,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717786591/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717786591/large.jpg",
+    "attribution": "(c) Beatriz Castaño, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391711502",
+    "place": null,
+    "date": "2026-08-14"
+   }
+  ],
+  "hero": {
+   "id": 107270089,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107270089/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107270089/large.jpg",
+   "attribution": "(c) Xavier Rufray, some rights reserved (CC BY-NC), uploaded by Xavier Rufray",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/107270089",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 7406504,
+  "dkTotal": 124,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   122,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 211881,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 167649
+   },
+   {
+    "code": "MA",
+    "count": 16090
+   },
+   {
+    "code": "PT",
+    "count": 15365
+   },
+   {
+    "code": "IT",
+    "count": 4277
+   },
+   {
+    "code": "FR",
+    "count": 2700
+   },
+   {
+    "code": "GR",
+    "count": 976
+   },
+   {
+    "code": "SN",
+    "count": 883
+   },
+   {
+    "code": "TR",
+    "count": 749
+   },
+   {
+    "code": "CY",
+    "count": 618
+   },
+   {
+    "code": "GI",
+    "count": 577
+   },
+   {
+    "code": "EH",
+    "count": 541
+   },
+   {
+    "code": "DZ",
+    "count": 259
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/471729/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/471729",
+  "type": "call, song, deep calls, long call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

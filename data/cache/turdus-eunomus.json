@@ -1,0 +1,138 @@
+{
+ "key": "turdus-eunomus",
+ "name": "Turdus eunomus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:59:46.399Z",
+ "names": {
+  "da": "Brundrossel",
+  "en": "Dusky Thrush",
+  "accepted": "Turdus eunomus"
+ },
+ "wikidata": {
+  "id": "Q1591651"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Dusky thrush",
+  "extract": "The dusky thrush is a member of the thrush family which breeds eastwards from central Siberia to Kamchatka wintering in Korea, Japan, South China and Myanmar. It is closely related to the more southerly breeding Naumann's thrush T. naumanni; the two have often been regarded as conspecific. The scientific name comes from Latin Turdus, \"thrush\" and Ancient Greek eunomos, \"orderly\".",
+  "url": "https://en.wikipedia.org/wiki/Dusky_thrush"
+ },
+ "inat": {
+  "id": 145087,
+  "observations": 7887
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 1725563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1725563/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1725563/large.jpg",
+    "attribution": "(c) harum.koh, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/1395588",
+    "place": "suma kobe",
+    "date": "2015-04-11"
+   },
+   {
+    "id": 118543104,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118543104/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/118543104/large.jpg",
+    "attribution": "(c) Tristan Scholze, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/72681099",
+    "place": "Nishi Ward, Fukuoka, Japan",
+    "date": "2021-02-08"
+   },
+   {
+    "id": 175689357,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/175689357/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/175689357/large.jpeg",
+    "attribution": "(c) Sasha Sunuwar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/104801155",
+    "place": "Budol, Dhulikhel, Nepal",
+    "date": "2022-01-11"
+   }
+  ],
+  "female": [
+   {
+    "id": 480730519,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/480730519/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/480730519/large.jpeg",
+    "attribution": "(c) Rob Macfie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/267500371",
+    "place": "Namha-myeon, Geochang-gun, Gyeongsangnam-do, South Korea",
+    "date": "2025-03-29"
+   },
+   {
+    "id": 11889971,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11889971/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11889971/large.jpg",
+    "attribution": "(c) andriy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8847538",
+    "place": "世纪公园, 上海市, , CN",
+    "date": "2017-11-13"
+   },
+   {
+    "id": 10973770,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10973770/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/10973770/large.jpeg",
+    "attribution": "(c) Alexander Ganse, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/8272988",
+    "place": "대한민국 강원도 횡성군 둔내면",
+    "date": "2013-04-19"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 240960,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240960/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240960/large.jpg",
+   "attribution": "(c) Lip Kee, some rights reserved (CC BY-SA)",
+   "license": "cc-by-sa",
+   "source": "https://www.inaturalist.org/photos/240960",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 4408789,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 0,
+  "topCountries": []
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/884476/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Barry Edmonston",
+  "page": "https://xeno-canto.org/884476",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

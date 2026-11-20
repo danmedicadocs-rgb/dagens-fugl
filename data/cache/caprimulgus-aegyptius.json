@@ -1,0 +1,168 @@
+{
+ "key": "caprimulgus-aegyptius",
+ "name": "Caprimulgus aegyptius",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:54:54.003Z",
+ "names": {
+  "da": "Ørkennatravn",
+  "en": "Egyptian Nightjar",
+  "accepted": "Caprimulgus aegyptius"
+ },
+ "wikidata": {
+  "id": "Q615437"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Egyptian nightjar",
+  "extract": "The Egyptian nightjar is a medium-small nightjar which occurs in south west Asia and north Africa and winters in tropical Africa. This is a fairly common species with a wide distribution which faces no obvious threats apart from habitat destruction, so the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "url": "https://en.wikipedia.org/wiki/Egyptian_nightjar"
+ },
+ "inat": {
+  "id": 19417,
+  "observations": 217
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 12205037,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12205037/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12205037/large.jpg",
+    "attribution": "(c) زين _النجم, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9043867",
+    "place": "منطقة الصبخ - حي بغداد، بصرة، Iraq",
+    "date": "2016-07-16"
+   }
+  ],
+  "adult": [
+   {
+    "id": 494033730,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/494033730/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/494033730/large.jpeg",
+    "attribution": "(c) David Howdon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/274864838",
+    "place": "Errachidia, MA-MT, MA",
+    "date": "2025-03-18"
+   },
+   {
+    "id": 533345534,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533345534/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533345534/large.jpg",
+    "attribution": "(c) Rohail Akbar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/296213824",
+    "place": "United Arab Emirates",
+    "date": "2025-07-05"
+   },
+   {
+    "id": 123164885,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123164885/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123164885/large.jpeg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/75295598",
+    "place": "Tehran Province, Iran",
+    "date": "2017-06-08"
+   }
+  ],
+  "hero": {
+   "id": 154047612,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154047612/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/154047612/large.jpg",
+   "attribution": "(c) David Bishop, some rights reserved (CC BY-NC), uploaded by David Bishop",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/154047612",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2496885,
+  "dkTotal": 21,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   3,
+   17,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 4691,
+  "topCountries": [
+   {
+    "code": "AE",
+    "count": 2025
+   },
+   {
+    "code": "MA",
+    "count": 914
+   },
+   {
+    "code": "KW",
+    "count": 318
+   },
+   {
+    "code": "IR",
+    "count": 217
+   },
+   {
+    "code": "OM",
+    "count": 171
+   },
+   {
+    "code": "EG",
+    "count": 150
+   },
+   {
+    "code": "IL",
+    "count": 138
+   },
+   {
+    "code": "SA",
+    "count": 130
+   },
+   {
+    "code": "QA",
+    "count": 110
+   },
+   {
+    "code": "UZ",
+    "count": 72
+   },
+   {
+    "code": "IQ",
+    "count": 66
+   },
+   {
+    "code": "BH",
+    "count": 47
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/412387/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Yohay Wasserlauf",
+  "page": "https://xeno-canto.org/412387",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

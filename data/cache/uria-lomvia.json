@@ -1,0 +1,188 @@
+{
+ "key": "uria-lomvia",
+ "name": "Uria lomvia",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:34.825Z",
+ "names": {
+  "da": "Polarlomvie",
+  "en": "Thick-billed Murre",
+  "accepted": "Uria lomvia"
+ },
+ "wikidata": {
+  "id": "Q728682"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Polarlomvie",
+  "extract": "Polarlomvien, eller kortnæbbet lomvie, er en stor alkefugl. I Danmark træffes polarlomvier meget sjældent, men de yngler talrigt på Grønlands fuglefjelde.",
+  "url": "https://da.wikipedia.org/wiki/Polarlomvie"
+ },
+ "inat": {
+  "id": 4516,
+  "observations": 3432
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 235586496,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235586496/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/235586496/large.jpeg",
+    "attribution": "(c) Alex Lin-Moore, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/137893884",
+    "place": "Salisbury, MA, USA",
+    "date": "2017-01-22"
+   },
+   {
+    "id": 435200665,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435200665/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/435200665/large.jpeg",
+    "attribution": "(c) Sam Darmstadt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/244018990",
+    "place": "St Paul, AK, USA",
+    "date": "2024-09-05"
+   },
+   {
+    "id": 115117256,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115117256/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115117256/large.jpg",
+    "attribution": "(c) Cody Limber, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70775215",
+    "place": "Gloucester, MA, USA",
+    "date": "2021-03-06"
+   }
+  ],
+  "adult": [
+   {
+    "id": 432811204,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432811204/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/432811204/large.jpg",
+    "attribution": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/242764987",
+    "place": "Баренцево море.",
+    "date": "2024-07-31"
+   },
+   {
+    "id": 535378402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/535378402/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/535378402/large.jpg",
+    "attribution": "(c) veb74, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/297281627",
+    "place": null,
+    "date": "2025-07-08"
+   },
+   {
+    "id": 548748122,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/548748122/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/548748122/large.jpg",
+    "attribution": "(c) Chris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/304396744",
+    "place": "St Paul, AK, USA",
+    "date": "2025-08-06"
+   }
+  ],
+  "hero": {
+   "id": 101335750,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101335750/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101335750/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/101335750",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481339,
+  "dkTotal": 116,
+  "dkMonths": [
+   28,
+   6,
+   0,
+   1,
+   9,
+   18,
+   2,
+   1,
+   0,
+   32,
+   2,
+   9
+  ],
+  "worldTotal": 67544,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 26050
+   },
+   {
+    "code": "CA",
+    "count": 15405
+   },
+   {
+    "code": "SJ",
+    "count": 10413
+   },
+   {
+    "code": "NO",
+    "count": 3934
+   },
+   {
+    "code": "IS",
+    "count": 2925
+   },
+   {
+    "code": "GL",
+    "count": 2700
+   },
+   {
+    "code": "NL",
+    "count": 1722
+   },
+   {
+    "code": "RU",
+    "count": 1456
+   },
+   {
+    "code": "JP",
+    "count": 462
+   },
+   {
+    "code": "SE",
+    "count": 457
+   },
+   {
+    "code": "FI",
+    "count": 385
+   },
+   {
+    "code": "ZZ",
+    "count": 251
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/487906/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/487906",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,177 @@
+{
+ "key": "clamator-glandarius",
+ "name": "Clamator glandarius",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:49:20.422Z",
+ "names": {
+  "da": "Skadegøg",
+  "en": "Great Spotted Cuckoo",
+  "accepted": "Clamator glandarius"
+ },
+ "wikidata": {
+  "id": "Q665363"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Great spotted cuckoo",
+  "extract": "The great spotted cuckoo is a member of the cuckoo order of birds, the Cuculiformes, which also includes the roadrunners, the anis and the coucals.",
+  "url": "https://en.wikipedia.org/wiki/Great_spotted_cuckoo"
+ },
+ "inat": {
+  "id": 1787,
+  "observations": 2937
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 263480571,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263480571/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263480571/large.jpg",
+    "attribution": "(c) Pablo Pozo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152615037",
+    "place": "Madrid, España",
+    "date": "2023-03-25"
+   },
+   {
+    "id": 294446376,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/294446376/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/294446376/large.jpg",
+    "attribution": "(c) Victor HOYEAU, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169817398",
+    "place": "34560 Montbazin, France",
+    "date": "2023-06-27"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 136380619,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136380619/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136380619/large.jpeg",
+    "attribution": "(c) pedrosanz-anapri, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/83059598",
+    "place": "Madrid, España",
+    "date": "2020-06-14"
+   },
+   {
+    "id": 287195657,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287195657/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287195657/large.jpg",
+    "attribution": "(c) Pablo Pozo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165882601",
+    "place": "El Pardo, 28048 Madrid, España",
+    "date": "2023-06-06"
+   },
+   {
+    "id": 605603543,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605603543/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605603543/large.jpg",
+    "attribution": "(c) DACANA, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/333561125",
+    "place": "Jaén, ES-AN, ES",
+    "date": "2025-05-18"
+   }
+  ],
+  "hero": {
+   "id": 182820083,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/182820083/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/182820083/large.jpg",
+   "attribution": "(c) Frank Vassen, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/182820083",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2496464,
+  "dkTotal": 127,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   2,
+   122,
+   1,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 80034,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 27679
+   },
+   {
+    "code": "FR",
+    "count": 13444
+   },
+   {
+    "code": "IL",
+    "count": 11291
+   },
+   {
+    "code": "ZA",
+    "count": 6770
+   },
+   {
+    "code": "PT",
+    "count": 4510
+   },
+   {
+    "code": "CY",
+    "count": 3037
+   },
+   {
+    "code": "GR",
+    "count": 1502
+   },
+   {
+    "code": "NL",
+    "count": 1323
+   },
+   {
+    "code": "PS",
+    "count": 1296
+   },
+   {
+    "code": "KE",
+    "count": 1090
+   },
+   {
+    "code": "NA",
+    "count": 1063
+   },
+   {
+    "code": "TR",
+    "count": 1024
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/135577/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "artist": "Fernand DEROUSSEN",
+  "page": "https://xeno-canto.org/135577",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

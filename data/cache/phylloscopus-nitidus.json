@@ -1,0 +1,87 @@
+{
+ "key": "phylloscopus-nitidus",
+ "name": "Phylloscopus nitidus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:58:31.668Z",
+ "names": {
+  "da": "Kaukasisk Lundsanger",
+  "en": "Green Warbler",
+  "accepted": "Phylloscopus nitidus"
+ },
+ "wikidata": {
+  "id": "Q2672900"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Green warbler",
+  "extract": "The green warbler, also known as green willow warbler or green leaf warbler, is a leaf warbler found in the Caucasus Mountains in southeastern Europe.",
+  "url": "https://en.wikipedia.org/wiki/Green_warbler"
+ },
+ "inat": {
+  "id": 144925,
+  "observations": 1018
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 606336308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606336308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606336308/large.jpg",
+    "attribution": "(c) Nika Mart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/333943979",
+    "place": "Пригородный р-н, Респ. Северная Осетия — Алания, Россия",
+    "date": "2025-08-17"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 208254975,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/208254975/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/208254975/large.jpg",
+   "attribution": "(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/208254975",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 4408819,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 0,
+  "topCountries": []
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/954671/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Lukas Ehmke",
+  "page": "https://xeno-canto.org/954671",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

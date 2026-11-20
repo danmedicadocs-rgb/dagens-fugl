@@ -1,0 +1,218 @@
+{
+ "key": "aquila-nipalensis",
+ "name": "Aquila nipalensis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:55:50.343Z",
+ "names": {
+  "da": "Steppeørn",
+  "en": "Steppe eagle",
+  "accepted": "Aquila nipalensis"
+ },
+ "wikidata": {
+  "id": "Q179359"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Steppeørn",
+  "extract": "Steppeørn er en sydøsteuropæisk og asiatisk ørn. Den kan forvilde sig til Danmark på forlænget træk om foråret.",
+  "url": "https://da.wikipedia.org/wiki/Steppe%C3%B8rn"
+ },
+ "inat": {
+  "id": 5083,
+  "observations": 6909
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 63037179,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63037179/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63037179/large.jpeg",
+    "attribution": "(c) stephen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/86383625",
+    "place": "Semen Gondar, ET-AM, ET",
+    "date": "2020-02-19"
+   },
+   {
+    "id": 259793286,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259793286/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259793286/large.jpeg",
+    "attribution": "(c) anton_abushin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/150640390",
+    "place": "Yustinskiy rayon, RU-KL, RU",
+    "date": "2021-06-17"
+   },
+   {
+    "id": 289852071,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289852071/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289852071/large.jpg",
+    "attribution": "(c) rusik-r2d2, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/167324805",
+    "place": "Коргалжынский район, Казахстан",
+    "date": "2023-05-09"
+   }
+  ],
+  "female": [
+   {
+    "id": 258506216,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258506216/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258506216/large.jpeg",
+    "attribution": "(c) anton_abushin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149968892",
+    "place": "Yustinskiy rayon, RU-KL, RU",
+    "date": "2021-06-16"
+   },
+   {
+    "id": 258362078,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258362078/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/258362078/large.jpeg",
+    "attribution": "(c) anton_abushin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/149892444",
+    "place": "Yashkul'skiy rayon, RU-KL, RU",
+    "date": "2021-06-26"
+   },
+   {
+    "id": 224331507,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/224331507/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/224331507/large.jpeg",
+    "attribution": "(c) Elena Shnayder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131792244",
+    "place": "Тандинский р-н, Респу́блика Тыва́, Россия",
+    "date": "2022-07-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 163659262,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/163659262/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/163659262/large.jpg",
+    "attribution": "(c) MOHSEN GHASEMI, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/98316210",
+    "place": "Isfahan, Isfahan Province, Iran",
+    "date": "2021-10-15"
+   },
+   {
+    "id": 122940493,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122940493/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/122940493/large.jpg",
+    "attribution": "(c) Damir Manyapov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/75168199",
+    "place": "Новоселовский р-н, Красноярский край, Россия",
+    "date": "2016-07-09"
+   },
+   {
+    "id": 447539560,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447539560/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447539560/large.jpg",
+    "attribution": "(c) Kulmash, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/250259203",
+    "place": "Жангельдинский район, Казахстан",
+    "date": "2024-07-12"
+   }
+  ],
+  "hero": {
+   "id": 91218862,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91218862/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91218862/large.jpeg",
+   "attribution": "(c) Christoph Moning, some rights reserved (CC BY), uploaded by Christoph Moning",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/91218862",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480513,
+  "dkTotal": 2231,
+  "dkMonths": [
+   24,
+   179,
+   12,
+   190,
+   1353,
+   318,
+   33,
+   32,
+   15,
+   44,
+   29,
+   1
+  ],
+  "worldTotal": 91391,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 24065
+   },
+   {
+    "code": "IL",
+    "count": 9753
+   },
+   {
+    "code": "RU",
+    "count": 6170
+   },
+   {
+    "code": "NP",
+    "count": 5805
+   },
+   {
+    "code": "SE",
+    "count": 5477
+   },
+   {
+    "code": "KZ",
+    "count": 5404
+   },
+   {
+    "code": "GE",
+    "count": 4782
+   },
+   {
+    "code": "KE",
+    "count": 3475
+   },
+   {
+    "code": "MN",
+    "count": 3066
+   },
+   {
+    "code": "OM",
+    "count": 2596
+   },
+   {
+    "code": "DK",
+    "count": 2231
+   },
+   {
+    "code": "IR",
+    "count": 1962
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1174914/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Bo Shunqi 薄顺奇",
+  "page": "https://xeno-canto.org/1174914",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

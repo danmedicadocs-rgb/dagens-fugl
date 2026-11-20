@@ -1,0 +1,188 @@
+{
+ "key": "glareola-maldivarum",
+ "name": "Glareola maldivarum",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:22.805Z",
+ "names": {
+  "da": "Orientbraksvale",
+  "en": "Oriental Pratincole",
+  "accepted": "Glareola maldivarum"
+ },
+ "wikidata": {
+  "id": "Q116708"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Orientbraksvale",
+  "extract": "Orientbraksvale er en fugl af mågevadefugle-ordenen. Den er udbredt i de sydlige og østlige dele af Asien, hvor den yngler i et område fra Østpakistan og Kashmir til Kina. Den trækker sydpå for at overvintre i det sydlige Indien, Indonesien og Australasien.",
+  "url": "https://da.wikipedia.org/wiki/Orientbraksvale"
+ },
+ "inat": {
+  "id": 4601,
+  "observations": 3374
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 717230516,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/717230516/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/717230516/large.jpg",
+    "attribution": "(c) benjamynweil, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/391428878",
+    "place": "Huai Sai, Nong Khae District, Saraburi 18230, Thailand",
+    "date": "2026-08-15"
+   },
+   {
+    "id": 552275245,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/552275245/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/552275245/large.jpg",
+    "attribution": "(c) Mickey Wu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/306262803",
+    "place": "506台灣彰化縣福興鄉",
+    "date": "2025-08-13"
+   },
+   {
+    "id": 43214265,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/43214265/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/43214265/large.jpeg",
+    "attribution": "(c) 謝忠良, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27752808",
+    "place": "台灣台南市歸仁區沙崙農場",
+    "date": "2019-06-23"
+   }
+  ],
+  "adult": [
+   {
+    "id": 335113625,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/335113625/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/335113625/large.jpg",
+    "attribution": "(c) sdoug7405, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/191076067",
+    "place": "France Rd Turf Farm (Edmonton) Qld",
+    "date": "2017-11-08"
+   },
+   {
+    "id": 38780276,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38780276/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38780276/large.jpeg",
+    "attribution": "(c) 謝忠良, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/25060362",
+    "place": "歸仁區沙崙農場",
+    "date": "2019-04-27"
+   },
+   {
+    "id": 692575060,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/692575060/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/692575060/large.jpg",
+    "attribution": "(c) shajanshaki, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/378663797",
+    "place": "VQRC+PJ8, Kaveripuram, Tamil Nadu 636303, India",
+    "date": "2026-07-05"
+   }
+  ],
+  "hero": {
+   "id": 85972402,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85972402/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85972402/large.jpeg",
+   "attribution": "(c) Yuwaraj Gurjar, some rights reserved (CC BY-NC), uploaded by Yuwaraj Gurjar",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/85972402",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480759,
+  "dkTotal": 169,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   25,
+   2,
+   91,
+   0,
+   0,
+   50,
+   0,
+   0
+  ],
+  "worldTotal": 64206,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 26385
+   },
+   {
+    "code": "TH",
+    "count": 9187
+   },
+   {
+    "code": "IN",
+    "count": 5574
+   },
+   {
+    "code": "AU",
+    "count": 3911
+   },
+   {
+    "code": "KH",
+    "count": 3782
+   },
+   {
+    "code": "CN",
+    "count": 3342
+   },
+   {
+    "code": "HK",
+    "count": 1812
+   },
+   {
+    "code": "MY",
+    "count": 1809
+   },
+   {
+    "code": "PH",
+    "count": 1733
+   },
+   {
+    "code": "SG",
+    "count": 887
+   },
+   {
+    "code": "SE",
+    "count": 814
+   },
+   {
+    "code": "JP",
+    "count": 759
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1005848/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/1005848",
+  "type": "alarm call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

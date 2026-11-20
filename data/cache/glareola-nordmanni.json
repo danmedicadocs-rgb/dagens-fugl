@@ -1,0 +1,167 @@
+{
+ "key": "glareola-nordmanni",
+ "name": "Glareola nordmanni",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:27.426Z",
+ "names": {
+  "da": "Sortvinget Braksvale",
+  "en": "Black-winged Pratincole",
+  "accepted": "Glareola nordmanni"
+ },
+ "wikidata": {
+  "id": "Q695729"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Black-winged pratincole",
+  "extract": "The black-winged pratincole is a wader in the pratincole bird family, Glareolidae. The genus name is a diminutive of Latin glarea, \"gravel\", referring to a typical nesting habitat for pratincoles. The species name commemorates the Finnish-born zoologist and explorer Alexander von Nordmann.",
+  "url": "https://en.wikipedia.org/wiki/Black-winged_pratincole"
+ },
+ "inat": {
+  "id": 4605,
+  "observations": 820
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 661453980,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/661453980/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/661453980/large.jpg",
+    "attribution": "(c) Adalbert Preiser, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/362407586",
+    "place": "Baden-Württemberg, DE",
+    "date": "2026-05-17"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 305766444,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305766444/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305766444/large.jpeg",
+    "attribution": "(c) Ксения Волянская, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/175909946",
+    "place": "Kurgan, RU",
+    "date": "2023-07-30"
+   },
+   {
+    "id": 306063322,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/306063322/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/306063322/large.jpg",
+    "attribution": "(c) Ilia Mikheev, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176070228",
+    "place": "Chernozermel'skiy rayon, RU-KL, RU",
+    "date": "2023-07-16"
+   },
+   {
+    "id": 556643903,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/556643903/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/556643903/large.jpg",
+    "attribution": "(c) gillattc1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/308535022",
+    "place": "England, GB",
+    "date": "2025-08-23"
+   }
+  ],
+  "hero": {
+   "id": 456389611,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/456389611/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/456389611/large.jpg",
+   "attribution": "(c) Vyacheslav Luzanov, some rights reserved (CC BY-NC), uploaded by Vyacheslav Luzanov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/456389611",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480758,
+  "dkTotal": 524,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   3,
+   17,
+   20,
+   101,
+   159,
+   9,
+   214,
+   0,
+   0
+  ],
+  "worldTotal": 15516,
+  "topCountries": [
+   {
+    "code": "ZA",
+    "count": 4791
+   },
+   {
+    "code": "NL",
+    "count": 3490
+   },
+   {
+    "code": "KZ",
+    "count": 860
+   },
+   {
+    "code": "RU",
+    "count": 859
+   },
+   {
+    "code": "BW",
+    "count": 625
+   },
+   {
+    "code": "GB",
+    "count": 534
+   },
+   {
+    "code": "DK",
+    "count": 524
+   },
+   {
+    "code": "IL",
+    "count": 499
+   },
+   {
+    "code": "GE",
+    "count": 307
+   },
+   {
+    "code": "NA",
+    "count": 235
+   },
+   {
+    "code": "NO",
+    "count": 204
+   },
+   {
+    "code": "FR",
+    "count": 203
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/37415/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "artist": "David Farrow",
+  "page": "https://xeno-canto.org/37415",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

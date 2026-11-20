@@ -1,0 +1,198 @@
+{
+ "key": "curruca-cantillans",
+ "name": "Curruca cantillans",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:59:14.011Z",
+ "names": {
+  "da": "Hvidskægget Sanger",
+  "en": null,
+  "accepted": "Curruca cantillans"
+ },
+ "wikidata": {
+  "id": "Q110257508"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Eastern subalpine warbler",
+  "extract": "The eastern subalpine warbler is a small Sylviidae warbler which breeds in the southernmost areas of Europe. It was first described by the German naturalist Peter Simon Pallas in 1764 and given the binomial name Motacilla cantillans. The specific cantillans is Latin for \"warbling\" from canere, \"to sing\".",
+  "url": "https://en.wikipedia.org/wiki/Eastern_subalpine_warbler"
+ },
+ "inat": {
+  "id": 1289200,
+  "observations": 1167
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 247391302,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/247391302/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/247391302/large.jpg",
+    "attribution": "(c) Valia Pavlou, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/144170723",
+    "place": "Αντικύθηρα, Αντικύθηρα, Αττική, GR",
+    "date": "2022-04-21"
+   },
+   {
+    "id": 1852354,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1852354/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1852354/large.jpg",
+    "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1495390",
+    "place": "North Aegean, Aegean, GR",
+    "date": "2008-05-06"
+   },
+   {
+    "id": 553113978,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553113978/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553113978/large.jpg",
+    "attribution": "(c) Cristóbal Costoya, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306698119",
+    "place": "Otzias, Kea, Greece",
+    "date": "2025-08-16"
+   }
+  ],
+  "female": [
+   {
+    "id": 50303574,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50303574/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50303574/large.jpeg",
+    "attribution": "(c) jakebi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/32093599",
+    "place": "Unnamed Road,, Kerkira 490 81, Griechenland",
+    "date": "2019-09-03"
+   },
+   {
+    "id": 263326927,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/263326927/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/263326927/large.jpg",
+    "attribution": "(c) fotis-samaritakis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/152533185",
+    "place": "Κρήτη, Ελλάδα",
+    "date": "2023-03-23"
+   },
+   {
+    "id": 667329457,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/667329457/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/667329457/large.jpg",
+    "attribution": "(c) Vladislav Kurakhtenkov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365504992",
+    "place": "Skadarsko jezero, ME-PG, ME",
+    "date": "2025-05-17"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 553113968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/553113968/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/553113968/large.jpg",
+    "attribution": "(c) Cristóbal Costoya, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/306698119",
+    "place": "Otzias, Kea, Greece",
+    "date": "2025-08-16"
+   }
+  ],
+  "hero": {
+   "id": 1852354,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1852354/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1852354/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1852354",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9317615,
+  "dkTotal": 205,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   201,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 25391,
+  "topCountries": [
+   {
+    "code": "GR",
+    "count": 10141
+   },
+   {
+    "code": "IT",
+    "count": 3463
+   },
+   {
+    "code": "HR",
+    "count": 1839
+   },
+   {
+    "code": "NL",
+    "count": 1378
+   },
+   {
+    "code": "TR",
+    "count": 1166
+   },
+   {
+    "code": "SE",
+    "count": 1075
+   },
+   {
+    "code": "IL",
+    "count": 1050
+   },
+   {
+    "code": "ME",
+    "count": 700
+   },
+   {
+    "code": "CY",
+    "count": 638
+   },
+   {
+    "code": "BG",
+    "count": 581
+   },
+   {
+    "code": "GB",
+    "count": 468
+   },
+   {
+    "code": "AL",
+    "count": 395
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/471881/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/471881",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,188 @@
+{
+ "key": "calidris-ruficollis",
+ "name": "Calidris ruficollis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:48.515Z",
+ "names": {
+  "da": "Rødhalset ryle",
+  "en": "Red-necked Stint",
+  "accepted": "Calidris ruficollis"
+ },
+ "wikidata": {
+  "id": "Q18860"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Rødhalset ryle",
+  "extract": "Rødhalset ryle er en vadefugl, der yngler i det nordvestlige Nordamerika og Østsibirien. Den overvintrer i Sydøstasien samt Australien og New Zealand. Den er set nogle få gange i Danmark.",
+  "url": "https://da.wikipedia.org/wiki/R%C3%B8dhalset_ryle"
+ },
+ "inat": {
+  "id": 3854,
+  "observations": 9915
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 440061973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/440061973/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/440061973/large.jpeg",
+    "attribution": "(c) cjp5826, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/246494933",
+    "place": "Taiwan",
+    "date": "2024-10-08"
+   },
+   {
+    "id": 719762846,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/719762846/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/719762846/large.jpg",
+    "attribution": "(c) Dmitrii, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/392731053",
+    "place": "Анадырский р-н, Чукотский автономный округ, Россия",
+    "date": "2026-07-30"
+   },
+   {
+    "id": 255714351,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/255714351/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/255714351/large.jpg",
+    "attribution": "(c) carolhall47, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/148486505",
+    "place": "Point Wilson VIC 3212, Australia",
+    "date": "2023-02-05"
+   }
+  ],
+  "adult": [
+   {
+    "id": 460117002,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/460117002/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/460117002/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/256601893",
+    "place": "Southern Ward, Beaumaris, VIC, AU",
+    "date": "2024-12-29"
+   },
+   {
+    "id": 245932506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/245932506/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/245932506/large.jpeg",
+    "attribution": "(c) Michael Keogh, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/143407012",
+    "place": "Jam Jerrup VIC 3984, Australia",
+    "date": "2022-12-01"
+   },
+   {
+    "id": 606357798,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606357798/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606357798/large.jpg",
+    "attribution": "(c) Michael Keogh, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/333956040",
+    "place": "Rhyll VIC 3923, Australia",
+    "date": "2026-01-08"
+   }
+  ],
+  "hero": {
+   "id": 209826148,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209826148/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209826148/large.jpg",
+   "attribution": "(c) Cameron Eckert, some rights reserved (CC BY-NC), uploaded by Cameron Eckert",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/209826148",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481746,
+  "dkTotal": 30,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   20,
+   9,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 251266,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 147685
+   },
+   {
+    "code": "TW",
+    "count": 48659
+   },
+   {
+    "code": "JP",
+    "count": 9942
+   },
+   {
+    "code": "CN",
+    "count": 8711
+   },
+   {
+    "code": "TH",
+    "count": 8216
+   },
+   {
+    "code": "US",
+    "count": 4476
+   },
+   {
+    "code": "KR",
+    "count": 3212
+   },
+   {
+    "code": "NZ",
+    "count": 3066
+   },
+   {
+    "code": "PH",
+    "count": 2634
+   },
+   {
+    "code": "MY",
+    "count": 2461
+   },
+   {
+    "code": "HK",
+    "count": 2315
+   },
+   {
+    "code": "ID",
+    "count": 1800
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/182179/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Andrew Spencer",
+  "page": "https://xeno-canto.org/182179",
+  "type": "call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

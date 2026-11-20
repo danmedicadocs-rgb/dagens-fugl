@@ -1,0 +1,218 @@
+{
+ "key": "setophaga-striata",
+ "name": "Setophaga striata",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:02:27.844Z",
+ "names": {
+  "da": "Stribet Sanger",
+  "en": "Blackpoll Warbler",
+  "accepted": "Setophaga striata"
+ },
+ "wikidata": {
+  "id": "Q27075924"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Blackpoll warbler",
+  "extract": "The blackpoll warbler is a New World warbler. Breeding males are mostly black and white. They have a prominent black cap, white cheeks, and white wing bars. The blackpoll breeds in forests of northern North America, from Alaska throughout most of Canada, to the Adirondack Mountains of New York as well as New England in the Northeastern United States. They are a common migrant throughout much of North America. In fall, they fly south to the Greater Antilles and the northeastern coasts of South America in a non-stop long-distance migration over open water, averaging 2,500 km (1,600 mi), one of the longest-distance non-stop overwater flights ever recorded for a migratory songbird. Rare vagrants to western Europe, they are one of the more frequent transatlantic passerine wanderers.",
+  "url": "https://en.wikipedia.org/wiki/Blackpoll_warbler"
+ },
+ "inat": {
+  "id": 145240,
+  "observations": 15762
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 42408032,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42408032/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/42408032/large.jpeg",
+    "attribution": "(c) Nathaniel Sharp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/27267903",
+    "place": "Stowe, VT 05672, USA",
+    "date": "2019-06-19"
+   },
+   {
+    "id": 618581503,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581503/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/618581503/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/339975874",
+    "place": "Franconia, NH, USA",
+    "date": "2024-06-22"
+   },
+   {
+    "id": 191965266,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/191965266/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/191965266/large.jpg",
+    "attribution": "(c) Sherrie Quillen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/113631951",
+    "place": "Warriors Path Area",
+    "date": "2022-04-29"
+   }
+  ],
+  "female": [
+   {
+    "id": 446262909,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/446262909/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/446262909/large.jpeg",
+    "attribution": "(c) Charlie Nadeau, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/249622865",
+    "place": "Ceramics Studio, Bar Harbor, ME 04609, USA",
+    "date": "2024-10-24"
+   },
+   {
+    "id": 53014718,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53014718/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53014718/large.jpg",
+    "attribution": "(c) moakes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33735099",
+    "place": "South End, Halifax, NS, Canada",
+    "date": "2019-09-24"
+   },
+   {
+    "id": 743623524,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/743623524/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/743623524/large.jpg",
+    "attribution": "(c) rootfactor, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/404893471",
+    "place": "Fairhaven Rd, Concord, MA, US",
+    "date": "2026-09-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 4339569,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4339569/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4339569/large.jpeg",
+    "attribution": "(c) Chris Rimmer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/3734560",
+    "place": "Mt Mansfield State Frst, Stowe, VT, US",
+    "date": "2016-06-30"
+   },
+   {
+    "id": 550187312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550187312/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550187312/large.jpg",
+    "attribution": "(c) Nick Carter, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/305162618",
+    "place": "Lake Louise, AB T0L 1E0, Canada",
+    "date": "2025-08-08"
+   },
+   {
+    "id": 554856151,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/554856151/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/554856151/large.jpg",
+    "attribution": "(c) Lisa S. Jodwalis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/307608430",
+    "place": "Fairbanks North Star Borough, AK, USA",
+    "date": "2025-08-18"
+   }
+  ],
+  "hero": {
+   "id": 164386122,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/164386122/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/164386122/large.jpeg",
+   "attribution": "(c) Frank Beres, some rights reserved (CC BY-NC), uploaded by Frank Beres",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/164386122",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 6092935,
+  "dkTotal": 64,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   63,
+   0,
+   0
+  ],
+  "worldTotal": 994085,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 786592
+   },
+   {
+    "code": "CA",
+    "count": 174910
+   },
+   {
+    "code": "CO",
+    "count": 13203
+   },
+   {
+    "code": "BM",
+    "count": 3187
+   },
+   {
+    "code": "EC",
+    "count": 2459
+   },
+   {
+    "code": "VE",
+    "count": 2392
+   },
+   {
+    "code": "PR",
+    "count": 2042
+   },
+   {
+    "code": "BS",
+    "count": 1053
+   },
+   {
+    "code": "GP",
+    "count": 895
+   },
+   {
+    "code": "AW",
+    "count": 806
+   },
+   {
+    "code": "PM",
+    "count": 702
+   },
+   {
+    "code": "CW",
+    "count": 569
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1014475/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1014475",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

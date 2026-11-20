@@ -1,0 +1,127 @@
+{
+ "key": "emberiza-melanocephala",
+ "name": "Emberiza melanocephala",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:01:50.008Z",
+ "names": {
+  "da": "Hætteværling",
+  "en": "Black-headed Bunting",
+  "accepted": "Emberiza melanocephala"
+ },
+ "wikidata": {
+  "id": "Q334183"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Hætteværling",
+  "extract": "Hætteværling er en stor og kraftig værling på 17 centimeter, der yngler i Mellemøsten og det sydøstlige Europa i åbent land med spredt vegetation som eksempelvis krat eller olivenlunde. I Danmark er arten en tilfældig gæst hvert eller hvert andet år.",
+  "url": "https://da.wikipedia.org/wiki/H%C3%A6ttev%C3%A6rling"
+ },
+ "inat": {
+  "id": 9203,
+  "observations": 0
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
+  "hero": {
+   "id": 3777512,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3777512/medium.JPG",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/3777512/large.JPG",
+   "attribution": "(c) Ani Sarkisyan, some rights reserved (CC BY), uploaded by Ani Sarkisyan",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/3777512",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 9613112,
+  "dkTotal": 19,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   8,
+   10,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 45401,
+  "topCountries": [
+   {
+    "code": "TR",
+    "count": 10305
+   },
+   {
+    "code": "BG",
+    "count": 7476
+   },
+   {
+    "code": "IN",
+    "count": 7189
+   },
+   {
+    "code": "GR",
+    "count": 5341
+   },
+   {
+    "code": "AM",
+    "count": 2586
+   },
+   {
+    "code": "IR",
+    "count": 1437
+   },
+   {
+    "code": "IL",
+    "count": 1258
+   },
+   {
+    "code": "GE",
+    "count": 1220
+   },
+   {
+    "code": "AZ",
+    "count": 782
+   },
+   {
+    "code": "SE",
+    "count": 685
+   },
+   {
+    "code": "CY",
+    "count": 565
+   },
+   {
+    "code": "RU",
+    "count": 475
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/980995/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Martinez Nicolas",
+  "page": "https://xeno-canto.org/980995",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

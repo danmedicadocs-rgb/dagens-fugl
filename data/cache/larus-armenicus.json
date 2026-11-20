@@ -1,0 +1,167 @@
+{
+ "key": "larus-armenicus",
+ "name": "Larus armenicus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:53:44.026Z",
+ "names": {
+  "da": "Armensk Måge",
+  "en": "Armenian Gull",
+  "accepted": "Larus armenicus"
+ },
+ "wikidata": {
+  "id": "Q683138"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Armenian gull",
+  "extract": "The Armenian gull is a large gull found in the Caucasus and the Middle East. It was formerly classified as a subspecies of the European herring gull, but is now generally considered to be a separate species, although BirdLife International lumps it with the yellow-legged gull.",
+  "url": "https://en.wikipedia.org/wiki/Armenian_gull"
+ },
+ "inat": {
+  "id": 144523,
+  "observations": 1810
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 112438615,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112438615/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112438615/large.jpeg",
+    "attribution": "(c) kamel Alfayadhi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/69305198",
+    "place": "المحمودية، العراق",
+    "date": "2021-02-09"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 33962603,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33962603/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33962603/large.jpeg",
+    "attribution": "(c) רעות בן אלישר, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21917727",
+    "place": "HaZafon, IL",
+    "date": "2019-04-01"
+   },
+   {
+    "id": 597926806,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597926806/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/597926806/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/329817012",
+    "place": "Mtskheta, Mtskheta-Mtianeti, Georgia",
+    "date": "2025-12-06"
+   },
+   {
+    "id": 649976972,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/649976972/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/649976972/large.jpg",
+    "attribution": "(c) Donsky, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/356419335",
+    "place": "Vake-Saburtalo, Tbilisi, Georgia",
+    "date": "2026-04-26"
+   }
+  ],
+  "hero": {
+   "id": 211807500,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211807500/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211807500/large.jpg",
+   "attribution": "(c) Ilya Burylov, some rights reserved (CC BY-NC), uploaded by Ilya Burylov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/211807500",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481171,
+  "dkTotal": 1,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 99376,
+  "topCountries": [
+   {
+    "code": "AM",
+    "count": 40817
+   },
+   {
+    "code": "IL",
+    "count": 20429
+   },
+   {
+    "code": "TR",
+    "count": 15475
+   },
+   {
+    "code": "IQ",
+    "count": 9041
+   },
+   {
+    "code": "GE",
+    "count": 5798
+   },
+   {
+    "code": "IR",
+    "count": 2718
+   },
+   {
+    "code": "AZ",
+    "count": 2007
+   },
+   {
+    "code": "EG",
+    "count": 1830
+   },
+   {
+    "code": "CY",
+    "count": 622
+   },
+   {
+    "code": "KW",
+    "count": 290
+   },
+   {
+    "code": "JO",
+    "count": 92
+   },
+   {
+    "code": "PS",
+    "count": 88
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/984993/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Oscar Campbell",
+  "page": "https://xeno-canto.org/984993",
+  "type": "call, flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

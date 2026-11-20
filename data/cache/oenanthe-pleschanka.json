@@ -1,0 +1,218 @@
+{
+ "key": "oenanthe-pleschanka",
+ "name": "Oenanthe pleschanka",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:00:29.752Z",
+ "names": {
+  "da": "Nonnestenpikker",
+  "en": "Pied Wheatear",
+  "accepted": "Oenanthe pleschanka"
+ },
+ "wikidata": {
+  "id": "Q763538"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Pied wheatear",
+  "extract": "The pied wheatear is a wheatear, a small insectivorous passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher. This migratory central Asiatic wheatear occurs from the extreme southeast of Europe to China, and has been found wintering in India and northeastern Africa. It is a very rare vagrant to western Europe.",
+  "url": "https://en.wikipedia.org/wiki/Pied_wheatear"
+ },
+ "inat": {
+  "id": 12830,
+  "observations": 4123
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 384703174,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/384703174/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/384703174/large.jpg",
+    "attribution": "(c) Frédéric Bacuez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/217457016",
+    "place": "Kechene, Addis Ababa, Éthiopie",
+    "date": "2014-12-14"
+   },
+   {
+    "id": 146354623,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146354623/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/146354623/large.jpeg",
+    "attribution": "(c) Kai, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/88684435",
+    "place": "Kavarna, Bulgarien",
+    "date": "2021-07-20"
+   },
+   {
+    "id": 41317894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41317894/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41317894/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26603116",
+    "place": "Караджинская бухта ",
+    "date": "2019-06-07"
+   }
+  ],
+  "female": [
+   {
+    "id": 115443837,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115443837/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/115443837/large.jpg",
+    "attribution": "(c) Андрей Москвичев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/70956394",
+    "place": "Окрестности с. Вязовка",
+    "date": "2020-05-05"
+   },
+   {
+    "id": 331050915,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/331050915/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/331050915/large.jpg",
+    "attribution": "(c) Сергей Кукуев, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/189046422",
+    "place": "Апанасенковский р-н, Ставропольский край, Россия",
+    "date": "2021-05-05"
+   },
+   {
+    "id": 512505306,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/512505306/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/512505306/large.jpg",
+    "attribution": "(c) Богданович Светлана, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/285142807",
+    "place": "город Судак",
+    "date": "2025-05-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 86456477,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86456477/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86456477/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/54338014",
+    "place": "Оленевка",
+    "date": "2020-07-25"
+   },
+   {
+    "id": 315415964,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315415964/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315415964/large.jpeg",
+    "attribution": "(c) Yaroslav Magazov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181015481",
+    "place": "Kizil'skiy rayon, Chelyabinsk, Russia",
+    "date": "2023-08-21"
+   },
+   {
+    "id": 541197082,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541197082/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/541197082/large.jpg",
+    "attribution": "(c) Анна, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/300366240",
+    "place": "Иркутская обл., Россия, 666135",
+    "date": "2025-07-22"
+   }
+  ],
+  "hero": {
+   "id": 339406955,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/339406955/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/339406955/large.jpg",
+   "attribution": "(c) Natalya Andreyenkova, some rights reserved (CC BY-NC), uploaded by Natalya Andreyenkova",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/339406955",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5231233,
+  "dkTotal": 989,
+  "dkMonths": [
+   78,
+   55,
+   6,
+   0,
+   24,
+   1,
+   0,
+   265,
+   78,
+   131,
+   240,
+   110
+  ],
+  "worldTotal": 41859,
+  "topCountries": [
+   {
+    "code": "AE",
+    "count": 6392
+   },
+   {
+    "code": "KE",
+    "count": 3692
+   },
+   {
+    "code": "ET",
+    "count": 2761
+   },
+   {
+    "code": "SE",
+    "count": 2603
+   },
+   {
+    "code": "KZ",
+    "count": 2206
+   },
+   {
+    "code": "KW",
+    "count": 2187
+   },
+   {
+    "code": "RU",
+    "count": 2137
+   },
+   {
+    "code": "NL",
+    "count": 1978
+   },
+   {
+    "code": "MN",
+    "count": 1967
+   },
+   {
+    "code": "BG",
+    "count": 1286
+   },
+   {
+    "code": "SA",
+    "count": 1218
+   },
+   {
+    "code": "CN",
+    "count": 1159
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/835662/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Martin Billard",
+  "page": "https://xeno-canto.org/835662",
+  "type": "imitation, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

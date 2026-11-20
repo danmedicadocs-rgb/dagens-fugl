@@ -1,0 +1,167 @@
+{
+ "key": "phylloscopus-humei",
+ "name": "Phylloscopus humei",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:58:09.860Z",
+ "names": {
+  "da": "Humes sanger",
+  "en": "Hume’s Leaf Warbler",
+  "accepted": "Phylloscopus humei"
+ },
+ "wikidata": {
+  "id": "Q608313"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Himalayasanger",
+  "extract": "Himalayasanger er en lille spurvefugl på 9-10 cm. Arten er er også blevet kaldt Humes sanger.",
+  "url": "https://da.wikipedia.org/wiki/Himalayasanger"
+ },
+ "inat": {
+  "id": 117026,
+  "observations": 2344
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 376289524,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/376289524/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/376289524/large.jpeg",
+    "attribution": "(c) Yelena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/212934458",
+    "place": "Атакент, Алматы, Казахстан",
+    "date": "2024-04-26"
+   },
+   {
+    "id": 209612059,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209612059/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/209612059/large.jpeg",
+    "attribution": "(c) Регина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/123716064",
+    "place": "Каратузский р-н, Красноярский край, Россия",
+    "date": "2022-06-21"
+   },
+   {
+    "id": 684755330,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684755330/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684755330/large.jpg",
+    "attribution": "(c) Наталья Савельева, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/374539392",
+    "place": "Ongudayskiy rayon, RU-GA, RU",
+    "date": "2026-06-23"
+   }
+  ],
+  "female": [
+   {
+    "id": 684406506,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684406506/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/684406506/large.jpg",
+    "attribution": "(c) 韩一墨, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/374440675",
+    "place": "崇礼区, 张家口市, 河北省, CN",
+    "date": "2026-06-21"
+   }
+  ],
+  "juvenile": [],
+  "hero": {
+   "id": 170310402,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170310402/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/170310402/large.jpg",
+   "attribution": "(c) Avinash Bhagat, some rights reserved (CC BY-NC), uploaded by Avinash Bhagat",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/170310402",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 7341522,
+  "dkTotal": 1264,
+  "dkMonths": [
+   251,
+   122,
+   24,
+   18,
+   0,
+   0,
+   0,
+   0,
+   17,
+   166,
+   566,
+   99
+  ],
+  "worldTotal": 120898,
+  "topCountries": [
+   {
+    "code": "IN",
+    "count": 68612
+   },
+   {
+    "code": "NL",
+    "count": 10385
+   },
+   {
+    "code": "NP",
+    "count": 9547
+   },
+   {
+    "code": "SE",
+    "count": 5162
+   },
+   {
+    "code": "CN",
+    "count": 4077
+   },
+   {
+    "code": "TH",
+    "count": 3787
+   },
+   {
+    "code": "KZ",
+    "count": 2408
+   },
+   {
+    "code": "PK",
+    "count": 2158
+   },
+   {
+    "code": "KG",
+    "count": 1429
+   },
+   {
+    "code": "GB",
+    "count": 1374
+   },
+   {
+    "code": "DK",
+    "count": 1264
+   },
+   {
+    "code": "MN",
+    "count": 1222
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1172292/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Oscar Campbell",
+  "page": "https://xeno-canto.org/1172292",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

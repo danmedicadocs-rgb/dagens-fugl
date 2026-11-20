@@ -1,0 +1,167 @@
+{
+ "key": "onychoprion-anaethetus",
+ "name": "Onychoprion anaethetus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:39.916Z",
+ "names": {
+  "da": "Brilleterne",
+  "en": "Bridled Tern",
+  "accepted": "Onychoprion anaethetus"
+ },
+ "wikidata": {
+  "id": "Q28490"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Bridled tern",
+  "extract": "The bridled tern is a seabird of the family Laridae. It is a bird of the tropical oceans. The scientific name is from Ancient Greek. The genus comes from onux meaning \"claw\" or \"nail\", and prion, meaning \"saw\". The specific anaethetus means \"senseless, stupid\", in reference to its tameness around humans.",
+  "url": "https://en.wikipedia.org/wiki/Bridled_tern"
+ },
+ "inat": {
+  "id": 144527,
+  "observations": 3218
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 334664251,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334664251/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334664251/large.jpeg",
+    "attribution": "(c) Eddy Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190850777",
+    "place": "Western Australia, AU",
+    "date": "2018-02-17"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 325361207,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325361207/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325361207/large.jpeg",
+    "attribution": "(c) bcur155, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186210634",
+    "place": null,
+    "date": "2023-08-19"
+   },
+   {
+    "id": 422311846,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422311846/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/422311846/large.jpg",
+    "attribution": "(c) Stephen John Davies, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/237323005",
+    "place": null,
+    "date": "2024-08-17"
+   },
+   {
+    "id": 421029022,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/421029022/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/421029022/large.jpeg",
+    "attribution": "(c) David Vander Pluym, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/236644444",
+    "place": null,
+    "date": "2024-08-17"
+   }
+  ],
+  "hero": {
+   "id": 199581302,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/199581302/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/199581302/large.jpg",
+   "attribution": "(c) cog2022, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/199581302",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5789286,
+  "dkTotal": 49,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   37,
+   11,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 53589,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 17497
+   },
+   {
+    "code": "US",
+    "count": 7479
+   },
+   {
+    "code": "TW",
+    "count": 5248
+   },
+   {
+    "code": "IN",
+    "count": 1905
+   },
+   {
+    "code": "AE",
+    "count": 1809
+   },
+   {
+    "code": "ID",
+    "count": 1517
+   },
+   {
+    "code": "HK",
+    "count": 1239
+   },
+   {
+    "code": "LK",
+    "count": 1114
+   },
+   {
+    "code": "SC",
+    "count": 1075
+   },
+   {
+    "code": "OM",
+    "count": 870
+   },
+   {
+    "code": "GP",
+    "count": 821
+   },
+   {
+    "code": "PR",
+    "count": 817
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1069484/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/1069484",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

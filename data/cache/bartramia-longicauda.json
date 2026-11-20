@@ -1,0 +1,187 @@
+{
+ "key": "bartramia-longicauda",
+ "name": "Bartramia longicauda",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:50:57.532Z",
+ "names": {
+  "da": "Bartramsklire",
+  "en": "Upland Sandpiper",
+  "accepted": "Bartramia longicauda"
+ },
+ "wikidata": {
+  "id": "Q530194"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Bartramsklire",
+  "extract": "Bartramsklire er en vadefugl, der kun er set to gange i Danmark, sandsynligvis som gæst fra Nordamerika. Første gang var 3. november 1920 i Tim ved Ringkøbing, hvor en ung hun blev skudt. Den 8. november 2015 blev arten igen set ved Tipperne i Vestjylland. Bartramskliren er opkaldt efter den amerikanske naturforsker William Bartram (1739–1823). Det videnskabelige artsnavn longicauda betyder 'langhalet'.",
+  "url": "https://da.wikipedia.org/wiki/Bartramsklire"
+ },
+ "inat": {
+  "id": 3962,
+  "observations": 5852
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 22014308,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22014308/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22014308/large.jpg",
+    "attribution": "(c) Logan McLeod, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/14756463",
+    "place": "Yukon, YT, Canada",
+    "date": "2018-06-04"
+   },
+   {
+    "id": 392646390,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392646390/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/392646390/large.jpeg",
+    "attribution": "(c) Leo Weiskittel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/221634718",
+    "place": "Carden Alvar (McNamee Rd fields), Kawartha Lakes, Ontario, Canada",
+    "date": "2024-06-09"
+   },
+   {
+    "id": 712161289,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/712161289/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/712161289/large.jpg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/388819064",
+    "place": "C6H2+MQ9 Cannon Ball, ND",
+    "date": "2024-06-23"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 134723640,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134723640/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/134723640/large.jpeg",
+    "attribution": "(c) Dan MacNeal, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/82103157",
+    "place": "Dufferin County, ON, Canada",
+    "date": "2021-06-07"
+   },
+   {
+    "id": 109941514,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109941514/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109941514/large.jpeg",
+    "attribution": "(c) bigayon, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/67964388",
+    "place": "Ouessant, France",
+    "date": "2019-10-20"
+   },
+   {
+    "id": 701673003,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/701673003/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/701673003/large.jpg",
+    "attribution": "(c) Wyatt Sulanka, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/383374544",
+    "place": "Clay Center, KS, US",
+    "date": "2025-06-19"
+   }
+  ],
+  "hero": {
+   "id": 156242671,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156242671/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/156242671/large.jpg",
+   "attribution": "(c) Coleen Lawlor, some rights reserved (CC BY-NC), uploaded by Coleen Lawlor",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/156242671",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481705,
+  "dkTotal": 53,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   52,
+   0
+  ],
+  "worldTotal": 198013,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 150581
+   },
+   {
+    "code": "CA",
+    "count": 34250
+   },
+   {
+    "code": "AR",
+    "count": 3377
+   },
+   {
+    "code": "MX",
+    "count": 1421
+   },
+   {
+    "code": "BO",
+    "count": 1163
+   },
+   {
+    "code": "UY",
+    "count": 853
+   },
+   {
+    "code": "CO",
+    "count": 658
+   },
+   {
+    "code": "BR",
+    "count": 578
+   },
+   {
+    "code": "CR",
+    "count": 532
+   },
+   {
+    "code": "GB",
+    "count": 506
+   },
+   {
+    "code": "PY",
+    "count": 491
+   },
+   {
+    "code": "PE",
+    "count": 376
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/861197/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/861197",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

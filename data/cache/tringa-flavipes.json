@@ -1,0 +1,177 @@
+{
+ "key": "tringa-flavipes",
+ "name": "Tringa flavipes",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:24.862Z",
+ "names": {
+  "da": "Lille gulben",
+  "en": "Lesser Yellowlegs",
+  "accepted": "Tringa flavipes"
+ },
+ "wikidata": {
+  "id": "Q28000"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Lille gulben",
+  "extract": "Lille gulben er en vadefugl, der ses som en meget sjælden gæst i Danmark fra det nordlige Nordamerika. Det videnskabelige navn flavipes betyder 'med gule ben'.",
+  "url": "https://da.wikipedia.org/wiki/Lille_gulben"
+ },
+ "inat": {
+  "id": 3893,
+  "observations": 40789
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 135193898,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135193898/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/135193898/large.jpeg",
+    "attribution": "(c) Quinn, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/82376281",
+    "place": "Savary Island, Powell River A, BC, Canada",
+    "date": "2019-08-04"
+   },
+   {
+    "id": 37876107,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37876107/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/37876107/large.jpg",
+    "attribution": "(c) Ivan Clemente Torres, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24494305",
+    "place": "Unnamed Road, Yucatán, México",
+    "date": "2019-04-16"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 308401282,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/308401282/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/308401282/large.jpeg",
+    "attribution": "(c) Guy Lemelin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/177328387",
+    "place": "Chemin de la Grève Est, Saint-Denis-de-la-Bouteillerie, Bas-Saint-Laurent, QC, Canada",
+    "date": "2023-08-06"
+   },
+   {
+    "id": 230799021,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230799021/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/230799021/large.jpg",
+    "attribution": "(c) Sandra Keller, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/135328224",
+    "place": "Auglaize County, OH, USA",
+    "date": "2022-09-05"
+   },
+   {
+    "id": 474201520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474201520/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/474201520/large.jpg",
+    "attribution": "(c) Dan Williams, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/263914951",
+    "place": "Jackson County, OR, USA",
+    "date": "2022-08-18"
+   }
+  ],
+  "hero": {
+   "id": 260887463,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260887463/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/260887463/large.jpg",
+   "attribution": "(c) Jonathan Irons, some rights reserved (CC BY-NC), uploaded by Jonathan Irons",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/260887463",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481721,
+  "dkTotal": 668,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   90,
+   82,
+   48,
+   82,
+   44,
+   0,
+   233,
+   87,
+   0
+  ],
+  "worldTotal": 1903329,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1358749
+   },
+   {
+    "code": "CA",
+    "count": 331273
+   },
+   {
+    "code": "AR",
+    "count": 25004
+   },
+   {
+    "code": "CL",
+    "count": 19470
+   },
+   {
+    "code": "MX",
+    "count": 18359
+   },
+   {
+    "code": "PR",
+    "count": 12163
+   },
+   {
+    "code": "BR",
+    "count": 10882
+   },
+   {
+    "code": "CO",
+    "count": 10677
+   },
+   {
+    "code": "PE",
+    "count": 9426
+   },
+   {
+    "code": "CR",
+    "count": 7854
+   },
+   {
+    "code": "UY",
+    "count": 6365
+   },
+   {
+    "code": "NL",
+    "count": 6222
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/563587/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Krzysztof Deoniziak",
+  "page": "https://xeno-canto.org/563587",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

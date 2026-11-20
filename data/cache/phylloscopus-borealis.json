@@ -1,0 +1,146 @@
+{
+ "key": "phylloscopus-borealis",
+ "name": "Phylloscopus borealis",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:58:42.340Z",
+ "names": {
+  "da": "Nordsanger",
+  "en": "Arctic Warbler",
+  "accepted": "Phylloscopus borealis"
+ },
+ "wikidata": {
+  "id": "Q720497"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Arctic warbler",
+  "extract": "The Arctic warbler is a widespread leaf warbler in birch or mixed birch forest near water throughout its breeding range in Fennoscandia and the northern Palearctic. It has established a foothold in North America, breeding in Alaska. This warbler is strongly migratory; the entire population winters in southeast Asia. It therefore has one of the longest migrations of any Old World insectivorous bird.",
+  "url": "https://en.wikipedia.org/wiki/Arctic_warbler"
+ },
+ "inat": {
+  "id": 117008,
+  "observations": 3438
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 477416577,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477416577/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477416577/large.jpeg",
+    "attribution": "(c) Mathieu Pélissié, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265763378",
+    "place": "Kiruna, Svezia",
+    "date": "2021-06-24"
+   },
+   {
+    "id": 316713562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316713562/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316713562/large.jpg",
+    "attribution": "(c) Dmitry Dubikovskiy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181725317",
+    "place": "Иволгинский р-н, Респ. Бурятия, Россия",
+    "date": "2023-08-23"
+   }
+  ],
+  "female": [],
+  "juvenile": [],
+  "hero": {
+   "id": 340277078,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/340277078/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/340277078/large.jpg",
+   "attribution": "(c) Filipp Suvorov, some rights reserved (CC BY-NC), uploaded by Filipp Suvorov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/340277078",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2493071,
+  "dkTotal": 372,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   9,
+   27,
+   126,
+   209,
+   0,
+   0
+  ],
+  "worldTotal": 109931,
+  "topCountries": [
+   {
+    "code": "TW",
+    "count": 44178
+   },
+   {
+    "code": "SG",
+    "count": 11987
+   },
+   {
+    "code": "US",
+    "count": 10892
+   },
+   {
+    "code": "CN",
+    "count": 6614
+   },
+   {
+    "code": "PH",
+    "count": 6509
+   },
+   {
+    "code": "TH",
+    "count": 4838
+   },
+   {
+    "code": "MY",
+    "count": 4278
+   },
+   {
+    "code": "HK",
+    "count": 2737
+   },
+   {
+    "code": "RU",
+    "count": 2595
+   },
+   {
+    "code": "KR",
+    "count": 2533
+   },
+   {
+    "code": "SE",
+    "count": 2531
+   },
+   {
+    "code": "NO",
+    "count": 1979
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1193796/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Petter Westberg",
+  "page": "https://xeno-canto.org/1193796",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

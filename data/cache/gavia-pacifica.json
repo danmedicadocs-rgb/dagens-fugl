@@ -1,0 +1,198 @@
+{
+ "key": "gavia-pacifica",
+ "name": "Gavia pacifica",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:49:09.960Z",
+ "names": {
+  "da": "Stillehavslom",
+  "en": "Pacific Diver",
+  "accepted": "Gavia pacifica"
+ },
+ "wikidata": {
+  "id": "Q558990"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Stillehavslom",
+  "extract": "Stillehavslom er en fugl i lomslægten, der lever i Alaska, Canada og det østlige Sibirien.",
+  "url": "https://da.wikipedia.org/wiki/Stillehavslom"
+ },
+ "inat": {
+  "id": 4621,
+  "observations": 6207
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 501904346,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/501904346/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/501904346/large.jpg",
+    "attribution": "(c) forest, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/279499421",
+    "place": "Clallam County, WA, USA",
+    "date": "2025-05-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 216959011,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216959011/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/216959011/large.jpeg",
+    "attribution": "(c) Lindsay Gray Carlson, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/127774456",
+    "place": "Prince Charles Island, Nunavut X0A, Canada",
+    "date": "2022-06-29"
+   },
+   {
+    "id": 239815416,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239815416/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/239815416/large.jpg",
+    "attribution": "(c) Matt Goff, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/140127193",
+    "place": "Sitka, AK, USA",
+    "date": "2022-01-01"
+   },
+   {
+    "id": 12894963,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12894963/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12894963/large.jpg",
+    "attribution": "(c) connordunlap, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/9474753",
+    "place": "Sitka, AK, USA",
+    "date": "2018-01-14"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 488548443,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/488548443/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/488548443/large.jpg",
+    "attribution": "(c) cigazze, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/271594177",
+    "place": "Squirrel Hill South, Pittsburgh, PA, USA",
+    "date": "2025-04-19"
+   },
+   {
+    "id": 452487105,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/452487105/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/452487105/large.jpeg",
+    "attribution": "(c) lonnyholmes, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252745843",
+    "place": "Las Vegas, NV, USA",
+    "date": "2024-11-20"
+   },
+   {
+    "id": 287288311,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287288311/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287288311/large.jpg",
+    "attribution": "(c) Caleb Strand, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/165932168",
+    "place": "N 62nd Dr, Glendale, AZ, US",
+    "date": "2015-11-19"
+   }
+  ],
+  "hero": {
+   "id": 172494537,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172494537/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172494537/large.jpg",
+   "attribution": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/172494537",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481955,
+  "dkTotal": 773,
+  "dkMonths": [
+   101,
+   92,
+   1,
+   0,
+   84,
+   0,
+   0,
+   210,
+   11,
+   25,
+   8,
+   241
+  ],
+  "worldTotal": 299245,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 228464
+   },
+   {
+    "code": "CA",
+    "count": 61414
+   },
+   {
+    "code": "MX",
+    "count": 2785
+   },
+   {
+    "code": "NL",
+    "count": 2104
+   },
+   {
+    "code": "JP",
+    "count": 871
+   },
+   {
+    "code": "DK",
+    "count": 773
+   },
+   {
+    "code": "GB",
+    "count": 531
+   },
+   {
+    "code": "KR",
+    "count": 505
+   },
+   {
+    "code": "NO",
+    "count": 467
+   },
+   {
+    "code": "RU",
+    "count": 351
+   },
+   {
+    "code": "SE",
+    "count": 342
+   },
+   {
+    "code": "ES",
+    "count": 173
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/406246/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Patrik Åberg",
+  "page": "https://xeno-canto.org/406246",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

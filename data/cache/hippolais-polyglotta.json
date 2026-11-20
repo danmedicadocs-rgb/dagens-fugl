@@ -1,0 +1,187 @@
+{
+ "key": "hippolais-polyglotta",
+ "name": "Hippolais polyglotta",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:10.648Z",
+ "names": {
+  "da": "Spottesanger",
+  "en": null,
+  "accepted": "Hippolais polyglotta"
+ },
+ "wikidata": {
+  "id": "Q752539"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Melodious warbler",
+  "extract": "The melodious warbler is an Old World warbler in the tree warbler genus Hippolais. It breeds in southwest Europe and northwest Africa. It is migratory, wintering in sub-Saharan Africa. This small passerine bird is a species found in open woodland with bushes. Three to five eggs are laid in a nest in a tree or a bush. This is a common bird in many parts of its wide range and the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\".",
+  "url": "https://en.wikipedia.org/wiki/Melodious_warbler"
+ },
+ "inat": {
+  "id": 116923,
+  "observations": 6216
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 128099214,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128099214/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/128099214/large.jpg",
+    "attribution": "(c) Donald Davesne, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/78287971",
+    "place": "Carrières-sous-Poissy, France",
+    "date": "2021-05-08"
+   },
+   {
+    "id": 136828311,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136828311/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136828311/large.jpeg",
+    "attribution": "(c) rober025, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83318803",
+    "place": "Remerschen ",
+    "date": "2021-06-15"
+   },
+   {
+    "id": 622818296,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/622818296/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/622818296/large.jpg",
+    "attribution": "(c) Georges Olioso, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342052362",
+    "place": "84300 Cavaillon, France",
+    "date": "2024-06-22"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 409920993,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/409920993/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/409920993/large.jpeg",
+    "attribution": "(c) Pascal Dubois, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/230843814",
+    "place": "42410 Saint-Michel-sur-Rhône, France",
+    "date": "2024-07-19"
+   },
+   {
+    "id": 723119093,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/723119093/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/723119093/large.jpg",
+    "attribution": "(c) yannponthieux, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/394441117",
+    "place": "Le Cailar, France",
+    "date": "2023-07-01"
+   },
+   {
+    "id": 318137995,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318137995/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/318137995/large.jpeg",
+    "attribution": "(c) franciscodocampo, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/182460272",
+    "place": "F727+HQ, 32449 Os Peares, Ourense, España",
+    "date": "2023-09-09"
+   }
+  ],
+  "hero": {
+   "id": 31707568,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31707568/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/31707568/large.jpg",
+   "attribution": "(c) naturpel, some rights reserved (CC BY-NC), uploaded by naturpel",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/31707568",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2493214,
+  "dkTotal": 48,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   33,
+   0,
+   9,
+   4,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 412375,
+  "topCountries": [
+   {
+    "code": "FR",
+    "count": 184556
+   },
+   {
+    "code": "ES",
+    "count": 167544
+   },
+   {
+    "code": "PT",
+    "count": 26209
+   },
+   {
+    "code": "CH",
+    "count": 9587
+   },
+   {
+    "code": "NL",
+    "count": 8067
+   },
+   {
+    "code": "IT",
+    "count": 4381
+   },
+   {
+    "code": "BE",
+    "count": 1862
+   },
+   {
+    "code": "DE",
+    "count": 1562
+   },
+   {
+    "code": "MA",
+    "count": 1556
+   },
+   {
+    "code": "GM",
+    "count": 1132
+   },
+   {
+    "code": "GB",
+    "count": 1062
+   },
+   {
+    "code": "SE",
+    "count": 879
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1175101/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/1175101",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

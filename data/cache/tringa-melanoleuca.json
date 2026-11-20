@@ -1,0 +1,208 @@
+{
+ "key": "tringa-melanoleuca",
+ "name": "Tringa melanoleuca",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:51:30.005Z",
+ "names": {
+  "da": "Stor gulben",
+  "en": "Greater Yellowlegs",
+  "accepted": "Tringa melanoleuca"
+ },
+ "wikidata": {
+  "id": "Q570379"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Greater yellowlegs",
+  "extract": "The greater yellowlegs is a large shorebird in the family Scolopacidae. It breeds in central Canada and southern Alaska and winters in southern North America, Central America, the West Indies and South America.",
+  "url": "https://en.wikipedia.org/wiki/Greater_yellowlegs"
+ },
+ "inat": {
+  "id": 3892,
+  "observations": 78689
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 21243843,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21243843/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21243843/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14303094",
+    "place": "Santa Cruz County, CA, USA",
+    "date": "2016-11-25"
+   },
+   {
+    "id": 1358532,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1358532/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1358532/large.jpg",
+    "attribution": "(c) Sandia Mountain Natural History Center, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1081924",
+    "place": "Bosque Del Apache National Wildlife Refuge, Socorro County, US-NM, US",
+    "date": "2014-11-17"
+   },
+   {
+    "id": 21237148,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21237148/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/21237148/large.jpg",
+    "attribution": "(c) Michael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/14299291",
+    "place": "San Diego River, San Diego, CA 92109, USA",
+    "date": "2017-10-20"
+   }
+  ],
+  "female": [
+   {
+    "id": 570601851,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/570601851/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/570601851/large.jpg",
+    "attribution": "(c) Arthur Whiting, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/315844597",
+    "place": "St. Albert, AB, Canada",
+    "date": "2025-09-21"
+   },
+   {
+    "id": 317160061,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/317160061/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/317160061/large.jpg",
+    "attribution": "(c) beast_mode, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181959763",
+    "place": "Delta, BC, Canada",
+    "date": "2023-09-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 142765696,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142765696/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/142765696/large.jpg",
+    "attribution": "(c) Christopher Rustay, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/86641541",
+    "place": "Curry County, NM, USA",
+    "date": "2018-09-12"
+   },
+   {
+    "id": 543018584,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/543018584/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/543018584/large.jpg",
+    "attribution": "(c) Stephen B. Brown, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/301349692",
+    "place": "Pincher Creek No. 9, AB, Canada",
+    "date": "2025-07-25"
+   },
+   {
+    "id": 675932666,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/675932666/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/675932666/large.jpg",
+    "attribution": "(c) Michael G. Shepard, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/370016786",
+    "place": "Oak Bay, BC, Canada",
+    "date": "2009-09-09"
+   }
+  ],
+  "hero": {
+   "id": 13184845,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13184845/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13184845/large.jpg",
+   "attribution": "(c) Lee Jaffe, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/13184845",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481720,
+  "dkTotal": 126,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   125,
+   0
+  ],
+  "worldTotal": 2945707,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2300000
+   },
+   {
+    "code": "CA",
+    "count": 453757
+   },
+   {
+    "code": "MX",
+    "count": 32312
+   },
+   {
+    "code": "CL",
+    "count": 19194
+   },
+   {
+    "code": "AR",
+    "count": 18356
+   },
+   {
+    "code": "CO",
+    "count": 11249
+   },
+   {
+    "code": "PE",
+    "count": 9591
+   },
+   {
+    "code": "PR",
+    "count": 7856
+   },
+   {
+    "code": "BR",
+    "count": 7292
+   },
+   {
+    "code": "UY",
+    "count": 7041
+   },
+   {
+    "code": "CR",
+    "count": 6814
+   },
+   {
+    "code": "CU",
+    "count": 4840
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1191841/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "JAYRSON ARAUJO DE OLIVEIRA",
+  "page": "https://xeno-canto.org/1191841",
+  "type": "flight call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

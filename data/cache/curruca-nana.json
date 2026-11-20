@@ -1,0 +1,157 @@
+{
+ "key": "curruca-nana",
+ "name": "Curruca nana",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:58:48.709Z",
+ "names": {
+  "da": "Asiatisk ørkensanger",
+  "en": null,
+  "accepted": "Curruca nana"
+ },
+ "wikidata": {
+  "id": "Q110257494"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Asian desert warbler",
+  "extract": "The Asian desert warbler is an Old World warbler which breeds in the deserts of central and western Asia and the extreme east of Europe, and migrating to similar habitats in southwestern Asia and the far northeast of Africa in winter. Until recently it was considered conspecific with the African desert warbler, but is now given specific status. The two are still each other's closest living relatives, and their relationships to other typical warblers are not clear. They may be fairly close to the common whitethroat; particularly, female whitethroats look much like a richly coloured Asian desert warbler. But it seems that all these three taxa are fairly basal members of the genus.",
+  "url": "https://en.wikipedia.org/wiki/Asian_desert_warbler"
+ },
+ "inat": {
+  "id": 1289477,
+  "observations": 366
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [
+   {
+    "id": 82266882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82266882/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82266882/large.jpeg",
+    "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/51766745",
+    "place": "Rann of Kutch, Gujarat",
+    "date": "2020-02-01"
+   },
+   {
+    "id": 356169762,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356169762/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/356169762/large.jpeg",
+    "attribution": "(c) Jigar Patel, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/201740623",
+    "place": "Suigam, Gujarat, India",
+    "date": "2024-01-27"
+   },
+   {
+    "id": 601484764,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/601484764/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/601484764/large.jpg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/331547844",
+    "place": "Netsi, Rajasthan, India",
+    "date": "2025-12-17"
+   }
+  ],
+  "hero": {
+   "id": 1635533,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1635533/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1635533/large.jpg",
+   "attribution": "(c) Birds of Qatar and Middle East, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/1635533",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2492963,
+  "dkTotal": 63,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   58,
+   0,
+   0,
+   0,
+   0,
+   0,
+   4,
+   0
+  ],
+  "worldTotal": 13116,
+  "topCountries": [
+   {
+    "code": "AE",
+    "count": 3064
+   },
+   {
+    "code": "IN",
+    "count": 2174
+   },
+   {
+    "code": "SE",
+    "count": 1402
+   },
+   {
+    "code": "OM",
+    "count": 1193
+   },
+   {
+    "code": "IL",
+    "count": 1002
+   },
+   {
+    "code": "KW",
+    "count": 603
+   },
+   {
+    "code": "KZ",
+    "count": 487
+   },
+   {
+    "code": "MN",
+    "count": 479
+   },
+   {
+    "code": "NL",
+    "count": 455
+   },
+   {
+    "code": "SA",
+    "count": 394
+   },
+   {
+    "code": "GB",
+    "count": 359
+   },
+   {
+    "code": "IR",
+    "count": 188
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/569628/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Jacob Spinks",
+  "page": "https://xeno-canto.org/569628",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

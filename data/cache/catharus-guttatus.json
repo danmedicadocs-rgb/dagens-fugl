@@ -1,0 +1,218 @@
+{
+ "key": "catharus-guttatus",
+ "name": "Catharus guttatus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:59:35.862Z",
+ "names": {
+  "da": "Eremitdrossel",
+  "en": "Hermit Thrush",
+  "accepted": "Catharus guttatus"
+ },
+ "wikidata": {
+  "id": "Q846350"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Hermit thrush",
+  "extract": "The hermit thrush is a medium-sized North American thrush.",
+  "url": "https://en.wikipedia.org/wiki/Hermit_thrush"
+ },
+ "inat": {
+  "id": 12890,
+  "observations": 68286
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 17280312,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17280312/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/17280312/large.png",
+    "attribution": "(c) Allan MacMillan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/12053359",
+    "place": "Marion Bridge, NS, Canada",
+    "date": "2018-05-02"
+   },
+   {
+    "id": 333217135,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333217135/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333217135/large.jpg",
+    "attribution": "(c) aldenohere, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190121340",
+    "place": "Crow Hollow Rd, Fayetteville, WV, US",
+    "date": "2023-11-04"
+   },
+   {
+    "id": 498249195,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/498249195/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/498249195/large.jpg",
+    "attribution": "(c) tprario, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/277485500",
+    "place": "Myles Standish State Forest, Massachusetts, USA",
+    "date": "2025-05-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 19914717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19914717/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/19914717/large.jpeg",
+    "attribution": "(c) Nick Tepper, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/13547529",
+    "place": "Lincoln, VT 05443, USA",
+    "date": "2018-06-07"
+   },
+   {
+    "id": 579333007,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/579333007/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/579333007/large.jpg",
+    "attribution": "(c) Sasha Chilibeck, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/320422786",
+    "place": "Nova Scotia, CA",
+    "date": "2025-05-27"
+   },
+   {
+    "id": 477137981,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/477137981/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/477137981/large.jpeg",
+    "attribution": "(c) parrott-d, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/265620161",
+    "place": "Jamaica Beach, TX 77554, USA",
+    "date": "2025-03-16"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 234022680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/234022680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/234022680/large.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/137065052",
+    "place": "Heather Ln, Rutland, VT, USA",
+    "date": "2022-09-30"
+   },
+   {
+    "id": 400877428,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/400877428/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/400877428/large.jpg",
+    "attribution": "(c) Jimmy Dee, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/226063611",
+    "place": "Capital Region Rural District, NB, Canada",
+    "date": "2024-06-28"
+   },
+   {
+    "id": 558955214,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/558955214/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/558955214/large.jpg",
+    "attribution": "(c) Olivia Doucet-Sawyer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309735003",
+    "place": "Saint-Antoine, NB, Canada",
+    "date": "2025-08-28"
+   }
+  ],
+  "hero": {
+   "id": 55985643,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55985643/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/55985643/large.jpg",
+   "attribution": "(c) matthew_wills, some rights reserved (CC BY-NC), uploaded by matthew_wills",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/55985643",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2490810,
+  "dkTotal": 10,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   9,
+   0
+  ],
+  "worldTotal": 3245215,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 2704568
+   },
+   {
+    "code": "CA",
+    "count": 524486
+   },
+   {
+    "code": "MX",
+    "count": 14552
+   },
+   {
+    "code": "PM",
+    "count": 384
+   },
+   {
+    "code": "BM",
+    "count": 286
+   },
+   {
+    "code": "GT",
+    "count": 256
+   },
+   {
+    "code": "GB",
+    "count": 99
+   },
+   {
+    "code": "BS",
+    "count": 43
+   },
+   {
+    "code": "IS",
+    "count": 23
+   },
+   {
+    "code": "ZZ",
+    "count": 20
+   },
+   {
+    "code": "HN",
+    "count": 18
+   },
+   {
+    "code": "PT",
+    "count": 18
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1048898/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "AUDEVARD Aurélien",
+  "page": "https://xeno-canto.org/1048898",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

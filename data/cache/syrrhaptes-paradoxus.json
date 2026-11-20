@@ -1,0 +1,208 @@
+{
+ "key": "syrrhaptes-paradoxus",
+ "name": "Syrrhaptes paradoxus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:49:36.916Z",
+ "names": {
+  "da": "Steppehøne",
+  "en": "Pallas’s Sandgrouse",
+  "accepted": "Syrrhaptes paradoxus"
+ },
+ "wikidata": {
+  "id": "Q128002"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Pallas's sandgrouse",
+  "extract": "Pallas's sandgrouse is a medium to large bird in the sandgrouse family.",
+  "url": "https://en.wikipedia.org/wiki/Pallas's_sandgrouse"
+ },
+ "inat": {
+  "id": 117119,
+  "observations": 423
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 731291816,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731291816/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731291816/large.jpg",
+    "attribution": "(c) Martin Kennewell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398634568",
+    "place": "Sharga, Govi-Altai, Mongolia",
+    "date": "2026-05-30"
+   },
+   {
+    "id": 727287712,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727287712/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727287712/large.jpg",
+    "attribution": "(c) Martin Kennewell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/396584412",
+    "place": "Xairxandulaan, Ovorkhangai, Mongolia",
+    "date": "2026-05-27"
+   },
+   {
+    "id": 301178607,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301178607/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301178607/large.jpg",
+    "attribution": "(c) Алексей Сальников, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/173429847",
+    "place": "Кош-Агачский р-н, Респ. Алтай, Россия",
+    "date": "2023-05-23"
+   }
+  ],
+  "female": [
+   {
+    "id": 301178487,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/301178487/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/301178487/large.jpg",
+    "attribution": "(c) Алексей Сальников, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/173429841",
+    "place": "Кош-Агачский р-н, Респ. Алтай, Россия",
+    "date": "2023-05-23"
+   },
+   {
+    "id": 727287740,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/727287740/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/727287740/large.jpg",
+    "attribution": "(c) Martin Kennewell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/396584413",
+    "place": "Xairxandulaan, Ovorkhangai, Mongolia",
+    "date": "2026-05-27"
+   },
+   {
+    "id": 731291813,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/731291813/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/731291813/large.jpg",
+    "attribution": "(c) Martin Kennewell, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/398634569",
+    "place": "Sharga, Govi-Altai, Mongolia",
+    "date": "2026-05-30"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 28435886,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28435886/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28435886/large.jpg",
+    "attribution": "(c) Aleksey Levashkin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18583457",
+    "place": "Кош-Агачский р-н, Респ. Алтай, Россия",
+    "date": "2011-07-22"
+   },
+   {
+    "id": 524957064,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/524957064/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/524957064/large.jpg",
+    "attribution": "(c) Sarah Wang, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/291753572",
+    "place": "Sevrei, Ömnögovi, Mongolia",
+    "date": "2025-06-02"
+   }
+  ],
+  "hero": {
+   "id": 405757867,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/405757867/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/405757867/large.jpeg",
+   "attribution": "(c) Nickel, some rights reserved (CC BY-NC), uploaded by Nickel",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/405757867",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480208,
+  "dkTotal": 259,
+  "dkMonths": [
+   7,
+   4,
+   1,
+   5,
+   63,
+   20,
+   53,
+   10,
+   16,
+   41,
+   3,
+   8
+  ],
+  "worldTotal": 5071,
+  "topCountries": [
+   {
+    "code": "MN",
+    "count": 2301
+   },
+   {
+    "code": "KZ",
+    "count": 804
+   },
+   {
+    "code": "CN",
+    "count": 740
+   },
+   {
+    "code": "DK",
+    "count": 259
+   },
+   {
+    "code": "RU",
+    "count": 200
+   },
+   {
+    "code": "NL",
+    "count": 90
+   },
+   {
+    "code": "NO",
+    "count": 86
+   },
+   {
+    "code": "UA",
+    "count": 66
+   },
+   {
+    "code": "SE",
+    "count": 54
+   },
+   {
+    "code": "GB",
+    "count": 53
+   },
+   {
+    "code": "KG",
+    "count": 50
+   },
+   {
+    "code": "UZ",
+    "count": 33
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1182304/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Meena Haribal",
+  "page": "https://xeno-canto.org/1182304",
+  "type": "call, flight call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

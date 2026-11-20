@@ -1,0 +1,177 @@
+{
+ "key": "locustella-lanceolata",
+ "name": "Locustella lanceolata",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:57:37.195Z",
+ "names": {
+  "da": "Stribet Græshoppesanger",
+  "en": null,
+  "accepted": "Locustella lanceolata"
+ },
+ "wikidata": {
+  "id": "Q837761"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Lanceolated warbler",
+  "extract": "The lanceolated warbler is a species of Old World warbler in the genus Locustella. It breeds from northwest European Russia across the Palearctic to northern Hokkaidō, Japan. It is migratory, wintering in Southeast Asia. The genus name Locustella is from Latin and is a diminutive of locusta, \"grasshopper\". This refers to the song of the common grasshopper warbler and some others in this genus. The specific  lanceolata is Latin for \"spear-shaped\" and refers to the streaks on the breast.",
+  "url": "https://en.wikipedia.org/wiki/Lanceolated_warbler"
+ },
+ "inat": {
+  "id": 116939,
+  "observations": 694
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 41656098,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41656098/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41656098/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26812591",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2018-06-09"
+   },
+   {
+    "id": 41653975,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/41653975/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/41653975/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/26811328",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2017-07-11"
+   },
+   {
+    "id": 289599990,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289599990/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289599990/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/167189999",
+    "place": "Асиновский р-н, Томская обл., Россия",
+    "date": "2023-06-12"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 607159845,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607159845/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607159845/large.jpg",
+    "attribution": "(c) Sergey_Cher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334350197",
+    "place": "Кабанский р-н, Респ. Бурятия, Россия",
+    "date": "2012-08-14"
+   },
+   {
+    "id": 287581425,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/287581425/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/287581425/large.jpg",
+    "attribution": "(c) Татьяна, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/166090159",
+    "place": "Сосновоборск, Красноярский край, Россия",
+    "date": "2023-06-06"
+   }
+  ],
+  "hero": {
+   "id": 393255853,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/393255853/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/393255853/large.jpg",
+   "attribution": "(c) Leonid, some rights reserved (CC BY-NC), uploaded by Leonid",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/393255853",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2493550,
+  "dkTotal": 38,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   33,
+   1,
+   1
+  ],
+  "worldTotal": 11109,
+  "topCountries": [
+   {
+    "code": "TH",
+    "count": 2031
+   },
+   {
+    "code": "CN",
+    "count": 1868
+   },
+   {
+    "code": "RU",
+    "count": 1320
+   },
+   {
+    "code": "KH",
+    "count": 1007
+   },
+   {
+    "code": "SE",
+    "count": 701
+   },
+   {
+    "code": "TW",
+    "count": 594
+   },
+   {
+    "code": "HK",
+    "count": 579
+   },
+   {
+    "code": "JP",
+    "count": 376
+   },
+   {
+    "code": "NL",
+    "count": 284
+   },
+   {
+    "code": "VN",
+    "count": 267
+   },
+   {
+    "code": "SG",
+    "count": 256
+   },
+   {
+    "code": "GB",
+    "count": 249
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/26651/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "artist": "Patrik Åberg",
+  "page": "https://xeno-canto.org/26651",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

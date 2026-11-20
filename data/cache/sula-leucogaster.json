@@ -1,0 +1,218 @@
+{
+ "key": "sula-leucogaster",
+ "name": "Sula leucogaster",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:54:24.286Z",
+ "names": {
+  "da": "Brun Sule",
+  "en": "Brown Booby",
+  "accepted": "Sula leucogaster"
+ },
+ "wikidata": {
+  "id": "Q320193"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Brown booby",
+  "extract": "The brown booby is a large seabird in the booby and gannet family Sulidae, of which it is one of the most common and widespread species. It has a pantropical range, which overlaps with that of other booby species. The gregarious brown booby commutes and forages at low height over inshore waters. Flocks plunge-dive to take small fish, especially when these are driven near the surface by their predators. They nest only on the ground, and roost on solid objects rather than the water surface.",
+  "url": "https://en.wikipedia.org/wiki/Brown_booby"
+ },
+ "inat": {
+  "id": 3797,
+  "observations": 10281
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 203780707,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203780707/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203780707/large.jpeg",
+    "attribution": "(c) sscowen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/120480844",
+    "place": "Parekura Bay, New Zealand",
+    "date": "2021-09-03"
+   },
+   {
+    "id": 94263914,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94263914/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94263914/large.jpg",
+    "attribution": "(c) Leah, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/59016394",
+    "place": "Christman Rd, Green, OH, US",
+    "date": "2020-09-03"
+   },
+   {
+    "id": 203780682,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203780682/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/203780682/large.jpg",
+    "attribution": "(c) sscowen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/120480843",
+    "place": "Parekura Bay, New Zealand",
+    "date": "2021-09-02"
+   }
+  ],
+  "female": [
+   {
+    "id": 527566188,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/527566188/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/527566188/large.jpg",
+    "attribution": "(c) nhaass, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/293127063",
+    "place": "Iwo Jima, Iōjima, Ogasawara, Tokyo 100-2100, Japan",
+    "date": "2018-07-07"
+   },
+   {
+    "id": 482659123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482659123/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/482659123/large.jpg",
+    "attribution": "(c) siddiqj, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/268509128",
+    "place": "Pulu Keeling National Park, CC",
+    "date": "2025-04-02"
+   },
+   {
+    "id": 8377962,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8377962/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8377962/large.jpeg",
+    "attribution": "(c) Jonathan Layman, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/6599031",
+    "place": "Windham, NH, USA",
+    "date": "2017-06-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 559238201,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/559238201/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/559238201/large.jpg",
+    "attribution": "(c) Sam, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/309885873",
+    "place": "Michaelmas Cay, Australia",
+    "date": "2025-08-24"
+   },
+   {
+    "id": 107727870,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/107727870/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/107727870/large.jpg",
+    "attribution": "(c) jetlye, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/66777773",
+    "place": "Puerto Rico, Boquerón, PR, US",
+    "date": "2020-12-18"
+   },
+   {
+    "id": 162356499,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162356499/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162356499/large.jpeg",
+    "attribution": "(c) Kyle Dettloff, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/97606970",
+    "place": "Jackson County, MS, USA",
+    "date": "2021-09-09"
+   }
+  ],
+  "hero": {
+   "id": 211511287,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/211511287/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/211511287/large.jpg",
+   "attribution": "(c) Максим Стефанович, some rights reserved (CC BY-NC), uploaded by Максим Стефанович",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/211511287",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480975,
+  "dkTotal": 312,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   34,
+   182,
+   6,
+   90,
+   0
+  ],
+  "worldTotal": 295109,
+  "topCountries": [
+   {
+    "code": "AI",
+    "count": 118051
+   },
+   {
+    "code": "US",
+    "count": 36297
+   },
+   {
+    "code": "AU",
+    "count": 25949
+   },
+   {
+    "code": "BQ",
+    "count": 20002
+   },
+   {
+    "code": "BR",
+    "count": 11509
+   },
+   {
+    "code": "MF",
+    "count": 9856
+   },
+   {
+    "code": "PR",
+    "count": 5459
+   },
+   {
+    "code": "VI",
+    "count": 4798
+   },
+   {
+    "code": "TW",
+    "count": 4791
+   },
+   {
+    "code": "CO",
+    "count": 3378
+   },
+   {
+    "code": "VG",
+    "count": 2833
+   },
+   {
+    "code": "SX",
+    "count": 2465
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/927122/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "JAYRSON ARAUJO DE OLIVEIRA",
+  "page": "https://xeno-canto.org/927122",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

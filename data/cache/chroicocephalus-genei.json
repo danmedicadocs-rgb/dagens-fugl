@@ -1,0 +1,188 @@
+{
+ "key": "chroicocephalus-genei",
+ "name": "Chroicocephalus genei",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:53:09.659Z",
+ "names": {
+  "da": "Tyndnæbbet Måge",
+  "en": "Slender-billed Gull",
+  "accepted": "Chroicocephalus genei"
+ },
+ "wikidata": {
+  "id": "Q391421"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Slender-billed gull",
+  "extract": "The slender-billed gull is a mid-sized gull which breeds very locally around the Mediterranean and the north of the western Indian Ocean on islands and coastal lagoons. Most of the population is somewhat migratory, wintering further south to as far as North Africa and India. A few birds have wandered to western Europe. A vagrant individual was reportedly seen on Antigua, April 24, 1976.",
+  "url": "https://en.wikipedia.org/wiki/Slender-billed_gull"
+ },
+ "inat": {
+  "id": 144501,
+  "observations": 6873
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 104513413,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104513413/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104513413/large.jpeg",
+    "attribution": "(c) Mohammad Marafi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/64961126",
+    "place": "Hawalli, KW",
+    "date": "2020-11-15"
+   },
+   {
+    "id": 694671295,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/694671295/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/694671295/large.jpg",
+    "attribution": "(c) Pep Cantó, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/379749797",
+    "place": "Alicante, España",
+    "date": "2016-06-16"
+   },
+   {
+    "id": 104729783,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/104729783/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/104729783/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/65083889",
+    "place": "Málaga, Andalucía, Spain",
+    "date": "2020-11-06"
+   }
+  ],
+  "adult": [
+   {
+    "id": 394749199,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394749199/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394749199/large.jpg",
+    "attribution": "(c) Olga Eremenko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/222824464",
+    "place": "Центральный, Сочи, Краснодарский край, Россия",
+    "date": "2024-01-18"
+   },
+   {
+    "id": 229122242,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229122242/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/229122242/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/134421126",
+    "place": "Parque del Guadalhorce, 29004 Málaga, Spain",
+    "date": "2022-03-30"
+   },
+   {
+    "id": 259630557,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259630557/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/259630557/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/150554545",
+    "place": "Akshi Beach",
+    "date": "2021-02-06"
+   }
+  ],
+  "hero": {
+   "id": 1927834,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1927834/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1927834/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1927834",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 6065810,
+  "dkTotal": 17,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   17,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 169573,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 47181
+   },
+   {
+    "code": "FR",
+    "count": 29008
+   },
+   {
+    "code": "IL",
+    "count": 19158
+   },
+   {
+    "code": "AE",
+    "count": 9419
+   },
+   {
+    "code": "IN",
+    "count": 6269
+   },
+   {
+    "code": "TR",
+    "count": 6194
+   },
+   {
+    "code": "IT",
+    "count": 6076
+   },
+   {
+    "code": "OM",
+    "count": 4890
+   },
+   {
+    "code": "GR",
+    "count": 4752
+   },
+   {
+    "code": "PT",
+    "count": 4627
+   },
+   {
+    "code": "KW",
+    "count": 3047
+   },
+   {
+    "code": "SN",
+    "count": 2989
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/793024/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/793024",
+  "type": "call, song, short calls",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

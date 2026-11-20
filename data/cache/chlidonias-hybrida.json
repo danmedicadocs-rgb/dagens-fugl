@@ -1,0 +1,167 @@
+{
+ "key": "chlidonias-hybrida",
+ "name": "Chlidonias hybrida",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:44.926Z",
+ "names": {
+  "da": "Hvidskægget Terne",
+  "en": "Whiskered Tern",
+  "accepted": "Chlidonias hybrida"
+ },
+ "wikidata": {
+  "id": "Q233616"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Whiskered tern",
+  "extract": "The whiskered tern is a tern in the family Laridae. The genus name is from Ancient Greek khelidonios, \"swallow-like\", from khelidon, \"swallow\". The specific hybridus is Latin for hybrid; Peter Simon Pallas thought it might be a hybrid of white-winged black tern and common tern, writing \"Sterna fissipes [Chlidonias leucopterus] et Hirundine [Sterna hirundo] natam\".",
+  "url": "https://en.wikipedia.org/wiki/Whiskered_tern"
+ },
+ "inat": {
+  "id": 62148,
+  "observations": 20302
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 691828274,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/691828274/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/691828274/large.jpg",
+    "attribution": "(c) shajanshaki, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/378276277",
+    "place": "VQRC+PJ8, Kaveripuram, Tamil Nadu 636303, India",
+    "date": "2026-07-04"
+   }
+  ],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 688338325,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/688338325/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/688338325/large.jpg",
+    "attribution": "(c) Ron Greer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/376469896",
+    "place": "Wellington, VIC, Australia",
+    "date": "2026-06-27"
+   },
+   {
+    "id": 756694310,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/756694310/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/756694310/large.jpg",
+    "attribution": "(c) Kevin KP Lin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/411338977",
+    "place": "248台灣新北市五股區新城八路",
+    "date": "2026-10-27"
+   },
+   {
+    "id": 595692384,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/595692384/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/595692384/large.jpg",
+    "attribution": "(c) zgy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328703877",
+    "place": "Shandong, CN",
+    "date": "2025-11-23"
+   }
+  ],
+  "hero": {
+   "id": 1927693,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1927693/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1927693/large.jpg",
+   "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/1927693",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2481121,
+  "dkTotal": 879,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   13,
+   398,
+   143,
+   79,
+   2,
+   99,
+   139,
+   2,
+   2
+  ],
+  "worldTotal": 584233,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 120645
+   },
+   {
+    "code": "IN",
+    "count": 80304
+   },
+   {
+    "code": "TW",
+    "count": 68073
+   },
+   {
+    "code": "ES",
+    "count": 52193
+   },
+   {
+    "code": "ZA",
+    "count": 35345
+   },
+   {
+    "code": "FR",
+    "count": 33245
+   },
+   {
+    "code": "NL",
+    "count": 23743
+   },
+   {
+    "code": "TH",
+    "count": 18941
+   },
+   {
+    "code": "LK",
+    "count": 13368
+   },
+   {
+    "code": "PH",
+    "count": 13295
+   },
+   {
+    "code": "PL",
+    "count": 9641
+   },
+   {
+    "code": "CN",
+    "count": 8749
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/805046/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Joost van Bruggen",
+  "page": "https://xeno-canto.org/805046",
+  "type": "flight call, song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

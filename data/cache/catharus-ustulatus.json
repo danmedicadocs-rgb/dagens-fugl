@@ -1,0 +1,218 @@
+{
+ "key": "catharus-ustulatus",
+ "name": "Catharus ustulatus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:59:30.735Z",
+ "names": {
+  "da": "Olivenskovdrossel",
+  "en": "Swainson's Thrush",
+  "accepted": "Catharus ustulatus"
+ },
+ "wikidata": {
+  "id": "Q545006"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Swainson's thrush",
+  "extract": "Swainson's thrush, also called olive-backed thrush, russet-backed thrush, and salmonberry bird is a medium-sized thrush. It is a member of genus Catharus and is typical of it in terms of its subdued coloration and beautiful, ascending flute-like voice. Swainson's thrush was named after William Swainson, an English ornithologist.",
+  "url": "https://en.wikipedia.org/wiki/Swainson's_thrush"
+ },
+ "inat": {
+  "id": 12878,
+  "observations": 39907
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 99818706,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/99818706/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/99818706/large.jpeg",
+    "attribution": "(c) Giiwadonongose Kwe, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/61592817",
+    "place": "Georgina Island",
+    "date": "2020-09-29"
+   },
+   {
+    "id": 13795399,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13795399/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13795399/large.jpg",
+    "attribution": "(c) Jamie Spence, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10029492",
+    "place": "Kenora District, ON, Canada",
+    "date": "2016-06-19"
+   },
+   {
+    "id": 395087608,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395087608/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/395087608/large.jpg",
+    "attribution": "(c) Jared Manninen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/223004662",
+    "place": "El Dorado County, CA, USA",
+    "date": "2024-06-15"
+   }
+  ],
+  "female": [
+   {
+    "id": 86020987,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86020987/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/86020987/large.jpeg",
+    "attribution": "(c) Sarah Ludlow, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/54073217",
+    "place": "Craven, SK S0G 0W0, Canada",
+    "date": "2020-07-21"
+   },
+   {
+    "id": 70406235,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70406235/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/70406235/large.jpg",
+    "attribution": "(c) abigailb, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/44406458",
+    "place": "Ridgewood Ct, Floyds Knobs, IN, US",
+    "date": "2020-04-30"
+   },
+   {
+    "id": 750081249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/750081249/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/750081249/large.jpg",
+    "attribution": "(c) Cris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/408095845",
+    "place": "Arcata, CA, USA",
+    "date": "2026-10-13"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 85703658,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85703658/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/85703658/large.jpg",
+    "attribution": "(c) Ty Smith, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/53876823",
+    "place": "Old Pike Rd, Blue Grass, VA, US",
+    "date": "2020-07-20"
+   },
+   {
+    "id": 687504062,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687504062/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687504062/large.jpg",
+    "attribution": "(c) Lee J, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/376039976",
+    "place": "Issaquah, WA, USA",
+    "date": "2026-06-27"
+   },
+   {
+    "id": 218038803,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218038803/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/218038803/large.jpg",
+    "attribution": "(c) gshugart, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/128327858",
+    "place": "King County, US-WA, US",
+    "date": "2022-07-28"
+   }
+  ],
+  "hero": {
+   "id": 194570525,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/194570525/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/194570525/large.jpg",
+   "attribution": "(c) Jing-Yi Lu, some rights reserved (CC BY-NC), uploaded by Jing-Yi Lu",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/194570525",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2490821,
+  "dkTotal": 14,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   14,
+   0,
+   0
+  ],
+  "worldTotal": 2327958,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 1611260
+   },
+   {
+    "code": "CA",
+    "count": 531639
+   },
+   {
+    "code": "CO",
+    "count": 58466
+   },
+   {
+    "code": "CR",
+    "count": 45183
+   },
+   {
+    "code": "EC",
+    "count": 23091
+   },
+   {
+    "code": "PA",
+    "count": 12670
+   },
+   {
+    "code": "MX",
+    "count": 11687
+   },
+   {
+    "code": "GT",
+    "count": 8693
+   },
+   {
+    "code": "BZ",
+    "count": 5612
+   },
+   {
+    "code": "PE",
+    "count": 5380
+   },
+   {
+    "code": "HN",
+    "count": 3664
+   },
+   {
+    "code": "NI",
+    "count": 2449
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1153740/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Ed Pandolfino",
+  "page": "https://xeno-canto.org/1153740",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

@@ -1,0 +1,127 @@
+{
+ "key": "vireo-olivaceus",
+ "name": "Vireo olivaceus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:56:30.500Z",
+ "names": {
+  "da": "Rødøjet Vireo",
+  "en": "Red-eyed Vireo",
+  "accepted": "Vireo olivaceus"
+ },
+ "wikidata": {
+  "id": "Q582976"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Red-eyed vireo",
+  "extract": "The red-eyed vireo is a small American songbird. It is somewhat warbler-like but not closely related to the New World warblers (Parulidae). Common across its vast range, this species is not considered threatened by the IUCN.",
+  "url": "https://en.wikipedia.org/wiki/Red-eyed_vireo"
+ },
+ "inat": {
+  "id": 17366,
+  "observations": 4
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [],
+  "adult": [],
+  "general": [],
+  "hero": {
+   "id": 236302,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236302/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/236302/large.jpg",
+   "attribution": "(c) Greg Lasley, some rights reserved (CC BY-NC), uploaded by Greg Lasley",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/236302",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2487430,
+  "dkTotal": 129,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   128,
+   0,
+   0
+  ],
+  "worldTotal": 5716206,
+  "topCountries": [
+   {
+    "code": "US",
+    "count": 4361836
+   },
+   {
+    "code": "CA",
+    "count": 1091474
+   },
+   {
+    "code": "BR",
+    "count": 74576
+   },
+   {
+    "code": "CO",
+    "count": 42092
+   },
+   {
+    "code": "CR",
+    "count": 28507
+   },
+   {
+    "code": "AR",
+    "count": 25666
+   },
+   {
+    "code": "EC",
+    "count": 16267
+   },
+   {
+    "code": "PE",
+    "count": 13553
+   },
+   {
+    "code": "PA",
+    "count": 11705
+   },
+   {
+    "code": "BZ",
+    "count": 9079
+   },
+   {
+    "code": "VE",
+    "count": 6089
+   },
+   {
+    "code": "MX",
+    "count": 5806
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1187882/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Jacob Saucier",
+  "page": "https://xeno-canto.org/1187882",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

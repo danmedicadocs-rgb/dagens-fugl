@@ -1,0 +1,178 @@
+{
+ "key": "apus-pacificus",
+ "name": "Apus pacificus",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:55:06.692Z",
+ "names": {
+  "da": "Orientsejler",
+  "en": null,
+  "accepted": "Apus pacificus"
+ },
+ "wikidata": {
+  "id": "Q31866"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Pacific swift",
+  "extract": "The Pacific swift is a species of bird that is part of the Swift family. It breeds in eastern Asia. It is strongly migratory, spending the northern hemisphere's winter in Southeast Asia and Australia. The general shape and blackish plumage recall its relative, the common swift, from which it is distinguished by a white rump band and heavily marked underparts. The sexes are identical in appearance, although young birds can be identified by pale fringes to the wing feathers that are absent in adults. This swift's main call is a screech typical of its family. It is one of a group of closely related Asian swifts formerly regarded as one species.",
+  "url": "https://en.wikipedia.org/wiki/Pacific_swift"
+ },
+ "inat": {
+  "id": 202491,
+  "observations": 2961
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 315673292,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/315673292/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/315673292/large.jpg",
+    "attribution": "(c) Илья Руденко, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/181150337",
+    "place": "улица Октябрьской Революции, Иркутск, Иркутская область, RU",
+    "date": "2023-07-25"
+   },
+   {
+    "id": 414640389,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/414640389/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/414640389/large.jpeg",
+    "attribution": "(c) ko0129oc, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/233321900",
+    "place": "г. Ачинск, Красноярский край, Россия",
+    "date": "2024-08-02"
+   }
+  ],
+  "adult": [
+   {
+    "id": 726797649,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/726797649/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/726797649/large.jpg",
+    "attribution": "(c) 维生素, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/396316028",
+    "place": "中国山东省青岛市黄岛区",
+    "date": "2026-08-29"
+   },
+   {
+    "id": 198068985,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198068985/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/198068985/large.jpg",
+    "attribution": "(c) Марина Горбунова-Ëлкина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/117292162",
+    "place": "Краскино, Приморский край, Россия, 692715",
+    "date": "2022-05-16"
+   },
+   {
+    "id": 59098690,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59098690/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59098690/large.jpeg",
+    "attribution": "(c) Stephen Cox, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37295505",
+    "place": "Surf Beach VIC 3922, Australia",
+    "date": "2019-12-31"
+   }
+  ],
+  "hero": {
+   "id": 418995629,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418995629/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/418995629/large.jpg",
+   "attribution": "(c) Геннадий, some rights reserved (CC BY-NC), uploaded by Геннадий",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/418995629",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 5228670,
+  "dkTotal": 78,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   43,
+   34,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 60394,
+  "topCountries": [
+   {
+    "code": "AU",
+    "count": 18867
+   },
+   {
+    "code": "TW",
+    "count": 12567
+   },
+   {
+    "code": "CN",
+    "count": 4574
+   },
+   {
+    "code": "JP",
+    "count": 3758
+   },
+   {
+    "code": "TH",
+    "count": 2924
+   },
+   {
+    "code": "RU",
+    "count": 2805
+   },
+   {
+    "code": "SG",
+    "count": 2626
+   },
+   {
+    "code": "KR",
+    "count": 2176
+   },
+   {
+    "code": "HK",
+    "count": 2091
+   },
+   {
+    "code": "MN",
+    "count": 2014
+   },
+   {
+    "code": "ID",
+    "count": 1773
+   },
+   {
+    "code": "MY",
+    "count": 1705
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1147368/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-ND 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "artist": "Peter Boesman",
+  "page": "https://xeno-canto.org/1147368",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

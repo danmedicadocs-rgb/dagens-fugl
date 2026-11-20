@@ -1,0 +1,188 @@
+{
+ "key": "cursorius-cursor",
+ "name": "Cursorius cursor",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T13:52:15.861Z",
+ "names": {
+  "da": "Ørkenløber",
+  "en": "Cream-coloured Courser",
+  "accepted": "Cursorius cursor"
+ },
+ "wikidata": {
+  "id": "Q219199"
+ },
+ "wiki": {
+  "lang": "da",
+  "title": "Ørkenløber",
+  "extract": "Ørkenløber er en fugl, der ses som en tilfældig gæst i Danmark fra Nordafrika eller Mellemøsten.",
+  "url": "https://da.wikipedia.org/wiki/%C3%98rkenl%C3%B8ber"
+ },
+ "inat": {
+  "id": 4595,
+  "observations": 845
+ },
+ "photos": {
+  "male": [],
+  "female": [],
+  "juvenile": [
+   {
+    "id": 252429106,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/252429106/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/252429106/large.jpeg",
+    "attribution": "(c) jable_air_lanzarote, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/146777975",
+    "place": "Las Palmas, ES-CN, ES",
+    "date": "2023-01-16"
+   },
+   {
+    "id": 470060342,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/470060342/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/470060342/large.jpg",
+    "attribution": "(c) Frédéric Bacuez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/261625316",
+    "place": "Dagana, Sénégal",
+    "date": "2016-06-07"
+   },
+   {
+    "id": 646270033,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/646270033/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/646270033/large.jpg",
+    "attribution": "(c) Nicolas Shin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/354253999",
+    "place": "Ghadeer Barashy - Dubai - United Arab Emirates",
+    "date": "2026-04-26"
+   }
+  ],
+  "adult": [
+   {
+    "id": 451556490,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/451556490/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/451556490/large.jpeg",
+    "attribution": "(c) pygmaeus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/252266398",
+    "place": "38260 Gillonnay, France",
+    "date": "2024-05-26"
+   },
+   {
+    "id": 64148769,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64148769/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/64148769/large.jpg",
+    "attribution": "(c) Gökçe Coşkun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/40399740",
+    "place": "Antalya-Mersin Yolu, Manavgat, Antalya, TR",
+    "date": "2020-03-15"
+   },
+   {
+    "id": 82270729,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82270729/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/82270729/large.jpg",
+    "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/51768811",
+    "place": "Rann of Kutch, Gujarat",
+    "date": "2020-01-29"
+   }
+  ],
+  "hero": {
+   "id": 54686,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54686/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54686/large.jpg",
+   "attribution": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)",
+   "license": "cc-by-nc-sa",
+   "source": "https://www.inaturalist.org/photos/54686",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2480740,
+  "dkTotal": 3,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0
+  ],
+  "worldTotal": 19617,
+  "topCountries": [
+   {
+    "code": "ES",
+    "count": 3606
+   },
+   {
+    "code": "IL",
+    "count": 3342
+   },
+   {
+    "code": "MA",
+    "count": 2828
+   },
+   {
+    "code": "AE",
+    "count": 2035
+   },
+   {
+    "code": "IN",
+    "count": 1576
+   },
+   {
+    "code": "SE",
+    "count": 951
+   },
+   {
+    "code": "CV",
+    "count": 649
+   },
+   {
+    "code": "EH",
+    "count": 582
+   },
+   {
+    "code": "OM",
+    "count": 562
+   },
+   {
+    "code": "NL",
+    "count": 408
+   },
+   {
+    "code": "KW",
+    "count": 375
+   },
+   {
+    "code": "SA",
+    "count": 302
+   }
+  ]
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/984240/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "David Darrell-Lambert",
+  "page": "https://xeno-canto.org/984240",
+  "type": "call",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}

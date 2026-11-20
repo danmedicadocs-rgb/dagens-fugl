@@ -1,0 +1,139 @@
+{
+ "key": "emberiza-buchanani",
+ "name": "Emberiza buchanani",
+ "region": "dk",
+ "fetchedAt": "2026-11-20T14:02:02.483Z",
+ "names": {
+  "da": "Bjerghortulan",
+  "en": "Grey-necked Bunting",
+  "accepted": "Emberiza buchanani"
+ },
+ "wikidata": {
+  "id": "Q648313"
+ },
+ "wiki": {
+  "lang": "en",
+  "title": "Grey-necked bunting",
+  "extract": "The grey-necked bunting, sometimes referred to as grey-hooded bunting is a species of bird in the family Emberizidae. It breeds along a wide distribution range from the Caspian Sea to the Altai Mountains in Central Asia and winters in parts of Southern Asia. Like other buntings it is found in small flocks.",
+  "url": "https://en.wikipedia.org/wiki/Grey-necked_bunting"
+ },
+ "inat": {
+  "id": 9205,
+  "observations": 637
+ },
+ "photos": {
+  "male": [
+   {
+    "id": 28793256,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28793256/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28793256/large.jpeg",
+    "attribution": "(c) harshithjv, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/18798095",
+    "place": "Dharwad, IN-KA, IN",
+    "date": "2018-12-02"
+   },
+   {
+    "id": 325260192,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325260192/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325260192/large.jpeg",
+    "attribution": "(c) Tejas M, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/186156316",
+    "place": "64H8+294, Kachore Gaon, Kalyan, Dombivli, Maharashtra 421301, India",
+    "date": "2023-10-04"
+   },
+   {
+    "id": 111042548,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111042548/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/111042548/large.jpg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68558051",
+    "place": "Shemiranat, Tehran Province, Iran",
+    "date": "2017-05-18"
+   }
+  ],
+  "female": [
+   {
+    "id": 223452260,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/223452260/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/223452260/large.jpeg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/131316622",
+    "place": "Shemiranat, Tehran Province, Iran",
+    "date": "2022-08-17"
+   },
+   {
+    "id": 594616030,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/594616030/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/594616030/large.jpg",
+    "attribution": "(c) Omkar S Damle, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328169931",
+    "place": "Village & PO Dhela, Ramnagar Corbett Tiger Reserve Ramnagar S.O, Dhela, Uttarakhand 244715, India",
+    "date": "2025-11-24"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 607406648,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/607406648/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/607406648/large.jpg",
+    "attribution": "(c) old_nomad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/328604740",
+    "place": "Song Phi Nong, Kaeng Krachan District, Phetchaburi, Таиланд",
+    "date": "2025-11-28"
+   }
+  ],
+  "hero": {
+   "id": 101886708,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/101886708/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/101886708/large.jpg",
+   "attribution": "(c) Daniel König, some rights reserved (CC BY-NC), uploaded by Daniel König",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/101886708",
+   "place": null,
+   "date": null
+  }
+ },
+ "gbif": {
+  "key": 2491485,
+  "dkTotal": 0,
+  "dkMonths": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "worldTotal": 0,
+  "topCountries": []
+ },
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1007811/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Erik Hansson",
+  "page": "https://xeno-canto.org/1007811",
+  "type": "song",
+  "via": "xeno-canto"
+ },
+ "soundVersion": 2,
+ "photoVersion": 3,
+ "warnings": []
+}
