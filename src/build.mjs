@@ -13,7 +13,7 @@ import {
 // Hvem står bag siden (vises på privatlivssiden). Sættes som repository variables i GitHub.
 const OWNER_NAME = process.env.OWNER_NAME || '';
 const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'dagensfugl1@gmail.com';
-const CF_BEACON = process.env.CF_BEACON || '';
+const CF_BEACON = process.env.CF_BEACON || '30f01a95178a48b2ba5fca5113bc1704';
 const SIGNUP_URL = process.env.SIGNUP_URL || ''; // Apps Script-webapp til tilmelding (se apps-script/) // token til Cloudflare Web Analytics (uden cookies)
 const mailto = (subject, body = '') => `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}${body ? `&body=${encodeURIComponent(body)}` : ''}`;
 
