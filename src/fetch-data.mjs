@@ -9,9 +9,10 @@
 //   GBIF         – antal fund pr. måned i Danmark, lande med flest fund, kort-fliser
 
 import fs from 'node:fs';
+import path from 'node:path';
 import {
   loadSpeciesList, readCache, writeJson, cachePath, readJson, sleep,
-  CACHE_DIR, SLUGS_FILE, slugify,
+  CACHE_DIR, SLUGS_FILE, slugify, ROOT,
 } from './common.mjs';
 import { USER_AGENT, MAX_FETCH, REFRESH_DAYS, PHOTO_LICENSES } from './config.mjs';
 
@@ -81,15 +82,25 @@ async function wikipedia(lang, title) {
 
 // ---------- iNaturalist ----------
 async function inatTaxon(sciName, inatId) {
+  // Følg iNaturalists taksonomiske ændringer: et inaktivt (udskiftet) takson peger på sin afløser.
+  const follow = async (t, depth = 0) => {
+    if (!t || t.is_active !== false || depth > 2) return t;
+    const next = t.current_synonymous_taxon_ids?.[0];
+    if (!next) return t;
+    const d = await getJson(`https://api.inaturalist.org/v1/taxa/${next}?locale=da`, { allow404: true });
+    return follow(d?.results?.[0] || t, depth + 1);
+  };
   if (inatId) {
     const d = await getJson(`https://api.inaturalist.org/v1/taxa/${inatId}?locale=da`, { allow404: true });
-    if (d?.results?.[0]) return d.results[0];
+    if (d?.results?.[0]) return follow(d.results[0]);
   }
-  const d = await getJson(`https://api.inaturalist.org/v1/taxa?q=${q(sciName)}&rank=species&is_active=true&locale=da&per_page=10`);
+  const d = await getJson(`https://api.inaturalist.org/v1/taxa?q=${q(sciName)}&rank=species&locale=da&per_page=10`);
   const res = d?.results || [];
-  return res.find((t) => t.name === sciName)
+  const hit = res.find((t) => t.name === sciName && t.is_active !== false)
+    || res.find((t) => t.name === sciName)
     || res.find((t) => (t.matched_term || '').toLowerCase() === sciName.toLowerCase())
     || null;
+  return follow(hit);
 }
 
 function photoSize(url, size) {
@@ -237,14 +248,26 @@ async function findSound(sciName, region) {
 const SOUND_VERSION = XC_KEY ? 2 : 1;
 
 // ---------- GBIF ----------
-async function gbifKey(sciName, fromWikidata) {
+async function gbifKey(sciName, fromWikidata, altName) {
+  // Saml kandidater (Wikidata, navnet i listen og iNaturalists nuværende navn) og vælg den med flest fund.
+  // Det fanger arter, der er flyttet til en ny slægt, hvor fundene nu ligger under det nye navn.
+  const cands = new Set();
   if (fromWikidata) {
     const sp = await getJson(`https://api.gbif.org/v1/species/${fromWikidata}`, { allow404: true });
-    if (sp?.key) return sp.acceptedKey || sp.key;
+    if (sp?.key) cands.add(sp.acceptedKey || sp.key);
   }
-  const m = await getJson(`https://api.gbif.org/v1/species/match?name=${q(sciName)}&kingdom=Animalia&class=Aves`);
-  if (!m || m.matchType === 'NONE' || !m.usageKey) return null;
-  return m.acceptedUsageKey || m.usageKey;
+  for (const n of [sciName, altName].filter(Boolean)) {
+    const m = await getJson(`https://api.gbif.org/v1/species/match?name=${q(n)}&kingdom=Animalia&class=Aves`);
+    if (m && m.matchType !== 'NONE' && m.usageKey) cands.add(m.acceptedUsageKey || m.usageKey);
+  }
+  const list = [...cands];
+  if (list.length < 2) return list[0] || null;
+  let best = null; let bestN = -1;
+  for (const k of list) {
+    const c = await getJson(`https://api.gbif.org/v1/occurrence/search?taxonKey=${k}&limit=0`);
+    if ((c?.count || 0) > bestN) { bestN = c?.count || 0; best = k; }
+  }
+  return best;
 }
 
 async function gbifStats(key) {
@@ -277,7 +300,7 @@ async function fetchSpecies(sp, old) {
 
   const wd = await step('wikidata', () => wikidata(sp.name));
   const taxon = await step('inaturalist taxon', () => inatTaxon(sp.name, wd?.inat));
-  const gKey = await step('gbif match', () => gbifKey(sp.name, wd?.gbif));
+  const gKey = await step('gbif match', () => gbifKey(sp.name, wd?.gbif, taxon?.name !== sp.name ? taxon?.name : null));
 
   let da = isRealName(wd?.labelDa, sp.name) ? cap(wd.labelDa) : null;
   if (!da && gKey) da = cap(await step('gbif navn', () => gbifDanishName(gKey)) || '') || null;
@@ -322,9 +345,14 @@ async function fetchSpecies(sp, old) {
     sound: sound === undefined ? (old?.sound ?? null) : sound,
     soundVersion: SOUND_VERSION,
     photoVersion: PHOTO_VERSION,
+    refetchedFor: REFETCH[sp.key] || old?.refetchedFor || null,
     warnings: warn,
   };
 }
+
+// data/hent-igen.txt: »nøgle dato« – arten hentes forfra én gang (fx efter taksonomiske ændringer).
+const REFETCH = Object.fromEntries((fs.existsSync(path.join(ROOT, 'data', 'hent-igen.txt')) ? fs.readFileSync(path.join(ROOT, 'data', 'hent-igen.txt'), 'utf8') : '')
+  .split('\n').map((l) => l.replace(/#.*/, '').trim().split(/\s+/)).filter((a) => a.length === 2));
 
 // Hæves når måden at vælge billeder på ændres – så hentes alle arter igen ved næste fulde kørsel.
 const PHOTO_VERSION = 3; // 3: også billeder med ikke-kommerciel licens
@@ -337,10 +365,11 @@ async function main() {
   const now = Date.now();
   const due = list
     .map((sp) => ({ sp, old: readCache(sp.key) }))
-    .filter(({ old }) => !old || old.photoVersion !== PHOTO_VERSION || now - Date.parse(old.fetchedAt) > REFRESH_DAYS * 864e5)
+    .filter(({ sp, old }) => !old || old.photoVersion !== PHOTO_VERSION || now - Date.parse(old.fetchedAt) > REFRESH_DAYS * 864e5 || (REFETCH[sp.key] && old.refetchedFor !== REFETCH[sp.key]))
     .sort((a, b) => (a.old ? Date.parse(a.old.fetchedAt) : 0) - (b.old ? Date.parse(b.old.fetchedAt) : 0))
     // arter der først og fremmest skal have nye billeder, kommer før almindelig opdatering
     .sort((a, b) => Number(a.old?.photoVersion === PHOTO_VERSION) - Number(b.old?.photoVersion === PHOTO_VERSION))
+    .sort((a, b) => Number(!(REFETCH[a.sp.key] && a.old?.refetchedFor !== REFETCH[a.sp.key])) - Number(!(REFETCH[b.sp.key] && b.old?.refetchedFor !== REFETCH[b.sp.key])))
     .slice(0, MAX_FETCH);
 
   console.log(`${list.length} arter i listen. Henter ${due.length} nu (højst ${MAX_FETCH}).`);
