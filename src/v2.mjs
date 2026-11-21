@@ -101,7 +101,7 @@ ${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.m
   function facts(d) {
     const t = d.tekst || {};
     const out = [];
-    const bp = bestPeriod(d); if (bp) out.push([I.cal, bp, 'Bedste periode']);
+    const bp = bestPeriod(d); if (bp && bp !== 'Hele året') out.push([I.cal, bp, 'Bedste periode']);
     const st = statusDK(d); if (st) out.push([I.flag, st, 'Status i Danmark · beregnet ud fra fund']);
     if (t.kort_levested) out.push([I.tree, t.kort_levested, 'Typisk levested']);
     if (t.kort_foede) out.push([I.food, t.kort_foede, 'Vigtigste føde']);
