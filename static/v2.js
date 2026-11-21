@@ -198,3 +198,24 @@
     });
   }
 })();
+
+// ---- Forsiden: fold quizzen sammen, når den er besvaret ----
+(function () {
+  var quiz = document.getElementById('quiz');
+  var reveal = document.getElementById('reveal');
+  if (!quiz || !reveal) return;
+  var btn = document.createElement('button');
+  btn.type = 'button'; btn.className = 'quiz-toggle btn'; btn.hidden = true;
+  quiz.insertBefore(btn, quiz.querySelector('.quiz-stats'));
+  var open = false;
+  function sync() {
+    var done = !reveal.hasAttribute('data-locked');
+    quiz.classList.toggle('collapsed', done && !open);
+    btn.hidden = !done;
+    btn.textContent = open ? 'Fold quizzen sammen' : 'Vis quizzen igen';
+    btn.setAttribute('aria-expanded', String(open));
+  }
+  btn.addEventListener('click', function () { open = !open; sync(); });
+  new MutationObserver(sync).observe(reveal, { attributes: true, attributeFilter: ['data-locked'] });
+  sync();
+})();
