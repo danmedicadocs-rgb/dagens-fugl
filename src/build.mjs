@@ -489,6 +489,8 @@ function speciesJsonLd(d, canonical) {
   }];
 }
 
+const NAVNE = readJson(path.join(ROOT, 'data', 'navne.json'), {});
+
 // ---------------- Byg ----------------
 function main() {
   const list = loadSpeciesList();
@@ -499,6 +501,7 @@ function main() {
     if (!d) continue;
     d.region = sp.region; // listen bestemmer altid området
     d.tekst = readJson(path.join(ROOT, 'data', 'tekster', `${sp.key}.json`), null);
+    if (NAVNE[sp.key]) d.names.da = NAVNE[sp.key];
     const hasContent = d.photos?.hero || d.wiki?.extract;
     if (!hasContent) continue; // ingen tom side
     d.slug = slugs[sp.key] || (d.names.da ? `${slugify(d.names.da)}-${sp.key}` : sp.key);
