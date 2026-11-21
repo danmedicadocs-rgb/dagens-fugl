@@ -2,7 +2,7 @@
  "key": "emberiza-bruniceps",
  "name": "Emberiza bruniceps",
  "region": "dk",
- "fetchedAt": "2026-11-21T10:35:59.310Z",
+ "fetchedAt": "2026-11-21T10:41:25.302Z",
  "names": {
   "da": "Brunhovedet Værling",
   "en": "Red-headed Bunting",
@@ -99,78 +99,78 @@
   }
  },
  "gbif": {
-  "key": 2491468,
-  "dkTotal": 727131,
+  "key": 2491521,
+  "dkTotal": 4,
   "dkMonths": [
-   30629,
-   29999,
-   87451,
-   120775,
-   130553,
-   89274,
-   68090,
-   32160,
-   36383,
-   55988,
-   26111,
-   19459
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0
   ],
-  "worldTotal": 10840995,
+  "worldTotal": 12128,
   "topCountries": [
    {
-    "code": "SE",
-    "count": 1803859
+    "code": "IN",
+    "count": 7641
    },
    {
-    "code": "FR",
-    "count": 1095580
+    "code": "KZ",
+    "count": 1867
    },
    {
-    "code": "ES",
-    "count": 1031793
+    "code": "IR",
+    "count": 544
    },
    {
-    "code": "NL",
-    "count": 854301
+    "code": "KG",
+    "count": 420
+   },
+   {
+    "code": "UZ",
+    "count": 332
+   },
+   {
+    "code": "CN",
+    "count": 225
    },
    {
     "code": "GB",
-    "count": 794138
+    "count": 207
    },
    {
-    "code": "DK",
-    "count": 727131
+    "code": "TJ",
+    "count": 153
    },
    {
-    "code": "NO",
-    "count": 663283
+    "code": "AF",
+    "count": 116
    },
    {
-    "code": "FI",
-    "count": 658278
+    "code": "HK",
+    "count": 75
    },
    {
-    "code": "DE",
-    "count": 409014
+    "code": "RU",
+    "count": 61
    },
    {
-    "code": "CH",
-    "count": 318309
-   },
-   {
-    "code": "ZA",
-    "count": 240983
-   },
-   {
-    "code": "PT",
-    "count": 200650
+    "code": "PK",
+    "count": 52
    }
   ]
  },
  "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
- "refetchedFor": "2026-11-21",
+ "refetchedFor": "2026-11-21b",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

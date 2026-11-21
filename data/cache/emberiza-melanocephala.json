@@ -2,7 +2,7 @@
  "key": "emberiza-melanocephala",
  "name": "Emberiza melanocephala",
  "region": "dk",
- "fetchedAt": "2026-11-21T10:35:48.365Z",
+ "fetchedAt": "2026-11-21T10:41:13.069Z",
  "names": {
   "da": "Hætteværling",
   "en": "Black-headed Bunting",
@@ -130,78 +130,78 @@
   }
  },
  "gbif": {
-  "key": 2491468,
-  "dkTotal": 727131,
+  "key": 9613112,
+  "dkTotal": 19,
   "dkMonths": [
-   30629,
-   29999,
-   87451,
-   120775,
-   130553,
-   89274,
-   68090,
-   32160,
-   36383,
-   55988,
-   26111,
-   19459
+   0,
+   0,
+   0,
+   0,
+   8,
+   10,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
-  "worldTotal": 10840995,
+  "worldTotal": 45401,
   "topCountries": [
    {
+    "code": "TR",
+    "count": 10305
+   },
+   {
+    "code": "BG",
+    "count": 7476
+   },
+   {
+    "code": "IN",
+    "count": 7189
+   },
+   {
+    "code": "GR",
+    "count": 5341
+   },
+   {
+    "code": "AM",
+    "count": 2586
+   },
+   {
+    "code": "IR",
+    "count": 1437
+   },
+   {
+    "code": "IL",
+    "count": 1258
+   },
+   {
+    "code": "GE",
+    "count": 1220
+   },
+   {
+    "code": "AZ",
+    "count": 782
+   },
+   {
     "code": "SE",
-    "count": 1803859
+    "count": 685
    },
    {
-    "code": "FR",
-    "count": 1095580
+    "code": "CY",
+    "count": 565
    },
    {
-    "code": "ES",
-    "count": 1031793
-   },
-   {
-    "code": "NL",
-    "count": 854301
-   },
-   {
-    "code": "GB",
-    "count": 794138
-   },
-   {
-    "code": "DK",
-    "count": 727131
-   },
-   {
-    "code": "NO",
-    "count": 663283
-   },
-   {
-    "code": "FI",
-    "count": 658278
-   },
-   {
-    "code": "DE",
-    "count": 409014
-   },
-   {
-    "code": "CH",
-    "count": 318309
-   },
-   {
-    "code": "ZA",
-    "count": 240983
-   },
-   {
-    "code": "PT",
-    "count": 200650
+    "code": "RU",
+    "count": 475
    }
   ]
  },
  "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
- "refetchedFor": "2026-11-21",
+ "refetchedFor": "2026-11-21b",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

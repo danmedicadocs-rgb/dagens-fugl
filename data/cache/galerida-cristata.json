@@ -2,7 +2,7 @@
  "key": "galerida-cristata",
  "name": "Galerida cristata",
  "region": "dk",
- "fetchedAt": "2026-11-21T10:33:45.772Z",
+ "fetchedAt": "2026-11-21T10:39:11.014Z",
  "names": {
   "da": "Toplærke",
   "en": "Crested Lark",
@@ -34,16 +34,6 @@
     "date": "2025-07-05"
    },
    {
-    "id": 686502887,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686502887/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686502887/large.jpg",
-    "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/375517396",
-    "place": "827191 Enisala, Romania",
-    "date": "2026-06-26"
-   },
-   {
     "id": 756653500,
     "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/756653500/medium.jpg",
     "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/756653500/large.jpg",
@@ -52,6 +42,16 @@
     "source": "https://www.inaturalist.org/observations/411318500",
     "place": "18100 Çankırı Merkez/Çankırı, Türkiye",
     "date": "2026-10-28"
+   },
+   {
+    "id": 686502887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686502887/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686502887/large.jpg",
+    "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375517396",
+    "place": "827191 Enisala, Romania",
+    "date": "2026-06-26"
    }
   ],
   "female": [
@@ -194,7 +194,7 @@
  },
  "soundVersion": 2,
  "photoVersion": 3,
- "refetchedFor": "2026-11-21",
+ "refetchedFor": "2026-11-21b",
  "warnings": [],
  "taxon": {
   "family": "Alaudidae",

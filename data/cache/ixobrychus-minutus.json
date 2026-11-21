@@ -2,7 +2,7 @@
  "key": "ixobrychus-minutus",
  "name": "Ixobrychus minutus",
  "region": "dk",
- "fetchedAt": "2026-11-21T10:32:32.426Z",
+ "fetchedAt": "2026-11-21T10:37:55.151Z",
  "names": {
   "da": "Dværghejre",
   "en": null,
@@ -125,78 +125,78 @@
   }
  },
  "gbif": {
-  "key": 2480909,
-  "dkTotal": 66029,
+  "key": 2480850,
+  "dkTotal": 16,
   "dkMonths": [
-   1740,
-   3395,
-   9541,
-   20181,
-   19446,
-   6747,
-   1451,
-   774,
-   646,
-   715,
-   528,
-   725
+   0,
+   0,
+   0,
+   0,
+   2,
+   4,
+   1,
+   3,
+   1,
+   1,
+   0,
+   0
   ],
-  "worldTotal": 1563616,
+  "worldTotal": 61414,
   "topCountries": [
    {
-    "code": "US",
-    "count": 484692
+    "code": "FR",
+    "count": 23346
    },
    {
-    "code": "SE",
-    "count": 162807
+    "code": "BE",
+    "count": 10505
    },
    {
-    "code": "CA",
-    "count": 148929
-   },
-   {
-    "code": "NL",
-    "count": 94237
-   },
-   {
-    "code": "IN",
-    "count": 69619
-   },
-   {
-    "code": "DK",
-    "count": 66029
-   },
-   {
-    "code": "TW",
-    "count": 46293
-   },
-   {
-    "code": "GB",
-    "count": 43609
+    "code": "ZA",
+    "count": 9868
    },
    {
     "code": "ES",
-    "count": 38270
+    "count": 6607
    },
    {
-    "code": "AU",
-    "count": 31808
+    "code": "DE",
+    "count": 1559
    },
    {
-    "code": "CH",
-    "count": 26060
+    "code": "UA",
+    "count": 1288
    },
    {
-    "code": "FR",
-    "count": 26051
+    "code": "IL",
+    "count": 829
+   },
+   {
+    "code": "PL",
+    "count": 820
+   },
+   {
+    "code": "RU",
+    "count": 754
+   },
+   {
+    "code": "PT",
+    "count": 604
+   },
+   {
+    "code": "NL",
+    "count": 543
+   },
+   {
+    "code": "AT",
+    "count": 503
    }
   ]
  },
  "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
- "refetchedFor": "2026-11-21",
+ "refetchedFor": "2026-11-21b",
  "warnings": [],
  "taxon": {
   "family": "Ardeidae",

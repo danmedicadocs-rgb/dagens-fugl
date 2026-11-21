@@ -2,11 +2,11 @@
  "key": "vireo-olivaceus",
  "name": "Vireo olivaceus",
  "region": "dk",
- "fetchedAt": "2026-11-21T10:35:17.074Z",
+ "fetchedAt": "2026-11-21T10:40:40.918Z",
  "names": {
   "da": "Rødøjet Vireo",
   "en": "Red-eyed Vireo",
-  "accepted": "Vireo chivi"
+  "accepted": "Vireo olivaceus"
  },
  "wikidata": {
   "id": "Q582976"
@@ -18,62 +18,113 @@
   "url": "https://en.wikipedia.org/wiki/Red-eyed_vireo"
  },
  "inat": {
-  "id": 827395,
-  "observations": 2931
+  "id": 891704,
+  "observations": 44630
  },
  "photos": {
   "male": [
    {
-    "id": 242594310,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/242594310/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/242594310/large.jpg",
-    "attribution": "(c) Gustavo Thoshio, some rights reserved (CC BY-NC)",
+    "id": 18498042,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/18498042/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/18498042/large.jpg",
+    "attribution": "(c) Joe Bartok, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/141586093",
-    "place": "Japuí, São Vicente - SP, Brasil",
-    "date": "2022-11-09"
+    "source": "https://www.inaturalist.org/observations/12765054",
+    "place": "Tweed, ON, Canada",
+    "date": "2018-05-23"
+   },
+   {
+    "id": 282247561,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/282247561/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/282247561/large.jpeg",
+    "attribution": "(c) Kathy Richardson, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/163207891",
+    "place": "Louisa County, VA, USA",
+    "date": "2023-05-22"
+   },
+   {
+    "id": 269506160,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/269506160/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/269506160/large.jpg",
+    "attribution": "(c) Jeanene Jewett aka \"JJ\", some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/155886263",
+    "place": "Otter Mound Preserve, Marco Island, FL",
+    "date": "2023-04-20"
    }
   ],
-  "female": [],
+  "female": [
+   {
+    "id": 299802070,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/299802070/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/299802070/large.jpeg",
+    "attribution": "(c) Oliver J, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/172682918",
+    "place": "Pennsylvania, US",
+    "date": "2023-07-13"
+   },
+   {
+    "id": 138220213,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138220213/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138220213/large.jpg",
+    "attribution": "(c) Pjunkins, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84121277",
+    "place": "Collierville, TN, USA",
+    "date": "2021-06-22"
+   },
+   {
+    "id": 136360879,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136360879/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/136360879/large.jpeg",
+    "attribution": "(c) Robert Harris, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/83048742",
+    "place": "Smyth County, VA, USA",
+    "date": "2021-05-27"
+   }
+  ],
   "juvenile": [
    {
-    "id": 174122768,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174122768/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174122768/large.jpeg",
-    "attribution": "(c) Tomás Aguirre Vallés, some rights reserved (CC BY-NC)",
+    "id": 549671423,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/549671423/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/549671423/large.jpg",
+    "attribution": "(c) Lauren Glevanik, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/103960710",
-    "place": "F. Sánchez, X5152 Villa Carlos Paz, Córdoba, Argentina",
-    "date": "2020-11-28"
+    "source": "https://www.inaturalist.org/observations/304886806",
+    "place": "Malletts Bay, Burlington, VT, USA",
+    "date": "2025-08-08"
    },
    {
-    "id": 347543253,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/347543253/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/347543253/large.jpeg",
-    "attribution": "(c) Palhas, some rights reserved (CC BY-NC)",
+    "id": 157525065,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157525065/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/157525065/large.jpg",
+    "attribution": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/197340170",
-    "place": "Bonete, Ilhabela - SP, 11630-000, Brasil",
-    "date": "2024-01-21"
+    "source": "https://www.inaturalist.org/observations/94925930",
+    "place": "Townshend, VT, USA",
+    "date": "2021-09-12"
    },
    {
-    "id": 178302856,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178302856/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178302856/large.jpg",
-    "attribution": "(c) rawelly, some rights reserved (CC BY-NC)",
+    "id": 353920437,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/353920437/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/353920437/large.jpg",
+    "attribution": "(c) Parker Bradley, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/106168243",
-    "place": "Junqueiro, AL, BR",
-    "date": "2022-02-02"
+    "source": "https://www.inaturalist.org/observations/200582791",
+    "place": "Woodstock, NH, USA",
+    "date": "2019-07-27"
    }
   ],
   "hero": {
-   "id": 510496062,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510496062/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510496062/large.jpg",
-   "attribution": "(c) luizanjos, some rights reserved (CC BY-NC)",
+   "id": 45523359,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45523359/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45523359/large.jpeg",
+   "attribution": "(c) jefferykarafa, some rights reserved (CC BY-NC), uploaded by jefferykarafa",
    "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/510496062",
+   "source": "https://www.inaturalist.org/photos/45523359",
    "place": null,
    "date": null
   }
@@ -150,20 +201,20 @@
  "sound": {
   "src": [
    {
-    "u": "https://xeno-canto.org/1185071/download",
+    "u": "https://xeno-canto.org/1187882/download",
     "type": "audio/mpeg"
    }
   ],
   "license": "CC BY-NC-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Étienne Leroy",
-  "page": "https://xeno-canto.org/1185071",
+  "artist": "Jacob Saucier",
+  "page": "https://xeno-canto.org/1187882",
   "type": "song",
   "via": "xeno-canto"
  },
  "soundVersion": 2,
  "photoVersion": 3,
- "refetchedFor": "2026-11-21",
+ "refetchedFor": "2026-11-21b",
  "warnings": [],
  "taxon": {
   "family": "Vireonidae",

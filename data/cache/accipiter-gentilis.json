@@ -2,124 +2,124 @@
  "key": "accipiter-gentilis",
  "name": "Accipiter gentilis",
  "region": "dk",
- "fetchedAt": "2026-11-21T10:32:43.871Z",
+ "fetchedAt": "2026-11-21T10:38:09.386Z",
  "names": {
   "da": "Duehøg",
   "en": null,
-  "accepted": "Astur atricapillus"
+  "accepted": "Astur gentilis"
  },
  "wikidata": {
   "id": "Q25353"
  },
  "wiki": null,
  "inat": {
-  "id": 1579016,
-  "observations": 3224
+  "id": 1579015,
+  "observations": 16807
  },
  "photos": {
   "male": [
    {
-    "id": 197135154,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197135154/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/197135154/large.jpeg",
-    "attribution": "(c) Travis Suckow, some rights reserved (CC BY-NC)",
+    "id": 510356557,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/510356557/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/510356557/large.jpg",
+    "attribution": "(c) apout, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/116767964",
-    "place": "Pennsylvania, US",
-    "date": "2022-05-12"
+    "source": "https://www.inaturalist.org/observations/284003574",
+    "place": "Aberdeenshire, Scotland, GB",
+    "date": "2024-07-11"
    },
    {
-    "id": 565502797,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/565502797/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/565502797/large.jpg",
-    "attribution": "(c) jblanc55, some rights reserved (CC BY-NC)",
+    "id": 550153477,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/550153477/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/550153477/large.jpg",
+    "attribution": "(c) m_sato, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/313165540",
-    "place": "Division No. 6, CA-AB, CA",
-    "date": "2025-09-10"
+    "source": "https://www.inaturalist.org/observations/305143082",
+    "place": "日本、〒206-0021 東京都多摩市連光寺",
+    "date": "2025-08-10"
    },
    {
-    "id": 192518872,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/192518872/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/192518872/large.jpg",
-    "attribution": "(c) Robert M. Mutch Jr., some rights reserved (CC BY-NC)",
+    "id": 538825542,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/538825542/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/538825542/large.jpg",
+    "attribution": "(c) m_sato, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/113983743",
-    "place": "Linn County, OR, USA",
-    "date": "2017-09-17"
+    "source": "https://www.inaturalist.org/observations/299094460",
+    "place": "日本、〒206-0011 東京都多摩市関戸",
+    "date": "2025-07-19"
    }
   ],
   "female": [
    {
-    "id": 162246463,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162246463/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162246463/large.jpg",
-    "attribution": "(c) jamesjarrett00, some rights reserved (CC BY-NC)",
-    "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/97545938",
-    "place": "Ada County, ID, USA",
-    "date": "2021-10-06"
+    "id": 95884531,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95884531/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/95884531/large.jpg",
+    "attribution": "(c) clara_g, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/59984409",
+    "place": "Weimar (Lahn), Deutschland",
+    "date": "2019-10-19"
    },
    {
-    "id": 195311228,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/195311228/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/195311228/large.jpeg",
-    "attribution": "(c) Travis Suckow, some rights reserved (CC BY-NC)",
+    "id": 102289333,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/102289333/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/102289333/large.jpg",
+    "attribution": "(c) Steven Schulting, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/115720583",
-    "place": "Pennsylvania, US",
-    "date": "2022-05-05"
+    "source": "https://www.inaturalist.org/observations/63706597",
+    "place": "Steglitz-Zehlendorf, Berlin, Germany",
+    "date": "2020-10-28"
    },
    {
-    "id": 276025639,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276025639/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276025639/large.jpeg",
-    "attribution": "(c) Peter Meisenheimer, some rights reserved (CC BY-NC)",
+    "id": 547829563,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/547829563/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/547829563/large.jpg",
+    "attribution": "(c) m_sato, some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/159751570",
-    "place": "Gatineau Park, QC, Canada",
-    "date": "2023-05-04"
+    "source": "https://www.inaturalist.org/observations/303917244",
+    "place": "日本、〒206-0002 東京都多摩市一ノ宮",
+    "date": "2025-08-05"
    }
   ],
   "juvenile": [
    {
-    "id": 22859527,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22859527/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/22859527/large.jpeg",
-    "attribution": "(c) Matt Muir, some rights reserved (CC BY)",
-    "license": "cc-by",
-    "source": "https://www.inaturalist.org/observations/15274733",
-    "place": "South Addition",
-    "date": "2018-08-09"
+    "id": 243903790,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/243903790/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/243903790/large.jpg",
+    "attribution": "(c) Дмитрий Ерохин ( Dmitri Erokhin), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18714912",
+    "place": "Октябрьский, Петрозаводск, Респ. Карелия, Россия",
+    "date": "2018-02-07"
    },
    {
-    "id": 178900522,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178900522/medium.jpeg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/178900522/large.jpeg",
-    "attribution": "(c) Dave Drum, some rights reserved (CC BY-NC)",
+    "id": 94189717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/94189717/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/94189717/large.jpg",
+    "attribution": "(c) Дмитрий Ерохин ( Dmitri Erokhin), some rights reserved (CC BY-NC)",
     "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/106492743",
-    "place": "Pend Oreille County, WA, USA",
-    "date": "2022-01-27"
+    "source": "https://www.inaturalist.org/observations/58973791",
+    "place": "Центр, Петрозаводск, Респ. Карелия, Россия",
+    "date": "2020-09-08"
    },
    {
-    "id": 59730553,
-    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730553/medium.jpg",
-    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/59730553/large.jpg",
-    "attribution": "(c) Jeremiah, some rights reserved (CC BY-NC)",
-    "license": "cc-by-nc",
-    "source": "https://www.inaturalist.org/observations/37649809",
-    "place": "Skyline Dr, Fort Collins, CO, US",
-    "date": "2020-01-15"
+    "id": 205755988,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/205755988/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/205755988/large.jpeg",
+    "attribution": "no rights reserved",
+    "license": "cc0",
+    "source": "https://www.inaturalist.org/observations/121581301",
+    "place": "WS15 2UQ",
+    "date": "2022-06-13"
    }
   ],
   "hero": {
-   "id": 12651287,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/12651287/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/12651287/large.jpeg",
-   "attribution": "(c) psweet, some rights reserved (CC BY-SA), uploaded by psweet",
-   "license": "cc-by-sa",
-   "source": "https://www.inaturalist.org/photos/12651287",
+   "id": 61773674,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61773674/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61773674/large.jpg",
+   "attribution": "(c) Luigi Andena, some rights reserved (CC BY-NC), uploaded by Luigi Andena",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/61773674",
    "place": null,
    "date": null
   }
@@ -196,7 +196,7 @@
  "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
- "refetchedFor": "2026-11-21",
+ "refetchedFor": "2026-11-21b",
  "warnings": [],
  "taxon": {
   "family": "Accipitridae",
