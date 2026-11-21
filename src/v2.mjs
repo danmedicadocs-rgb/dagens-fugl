@@ -1,11 +1,11 @@
 // Nyt design (v2) af artssiderne og Mine fugle.
-// Bygges indtil videre kun som preview under /preview/ (noindex), mens det gamle design kører videre.
+// Designet bruges på artssiderne og Mine fugle; page() er den fælles skal for alle sider.
 // Alle hjælpefunktioner gives med fra build.mjs, så data og tekster er de samme.
 
 export function makeV2(h) {
   const { esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
-    relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto } = h;
-  const P = (p) => url(`preview/${p.replace(/^\//, '')}`);
+    relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON } = h;
+  const P = (p) => url(p);
   const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
   const dateDa = (iso) => new Intl.DateTimeFormat('da-DK', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(iso));
 
@@ -23,7 +23,7 @@ export function makeV2(h) {
   };
 
   // ---------- Sideskabelon ----------
-  function page({ title, description, canonical, body, jsonld }) {
+  function page({ title, description, canonical, body, jsonld, image, type = 'website', noindex = false, legacy = false }) {
     return `<!doctype html>
 <html lang="da">
 <head>
@@ -32,21 +32,28 @@ export function makeV2(h) {
 <script>(function(){var d=document.documentElement,t;d.classList.add('js');try{t=localStorage.getItem('dagensfugl-tema')}catch(e){}if(t==='lys'||t==='moerk')d.dataset.theme=t})()</script>
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
-<meta name="robots" content="noindex">
-<link rel="canonical" href="${esc(canonical)}">
+${noindex ? '<meta name="robots" content="noindex">\n' : ''}<link rel="canonical" href="${esc(canonical)}">
+<meta property="og:type" content="${type}">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:description" content="${esc(description)}">
+<meta property="og:url" content="${esc(canonical)}">
+<meta property="og:site_name" content="${esc(SITE_NAME)}">
+<meta property="og:locale" content="da_DK">
+${image ? `<meta property="og:image" content="${esc(image)}">\n<meta name="twitter:card" content="summary_large_image">` : ''}
+<link rel="alternate" type="application/rss+xml" title="${esc(SITE_NAME)}" href="${url('feed.xml')}">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="${url('favicon.svg')}" type="image/svg+xml">
 <link rel="preload" href="${url('fonts/fraunces.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${url('fonts/inter.woff2')}" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${url('v2.css')}">
+${legacy ? `<link rel="stylesheet" href="${url('style.css')}">\n` : ''}<link rel="stylesheet" href="${url('v2.css')}">
 <link rel="stylesheet" href="${url('vendor/leaflet.css')}" media="print" onload="this.media='all'">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
-<body class="v2">
+<body class="v2${legacy ? ' legacy' : ' v2s'}">
 <a class="skip" href="#indhold">Spring til indhold</a>
 <header class="top"><div class="wrap top-in">
   <a class="brand" href="${url('')}"><span class="brand-mark"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M14 38c6-1 10-6 14-12 3-5 8-9 14-9 3 0 6 2 7 5l5 2-5 2c0 9-7 17-18 18-6 1-12-1-17-6z" fill="currentColor"/></svg></span>${esc(SITE_NAME)}</a>
-  <nav class="top-nav" aria-label="Hovedmenu"><a href="${url('fugle/')}">Alle fugle</a><a href="${url('maaned/')}">Måned for måned</a><a href="${url('')}">Dagens quiz</a><a href="${P('mine/')}">Mine fugle</a></nav>
+  <nav class="top-nav" aria-label="Hovedmenu"><a href="${url('')}">Dagens fugl</a><a href="${url('fugle/')}">Alle fugle</a><a href="${url('maaned/')}">Måned for måned</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('mine/')}">Mine fugle</a></nav>
   <button type="button" class="theme-btn" aria-label="Skift mellem lyst og mørkt tema" title="Lyst/mørkt tema">${I.sun}${I.moon}</button>
 </div></header>
 <main id="indhold">
@@ -62,6 +69,7 @@ ${body}
 <script src="${url('vendor/leaflet.js')}" defer></script>
 <script src="${url('app.js')}" defer></script>
 <script src="${url('v2.js')}" defer></script>
+${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(CF_BEACON)}"}'></script>` : ''}
 </body>
 </html>`;
   }
@@ -297,6 +305,8 @@ ${body}
       title: `${name} (${d.names.accepted}) – fjerdragt, hvor og hvornår | ${SITE_NAME}`,
       description: metaDescription(d),
       canonical: abs(`fugle/${d.slug}/`),
+      image: d.photos?.hero?.large || d.photos?.hero?.medium,
+      type: 'article',
       jsonld: ld,
       body,
     });
@@ -307,6 +317,7 @@ ${body}
       title: `Mine fugle | ${SITE_NAME}`,
       description: 'De fugle du har markeret som set på Dagens Fugl.',
       canonical: abs('mine/'),
+      noindex: true,
       body: `<div class="wrap mine" id="mine-v2">
   <h1>Mine fugle</h1>
   <div class="mine-top">
@@ -320,5 +331,5 @@ ${body}
     });
   }
 
-  return { speciesPage, minePage, statusDK, P };
+  return { speciesPage, minePage, statusDK, P, page };
 }

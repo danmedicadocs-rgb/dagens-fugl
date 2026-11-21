@@ -50,7 +50,7 @@
         b.setAttribute('aria-pressed', String(!!e));
         b.querySelector('.seen-label').textContent = e ? 'Set ' + fmt(e.d) : 'Jeg har set den';
       });
-      hint.innerHTML = e ? 'Gemt. <a href="' + BASE + '/preview/mine/#' + key + '">Tilføj sted og note i Mine fugle</a>' : hint0;
+      hint.innerHTML = e ? 'Gemt. <a href="' + BASE + '/mine/#' + key + '">Tilføj sted og note i Mine fugle</a>' : hint0;
     };
     btns.forEach(function (b) {
       b.addEventListener('click', function () {
@@ -164,7 +164,7 @@
         var row = el('div', 'row');
         var go = el('button', 'btn primary', 'Gem'); go.type = 'submit';
         var ok = el('span', 'ok'); ok.setAttribute('aria-live', 'polite');
-        var lk = el('a', 'btn', 'Se arten'); lk.href = a.u.replace(/\/fugle\//, '/preview/fugle/');
+        var lk = el('a', 'btn', 'Se arten'); lk.href = a.u;
         var rm = el('button', 'rm', 'Fjern'); rm.type = 'button';
         row.appendChild(go); row.appendChild(lk); row.appendChild(ok); row.appendChild(rm); f.appendChild(row);
         f.addEventListener('submit', function (ev) {

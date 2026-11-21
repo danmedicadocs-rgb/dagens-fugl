@@ -406,54 +406,13 @@ function clip(text, max) {
 }
 
 // ---------------- Sideskabelon ----------------
-function page({ title, description, canonical, body, image, type = 'website', noindex = false, jsonld }) {
-  return `<!doctype html>
-<html lang="da">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script>document.documentElement.classList.add('js')</script>
-<title>${esc(title)}</title>
-<meta name="description" content="${esc(description)}">
-<link rel="canonical" href="${esc(canonical)}">
-${noindex ? '<meta name="robots" content="noindex">' : ''}
-<meta property="og:type" content="${type}">
-<meta property="og:title" content="${esc(title)}">
-<meta property="og:description" content="${esc(description)}">
-<meta property="og:url" content="${esc(canonical)}">
-<meta property="og:site_name" content="${esc(SITE_NAME)}">
-<meta property="og:locale" content="da_DK">
-${image ? `<meta property="og:image" content="${esc(image)}">\n<meta name="twitter:card" content="summary_large_image">` : ''}
-<meta name="theme-color" content="#f6f5f1" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#151816" media="(prefers-color-scheme: dark)">
-<link rel="icon" href="${url('favicon.svg')}" type="image/svg+xml">
-<link rel="alternate" type="application/rss+xml" title="${esc(SITE_NAME)}" href="${url('feed.xml')}">
-<link rel="preload" href="${url('fonts/fraunces.woff2')}" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="${url('fonts/inter.woff2')}" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${url('style.css')}">
-<link rel="stylesheet" href="${url('vendor/leaflet.css')}" media="print" onload="this.media='all'">
-${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
-</head>
-<body>
-<header class="site"><div class="site-inner">
-  <a class="brand" href="${url('')}"><svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="16" fill="currentColor"/><path d="M14 38c6-1 10-6 14-12 3-5 8-9 14-9 3 0 6 2 7 5l5 2-5 2c0 9-7 17-18 18-6 1-12-1-17-6z" fill="var(--bg)"/><circle cx="43" cy="22" r="1.8" fill="currentColor"/></svg><span>${esc(SITE_NAME)}</span></a>
-  <nav><a href="${url('fugle/')}">Alle fugle</a><a href="${url('arkiv/')}">Tidligere</a><a href="${url('fugle/')}" data-random>Tilfældig</a><a href="${url('mine/')}">Mine fugle</a></nav>
-</div></header>
-<main>
-${body}
-</main>
-<footer class="site">
-  <div class="foot-brand"><strong>${esc(SITE_NAME)}</strong><p>En ny fugl at gætte og lære om hver dag. Billeder, lyde og kort fra åbne kilder – krediteret på hver side. Uden reklamer.</p></div>
-  <div class="foot-col"><h4>Fugle</h4><a href="${url('fugle/danske/')}">Danske fugle</a><a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a><a href="${url('maaned/')}">Måned for måned</a><a href="${url('arkiv/')}">Tidligere dage</a></div>
-  <div class="foot-col"><h4>Om siden</h4><a href="${url('kilder/')}">Kilder og licenser</a><a href="${url('privatliv/')}">Privatliv</a><a href="${url('mine/')}">Mine fugle</a><a href="${esc(mailto('Feedback til Dagens Fugl'))}">Giv feedback</a></div>
-</footer>
-<dialog class="lightbox" aria-label="Billede i stor størrelse"><button type="button" class="lb-close" aria-label="Luk">×</button><img alt=""><p class="lb-caption"></p></dialog>
-<script>window.DF_BASE=${JSON.stringify(BASE_PATH)};</script>
-<script src="${url('vendor/leaflet.js')}" defer></script>
-${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(CF_BEACON)}"}'></script>` : ''}
-<script src="${url('app.js')}" defer></script>
-</body>
-</html>`;
+let V2 = null;
+const v2 = () => V2 || (V2 = makeV2({ esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
+  relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON }));
+
+// Fælles sideskabelon (nyt design). Ældre sider beholder deres egne komponenter fra style.css.
+function page(opts) {
+  return v2().page({ ...opts, legacy: true });
 }
 
 function imageLd(ph) {
@@ -529,12 +488,10 @@ function main() {
     byGenus.get(g).push(d);
   }
 
-  // --- nyt design (v2) som preview under /preview/ – noindex, canonical peger på den rigtige side ---
+  // --- artssider (nyt design) ---
   const FRAVALGT = new Set(fs.existsSync(path.join(ROOT, 'data', 'fotos-fravalgt.txt'))
     ? fs.readFileSync(path.join(ROOT, 'data', 'fotos-fravalgt.txt'), 'utf8').split('\n').map((l) => l.replace(/#.*/, '').trim()).filter(Boolean).map(Number) : []);
   const keepPhoto = (ph) => ph && !FRAVALGT.has(ph.id);
-  const v2 = makeV2({ esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
-    relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto });
   const byFamily = new Map();
   for (const d of species) { const f = d.taxon?.family; if (f) { if (!byFamily.has(f)) byFamily.set(f, []); byFamily.get(f).push(d); } }
   const family = (d) => {
@@ -544,23 +501,7 @@ function main() {
   for (const d of species) {
     const dd = { ...d, photos: d.photos && Object.fromEntries(Object.entries(d.photos).map(([k, v]) => [k, Array.isArray(v) ? v.filter(keepPhoto) : keepPhoto(v) ? v : null])) };
     if (dd.photos && !dd.photos.hero) dd.photos.hero = ['male', 'female', 'adult', 'general', 'juvenile'].map((k) => dd.photos[k]?.[0]).find(Boolean) || null;
-    write(`preview/${speciesUrl(d)}index.html`, v2.speciesPage(dd, { byKey, family }));
-  }
-  write('preview/mine/index.html', v2.minePage());
-
-  // --- artssider ---
-  for (const d of species) {
-    const canonical = abs(speciesUrl(d));
-    const name = displayName(d);
-    write(`${speciesUrl(d)}index.html`, page({
-      title: `${name} (${d.names.accepted}) – fjerdragt, hvor og hvornår | ${SITE_NAME}`,
-      description: metaDescription(d),
-      canonical,
-      image: d.photos?.hero?.large || d.photos?.hero?.medium,
-      type: 'article',
-      jsonld: speciesJsonLd(d, canonical),
-      body: crumbs(d) + speciesBody(d) + related(d) + moreLinks(d) + feedback(d),
-    }));
+    write(`${speciesUrl(d)}index.html`, v2().speciesPage(dd, { byKey, family }));
   }
 
   function feedback(d) {
@@ -915,19 +856,7 @@ ${CF_BEACON ? `<li><strong>Cloudflare Web Analytics</strong> (Cloudflare Inc., U
   write('arter.json', JSON.stringify(sorted.map((d) => ({ k: d.key, n: displayName(d), s: d.names.accepted, r: d.region, u: url(speciesUrl(d)), t: thumb(d.photos?.hero) }))));
 
   // --- Mine fugle (vises i browseren ud fra det, man selv har markeret) ---
-  write('mine/index.html', page({
-    title: `Mine fugle | ${SITE_NAME}`,
-    description: 'De fugle du har markeret som set på Dagens Fugl.',
-    canonical: abs('mine/'),
-    noindex: true,
-    body: `<section class="listing" id="mine">
-  <h1>Mine fugle</h1>
-  <p class="lede" id="mine-status">Her samles de fugle, du har markeret med »Jeg har set den«. Listen gemmes kun i din egen browser – vi kan ikke se den.</p>
-  <div class="progress" id="mine-progress" hidden aria-hidden="true"><span></span></div>
-  <ul class="cards" id="mine-list"></ul>
-  <p class="muted">Skifter du browser eller telefon, eller rydder du browserdata, starter listen forfra.</p>
-</section>`,
-  }));
+  write('mine/index.html', v2().minePage());
 
   // --- sitemap og robots ---
   const urls = [
@@ -1014,7 +943,7 @@ ${yImg ? `<p style="margin:4px 0 0;font-size:11px;color:#69706b">Foto: ${esc(Str
     write('feed.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${esc(SITE_NAME)}</title><link>${abs('')}</link><description>En ny fugl at gætte hver dag.</description><language>da</language>${items.join('')}</channel></rss>\n`);
   }
 
-  write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /preview/\n\nSitemap: ${abs('sitemap.xml')}\n`);
+  write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${abs('sitemap.xml')}\n`);
   write('.nojekyll', '');
 
   console.log(`Bygget: ${species.length} artssider (${list.length - species.length} mangler stadig data). Dagens fugl ${today}: ${todayBird ? displayName(todayBird) : '–'}`);
