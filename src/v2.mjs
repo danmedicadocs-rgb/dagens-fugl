@@ -4,7 +4,7 @@
 
 export function makeV2(h) {
   const { esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
-    relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON } = h;
+    relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON, SIGNUP_URL } = h;
   const P = (p) => url(p);
   const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
   const dateDa = (iso) => new Intl.DateTimeFormat('da-DK', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(iso));
@@ -59,6 +59,17 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(
 <main id="indhold">
 ${body}
 </main>
+${SIGNUP_URL ? `<section class="news" aria-labelledby="news-h"><div class="wrap news-in">
+  <div><h2 id="news-h">Få dagens fugl på mail</h2><p>En kort mail hver morgen ca. kl. 7 med dagens gætteleg og svaret fra i går. Gratis, og du kan altid afmelde dig.</p></div>
+  <div><form class="signup-form news-form" data-url="${esc(SIGNUP_URL)}">
+    <label class="sr" for="news-email">Din mailadresse</label>
+    <input id="news-email" type="email" name="email" required placeholder="Din mailadresse" autocomplete="email">
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
+    <button type="submit" class="btn primary">Tilmeld</button>
+  </form>
+  <p class="signup-msg" aria-live="polite"></p>
+  <p class="news-note">Vi gemmer kun din mailadresse og bruger den kun til mailen. Se <a href="${url('privatliv/')}">privatliv</a>.</p></div>
+</div></section>` : ''}
 <footer class="foot"><div class="wrap foot-in">
   <div><strong>${esc(SITE_NAME)}</strong><p>En ny fugl at gætte og lære om hver dag. Billeder, lyde og data fra åbne kilder, krediteret på hver side. Uden reklamer.</p></div>
   <div><h2>Fugle</h2><a href="${url('fugle/danske/')}">Danske fugle</a><a href="${url('fugle/udenlandske/')}">Udenlandske fugle</a><a href="${url('maaned/')}">Måned for måned</a></div>

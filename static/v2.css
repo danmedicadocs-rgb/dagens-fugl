@@ -308,3 +308,17 @@ body.home .quiz.collapsed { padding-bottom: 4px; }
 body.home .quiz.collapsed .quiz-result { margin-top: 8px; }
 body.home .quiz-toggle { margin: 12px 0 4px; }
 body.home #reveal { margin-top: 48px; }
+
+/* Nyhedsbrev i bunden af alle sider */
+.news { border-top: 1px solid var(--line); background: var(--accent-soft); }
+.news-in { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px 48px; align-items: center; padding-top: 40px; padding-bottom: 40px; }
+.news h2 { font-size: 1.6rem; margin: 0 0 6px; }
+.news p { margin: 0; color: var(--muted); }
+.news-form { display: flex; gap: 10px; flex-wrap: wrap; }
+.news-form input[type=email] { flex: 1 1 220px; min-height: 48px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--text); font: 16px var(--sans); }
+.news-form .btn { min-height: 48px; padding: 0 24px; }
+.news .hp { position: absolute; left: -9999px; }
+.news .signup-msg { margin-top: 10px; color: var(--accent); font-weight: 500; }
+.news-note { font-size: 0.82rem; margin-top: 10px !important; }
+.news-note a { color: inherit; }
+@media (max-width: 760px) { .news-in { grid-template-columns: minmax(0, 1fr); } }

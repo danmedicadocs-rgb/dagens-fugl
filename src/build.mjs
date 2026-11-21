@@ -408,7 +408,7 @@ function clip(text, max) {
 // ---------------- Sideskabelon ----------------
 let V2 = null;
 const v2 = () => V2 || (V2 = makeV2({ esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
-  relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON }));
+  relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON, SIGNUP_URL }));
 
 // Fælles sideskabelon (nyt design). Ældre sider beholder deres egne komponenter fra style.css.
 function page(opts) {
@@ -570,7 +570,6 @@ function main() {
       + v2().speciesArticle(homeDD(todayBird), { byKey, family, headingTag: 'h2', kicker: '', crumbs: false }).body
       + `<aside class="more wrap"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
       + `</div>`
-      + signupBox()
       + recentStrip(recent);
   } else {
     homeBody = '<article class="species"><h1>Dagens fugl er på vej</h1><p class="big">Data hentes stadig. Kig forbi igen senere.</p></article>';
