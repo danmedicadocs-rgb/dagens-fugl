@@ -329,3 +329,4 @@ footer.site strong { font-family: var(--serif); color: var(--text); font-size: 1
 .latest a:hover { background: var(--surface); }
 .latest strong { flex: none; width: 8.5em; font-weight: 600; }
 .latest span { color: var(--muted); }
+.h2-via { font-family: var(--sans); font-size: 0.9rem; font-weight: 500; color: var(--muted); letter-spacing: 0; }
