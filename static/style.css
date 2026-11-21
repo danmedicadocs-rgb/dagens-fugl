@@ -333,3 +333,5 @@ footer.site strong { font-family: var(--serif); color: var(--text); font-size: 1
 .definition { border-left: 3px solid var(--accent); padding: 0.2rem 0 0.2rem 1.1rem; margin: 1.5rem 0 2.5rem; max-width: 46rem; }
 .definition h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .definition p { margin: 0 0 0.6rem; }
+.latest em { margin-left: auto; flex: none; font-style: normal; font-size: 0.78rem; color: var(--muted); align-self: center; }
+@media (max-width: 560px) { .latest a { flex-wrap: wrap; gap: 2px 12px; } .latest strong { width: auto; } }

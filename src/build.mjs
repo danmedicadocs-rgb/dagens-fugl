@@ -14,7 +14,7 @@ import {
 const OWNER_NAME = process.env.OWNER_NAME || '';
 const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'dagensfugl1@gmail.com';
 const CF_BEACON = process.env.CF_BEACON || '30f01a95178a48b2ba5fca5113bc1704';
-const SIGNUP_URL = process.env.SIGNUP_URL || ''; // Apps Script-webapp til tilmelding (se apps-script/) // token til Cloudflare Web Analytics (uden cookies)
+const SIGNUP_URL = process.env.SIGNUP_URL || 'https://script.google.com/macros/s/AKfycbwm8sViqs60dkKjtEqe4VVQIheSLvjOhUwgyvatDyNnt2CziwNChLGnjVVjiuBSRRz5/exec'; // Apps Script-webapp til tilmelding (se apps-script/) // token til Cloudflare Web Analytics (uden cookies)
 const mailto = (subject, body = '') => `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}${body ? `&body=${encodeURIComponent(body)}` : ''}`;
 
 // ---------------- Hjælpere ----------------
@@ -375,7 +375,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     d.gbif?.worldTotal && '<a href="#hvor">Hvor</a>',
     d.sound?.src?.length && '<a href="#lyd">Hør den</a>',
   ].filter(Boolean).join('')}</nav>
-  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark <span class="h2-via">via iNaturalist</span></h2><ol class="latest"></ol><p class="source">Live fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a> – observationer delt af brugere. De er ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg. Se også <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a>.</p></section>` : ''}
+  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark <span class="h2-via">via DOFbasen og iNaturalist</span></h2><ol class="latest"></ol><p class="source">Fund fra <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a> (Dansk Ornitologisk Forening) hentes via <a href="https://www.gbif.org/dataset/95db4db8-f762-11e1-a439-00145eb45e9a" rel="noopener" target="_blank">GBIF</a>. De kommer med ca. 3 ugers forsinkelse, og følsomme arter er udeladt eller sløret af DOF. De nyeste fund kommer derfor ofte fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a>. Fundene er indtastet af brugerne og ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg.</p></section>` : ''}
   ${soundSection(d)}
   ${aboutSection(d)}
   ${plumageSection(d)}
@@ -837,10 +837,10 @@ function main() {
 <p>Som på alle hjemmesider sender din browser din IP-adresse og oplysninger om browsertype, når den henter sidens indhold. Det sker hos disse tjenester:</p>
 <ul>
 <li><strong>GitHub Pages</strong> (GitHub Inc., USA) er sidens webhotel. GitHub registrerer IP-adresser af hensyn til sikkerhed og drift. Se <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener" target="_blank">GitHubs privatlivserklæring</a>.</li>
-<li><strong>iNaturalist</strong> (billederne ligger hos Amazon Web Services) leverer fotografierne. Se <a href="https://www.inaturalist.org/pages/privacy" rel="noopener" target="_blank">iNaturalists privatlivspolitik</a>.</li>
+<li><strong>iNaturalist</strong> (billederne ligger hos Amazon Web Services) leverer fotografierne og de nyeste fund på artssiderne. Se <a href="https://www.inaturalist.org/pages/privacy" rel="noopener" target="_blank">iNaturalists privatlivspolitik</a>.</li>
 ${CF_BEACON ? `<li><strong>Cloudflare Web Analytics</strong> (Cloudflare Inc., USA) tæller besøg anonymt, så vi kan se hvor mange der bruger siden. Der bruges ingen cookies, og der gemmes intet, der kan genkende dig fra dag til dag.</li>` : ''}
 <li><strong>xeno-canto</strong> (Holland) og <strong>Wikimedia Commons</strong> (Wikimedia Foundation, USA) leverer fuglestemmerne. Lyden hentes først, når du trykker afspil.</li>
-<li><strong>GBIF</strong> (Global Biodiversity Information Facility, København) leverer kortene. Se <a href="https://www.gbif.org/terms/privacy-policy" rel="noopener" target="_blank">GBIFs privatlivspolitik</a>.</li>
+<li><strong>GBIF</strong> (Global Biodiversity Information Facility, København) leverer kortene og fund fra DOFbasen på artssiderne. Se <a href="https://www.gbif.org/terms/privacy-policy" rel="noopener" target="_blank">GBIFs privatlivspolitik</a>.</li>
 </ul>
 <p>Oplysningerne bruges kun til at levere indholdet til din skærm. Overførsel til USA sker under EU-USA-rammen for databeskyttelse (Data Privacy Framework), som GitHub og Amazon er tilsluttet.</p>
 <h2>Morgenmail og feedback</h2>

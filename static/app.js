@@ -134,28 +134,65 @@
   }
 
   // ---- Seneste fund i Danmark (live fra iNaturalist) ----
+  // ---- Seneste fund i Danmark: DOFbasen (via GBIF, ca. 3 ugers forsinkelse) + iNaturalist (nyeste) ----
   document.querySelectorAll('[data-latest]').forEach(function (sec) {
     var name = sec.getAttribute('data-latest');
     var list = sec.querySelector('.latest');
-    var u = 'https://api.inaturalist.org/v1/observations?taxon_name=' + encodeURIComponent(name) +
+    var DOF = 'https://api.gbif.org/v1/occurrence/search?datasetKey=95db4db8-f762-11e1-a439-00145eb45e9a&limit=300&scientificName=' + encodeURIComponent(name);
+    var INAT = 'https://api.inaturalist.org/v1/observations?taxon_name=' + encodeURIComponent(name) +
       '&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2&order_by=observed_on&order=desc&per_page=30&verifiable=true&locale=da';
+    var DAY = 864e5;
+    var iso = function (t) { return new Date(t).toISOString().slice(0, 10); };
+    var getj = function (u) { return fetch(u).then(function (r) { return r.json(); }); };
+    // Find de nyeste fund: smalt tidsvindue først; er der for mange fund, halveres vinduet mod det seneste.
+    var grab = function (from, to) {
+      return getj(DOF + '&eventDate=' + iso(from) + ',' + iso(to)).then(function (j) {
+        var res = j.results || [];
+        if (j.count <= 300 || to - from <= DAY) return res;
+        var mid = from + Math.floor((to - from) / 2 / DAY) * DAY;
+        return grab(mid, to).then(function (later) { return later.length >= 8 ? later : later.concat(res); });
+      });
+    };
+    var dof = function () {
+      var now = Date.now(), spans = [45, 120, 365, 1095, 3650], i = 0;
+      var next = function () {
+        if (i >= spans.length) return Promise.resolve([]);
+        var from = now - spans[i++] * DAY;
+        return getj(DOF + '&limit=0&eventDate=' + iso(from) + ',' + iso(now)).then(function (j) {
+          return j.count > 0 ? grab(from, now) : next();
+        });
+      };
+      return next().then(function (res) {
+        return res.filter(function (r) { return r.eventDate && r.locality; }).map(function (r) {
+          var k = r.gadm && r.gadm.level2 && r.gadm.level2.name;
+          return { d: r.eventDate.slice(0, 10), place: r.locality + (k && k !== r.locality ? ' (' + k + ')' : ''), n: r.individualCount, src: 'DOFbasen', url: 'https://www.gbif.org/occurrence/' + r.key };
+        });
+      });
+    };
+    var inat = function () {
+      return getj(INAT).then(function (d) {
+        return (d.results || []).filter(function (o) { return o.observed_on && /denmark|danmark|\bdk\b/i.test(o.place_guess || ''); })
+          .map(function (o) { return { d: o.observed_on, place: String(o.place_guess || '').replace(/,?\s*(Denmark|Danmark|DK)\s*$/i, ''), n: null, src: 'iNaturalist', url: o.uri }; });
+      });
+    };
     var load = function () {
-      fetch(u).then(function (r) { return r.json(); }).then(function (d) {
-        var rows = (d.results || []).filter(function (o) {
-          return o.observed_on && /denmark|danmark|\bdk\b/i.test(o.place_guess || '');
-        }).slice(0, 8);
+      Promise.all([dof().catch(function () { return []; }), inat().catch(function () { return []; })]).then(function (r) {
+        var seen = {};
+        var rows = r[0].concat(r[1]).sort(function (a, b) { return a.d < b.d ? 1 : a.d > b.d ? -1 : 0; }).filter(function (x) {
+          var k = x.d + '|' + x.place; if (seen[k]) return false; seen[k] = 1; return true;
+        }).slice(0, 10);
         if (!rows.length) return;
         rows.forEach(function (o) {
           var li = document.createElement('li');
-          var a = document.createElement('a'); a.href = o.uri; a.target = '_blank'; a.rel = 'noopener';
+          var a = document.createElement('a'); a.href = o.url; a.target = '_blank'; a.rel = 'noopener';
           var dt = document.createElement('strong');
-          dt.textContent = new Date(o.observed_on + 'T12:00:00').toLocaleDateString('da-DK', { day: 'numeric', month: 'short', year: 'numeric' });
-          var pl = document.createElement('span');
-          pl.textContent = String(o.place_guess || '').replace(/,?\s*(Denmark|Danmark|DK)\s*$/i, '');
-          a.appendChild(dt); a.appendChild(pl); li.appendChild(a); list.appendChild(li);
+          dt.textContent = new Date(o.d + 'T12:00:00').toLocaleDateString('da-DK', { day: 'numeric', month: 'short', year: 'numeric' });
+          var pl = document.createElement('span'); pl.textContent = o.place + (o.n ? ' · ' + o.n + (o.n === 1 ? ' fugl' : ' fugle') : '');
+          var sr = document.createElement('em'); sr.textContent = o.src;
+          a.appendChild(dt); a.appendChild(pl); a.appendChild(sr); li.appendChild(a); list.appendChild(li);
         });
         sec.hidden = false;
-      }).catch(function () {});
+      });
     };
     (window.requestIdleCallback || function (f) { setTimeout(f, 800); })(load);
   });
