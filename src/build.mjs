@@ -366,6 +366,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     d.gbif?.worldTotal && '<a href="#hvor">Hvor</a>',
     d.sound?.src?.length && '<a href="#lyd">Hør den</a>',
   ].filter(Boolean).join('')}</nav>
+  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark</h2><ol class="latest"></ol><p class="source">Live fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a> – fund som brugere har delt. Se også <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a>.</p></section>` : ''}
   ${soundSection(d)}
   ${aboutSection(d)}
   ${plumageSection(d)}

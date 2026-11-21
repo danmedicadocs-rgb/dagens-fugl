@@ -133,6 +133,33 @@
     }
   }
 
+  // ---- Seneste fund i Danmark (live fra iNaturalist) ----
+  document.querySelectorAll('[data-latest]').forEach(function (sec) {
+    var name = sec.getAttribute('data-latest');
+    var list = sec.querySelector('.latest');
+    var u = 'https://api.inaturalist.org/v1/observations?taxon_name=' + encodeURIComponent(name) +
+      '&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2&order_by=observed_on&order=desc&per_page=30&verifiable=true&locale=da';
+    var load = function () {
+      fetch(u).then(function (r) { return r.json(); }).then(function (d) {
+        var rows = (d.results || []).filter(function (o) {
+          return o.observed_on && /denmark|danmark|\bdk\b/i.test(o.place_guess || '');
+        }).slice(0, 8);
+        if (!rows.length) return;
+        rows.forEach(function (o) {
+          var li = document.createElement('li');
+          var a = document.createElement('a'); a.href = o.uri; a.target = '_blank'; a.rel = 'noopener';
+          var dt = document.createElement('strong');
+          dt.textContent = new Date(o.observed_on + 'T12:00:00').toLocaleDateString('da-DK', { day: 'numeric', month: 'short', year: 'numeric' });
+          var pl = document.createElement('span');
+          pl.textContent = String(o.place_guess || '').replace(/,?\s*(Denmark|Danmark|DK)\s*$/i, '');
+          a.appendChild(dt); a.appendChild(pl); li.appendChild(a); list.appendChild(li);
+        });
+        sec.hidden = false;
+      }).catch(function () {});
+    };
+    (window.requestIdleCallback || function (f) { setTimeout(f, 800); })(load);
+  });
+
   // ---- Tilmelding til morgenmail ----
   document.querySelectorAll('.signup-form').forEach(function (f) {
     var msg = f.parentNode.querySelector('.signup-msg');

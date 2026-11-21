@@ -323,3 +323,9 @@ footer.site strong { font-family: var(--serif); color: var(--text); font-size: 1
 .signup-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; }
 .signup-msg { margin: 10px 0 0; font-weight: 600; color: var(--accent); min-height: 1em; }
 .signup-note { margin: 6px 0 0; font-size: 0.82rem; color: var(--muted); }
+
+.latest { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; max-width: 640px; }
+.latest a { display: flex; gap: 16px; padding: 10px 12px; border-radius: 10px; text-decoration: none; color: var(--text); }
+.latest a:hover { background: var(--surface); }
+.latest strong { flex: none; width: 8.5em; font-weight: 600; }
+.latest span { color: var(--muted); }
