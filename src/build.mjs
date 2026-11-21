@@ -567,7 +567,7 @@ function main() {
     const kicker = `<p class="kicker">Dagens fugl · <time datetime="${today}">${esc(capFirst(longDate(today)))}</time></p>`;
     homeBody = quizSection(todayBird, today, dayNo)
       + `<div id="reveal" data-locked data-nosnippet>`
-      + v2().speciesArticle(homeDD(todayBird), { byKey, family, headingTag: 'h2', kicker, crumbs: false }).body
+      + v2().speciesArticle(homeDD(todayBird), { byKey, family, headingTag: 'h2', kicker: '', crumbs: false }).body
       + `<aside class="more wrap"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
       + `</div>`
       + signupBox()

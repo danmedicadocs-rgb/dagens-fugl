@@ -307,3 +307,4 @@ body.home .quiz.collapsed > :not(.kicker):not(.quiz-result):not(.quiz-stats):not
 body.home .quiz.collapsed { padding-bottom: 4px; }
 body.home .quiz.collapsed .quiz-result { margin-top: 8px; }
 body.home .quiz-toggle { margin: 12px 0 4px; }
+body.home #reveal { margin-top: 48px; }
