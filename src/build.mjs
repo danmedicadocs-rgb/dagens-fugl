@@ -13,7 +13,8 @@ import {
 // Hvem står bag siden (vises på privatlivssiden). Sættes som repository variables i GitHub.
 const OWNER_NAME = process.env.OWNER_NAME || '';
 const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'dagensfugl1@gmail.com';
-const CF_BEACON = process.env.CF_BEACON || ''; // token til Cloudflare Web Analytics (uden cookies)
+const CF_BEACON = process.env.CF_BEACON || '';
+const SIGNUP_URL = process.env.SIGNUP_URL || ''; // Apps Script-webapp til tilmelding (se apps-script/) // token til Cloudflare Web Analytics (uden cookies)
 const mailto = (subject, body = '') => `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}${body ? `&body=${encodeURIComponent(body)}` : ''}`;
 
 // ---------------- Hjælpere ----------------
@@ -148,6 +149,20 @@ function soundSection(d) {
   <audio controls preload="none">${so.src.map((x) => `<source src="${esc(x.u)}"${x.type && x.type !== 'application/ogg' ? ` type="${esc(x.type)}"` : ''}>`).join('')}</audio>
   <p class="source">Optagelse: ${esc(so.artist || 'ukendt')} · ${so.licenseUrl ? `<a href="${esc(so.licenseUrl)}" rel="license noopener" target="_blank">${esc(so.license)}</a>` : esc(so.license)} · <a href="${esc(so.page)}" rel="noopener" target="_blank">${esc(so.via || 'Wikimedia Commons')}</a>${so.type ? ` · ${esc(so.type)}` : ''}</p>
 </section>`;
+}
+
+function signupBox() {
+  if (!SIGNUP_URL) return '';
+  return `<aside class="signup" id="tilmeld">
+  <div><strong>Få dagens fugl på mail</strong><span>En kort mail hver morgen ca. kl. 7 med dagens gætteleg – og svaret fra i går. Gratis, og du kan altid afmelde dig.</span></div>
+  <form class="signup-form" data-url="${esc(SIGNUP_URL)}">
+    <input type="email" name="email" required placeholder="Din mailadresse" autocomplete="email" aria-label="Din mailadresse">
+    <input type="text" name="website" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
+    <button type="submit" class="button">Tilmeld</button>
+  </form>
+  <p class="signup-msg" aria-live="polite"></p>
+  <p class="signup-note">Vi gemmer kun din mailadresse og bruger den kun til mailen. Se <a href="${url('privatliv/')}">privatliv</a>.</p>
+</aside>`;
 }
 
 const TEXT_PARTS = [['kendetegn', 'Kendetegn'], ['stemme', 'Stemme'], ['levested', 'Hvor lever den?'], ['foede', 'Hvad spiser den?'], ['i_danmark', 'I Danmark']];
@@ -576,6 +591,7 @@ function main() {
       + speciesBody(todayBird, { kicker, headingTag: 'h2' })
       + `<aside class="more"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
       + `</div>`
+      + signupBox()
       + recentStrip(recent);
   } else {
     homeBody = '<article class="species"><h1>Dagens fugl er på vej</h1><p class="big">Data hentes stadig. Kig forbi igen senere.</p></article>';
@@ -805,7 +821,7 @@ ${CF_BEACON ? `<li><strong>Cloudflare Web Analytics</strong> (Cloudflare Inc., U
 </ul>
 <p>Oplysningerne bruges kun til at levere indholdet til din skærm. Overførsel til USA sker under EU-USA-rammen for databeskyttelse (Data Privacy Framework), som GitHub og Amazon er tilsluttet.</p>
 <h2>Morgenmail og feedback</h2>
-<p>Har du bedt om at få dagens fugl på mail, gemmer vi kun din mailadresse – og kun til det formål. Den sendes via Gmail (Google), og du kan til enhver tid afmelde dig ved at svare på mailen. Skriver du til os med feedback, bruger vi kun din mail til at svare dig.</p>
+<p>Tilmelder du dig morgenmailen, gemmer vi kun din mailadresse og tidspunktet for tilmeldingen – og kun til det formål. Du er først tilmeldt, når du har bekræftet via linket i den første mail. Adresserne ligger i et Google-ark på vores Google-konto og mailen sendes via Google (Gmail). Du kan altid afmelde dig med linket nederst i hver mail, og så sender vi ikke flere. Skriver du til os med feedback, bruger vi kun din mail til at svare dig.</p>
 <h2>Dine rettigheder</h2>
 <p>Da siden ikke selv gemmer oplysninger om dig, er der ikke noget at indsigte, rette eller slette her. Vil du klage over behandling af personoplysninger, kan du kontakte <a href="https://www.datatilsynet.dk" rel="noopener" target="_blank">Datatilsynet</a>.</p>
 <p class="muted">Senest opdateret ${esc(new Intl.DateTimeFormat('da-DK', { dateStyle: 'long' }).format(new Date('2026-11-13T12:00:00Z')))}.</p>
@@ -906,6 +922,32 @@ ${sorted.filter((d) => d.region !== 'dk').map(line).join('\n')}
 - [Kilder og licenser](${abs('kilder/')})
 - [Privatliv](${abs('privatliv/')})
 `);
+
+
+  // --- mail.json: indholdet til morgenmailen (hentes af Apps Script hver morgen) ---
+  {
+    const no = dayIdx(today) + 1;
+    const yIso = addDays(today, -1);
+    const yk = birdOn(yIso);
+    const y = yk ? byKey.get(yk) : null;
+    const dateTxt = capFirst(longDate(today));
+    const yName = y ? displayName(y) : '';
+    const yImg = y?.photos?.hero?.medium || '';
+    const html = `<!doctype html><html lang="da"><body style="margin:0;background:#f6f5f1;font-family:Arial,sans-serif;color:#1d211f">
+<div style="max-width:520px;margin:0 auto;padding:28px 20px">
+<p style="margin:0;color:#2e6a4f;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase">${esc(SITE_NAME)} #${no} · ${esc(dateTxt)}</p>
+<h1 style="font-family:Georgia,serif;font-size:30px;line-height:1.15;margin:8px 0 10px">Hvilken fugl er det i dag?</h1>
+<p style="margin:0 0 20px;font-size:16px;line-height:1.55;color:#4b524e">Lyt til stemmen, se billedet og gæt dagens fugl. Tre forsøg – og bagefter kan du læse alt om den.</p>
+<p style="margin:0 0 28px"><a href="${abs('')}" style="display:inline-block;background:#2e6a4f;color:#ffffff;text-decoration:none;font-weight:700;padding:13px 24px;border-radius:99px">Gæt dagens fugl</a></p>
+${y ? `<div style="border-top:1px solid #e2e0d8;padding-top:20px"><p style="margin:0 0 10px;font-size:14px;color:#69706b">I går var det …</p>
+${yImg ? `<a href="${abs(speciesUrl(y))}"><img src="${esc(yImg)}" alt="${esc(yName)}" width="480" style="width:100%;max-width:480px;border-radius:12px;display:block;margin:0 0 10px"></a>` : ''}
+<p style="margin:0;font-family:Georgia,serif;font-size:20px;font-weight:700"><a href="${abs(speciesUrl(y))}" style="color:#1d211f">${esc(yName)}</a></p>
+${yImg ? `<p style="margin:4px 0 0;font-size:11px;color:#69706b">Foto: ${esc(String(y.photos.hero.attribution || '').slice(0, 90))} · iNaturalist</p>` : ''}</div>` : ''}
+<p style="margin:32px 0 0;font-size:12px;color:#69706b">Du får denne mail, fordi du har tilmeldt dig på dagensfugl.dk. <a href="{{AFMELD}}" style="color:#69706b">Afmeld</a></p>
+</div></body></html>`;
+    const text = `${SITE_NAME} #${no} – ${dateTxt}\n\nHvilken fugl er det i dag? Gæt den her: ${abs('')}\n${y ? `\nI går var det: ${yName} – ${abs(speciesUrl(y))}\n` : ''}\nAfmeld: {{AFMELD}}`;
+    write('mail.json', JSON.stringify({ date: today, no, subject: `Dagens fugl #${no} – kan du gætte den?`, html, text }));
+  }
 
   // --- RSS-feed: dagens fugl (uden at afsløre dagens navn) ---
   {

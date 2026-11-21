@@ -133,6 +133,23 @@
     }
   }
 
+  // ---- Tilmelding til morgenmail ----
+  document.querySelectorAll('.signup-form').forEach(function (f) {
+    var msg = f.parentNode.querySelector('.signup-msg');
+    f.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      if (f.website.value) return;
+      var btn = f.querySelector('button'); btn.disabled = true;
+      var body = new URLSearchParams({ email: f.email.value, website: f.website.value });
+      fetch(f.dataset.url, { method: 'POST', mode: 'no-cors', body: body }).then(function () {
+        msg.textContent = 'Tak! Tjek din indbakke (og evt. spam) og bekræft tilmeldingen via linket i mailen.';
+        f.reset();
+      }).catch(function () {
+        msg.textContent = 'Det gik desværre ikke. Prøv igen om lidt.';
+      }).then(function () { btn.disabled = false; });
+    });
+  });
+
   // ---- Dagens gætteleg ----
   var QKEY = 'dagensfugl-quiz';
   function qLoad() { try { return JSON.parse(localStorage.getItem(QKEY) || 'null') || { days: {}, streak: 0, best: 0, lastWin: null }; } catch (e) { return { days: {}, streak: 0, best: 0, lastWin: null }; } }

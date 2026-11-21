@@ -66,6 +66,7 @@ jobs:
           OWNER_NAME: ${{ vars.OWNER_NAME }}
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
           CF_BEACON: ${{ vars.CF_BEACON }}
+          SIGNUP_URL: ${{ vars.SIGNUP_URL }}
         run: node src/build.mjs
 
       - name: Gem rækkefølgen for dagens fugl
