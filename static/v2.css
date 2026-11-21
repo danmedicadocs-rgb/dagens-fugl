@@ -294,7 +294,7 @@ body.legacy .top-in, body.legacy .foot-in { max-width: var(--wrap); }
 
 /* Forsiden: quiz og dagens fugl i samme bredde */
 body.home main { max-width: 860px; margin: 0 auto; padding: 0 24px; }
-body.home .wrap { max-width: none; padding-left: 0; padding-right: 0; }
+body.home main .wrap { max-width: none; padding-left: 0; padding-right: 0; }
 body.home .quiz { max-width: none; }
 body.home .chips { margin-left: -24px; margin-right: -24px; }
 body.home .chips-in { padding-left: 24px; padding-right: 24px; }
