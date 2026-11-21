@@ -134,6 +134,8 @@ ${body}
 </section>`;
   }
 
+  const LYD = { song: 'sang', call: 'kald', 'flight call': 'flugtkald', 'alarm call': 'alarmkald', 'begging call': 'tiggekald', drumming: 'trommen', 'contact call': 'kontaktkald', 'nocturnal flight call': 'nattrækkald', subsong: 'dæmpet sang', duet: 'duet' };
+  const lydType = (t) => String(t).split(/,\s*/).map((x) => LYD[x.toLowerCase()] || x).filter((x, i, a) => a.indexOf(x) === i).join(', ');
   function sound(d) {
     const so = d.sound;
     if (!so?.src?.length) return '';
@@ -146,7 +148,7 @@ ${body}
     <span class="time" aria-live="off">0:00</span>
   </div>
   <audio controls preload="none">${so.src.map((x) => `<source src="${esc(x.u)}"${x.type && x.type !== 'application/ogg' ? ` type="${esc(x.type)}"` : ''}>`).join('')}</audio>
-  <p class="src">${so.type ? `${esc(cap(so.type))}. ` : ''}Optaget af ${esc(so.artist || 'ukendt')}, ${lic}, via <a href="${esc(so.page)}" rel="noopener" target="_blank">${esc(so.via || 'Wikimedia Commons')}</a>.</p>
+  <p class="src">${so.type ? `${esc(cap(lydType(so.type)))}. ` : ''}Optaget af ${esc(so.artist || 'ukendt')}, ${lic}, via <a href="${esc(so.page)}" rel="noopener" target="_blank">${esc(so.via || 'Wikimedia Commons')}</a>.</p>
 </section>`;
   }
 
