@@ -83,12 +83,17 @@ async function wikipedia(lang, title) {
 // ---------- iNaturalist ----------
 async function inatTaxon(sciName, inatId) {
   // Følg iNaturalists taksonomiske ændringer: et inaktivt (udskiftet) takson peger på sin afløser.
+  // Ved opdelinger findes flere afløsere: vælg den med samme artsnavn (stamme, så »rustica« matcher »rusticus«).
+  // Er der ingen med samme artsnavn (fx når arten er slået sammen med en anden), følges ændringen ikke.
+  const stem = (n) => String(n || '').split(' ').pop().toLowerCase().slice(0, 5);
   const follow = async (t, depth = 0) => {
     if (!t || t.is_active !== false || depth > 2) return t;
-    const next = t.current_synonymous_taxon_ids?.[0];
-    if (!next) return t;
-    const d = await getJson(`https://api.inaturalist.org/v1/taxa/${next}?locale=da`, { allow404: true });
-    return follow(d?.results?.[0] || t, depth + 1);
+    const ids = t.current_synonymous_taxon_ids || [];
+    if (!ids.length) return t;
+    const d = await getJson(`https://api.inaturalist.org/v1/taxa/${ids.slice(0, 10).join(',')}?locale=da`, { allow404: true });
+    const want = stem(sciName);
+    const next = (d?.results || []).find((x) => stem(x.name) === want);
+    return next ? follow(next, depth + 1) : t;
   };
   if (inatId) {
     const d = await getJson(`https://api.inaturalist.org/v1/taxa/${inatId}?locale=da`, { allow404: true });
@@ -258,7 +263,8 @@ async function gbifKey(sciName, fromWikidata, altName) {
   }
   for (const n of [sciName, altName].filter(Boolean)) {
     const m = await getJson(`https://api.gbif.org/v1/species/match?name=${q(n)}&kingdom=Animalia&class=Aves`);
-    if (m && m.matchType !== 'NONE' && m.usageKey) cands.add(m.acceptedUsageKey || m.usageKey);
+    // Kun match på artsniveau – et slægtsmatch ville give alle slægtens fund.
+    if (m && m.usageKey && m.matchType !== 'NONE' && m.matchType !== 'HIGHERRANK' && (m.rank === 'SPECIES' || m.rank === 'SUBSPECIES')) cands.add(m.acceptedUsageKey || m.usageKey);
   }
   const list = [...cands];
   if (list.length < 2) return list[0] || null;
