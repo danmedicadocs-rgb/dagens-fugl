@@ -89,7 +89,7 @@ function birdForDate(iso, allKeys, readySet) {
 }
 
 // ---------------- Indhold pr. art ----------------
-function displayName(d) { return d.names.da || d.names.en || d.name; }
+function displayName(d) { return d.names.da ? d.names.da.replace(/ (\p{Lu})/gu, (m, c) => ' ' + c.toLowerCase()) : d.names.en || d.name; }
 
 function thumb(photo) {
   return photo?.medium ? photo.medium.replace('/medium.', '/small.') : null;
@@ -376,7 +376,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     d.gbif?.worldTotal && '<a href="#hvor">Hvor</a>',
     d.sound?.src?.length && '<a href="#lyd">Hør den</a>',
   ].filter(Boolean).join('')}</nav>
-  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark <span class="h2-via">via DOFbasen og iNaturalist</span></h2><ol class="latest"></ol><p class="source">Fund fra <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a> (Dansk Ornitologisk Forening) hentes via <a href="https://www.gbif.org/dataset/95db4db8-f762-11e1-a439-00145eb45e9a" rel="noopener" target="_blank">GBIF</a>. De kommer med ca. 3 ugers forsinkelse, og følsomme arter er udeladt eller sløret af DOF. De nyeste fund kommer derfor ofte fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a>. Fundene er indtastet af brugerne og ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg.</p></section>` : ''}
+  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark <span class="h2-via">via iNaturalist</span></h2><ol class="latest"></ol><p class="source">Live fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a> – observationer delt af brugerne, ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg. Langt flere danske fund findes i <a href="https://dofbasen.dk/search/" rel="noopener" target="_blank">DOFbasen</a>.</p></section>` : ''}
   ${soundSection(d)}
   ${aboutSection(d)}
   ${plumageSection(d)}

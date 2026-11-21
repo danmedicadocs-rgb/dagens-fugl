@@ -185,7 +185,7 @@ ${body}
     } else {
       when = `<div class="box" id="hvornaar"><h2>Ses den i Danmark?</h2><p class="lead">${g.dkTotal > 0 ? 'Den står ikke på Den danske liste.' : 'Nej. Den står ikke på Den danske liste og er aldrig truffet som vildtlevende fugl i Danmark.'}</p>${g.dkTotal > 0 ? `<p class="src">Der er ${nf.format(g.dkTotal)} registreringer fra Danmark i GBIF. Den slags fund er typisk fugle, der er undsluppet fra fangenskab. ${upd}</p>` : ''}</div>`;
     }
-    const dkMap = g.dkTotal > 0 ? `<div class="box" id="hvor"><h2>Hvor i Danmark?</h2><p class="lead">Tæthed af fund${d.region === 'dk' ? ' og prikker for de seneste fund fra DOFbasen' : ''}.</p><div class="map" data-map="dk" data-taxon="${g.key}" aria-label="Kort over fund i Danmark"></div><p class="src">Kort: ${gbifA}${d.region === 'dk' ? ', prikker: DOFbasen via GBIF' : ''}. Baggrundskort © <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a>, © OpenMapTiles. ${upd}</p></div>` : '';
+    const dkMap = g.dkTotal > 0 ? `<div class="box" id="hvor"><h2>Hvor i Danmark?</h2><p class="lead">Tæthed af fund${d.region === 'dk' ? ' og prikker for de seneste fund fra iNaturalist' : ''}.</p><div class="map" data-map="dk" data-taxon="${g.key}" aria-label="Kort over fund i Danmark"></div><p class="src">Kort: ${gbifA}${d.region === 'dk' ? ', prikker: iNaturalist' : ''}. Baggrundskort © <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a>, © OpenMapTiles. ${upd}</p></div>` : '';
     const countries = (g.topCountries || []).filter((c) => c.code && c.code.length === 2).slice(0, 8);
     const list = countries.length ? `<ol class="countries">${countries.map((c) => { let n; try { n = regionNames.of(c.code); } catch { n = c.code; } return `<li><span>${esc(n)}</span><span class="num">${nf.format(c.count)}</span></li>`; }).join('')}</ol>` : '';
     const world = g.worldTotal ? `<section class="sec" id="verden"><h2>Udbredelse i verden</h2><div class="world"><div class="map" data-map="world" data-taxon="${g.key}" aria-label="Verdenskort over fund"></div>${list ? `<div><h3>Lande med flest registreringer</h3>${list}</div>` : ''}</div><p class="src">${nf.format(g.worldTotal)} registreringer i alt i ${gbifA}. ${upd}</p></section>` : '';
@@ -196,9 +196,9 @@ ${body}
     if (d.region !== 'dk') return '';
     const n = encodeURIComponent(d.names.accepted);
     return `<section class="sec" id="fund" data-latest="${esc(d.names.accepted)}" hidden>
-  <h2>Seneste fund i Danmark <span class="via">via DOFbasen og iNaturalist</span></h2>
+  <h2>Seneste fund i Danmark <span class="via">via iNaturalist</span></h2>
   <ol class="latest"></ol>
-  <p class="src">Fund fra <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a> (Dansk Ornitologisk Forening) hentes via <a href="https://www.gbif.org/dataset/95db4db8-f762-11e1-a439-00145eb45e9a" rel="noopener" target="_blank">GBIF</a> og kommer med ca. 3 ugers forsinkelse; følsomme arter er udeladt eller sløret af DOF. De nyeste fund kommer ofte fra <a href="https://www.inaturalist.org/observations?taxon_name=${n}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a>. Fundene er indtastet af brugerne og ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg.</p>
+  <p class="src">Live fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a> – observationer delt af brugerne, ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg. Langt flere danske fund findes i <a href="https://dofbasen.dk/search/" rel="noopener" target="_blank">DOFbasen</a>.</p>
 </section>`;
   }
 

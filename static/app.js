@@ -176,9 +176,9 @@
       });
     };
     var load = function () {
-      Promise.all([dof().catch(function () { return []; }), inat().catch(function () { return []; })]).then(function (r) {
+      inat().catch(function () { return []; }).then(function (all) {
         var seen = {};
-        var rows = r[0].concat(r[1]).sort(function (a, b) { return a.d < b.d ? 1 : a.d > b.d ? -1 : 0; }).filter(function (x) {
+        var rows = all.filter(function (x) {
           var k = x.d + '|' + x.place; if (seen[k]) return false; seen[k] = 1; return true;
         }).slice(0, 10);
         if (!rows.length) return;
