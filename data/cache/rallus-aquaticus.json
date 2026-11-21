@@ -2,11 +2,11 @@
  "key": "rallus-aquaticus",
  "name": "Rallus aquaticus",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:40:06.630Z",
+ "fetchedAt": "2026-11-21T10:32:52.558Z",
  "names": {
   "da": "Vandrikse",
   "en": "Brown-cheeked rail",
-  "accepted": "Rallus aquaticus"
+  "accepted": "Rallus indicus"
  },
  "wikidata": {
   "id": "Q185099"
@@ -18,63 +18,113 @@
   "url": "https://da.wikipedia.org/wiki/Vandrikse"
  },
  "inat": {
-  "id": 249,
-  "observations": 42
+  "id": 144477,
+  "observations": 834
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
-  "hero": null
+  "juvenile": [
+   {
+    "id": 354006083,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/354006083/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/354006083/large.jpg",
+    "attribution": "(c) Sakern | 永隔一江水, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/200628051",
+    "place": "Wuhan, CN-HU, CN",
+    "date": "2024-02-27"
+   }
+  ],
+  "adult": [
+   {
+    "id": 623575866,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/623575866/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/623575866/large.jpg",
+    "attribution": "(c) 小火鸡, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/342428884",
+    "place": "中国上海市奉贤区",
+    "date": "2025-12-23"
+   },
+   {
+    "id": 611667540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/611667540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/611667540/large.jpg",
+    "attribution": "(c) Goofy Ko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336579602",
+    "place": null,
+    "date": "2026-01-29"
+   },
+   {
+    "id": 664850562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/664850562/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/664850562/large.jpg",
+    "attribution": "(c) xunjie_xi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364194734",
+    "place": "中国杭州市余杭区良渚古城遗址公园 邮政编码: 311115",
+    "date": "2026-03-07"
+   }
+  ],
+  "hero": {
+   "id": 240061528,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/240061528/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/240061528/large.jpg",
+   "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/240061528",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2474831,
-  "dkTotal": 119702,
+  "dkTotal": 119807,
   "dkMonths": [
    6923,
    5740,
-   11271,
-   19595,
+   11272,
+   19596,
    17402,
    8749,
    7352,
    10770,
-   10244,
-   9734,
-   6590,
-   5262
+   10245,
+   9744,
+   6680,
+   5264
   ],
-  "worldTotal": 1112872,
+  "worldTotal": 1113042,
   "topCountries": [
    {
     "code": "SE",
-    "count": 226555
+    "count": 226562
    },
    {
     "code": "NL",
-    "count": 152457
+    "count": 152458
    },
    {
     "code": "GB",
-    "count": 129437
+    "count": 129448
    },
    {
     "code": "DK",
-    "count": 119702
+    "count": 119807
    },
    {
     "code": "FR",
-    "count": 105309
+    "count": 105318
    },
    {
     "code": "ES",
-    "count": 88060
+    "count": 88063
    },
    {
     "code": "BE",
-    "count": 60844
+    "count": 60847
    },
    {
     "code": "CH",
@@ -82,38 +132,39 @@
    },
    {
     "code": "DE",
-    "count": 34650
+    "count": 34655
    },
    {
     "code": "NO",
-    "count": 33479
+    "count": 33480
    },
    {
     "code": "IT",
-    "count": 19619
+    "count": 19628
    },
    {
     "code": "PT",
-    "count": 13962
+    "count": 13965
    }
   ]
  },
  "sound": {
   "src": [
    {
-    "u": "https://xeno-canto.org/1189626/download",
+    "u": "https://xeno-canto.org/927602/download",
     "type": "audio/mpeg"
    }
   ],
   "license": "CC BY-NC-ND 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "artist": "Bodo Sonnenburg",
-  "page": "https://xeno-canto.org/1189626",
+  "artist": "Ding Li Yong",
+  "page": "https://xeno-canto.org/927602",
   "type": "song",
   "via": "xeno-canto"
  },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Rallidae",

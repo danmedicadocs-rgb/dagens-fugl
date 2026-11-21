@@ -2,11 +2,11 @@
  "key": "charadrius-dubius",
  "name": "Charadrius dubius",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:41:04.722Z",
+ "fetchedAt": "2026-11-21T10:33:02.476Z",
  "names": {
   "da": "Lille præstekrave",
   "en": "Little Ringed Plover",
-  "accepted": "Charadrius dubius"
+  "accepted": "Thinornis dubius"
  },
  "wikidata": {
   "id": "Q18851"
@@ -18,15 +18,106 @@
   "url": "https://da.wikipedia.org/wiki/Lille_pr%C3%A6stekrave"
  },
  "inat": {
-  "id": 4811,
-  "observations": 0
+  "id": 1580336,
+  "observations": 38492
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 108209867,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108209867/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/108209867/large.jpeg",
+    "attribution": "(c) emanon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67036812",
+    "place": "中國廣東省深圳市南山區",
+    "date": "2020-12-19"
+   },
+   {
+    "id": 132695725,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132695725/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132695725/large.jpg",
+    "attribution": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80938237",
+    "place": "23769 Fehmarn, Deutschland",
+    "date": "2021-05-29"
+   },
+   {
+    "id": 172808025,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/172808025/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/172808025/large.jpeg",
+    "attribution": "(c) Yuzefovich Alexander, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103278695",
+    "place": "Верхнедонской р-н, Ростовская обл., Россия",
+    "date": "2017-06-05"
+   }
+  ],
+  "female": [
+   {
+    "id": 219144349,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219144349/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219144349/large.jpg",
+    "attribution": "(c) Лиза Шмидт, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/128985664",
+    "place": "г. Березовский, Свердловская обл., Россия",
+    "date": "2022-07-23"
+   },
+   {
+    "id": 610990868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610990868/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610990868/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/336248059",
+    "place": "Málaga, España",
+    "date": "2024-04-01"
+   },
+   {
+    "id": 325997123,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/325997123/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/325997123/large.png",
+    "attribution": "(c) Nicola Romeo Arena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186529381",
+    "place": "Provincia di Catanzaro, Italia",
+    "date": "2023-10-07"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 754074280,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/754074280/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/754074280/large.jpg",
+    "attribution": "(c) 김대환, 이선미, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/410051476",
+    "place": "대한민국 인천광역시 중구",
+    "date": "2010-05-30"
+   },
+   {
+    "id": 389815966,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389815966/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/389815966/large.jpeg",
+    "attribution": "(c) Zuzana Münzbergová, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/220085110",
+    "place": "Lomy 10, 378 53 Člunek-Strmilov, Česko",
+    "date": "2024-06-02"
+   },
+   {
+    "id": 434694081,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/434694081/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/434694081/large.jpeg",
+    "attribution": "(c) SteveM4560, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/243752397",
+    "place": "Pomorie, Bulgaria",
+    "date": "2024-09-14"
+   }
+  ],
   "hero": {
    "id": 28895106,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895106/medium.jpg",
@@ -39,90 +130,78 @@
   }
  },
  "gbif": {
-  "key": 7937336,
-  "dkTotal": 168,
+  "key": 2480339,
+  "dkTotal": 83079,
   "dkMonths": [
+   2,
    0,
-   0,
-   3,
-   8,
-   50,
-   38,
-   18,
-   11,
-   4,
-   3,
-   0,
-   1
+   1098,
+   16216,
+   21677,
+   15165,
+   18738,
+   9947,
+   204,
+   30,
+   2,
+   0
   ],
-  "worldTotal": 257848,
+  "worldTotal": 1676586,
   "topCountries": [
    {
-    "code": "FR",
-    "count": 66561
+    "code": "NL",
+    "count": 287777
    },
    {
-    "code": "BE",
-    "count": 45057
+    "code": "SE",
+    "count": 249132
    },
    {
-    "code": "NO",
-    "count": 27207
-   },
-   {
-    "code": "TW",
-    "count": 22387
-   },
-   {
-    "code": "GB",
-    "count": 21670
-   },
-   {
-    "code": "DE",
-    "count": 19702
+    "code": "AU",
+    "count": 243699
    },
    {
     "code": "ES",
-    "count": 13494
+    "count": 125082
    },
    {
-    "code": "EE",
-    "count": 7211
+    "code": "TW",
+    "count": 100120
    },
    {
-    "code": "CH",
-    "count": 5077
+    "code": "IN",
+    "count": 92530
+   },
+   {
+    "code": "GB",
+    "count": 84864
+   },
+   {
+    "code": "DK",
+    "count": 83079
+   },
+   {
+    "code": "ZA",
+    "count": 38420
+   },
+   {
+    "code": "FI",
+    "count": 33646
+   },
+   {
+    "code": "DE",
+    "count": 20901
    },
    {
     "code": "JP",
-    "count": 3710
-   },
-   {
-    "code": "AT",
-    "count": 3481
-   },
-   {
-    "code": "RU",
-    "count": 3152
+    "count": 18284
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/999287/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-ND 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "artist": "Ulf Elman",
-  "page": "https://xeno-canto.org/999287",
-  "type": "call, song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Charadriidae",

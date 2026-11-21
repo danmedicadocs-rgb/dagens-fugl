@@ -2,11 +2,11 @@
  "key": "emberiza-bruniceps",
  "name": "Emberiza bruniceps",
  "region": "dk",
- "fetchedAt": "2026-11-20T14:01:57.823Z",
+ "fetchedAt": "2026-11-21T10:35:59.310Z",
  "names": {
   "da": "Brunhovedet Værling",
   "en": "Red-headed Bunting",
-  "accepted": "Emberiza bruniceps"
+  "accepted": "Melophus bruniceps"
  },
  "wikidata": {
   "id": "Q547159"
@@ -18,15 +18,75 @@
   "url": "https://en.wikipedia.org/wiki/Red-headed_bunting"
  },
  "inat": {
-  "id": 9215,
-  "observations": 0
+  "id": 1720230,
+  "observations": 1075
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 687669571,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/687669571/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/687669571/large.jpg",
+    "attribution": "(c) Jürgen Schneider, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/376121026",
+    "place": "Chah Ab, Afghanistan",
+    "date": "2026-06-01"
+   },
+   {
+    "id": 518093208,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/518093208/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/518093208/large.jpg",
+    "attribution": "(c) Houman Doroudi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/288111839",
+    "place": "Quchan, Razavi Khorasan Province, Iran",
+    "date": "2025-06-04"
+   },
+   {
+    "id": 490066213,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/490066213/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/490066213/large.jpeg",
+    "attribution": "(c) Vahid_Ashrafi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/272396715",
+    "place": "Dargaz, Razavi Khorasan Province, Iran",
+    "date": "2025-04-22"
+   }
+  ],
+  "female": [
+   {
+    "id": 11174723,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11174723/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/11174723/large.jpg",
+    "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/8201664",
+    "place": "Badam river, South Kazakhstan",
+    "date": "2016-09-12"
+   },
+   {
+    "id": 672353973,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/672353973/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/672353973/large.jpg",
+    "attribution": "(c) evgeniy_vladimirov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368139505",
+    "place": "Kvarkenskiy rayon, RU-OB, RU",
+    "date": "2026-05-25"
+   },
+   {
+    "id": 533001579,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/533001579/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/533001579/large.jpg",
+    "attribution": "(c) Pavel Isayenko, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/296038101",
+    "place": "Иссык-атинский, Кыргызстан",
+    "date": "2025-07-07"
+   }
+  ],
   "juvenile": [],
-  "adult": [],
-  "general": [],
   "hero": {
    "id": 67919730,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/67919730/medium.jpg",
@@ -39,90 +99,78 @@
   }
  },
  "gbif": {
-  "key": 2491521,
-  "dkTotal": 4,
+  "key": 2491468,
+  "dkTotal": 727131,
   "dkMonths": [
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3,
-   0,
-   0
+   30629,
+   29999,
+   87451,
+   120775,
+   130553,
+   89274,
+   68090,
+   32160,
+   36383,
+   55988,
+   26111,
+   19459
   ],
-  "worldTotal": 12128,
+  "worldTotal": 10840995,
   "topCountries": [
    {
-    "code": "IN",
-    "count": 7641
+    "code": "SE",
+    "count": 1803859
    },
    {
-    "code": "KZ",
-    "count": 1867
+    "code": "FR",
+    "count": 1095580
    },
    {
-    "code": "IR",
-    "count": 544
+    "code": "ES",
+    "count": 1031793
    },
    {
-    "code": "KG",
-    "count": 420
-   },
-   {
-    "code": "UZ",
-    "count": 332
-   },
-   {
-    "code": "CN",
-    "count": 225
+    "code": "NL",
+    "count": 854301
    },
    {
     "code": "GB",
-    "count": 207
+    "count": 794138
    },
    {
-    "code": "TJ",
-    "count": 153
+    "code": "DK",
+    "count": 727131
    },
    {
-    "code": "AF",
-    "count": 116
+    "code": "NO",
+    "count": 663283
    },
    {
-    "code": "HK",
-    "count": 75
+    "code": "FI",
+    "count": 658278
    },
    {
-    "code": "RU",
-    "count": 61
+    "code": "DE",
+    "count": 409014
    },
    {
-    "code": "PK",
-    "count": 52
+    "code": "CH",
+    "count": 318309
+   },
+   {
+    "code": "ZA",
+    "count": 240983
+   },
+   {
+    "code": "PT",
+    "count": 200650
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/912612/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Sławomir Karpicki",
-  "page": "https://xeno-canto.org/912612",
-  "type": "song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

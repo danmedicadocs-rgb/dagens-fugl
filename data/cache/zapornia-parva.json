@@ -2,11 +2,11 @@
  "key": "zapornia-parva",
  "name": "Zapornia parva",
  "region": "dk",
- "fetchedAt": "2026-11-20T13:49:54.958Z",
+ "fetchedAt": "2026-11-21T10:34:45.293Z",
  "names": {
   "da": "Lille Rørvagtel",
   "en": "Little Crake",
-  "accepted": "Porzana parva"
+  "accepted": "Zapornia parva"
  },
  "wikidata": {
   "id": "Q270680"
@@ -18,22 +18,113 @@
   "url": "https://en.wikipedia.org/wiki/Little_crake"
  },
  "inat": {
-  "id": 183,
-  "observations": 0
+  "id": 508919,
+  "observations": 1241
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 184883282,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184883282/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/184883282/large.jpeg",
+    "attribution": "(c) Mirko Tomasi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/109671960",
+    "place": "21024 Biandronno VA, Italia",
+    "date": "2022-03-27"
+   },
+   {
+    "id": 639641227,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/639641227/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/639641227/large.jpg",
+    "attribution": "(c) Iridescence, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/350561466",
+    "place": "Pleidelsheim, Deutschland",
+    "date": "2026-04-17"
+   },
+   {
+    "id": 660665808,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/660665808/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/660665808/large.jpg",
+    "attribution": "(c) Steve Mayo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/361989827",
+    "place": "North Aegean Region, Greece",
+    "date": "2026-05-04"
+   }
+  ],
+  "female": [
+   {
+    "id": 365671732,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/365671732/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/365671732/large.png",
+    "attribution": "(c) Nicola Romeo Arena, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/206772172",
+    "place": "Provincia di Catanzaro, Italia",
+    "date": "2024-04-12"
+   },
+   {
+    "id": 138992339,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138992339/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/138992339/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/84559672",
+    "place": "Kirovo-Chepetskiy rayon, RU-KV, RU",
+    "date": "2021-06-06"
+   },
+   {
+    "id": 725864717,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/725864717/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/725864717/large.jpg",
+    "attribution": "(c) rdesert, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/395747776",
+    "place": "Ar Rayyan, QA",
+    "date": "2025-03-06"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 428594598,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/428594598/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/428594598/large.jpg",
+    "attribution": "(c) Robert Pisch, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/240556943",
+    "place": "Gaisau Inzing, 6170 Inzing, Österreich",
+    "date": "2024-09-08"
+   },
+   {
+    "id": 454907898,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/454907898/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/454907898/large.jpeg",
+    "attribution": "(c) Ángel Páez, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/254016479",
+    "place": "Parque del Guadalhorce, Churriana, 29004 Málaga, España",
+    "date": "2024-12-03"
+   },
+   {
+    "id": 57079107,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57079107/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/57079107/large.jpeg",
+    "attribution": "(c) aditt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/36132114",
+    "place": "Saloniki",
+    "date": "2019-11-27"
+   }
+  ],
   "hero": {
-   "id": 8819,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8819/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/8819/large.jpg",
-   "attribution": "(c) Harry Rutherford, some rights reserved (CC BY-NC)",
+   "id": 323059744,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/323059744/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/323059744/large.jpg",
+   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
    "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/8819",
+   "source": "https://www.inaturalist.org/photos/323059744",
    "place": null,
    "date": null
   }
@@ -107,9 +198,23 @@
    }
   ]
  },
- "sound": null,
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1106816/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Jonas Olson",
+  "page": "https://xeno-canto.org/1106816",
+  "type": "song",
+  "via": "xeno-canto"
+ },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Rallidae",

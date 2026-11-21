@@ -2,11 +2,11 @@
  "key": "acanthis-hornemanni",
  "name": "Acanthis hornemanni",
  "region": "dk",
- "fetchedAt": "2026-11-17T20:00:42.055Z",
+ "fetchedAt": "2026-11-21T10:34:04.329Z",
  "names": {
   "da": "Hvidsisken",
   "en": "Arctic Redpoll",
-  "accepted": "Acanthis hornemanni"
+  "accepted": "Acanthis flammea"
  },
  "wikidata": {
   "id": "Q27075856"
@@ -18,111 +18,203 @@
   "url": "https://da.wikipedia.org/wiki/Hvidsisken"
  },
  "inat": {
-  "id": 145302,
-  "observations": 0
+  "id": 145300,
+  "observations": 47158
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 112107662,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112107662/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/112107662/large.jpg",
+    "attribution": "(c) Vladimir Kharuk, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/69131230",
+    "place": "г. Каменск-Уральский, Свердловская обл., Россия",
+    "date": "2021-01-31"
+   },
+   {
+    "id": 116983206,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116983206/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/116983206/large.jpg",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/71814689",
+    "place": "г. Кыштым, Челябинская обл., Россия",
+    "date": "2021-03-15"
+   },
+   {
+    "id": 61558545,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61558545/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61558545/large.jpeg",
+    "attribution": "(c) Denis Doucet, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38706437",
+    "place": "Kent County, NB, Canada",
+    "date": "2011-03-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 110120269,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/110120269/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/110120269/large.jpeg",
+    "attribution": "(c) judywelna, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/68062774",
+    "place": "Georgia, VT, USA",
+    "date": "2021-01-14"
+   },
+   {
+    "id": 181659634,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181659634/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/181659634/large.jpg",
+    "attribution": "(c) mannac, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107951927",
+    "place": "Port Washington, WI, USA",
+    "date": "2022-02-23"
+   },
+   {
+    "id": 33895547,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33895547/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/33895547/large.jpg",
+    "attribution": "(c) Иван Тисленко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/21878057",
+    "place": "Красносельский р-н, Санкт-Петербург, Россия",
+    "date": "2018-03-04"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 599063863,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/599063863/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/599063863/large.jpg",
+    "attribution": "(c) Jean-François Rousseau, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330373180",
+    "place": "Barachois, Percé, QC, Canada",
+    "date": "2016-09-05"
+   },
+   {
+    "id": 402994071,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/402994071/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/402994071/large.jpg",
+    "attribution": "(c) Piotr Lukasik, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/227189607",
+    "place": "Kangerlussuaq, Grenlandia",
+    "date": "2024-07-04"
+   },
+   {
+    "id": 58990540,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58990540/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/58990540/large.jpg",
+    "attribution": "(c) Herschel Island-Qikiqtaruk, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/37232187",
+    "place": "Yukon, YT, Canada",
+    "date": "2009-08-14"
+   }
+  ],
   "hero": {
-   "id": 179061621,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/179061621/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/179061621/large.jpeg",
-   "attribution": "(c) Syd Cannings, some rights reserved (CC BY), uploaded by Syd Cannings",
-   "license": "cc-by",
-   "source": "https://www.inaturalist.org/photos/179061621",
+   "id": 226173,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/226173/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/226173/large.jpg",
+   "attribution": "(c) Bill Bouton, some rights reserved (CC BY-NC)",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/226173",
    "place": null,
    "date": null
   }
  },
  "gbif": {
-  "key": 5231646,
-  "dkTotal": 1320,
+  "key": 5231630,
+  "dkTotal": 125080,
   "dkMonths": [
-   397,
-   223,
-   114,
-   14,
-   0,
-   6,
-   0,
-   0,
-   0,
-   49,
-   241,
-   274
+   11145,
+   8229,
+   12508,
+   17161,
+   13898,
+   7362,
+   6386,
+   3049,
+   4504,
+   15763,
+   15265,
+   9753
   ],
-  "worldTotal": 80694,
+  "worldTotal": 3307921,
   "topCountries": [
    {
     "code": "SE",
-    "count": 36139
+    "count": 898530
    },
    {
     "code": "FI",
-    "count": 22506
-   },
-   {
-    "code": "NO",
-    "count": 11637
+    "count": 597827
    },
    {
     "code": "CA",
-    "count": 2243
-   },
-   {
-    "code": "NL",
-    "count": 1966
+    "count": 504752
    },
    {
     "code": "US",
-    "count": 1909
+    "count": 395389
    },
    {
-    "code": "DK",
-    "count": 1320
-   },
-   {
-    "code": "RU",
-    "count": 1148
-   },
-   {
-    "code": "EE",
-    "count": 625
-   },
-   {
-    "code": "AX",
-    "count": 545
-   },
-   {
-    "code": "GL",
-    "count": 212
+    "code": "NO",
+    "count": 308298
    },
    {
     "code": "GB",
-    "count": 94
+    "count": 131464
+   },
+   {
+    "code": "DK",
+    "count": 125080
+   },
+   {
+    "code": "NZ",
+    "count": 57473
+   },
+   {
+    "code": "AX",
+    "count": 41998
+   },
+   {
+    "code": "NL",
+    "count": 38422
+   },
+   {
+    "code": "IS",
+    "count": 36836
+   },
+   {
+    "code": "RU",
+    "count": 35851
    }
   ]
  },
  "sound": {
   "src": [
    {
-    "u": "https://xeno-canto.org/142564/download",
+    "u": "https://xeno-canto.org/1168770/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-NC-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
-  "artist": "Andrew Spencer",
-  "page": "https://xeno-canto.org/142564",
-  "type": "song",
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Stanislas Wroza",
+  "page": "https://xeno-canto.org/1168770",
+  "type": "flight call, song",
   "via": "xeno-canto"
  },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Fringillidae",

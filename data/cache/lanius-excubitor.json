@@ -2,11 +2,11 @@
  "key": "lanius-excubitor",
  "name": "Lanius excubitor",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:50:36.168Z",
+ "fetchedAt": "2026-11-21T10:33:31.330Z",
  "names": {
   "da": "Stor tornskade",
   "en": "Great Grey Shrike",
-  "accepted": "Lanius excubitor"
+  "accepted": "Lanius borealis"
  },
  "wikidata": {
   "id": "Q184508"
@@ -18,62 +18,203 @@
   "url": "https://da.wikipedia.org/wiki/Stor_tornskade"
  },
  "inat": {
-  "id": 204532,
-  "observations": 5
+  "id": 558512,
+  "observations": 9981
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 63387868,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63387868/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/63387868/large.jpg",
+    "attribution": "(c) Irina Krug, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39922271",
+    "place": "г. Новоалтайск, Алтайский край, Россия",
+    "date": "2020-03-13"
+   },
+   {
+    "id": 763939584,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/763939584/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/763939584/large.jpg",
+    "attribution": "(c) lyndas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/414928906",
+    "place": "Nanaimo, BC, Canada",
+    "date": "2026-11-14"
+   },
+   {
+    "id": 332018402,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/332018402/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/332018402/large.jpeg",
+    "attribution": "(c) Brooke Lee, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/189517045",
+    "place": "West Seventh - Fort Road, St Paul, MN, USA",
+    "date": "2023-10-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 109497520,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109497520/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109497520/large.jpeg",
+    "attribution": "(c) Larry Cowan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67725896",
+    "place": "Pitt Meadows, BC, Canada",
+    "date": "2021-01-07"
+   },
+   {
+    "id": 103449260,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/103449260/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/103449260/large.jpg",
+    "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/64354023",
+    "place": "Humber Bay Park, Toronto, ON, Canada",
+    "date": "2017-03-11"
+   },
+   {
+    "id": 177390907,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177390907/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177390907/large.jpeg",
+    "attribution": "(c) brentnmoran, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/105692171",
+    "place": "Skagit County, WA, USA",
+    "date": "2022-01-26"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 610323952,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/610323952/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/610323952/large.jpg",
+    "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/335909791",
+    "place": "Three Lakes, WI 54562, USA",
+    "date": "2026-01-21"
+   },
+   {
+    "id": 506035337,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/506035337/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/506035337/large.jpg",
+    "attribution": "(c) bibbott, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/281683863",
+    "place": "Thorncliff Pl, Ottawa, ON, CA",
+    "date": "2024-01-30"
+   },
+   {
+    "id": 352692836,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352692836/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/352692836/large.jpeg",
+    "attribution": "(c) sprcrkwild, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/199954641",
+    "place": "Marysville Sewage Lagoon, Marysville, WA 98270, USA",
+    "date": "2024-02-20"
+   }
+  ],
   "hero": {
-   "id": 2952559,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2952559/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2952559/large.jpg",
-   "attribution": "(c) Jim Westfall, some rights reserved (CC BY-NC), uploaded by Jim Westfall",
+   "id": 349208817,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/349208817/medium.jpeg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/349208817/large.jpeg",
+   "attribution": "(c) Joe Walewski, some rights reserved (CC BY-NC), uploaded by Joe Walewski",
    "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/2952559",
+   "source": "https://www.inaturalist.org/photos/349208817",
    "place": null,
    "date": null
   }
  },
  "gbif": {
-  "key": 2492858,
-  "dkTotal": 0,
+  "key": 9444556,
+  "dkTotal": 58746,
   "dkMonths": [
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   7424,
+   7034,
+   9359,
+   5963,
+   165,
+   105,
+   316,
+   77,
+   1433,
+   13523,
+   7799,
+   5507
   ],
-  "worldTotal": 0,
-  "topCountries": []
+  "worldTotal": 810772,
+  "topCountries": [
+   {
+    "code": "SE",
+    "count": 287058
+   },
+   {
+    "code": "NL",
+    "count": 98881
+   },
+   {
+    "code": "DK",
+    "count": 58746
+   },
+   {
+    "code": "NO",
+    "count": 42592
+   },
+   {
+    "code": "ES",
+    "count": 31222
+   },
+   {
+    "code": "FR",
+    "count": 24690
+   },
+   {
+    "code": "IL",
+    "count": 23638
+   },
+   {
+    "code": "FI",
+    "count": 23262
+   },
+   {
+    "code": "PL",
+    "count": 19184
+   },
+   {
+    "code": "EE",
+    "count": 19105
+   },
+   {
+    "code": "AE",
+    "count": 18815
+   },
+   {
+    "code": "IN",
+    "count": 18731
+   }
+  ]
  },
  "sound": {
   "src": [
    {
-    "u": "https://xeno-canto.org/1167359/download",
+    "u": "https://xeno-canto.org/91967/download",
     "type": "audio/mpeg"
    }
   ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Stanislas Wroza",
-  "page": "https://xeno-canto.org/1167359",
-  "type": "call, song",
+  "license": "CC BY-NC-ND 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+  "artist": "Andrew Spencer",
+  "page": "https://xeno-canto.org/91967",
+  "type": "song",
   "via": "xeno-canto"
  },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Laniidae",

@@ -2,122 +2,201 @@
  "key": "ixobrychus-minutus",
  "name": "Ixobrychus minutus",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:36:59.813Z",
+ "fetchedAt": "2026-11-21T10:32:32.426Z",
  "names": {
   "da": "Dværghejre",
   "en": null,
-  "accepted": "Ixobrychus minutus"
+  "accepted": "Botaurus minutus"
  },
  "wikidata": {
   "id": "Q26129"
  },
  "wiki": null,
  "inat": {
-  "id": 204527,
-  "observations": 1
+  "id": 1578961,
+  "observations": 7240
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 531840247,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/531840247/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/531840247/large.jpg",
+    "attribution": "(c) Lioneska, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295429406",
+    "place": "Újezd u Průhonic, 149 00 Praha-Praha 415, Česko",
+    "date": "2025-07-04"
+   },
+   {
+    "id": 341618079,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341618079/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/341618079/large.jpg",
+    "attribution": "(c) Ilya Burylov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169939325",
+    "place": "Кстовский р-н, Нижегородская обл., Россия",
+    "date": "2023-06-28"
+   },
+   {
+    "id": 673880273,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673880273/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673880273/large.jpg",
+    "attribution": "(c) Ulvi Allahverdiyev, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368938529",
+    "place": "6th Micro-Region, Baku, Azerbaijan",
+    "date": "2026-06-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 294674211,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/294674211/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/294674211/large.jpg",
+    "attribution": "(c) Ilya Burylov, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/169939327",
+    "place": "Кстовский р-н, Нижегородская обл., Россия",
+    "date": "2023-06-28"
+   },
+   {
+    "id": 297640446,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297640446/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/297640446/large.jpg",
+    "attribution": "(c) Татьяна Гилязова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/171519506",
+    "place": "Вахитовский р-н, Казань, Респ. Татарстан, Россия",
+    "date": "2023-07-06"
+   },
+   {
+    "id": 606809120,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/606809120/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/606809120/large.jpg",
+    "attribution": "(c) ugqira52-, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/334178329",
+    "place": "Richards Bay, South Africa",
+    "date": "2018-01-16"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 62310913,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/62310913/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/62310913/large.jpg",
+    "attribution": "(c) Tatyana Zarubo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/39286322",
+    "place": "Московский р-н, Нижний Новгород, Нижегородская обл., Россия",
+    "date": "2013-07-25"
+   },
+   {
+    "id": 305859943,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305859943/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/305859943/large.jpeg",
+    "attribution": "(c) София Хохлачёва, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/175961908",
+    "place": "Кабан",
+    "date": "2023-07-31"
+   },
+   {
+    "id": 375836275,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375836275/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375836275/large.jpeg",
+    "attribution": "(c) Arjen Gerritsen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/212677351",
+    "place": "Αμφιτρίτης 330,παλαιά, Naxos 843 00, Griekenland",
+    "date": "2024-05-01"
+   }
+  ],
   "hero": {
-   "id": 322880590,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/322880590/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/322880590/large.jpeg",
-   "attribution": "(c) Erik Eckstein, some rights reserved (CC BY-NC), uploaded by Erik Eckstein",
+   "id": 523072440,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/523072440/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/523072440/large.jpg",
+   "attribution": "(c) Oleg, some rights reserved (CC BY-NC), uploaded by Oleg",
    "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/322880590",
+   "source": "https://www.inaturalist.org/photos/523072440",
    "place": null,
    "date": null
   }
  },
  "gbif": {
-  "key": 2480850,
-  "dkTotal": 16,
+  "key": 2480909,
+  "dkTotal": 66029,
   "dkMonths": [
-   0,
-   0,
-   0,
-   0,
-   2,
-   4,
-   1,
-   3,
-   1,
-   1,
-   0,
-   0
+   1740,
+   3395,
+   9541,
+   20181,
+   19446,
+   6747,
+   1451,
+   774,
+   646,
+   715,
+   528,
+   725
   ],
-  "worldTotal": 61402,
+  "worldTotal": 1563616,
   "topCountries": [
    {
-    "code": "FR",
-    "count": 23342
+    "code": "US",
+    "count": 484692
    },
    {
-    "code": "BE",
-    "count": 10505
+    "code": "SE",
+    "count": 162807
    },
    {
-    "code": "ZA",
-    "count": 9868
-   },
-   {
-    "code": "ES",
-    "count": 6607
-   },
-   {
-    "code": "DE",
-    "count": 1559
-   },
-   {
-    "code": "UA",
-    "count": 1288
-   },
-   {
-    "code": "IL",
-    "count": 829
-   },
-   {
-    "code": "PL",
-    "count": 820
-   },
-   {
-    "code": "RU",
-    "count": 752
-   },
-   {
-    "code": "PT",
-    "count": 604
+    "code": "CA",
+    "count": 148929
    },
    {
     "code": "NL",
-    "count": 543
+    "count": 94237
    },
    {
-    "code": "AT",
-    "count": 499
+    "code": "IN",
+    "count": 69619
+   },
+   {
+    "code": "DK",
+    "count": 66029
+   },
+   {
+    "code": "TW",
+    "count": 46293
+   },
+   {
+    "code": "GB",
+    "count": 43609
+   },
+   {
+    "code": "ES",
+    "count": 38270
+   },
+   {
+    "code": "AU",
+    "count": 31808
+   },
+   {
+    "code": "CH",
+    "count": 26060
+   },
+   {
+    "code": "FR",
+    "count": 26051
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/1146853/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-ND 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "artist": "Joost van Bruggen",
-  "page": "https://xeno-canto.org/1146853",
-  "type": "call, song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Ardeidae",

@@ -2,11 +2,11 @@
  "key": "charadrius-alexandrinus",
  "name": "Charadrius alexandrinus",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:41:12.362Z",
+ "fetchedAt": "2026-11-21T10:33:11.933Z",
  "names": {
   "da": "Hvidbrystet præstekrave",
   "en": "Kentish Plover",
-  "accepted": "Charadrius alexandrinus"
+  "accepted": "Anarhynchus alexandrinus"
  },
  "wikidata": {
   "id": "Q18855"
@@ -18,25 +18,125 @@
   "url": "https://da.wikipedia.org/wiki/Hvidbrystet_pr%C3%A6stekrave"
  },
  "inat": {
-  "id": 4789,
-  "observations": 1
+  "id": 1505620,
+  "observations": 18831
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
-  "hero": null
+  "male": [
+   {
+    "id": 361920194,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361920194/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361920194/large.jpeg",
+    "attribution": "(c) Diego González Dopico, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/204739540",
+    "place": "A Coruña, ES-GA, ES",
+    "date": "2024-03-31"
+   },
+   {
+    "id": 665885799,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/665885799/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/665885799/large.jpg",
+    "attribution": "(c) miraculix, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/364749892",
+    "place": "Niedersachsen, DE",
+    "date": "2026-05-17"
+   },
+   {
+    "id": 132071054,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132071054/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132071054/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80570156",
+    "place": "Málaga, ES-AN, ES",
+    "date": "2021-03-15"
+   }
+  ],
+  "female": [
+   {
+    "id": 361259562,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/361259562/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/361259562/large.jpeg",
+    "attribution": "(c) Daniel Gaona Carrilero, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/204374243",
+    "place": "Castellón, ES-VC, ES",
+    "date": "2024-03-29"
+   },
+   {
+    "id": 98921191,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/98921191/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/98921191/large.jpeg",
+    "attribution": "(c) Daniel Raposo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/61793032",
+    "place": "Trafaria, Portugal",
+    "date": "2020-10-03"
+   },
+   {
+    "id": 162627410,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/162627410/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/162627410/large.jpg",
+    "attribution": "(c) djhird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/97753710",
+    "place": "Andalucía, ES",
+    "date": "2021-06-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 131121882,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131121882/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/131121882/large.jpg",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/80026495",
+    "place": "中国河北省唐山市曹妃甸区",
+    "date": "2021-05-23"
+   },
+   {
+    "id": 289563258,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289563258/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289563258/large.jpeg",
+    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167169989",
+    "place": "Cádiz, ES-AN, ES",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 142299726,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142299726/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/142299726/large.jpg",
+    "attribution": "(c) babajaga, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/86383164",
+    "place": "Provincia di Rovigo, Italia",
+    "date": "2021-06-04"
+   }
+  ],
+  "hero": {
+   "id": 379996503,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/379996503/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/379996503/large.jpg",
+   "attribution": "(c) Szymon Bzoma, some rights reserved (CC BY-NC), uploaded by Szymon Bzoma",
+   "license": "cc-by-nc",
+   "source": "https://www.inaturalist.org/photos/379996503",
+   "place": null,
+   "date": null
+  }
  },
  "gbif": {
   "key": 2480311,
-  "dkTotal": 8003,
+  "dkTotal": 8004,
   "dkMonths": [
    0,
    23,
    91,
-   1173,
+   1174,
    2238,
    1588,
    1523,
@@ -46,27 +146,27 @@
    81,
    33
   ],
-  "worldTotal": 517153,
+  "worldTotal": 517201,
   "topCountries": [
    {
     "code": "TW",
-    "count": 121858
+    "count": 121861
    },
    {
     "code": "ES",
-    "count": 98473
+    "count": 98475
    },
    {
     "code": "FR",
-    "count": 50384
+    "count": 50393
    },
    {
     "code": "PT",
-    "count": 37345
+    "count": 37349
    },
    {
     "code": "IN",
-    "count": 31322
+    "count": 31324
    },
    {
     "code": "AE",
@@ -74,7 +174,7 @@
    },
    {
     "code": "CN",
-    "count": 14662
+    "count": 14664
    },
    {
     "code": "JP",
@@ -94,26 +194,14 @@
    },
    {
     "code": "NL",
-    "count": 8010
+    "count": 8012
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/795873/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Stanislas Wroza",
-  "page": "https://xeno-canto.org/795873",
-  "type": "call, song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Charadriidae",

@@ -2,11 +2,11 @@
  "key": "emberiza-pusilla",
  "name": "Emberiza pusilla",
  "region": "dk",
- "fetchedAt": "2026-11-17T20:02:11.396Z",
+ "fetchedAt": "2026-11-21T10:34:25.950Z",
  "names": {
   "da": "Dværgværling",
   "en": "Little Bunting",
-  "accepted": "Emberiza pusilla"
+  "accepted": "Schoeniclus pusillus"
  },
  "wikidata": {
   "id": "Q216855"
@@ -18,15 +18,106 @@
   "url": "https://da.wikipedia.org/wiki/Dv%C3%A6rgv%C3%A6rling"
  },
  "inat": {
-  "id": 9197,
-  "observations": 0
+  "id": 1720550,
+  "observations": 4703
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 47731541,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47731541/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/47731541/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/30548945",
+    "place": "Helgoland, Deutschland",
+    "date": "2018-10-08"
+   },
+   {
+    "id": 424724004,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/424724004/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/424724004/large.jpeg",
+    "attribution": "(c) abujudy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/238559084",
+    "place": null,
+    "date": "2024-04-27"
+   },
+   {
+    "id": 312576884,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/312576884/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/312576884/large.jpg",
+    "attribution": "(c) Александр Гончаров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179532109",
+    "place": "г. Воркута, Респ. Коми, Россия",
+    "date": "2023-07-19"
+   }
+  ],
+  "female": [
+   {
+    "id": 276977916,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276977916/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276977916/large.jpg",
+    "attribution": "(c) Xenia Stad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160288299",
+    "place": "Amur Oblast, Russia, 676456",
+    "date": "2023-05-07"
+   },
+   {
+    "id": 38387850,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38387850/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38387850/large.jpg",
+    "attribution": "(c) 張智偉(Chang, Jack, Chih-Wei), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24820027",
+    "place": "Lienkiang (Matsu Islands), Fujian, Taiwan",
+    "date": "2019-04-28"
+   },
+   {
+    "id": 375539595,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/375539595/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/375539595/large.jpg",
+    "attribution": "(c) fangchen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/212507033",
+    "place": "未来科学城(建设中), 北京市, CN",
+    "date": "2024-05-01"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 109660953,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/109660953/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/109660953/large.jpeg",
+    "attribution": "(c) Светлана Мещерягина, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/67813012",
+    "place": "Красновишерский р-н, Пермский край, Россия",
+    "date": "2014-06-27"
+   },
+   {
+    "id": 542711797,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/542711797/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/542711797/large.jpg",
+    "attribution": "(c) Sergey_Cher, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/301193929",
+    "place": "9JQ9RFHG+V5",
+    "date": "2004-07-15"
+   },
+   {
+    "id": 605134815,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/605134815/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/605134815/large.jpg",
+    "attribution": "(c) Joe Bourget, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/333286052",
+    "place": "Le Soglitelle",
+    "date": "2026-01-03"
+   }
+  ],
   "hero": {
    "id": 1939351,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1939351/medium.jpg",
@@ -55,19 +146,19 @@
    231,
    98
   ],
-  "worldTotal": 88674,
+  "worldTotal": 88687,
   "topCountries": [
    {
     "code": "CN",
-    "count": 22018
+    "count": 22019
    },
    {
     "code": "TW",
-    "count": 11749
+    "count": 11750
    },
    {
     "code": "SE",
-    "count": 9086
+    "count": 9088
    },
    {
     "code": "NL",
@@ -75,7 +166,7 @@
    },
    {
     "code": "HK",
-    "count": 4692
+    "count": 4693
    },
    {
     "code": "IN",
@@ -83,7 +174,7 @@
    },
    {
     "code": "NO",
-    "count": 3917
+    "count": 3918
    },
    {
     "code": "FI",
@@ -91,11 +182,11 @@
    },
    {
     "code": "RU",
-    "count": 2822
+    "count": 2825
    },
    {
     "code": "GB",
-    "count": 2737
+    "count": 2738
    },
    {
     "code": "KR",
@@ -107,22 +198,10 @@
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/1184649/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Peter Zeller",
-  "page": "https://xeno-canto.org/1184649",
-  "type": "song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

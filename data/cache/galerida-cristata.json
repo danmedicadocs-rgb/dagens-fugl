@@ -2,7 +2,7 @@
  "key": "galerida-cristata",
  "name": "Galerida cristata",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:52:30.583Z",
+ "fetchedAt": "2026-11-21T10:33:45.772Z",
  "names": {
   "da": "Toplærke",
   "en": "Crested Lark",
@@ -18,29 +18,100 @@
   "url": "https://da.wikipedia.org/wiki/Topl%C3%A6rke"
  },
  "inat": {
-  "id": 7356,
-  "observations": 3
+  "id": 578607,
+  "observations": 21551
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 532296922,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/532296922/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/532296922/large.jpg",
+    "attribution": "(c) Pedro Beja, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/295668879",
+    "place": "Crete, Greece",
+    "date": "2025-07-05"
+   },
+   {
+    "id": 686502887,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/686502887/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/686502887/large.jpg",
+    "attribution": "(c) Radu Teodoreanu, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/375517396",
+    "place": "827191 Enisala, Romania",
+    "date": "2026-06-26"
+   },
+   {
+    "id": 756653500,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/756653500/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/756653500/large.jpg",
+    "attribution": "(c) Süleyman Talha Kaya, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/411318500",
+    "place": "18100 Çankırı Merkez/Çankırı, Türkiye",
+    "date": "2026-10-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 257579329,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/257579329/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/257579329/large.jpg",
+    "attribution": "(c) Kudaibergen Amirekul, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "source": "https://www.inaturalist.org/observations/149476864",
+    "place": "Байдибекский район, Казахстан",
+    "date": "2023-02-23"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 316384407,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/316384407/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/316384407/large.jpeg",
+    "attribution": "(c) lastovka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/181551850",
+    "place": "Südoststeiermark, Österreich",
+    "date": "2023-09-02"
+   },
+   {
+    "id": 289562294,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/289562294/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/289562294/large.jpeg",
+    "attribution": "(c) Bruno Peixoto, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/167169511",
+    "place": "Cádis, Espanha",
+    "date": "2023-06-09"
+   },
+   {
+    "id": 174111244,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/174111244/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/174111244/large.jpg",
+    "attribution": "(c) Pablo Pozo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/103950528",
+    "place": "Badajoz, España",
+    "date": "2021-07-24"
+   }
+  ],
   "hero": {
-   "id": 4945,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4945/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/4945/large.jpg",
-   "attribution": "(c) Valter Jacinto, some rights reserved (CC BY-NC-SA)",
-   "license": "cc-by-nc-sa",
-   "source": "https://www.inaturalist.org/photos/4945",
+   "id": 61326230,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61326230/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/61326230/large.jpg",
+   "attribution": "(c) Koshy Koshy, some rights reserved (CC BY)",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/61326230",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2490669,
-  "dkTotal": 4410,
+  "dkTotal": 4411,
   "dkMonths": [
    396,
    269,
@@ -52,46 +123,46 @@
    165,
    116,
    140,
-   161,
+   162,
    132
   ],
-  "worldTotal": 982688,
+  "worldTotal": 982768,
   "topCountries": [
    {
     "code": "ES",
-    "count": 395794
+    "count": 395804
    },
    {
     "code": "PT",
-    "count": 118694
+    "count": 118703
    },
    {
     "code": "IL",
-    "count": 83374
+    "count": 83378
    },
    {
     "code": "FR",
-    "count": 64369
+    "count": 64370
    },
    {
     "code": "TR",
-    "count": 42045
+    "count": 42053
    },
    {
     "code": "GR",
-    "count": 36870
+    "count": 36872
    },
    {
     "code": "AE",
-    "count": 27813
+    "count": 27814
    },
    {
     "code": "IN",
-    "count": 22652
+    "count": 22653
    },
    {
     "code": "IT",
-    "count": 16218
+    "count": 16219
    },
    {
     "code": "CY",
@@ -123,6 +194,7 @@
  },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Alaudidae",

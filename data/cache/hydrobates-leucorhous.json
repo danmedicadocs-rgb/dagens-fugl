@@ -2,11 +2,11 @@
  "key": "hydrobates-leucorhous",
  "name": "Hydrobates leucorhous",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:36:28.722Z",
+ "fetchedAt": "2026-11-21T10:32:20.980Z",
  "names": {
   "da": "Stor stormsvale",
   "en": "Leach’s Storm Petrel",
-  "accepted": "Oceanodroma leucorhoa"
+  "accepted": "Hydrobates leucorhous"
  },
  "wikidata": {
   "id": "Q211986"
@@ -18,29 +18,90 @@
   "url": "https://da.wikipedia.org/wiki/Stor_stormsvale"
  },
  "inat": {
-  "id": 4080,
-  "observations": 0
+  "id": 1289622,
+  "observations": 1943
  },
  "photos": {
   "male": [],
   "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "juvenile": [
+   {
+    "id": 408321915,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/408321915/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/408321915/large.jpeg",
+    "attribution": "(c) Colton Veltkamp, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/229994406",
+    "place": "Oregon Islands National Wildlife Refuge, OR, US",
+    "date": "2024-07-16"
+   },
+   {
+    "id": 91640291,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91640291/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/91640291/large.jpg",
+    "attribution": "(c) shrike2, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/57451621",
+    "place": "Seal Cove, CA, US",
+    "date": "2020-08-19"
+   },
+   {
+    "id": 53050872,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53050872/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/53050872/large.jpg",
+    "attribution": "(c) safb, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33756395",
+    "place": "Barrington, NS, CA",
+    "date": "2019-09-21"
+   }
+  ],
+  "adult": [
+   {
+    "id": 429732108,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/429732108/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/429732108/large.jpeg",
+    "attribution": "(c) seabirder, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/241145482",
+    "place": "Benwee, Kilcummin, Co. Mayo, Ireland",
+    "date": "2024-09-11"
+   },
+   {
+    "id": 60591793,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60591793/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/60591793/large.jpeg",
+    "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/38149739",
+    "place": "North Atlantic",
+    "date": "2011-10-05"
+   },
+   {
+    "id": 28910856,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28910856/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28910856/large.jpg",
+    "attribution": "(c) Gonzalo Mucientes Sandoval, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/18869090",
+    "place": "North Atlantic",
+    "date": "2005-11-05"
+   }
+  ],
   "hero": {
-   "id": 23841205,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/23841205/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/23841205/large.jpeg",
-   "attribution": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey",
+   "id": 97169797,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97169797/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/97169797/large.jpg",
+   "attribution": "(c) pleasantbaymac, some rights reserved (CC BY-NC), uploaded by pleasantbaymac",
    "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/23841205",
+   "source": "https://www.inaturalist.org/photos/97169797",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2482012,
-  "dkTotal": 2174,
+  "dkTotal": 2179,
   "dkMonths": [
    21,
    3,
@@ -51,11 +112,11 @@
    5,
    6,
    959,
-   885,
+   890,
    205,
    75
   ],
-  "worldTotal": 86718,
+  "worldTotal": 86726,
   "topCountries": [
    {
     "code": "US",
@@ -67,7 +128,7 @@
    },
    {
     "code": "GB",
-    "count": 5554
+    "count": 5555
    },
    {
     "code": "SE",
@@ -79,11 +140,11 @@
    },
    {
     "code": "DK",
-    "count": 2174
+    "count": 2179
    },
    {
     "code": "ES",
-    "count": 1765
+    "count": 1766
    },
    {
     "code": "BE",
@@ -107,9 +168,23 @@
    }
   ]
  },
- "sound": null,
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/663893/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Simon S. Christiansen",
+  "page": "https://xeno-canto.org/663893",
+  "type": "song",
+  "via": "xeno-canto"
+ },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Hydrobatidae",

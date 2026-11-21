@@ -2,11 +2,11 @@
  "key": "zapornia-pusilla",
  "name": "Zapornia pusilla",
  "region": "dk",
- "fetchedAt": "2026-11-20T13:50:04.070Z",
+ "fetchedAt": "2026-11-21T10:34:53.339Z",
  "names": {
   "da": "Dværgrørvagtel",
   "en": "Baillon's crake",
-  "accepted": "Porzana pusilla"
+  "accepted": "Zapornia pusilla"
  },
  "wikidata": {
   "id": "Q237670"
@@ -18,15 +18,106 @@
   "url": "https://en.wikipedia.org/wiki/Baillon's_crake"
  },
  "inat": {
-  "id": 170,
-  "observations": 0
+  "id": 508920,
+  "observations": 1929
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 266770267,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266770267/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266770267/large.jpg",
+    "attribution": "(c) Sam Gordon, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/154393575",
+    "place": "Adelaide SA, Australia",
+    "date": "2021-11-16"
+   },
+   {
+    "id": 762575255,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/762575255/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/762575255/large.jpg",
+    "attribution": "(c) Raphael, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/414255134",
+    "place": "49448 Hüde, Deutschland",
+    "date": "2026-06-08"
+   },
+   {
+    "id": 219211347,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219211347/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/219211347/large.jpeg",
+    "attribution": "(c) Olivier Benoist, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/129023475",
+    "place": "Saint-Quentin-en-Tourmont, France",
+    "date": "2022-08-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 54052442,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54052442/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54052442/large.jpg",
+    "attribution": "(c) Mark Dennis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34351416",
+    "place": "Werribee Water Treatment Plant, Point Wilson VIC 3212, Australia",
+    "date": "2018-09-25"
+   },
+   {
+    "id": 266962705,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266962705/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266962705/large.jpg",
+    "attribution": "(c) Sam Gordon, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/154500757",
+    "place": "Adelaide SA, Australia",
+    "date": "2017-09-10"
+   },
+   {
+    "id": 266820681,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266820681/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/266820681/large.jpg",
+    "attribution": "(c) Sam Gordon, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/154422032",
+    "place": "Mount Barker SA 5251, Australia",
+    "date": "2018-10-28"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 132353353,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/132353353/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/132353353/large.jpg",
+    "attribution": "(c) Peter Vos, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/80739155",
+    "place": "Port Edward, South Africa",
+    "date": "2021-05-28"
+   },
+   {
+    "id": 674853066,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/674853066/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/674853066/large.jpg",
+    "attribution": "(c) Oliver Brockmann, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/369453460",
+    "place": "Bremen-Ost, 28 Bremen-Oberneuland, Deutschland",
+    "date": "2016-07-21"
+   },
+   {
+    "id": 581816644,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/581816644/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/581816644/large.jpg",
+    "attribution": "(c) Luís Reino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/321695287",
+    "place": "Vila Nova de Gaia, Portugal",
+    "date": "2025-10-18"
+   }
+  ],
   "hero": {
    "id": 1834885,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1834885/medium.jpg",
@@ -107,9 +198,23 @@
    }
   ]
  },
- "sound": null,
+ "sound": {
+  "src": [
+   {
+    "u": "https://xeno-canto.org/1185102/download",
+    "type": "audio/mpeg"
+   }
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "artist": "Sébastien Reeber",
+  "page": "https://xeno-canto.org/1185102",
+  "type": "song",
+  "via": "xeno-canto"
+ },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Rallidae",

@@ -2,11 +2,11 @@
  "key": "troglodytes-troglodytes",
  "name": "Troglodytes troglodytes",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:55:53.973Z",
+ "fetchedAt": "2026-11-21T10:33:54.651Z",
  "names": {
   "da": "Gærdesmutte",
   "en": null,
-  "accepted": "Troglodytes troglodytes"
+  "accepted": "Nannus troglodytes"
  },
  "wikidata": {
   "id": "Q25740"
@@ -18,111 +18,190 @@
   "url": "https://da.wikipedia.org/wiki/G%C3%A6rdesmutte"
  },
  "inat": {
-  "id": 145363,
-  "observations": 57
+  "id": 1720028,
+  "observations": 62244
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 123587450,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/large.jpg",
+    "attribution": "(c) William Stephens, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/75531686",
+    "place": "Milton Keynes, England, United Kingdom",
+    "date": "2021-04-28"
+   },
+   {
+    "id": 180071249,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/180071249/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/180071249/large.jpeg",
+    "attribution": "(c) Daniel Raposo, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/107104555",
+    "place": "Corroios, Portugal",
+    "date": "2022-02-17"
+   },
+   {
+    "id": 177439349,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177439349/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/177439349/large.jpg",
+    "attribution": "(c) Alexis Lours, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/105716218",
+    "place": "Jules César, 95130 Franconville, France",
+    "date": "2022-01-28"
+   }
+  ],
+  "female": [
+   {
+    "id": 598819297,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/598819297/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/598819297/large.jpg",
+    "attribution": "(c) David Barros Cardona, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/330254289",
+    "place": "Cádiz, España",
+    "date": "2015-04-23"
+   },
+   {
+    "id": 484480521,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/484480521/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/484480521/large.jpeg",
+    "attribution": "(c) Pablo de la Fuente Brun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/269451767",
+    "place": "Madrid, Spain",
+    "date": "2025-04-08"
+   },
+   {
+    "id": 54244958,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244958/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/54244958/large.jpg",
+    "attribution": "(c) pelagicgraf, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/34463942",
+    "place": "Helgoland, Deutschland",
+    "date": "2019-10-03"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 544392527,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/544392527/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/544392527/large.jpg",
+    "attribution": "(c) Эдуард, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/302082774",
+    "place": "Ленинский р-н, Владимир, Владимирская обл., Россия",
+    "date": "2025-07-29"
+   },
+   {
+    "id": 45665152,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45665152/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/45665152/large.jpg",
+    "attribution": "(c) orcana, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/29266010",
+    "place": "Naturpark Lauenburgische Seen, Mölln, Schleswig-Holstein, DE",
+    "date": "2019-07-21"
+   },
+   {
+    "id": 668226611,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/668226611/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/668226611/large.jpg",
+    "attribution": "(c) lvenny, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365972972",
+    "place": "Molland Lane, Canterbury, England, GB",
+    "date": "2026-05-28"
+   }
+  ],
   "hero": {
-   "id": 447128005,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/447128005/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/447128005/large.jpg",
-   "attribution": "(c) Samuel Beyertt, einige Rechte vorbehalten (CC BY-NC), hochgeladen von Samuel Beyertt",
-   "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/447128005",
+   "id": 123587461,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587461/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/123587461/large.jpg",
+   "attribution": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/123587461",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 5231438,
-  "dkTotal": 462581,
+  "dkTotal": 463915,
   "dkMonths": [
-   36842,
-   29879,
-   53555,
-   68004,
-   55394,
-   39284,
-   30308,
-   19267,
-   22708,
-   43949,
-   35106,
-   28205
+   36847,
+   29890,
+   53599,
+   68060,
+   55425,
+   39327,
+   30468,
+   19424,
+   22758,
+   44076,
+   35737,
+   28224
   ],
-  "worldTotal": 6511715,
+  "worldTotal": 6515722,
   "topCountries": [
    {
     "code": "GB",
-    "count": 1314259
+    "count": 1314660
    },
    {
     "code": "SE",
-    "count": 899224
+    "count": 900458
    },
    {
     "code": "FR",
-    "count": 789984
+    "count": 790076
    },
    {
     "code": "NL",
-    "count": 688849
+    "count": 688875
    },
    {
     "code": "DK",
-    "count": 462581
+    "count": 463915
    },
    {
     "code": "DE",
-    "count": 378753
+    "count": 378906
    },
    {
     "code": "ES",
-    "count": 329200
+    "count": 329241
    },
    {
     "code": "BE",
-    "count": 322398
+    "count": 322414
    },
    {
     "code": "NO",
-    "count": 303924
+    "count": 303934
    },
    {
     "code": "CH",
-    "count": 260675
+    "count": 260686
    },
    {
     "code": "PT",
-    "count": 153818
+    "count": 153844
    },
    {
     "code": "IT",
-    "count": 76699
+    "count": 76737
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/1151575/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Sunny Tseng",
-  "page": "https://xeno-canto.org/1151575",
-  "type": "song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Troglodytidae",

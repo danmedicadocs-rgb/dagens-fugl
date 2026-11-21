@@ -2,11 +2,11 @@
  "key": "emberiza-aureola",
  "name": "Emberiza aureola",
  "region": "dk",
- "fetchedAt": "2026-11-20T14:01:42.401Z",
+ "fetchedAt": "2026-11-21T10:35:35.235Z",
  "names": {
   "da": "Gulbrystet værling",
   "en": "Yellow-breasted Bunting",
-  "accepted": "Emberiza aureola"
+  "accepted": "Schoeniclus aureolus"
  },
  "wikidata": {
   "id": "Q335535"
@@ -18,15 +18,106 @@
   "url": "https://da.wikipedia.org/wiki/Gulbrystet_v%C3%A6rling"
  },
  "inat": {
-  "id": 9212,
-  "observations": 0
+  "id": 1720533,
+  "observations": 2497
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 313088228,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313088228/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313088228/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179796607",
+    "place": "Kirov, RU",
+    "date": "2023-07-04"
+   },
+   {
+    "id": 52756672,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52756672/medium.png",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/52756672/large.png",
+    "attribution": "(c) svetlanaagafonova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/33583371",
+    "place": "Altay, RU",
+    "date": "2019-06-01"
+   },
+   {
+    "id": 334951016,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334951016/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/334951016/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190994567",
+    "place": "Syktyvdinskiy rayon, RU-KO, RU",
+    "date": "2023-05-31"
+   }
+  ],
+  "female": [
+   {
+    "id": 50580122,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50580122/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/50580122/large.jpg",
+    "attribution": "(c) Ольга Курякова, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/32258601",
+    "place": "Mil'kovskiy rayon, RU-KQ, RU",
+    "date": "2014-07-26"
+   },
+   {
+    "id": 307678826,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/307678826/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/307678826/large.jpg",
+    "attribution": "(c) Татьяна, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/176939771",
+    "place": "Berezovskiy rayon, RU-KX, RU",
+    "date": "2023-08-06"
+   },
+   {
+    "id": 313125555,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/313125555/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/313125555/large.jpg",
+    "attribution": "(c) vyatka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/179818240",
+    "place": "Kirov, RU",
+    "date": "2023-07-04"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 333976685,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/333976685/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/333976685/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/190503773",
+    "place": "Syktyvdinskiy rayon, RU-KO, RU",
+    "date": "2023-07-30"
+   },
+   {
+    "id": 707103129,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/707103129/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/707103129/large.jpg",
+    "attribution": "(c) Лида Онищенко, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/386204207",
+    "place": "Syktyvdinskiy rayon, RU-KO, RU",
+    "date": "2026-07-23"
+   },
+   {
+    "id": 38227889,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38227889/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/38227889/large.jpg",
+    "attribution": "(c) 張智偉(Chang, Jack, Chih-Wei), some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/24719254",
+    "place": "Fujian, TW",
+    "date": "2019-04-27"
+   }
+  ],
   "hero": {
    "id": 57723251,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57723251/medium.jpg",
@@ -110,6 +201,7 @@
  "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

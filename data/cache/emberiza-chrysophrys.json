@@ -2,11 +2,11 @@
  "key": "emberiza-chrysophrys",
  "name": "Emberiza chrysophrys",
  "region": "dk",
- "fetchedAt": "2026-11-20T14:01:34.900Z",
+ "fetchedAt": "2026-11-21T10:35:24.396Z",
  "names": {
   "da": "Gulbrynet Værling",
   "en": "Yellow-browed Bunting",
-  "accepted": "Emberiza chrysophrys"
+  "accepted": "Schoeniclus chrysophrys"
  },
  "wikidata": {
   "id": "Q589548"
@@ -18,22 +18,82 @@
   "url": "https://en.wikipedia.org/wiki/Yellow-browed_bunting"
  },
  "inat": {
-  "id": 9187,
-  "observations": 0
+  "id": 1720339,
+  "observations": 925
  },
  "photos": {
-  "male": [],
-  "female": [],
+  "male": [
+   {
+    "id": 673225745,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/673225745/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/673225745/large.jpg",
+    "attribution": "(c) naturalisttt, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/368546562",
+    "place": "Якутск, Респ. Саха (Якутия), Россия, 677015",
+    "date": "2026-06-05"
+   },
+   {
+    "id": 643666894,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/643666894/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/643666894/large.jpg",
+    "attribution": "(c) Liu Wai Sing, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/352703096",
+    "place": "中国山东省青岛市即墨区",
+    "date": "2026-04-24"
+   },
+   {
+    "id": 746360162,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/746360162/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/746360162/large.jpg",
+    "attribution": "(c) Baixun Xun, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/406254629",
+    "place": "中国山东省青岛市市南区",
+    "date": "2026-10-06"
+   }
+  ],
+  "female": [
+   {
+    "id": 495201257,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/495201257/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/495201257/large.jpg",
+    "attribution": "(c) Liu Wai Sing, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/275652739",
+    "place": "中国山东省青岛市即墨区",
+    "date": "2025-04-26"
+   },
+   {
+    "id": 656422421,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/656422421/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/656422421/large.jpg",
+    "attribution": "(c) nar_scol, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/359758860",
+    "place": "日本、〒998-0281 山形県酒田市飛島",
+    "date": "2026-05-04"
+   },
+   {
+    "id": 630861265,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/630861265/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/630861265/large.jpg",
+    "attribution": "(c) Yuxuan Liu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/346116688",
+    "place": "中国浙江省舟山市嵊泗县小洋山岛仰天盘",
+    "date": "2021-10-06"
+   }
+  ],
   "juvenile": [],
-  "adult": [],
-  "general": [],
   "hero": {
-   "id": 26834054,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26834054/medium.jpeg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/26834054/large.jpeg",
-   "attribution": "(c) Amaël Borzée, some rights reserved (CC BY-NC), uploaded by Amaël Borzée",
-   "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/26834054",
+   "id": 2781641,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2781641/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2781641/large.jpg",
+   "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae",
+   "license": "cc-by",
+   "source": "https://www.inaturalist.org/photos/2781641",
    "place": null,
    "date": null
   }
@@ -107,22 +167,10 @@
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/1148206/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-ND 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "artist": "Lim Ying Hien 林勇贤",
-  "page": "https://xeno-canto.org/1148206",
-  "type": "song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

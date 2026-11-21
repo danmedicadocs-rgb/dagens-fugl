@@ -2,7 +2,7 @@
  "key": "bubulcus-ibis",
  "name": "Bubulcus ibis",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:37:07.027Z",
+ "fetchedAt": "2026-11-21T10:32:35.387Z",
  "names": {
   "da": "Kohejre",
   "en": null,
@@ -31,74 +31,75 @@
    530,
    351
   ],
-  "worldTotal": 3379592,
+  "worldTotal": 3379903,
   "topCountries": [
    {
     "code": "US",
-    "count": 1143581
+    "count": 1143679
    },
    {
     "code": "ES",
-    "count": 295453
+    "count": 295470
    },
    {
     "code": "ZA",
-    "count": 292370
+    "count": 292403
    },
    {
     "code": "CO",
-    "count": 174691
+    "count": 174696
    },
    {
     "code": "FR",
-    "count": 145636
+    "count": 145652
    },
    {
     "code": "CR",
-    "count": 109410
+    "count": 109417
    },
    {
     "code": "AU",
-    "count": 102545
+    "count": 102546
    },
    {
     "code": "MX",
-    "count": 93699
+    "count": 93709
    },
    {
     "code": "PT",
-    "count": 90638
+    "count": 90651
    },
    {
     "code": "NL",
-    "count": 65244
+    "count": 65247
    },
    {
     "code": "IL",
-    "count": 60886
+    "count": 60893
    },
    {
     "code": "BR",
-    "count": 60064
+    "count": 60073
    }
   ]
  },
  "sound": {
   "src": [
    {
-    "u": "https://xeno-canto.org/1172496/download",
+    "u": "https://xeno-canto.org/1046140/download",
     "type": "audio/mpeg"
    }
   ],
   "license": "CC BY-NC-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Paul Coiffard",
-  "page": "https://xeno-canto.org/1172496",
-  "type": "nocturnal flight call",
+  "artist": "Lionel FREDERIC",
+  "page": "https://xeno-canto.org/1046140",
+  "type": "flight call, nocturnal flight call",
   "via": "xeno-canto"
  },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Ardeidae",

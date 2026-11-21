@@ -2,7 +2,7 @@
  "key": "acanthis-cabaret",
  "name": "Acanthis cabaret",
  "region": "dk",
- "fetchedAt": "2026-11-17T20:00:34.268Z",
+ "fetchedAt": "2026-11-21T10:33:56.112Z",
  "names": {
   "da": "Lille gråsisken",
   "en": null,
@@ -14,7 +14,7 @@
  "photos": null,
  "gbif": {
   "key": 8732478,
-  "dkTotal": 32760,
+  "dkTotal": 32764,
   "dkMonths": [
    968,
    887,
@@ -25,11 +25,11 @@
    4240,
    1843,
    1285,
-   1576,
-   864,
+   1578,
+   866,
    519
   ],
-  "worldTotal": 262959,
+  "worldTotal": 263261,
   "topCountries": [
    {
     "code": "NO",
@@ -37,15 +37,15 @@
    },
    {
     "code": "SE",
-    "count": 61445
+    "count": 61729
    },
    {
     "code": "GB",
-    "count": 35380
+    "count": 35382
    },
    {
     "code": "DK",
-    "count": 32760
+    "count": 32764
    },
    {
     "code": "CH",
@@ -57,11 +57,11 @@
    },
    {
     "code": "IE",
-    "count": 8088
+    "count": 8090
    },
    {
     "code": "BE",
-    "count": 6772
+    "count": 6773
    },
    {
     "code": "FI",
@@ -69,7 +69,7 @@
    },
    {
     "code": "FR",
-    "count": 3993
+    "count": 3994
    },
    {
     "code": "NZ",
@@ -77,7 +77,7 @@
    },
    {
     "code": "DE",
-    "count": 897
+    "count": 899
    }
   ]
  },
@@ -97,6 +97,7 @@
  },
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Fringillidae",

@@ -2,11 +2,11 @@
  "key": "emberiza-rustica",
  "name": "Emberiza rustica",
  "region": "dk",
- "fetchedAt": "2026-11-17T20:02:19.348Z",
+ "fetchedAt": "2026-11-21T10:34:37.406Z",
  "names": {
   "da": "Pileværling",
   "en": "Rustic Bunting",
-  "accepted": "Emberiza rustica"
+  "accepted": "Schoeniclus rusticus"
  },
  "wikidata": {
   "id": "Q286809"
@@ -18,15 +18,106 @@
   "url": "https://da.wikipedia.org/wiki/Pilev%C3%A6rling"
  },
  "inat": {
-  "id": 9188,
-  "observations": 1
+  "id": 1081583,
+  "observations": 4800
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 370235102,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/370235102/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/370235102/large.jpg",
+    "attribution": "(c) Антон Виноградов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/209213492",
+    "place": "City of St. Petersburg, Sankt-Peterburg gorsovet, RU",
+    "date": "2024-04-25"
+   },
+   {
+    "id": 276974968,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/276974968/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/276974968/large.jpg",
+    "attribution": "(c) Xenia Stad, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/160285257",
+    "place": "Svobodnenskiy rayon, RU-AM, RU",
+    "date": "2023-05-07"
+   },
+   {
+    "id": 274977647,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/274977647/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/274977647/large.jpg",
+    "attribution": "(c) Константин Самодуров, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/159159067",
+    "place": "Asinovskiy rayon, RU-TO, RU",
+    "date": "2023-05-01"
+   }
+  ],
+  "female": [
+   {
+    "id": 600449544,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600449544/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/600449544/large.jpg",
+    "attribution": "(c) Ariel Cabrera Foix, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "source": "https://www.inaturalist.org/observations/331046106",
+    "place": "Maeguchi, Kusatsu, Agatsuma District, Gunma 377-1712, Japan",
+    "date": "2025-11-07"
+   },
+   {
+    "id": 563492907,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563492907/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/563492907/large.jpg",
+    "attribution": "(c) Markus Lampinen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/312119512",
+    "place": "Luvian Saaristo, Luvia, Satakunta, FI",
+    "date": "2025-09-07"
+   },
+   {
+    "id": 666621709,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/666621709/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/666621709/large.jpg",
+    "attribution": "(c) Zorkii_XM, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/365136229",
+    "place": "Khanty-Mansiyskiy rayon, RU-KM, RU",
+    "date": "2026-05-11"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 84000011,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84000011/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/84000011/large.jpeg",
+    "attribution": "(c) Liudmila Abramova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/52833747",
+    "place": "Lodeynopol'skiy rayon, RU-LN, RU",
+    "date": "2018-06-27"
+   },
+   {
+    "id": 650672116,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/650672116/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/650672116/large.jpg",
+    "attribution": "(c) Антон Виноградов, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/356785653",
+    "place": "Tver', RU",
+    "date": "2024-08-10"
+   },
+   {
+    "id": 74570240,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74570240/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/74570240/large.jpeg",
+    "attribution": "(c) Jarkko Peltoniemi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/47021258",
+    "place": "88900 Kuhmo, Suomi",
+    "date": "2018-08-27"
+   }
+  ],
   "hero": {
    "id": 684147649,
    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/684147649/medium.jpg",
@@ -55,35 +146,35 @@
    0,
    0
   ],
-  "worldTotal": 119465,
+  "worldTotal": 119643,
   "topCountries": [
    {
     "code": "FI",
-    "count": 41604
+    "count": 41606
    },
    {
     "code": "SE",
-    "count": 37352
+    "count": 37517
    },
    {
     "code": "KR",
-    "count": 10258
+    "count": 10259
    },
    {
     "code": "JP",
-    "count": 9537
+    "count": 9540
    },
    {
     "code": "CN",
-    "count": 7089
+    "count": 7092
    },
    {
     "code": "RU",
-    "count": 3565
+    "count": 3568
    },
    {
     "code": "NL",
-    "count": 1978
+    "count": 1979
    },
    {
     "code": "TW",
@@ -107,22 +198,10 @@
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/1188611/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Vilhelm Tafvelin",
-  "page": "https://xeno-canto.org/1188611",
-  "type": "song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Emberizidae",

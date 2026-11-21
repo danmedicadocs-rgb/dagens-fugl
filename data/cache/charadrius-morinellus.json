@@ -2,11 +2,11 @@
  "key": "charadrius-morinellus",
  "name": "Charadrius morinellus",
  "region": "dk",
- "fetchedAt": "2026-11-17T19:41:19.619Z",
+ "fetchedAt": "2026-11-21T10:33:20.756Z",
  "names": {
   "da": "Pomeransfugl",
   "en": "Eurasian Dotterel",
-  "accepted": "Charadrius morinellus"
+  "accepted": "Eudromias morinellus"
  },
  "wikidata": {
   "id": "Q202504"
@@ -18,29 +18,120 @@
   "url": "https://da.wikipedia.org/wiki/Pomeransfugl"
  },
  "inat": {
-  "id": 144486,
-  "observations": 2
+  "id": 4788,
+  "observations": 1347
  },
  "photos": {
-  "male": [],
-  "female": [],
-  "juvenile": [],
-  "adult": [],
-  "general": [],
+  "male": [
+   {
+    "id": 689690328,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/689690328/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/689690328/large.jpg",
+    "attribution": "(c) Edoardo Nardelli, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/377171816",
+    "place": "Kilpisjärvi, Lapland, FI",
+    "date": "2026-07-01"
+   },
+   {
+    "id": 2407498,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2407498/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2407498/large.jpg",
+    "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1965039",
+    "place": "Gulpen-Wittem, NL-LI, NL",
+    "date": "2011-04-30"
+   },
+   {
+    "id": 2407497,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2407497/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2407497/large.jpg",
+    "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/1965038",
+    "place": "Gulpen-Wittem, NL-LI, NL",
+    "date": "2011-04-30"
+   }
+  ],
+  "female": [
+   {
+    "id": 394746113,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394746113/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/394746113/large.jpeg",
+    "attribution": "(c) Jono, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/222822010",
+    "place": "9980 Berlevåg, Norway",
+    "date": "2024-06-15"
+   },
+   {
+    "id": 13775111,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13775111/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/13775111/large.jpg",
+    "attribution": "(c) Jeremy Barker, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/10015987",
+    "place": "Carn nan Gobhar, Beauly IV4 7LH, UK",
+    "date": "1999-07-15"
+   },
+   {
+    "id": 520990680,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/520990680/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/520990680/large.jpg",
+    "attribution": "(c) Echo Severs, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/289653675",
+    "place": "Aviemore PH22 1RB, UK",
+    "date": "2025-06-03"
+   }
+  ],
+  "juvenile": [
+   {
+    "id": 28080777,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080777/medium.jpg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080777/large.jpg",
+    "attribution": "(c) Вячеслав Юсупов, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/observations/18372222",
+    "place": "Кстовский р-н, Нижегородская обл., Россия",
+    "date": "2018-09-21"
+   },
+   {
+    "id": 326614087,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/326614087/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/326614087/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186843410",
+    "place": "Fraissinet-de-Lozère, 48220 Pont-de-Montvert-Sud-Mont-Lozère, France",
+    "date": "2023-09-06"
+   },
+   {
+    "id": 326614661,
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/326614661/medium.jpeg",
+    "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/326614661/large.jpeg",
+    "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "source": "https://www.inaturalist.org/observations/186843411",
+    "place": "Fraissinet-de-Lozère, 48220 Pont-de-Montvert-Sud-Mont-Lozère, France",
+    "date": "2023-09-06"
+   }
+  ],
   "hero": {
-   "id": 2407500,
-   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2407500/medium.jpg",
-   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/2407500/large.jpg",
+   "id": 1935751,
+   "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1935751/medium.jpg",
+   "large": "https://inaturalist-open-data.s3.amazonaws.com/photos/1935751/large.jpg",
    "attribution": "(c) Paul Cools, some rights reserved (CC BY-NC), uploaded by Paul Cools",
    "license": "cc-by-nc",
-   "source": "https://www.inaturalist.org/photos/2407500",
+   "source": "https://www.inaturalist.org/photos/1935751",
    "place": null,
    "date": null
   }
  },
  "gbif": {
   "key": 2480281,
-  "dkTotal": 8800,
+  "dkTotal": 8804,
   "dkMonths": [
    0,
    0,
@@ -49,13 +140,13 @@
    7013,
    73,
    26,
-   328,
-   374,
+   331,
+   375,
    74,
    0,
    0
   ],
-  "worldTotal": 89190,
+  "worldTotal": 89196,
   "topCountries": [
    {
     "code": "SE",
@@ -71,11 +162,11 @@
    },
    {
     "code": "DK",
-    "count": 8800
+    "count": 8804
    },
    {
     "code": "FR",
-    "count": 5020
+    "count": 5021
    },
    {
     "code": "GB",
@@ -99,7 +190,7 @@
    },
    {
     "code": "PT",
-    "count": 689
+    "count": 690
    },
    {
     "code": "IT",
@@ -107,22 +198,10 @@
    }
   ]
  },
- "sound": {
-  "src": [
-   {
-    "u": "https://xeno-canto.org/669010/download",
-    "type": "audio/mpeg"
-   }
-  ],
-  "license": "CC BY-NC-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "artist": "Stanislas Wroza",
-  "page": "https://xeno-canto.org/669010",
-  "type": "alarm call, call, flight call, song",
-  "via": "xeno-canto"
- },
+ "sound": null,
  "soundVersion": 2,
  "photoVersion": 3,
+ "refetchedFor": "2026-11-21",
  "warnings": [],
  "taxon": {
   "family": "Charadriidae",
