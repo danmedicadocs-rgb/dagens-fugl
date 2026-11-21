@@ -4,5 +4,17 @@
  "levested": "Kyster, fjorde og laguner.",
  "foede": "Fisk, som den fanger ved at dykke. Næbbet har små tænder, der holder fast på byttet.",
  "i_danmark": "Almindelig ynglefugl ved kysterne og på småøer. Om vinteren kommer mange fra nord og øst.",
- "skrevet": "2026-11-17"
+ "skrevet": "2026-11-21",
+ "kort_levested": "Kyster og fjorde",
+ "kort_foede": "Fisk",
+ "han": "Grønsort hoved med pjusket top, hvid halsring, plettet rustbrunt bryst og tyndt rødt næb.",
+ "hun": "Gråbrun med rustbrunt hoved og pjusket top. Det brune går uden skarp grænse over i den lyse hals.",
+ "ungfugl": "Ligner hunnen.",
+ "forveksling": [
+  {
+   "art": "mergus-merganser",
+   "kort": "Større, med skarp grænse på hunnens hals.",
+   "tekst": "Stor skallesluger er større. Hannen er hvid med laksefarvet skær og uden top, og hunnens brune hoved slutter skarpt mod den hvide strube."
+  }
+ ]
 }

@@ -4,5 +4,22 @@
  "levested": "Åbent land, kyster, byer og parker.",
  "foede": "Næsten alt: insekter, æg og unger, ådsler og affald. Den smider muslinger ned fra luften for at knuse dem.",
  "i_danmark": "Almindelig standfugl i det meste af landet. I Sønderjylland møder den den helt sorte sortkrage, og de to danner blandingspar.",
- "skrevet": "2026-11-17"
+ "skrevet": "2026-11-21",
+ "kort_levested": "Overalt i landskabet",
+ "kort_foede": "Altædende",
+ "han": "Kønnene er ens: grå krop og sort hoved, hals, vinger og hale.",
+ "hun": "Ligner hannen.",
+ "ungfugl": "Mattere i farverne og i begyndelsen med blågrå øjne.",
+ "forveksling": [
+  {
+   "art": "corvus-corone",
+   "kort": "Helt sort.",
+   "tekst": "Sortkragen er helt sort og ses mest i Sønderjylland, hvor den også kan danne krydsninger med gråkragen."
+  },
+  {
+   "art": "corvus-frugilegus",
+   "kort": "Helt sort med lys næbrod.",
+   "tekst": "Rågen er helt sort og har en lys, nøgen næbrod som voksen. Den lever i kolonier."
+  }
+ ]
 }

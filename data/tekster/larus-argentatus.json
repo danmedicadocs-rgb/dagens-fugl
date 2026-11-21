@@ -4,5 +4,22 @@
  "levested": "Kyster, havne, lossepladser og byer – den yngler også på flade tage.",
  "foede": "Fisk, muslinger, krabber og affald.",
  "i_danmark": "Almindelig ved kysterne hele året, men gået tilbage som ynglefugl.",
- "skrevet": "2026-11-17"
+ "skrevet": "2026-11-21",
+ "kort_levested": "Kyster, havne og byer",
+ "kort_foede": "Fisk, muslinger og affald",
+ "han": "Kønnene er ens: lysegrå ryg, sorte vingespidser med hvide pletter, gult næb med en rød plet og lyserøde ben. Om vinteren er hovedet brunstribet.",
+ "hun": "Ligner hannen, men er mindre.",
+ "ungfugl": "Brunspættet det første år. Den bliver gradvis grå og får først den voksne dragt efter fire år.",
+ "forveksling": [
+  {
+   "art": "larus-canus",
+   "kort": "Mindre, med tyndt næb uden rød plet.",
+   "tekst": "Stormmågen er tydeligt mindre og har et tyndt, gulgrønt næb uden rød plet og gulgrønne ben."
+  },
+  {
+   "art": "larus-fuscus",
+   "kort": "Mørkere ryg og gule ben.",
+   "tekst": "Sildemågen har mørkere grå til sortgrå ryg og gule ben."
+  }
+ ]
 }

@@ -4,5 +4,22 @@
  "levested": "Skove, haver og parker.",
  "foede": "Insekter og larver om sommeren, frø, nødder og fedt fra foderbrættet om vinteren.",
  "i_danmark": "En af de mest almindelige standfugle og en af dem, der oftest flytter ind i redekasser.",
- "skrevet": "2026-11-17"
+ "skrevet": "2026-11-21",
+ "kort_levested": "Haver, parker og skove",
+ "kort_foede": "Insekter og frø",
+ "han": "Sort hoved med hvide kinder, gult bryst og et bredt sort bånd ned midt på bugen.",
+ "hun": "Som hannen, men det sorte bånd på bugen er smallere og nogle gange afbrudt.",
+ "ungfugl": "Mattere farver og gullige kinder.",
+ "forveksling": [
+  {
+   "art": "periparus-ater",
+   "kort": "Mindre, med hvid nakkeplet og intet gult.",
+   "tekst": "Sortmejsen er mindre, har en hvid plet i nakken og mangler det gule bryst."
+  },
+  {
+   "art": "cyanistes-caeruleus",
+   "kort": "Blå isse og ingen sort bugstribe.",
+   "tekst": "Blåmejsen er mindre, har blå isse og mangler den sorte stribe ned ad bugen."
+  }
+ ]
 }

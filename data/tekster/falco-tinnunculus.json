@@ -4,5 +4,22 @@
  "levested": "Åbent land, vejkanter og byer – den yngler gerne i kirketårne og redekasser.",
  "foede": "Mest mus, men også store insekter og småfugle.",
  "i_danmark": "Almindelig ynglefugl. En del trækker mod syd om vinteren, mens andre bliver.",
- "skrevet": "2026-11-17"
+ "skrevet": "2026-11-21",
+ "kort_levested": "Åbent land",
+ "kort_foede": "Mus",
+ "han": "Blågråt hoved og blågrå hale med sort endebånd, rødbrun ryg med få sorte pletter.",
+ "hun": "Brun med tættere sorte pletter og en brun, tværbåndet hale.",
+ "ungfugl": "Ligner hunnen.",
+ "forveksling": [
+  {
+   "art": "falco-columbarius",
+   "kort": "Mindre og står ikke stille i luften.",
+   "tekst": "Dværgfalken er mindre og mere kompakt, flyver hurtigt og lavt og står ikke stille i luften som tårnfalken."
+  },
+  {
+   "art": "accipiter-nisus",
+   "kort": "Korte, brede vinger.",
+   "tekst": "Spurvehøgen har korte, brede vinger og lang hale, flyver med skiftevis vingeslag og glid og står ikke stille i luften."
+  }
+ ]
 }

@@ -4,5 +4,22 @@
  "levested": "Landsbyer og byer, hvor den bygger rede under udhæng og tagskæg.",
  "foede": "Flyvende insekter – den jager ofte højere oppe end landsvalen.",
  "i_danmark": "Sommergæst fra maj til september. Bygger en lukket rede af mudder med et lille indgangshul. Overvintrer i Afrika.",
- "skrevet": "2026-11-17"
+ "skrevet": "2026-11-21",
+ "kort_levested": "Byer og landsbyer",
+ "kort_foede": "Flyvende insekter",
+ "han": "Kønnene er ens: blåsort overside, hvid underside, hvid overgump og kort, kløftet hale.",
+ "hun": "Ligner hannen.",
+ "ungfugl": "Mattere og mere brunsort på oversiden.",
+ "forveksling": [
+  {
+   "art": "hirundo-rustica",
+   "kort": "Lange halespidser og rød strube.",
+   "tekst": "Landsvalen har rødbrun pande og strube, lange halespidser og ingen hvid overgump."
+  },
+  {
+   "art": "riparia-riparia",
+   "kort": "Brun overside og brystbånd.",
+   "tekst": "Digesvalen er brun på oversiden og har et brunt bånd over brystet."
+  }
+ ]
 }
