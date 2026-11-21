@@ -23,7 +23,7 @@ export function makeV2(h) {
   };
 
   // ---------- Sideskabelon ----------
-  function page({ title, description, canonical, body, jsonld, image, type = 'website', noindex = false, legacy = false }) {
+  function page({ title, description, canonical, body, jsonld, image, type = 'website', noindex = false, legacy = false, bodyClass = '' }) {
     return `<!doctype html>
 <html lang="da">
 <head>
@@ -49,7 +49,7 @@ ${legacy ? `<link rel="stylesheet" href="${url('style.css')}">\n` : ''}<link rel
 <link rel="stylesheet" href="${url('vendor/leaflet.css')}" media="print" onload="this.media='all'">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
-<body class="v2${legacy ? ' legacy' : ' v2s'}">
+<body class="v2${legacy ? ' legacy' : ' v2s'}${bodyClass ? ' ' + bodyClass : ''}">
 <a class="skip" href="#indhold">Spring til indhold</a>
 <header class="top"><div class="wrap top-in">
   <a class="brand" href="${url('')}"><span class="brand-mark"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M14 38c6-1 10-6 14-12 3-5 8-9 14-9 3 0 6 2 7 5l5 2-5 2c0 9-7 17-18 18-6 1-12-1-17-6z" fill="currentColor"/></svg></span>${esc(SITE_NAME)}</a>
@@ -252,7 +252,7 @@ ${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.m
     return `<section class="sec small" id="kilder"><h2>Kilder</h2><p>${links.join(' · ')}. Data hentet ${dateDa(d.fetchedAt)}. Se også <a href="${url('kilder/')}">kilder og licenser</a>. Ser du en fejl? <a href="${esc(mailto(`Dagens Fugl: ${displayName(d)}`, `Side: ${abs(`fugle/${d.slug}/`)}\n\n`))}">Skriv til os</a>.</p></section>`;
   }
 
-  function speciesPage(d, { byKey, family }) {
+  function speciesArticle(d, { byKey, family, headingTag = 'h1', kicker = '', crumbs = true }) {
     const name = displayName(d);
     const rare = d.region === 'dk' && (d.gbif?.dkTotal ?? 0) < 20;
     const tag = rare ? '<span class="tag rare">Sjælden gæst i Danmark</span>' : d.region === 'dk' ? '<span class="tag">Dansk fugl</span>' : '<span class="tag">Udenlandsk fugl</span>';
@@ -271,10 +271,10 @@ ${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.m
     ].filter(Boolean);
     const body = `<article class="species v2" data-key="${esc(d.key)}" data-region="${d.region}">
 <div class="wrap">
-  <nav class="crumbs" aria-label="Brødkrumme"><a href="${url('')}">Forside</a> › <a href="${url(sec[0])}">${sec[1]}</a> › ${esc(name)}</nav>
-  <header class="head">
+  ${crumbs ? `<nav class="crumbs" aria-label="Brødkrumme"><a href="${url('')}">Forside</a> › <a href="${url(sec[0])}">${sec[1]}</a> › ${esc(name)}</nav>` : ''}
+  <header class="head">${kicker}
     <div class="head-name">
-      <h1>${esc(name)}</h1>
+      <${headingTag} class="name">${esc(name)}</${headingTag}>
       <p class="names"><i>${esc(d.names.accepted)}</i>${d.names.da && d.names.en ? `<span>${esc(d.names.en)}</span>` : ''}${tag}</p>
       ${now ? `<p class="now now-${now.level}"><span class="dot" aria-hidden="true"></span><strong>${esc(now.text)}</strong>${now.more ? ` <span>${esc(now.more)}</span>` : ''}</p>` : ''}
     </div>
@@ -299,6 +299,12 @@ ${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.m
 </div>
 <div class="cta-bar" data-seen-bar hidden><button type="button" class="seen-btn" aria-pressed="false"><span class="ic-off">${I.eye}</span><span class="ic-on">${I.check}</span><span class="seen-label">Jeg har set den</span></button></div>
 </article>`;
+    return { body, faqs };
+  }
+
+  function speciesPage(d, opts) {
+    const name = displayName(d);
+    const { body, faqs } = speciesArticle(d, opts);
     const ld = speciesJsonLd(d, abs(`fugle/${d.slug}/`));
     if (faqs.length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) });
     return page({
@@ -331,5 +337,5 @@ ${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.m
     });
   }
 
-  return { speciesPage, minePage, statusDK, P, page };
+  return { speciesPage, speciesArticle, minePage, statusDK, P, page };
 }

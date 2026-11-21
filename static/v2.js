@@ -68,7 +68,7 @@
     // Fast knap nederst på mobil, når den store knap er ude af syne
     if (bar && 'IntersectionObserver' in window) {
       bar.hidden = false;
-      new IntersectionObserver(function (en) { bar.classList.toggle('show', !en[0].isIntersecting); }).observe(cta);
+      new IntersectionObserver(function (en) { bar.classList.toggle('show', !en[0].isIntersecting && !art.closest('[data-locked]')); }).observe(cta);
     }
   }
 

@@ -73,7 +73,7 @@ h3 { font-size: 1.1rem; font-weight: 600; margin: 0; }
 body.v2s .crumbs { font-size: 0.88rem; color: var(--muted); margin: 26px 0 18px; }
 body.v2s .crumbs a { color: var(--muted); }
 body.v2s .head { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px 40px; flex-wrap: wrap; margin-bottom: 26px; }
-body.v2s .head h1 { font-size: clamp(2.5rem, 7vw, 4rem); line-height: 1.02; letter-spacing: -0.02em; }
+body.v2s .head .name { font-size: clamp(2.5rem, 7vw, 4rem); line-height: 1.02; letter-spacing: -0.02em; }
 body.v2s .names { display: flex; align-items: center; gap: 8px 14px; flex-wrap: wrap; margin: 8px 0 0; font-size: 1.1rem; color: var(--muted); }
 body.v2s .names i { color: var(--text); }
 body.v2s .tag { font-size: 0.8rem; font-weight: 600; padding: 3px 12px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
@@ -291,3 +291,15 @@ body.v2s .mine-form .rm { margin-left: auto; background: none; border: none; col
 
 body.v2s main { max-width: none; padding: 0; margin: 0; }
 body.legacy .top-in, body.legacy .foot-in { max-width: var(--wrap); }
+
+/* Forsiden: quiz og dagens fugl i samme bredde */
+body.home main { max-width: 860px; margin: 0 auto; padding: 0 24px; }
+body.home .wrap { max-width: none; padding-left: 0; padding-right: 0; }
+body.home .quiz { max-width: none; }
+body.home .chips { margin-left: -24px; margin-right: -24px; }
+body.home .chips-in { padding-left: 24px; padding-right: 24px; }
+body.home .head .name { font-size: clamp(2.2rem, 6vw, 3.2rem); }
+body.home .kicker { margin: 0 0 4px; width: 100%; }
+body.home .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+body.home .pgrid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 640px) { body.home main { padding: 0 16px; } body.home .chips { margin-left: -16px; margin-right: -16px; } body.home .chips-in { padding-left: 16px; padding-right: 16px; } body.home .pgrid { grid-template-columns: minmax(0, 1fr); } }

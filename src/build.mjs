@@ -498,6 +498,11 @@ function main() {
     const list = d.taxon?.family ? byFamily.get(d.taxon.family) : byGenus.get(d.names.accepted.split(' ')[0]);
     return (list || []).filter((x) => x.region === d.region || d.region !== 'dk').sort((a, b) => (b.gbif?.dkTotal || 0) - (a.gbif?.dkTotal || 0));
   };
+  function homeDD(d) {
+    const dd = { ...d, photos: d.photos && Object.fromEntries(Object.entries(d.photos).map(([k, v]) => [k, Array.isArray(v) ? v.filter(keepPhoto) : keepPhoto(v) ? v : null])) };
+    if (dd.photos && !dd.photos.hero) dd.photos.hero = ['male', 'female', 'adult', 'general', 'juvenile'].map((k) => dd.photos[k]?.[0]).find(Boolean) || null;
+    return dd;
+  }
   for (const d of species) {
     const dd = { ...d, photos: d.photos && Object.fromEntries(Object.entries(d.photos).map(([k, v]) => [k, Array.isArray(v) ? v.filter(keepPhoto) : keepPhoto(v) ? v : null])) };
     if (dd.photos && !dd.photos.hero) dd.photos.hero = ['male', 'female', 'adult', 'general', 'juvenile'].map((k) => dd.photos[k]?.[0]).find(Boolean) || null;
@@ -562,8 +567,8 @@ function main() {
     const kicker = `<p class="kicker">Dagens fugl · <time datetime="${today}">${esc(capFirst(longDate(today)))}</time></p>`;
     homeBody = quizSection(todayBird, today, dayNo)
       + `<div id="reveal" data-locked data-nosnippet>`
-      + speciesBody(todayBird, { kicker, headingTag: 'h2' })
-      + `<aside class="more"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
+      + v2().speciesArticle(homeDD(todayBird), { byKey, family, headingTag: 'h2', kicker, crumbs: false }).body
+      + `<aside class="more wrap"><a class="button" href="${url(speciesUrl(todayBird))}">Fast link til ${esc(displayName(todayBird))}</a></aside>`
       + `</div>`
       + signupBox()
       + recentStrip(recent);
@@ -636,6 +641,7 @@ function main() {
   }
 
   write('index.html', page({
+    bodyClass: 'v2s home',
     title: `${SITE_NAME} – gæt dagens fugl`,
     description: 'Hver dag en ny fugl at gætte: lyt til stemmen, se et udsnit af billedet og få ledetråde. Bagefter kan du læse om fjerdragt, sæson og udbredelse.',
     canonical: abs(''),
