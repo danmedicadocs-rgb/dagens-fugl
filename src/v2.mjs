@@ -6,6 +6,7 @@ export function makeV2(h) {
   const { esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
     relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto, CF_BEACON, SIGNUP_URL } = h;
   const P = (p) => url(p);
+  const VER = Date.now().toString(36); // nyt filnavn ved hver bygning, så browsere ikke bruger gammel CSS/JS
   const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
   const dateDa = (iso) => new Intl.DateTimeFormat('da-DK', { day: 'numeric', month: 'short', year: 'numeric' }).format(new Date(iso));
 
@@ -45,7 +46,7 @@ ${image ? `<meta property="og:image" content="${esc(image)}">\n<meta name="twitt
 <link rel="icon" href="${url('favicon.svg')}" type="image/svg+xml">
 <link rel="preload" href="${url('fonts/fraunces.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${url('fonts/inter.woff2')}" as="font" type="font/woff2" crossorigin>
-${legacy ? `<link rel="stylesheet" href="${url('style.css')}">\n` : ''}<link rel="stylesheet" href="${url('v2.css')}">
+${legacy ? `<link rel="stylesheet" href="${url('style.css')}?v=${VER}">\n` : ''}<link rel="stylesheet" href="${url('v2.css')}?v=${VER}">
 <link rel="stylesheet" href="${url('vendor/leaflet.css')}" media="print" onload="this.media='all'">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ''}
 </head>
@@ -78,8 +79,8 @@ ${SIGNUP_URL ? `<section class="news" aria-labelledby="news-h"><div class="wrap 
 <dialog class="lightbox" aria-label="Billede i stor størrelse"><button type="button" class="lb-close" aria-label="Luk">×</button><img alt=""><p class="lb-caption"></p></dialog>
 <script>window.DF_BASE=${JSON.stringify(url('').replace(/\/$/, ''))};</script>
 <script src="${url('vendor/leaflet.js')}" defer></script>
-<script src="${url('app.js')}" defer></script>
-<script src="${url('v2.js')}" defer></script>
+<script src="${url('app.js')}?v=${VER}" defer></script>
+<script src="${url('v2.js')}?v=${VER}" defer></script>
 ${CF_BEACON ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(CF_BEACON)}"}'></script>` : ''}
 </body>
 </html>`;
