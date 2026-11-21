@@ -227,21 +227,30 @@ function whenSection(d) {
   <h2>Hvornår ses den i Danmark?</h2>
   <p class="big">${esc(seasonText(relMonths(g.dkMonths)))}</p>
   ${monthChart(g.dkMonths)}
-  <p class="muted">Baseret på ${nf.format(g.dkTotal)} registrerede fund i Danmark.</p>
+  <p class="muted">Baseret på ${nf.format(g.dkTotal)} registreringer fra Danmark i GBIF. Søjlerne er korrigeret for, at der generelt er flere fuglekiggere ude i nogle måneder end i andre.</p>
+  ${src}
+</section>`;
+  }
+  if (g.dkTotal > 0 && d.region !== 'dk') {
+    return `<section class="block" id="hvornaar">
+  <h2>Ses den i Danmark?</h2>
+  <p class="big">Den står ikke på Den danske liste.</p>
+  <p class="muted">Der er ${nf.format(g.dkTotal)} registreringer fra Danmark i GBIF. Den slags fund er typisk fugle, der er undsluppet fra fangenskab, og de tæller ikke som vilde fund.</p>
   ${src}
 </section>`;
   }
   if (g.dkTotal > 0) {
     return `<section class="block" id="hvornaar">
   <h2>Ses den i Danmark?</h2>
-  <p class="big">Den er en sjælden gæst – der er kun ${nf.format(g.dkTotal)} registrerede fund i Danmark.</p>
+  <p class="big">Den er en sjælden gæst – der er kun ${nf.format(g.dkTotal)} registreringer fra Danmark i GBIF.</p>
+  <p class="muted">Fund af sjældne arter skal som regel godkendes af DOF's Sjældenhedsudvalg (SU). Antallet her er registreringer i GBIF, ikke antal godkendte fund.</p>
   ${src}
 </section>`;
   }
   if (d.region === 'verden') {
     return `<section class="block" id="hvornaar">
   <h2>Ses den i Danmark?</h2>
-  <p class="big">Der er ingen registrerede fund af vildtlevende fugle i Danmark.</p>
+  <p class="big">Nej. Den står ikke på Den danske liste og er aldrig truffet som vildtlevende fugl i Danmark.</p>
   ${src}
 </section>`;
   }
@@ -314,7 +323,7 @@ function seasonNow(d) {
     if (share > 0) return { level: 'svag', text: `Sjælden i ${name}`, more: bestTxt.trim() };
     return { level: 'ingen', text: `Ses normalt ikke i ${name}`, more: bestTxt.trim() };
   }
-  if (d.region !== 'dk') return { level: 'ingen', text: g.dkTotal > 0 ? 'Ikke en dansk fugl – kun ganske få fund her' : 'Lever ikke i Danmark', more: '' };
+  if (d.region !== 'dk') return { level: 'ingen', text: g.dkTotal > 0 ? 'Ikke på Den danske liste – fund her er typisk undslupne fugle' : 'Aldrig truffet vildtlevende i Danmark', more: '' };
   if (g.dkTotal > 0) return { level: 'svag', text: 'Sjælden gæst i Danmark', more: '' };
   return null;
 }
@@ -337,7 +346,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
   const name = displayName(d);
   const alt = d.names.da && d.names.en ? `<span class="alt">${esc(d.names.en)}</span>` : '';
   const rare = d.region === 'dk' && (d.gbif?.dkTotal ?? 0) < 20;
-  const tag = rare ? '<span class="tag rare">Sjælden gæst i Danmark</span>' : d.region === 'dk' ? '<span class="tag">Ses i Danmark</span>' : '<span class="tag">Udenlandsk fugl</span>';
+  const tag = rare ? '<span class="tag rare">Sjælden gæst i Danmark</span>' : d.region === 'dk' ? '<span class="tag">Dansk fugl</span>' : '<span class="tag">Udenlandsk fugl</span>';
   const hero = d.photos?.hero ? figure(d.photos.hero, name, 'hero', true) : '';
   return `<article class="species" data-key="${esc(d.key)}" data-region="${d.region}">
   <header class="species-head">
@@ -366,7 +375,7 @@ function speciesBody(d, { headingTag = 'h1', kicker = '' } = {}) {
     d.gbif?.worldTotal && '<a href="#hvor">Hvor</a>',
     d.sound?.src?.length && '<a href="#lyd">Hør den</a>',
   ].filter(Boolean).join('')}</nav>
-  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark <span class="h2-via">via iNaturalist</span></h2><ol class="latest"></ol><p class="source">Live fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a> – fund som brugere har delt. Se også <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a>.</p></section>` : ''}
+  ${d.region === 'dk' ? `<section class="block small" id="seneste" data-latest="${esc(d.names.accepted)}" hidden><h2>Seneste fund i Danmark <span class="h2-via">via iNaturalist</span></h2><ol class="latest"></ol><p class="source">Live fra <a href="https://www.inaturalist.org/observations?taxon_name=${encodeURIComponent(d.names.accepted)}&place_id=any&swlat=54.5&swlng=8&nelat=57.8&nelng=15.2" rel="noopener" target="_blank">iNaturalist</a> – observationer delt af brugere. De er ikke nødvendigvis godkendt af DOF's Sjældenhedsudvalg. Se også <a href="https://dofbasen.dk" rel="noopener" target="_blank">DOFbasen</a>.</p></section>` : ''}
   ${soundSection(d)}
   ${aboutSection(d)}
   ${plumageSection(d)}
@@ -692,16 +701,16 @@ function main() {
   const dkCount = species.filter((d) => d.region === 'dk').length;
   write('fugle/index.html', page({
     title: `Alle fugle – ${species.length} danske og udenlandske arter | ${SITE_NAME}`,
-    description: `Oversigt over ${species.length} fuglearter: ${dkCount} der ses i Danmark og ${species.length - dkCount} udenlandske. Med billeder, kort og sæson for hver art.`,
+    description: `Oversigt over ${species.length} fuglearter: ${dkCount} danske (på Den danske liste) og ${species.length - dkCount} udenlandske. Med billeder, kort og sæson for hver art.`,
     canonical: abs('fugle/'),
     body: `<section class="listing">
   <h1>Alle fugle</h1>
-  <p class="lede">${species.length} arter – <a href="${url('fugle/danske/')}">${dkCount} der ses i Danmark</a> og <a href="${url('fugle/udenlandske/')}">${species.length - dkCount} fra resten af verden</a>. Se også <a href="${url('maaned/')}">hvilke fugle der ses måned for måned</a>.</p>
+  <p class="lede">${species.length} arter – <a href="${url('fugle/danske/')}">${dkCount} danske</a> og <a href="${url('fugle/udenlandske/')}">${species.length - dkCount} udenlandske</a>. Danske fugle er arter på Den danske liste. Se også <a href="${url('maaned/')}">hvilke fugle der ses måned for måned</a>.</p>
   <div class="filters" role="search">
     <input type="search" id="q" placeholder="Søg på dansk, engelsk eller latinsk navn" aria-label="Søg efter fugl">
     <div class="seg" role="group" aria-label="Vis">
       <button type="button" data-filter="all" aria-pressed="true">Alle</button>
-      <button type="button" data-filter="dk" aria-pressed="false">I Danmark</button>
+      <button type="button" data-filter="dk" aria-pressed="false">Danske</button>
       <button type="button" data-filter="verden" aria-pressed="false">Udenlandske</button>
     </div>
   </div>
@@ -732,19 +741,32 @@ function main() {
 
   // --- danske og udenlandske fugle (egne sider, så Google kan finde dem) ---
   for (const [slug, region, h1, intro] of [
-    ['danske', 'dk', 'Danske fugle', `Oversigt over ${dkCount} fuglearter, der kan ses i Danmark – fra almindelige havefugle til sjældne gæster. Klik på en fugl for billeder af fjerdragten, hvornår den ses, og kort over udbredelsen.`],
-    ['udenlandske', 'verden', 'Udenlandske fugle', `${species.length - dkCount} fugle fra resten af verden – fra Afrikas savanner til Sydamerikas regnskove og Antarktis. Klik på en fugl for billeder, beskrivelse og kort over hvor den lever.`],
+    ['danske', 'dk', 'Danske fugle', `Oversigt over ${dkCount} danske fuglearter – fra almindelige havefugle til sjældne gæster. Klik på en fugl for billeder af fjerdragten, hvornår den ses, og kort over udbredelsen.`],
+    ['udenlandske', 'verden', 'Udenlandske fugle', `${species.length - dkCount} udenlandske fuglearter – fra Afrikas savanner til Sydamerikas regnskove og Antarktis. Klik på en fugl for billeder, beskrivelse og kort over hvor den lever.`],
   ]) {
     const items = sorted.filter((d) => (region === 'dk' ? d.region === 'dk' : d.region !== 'dk'));
+    const def = region === 'dk' ? DEF_DANSKE(items) : DEF_UDENLANDSKE();
     write(`fugle/${slug}/index.html`, page({
       title: `${h1} – ${items.length} arter med billeder og kort | ${SITE_NAME}`,
       description: clip(intro, 158),
       canonical: abs(`fugle/${slug}/`),
       jsonld: listLd(h1, items),
-      body: `<section class="listing"><h1>${h1}</h1><p class="lede">${esc(intro)}</p><ul class="cards">${items.map((d) => card(d)).join('')}</ul></section>`,
+      body: `<section class="listing"><h1>${h1}</h1><p class="lede">${esc(intro)}</p>${def}<ul class="cards">${items.map((d) => card(d)).join('')}</ul></section>`,
     }));
     extraUrls.push({ loc: abs(`fugle/${slug}/`), freq: 'weekly' });
   }
+
+  function DEF_DANSKE(items) {
+    const rareN = items.filter((d) => (d.gbif?.dkTotal ?? 0) < 20).length;
+    return `<aside class="definition"><h2>Hvad er en dansk fugl her?</h2>
+<p>En art tæller som dansk på ${esc(SITE_NAME)}, når den står på <strong>Den danske liste</strong>. Det er Dansk Ornitologisk Forenings (DOF) officielle liste over fuglearter, der er truffet vildtlevende i Danmark, og den føres af DOF's Sjældenhedsudvalg (SU).</p>
+<p>Listen rummer ynglefugle, trækfugle, vintergæster og sjældne gæster. Den rummer også indførte arter, der har dannet faste, vilde bestande, fx fasan og canadagås. Fugle, der kun er set efter at være undsluppet fra fangenskab, er ikke med.</p>
+<p><strong>Sjælden gæst</strong> (${rareN} arter) betyder her, at arten har færre end 20 registreringer fra Danmark i GBIF. Det er en praktisk grænse for denne side og ikke DOF's definition af en SU-art.</p>
+<p class="muted">Navne og systematik følger iNaturalist og GBIF og kan afvige en smule fra DOF's navneliste.</p></aside>`;
+  }
+  function DEF_UDENLANDSKE() { return `<aside class="definition"><h2>Hvad er en udenlandsk fugl her?</h2>
+<p>En art tæller som udenlandsk på ${esc(SITE_NAME)}, når den <strong>ikke</strong> står på Den danske liste. Det vil sige, at den aldrig er godkendt som truffet vildtlevende i Danmark.</p>
+<p>Nogle få af arterne har alligevel registreringer fra Danmark i GBIF. Det er typisk fugle, der er undsluppet fra fangenskab, og de gør ikke arten dansk.</p></aside>`; }
 
   function listLd(name, items) {
     return {
@@ -770,7 +792,7 @@ function main() {
       return mo[m] === mx && mn < 0.3 * mx; // trækfugle/gæster med top netop denne måned
     });
     const name = MONTHS[m];
-    const intro = `${items.length} fugle, der ofte ses i Danmark i ${name}, baseret på registrerede fund fra GBIF. De mest almindelige står først.`;
+    const intro = `${items.length} fugle, der ofte ses i Danmark i ${name}, baseret på registreringer i GBIF og korrigeret for, hvor mange der er ude at kigge efter fugle i hver måned. De mest almindelige står først.`;
     monthLinks.push(`<li><a href="${url(`maaned/${MONTH_SLUGS[m]}/`)}">${capFirst(name)}</a> <span class="muted">(${items.length} arter)</span></li>`);
     write(`maaned/${MONTH_SLUGS[m]}/index.html`, page({
       title: `Fugle i ${name} – hvilke fugle kan man se i Danmark? | ${SITE_NAME}`,
@@ -898,15 +920,15 @@ ${CF_BEACON ? `<li><strong>Cloudflare Web Analytics</strong> (Cloudflare Inc., U
   const line = (d) => `- [${displayName(d)} (${d.names.accepted})](${abs(speciesUrl(d))})`;
   write('llms.txt', `# ${SITE_NAME}
 
-> ${SITE_NAME} er en dansk hjemmeside, der hver dag viser en ny fugl. Hver art har sin egen side med beskrivelse (fra Wikipedia), billeder af han, hun og ungfugl (fra iNaturalist, frie licenser), hvornår på året den ses i Danmark og kort over udbredelsen (fra GBIF). Siden dækker ${species.length} arter: ${dkCount} der ses i Danmark og ${species.length - dkCount} udenlandske.
+> ${SITE_NAME} er en dansk hjemmeside, der hver dag viser en ny fugl. Hver art har sin egen side med egne danske artstekster (med link til Wikipedia), billeder af han, hun og ungfugl (fra iNaturalist, frie licenser), hvornår på året den ses i Danmark og kort over udbredelsen (fra GBIF). Siden dækker ${species.length} arter: ${dkCount} danske (arter på DOF's Den danske liste) og ${species.length - dkCount} udenlandske (ikke på listen).
 
 Alt indhold er på dansk. Kilde og licens står ved hver tekst og hvert billede.
 
 ## Oversigter
 
 - [Dagens fugl](${abs('')}): forsiden skifter fugl hver dag ved midnat (dansk tid)
-- [Danske fugle](${abs('fugle/danske/')}): alle arter, der ses i Danmark
-- [Udenlandske fugle](${abs('fugle/udenlandske/')}): arter fra resten af verden
+- [Danske fugle](${abs('fugle/danske/')}): arter på DOF's Den danske liste
+- [Udenlandske fugle](${abs('fugle/udenlandske/')}): arter, der ikke står på Den danske liste
 - [Fugle måned for måned](${abs('maaned/')}): hvilke fugle der ses i Danmark i hver måned
 ${MONTH_SLUGS.map((m, i) => `- [Fugle i ${MONTHS[i]}](${abs(`maaned/${m}/`)})`).join('\n')}
 

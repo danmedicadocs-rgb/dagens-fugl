@@ -330,3 +330,6 @@ footer.site strong { font-family: var(--serif); color: var(--text); font-size: 1
 .latest strong { flex: none; width: 8.5em; font-weight: 600; }
 .latest span { color: var(--muted); }
 .h2-via { font-family: var(--sans); font-size: 0.9rem; font-weight: 500; color: var(--muted); letter-spacing: 0; }
+.definition { border-left: 3px solid var(--accent); padding: 0.2rem 0 0.2rem 1.1rem; margin: 1.5rem 0 2.5rem; max-width: 46rem; }
+.definition h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
+.definition p { margin: 0 0 0.6rem; }
