@@ -375,6 +375,28 @@ async function main() {
     } catch (e) { console.log(`    lyd ${sp.name}: ${e.message}`); }
   }
   if (noSound.length) console.log(`Lyd: tjekket ${noSound.length} arter, fundet lyd til ${found}.`);
+
+  // Taksonomi (familie og orden) fra GBIF – bruges til »Samme familie« på artssiderne. Ét kald pr. art.
+  const famDa = new Map();
+  const noTaxon = list.map((sp) => ({ sp, d: readCache(sp.key) })).filter(({ d }) => d && d.gbif?.key && !d.taxon);
+  for (const { sp, d } of noTaxon) {
+    try {
+      const t = await getJson(`https://api.gbif.org/v1/species/${d.gbif.key}`, { allow404: true });
+      if (!t) continue;
+      let da = null;
+      if (t.familyKey) {
+        if (!famDa.has(t.familyKey)) {
+          const v = await getJson(`https://api.gbif.org/v1/species/${t.familyKey}/vernacularNames?limit=100`, { allow404: true });
+          const hit = (v?.results || []).find((x) => x.language === 'dan');
+          famDa.set(t.familyKey, hit ? hit.vernacularName : null);
+        }
+        da = famDa.get(t.familyKey);
+      }
+      d.taxon = { family: t.family || null, familyKey: t.familyKey || null, familyDa: da ? da.charAt(0).toUpperCase() + da.slice(1) : null, order: t.order || null };
+      writeJson(cachePath(sp.key), d);
+    } catch (e) { console.log(`    taksonomi ${sp.name}: ${e.message}`); }
+  }
+  if (noTaxon.length) console.log(`Taksonomi: hentet for ${noTaxon.length} arter.`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

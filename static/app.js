@@ -165,14 +165,14 @@
       return next().then(function (res) {
         return res.filter(function (r) { return r.eventDate && r.locality; }).map(function (r) {
           var k = r.gadm && r.gadm.level2 && r.gadm.level2.name;
-          return { d: r.eventDate.slice(0, 10), place: r.locality + (k && k !== r.locality ? ' (' + k + ')' : ''), n: r.individualCount, src: 'DOFbasen', url: 'https://www.gbif.org/occurrence/' + r.key };
+          return { d: r.eventDate.slice(0, 10), place: r.locality + (k && k !== r.locality ? ' (' + k + ')' : ''), n: r.individualCount, src: 'DOFbasen', url: 'https://www.gbif.org/occurrence/' + r.key, lat: r.decimalLatitude, lon: r.decimalLongitude };
         });
       });
     };
     var inat = function () {
       return getj(INAT).then(function (d) {
         return (d.results || []).filter(function (o) { return o.observed_on && /denmark|danmark|\bdk\b/i.test(o.place_guess || ''); })
-          .map(function (o) { return { d: o.observed_on, place: String(o.place_guess || '').replace(/,?\s*(Denmark|Danmark|DK)\s*$/i, ''), n: null, src: 'iNaturalist', url: o.uri }; });
+          .map(function (o) { var c = o.geojson && o.geojson.coordinates; return { d: o.observed_on, place: String(o.place_guess || '').replace(/,?\s*(Denmark|Danmark|DK)\s*$/i, ''), n: null, src: 'iNaturalist', url: o.uri, lat: c && !o.obscured ? c[1] : null, lon: c && !o.obscured ? c[0] : null }; });
       });
     };
     var load = function () {
@@ -192,6 +192,11 @@
           a.appendChild(dt); a.appendChild(pl); a.appendChild(sr); li.appendChild(a); list.appendChild(li);
         });
         sec.hidden = false;
+        var pts = rows.filter(function (o) { return o.lat != null && o.lon != null; }).map(function (o) {
+          return { lat: o.lat, lon: o.lon, label: new Date(o.d + 'T12:00:00').toLocaleDateString('da-DK', { day: 'numeric', month: 'short' }) + ' · ' + o.place };
+        });
+        window.DF_FUND = pts;
+        document.dispatchEvent(new CustomEvent('df:fund', { detail: pts }));
       });
     };
     (window.requestIdleCallback || function (f) { setTimeout(f, 800); })(load);
@@ -375,7 +380,8 @@
     if (el.dataset.ready || !window.L) return;
     el.dataset.ready = '1';
     var dk = el.dataset.map === 'dk';
-    var dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var th = document.documentElement.dataset.theme;
+    var dark = th ? th === 'moerk' : window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
     var map = L.map(el, { scrollWheelZoom: false, worldCopyJump: !dk, attributionControl: true, minZoom: dk ? 5 : 1 });
     if (dk) map.fitBounds([[54.5, 7.9], [57.8, 15.3]]); else map.setView([25, 10], 1);
     L.tileLayer(dark ? GBIF_BASE_DARK : GBIF_BASE, {
@@ -386,6 +392,17 @@
       maxZoom: 12, opacity: 0.85,
       attribution: 'Fund: <a href="https://www.gbif.org/species/' + el.dataset.taxon + '">GBIF.org</a>',
     }).addTo(map);
+    // Prikker for de seneste fund (DOFbasen/iNaturalist), når listen er hentet
+    if (dk) {
+      var addPts = function (pts) {
+        var col = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#23573f';
+        pts.forEach(function (p) {
+          L.circleMarker([p.lat, p.lon], { radius: 6, color: '#ffffff', weight: 2, fillColor: col, fillOpacity: 1, className: 'fund-dot' })
+            .bindTooltip(p.label).addTo(map);
+        });
+      };
+      if (window.DF_FUND) addPts(window.DF_FUND); else document.addEventListener('df:fund', function (e) { addPts(e.detail); }, { once: true });
+    }
   }
 
   function setupMaps() {

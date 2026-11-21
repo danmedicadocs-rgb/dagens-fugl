@@ -9,6 +9,7 @@ import {
 import {
   SITE_NAME, SITE_URL, BASE_PATH, TIMEZONE, SCHEDULE_START, SCHEDULE_SEED, ALLOW_NONCOMMERCIAL,
 } from './config.mjs';
+import { makeV2 } from './v2.mjs';
 
 // Hvem står bag siden (vises på privatlivssiden). Sættes som repository variables i GitHub.
 const OWNER_NAME = process.env.OWNER_NAME || '';
@@ -207,12 +208,12 @@ function seasonText(months) {
   return `Den ses især i Danmark i ${joined}.`;
 }
 
-function monthChart(months) {
-  const max = Math.max(...months, 1);
+function monthChart(months, counts = months) {
+  const max = Math.max(...months) || 1;
   const W = 600; const H = 180; const pad = 24; const bw = (W - 8) / 12;
   const bars = months.map((v, i) => {
-    const h = Math.max(v > 0 ? 2 : 0, Math.round((v / max) * (H - pad - 10)));
-    return `<g><title>${capFirst(MONTHS[i])}: ${nf.format(v)} fund</title><rect x="${(4 + i * bw + 4).toFixed(1)}" y="${H - pad - h}" width="${(bw - 8).toFixed(1)}" height="${h}" rx="3" class="bar"/><text x="${(4 + i * bw + bw / 2).toFixed(1)}" y="${H - 6}" text-anchor="middle" class="axis">${MONTHS_SHORT[i]}</text></g>`;
+    const h = Math.max(counts[i] > 0 ? 2 : 0, Math.round((v / max) * (H - pad - 10)));
+    return `<g><title>${capFirst(MONTHS[i])}: ${nf.format(counts[i])} registreringer</title><rect x="${(4 + i * bw + 4).toFixed(1)}" y="${H - pad - h}" width="${(bw - 8).toFixed(1)}" height="${h}" rx="3" class="bar"/><text x="${(4 + i * bw + bw / 2).toFixed(1)}" y="${H - 6}" text-anchor="middle" class="axis">${MONTHS_SHORT[i]}</text></g>`;
   }).join('');
   return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Antal registrerede fund i Danmark pr. måned"><line x1="0" x2="${W}" y1="${H - pad}" y2="${H - pad}" class="baseline"/>${bars}</svg>`;
 }
@@ -226,7 +227,7 @@ function whenSection(d) {
     return `<section class="block" id="hvornaar">
   <h2>Hvornår ses den i Danmark?</h2>
   <p class="big">${esc(seasonText(relMonths(g.dkMonths)))}</p>
-  ${monthChart(g.dkMonths)}
+  ${monthChart(relMonths(g.dkMonths), g.dkMonths)}
   <p class="muted">Baseret på ${nf.format(g.dkTotal)} registreringer fra Danmark i GBIF. Søjlerne er korrigeret for, at der generelt er flere fuglekiggere ude i nogle måneder end i andre.</p>
   ${src}
 </section>`;
@@ -320,7 +321,7 @@ function seasonNow(d) {
     const bestTxt = best.length && best.length < 12 ? ` Bedst i ${rangeText(best)}.` : '';
     if (share >= 0.6) return { level: 'god', text: `Gode chancer i ${name}`, more: share === 1 ? 'Det er den måned, den ses mest.' : '' };
     if (share >= 0.25) return { level: 'mulig', text: `Kan ses i ${name}`, more: `Men ikke så ofte som på andre tider af året.${bestTxt}` };
-    if (share > 0) return { level: 'svag', text: `Sjælden i ${name}`, more: bestTxt.trim() };
+    if (share >= 0.05) return { level: 'svag', text: `Sjælden i ${name}`, more: bestTxt.trim() };
     return { level: 'ingen', text: `Ses normalt ikke i ${name}`, more: bestTxt.trim() };
   }
   if (d.region !== 'dk') return { level: 'ingen', text: g.dkTotal > 0 ? 'Ikke på Den danske liste – fund her er typisk undslupne fugle' : 'Aldrig truffet vildtlevende i Danmark', more: '' };
@@ -524,6 +525,25 @@ function main() {
     if (!byGenus.has(g)) byGenus.set(g, []);
     byGenus.get(g).push(d);
   }
+
+  // --- nyt design (v2) som preview under /preview/ – noindex, canonical peger på den rigtige side ---
+  const FRAVALGT = new Set(fs.existsSync(path.join(ROOT, 'data', 'fotos-fravalgt.txt'))
+    ? fs.readFileSync(path.join(ROOT, 'data', 'fotos-fravalgt.txt'), 'utf8').split('\n').map((l) => l.replace(/#.*/, '').trim()).filter(Boolean).map(Number) : []);
+  const keepPhoto = (ph) => ph && !FRAVALGT.has(ph.id);
+  const v2 = makeV2({ esc, url, abs, nf, SITE_NAME, MONTHS, MONTHS_SHORT, regionNames, displayName, size, srcset, credit,
+    relMonths, seasonText, rangeText, seasonNow, speciesJsonLd, metaDescription, mailto });
+  const byFamily = new Map();
+  for (const d of species) { const f = d.taxon?.family; if (f) { if (!byFamily.has(f)) byFamily.set(f, []); byFamily.get(f).push(d); } }
+  const family = (d) => {
+    const list = d.taxon?.family ? byFamily.get(d.taxon.family) : byGenus.get(d.names.accepted.split(' ')[0]);
+    return (list || []).filter((x) => x.region === d.region || d.region !== 'dk').sort((a, b) => (b.gbif?.dkTotal || 0) - (a.gbif?.dkTotal || 0));
+  };
+  for (const d of species) {
+    const dd = { ...d, photos: d.photos && Object.fromEntries(Object.entries(d.photos).map(([k, v]) => [k, Array.isArray(v) ? v.filter(keepPhoto) : keepPhoto(v) ? v : null])) };
+    if (dd.photos && !dd.photos.hero) dd.photos.hero = ['male', 'female', 'adult', 'general', 'juvenile'].map((k) => dd.photos[k]?.[0]).find(Boolean) || null;
+    write(`preview/${speciesUrl(d)}index.html`, v2.speciesPage(dd, { byKey, family }));
+  }
+  write('preview/mine/index.html', v2.minePage());
 
   // --- artssider ---
   for (const d of species) {
@@ -991,7 +1011,7 @@ ${yImg ? `<p style="margin:4px 0 0;font-size:11px;color:#69706b">Foto: ${esc(Str
     write('feed.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${esc(SITE_NAME)}</title><link>${abs('')}</link><description>En ny fugl at gætte hver dag.</description><language>da</language>${items.join('')}</channel></rss>\n`);
   }
 
-  write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${abs('sitemap.xml')}\n`);
+  write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /preview/\n\nSitemap: ${abs('sitemap.xml')}\n`);
   write('.nojekyll', '');
 
   console.log(`Bygget: ${species.length} artssider (${list.length - species.length} mangler stadig data). Dagens fugl ${today}: ${todayBird ? displayName(todayBird) : '–'}`);
